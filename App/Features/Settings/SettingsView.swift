@@ -1,6 +1,7 @@
 import SwiftUI
 import StoreKit
 import ReviewKit
+import KokenKit
 
 /// Ayarlar sekmesi: günlük bildirim tercihi, içerik durumu, kaynaklar ve
 /// hakkında. Bildirim burada yalnızca saklanır; planlamayı
@@ -18,8 +19,10 @@ struct SettingsView: View {
     private static let repositoryURL = URL(string: "https://github.com/solvyapp/kokce")!
 
     var body: some View {
-        NavigationStack {
+        @Bindable var model = model
+        return NavigationStack {
             Form {
+                wordOfDay(mode: $model.wordOfDayMode)
                 notifications
                 content
                 about
@@ -30,6 +33,25 @@ struct SettingsView: View {
             .tint(Theme.accent)
             .task(id: scheduleKey) { await applySchedule() }
         }
+    }
+
+    /// Günün kelimesi havuzu. Üç seçenek satır satır listelenir: büyük yazı
+    /// boylarında segment denetimi yazıyı kırpıyordu.
+    private func wordOfDay(mode: Binding<WordOfDayMode>) -> some View {
+        Section {
+            Picker("settings.wordOfDay", selection: mode) {
+                Text("settings.mode.mixed").tag(WordOfDayMode.mixed)
+                Text("settings.mode.everyday").tag(WordOfDayMode.everyday)
+                Text("settings.mode.rare").tag(WordOfDayMode.rare)
+            }
+            .pickerStyle(.inline)
+            .labelsHidden()
+        } header: {
+            Text("settings.wordOfDay")
+        } footer: {
+            Text("settings.mode.footer")
+        }
+        .listRowBackground(Theme.parchmentDeep)
     }
 
     private var notifications: some View {

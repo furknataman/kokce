@@ -49,6 +49,15 @@ final class AppModel {
     private(set) var favoriteIDs: Set<String> = []
     /// Uzak katalogun son yoklanma zamanı; Ayarlar ekranı gösterir.
     private(set) var lastCheckedAt: Date?
+    /// Günün kelimesinin hangi havuzdan seçileceği. Uygulama yazar, widget
+    /// okur; ikisi de App Group'taki aynı anahtara bakar.
+    var wordOfDayMode: WordOfDayMode = .mixed {
+        didSet {
+            guard oldValue != wordOfDayMode else { return }
+            WordOfDayMode.save(wordOfDayMode)
+            WidgetCenter.shared.reloadAllTimelines()
+        }
+    }
     /// Katalog yüklenmeden gelen deep link'in kimliği. Soğuk açılışta
     /// `onOpenURL`, `load()` bitmeden gelebilir; kimlik atılmaz, burada bekler.
     private var pendingWordID: String?
@@ -57,11 +66,14 @@ final class AppModel {
         // Gömülü katalog her iki hedefin bundle'ındadır; yoksa uygulama
         // içeriksiz açılır ve kullanıcıya boş durum gösterilir.
         self.repository = repository ?? AppGroup.bundledCatalogURL().map { WordRepository(bundleURL: $0) }
+        // Özellik gözlemcileri init sırasında çalışmaz: kayıtlı kip okunurken
+        // geri yazma ve widget yenileme tetiklenmez.
+        self.wordOfDayMode = WordOfDayMode.current()
     }
 
     var todayWord: Word? {
         guard let catalog else { return nil }
-        return WordOfDay.word(for: today, in: catalog)
+        return WordOfDay.word(for: today, in: catalog, mode: wordOfDayMode)
     }
 
     var contentVersion: Int? { catalog?.contentVersion }

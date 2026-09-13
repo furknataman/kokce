@@ -465,6 +465,70 @@
         }
       }
     },
+    "settings.mode.everyday": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Everyday"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gündelik"
+          }
+        }
+      }
+    },
+    "settings.mode.footer": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The daily word and the widget are drawn from this pool."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Her günün kelimesi ve widget bu havuzdan seçilir."
+          }
+        }
+      }
+    },
+    "settings.mode.mixed": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mixed"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Karışık"
+          }
+        }
+      }
+    },
+    "settings.mode.rare": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lesser known"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az bilinen"
+          }
+        }
+      }
+    },
     "settings.notifications": {
       "localizations": {
         "en": {
@@ -577,18 +641,34 @@
         }
       }
     },
-    "share.format": {
+    "settings.wordOfDay": {
       "localizations": {
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "%1$@ — %2$@\nOrigin: %3$@\n\n#Köken"
+            "value": "Word of the day"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "%1$@ — %2$@\nKöken: %3$@\n\n#Köken"
+            "value": "Günün kelimesi"
+          }
+        }
+      }
+    },
+    "share.format": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ — %2$@\nOrigin: %3$@\n\n#Kökçe"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ — %2$@\nKöken: %3$@\n\n#Kökçe"
           }
         }
       }
@@ -598,13 +678,13 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "%1$@ — %2$@\n\n#Köken"
+            "value": "%1$@ — %2$@\n\n#Kökçe"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "%1$@ — %2$@\n\n#Köken"
+            "value": "%1$@ — %2$@\n\n#Kökçe"
           }
         }
       }
