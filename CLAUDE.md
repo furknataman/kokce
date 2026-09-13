@@ -90,3 +90,12 @@ String Catalogs. iOS 18+, iPhone. Hesap yok, sunucu yok; içerik yerelden okunur
   `nekahat`→`nekahet`, `ağu`→`ağı`, `stakato`→`staccato`; Kubbealtı kaynak olarak hatta yok.
 - EN arayüzde köken dili adları Türkçe (`languages` sözlüğü tek dilli).
 - ASC "Uygulama Gizliliği" beyanı yalnızca web'den girilir (veri toplanmıyor).
+
+### 1.1 için özellik fikirleri (kullanıcı, 13 Eylül 2026)
+- **Akraba kelimeler tıklanabilir:** `relatives` içindeki her kelime sözlükte madde olsun (eksikler
+  içerik hattıyla üretilir); dokununca detay açılır.
+- **"Bağlantı var mı?":** iki kelime seçilir, ortak kök/ara halka bulunursa gösterilir
+  (ör. kalem ↔ kalamar: Yunanca *kálamos*). Şemaya `root` alanı (Arapça üçlü kök `k-t-b`,
+  Farsça/Yunanca kök biçimi) eklenir; eşleme `chain[].form` + `root` üzerinden yapılır.
+- İçerik genişletme: edebî/Osmanlıca ağırlıklı ~300 kelime (`scripts/edebilist.raw.json`),
+  mevcut `schedule.ids` sonuna eklenir; mağaza sürümü beklemeden GitHub'dan dağıtılır.
