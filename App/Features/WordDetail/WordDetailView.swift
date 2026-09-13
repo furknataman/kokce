@@ -38,6 +38,7 @@ struct WordDetailView: View {
                 SourcesCard(sources: word.sources)
             }
             .padding(Theme.screenPadding)
+            .kokenContentColumn()
         }
         .kokenBackground()
         .scrollIndicators(.hidden)

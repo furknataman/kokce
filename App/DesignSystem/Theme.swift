@@ -26,6 +26,9 @@ enum Theme {
     static let border = adaptive(light: (0.84, 0.79, 0.69), dark: (0.20, 0.23, 0.32))
 
     static let cardCornerRadius: CGFloat = 20
+    /// iPad'de metin sütunu bu genişlikte durur; daha geniş satırlar okumayı
+    /// zorlaştırır. iPhone'da zaten ekran bundan dar, etkisi yoktur.
+    static let contentMaxWidth: CGFloat = 720
     /// Ekran kenarı boşluğu; kartlar ve başlıklar aynı hizada durur.
     static let screenPadding: CGFloat = 20
 
@@ -54,6 +57,15 @@ extension View {
                 RoundedRectangle(cornerRadius: Theme.cardCornerRadius)
                     .strokeBorder(Theme.border, lineWidth: 1)
             }
+    }
+}
+
+extension View {
+    /// Okunabilir genişlikte, ortalanmış içerik sütunu. Listeler tam
+    /// genişlikte kalır; bu yalnızca metin kartları içindir.
+    func kokenContentColumn() -> some View {
+        frame(maxWidth: Theme.contentMaxWidth)
+            .frame(maxWidth: .infinity)
     }
 }
 

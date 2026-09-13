@@ -21,7 +21,7 @@ settings:
     GENERATE_INFOPLIST_FILE: NO
     MARKETING_VERSION: "1.0"
     CURRENT_PROJECT_VERSION: "1"
-    TARGETED_DEVICE_FAMILY: "1"   # 1 = iPhone
+    TARGETED_DEVICE_FAMILY: "1,2"   # 1 = iPhone, 2 = iPad
     DEVELOPMENT_TEAM: "PY8XQ9L8AA"
     CODE_SIGN_STYLE: Automatic
 
@@ -96,6 +96,11 @@ targets:
           UIApplicationSupportsMultipleScenes: false
         UISupportedInterfaceOrientations:
           - UIInterfaceOrientationPortrait
+        UISupportedInterfaceOrientations~ipad:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationPortraitUpsideDown
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
         ITSAppUsesNonExemptEncryption: false
         CFBundleURLTypes:
           - CFBundleURLName: com.solvy.kokce
