@@ -61,7 +61,7 @@ def find_wordlist(explicit=None):
 
 
 def load_wordlist(path):
-    """{"word", "hint", "rarity"} sözlüklerini döner. Bilinmeyen alan None.
+    """{"word", "hint", "rarity", "note"} sözlüklerini döner. Bilinmeyen alan None.
 
     Kabul edilen biçimler:
       {"words": [{"word": "kalem", "originHint": "ar<grc", "rarity": "gündelik"}, ...]}
@@ -81,19 +81,21 @@ def load_wordlist(path):
     words = []
     for item in data:
         if isinstance(item, str):
-            word, hint, rarity = item, None, None
+            word, hint, rarity, note = item, None, None, None
         elif isinstance(item, dict):
             word = item.get("word") or item.get("kelime")
             hint = text(item.get("originHint"))
             rarity = text(item.get("rarity"))
+            note = text(item.get("note"))
         else:
-            word = hint = rarity = None
+            word = hint = rarity = note = None
         if not isinstance(word, str) or not word.strip():
             raise SystemExit("%s: geçersiz kelime girdisi: %r" % (path, item))
         if rarity is not None and rarity not in RARITY:
             raise SystemExit("%s: %s için geçersiz rarity: %r"
                              % (path, word, rarity))
-        words.append({"word": word.strip(), "hint": hint, "rarity": rarity})
+        words.append({"word": word.strip(), "hint": hint, "rarity": rarity,
+                      "note": note})
     if not words:
         raise SystemExit("%s: kelime listesi boş." % path)
     return words
@@ -112,6 +114,8 @@ def build_prompt(template, entries):
             line += " — ipucu: %s" % entry["hint"]
         if entry.get("rarity"):
             line += " — rarity: %s" % entry["rarity"]
+        if entry.get("note"):
+            line += " — ipucu anlam: %s" % entry["note"]
         lines.append(line)
     prompt = template.replace("{{WORDS}}", "\n".join(lines))
     if "{{SOURCES}}" in prompt:
@@ -378,6 +382,7 @@ def generate(number, words, template, args):
         "requestedWords": chunk_words,
         "originHints": {e["word"]: e["hint"] for e in chunk if e["hint"]},
         "rarity": {e["word"]: e["rarity"] for e in chunk if e["rarity"]},
+        "notes": {e["word"]: e["note"] for e in chunk if e["note"]},
         "requestedCount": len(chunk),
         "returnedCount": len(items),
         "rawFile": show(raw_path),

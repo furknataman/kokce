@@ -1,4 +1,4 @@
-# Köken — Üretim Prompt'u (v11)
+# Köken — Üretim Prompt'u (v12)
 
 Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
 bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
@@ -8,8 +8,11 @@ programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
 
 Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
 (`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
-gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
-`rarity` alanına **aynen** onu yaz.
+gelir, **kanıt değildir**. Bazı satırlarda ayrıca `ipucu anlam` bulunur; o da
+hangi sözcüğün kastedildiğini göstermek içindir, **kanıt değildir**: kaynakla
+çelişirse kaynağı esas al, `currentMeaning` ve `shortMeaning` alanlarını
+kaynaktan yaz, ipucu anlamı kopyalama. `rarity` ise kesin veridir: satırda ne
+yazıyorsa `rarity` alanına **aynen** onu yaz.
 
 {{WORDS}}
 

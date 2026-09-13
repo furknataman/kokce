@@ -8,7 +8,7 @@ kökünden (`koken/`) çalıştırılır.
 | Yol | İşi |
 |---|---|
 | `schema.md` | Kelime veri şeması. Tek doğruluk kaynağı. |
-| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v11**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
+| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v12**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
 | `prompts/verify_batch.md` | Bağımsız doğrulayıcı prompt'u (v1). `{{ITEMS}}` yer tutucusu. |
 | `fetch_sources.py` | Nişanyan ve TDK kayıtlarını indirir. |
 | `generate_batch.py` | Kelime listesinden parti üretir (`codex exec`). |
@@ -25,6 +25,8 @@ kökünden (`koken/`) çalıştırılır.
 | `log/NN.codex.log` | Codex oturum kaydı. |
 | `tests/sample_batch.json` | Doğrulayıcının kendi kendine testi. |
 | `tests/crosscheck/` | Çapraz denetimin kendi kendine testi. |
+| `tests/schedule_order_test.py` | Takvimin yalnızca sona eklendiğinin testi. |
+| `edebilist.json` | Edebî/az bilinen kelime eki; `wordlist.json` sonuna eklenir. |
 
 ## Akış
 
@@ -34,7 +36,9 @@ kökünden (`koken/`) çalıştırılır.
 `scripts/wordlist.raw.json` kullanılır. Kabul edilen biçimler:
 `{"words": [...]}` veya çıplak dizi; öğeler ya düz metin ya da
 `{"word": "kalem", "originHint": "ar<grc", "rarity": "gündelik"}` nesnesi
-olabilir.
+olabilir. İsteğe bağlı `note` alanı kısa bir anlam ipucudur ve prompt'taki
+kelime satırına `ipucu anlam` olarak eklenir; `originHint` gibi **kanıt
+değildir**, kaynakla çelişirse kaynak esas alınır.
 
 `rarity` (`gündelik` | `az-bilinen`) **kelime listesinin verisidir, model
 üretmez**. Prompt'taki kelime satırına yazılır, üretim çıktısına doğrudan
@@ -218,7 +222,9 @@ genişletir: madde ya insan/LLM incelemesinden ya da programatik çapraz
 denetimden geçmiştir.
 
 `schedule.ids` mevcut `words.json` sırasını korur, düşen id'leri atar, yeni
-id'leri sabit tohumla (`random.Random(2026)`) karıştırıp **sona** ekler. Yeni
+id'leri sabit tohumla (`random.Random(2026)`) karıştırıp **sona** ekler. Var
+olan sıranın birebir korunduğu yazımdan önce denetlenir; bozulursa dosya
+yazılmaz. Çıktıdaki `schedule:` satırı kaç id'nin değişmediğini söyler. Yeni
 id'ler `rarity` değerine göre ikiye ayrılıp oranlarına göre serpiştirilir:
 ilk gün `gündelik` bir kelimedir, aynı türden en fazla iki gün üst üste gelir,
 fazlalık sona yığılmaz. Düzeltme dosyasında `rarity` yoksa parti dosyasındaki
@@ -234,6 +240,8 @@ kullanılan kodlar için üretilir. Yazımdan sonra doğrulama otomatik çalış
 
 ```sh
 python3 scripts/validate_words.py --batch scripts/tests/sample_batch.json
+
+python3 scripts/tests/schedule_order_test.py
 
 python3 scripts/crosscheck.py --batch 1 \
   --batches-dir scripts/tests/crosscheck/batches \

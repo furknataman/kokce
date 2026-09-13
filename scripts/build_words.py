@@ -291,6 +291,17 @@ def main(argv=None):
     rarity_by_id = {wid: item.get("rarity") for wid, item in kept}
     schedule_ids = build_schedule_ids(existing["schedule_ids"], current_ids,
                                       rarity_by_id)
+
+    # Takvim yalnızca sona eklenir: var olan sıra birebir korunmalıdır.
+    survivors = [i for i in existing["schedule_ids"] if i in set(current_ids)]
+    if schedule_ids[:len(survivors)] != survivors:
+        raise SystemExit("schedule.ids sırası bozuldu; dosya yazılmadı.")
+    dropped_from_schedule = len(existing["schedule_ids"]) - len(survivors)
+    schedule_note = "ilk %d id değişmedi" % len(survivors)
+    if dropped_from_schedule:
+        schedule_note += " (%d id düştü)" % dropped_from_schedule
+    schedule_note += " · %d yeni id sona eklendi" % (
+        len(schedule_ids) - len(survivors))
     words = order_words(kept, existing["order"])
 
     used = collect_languages(words)
@@ -339,6 +350,7 @@ def main(argv=None):
               % " · ".join("%s %d" % (k, v) for k, v in sorted(rarity_counts.items())))
         if normalized_relatives:
             print("relatives null → [] : %d madde" % normalized_relatives)
+        print("schedule: %s" % schedule_note)
         print("yazılacaktı: %s (contentVersion %d, %d kelime, %d dil, "
               "schedule %d gün)"
               % (args.out, content_version, len(words),
@@ -365,6 +377,7 @@ def main(argv=None):
               "yazıldı." % stats["unreviewed"], file=sys.stderr)
     if normalized_relatives:
         print("relatives null → [] : %d madde" % normalized_relatives)
+    print("schedule: %s" % schedule_note)
     print("Yazıldı: %s (contentVersion %d, %d kelime, %d dil)"
           % (args.out, document["contentVersion"], len(words), len(languages)))
 
