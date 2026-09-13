@@ -22,6 +22,9 @@ public enum WordOfDay {
     /// `start` gününden önceki tarihler ilk kelimeye sabitlenir: negatif mod
     /// yerine kırpma, `ids` sonuna ekleme yapıldığında geçmiş günlerin
     /// değişmemesini garanti eder.
+    ///
+    // ponytail: ids tükenince modulo ile başa sarar; 500 kelime ≈ 16 ay,
+    // o süre içinde yeni kelime eklenerek sarma önlenir.
     public static func index(for date: Date, schedule: Schedule) -> Int? {
         guard !schedule.ids.isEmpty,
               let start = day(from: schedule.start) else { return nil }
@@ -58,14 +61,24 @@ public enum WordOfDay {
 
     /// `"yyyy-MM-dd"` → Europe/Istanbul gününün başlangıcı. Formatter yerine
     /// elle ayrıştırma: yerel ayardan ve takvim seçiminden etkilenmez.
+    ///
+    /// Biçim katıdır (4-2-2 rakam) ve tarih takvimde geri döndürülerek
+    /// doğrulanır; "2026-02-30" gibi var olmayan günler `nil` döner.
     static func day(from text: String) -> Date? {
-        let parts = text.split(separator: "-")
+        let parts = text.split(separator: "-", omittingEmptySubsequences: false)
         guard parts.count == 3,
+              parts[0].count == 4, parts[1].count == 2, parts[2].count == 2,
+              parts.allSatisfy({ $0.allSatisfy(\.isASCII) && $0.allSatisfy(\.isNumber) }),
               let year = Int(parts[0]), let month = Int(parts[1]), let day = Int(parts[2]) else { return nil }
         var components = DateComponents()
         components.year = year
         components.month = month
         components.day = day
-        return calendar.date(from: components)
+        let calendar = calendar
+        guard let date = calendar.date(from: components) else { return nil }
+        // Takvim 31 Şubat'ı sessizce kaydırır; geri okuyup aynı günü doğrularız.
+        let roundTrip = calendar.dateComponents([.year, .month, .day], from: date)
+        guard roundTrip.year == year, roundTrip.month == month, roundTrip.day == day else { return nil }
+        return date
     }
 }

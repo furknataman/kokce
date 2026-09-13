@@ -53,6 +53,23 @@ struct WordOfDayTests {
         #expect(WordOfDay.id(for: day, schedule: after) == "kalem")
     }
 
+    /// ids tükenince liste başa sarar. Bu bilinçli bir sadeleştirmedir:
+    /// 500 kelime ≈ 16 ay, o süre içinde yeni kelime eklenerek sarma önlenir.
+    /// Sarmadan sonraki günler, listeye ekleme yapılınca kayar.
+    @Test("ids tükenince başa sarar")
+    func wrapsAfterLastID() {
+        let before = Schedule(start: "2026-10-01", ids: ["kalem", "pencere", "çay"])
+        let after = Schedule(start: "2026-10-01", ids: ["kalem", "pencere", "çay", "yelken"])
+        #expect(WordOfDay.id(for: Fixtures.date("2026-10-04"), schedule: before) == "kalem")
+        #expect(WordOfDay.id(for: Fixtures.date("2026-10-04"), schedule: after) == "yelken")
+    }
+
+    @Test("Bozuk başlangıç tarihi nil döner")
+    func rejectsInvalidStart() {
+        #expect(WordOfDay.id(for: .now, schedule: Schedule(start: "2026-02-30", ids: ["kalem"])) == nil)
+        #expect(WordOfDay.id(for: .now, schedule: Schedule(start: "2026-2-1", ids: ["kalem"])) == nil)
+    }
+
     @Test("Boş takvim nil döner")
     func emptyScheduleIsNil() {
         #expect(WordOfDay.id(for: .now, schedule: Schedule(start: "2026-10-01", ids: [])) == nil)

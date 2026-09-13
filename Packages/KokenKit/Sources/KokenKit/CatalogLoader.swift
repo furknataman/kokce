@@ -1,10 +1,12 @@
 import Foundation
 
-/// Katalog dosyalarını çözen ve doğrulayan saf yardımcı.
+/// Katalog dosyalarını çözen ve doğrulayan **salt okunur** yardımcı.
 ///
 /// Hem `WordRepository` hem de widget bunu kullanır: widget'ın zaman çizelgesi
 /// eşzamanlı üretildiği için yükleme mantığının actor'dan bağımsız olması
-/// gerekir.
+/// gerekir. Yükleyici hiçbir şey silmez veya yazmaz — bozuk önbelleği temizlemek
+/// tek yazıcının, yani uygulamadaki `WordRepository`'nin işidir. Widget'ın
+/// dosya silmesi, uygulama tam o sırada yazarken yarışa yol açardı.
 public enum CatalogLoader {
 
     public enum LoadError: Error, Equatable {
@@ -14,23 +16,46 @@ public enum CatalogLoader {
         case duplicateIDs
         /// `schedule.ids` içinde katalogda olmayan kimlik var.
         case unknownScheduleID(String)
+        /// `schedule.start` "yyyy-MM-dd" değil veya takvimde olmayan bir gün.
+        case invalidScheduleStart(String)
     }
 
-    /// Bundle ve (varsa) önbellek dosyasından uygun olanı seçer.
+    /// Önbelleğin okunabilirliği. `WordRepository` buna bakarak bozuk dosyayı
+    /// siler ve ETag gönderip göndermeyeceğine karar verir.
+    public enum CacheStatus: Sendable, Equatable {
+        /// Önbellek dosyası yok (veya önbellek hiç yapılandırılmamış).
+        case absent
+        /// Dosya var ama çözülemedi ya da doğrulamadan geçmedi.
+        case invalid
+        /// Dosya geçerli. Bundle daha yeni olsa bile dosyanın kendisi sağlamdır.
+        case valid
+    }
+
+    public struct LoadResult: Sendable {
+        public let catalog: WordCatalog
+        public let cacheStatus: CacheStatus
+    }
+
+    /// Okunacak kataloğu seçer.
     ///
     /// Öncelik: geçerli önbellek **ve** `contentVersion` bundle'dakinden
-    /// büyükse önbellek; aksi hâlde bundle. Bozuk veya geçersiz önbellek
-    /// dosyası silinir, böylece bir daha denenmez.
+    /// büyükse önbellek; aksi hâlde bundle.
     public static func load(bundleURL: URL, cacheURL: URL?) throws -> WordCatalog {
+        try loadResult(bundleURL: bundleURL, cacheURL: cacheURL).catalog
+    }
+
+    /// `load` ile aynı seçim, ayrıca önbelleğin durumu.
+    public static func loadResult(bundleURL: URL, cacheURL: URL?) throws -> LoadResult {
         let bundled = try decode(Data(contentsOf: bundleURL))
-        guard let cacheURL, FileManager.default.fileExists(atPath: cacheURL.path) else { return bundled }
+        guard let cacheURL, FileManager.default.fileExists(atPath: cacheURL.path) else {
+            return LoadResult(catalog: bundled, cacheStatus: .absent)
+        }
         do {
             let cached = try decode(Data(contentsOf: cacheURL))
-            guard cached.contentVersion > bundled.contentVersion else { return bundled }
-            return cached
+            let newer = cached.contentVersion > bundled.contentVersion
+            return LoadResult(catalog: newer ? cached : bundled, cacheStatus: .valid)
         } catch {
-            try? FileManager.default.removeItem(at: cacheURL)
-            return bundled
+            return LoadResult(catalog: bundled, cacheStatus: .invalid)
         }
     }
 
@@ -47,6 +72,9 @@ public enum CatalogLoader {
             throw LoadError.unsupportedSchema(catalog.schemaVersion)
         }
         guard !catalog.words.isEmpty, !catalog.schedule.ids.isEmpty else { throw LoadError.empty }
+        guard WordOfDay.day(from: catalog.schedule.start) != nil else {
+            throw LoadError.invalidScheduleStart(catalog.schedule.start)
+        }
         let ids = Set(catalog.words.map(\.id))
         guard ids.count == catalog.words.count else { throw LoadError.duplicateIDs }
         for id in catalog.schedule.ids where !ids.contains(id) {

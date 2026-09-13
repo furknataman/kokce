@@ -129,10 +129,95 @@ struct WordRepositoryTests {
         }
     }
 
+    @Test("Bozuk önbellek silinince ETag da atılır")
+    func clearsETagWithCorruptCache() async throws {
+        let sandbox = try Sandbox(bundleVersion: 1)
+        defer { sandbox.tearDown() }
+        try sandbox.writeCache(Data("{ bozuk".utf8))
+        sandbox.defaults.set("\"eski\"", forKey: "content.etag")
+
+        let calls = Counter()
+        let repository = WordRepository(bundleURL: sandbox.bundleURL,
+                                        cacheURL: sandbox.cacheURL,
+                                        defaultsSuiteName: sandbox.suiteName,
+                                        fetch: { _, etag in
+                                            await calls.record(etag)
+                                            return .notModified
+                                        })
+        _ = try await repository.refresh()
+        // Elimizde geçerli önbellek yok: koşulsuz GET, yoksa 304 gelir ve
+        // içeriksiz kalırız.
+        #expect(await calls.lastETag == nil)
+        #expect(sandbox.defaults.string(forKey: "content.etag") == nil)
+    }
+
+    @Test("Önbellek yoksa ETag gönderilmez")
+    func skipsETagWithoutCache() async throws {
+        let sandbox = try Sandbox(bundleVersion: 1)
+        defer { sandbox.tearDown() }
+        sandbox.defaults.set("\"eski\"", forKey: "content.etag")
+
+        let calls = Counter()
+        let repository = WordRepository(bundleURL: sandbox.bundleURL,
+                                        cacheURL: sandbox.cacheURL,
+                                        defaultsSuiteName: sandbox.suiteName,
+                                        fetch: { _, etag in
+                                            await calls.record(etag)
+                                            return .notModified
+                                        })
+        _ = try await repository.refresh()
+        #expect(await calls.lastETag == nil)
+    }
+
+    @Test("Geçerli önbellek varsa ETag gönderilir")
+    func sendsETagWithValidCache() async throws {
+        let sandbox = try Sandbox(bundleVersion: 1)
+        defer { sandbox.tearDown() }
+        try sandbox.writeCache(Fixtures.encoded(Fixtures.catalog(contentVersion: 2)))
+        sandbox.defaults.set("\"gecerli\"", forKey: "content.etag")
+
+        let calls = Counter()
+        let repository = WordRepository(bundleURL: sandbox.bundleURL,
+                                        cacheURL: sandbox.cacheURL,
+                                        defaultsSuiteName: sandbox.suiteName,
+                                        fetch: { _, etag in
+                                            await calls.record(etag)
+                                            return .notModified
+                                        })
+        _ = try await repository.refresh()
+        #expect(await calls.lastETag == "\"gecerli\"")
+        #expect(FileManager.default.fileExists(atPath: sandbox.cacheURL.path))
+    }
+
+    @Test("Örtüşen güncellemeler tek istek açar")
+    func coalescesConcurrentRefreshes() async throws {
+        let sandbox = try Sandbox(bundleVersion: 1)
+        defer { sandbox.tearDown() }
+        let remote = Fixtures.encoded(Fixtures.catalog(contentVersion: 9, ids: ["yelken"]))
+
+        let calls = Counter()
+        let repository = WordRepository(bundleURL: sandbox.bundleURL,
+                                        cacheURL: sandbox.cacheURL,
+                                        defaultsSuiteName: sandbox.suiteName,
+                                        fetch: { _, etag in
+                                            await calls.record(etag)
+                                            try await Task.sleep(for: .milliseconds(50))
+                                            return .updated(data: remote, etag: nil)
+                                        })
+        async let first = repository.refresh()
+        async let second = repository.refresh()
+        let results = try await [first, second]
+
+        #expect(results == [true, true])
+        #expect(await calls.count == 1)
+        #expect(try await repository.catalog().contentVersion == 9)
+    }
+
     @Test("Günde bir kez yoklanır, ETag gönderilir")
     func checksOnceADay() async throws {
         let sandbox = try Sandbox(bundleVersion: 1)
         defer { sandbox.tearDown() }
+        try sandbox.writeCache(Fixtures.encoded(Fixtures.catalog(contentVersion: 2)))
         sandbox.defaults.set("\"onceki\"", forKey: "content.etag")
 
         let calls = Counter()

@@ -37,6 +37,11 @@ public actor WordRepository {
     private let remoteURL: URL
     private let fetch: Fetch
     private var loaded: WordCatalog?
+    /// Diskteki önbellek dosyası okunabilir mi? ETag yalnızca bu dosya
+    /// duruyorsa anlamlıdır.
+    private var hasValidCache = false
+    /// Süren güncelleme. Örtüşen çağrılar yeni istek açmaz, buna katılır.
+    private var refreshTask: Task<Bool, Error>?
 
     /// - Parameters:
     ///   - bundleURL: Gömülü `words.json`. Enjekte edilir; `Bundle.main` widget
@@ -60,11 +65,19 @@ public actor WordRepository {
     }
 
     /// Bellekte tutulan katalog; ilk çağrıda diskten yüklenir.
+    ///
+    /// Bozuk önbellek dosyası burada silinir: yükleyici salt okunurdur, silme
+    /// yetkisi yalnızca tek yazıcıda, yani bu actor'dadır.
     public func catalog() throws -> WordCatalog {
         if let loaded { return loaded }
-        let catalog = try CatalogLoader.load(bundleURL: bundleURL, cacheURL: cacheURL)
-        loaded = catalog
-        return catalog
+        let result = try CatalogLoader.loadResult(bundleURL: bundleURL, cacheURL: cacheURL)
+        if result.cacheStatus == .invalid, let cacheURL {
+            try? FileManager.default.removeItem(at: cacheURL)
+            defaults?.removeObject(forKey: Self.etagKey)
+        }
+        hasValidCache = result.cacheStatus == .valid
+        loaded = result.catalog
+        return result.catalog
     }
 
     /// Günde bir kez uzak dosyayı yoklar. Katalog değiştiyse `true`.
@@ -81,21 +94,39 @@ public actor WordRepository {
     }
 
     /// Zamanlamayı yok sayıp uzak dosyayı indirir ve doğrularsa yazar.
+    ///
+    /// Aynı anda gelen ikinci çağrı yeni istek açmaz, sürenin sonucunu bekler.
     @discardableResult
     public func refresh() async throws -> Bool {
+        if let refreshTask { return try await refreshTask.value }
+        let task = Task<Bool, Error> { try await self.performRefresh() }
+        refreshTask = task
+        defer { refreshTask = nil }
+        return try await task.value
+    }
+
+    private func performRefresh() async throws -> Bool {
         guard let cacheURL else { throw RefreshError.noCacheDirectory }
-        let current = try catalog()
-        let response = try await fetch(remoteURL, defaults?.string(forKey: Self.etagKey))
-        guard case let .updated(data, etag) = response else { return false }
+        _ = try catalog()
+        // ETag yalnızca elimizdeki önbellek dosyasını tanımlar. Dosya yoksa ya
+        // da bozuk çıkıp silindiyse koşulsuz GET yapılır, yoksa sunucu 304 der
+        // ve elimizde hiç içerik kalmaz.
+        let etag = hasValidCache ? defaults?.string(forKey: Self.etagKey) : nil
+        let response = try await fetch(remoteURL, etag)
+        guard case let .updated(data, newETag) = response else { return false }
         guard data.count <= Self.maximumBytes else { throw RefreshError.tooLarge(data.count) }
 
         // Önce tam çözüm + doğrulama, sonra yazım: yarım dosya asla diske inmez.
         let remote = try CatalogLoader.decode(data)
+        // Ağı beklerken başka bir güncelleme tamamlanmış olabilir; sürüm
+        // karşılaştırması yazımdan hemen önce, güncel değerle yapılır.
+        let current = try catalog()
         guard remote.contentVersion > current.contentVersion else {
             throw RefreshError.notNewer(remote: remote.contentVersion, current: current.contentVersion)
         }
         try write(data, to: cacheURL)
-        defaults?.set(etag, forKey: Self.etagKey)
+        defaults?.set(newETag, forKey: Self.etagKey)
+        hasValidCache = true
         loaded = remote
         return true
     }
@@ -112,11 +143,16 @@ public actor WordRepository {
     ///
     /// `URLCache` kapalıdır; açık olsaydı 304 sessizce 200'e çevrilip
     /// önbellekten yanıtlanır ve "değişmedi" durumu hiç görülmezdi.
+    ///
+    /// Gövde akış hâlinde okunur ve sayılır: 2 MB sınırı aşıldığı anda döngüden
+    /// çıkılır, akış iptal olur. Sınır, tüm dosya belleğe alındıktan sonra değil
+    /// indirme sırasında uygulanır.
     public static let download: Fetch = { url, etag in
         let configuration = URLSessionConfiguration.ephemeral
         configuration.urlCache = nil
         configuration.requestCachePolicy = .reloadIgnoringLocalCacheData
         configuration.timeoutIntervalForRequest = timeout
+        configuration.timeoutIntervalForResource = timeout
         let session = URLSession(configuration: configuration)
         defer { session.finishTasksAndInvalidate() }
 
@@ -124,14 +160,25 @@ public actor WordRepository {
         request.timeoutInterval = timeout
         if let etag { request.setValue(etag, forHTTPHeaderField: "If-None-Match") }
 
-        let (data, response) = try await session.data(for: request)
+        let (stream, response) = try await session.bytes(for: request)
         guard let http = response as? HTTPURLResponse else { return .notModified }
         switch http.statusCode {
-        case 304: return .notModified
+        case 304:
+            return .notModified
         case 200:
-            guard data.count <= maximumBytes else { throw RefreshError.tooLarge(data.count) }
+            // Sunucu boyutu bildiriyorsa tek bayt indirmeden reddet.
+            if http.expectedContentLength > Int64(maximumBytes) {
+                throw RefreshError.tooLarge(Int(clamping: http.expectedContentLength))
+            }
+            var data = Data()
+            data.reserveCapacity(64 * 1024)
+            for try await byte in stream {
+                data.append(byte)
+                if data.count > maximumBytes { throw RefreshError.tooLarge(data.count) }
+            }
             return .updated(data: data, etag: http.value(forHTTPHeaderField: "ETag"))
-        default: throw RefreshError.badResponse(http.statusCode)
+        default:
+            throw RefreshError.badResponse(http.statusCode)
         }
     }
 }
