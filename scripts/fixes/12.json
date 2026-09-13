@@ -1,0 +1,468 @@
+[
+  {
+    "id": "çorap",
+    "word": "çorap",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "syc",
+    "chain": [
+      {
+        "language": "syc",
+        "form": "gurbā/gərābā",
+        "meaning": "torba veya kılıf",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "cawrab/cūrāb",
+        "meaning": "torba; ayağı saran yumuşak deri kılıf",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "çorap",
+        "meaning": "ayağa geçirilen örgü giyecek",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ayağı ve bacağın bir bölümünü saran örgü giyecek.",
+    "currentMeaning": "Pamuklu, yünlü veya başka ipliklerle örülen, ayağa geçirilerek giyilen giysi.",
+    "story": "Çorabın eski anlam dünyasında ayağa giyilen örgüden önce torba ve kılıf vardır. Süryanice biçimle bağlantılı Arapça cawrab, yumuşak deriden yapılmış bir ayak kılıfını da adlandırıyordu; Akkadca gurābu ise bu ailenin eski akrabasıdır. Bir şeyi içine alıp saran kılıf düşüncesi, ayağı saran giyecekte devam eder. Türkçeye geçişte doğrudan Arapçanın mı yoksa Farsçanın mı aracı olduğu konusunda kaynaklar ayrılır.",
+    "firstAttestation": {
+      "source": "İrşadü'l-Mülûk ve's-Selâtîn",
+      "period": "1387",
+      "form": "curāb"
+    },
+    "relatives": [
+      {
+        "word": "kulbā",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Türkçe çorabı Arapça cawrab/cūrāb biçimine bağlar ve gerisinde Süryanice bağlantısını gösterir.",
+      "TDK Güncel Türkçe Sözlük, doğrudan kaynak olarak Farsça cūrāb biçimini verir."
+    ],
+    "funFact": "Ermenicedeki kulbā da aynı sözcüğün Süryaniceden alınmış bir koludur.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "çorap maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C3%A7orap"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "çorap",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "pamuk",
+    "word": "pamuk",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "pal",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "pambak/pambuk",
+        "meaning": "ipek böceği kozası, pamuk kozası ve pamuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pamuk",
+        "meaning": "lifleri dokumacılıkta kullanılan bitki ve onun lifleri",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kozasından yumuşak beyaz lif elde edilen bitki.",
+    "currentMeaning": "Sıcak iklimlerde yetiştirilen, kozalarındaki liflerden iplik yapılan tarım bitkisi ve bu bitkinin lifleri.",
+    "story": "Pamuğun adında, liflerden önce onları içinde taşıyan koza öne çıkar. Orta Farsça pambak/pambuk hem ipek böceğinin kozasını hem pamuk kozasını ve pamuğu adlandırıyordu. Yunancada koza için kullanılan bombúks da bu adla eş kökenli olarak ilişkilendirilir; bu bağlantı doğrudan Yunancadan alınmış olduğunu göstermez. Türkçeye İran dil alanından ulaşan ad, bitkinin kendisiyle birlikte yumuşak liflerini de karşılamayı sürdürdü.",
+    "firstAttestation": {
+      "source": "Kaşgarî — Divan-i Lugati't-Türk",
+      "period": "1073",
+      "form": "bamuk"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Pamuk bitkisi Hindistan kökenlidir, milat dolaylarında Doğu İran ile Orta Asya'ya, sonra Akdeniz havzasına yayılmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "pamuk maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/pamuk"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "pamuk",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "astar",
+    "word": "astar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "ster-",
+        "meaning": "sermek, yaymak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ae",
+        "form": "star-",
+        "meaning": "bir yüzeye sermek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "āstar",
+        "meaning": "serilen örtü, kaba dokuma ve iç kaplama",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "astar",
+        "meaning": "eşyanın iç yüzünü örten katman",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Giysi ve benzeri eşyaların iç yüzüne geçirilen ince kat.",
+    "currentMeaning": "Giysi, çanta, perde veya ayakkabı gibi eşyaların iç yüzünü kaplamak üzere kullanılan kumaş ya da deri katmanı.",
+    "story": "Astarın uzak geçmişinde bir şeyi yüzeye yayma ve serme eylemi vardır. Bu kök ailesinde Sanskritçe āstarana- yere serilen örtüyü, Farsça āstar ise yaygı ve kumaşı adlandırır; Sanskritçe biçim bir akrabalık halkasıdır. Türkçede eski örtü kullanımı zamanla giysinin ve eşyanın içini kaplayan kata odaklanmıştır. Yere serilen örtüyle ceketin içindeki kumaşı birleştiren düşünce, bir yüzeyi başka bir katla örtmektir.",
+    "firstAttestation": {
+      "source": "İrşadü'l-Mülûk ve's-Selâtîn",
+      "period": "1387",
+      "form": "astār"
+    },
+    "relatives": [
+      {
+        "word": "gustar",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "astar maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/astar"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "astar",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kemer",
+    "word": "kemer",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "kh₂em-",
+        "meaning": "bükmek, eğmek",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "peo",
+        "form": "kamarā-",
+        "meaning": "eğrilmiş veya bükülmüş nesne",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "pal",
+        "form": "kamar",
+        "meaning": "kuşak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "kamar",
+        "meaning": "bel kuşağı; yapıda yay biçimli bölüm",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kemer",
+        "meaning": "bel bağı; mimaride kavisli taşıyıcı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Giysiyi tutmak veya süslemek için bele takılan bağ.",
+    "currentMeaning": "Bele dolanan ve çoğunlukla tokayla tutturulan deri, kumaş veya metal kuşak.",
+    "story": "Kemerin eski kökünde eğme ve bükme hareketi bulunur. İran dillerindeki kuşak adı, belin çevresinde kıvrılan bir nesneyi karşılar; Avestaca biçim de bu adın akrabasıdır. Farsçada aynı ad, yapıların kavisli bölümleri için de kullanılmıştır. Türkçedeki bel kemeri ile taş kemer, malzemeleri ayrı olsa da bu eğri biçimi paylaşır.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "kemer"
+    },
+    "relatives": [
+      {
+        "word": "kamān",
+        "relation": "akraba"
+      },
+      {
+        "word": "kámara",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Eski Yunancanın tonozlu oda için kullandığı kámara da Eski Farsçadan alınmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kemer maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kemer"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kemer",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "köşe",
+    "word": "köşe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "gōşag",
+        "meaning": "bucak, açı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "gōşa",
+        "meaning": "köşe veya bucak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "köşe",
+        "meaning": "çizgilerin veya yüzeylerin birleştiği açılı yer",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İki çizginin veya yüzeyin birleştiği açılı yer.",
+    "currentMeaning": "Birbirini kesen çizgilerin veya birleşen yüzeylerin oluşturduğu açı ve bu açının bulunduğu yer.",
+    "story": "Köşe, Farsçadaki gōşa biçimiyle bir mekânın bucağını adlandırıyordu. Orta Farsça gōşag aynı mekânsal anlamı taşır; Avestaca gaoşa- da onun eski akrabasıdır. Türkçedeki eski gūşe biçiminden bugünkü köşeye uzanan değişimde sesler dönüşmüş, iki yüzeyin buluştuğu yer fikri korunmuştur.",
+    "firstAttestation": {
+      "source": "Anonim — Tezkiretü'l-Evliya tercümesi",
+      "period": "1341",
+      "form": "gūşe"
+    },
+    "relatives": [
+      {
+        "word": "köşekapmaca",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "köşe maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/k%C3%B6%C5%9Fe"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "köşe",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "balkon",
+    "word": "balkon",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "bʰelǵ-",
+        "meaning": "kalın ağaç gövdesi",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "goh",
+        "form": "balko",
+        "meaning": "yapıyı taşıyan ağaç kiriş",
+        "period": "Eski Yüksek Almanca dönemi",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "balcon",
+        "meaning": "kirişle desteklenen yapı çıkması",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "balkon",
+        "meaning": "yapının dışında yer alan çevrili bölüm",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir yapının dışa açılan, çevresi korkulukla çevrili bölümü.",
+    "currentMeaning": "Genellikle bina yüzeyinden dışarı uzanan, kenarları duvar veya korkulukla çevrilmiş kullanım alanı.",
+    "story": "Balkonun adının gerisinde, yapıyı taşıyan kalın bir ağaç kiriş bulunur. Eski Yüksek Almanca balko bu taşıyıcı parçayı adlandırırken Fransızca balcon, kirişin desteklediği ev çıkmasını karşılar. Türkçeye geçen ad böylece taşıyıcı malzemeden onun üzerinde oluşan mekâna uzanan anlamı taşır.",
+    "firstAttestation": {
+      "source": "Düstur Tertip I.-IV.",
+      "period": "1863",
+      "form": "balkon"
+    },
+    "relatives": [
+      {
+        "word": "Balken",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "balkon maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/balkon"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "balkon",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "salon",
+    "word": "salon",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "gem",
+    "chain": [
+      {
+        "language": "gem",
+        "form": "sala",
+        "meaning": "koğuş, kapalı toplanma mekânı",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "it",
+        "form": "sala",
+        "meaning": "insanların toplandığı kapalı mekân",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "salone",
+        "meaning": "geniş oda",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "salon",
+        "meaning": "geniş oda, özellikle konuk kabul edilen oda",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "salon",
+        "meaning": "konuk ağırlanan geniş oda",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Evde oturmaya ve konuk ağırlamaya ayrılan geniş oda.",
+    "currentMeaning": "Bir konutta birlikte oturmak ve konukları ağırlamak için kullanılan, genellikle diğer odalardan geniş bölüm.",
+    "story": "Salonun geçmişinde, insanların kapalı bir yerde bir araya gelmesini karşılayan Germence bir ad bulunur. İtalyancaya ulaşan sala, salone biçimiyle büyük bir odayı adlandırmış; Fransızca salon ise özellikle konuk kabul edilen odayla özdeşleşmiştir. Türkçede de evin insanları bir araya getiren geniş odası bu adı taşır.",
+    "firstAttestation": {
+      "source": "Arşiv Belg. Göre Osmanlı Eğitiminde Modernleşme",
+      "period": "1857",
+      "form": "salon"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "salon maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/salon"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "salon",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

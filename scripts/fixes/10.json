@@ -1,0 +1,191 @@
+[
+  {
+    "id": "pirinç",
+    "word": "pirinç",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "dra",
+    "chain": [
+      {
+        "language": "dra",
+        "form": "warinci",
+        "meaning": "pirinç",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "sa",
+        "form": "vrīha/vrīza",
+        "meaning": "pirinç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "peo",
+        "form": "wrīza-/wrinca-",
+        "meaning": "pirinç",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "fa",
+        "form": "brinc/birinc",
+        "meaning": "pirinç bitkisi ve tanesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pirinç",
+        "meaning": "sulu alanlarda yetiştirilen tahıl ve yenilen tanesi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bol suyla yetiştirilen bir tahıl ve onun yenilen tanesi.",
+    "currentMeaning": "Buğdaygiller ailesinden, suya doygun alanlarda yetiştirilen bitki ve kabuklarından ayrılarak yemeklerde kullanılan taneleri.",
+    "story": "Pirinç adı, Güney Asya'daki bir Dravid dilinden Sanskritçeye uzanan bir geçmiş taşır. Eski Farsça üzerinden Farsçadaki brinc ve birinc biçimlerine ulaşırken aynı tahılı adlandırmayı sürdürdü. Türkçeye Farsçadan giren bu ad, eski metinlerde aynı ürün için kullanılan tuturgan adıyla birlikte görüldü.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "brinç"
+    },
+    "relatives": [
+      {
+        "word": "oryza",
+        "relation": "eş köken"
+      },
+      {
+        "word": "ruzz",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Tamilcede arisi, Teluguca warinci biçimleri pirincin Dravit kökenini gösterir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "pirinç maddesi; tahıl anlamı",
+        "url": "https://www.nisanyansozluk.com/kelime/pirin%C3%A7"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "pirinç; bitki anlamı",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nar",
+    "word": "nar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "nār/anār",
+        "meaning": "nar ağacı ve meyvesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nar",
+        "meaning": "çok taneli meyve ve onu veren ağaç",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İçi sulu tanelerle dolu meyve ve bu meyveyi veren ağaç.",
+    "currentMeaning": "Kırmızı çiçekler açan küçük ağaç ve bu ağacın kalınca bir kabuk içinde çok sayıda sulu tane barındıran meyvesi.",
+    "story": "Narın Farsça nār ve anār biçimleri, hem ağacı hem de içi tanelerle dolu meyvesini adlandırıyordu. Bu adın Akkadca ve Hititçedeki karşılıklarıyla kök bağı, geçmişini eski Mezopotamya ve Anadolu'nun bitki adlarına bağlar. Türkçede enār biçimi de kullanılmış, bugünkü dilde kısa nar biçimi yerleşmiştir.",
+    "firstAttestation": {
+      "source": "Anonim — Tezkiretü'l-Evliya tercümesi",
+      "period": "1341",
+      "form": "nār"
+    },
+    "relatives": [
+      {
+        "word": "nurmû",
+        "relation": "eş köken"
+      },
+      {
+        "word": "nur",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "nar maddesi; meyve anlamı",
+        "url": "https://www.nisanyansozluk.com/kelime/nar"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "nar",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "incir",
+    "word": "incir",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "ancīr",
+        "meaning": "incir",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "incir",
+        "meaning": "incir ağacı ve meyvesi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Geniş yapraklı bir ağaç ve onun tatlı meyvesi.",
+    "currentMeaning": "Akdeniz çevresine özgü, geniş ve dilimli yaprakları olan ağaç ile bu ağacın taze veya kurutularak yenilen meyvesi.",
+    "story": "İran dillerindeki ancīr, bugün incir dediğimiz meyvenin eski adını taşır. Türkçe bu adı Farsçadan alırken başlangıçtaki sesleri değişmiş, ancak adın gösterdiği meyve değişmemiştir. Bugünkü incir, hem geniş yapraklı ağacı hem de ondan toplanan tatlı ürünü adlandırır.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "ingir"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "incir maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/incir"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "incir",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

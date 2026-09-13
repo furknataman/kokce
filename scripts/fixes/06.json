@@ -1,0 +1,136 @@
+[
+  {
+    "id": "fiyat",
+    "word": "fiyat",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "fī",
+        "meaning": "içinde bulunmayı bildiren edat",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "fiyāt / fīˀāt",
+        "meaning": "fī edatının Arapçada tanıklanmayan çoğul biçimi",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "tr",
+        "form": "fiyat",
+        "meaning": "bir malın para ile belirtilen karşılığı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir mal veya hizmetin para ile belirtilen karşılığı.",
+    "currentMeaning": "Bir mal ya da hizmetin alınması veya satılması için belirlenen para tutarı.",
+    "story": "Fiyatın başlangıcında, Arapçada bir şeyin içinde bulunmayı bildiren fī edatı vardır. Bu edatın Arapçada bulunmayan çoğul biçimi ve alışverişteki değer kullanımı Türkçede gelişmiştir. Kelimenin eski Türkçe kayıtlarında gelir ve toplam tutar öne çıkarken, sonraki kayıtlarda tek tek malların satış bedeli belirginleşir.",
+    "firstAttestation": {
+      "source": "Kieffer ve Bianchi, Dictionnaire Turc-Français",
+      "period": "1835",
+      "form": "fiyāt"
+    },
+    "relatives": [
+      {
+        "word": "fiyatlandırma",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "fiyat maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/fiyat"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "fiyat maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şekil",
+    "word": "şekil",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {
+        "language": "akk",
+        "form": "kullatu",
+        "meaning": "tam, bütün",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "arc",
+        "form": "şaklīl/şiklīl",
+        "meaning": "tamamlama, biçimleme, bezeme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "şakl",
+        "meaning": "bir şeyin biçimi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "şekil",
+        "meaning": "bir şeyin dış görünüşünü belirleyen biçim",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyin dış görünüşünü belirleyen biçim.",
+    "currentMeaning": "Bir nesnenin sınırları, çizgileri ve yüzey düzeniyle ortaya çıkan görünüşü veya biçimi.",
+    "story": "Şeklin uzak geçmişinde bir şeyi tam ve bütün hâle getirme düşüncesi vardır. Akkadca kullatu bütünlüğü anlatırken, aynı kökten kurulan Aramice şaklīl ve şiklīl biçim verme ve bezemeyi de kapsar. Arapça şakl bu geçmişten biçim adı olarak ayrılır, aktarımın doğrudan Akkadcadan mı yoksa Irak Aramicesi üzerinden mi gerçekleştiği açık değildir. Türkçeye geçtiğinde kelime, bir şeyin tamamlanmış dış görünüşünü anlatan kullanımını korumuştur.",
+    "firstAttestation": {
+      "source": "Gülşehri, Mantıku't-Tayr",
+      "period": "1317",
+      "form": "şekl"
+    },
+    "relatives": [
+      {
+        "word": "şekilci",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Arapça şakl için doğrudan Akkadcadan alıntıyı da seçenek olarak verir; zincirde Irak Aramicesi yolu gösterilmiştir.",
+      "Akkadca şuklulu ile Aramice şaklīl biçimleri, kll kökünün aynı vezinde kurulmuş kardeş türevleridir."
+    ],
+    "funFact": "Şekil, Arapçadaki şkl kökünün türevi gibi görünse de o kökle anlam bağı yoktur.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "şekil maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fekil"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şekil maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

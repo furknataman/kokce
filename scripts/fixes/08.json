@@ -1,0 +1,120 @@
+[
+  {
+    "id": "ayna",
+    "word": "ayna",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "ādēnag/āyēnag",
+        "meaning": "ayna",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "fa",
+        "form": "āyīna/aˀīna",
+        "meaning": "görüntüyü yansıtan nesne",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ayna",
+        "meaning": "görüntü veren yansıtıcı yüzey",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Işığı yansıtarak karşısındakinin görüntüsünü veren yüzey.",
+    "currentMeaning": "Karşısındaki varlıkların görüntüsünü yansıtan, genellikle arka yüzü özel bir tabakayla kaplanmış cam.",
+    "story": "Farsça āyīna, karşısındaki kişiye kendi görüntüsünü gösteren nesnenin adıydı. Daha eski İran dili bağlantıları görme ve gösterme eylemlerine uzanır; ancak Orta Farsçadaki önceki biçim için alternatifler vardır. Türkçede âyine ve ayna biçimleriyle yaşayan ad, bugün de aynı yansıtma işini yapan nesneyi anlatır.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "āyinedür"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Orta Farsça ēwēnag biçimini yeniden kurulan ādēnag/āyēnag biçimlerine alternatif olarak verir ve Avestaca avi-dayana- ile eş kökenlilik ilişkisi kurar."
+    ],
+    "funFact": "Aynanın adını Farsçadaki demir veya Arapçadaki göz sözüyle açıklamak halk etimolojisidir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ayna maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ayna"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ayna",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sümbül",
+    "word": "sümbül",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "he",
+    "chain": [
+      {
+        "language": "he",
+        "form": "şībbəleth",
+        "meaning": "başak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "sunbul/sunbula(t)",
+        "meaning": "başak; başağı andıran çiçek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sümbül",
+        "meaning": "kokulu, soğanlı süs bitkisi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Salkım hâlinde kokulu çiçekler açan soğanlı süs bitkisi.",
+    "currentMeaning": "Soğandan yetişen, çok yıllık, yoğun kokulu ve çeşitli renklerde çiçekleri bulunan süs bitkisi.",
+    "story": "Sümbülün daha eski dil bağlantılarında tahıl başağı vardır. Arapça sunbul, başağın yanı sıra çiçekleri başak gibi dizilen sümbülü de adlandırıyordu. Böylece yenilen tahılın biçimi bir süs çiçeğinin adına taşındı; Türkçeye doğrudan Arapçadan mı, Farsça üzerinden mi ulaştığı konusunda kaynaklar ayrılır.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "sonbul"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçe sümbülü Arapça sunbul/sunbula(t) biçimine bağlarken TDK Güncel Türkçe Sözlük doğrudan kaynak dili Farsça olarak verir."
+    ],
+    "funFact": "Aynı İbranice başak sözünden, İngilizcede bir topluluğa aidiyeti ele veren parola anlamındaki shibboleth gelir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sümbül maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/s%C3%BCmb%C3%BCl"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sümbül",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

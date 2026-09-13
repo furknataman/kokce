@@ -1,0 +1,56 @@
+[
+  {
+    "id": "kem",
+    "word": "kem",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "kam",
+        "meaning": "miktarı az, noksan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kem",
+        "meaning": "kötülük veya uğursuzluk taşıyan",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kötü veya uğursuz sayılan.",
+    "currentMeaning": "Özellikle göz ve söz için kullanılan, kötülük veya uğursuzluk bildiren sıfat.",
+    "story": "Kem, bugün en çok incitici sözü ve uğursuz sayılan bakışı niteler. Bir açıklama kelimeyi Farsçada azlığı ve eksikliği anlatan kam biçimine bağlar. Eski Türkçede ise hastalığı adlandıran bir kem vardır; ancak iki adaydan bugünkü kötü anlamına uzanan geçiş de kesin değildir. Bu yüzden kelimenin bugünkü kullanımı açık olsa da daha eski anlamlarla bağı tartışmalıdır.",
+    "firstAttestation": {
+      "source": "Uygurca metinler",
+      "period": "1000 öncesi",
+      "form": "ig kem"
+    },
+    "relatives": null,
+    "alternatives": [
+      "TDK Güncel Türkçe Sözlük, kötü anlamındaki kem için Farsça köken verir.",
+      "Nişanyan Sözlük, Farsça kam ile Eski Türkçede hastalık bildiren kem biçimlerini alternatif olarak değerlendirir ve güncel anlamı her iki biçimle bağdaştırmanın da güç olduğunu belirtir.",
+      "Maddedeki en eski tanıklık, hastalık anlamındaki Eski Türkçe kem biçimine aittir; bugünkü kötü anlamının bu kayıtla bağı kesin değildir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kem maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kem"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kem maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

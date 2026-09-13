@@ -1,0 +1,60 @@
+[
+  {
+    "id": "bora",
+    "word": "bora",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "mn",
+    "ultimateOrigin": "mn",
+    "chain": [
+      {
+        "language": "mn",
+        "form": "boruġa(n)",
+        "meaning": "yağmur",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bora",
+        "meaning": "çoğunlukla ardından yağmur gelen sert rüzgâr",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çoğunlukla ardından yağmur gelen sert rüzgâr.",
+    "currentMeaning": "Sert esen ve genellikle yağışın habercisi olan rüzgâr; boğanak.",
+    "story": "Boranın geçmişi için iki ayrı dil yolu gösterilir. Moğolca açıklamasında başlangıçtaki boruġa(n) yağmuru adlandırır; Türkçedeki kullanımda ağırlık, yağışla birlikte düşünülen sert rüzgâra kayar. Diğer açıklama ise sözcüğü İtalyanca borea ile bağlar; bu yüzden Türkçeye hangi dilden geçtiği konusunda görüş birliği yoktur.",
+    "firstAttestation": {
+      "source": "et-Tuhfetu'z-Zekiyye fi'l-Lugati't-Türkiyye",
+      "period": "1400 öncesi",
+      "form": "borġan"
+    },
+    "relatives": [
+      {
+        "word": "boran",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, borayı yağmur bildiren Moğolca boruġa(n) biçiminden alınmış olarak açıklar.",
+      "TDK Güncel Türkçe Sözlük, doğrudan kaynak olarak İtalyanca borea biçimini gösterir."
+    ],
+    "funFact": "Sözcüğün Türkçedeki en eski kayıtları bora değil, onunla akraba sayılan boran biçimini gösterir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bora maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bora"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bora maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

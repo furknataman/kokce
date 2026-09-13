@@ -1,0 +1,113 @@
+[
+  {
+    "id": "alaz",
+    "word": "alaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "alaz",
+        "meaning": "ateşten yükselen alev",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ateşten yükselen alev.",
+    "currentMeaning": "Yanan maddelerden yükselen ışıklı ve sıcak dil; alev.",
+    "story": "Alaz, ateşin yükselen ışıklı dilini adlandırır; yalaz ve yalabız biçimleriyle aynı kökeni paylaşır. Ateş görüntüsü şiirde başka nesnelere de taşınmış, dağların karı bile alazla anlatılmıştır. Böylece sözcük, gerçek alevin yanında alevi andıran görünüşü de taşıyabilmiştir.",
+    "firstAttestation": {
+      "source": "Karacaoğlan",
+      "period": "1700 öncesi",
+      "form": "alaz"
+    },
+    "relatives": [
+      {
+        "word": "yalaz",
+        "relation": "akraba"
+      },
+      {
+        "word": "yalabız",
+        "relation": "akraba"
+      },
+      {
+        "word": "alazlamak",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Anadolu ağızlarında aynı kelimenin yalaz, yalım, yalın, yalağı ve yalavı biçimleri yaşar.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "alaz maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/alaz"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "alaz maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "aylak",
+    "word": "aylak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "otk",
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "aylan-",
+        "meaning": "dönerek dolaşmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "aylak",
+        "meaning": "bir işle uğraşmadan duran",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir işle uğraşmadan boş duran.",
+    "currentMeaning": "Yapacak işi bulunmayan veya zamanını herhangi bir işle uğraşmadan geçiren kişi için kullanılan sıfat.",
+    "story": "Aylak, Orta Türkçedeki aylan- eyleminin dönme ve dolanma hareketine bağlanır. Bu hareketin çevresinde gelişen sözcük, bir işle meşgul olmayan kişiyi anlatmaya yerleşmiştir. Bugün aylaklık denince hareketin kendisinden çok zamanı dolduran bir uğraşın yokluğu öne çıkar.",
+    "firstAttestation": {
+      "source": "Anonim — Mukaddimetü'l-Edeb tercümesi",
+      "period": "1300",
+      "form": "aylaḳ"
+    },
+    "relatives": [
+      {
+        "word": "aylaklık",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "aylak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/aylak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "aylak maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

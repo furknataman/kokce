@@ -1,0 +1,59 @@
+[
+  {
+    "id": "erişte",
+    "word": "erişte",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "riştan",
+        "meaning": "iplik eğirmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "rişta",
+        "meaning": "iplik veya şerit",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "erişte",
+        "meaning": "ince şeritler biçiminde kesilip kurutulan hamur",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnce şeritler hâlinde kesilerek kurutulan hamur.",
+    "currentMeaning": "Açılmış hamurun ince uzun parçalar hâlinde kesilip kurutulmasıyla hazırlanan yiyecek.",
+    "story": "Eriştenin adındaki görüntü, ince uzun bir ipliktir. Farsça rişta, eğirme ve bükme eylemiyle bağlantılı olarak ipliği ve şeridi adlandırıyordu. Hamurun ince şeritleri de bu adla anıldı; Türkçedeki eski rişte biçimi, başına ünlü alarak erişteye dönüştü.",
+    "firstAttestation": {
+      "source": "Erzurumlu Darir, Kıssa-i Yusuf tercümesi",
+      "period": "<1377",
+      "form": "rişte"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "erişte maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/eri%C5%9Fte"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "erişte maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

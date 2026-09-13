@@ -1,0 +1,202 @@
+[
+  {
+    "id": "hak",
+    "word": "hak",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥaḳḳ",
+        "meaning": "gerçeğe, yasaya ve erdeme uygunluk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hak",
+        "meaning": "doğruluk, gerçeklik ve hak edilmiş pay",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Doğru ve gerçek olan; kişiye ait olması gereken pay.",
+    "currentMeaning": "Doğruluk ve gerçeklik; ayrıca adalet gereği bir kişiye tanınması veya verilmesi gereken şey.",
+    "story": "Arapça ḥaḳḳ, yasaya, hakikate ve erdeme uygun olmayı anlatıyordu. Aynı Sami kökün Aramice ve İbranicedeki karşılıkları taşa veya metale yazı kazımayı adlandırır, bu yüzden kelimenin arka planında kalıcı biçimde kaydedilmiş bir buyruk fikri sezilir. Türkçede hak, hem doğru olanı hem de kişinin emeği veya konumu gereği kendisine düşeni anlatır.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "ḥaḳ"
+    },
+    "relatives": [
+      {
+        "word": "hukuk",
+        "relation": "akraba"
+      },
+      {
+        "word": "haklı",
+        "relation": "türev"
+      },
+      {
+        "word": "haksız",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Hakkın uzak akrabası olan Aramice ve İbranice ḥaḳaḳ fiili, taşa veya metale yazı oymayı anlatır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hak maddesi; doğruluk ve hak edilmiş pay anlamı",
+        "url": "https://www.nisanyansozluk.com/kelime/hak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hak maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hukuk",
+    "word": "hukuk",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥaḳḳ",
+        "meaning": "doğruluk, yasaya uygunluk, hak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḥuḳūḳ",
+        "meaning": "birden çok hak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hukuk",
+        "meaning": "toplumsal düzeni belirleyen bağlayıcı kurallar bütünü",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Toplum düzenini sağlayan bağlayıcı kurallar bütünü.",
+    "currentMeaning": "İnsanların birbirleriyle ve devletle ilişkilerini düzenleyen, yaptırımlarla desteklenen kuralların bütünü.",
+    "story": "Hukuk, Arapçada hakkın çoğulu olarak kişilere ait hakları bir araya getiriyordu. Türkçedeki erken kullanımında da birinin yerine getirilmesi gereken haklarını anlatıyordu. Zamanla bu hakları düzenleyen kuralların bütününü de adlandırdı ve tek tek kişilerin alacaklarından toplumun ortak düzenine doğru genişledi.",
+    "firstAttestation": {
+      "source": "Anonim — Ferec ba'd eş-şidde",
+      "period": "<1451",
+      "form": "ḥuḳūḳı"
+    },
+    "relatives": [
+      {
+        "word": "hak",
+        "relation": "akraba"
+      },
+      {
+        "word": "hukukçu",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "1945 öncesindeki bütün sözlüklerde hukuk, yalnızca hak kelimesinin çoğulu olarak gösterilir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hukuk maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/hukuk"
+      },
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hak maddesi; daha eski kök bağlantısı",
+        "url": "https://www.nisanyansozluk.com/kelime/hak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hukuk maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "devlet",
+    "word": "devlet",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "dāla",
+        "meaning": "döndü, talih yön değiştirdi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "dawla(t)",
+        "meaning": "dönüş, talih, varlık ve egemenlik",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "devlet",
+        "meaning": "bir ülkenin siyasal ve hukuki örgütlenmesi",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir ülkenin egemen siyasal ve hukuki örgütlenmesi.",
+    "currentMeaning": "Belirli bir toprak üzerinde yaşayan toplumu ortak bir egemenlik ve hukuk düzeni altında örgütleyen tüzel yapı.",
+    "story": "Devletin geçmişinde dönüp duran talih vardır. Arapça dāla feleğin ve kısmetin dönmesini anlatırken, ondan türeyen dawla(t) bu dönüşten bahta, zenginliğe ve iktidara uzanan bir anlam alanı kurdu. Türkçenin erken döneminde de mutluluğu ve talihi anlatan devlet, hükümdarın sahip olduğu güç ve baht üzerinden egemenlikle birleşti. Sonunda kişiye ait bir üstünlüğün adı olmaktan çıkıp siyasal örgütlenmenin soyut adına dönüştü.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "dawlat"
+    },
+    "relatives": [
+      {
+        "word": "devletli",
+        "relation": "türev"
+      },
+      {
+        "word": "dolap",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Devlet ile dolap, geçmişlerinde aynı dönme kökünü paylaşır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "devlet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/devlet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "devlet maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

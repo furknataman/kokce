@@ -1,0 +1,273 @@
+[
+  {
+    "id": "esen",
+    "word": "esen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "tartışmalı",
+    "donorLanguage": "otk",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "āsūdan, āsāy-",
+        "meaning": "dinlenmek, rahat etmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "āsān",
+        "meaning": "dinlenmek, rahat etmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "otk",
+        "form": "esen",
+        "meaning": "rahatlık içinde, ferah",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "esen",
+        "meaning": "bedeni ve ruhu sağlıklı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Beden ve ruh bakımından sağlıklı olan.",
+    "currentMeaning": "Bedensel ve ruhsal sağlığı yerinde bulunan.",
+    "story": "Esen, Eski Türkçede kişinin rahat ve ferah oluşunu anlatıyordu. Bir görüş, bu sözü Farsçada dinlenme eylemine bağlanan āsān ile ilişkilendirir; ancak bu aktarım açıklaması tartışmalıdır. Türkçedeki anlam çizgisinde rahatlık, bedenin ve ruhun iyi oluşuyla birleşir. Böylece esen, kişinin sağlıklı durumunu anlatan bir söz olarak yaşar.",
+    "firstAttestation": {
+      "source": "Türkische Manichäica aus Chotscho 1-3",
+      "period": "900 öncesi",
+      "form": "esenin"
+    },
+    "relatives": [
+      {
+        "word": "esenlik",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Farsça bağlantısını tartışmalı olarak sunar; Doerfer'in İrani alıntı olasılığını değerlendirdiğini, Clauson'ın ise buna karşı çıktığını aktarır."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "esen maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/esen"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "esen maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "gönenmek",
+    "word": "gönenmek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "gönenmek",
+        "meaning": "rahat yaşamak ve mutluluk duymak",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Rahat yaşamak, mutluluk ve sevinç duymak.",
+    "currentMeaning": "İyi hayat şartları içinde bulunmak veya bir durumdan mutluluk ve sevinç duymak.",
+    "story": "Gönenmek, kişinin yaşayışındaki rahatlıkla içindeki sevinci bir araya getirir. Geçim sıkıntısının hafiflediği bir hayat da insanı mutlu eden bir durum da bu fiille anlatılabilir.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "gönenmek maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "gücenmek",
+    "word": "gücenmek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "gücenmek",
+        "meaning": "bir söz veya davranıştan incinmek",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Birinin sözü veya davranışı karşısında incinmek.",
+    "currentMeaning": "Başkasının sözünü ya da davranışını kendine yönelik bir incitme olarak hissedip kırılmak.",
+    "story": "Gücenmek, insanlar arasındaki bir sözün veya davranışın iç dünyada bıraktığı kırgınlığı anlatır. Birinin kendisini önemsenmemiş hissetmesi gibi durumlarda ortaya çıkan incinme, bu fiille dile getirilir.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "gücenmek maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ılgım",
+    "word": "ılgım",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "ılgım",
+        "meaning": "serap görüntüsü",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Uzaktan su varmış gibi görünen serap.",
+    "currentMeaning": "Işığın atmosferde kırılmasıyla oluşan, suya veya uzaktaki nesnelere benzeyen yanıltıcı görüntü.",
+    "story": "Ilgım, uzakta görünen ama yaklaşıldığında su olmadığı anlaşılan serap görüntüsünü adlandırır. Sözcüğün anlattığı sahne, gözün gördüğüyle yerde gerçekten bulunanın birbirinden ayrıldığı bir sahnedir.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ılgım maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "im",
+    "word": "im",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "otk",
+    "ultimateOrigin": "zh",
+    "chain": [
+      {
+        "language": "zh",
+        "form": "yìn",
+        "meaning": "mühür, damga; baskı yapmak; belirti, iz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "otk",
+        "form": "im/em/en",
+        "meaning": "tanıtıcı belirti, hayvan damgası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "im",
+        "meaning": "bir şeyi gösteren belirti veya işaret",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyi gösteren veya tanıtan işaret.",
+    "currentMeaning": "Bir şeyi belirtmek, tanıtmak ya da bildirmek için kullanılan işaret.",
+    "story": "İm için önerilen Çince bağlantı, mühür basma eylemini ve onun bıraktığı izi aynı sözde buluşturan yìn biçimine dayanır. Bu aktarım kesin değildir. Eski Türkçedeki im, em ve en biçimleri, tanımayı sağlayan belirtileri ve hayvanlara vurulan damgaları karşılıyordu. Türkçede bir süre sınırlı kullanımda kalan söz, Dil Devrimi döneminde daha genel bir işaret adı olarak yaygınlaştırıldı.",
+    "firstAttestation": {
+      "source": "Kaşgarî — Divan-i Lugati't-Türk",
+      "period": "1073",
+      "form": "im"
+    },
+    "relatives": [
+      {
+        "word": "imlemek",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Çince yìn ile Eski Türkçe im arasındaki bağlantıyı kesinleşmiş bir aktarım olarak değil, tartışmalı bir köken açıklaması olarak verir."
+    ],
+    "funFact": "İm, eski kullanımında askerî birliklerin birbirini tanımasını sağlayan parolanın da adıydı.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "im maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/im"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "im maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "irkilmek",
+    "word": "irkilmek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "irkilmek",
+        "meaning": "ürküntüyle ani bir çekilme hareketi yapmak",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ürküntüyle birden geri çekilir gibi hareket etmek.",
+    "currentMeaning": "Bir korku veya ürküntü karşısında, geri çekilmeye benzeyen ani bir beden hareketi göstermek.",
+    "story": "İrkilmek, ürküntünün bedende birden görünür olduğu anı anlatır. Beklenmedik bir ses karşısında bedenin geriye çekilir gibi olması, bu fiilin anlattığı hareketi somutlaştırır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "irkilmek maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

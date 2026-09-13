@@ -1,0 +1,66 @@
+[
+  {
+    "id": "bohem",
+    "word": "bohem",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "Boiohaemum",
+        "meaning": "Boii adlı Kelt topluluğunun ülkesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "Bohême",
+        "meaning": "Bohemya adlı Orta Avrupa bölgesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "bohème",
+        "meaning": "Bohemyalı; Roman; düzensiz yaşayan sanatçı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bohem",
+        "meaning": "geleceği düşünmeden, düzensiz ve tasasız yaşayan",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Geleceği dert etmeden, düzensiz ve tasasız yaşayan.",
+    "currentMeaning": "Geçim ve gelecek kaygısını geri plana atarak günübirlik, serbest ve düzensiz bir hayat süren kişi veya topluluğu niteleyen.",
+    "story": "Bohemin yolculuğu, Boii adlı Kelt topluluğunun yurdunu adlandıran Latince Boiohaemum ile başlar. Bu yer adı Fransızcada Bohême biçimini aldı; bohème de önce o ülkeyle ilişkilendirilen insanları, sonra Romanları adlandırdı. Kelime daha sonra yerleşik hayatın düzenine uymayan sanatçılara yöneldi. Türkçede ülke bağlantısı silikleşerek tasasız ve düzensiz bir yaşayışın niteliği öne çıktı.",
+    "firstAttestation": {
+      "source": "Cumhuriyet gazetesi",
+      "period": "1930",
+      "form": "Bohem"
+    },
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bohem maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bohem"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bohem maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

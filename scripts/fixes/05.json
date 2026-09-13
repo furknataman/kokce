@@ -1,0 +1,55 @@
+[
+  {
+    "id": "sandalye",
+    "word": "sandalye",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {
+        "language": "el",
+        "form": "sandáli(on)",
+        "meaning": "tahta ayakkabı tabanı; seki; düz tabanlı küçük tekne",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sandalye",
+        "meaning": "tek kişilik arkalıklı oturma eşyası",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir kişinin oturması için yapılmış arkalıklı eşya.",
+    "currentMeaning": "Genellikle kolçakları bulunmayan, bir kişilik, arkalıklı oturma eşyası.",
+    "story": "Bir açıklama sandalyeyi Yunancada tahta ayakkabı tabanını, sekiyi ve düz tabanlı kayığı adlandıran sandáli(on) ailesine bağlar. Bu anlamlar arasında oturma eşyasına en yakın olan, üzerine oturulan ahşap sekidir. Türkçeye geçiş yolu tartışmalıdır; doğrudan Yunanca açıklamasının yanında Arapça ṣandaliyye biçimini veren açıklama da vardır. Türkçede kelime, tek kişinin oturduğu arkalıklı eşyada yerleşmiştir.",
+    "firstAttestation": {
+      "source": "Erzurumlu Darir — Kıssa-i Yusuf tercümesi",
+      "period": "1377'den önce",
+      "form": "ṣandali"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Yunanca sandáli(on) ve sandália üzerinden bir zincir kurar.",
+      "TDK Güncel Türkçe Sözlük doğrudan kaynak olarak Arapça ṣandaliyye biçimini verir; Türkçeye veren dil konusunda iki kayıt uyuşmaz."
+    ],
+    "funFact": "Altı düz kayığı anlatan sandal kelimesi de aynı Yunanca kaynağa dayanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sandalye maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sandalye"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sandalye maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

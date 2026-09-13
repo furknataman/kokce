@@ -2,6 +2,7 @@
   {
     "id": "insan",
     "word": "insan",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -64,6 +65,7 @@
   {
     "id": "aile",
     "word": "aile",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -122,6 +124,7 @@
   {
     "id": "akraba",
     "word": "akraba",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -176,6 +179,7 @@
   {
     "id": "ahbap",
     "word": "ahbap",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -234,6 +238,7 @@
   {
     "id": "misafir",
     "word": "misafir",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -292,6 +297,7 @@
   {
     "id": "davet",
     "word": "davet",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -350,6 +356,7 @@
   {
     "id": "ziyaret",
     "word": "ziyaret",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -408,6 +415,7 @@
   {
     "id": "sohbet",
     "word": "sohbet",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -470,6 +478,7 @@
   {
     "id": "muhabbet",
     "word": "muhabbet",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -528,6 +537,7 @@
   {
     "id": "selam",
     "word": "selam",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -595,6 +605,7 @@
   {
     "id": "merhaba",
     "word": "merhaba",
+    "rarity": "gündelik",
     "partOfSpeech": "ünlem",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -649,6 +660,7 @@
   {
     "id": "teşekkür",
     "word": "teşekkür",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -707,6 +719,7 @@
   {
     "id": "cevap",
     "word": "cevap",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -765,6 +778,7 @@
   {
     "id": "sual",
     "word": "sual",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -823,6 +837,7 @@
   {
     "id": "haber",
     "word": "haber",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -885,6 +900,7 @@
   {
     "id": "hikâye",
     "word": "hikâye",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -943,6 +959,7 @@
   {
     "id": "masal",
     "word": "masal",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -1008,6 +1025,7 @@
   {
     "id": "şaka",
     "word": "şaka",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "tartışmalı",
     "donorLanguage": "ar",
@@ -1064,6 +1082,7 @@
   {
     "id": "zevk",
     "word": "zevk",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -1122,6 +1141,7 @@
   {
     "id": "keyif",
     "word": "keyif",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",

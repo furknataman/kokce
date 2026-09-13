@@ -1,0 +1,142 @@
+[
+  {
+    "id": "merhem",
+    "word": "merhem",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "mel-",
+        "meaning": "yumuşama, gevşeme",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "mel-ag-",
+        "meaning": "yumuşama, gevşeme",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "grc",
+        "form": "malássō, malag-",
+        "meaning": "bir şeyi yumuşatmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "málagma(t)",
+        "meaning": "yumuşatıcı karışım, özellikle deri işlemede kullanılan bileşim",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "marham/malham",
+        "meaning": "sürülerek kullanılan iyileştirici karışım",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "merhem",
+        "meaning": "deriye sürülen koyu kıvamlı ilaç",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Deriye sürülerek kullanılan koyu kıvamlı ilaç.",
+    "currentMeaning": "Etken maddeler içeren, deriye sürülen, yumuşak ve yoğun kıvamlı yağlı ilaç.",
+    "story": "Merhemin uzak geçmişinde yumuşatma işi vardır: Eski Yunanca málagma, özellikle deri işlemede kullanılan yumuşatıcı karışımı adlandırıyordu. Bu adın ardındaki fiil de yumuşatmayı anlatır ve daha eski Hint-Avrupa biçimlerine bağlanır. Türkçeye gelişinde Farsça marham ile Arapça malġam/malham biçimlerinin rolü konusunda kaynaklar farklı açıklamalar verir. Bugünkü merhem, bu karışım fikrini deriye sürülen koyu kıvamlı ilaçta sürdürür.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "malahan"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Eski Yunanca geçmişi açıklar ve Türkçeye aktarımda Farsça marham/malham ile Arapça malġam/malham seçeneklerini verir; zincirde Farsça seçenek gösterilmiştir.",
+      "TDK Güncel Türkçe Sözlük, Türkçedeki merhemin doğrudan kaynağını Arapça merhem olarak gösterir."
+    ],
+    "funFact": "Arapça biçim en erken, 9. yüzyılda Binbir Gece Masalları'nda kaydedilmiştir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "merhem maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/merhem"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "merhem maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mide",
+    "word": "mide",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ˁadā",
+        "meaning": "bir yerden ötekine geçmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "maˁida(t)/maˁda(t)",
+        "meaning": "besinin toplandığı kursak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mide",
+        "meaning": "yemek borusundan gelen besini işleyen sindirim organı",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yemek borusu ile ince bağırsak arasındaki sindirim organı.",
+    "currentMeaning": "Omurgalılarda yemek borusuyla onikiparmak bağırsağı arasında bulunan ve besinleri işleyen organ; omurgasızlarda sindirim kanalının buna karşılık gelen bölümü.",
+    "story": "Mide, Arapça maˁida veya maˁda biçiminde besinin toplandığı kursağı adlandırıyordu. Bu adın bir yerden ötekine geçmeyi anlatan ˁadā fiiliyle bağlantısı muhtemeldir; böyle bir bağlantı organı besinin geçişi üzerinden açıklar. Türkçenin erken metinlerinde maˁde ve maˁıde biçimleri görülür, daha sonra mide biçimi yerleşir.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "maˁdeye"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, maˁida(t)/maˁda(t) biçimini ˁadā fiiline muhtemel bir türeme ilişkisiyle bağlar; zincirin ilk iki halkası arasındaki ilişki kesin değildir."
+    ],
+    "funFact": "Codex Cumanicus'ta 1303'te mide karşılığı olarak Türkçe kursak kaydedilmiştir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mide maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mide"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mide maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

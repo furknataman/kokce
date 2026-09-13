@@ -1,0 +1,358 @@
+[
+  {
+    "id": "kalp",
+    "word": "kalp",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḳalb",
+        "meaning": "yürek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kalp",
+        "meaning": "kanı dolaşıma pompalayan organ",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kanın vücutta dolaşmasını sağlayan organ.",
+    "currentMeaning": "Göğüste bulunan, kasılıp gevşeyerek kanı akciğerlere ve bedenin diğer bölümlerine pompalayan organ.",
+    "story": "Arapçada ḳalb, göğüste atan yüreğin adıydı ve Türkçeye de bu organın adı olarak geçti. Kelime, Türkçede zaten bulunan yürek ile yan yana yaşadı. Zamanla krizin ve ameliyatın anlatıldığı tıp dilinde yerini aldı.",
+    "firstAttestation": {
+      "source": "Gülşehri — Mantıku't-Tayr",
+      "period": "1317",
+      "form": "ḳalbüm"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Akkadca ḳablu ile Arapça ḳalb, biri ötekinden alınmış değil, aynı Sami kökten gelen kardeş biçimlerdir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kalp maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kalp"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kalp maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "cenaze",
+    "word": "cenaze",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "ganz/gazīnag",
+        "meaning": "gömülü değer, hazine",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "cināza",
+        "meaning": "ölüyü taşıyan tabut",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "cenaze",
+        "meaning": "defnedilmek üzere hazırlanmış ölü",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gömülmek üzere hazırlanmış insan ölüsü.",
+    "currentMeaning": "Kefenlenerek tabuta yerleştirilmiş ve defin için hazırlanmış insan ölüsü.",
+    "story": "Cenazenin uzak geçmişinde Orta Farsçanın hazine ve gömü çevresindeki kelimeleri bulunur. Arapçada ve Farsçada kullanılan cināza ise ölünün konduğu tabuta ad olmuştur. Türkçedeki cenaze, bu taşıyıcı nesnenin adını onun içindeki, gömülmeye hazırlanmış insana taşır.",
+    "firstAttestation": {
+      "source": "Rabguzi — Kısasü'l-Enbiya tercümesi",
+      "period": "1310",
+      "form": "cenāzesiŋe"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük cināza biçimini Arapça ve Farsça olarak birlikte kaydeder, Türkçeye veren dil bu iki seçenek arasında kesinleşmez."
+    ],
+    "funFact": "Aramice ginzā ve gənīzā biçimleri, gömü ve saklı değer anlamlarıyla cenazenin uzak akrabalarıdır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "cenaze maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/cenaze"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "cenaze maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "merasim",
+    "word": "merasim",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "marāsim",
+        "meaning": "yerine getirilen resmî işlemler ve törenler",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "merasim",
+        "meaning": "belirli usullerle yapılan tören",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Belirli usullere göre düzenlenen tören.",
+    "currentMeaning": "Bir olay veya kişi için belirlenmiş kurallara ve sıraya göre gerçekleştirilen törensel etkinlik.",
+    "story": "Merasimin Arapçadaki biçimi marāsim, hem resmî işlemleri hem de törenleri kapsıyordu. Türkçedeki eski kullanımında da bir saltanatın gerektirdiği işlemlerin yerine getirilmesi anlatılıyordu. Bugünkü törende korunan bağ, hareketlerin ve uygulamaların belirli bir usule göre yürütülmesidir.",
+    "firstAttestation": {
+      "source": "Hoca Sadeddin Efendi — Tacü't-Tevârih",
+      "period": "1574",
+      "form": "merāsimini"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "merasim maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/merasim"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "merasim maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "helva",
+    "word": "helva",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥalab",
+        "meaning": "süt",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḥalwāˀ",
+        "meaning": "çeşitli tatlılar ve şekerlemeler",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "helva",
+        "meaning": "şeker ve yağla hazırlanan bir tatlı türü",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Şeker, yağ ve un ya da irmikle hazırlanan tatlı.",
+    "currentMeaning": "Un veya irmik gibi bir malzemenin yağ ve şekerle işlenmesiyle hazırlanan tatlı.",
+    "story": "Helva adının geçmişinde süt ile tatlılık arasında kurulmuş bir bağ vardır. Arapça ḥalab sütü adlandırırken onunla bağlantılı ḥalwāˀ, tek bir tariften daha geniş bir tatlılar dünyasını kapsar. Türkçeye geçen ad, un veya irmikle hazırlananlar gibi belirli tatlı çeşitlerinde yerleşti.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "ḥalva"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Tatlıyı sütle birleştiren aynı düşünce, Eski Türkçe süçig ile Farsça şīrīn kelimelerinde de görülür.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "helva maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/helva"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "helva maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zeytin",
+    "word": "zeytin",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {
+        "language": "arc",
+        "form": "zeytā",
+        "meaning": "zeytin ve zeytinden elde edilen yağ",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "zayt",
+        "meaning": "zeytin ve zeytinyağı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "zaytūn",
+        "meaning": "zeytinin meyveleri",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "zeytin",
+        "meaning": "zeytin ağacı ve meyvesi",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Akdeniz'de yetişen, yağlı meyveler veren uzun ömürlü ağaç.",
+    "currentMeaning": "Akdeniz çevresinde yetişen, gümüşi yapraklı ve yağ elde edilen meyvelere sahip, uzun ömürlü Olea europaea ağacı.",
+    "story": "Zeytinin adı, Doğu Akdeniz'de meyve ile ondan çıkarılan yağın çevresinde dolaşır. Aramice zeytā ve Arapça zayt bu ikisini birlikte adlandırırken, Arapça zaytūn meyve tanelerini öne çıkarır; Türkçe zeytin de bu biçimden alınmıştır. İbranice ve Fenike dilindeki benzerleri kelimenin akrabalarıdır. Daha uzak kaynağının bölgedeki Sami dillerinden önce konuşulmuş bir dil olması önerilir, ancak bu dil kesin olarak belirlenmiş değildir.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "zeytin"
+    },
+    "relatives": [
+      {
+        "word": "zeytinlik",
+        "relation": "türev"
+      },
+      {
+        "word": "zeytinci",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, kelimenin nihai kaynağını Doğu Akdeniz'de Sami dillerinden önce konuşulan, adı belirlenmemiş bir dilin kalıntısı olarak değerlendirir."
+    ],
+    "funFact": "Orta Farsça zayt ile Ermenice tsét biçimleri de bu adı Aramiceden almıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "zeytin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/zeytin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "zeytin maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "salep",
+    "word": "salep",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "s̱aˁlab",
+        "meaning": "tilki",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḫuṣyatu's̱-s̱aˁlab",
+        "meaning": "tilkinin testisi; benzetmeyle orkide",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "salep",
+        "meaning": "yumrulu bir orkide türü",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Toprak altında yumruları bulunan bir orkide.",
+    "currentMeaning": "Salepgillerden, toprak altında yumru oluşturan ve çiçekleri salkım ya da başak biçiminde toplanan Orchis cinsi bitki.",
+    "story": "Salebin adlandırılmasında bitkinin toprak altındaki yumrularıyla bir hayvanın organı arasında kurulan benzerlik öne çıkar. Bir açıklama, Arapça tilki adını taşıyan ve tilkinin testisini belirten bitki adının Türkçede kısalarak salep olduğunu anlatır. Bununla birlikte, Türkçeye kaynak gösterilen Arapça biçim konusunda sözlükler ayrılır; başka bir kayıt doğrudan saḥleb biçimini verir.",
+    "firstAttestation": {
+      "source": "Hızır Paşa — Müntehab-ı Şifa",
+      "period": "1410'dan önce",
+      "form": "ṣaˁleb"
+    },
+    "relatives": [
+      {
+        "word": "salepçi",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, salebi Arapça ḫuṣyatu's̱-s̱aˁlab ifadesinin kısalmış biçimiyle açıklar ve modern Arapçadaki ilgili yazımları Türkçeden geri alıntı sayar.",
+      "TDK Güncel Türkçe Sözlük, doğrudan kaynak olarak Arapça saḥleb biçimini gösterir."
+    ],
+    "funFact": "Anadolu ağızlarında aynı bitki için it taşağı adı da kullanılır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "salep maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/salep"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "salep maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "batch": 28,
+  "file": "scripts/batches/28.json",
+  "promptVersion": "v10",
+  "promptFile": "scripts/prompts/generate_batch.md",
+  "model": "gpt-6-astra",
+  "generatedAt": "2026-09-13T14:00:35+03:00",
+  "requestedWords": [
+    "mütemayil",
+    "müstesna",
+    "müstakbel",
+    "muvaffak",
+    "münzevi",
+    "müsamaha",
+    "mutena",
+    "mücmel",
+    "müstakil",
+    "müteaddit"
+  ],
+  "originHints": {
+    "mütemayil": "ar",
+    "müstesna": "ar",
+    "müstakbel": "ar",
+    "muvaffak": "ar",
+    "münzevi": "ar",
+    "müsamaha": "ar",
+    "mutena": "ar",
+    "mücmel": "ar",
+    "müstakil": "ar",
+    "müteaddit": "ar"
+  },
+  "rarity": {
+    "mütemayil": "az-bilinen",
+    "müstesna": "az-bilinen",
+    "müstakbel": "az-bilinen",
+    "muvaffak": "az-bilinen",
+    "münzevi": "az-bilinen",
+    "müsamaha": "az-bilinen",
+    "mutena": "az-bilinen",
+    "mücmel": "az-bilinen",
+    "müstakil": "az-bilinen",
+    "müteaddit": "az-bilinen"
+  },
+  "requestedCount": 10,
+  "returnedCount": 10,
+  "rawFile": "scripts/batches/28.raw.txt",
+  "logFile": "scripts/log/28.codex.log"
+}

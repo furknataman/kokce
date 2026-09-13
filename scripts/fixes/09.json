@@ -1,0 +1,308 @@
+[
+  {
+    "id": "dert",
+    "word": "dert",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "dard",
+        "meaning": "acı, keder, hastalık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dert",
+        "meaning": "üzüntü, sıkıntı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsanı üzen veya sıkıntıya sokan durum.",
+    "currentMeaning": "İnsanın içini sıkan üzüntü veya bu üzüntüyü doğuran sorun.",
+    "story": "Farsçadaki dard, hem bedeni inciten hastalığı hem de insanın içini acıtan kederi kapsıyordu. Türkçeye geçerken bu iki acı alanını birlikte taşıdı. Bugün bir sorunu dert diye adlandırmak, onu insanın üzerinde duyduğu bir acı gibi anlatır.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "derdine"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "dert maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/dert"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "dert maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "derman",
+    "word": "derman",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "dʰer-",
+        "meaning": "sağlıklı olmak, sağaltmak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "dʰér-mn̥",
+        "meaning": "iyileşme",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "fa",
+        "form": "darmān",
+        "meaning": "ilaç ve tedavi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "derman",
+        "meaning": "güç, takat; iyileştiren çare",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir işi yapmaya yeten güç; iyileştiren çare.",
+    "currentMeaning": "Bir şeyi yapabilmek için gereken güç ve dayanıklılık; bir sıkıntıyı gideren çare.",
+    "story": "Dermanın eski kökü, sağlıklı olma ve iyileşme düşüncesine uzanır. Farsçada darmān, hastayı sağlığına kavuşturan ilacı ve tedaviyi adlandırıyordu. Türkçede hem hastalığı gideren çareyi hem de insanın bedeninde duyduğu gücü anlatır; dermanı kalmayan kişi, hareket edecek takati bulamaz.",
+    "firstAttestation": {
+      "source": "Edib Ahmed — Atebet-ül Hakayık",
+      "period": "<1250?",
+      "form": "darmānı"
+    },
+    "relatives": [
+      {
+        "word": "dharma",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Hint düşüncesindeki dharma adı ile derman, sağlamlık ve sağalma çevresindeki aynı eski kökü paylaşır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "derman maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/derman"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "derman maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dost",
+    "word": "dost",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "peo",
+    "chain": [
+      {
+        "language": "peo",
+        "form": "dauştā",
+        "meaning": "dost, sevilen kişi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "dōst",
+        "meaning": "yakın arkadaş, sevgili",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dost",
+        "meaning": "sevilen ve güvenilen yakın kişi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sevilen ve güven duyulan yakın kişi.",
+    "currentMeaning": "Sevgi ve güven bağı kurulan, iyi anlaşılan yakın kimse.",
+    "story": "Dost, eski İran dillerinden beri sevilen ve yakın tutulan kişiyi anlatan bir addır. Farsçadaki dōst, arkadaşlıkla sevgililik arasındaki yakınlık alanını kapsıyordu. Türkçede de yalnız tanışıklığı değil, birine gönül rahatlığıyla güvenebilmeyi anlatan güçlü bağını korur.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "dostḳa"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "dost maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/dost"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "dost maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "düşman",
+    "word": "düşman",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "duşmān/duşman",
+        "meaning": "kötülük isteyen kişi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "düşman",
+        "meaning": "zarar vermek isteyen kişi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Birinin kötülüğünü isteyen ve ona zarar vermeye çalışan kişi.",
+    "currentMeaning": "Birine karşı nefret veya zarar verme isteği taşıyan, onun kötülüğünü isteyen kimse.",
+    "story": "Düşmanın eski anlam yapısında, karşısındaki için kötü şeyler düşünen kişi vardır. Farsçadaki kelimenin Avestaca eş kökenlisi duşmanah-, kötülük bildiren duş ile düşünceyi anlatan manah- öğelerini birleştirir. Türkçedeki düşman da bu kötü niyeti korur ve başkasına zarar vermek isteyen kişiyi adlandırır.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "duşman"
+    },
+    "relatives": [
+      {
+        "word": "düşmanlık",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Eski Yunanca düşman anlamındaki dysménēs de kötü ile düşünce öğelerinden kurulmuş paralel bir yapıdır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "düşman maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/d%C3%BC%C5%9Fman"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "düşman maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hoş",
+    "word": "hoş",
+    "rarity": "gündelik",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "huşnūd",
+        "meaning": "memnun, hoşnut",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "pal",
+        "form": "ḫʷaş",
+        "meaning": "güzel, memnuniyet veren",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "ḫoş/ḫʷaş",
+        "meaning": "güzel, memnuniyet veren",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hoş",
+        "meaning": "beğenilen, zevk veren",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsanda beğeni ve memnuniyet uyandıran.",
+    "currentMeaning": "Duyulara veya duygulara iyi gelen, beğenilen ve zevk veren.",
+    "story": "Hoş, Farsçada güzelliği ve insanda uyandırdığı memnuniyeti birlikte anlatıyordu. Daha geride, Orta Farsçada memnun olmayı bildiren huşnūd ile bir bağlantı bulunabilir; bu ses gelişimi kesin değildir. Türkçede kelime aynı duygu alanını korur: hoş bir ses ya da davranış, onu algılayan kişide iyi bir karşılık bulur.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "ḫoş"
+    },
+    "relatives": [
+      {
+        "word": "hoşlanmak",
+        "relation": "türev"
+      },
+      {
+        "word": "sarhoş",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Orta Farsça huşnūd ile ḫʷaş arasındaki ses gelişimini muhtemel sayar; TDK Güncel Türkçe Sözlük yalnız Farsça ḫoş biçimini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hoş maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ho%C5%9F"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hoş maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
