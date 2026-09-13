@@ -96,7 +96,14 @@ struct KokceMediumView: View {
                 Text(word.shortMeaning)
                     .font(.subheadline)
                     .foregroundStyle(Theme.inkSoft)
-                    .lineLimit(3)
+                    .lineLimit(2)
+                    .minimumScaleFactor(0.9)
+                // Güncel anlam alt yarıyı doldurur. Kısa anlam üç satıra
+                // bırakılsaydı ikisi birlikte 170 pt'lik aileye sığmazdı.
+                Text(word.currentMeaning)
+                    .font(.caption)
+                    .foregroundStyle(Theme.inkSoft.opacity(0.9))
+                    .lineLimit(2)
                     .minimumScaleFactor(0.9)
                 Spacer(minLength: 0)
             }

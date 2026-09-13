@@ -1,0 +1,24 @@
+name: Doğrulama
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  icerik:
+    name: İçerik şeması
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Kelime dosyasını doğrula
+        run: python3 scripts/validate_words.py
+
+  kit:
+    name: KokenKit testleri
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: swift test
+        working-directory: Packages/KokenKit
+        run: swift test

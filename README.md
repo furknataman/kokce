@@ -11,6 +11,23 @@ geliyor. Türkçe kelimelerin kökenini anlatan, günün kelimesi odaklı, widge
   şema `kokce://`
 - **Lisans:** kod MIT (`LICENSE`), içerik CC BY-SA 4.0 (`LICENSE-CONTENT`)
 
+## Görseller
+
+<img src="Design/app-icon-1024.png" alt="Kökçe ikonu" width="120">
+
+Ekran görüntüleri: _Bugün, Sözlük, kelime detayı ve widget aileleri buraya eklenecek._
+
+## Nasıl çalışır
+
+- **Günün kelimesi deterministiktir:** takvimin başlangıcından bugüne gün
+  farkı, sabit `Europe/Istanbul` saat dilimiyle hesaplanır; cihazın saat
+  dilimi ne olursa olsun herkes aynı kelimeyi görür.
+- **İçerik gömülüdür, uzaktan tazelenir:** uygulama `words.json`'ı kendi
+  paketinden okur, günde bir kez depodaki güncel dosyayı ETag ile yoklar ve
+  yalnızca doğrulamadan geçen yeni sürümü kullanır.
+- **Gizlilik:** hesap yok, sunucu yok, izleme yok. Favoriler ve ayarlar
+  yalnızca cihazda durur; hiçbir kullanım verisi toplanmaz.
+
 ## Geliştirme
 
 ```bash
