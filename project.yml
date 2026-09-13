@@ -1,0 +1,159 @@
+name: Koken
+
+options:
+  bundleIdPrefix: com.solvy
+  deploymentTarget:
+    iOS: "18.0"
+  developmentLanguage: tr
+  knownRegions:
+    - tr
+    - en
+  createIntermediateGroups: true
+  groupSortPosition: top
+  defaultConfig: Debug
+
+settings:
+  base:
+    SWIFT_VERSION: "6.0"
+    SWIFT_STRICT_CONCURRENCY: complete
+    SWIFT_EMIT_LOC_STRINGS: YES
+    LOCALIZATION_PREFERS_STRING_CATALOGS: YES
+    GENERATE_INFOPLIST_FILE: NO
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+    TARGETED_DEVICE_FAMILY: "1"   # 1 = iPhone
+    DEVELOPMENT_TEAM: "PY8XQ9L8AA"
+    CODE_SIGN_STYLE: Automatic
+
+configs:
+  Debug: debug
+  Release: release
+
+packages:
+  KokenKit:
+    path: Packages/KokenKit
+  SolvyKit:
+    path: ../SolvyKit
+
+schemes:
+  Koken:
+    build:
+      targets:
+        Koken: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+      targets:
+        - KokenTests
+    profile:
+      config: Release
+    analyze:
+      config: Debug
+    archive:
+      config: Release
+  KokenWidget:
+    build:
+      targets:
+        KokenWidget: all
+    run:
+      config: Debug
+
+targets:
+  Koken:
+    type: application
+    platform: iOS
+    sources:
+      - path: App
+      - path: Resources
+    dependencies:
+      - package: KokenKit
+        product: KokenKit
+      - package: SolvyKit
+        product: SharedKit
+      - package: SolvyKit
+        product: ReviewKit
+      - target: KokenWidget
+        embed: true
+        codeSign: true
+    entitlements:
+      path: App/Koken.entitlements
+      properties:
+        com.apple.security.application-groups:
+          - group.com.solvy.koken
+    info:
+      path: App/Info.plist
+      properties:
+        CFBundleDisplayName: "Köken"
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        CFBundleLocalizations:
+          - tr
+          - en
+        UILaunchScreen: {}
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+        ITSAppUsesNonExemptEncryption: false
+        CFBundleURLTypes:
+          - CFBundleURLName: com.solvy.koken
+            CFBundleURLSchemes:
+              - koken
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.solvy.koken
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor
+        ENABLE_PREVIEWS: YES
+        SUPPORTS_MACCATALYST: NO
+
+  KokenWidget:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: Widget
+      # Tasarım dili tek yerde tanımlı; widget yalnızca bu dosyayı paylaşır.
+      - path: App/DesignSystem/Theme.swift
+      # Widget uygulama hiç açılmadan çalışsın diye katalog uzantının
+      # bundle'ına da kopyalanır.
+      - path: Resources/Content/words.json
+      - path: Resources/Localizable.xcstrings
+    dependencies:
+      - package: KokenKit
+        product: KokenKit
+    entitlements:
+      path: Widget/KokenWidget.entitlements
+      properties:
+        com.apple.security.application-groups:
+          - group.com.solvy.koken
+    info:
+      path: Widget/Info.plist
+      properties:
+        CFBundleDisplayName: "Köken"
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        CFBundleLocalizations:
+          - tr
+          - en
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.solvy.koken.widget
+        SKIP_INSTALL: YES
+        SUPPORTS_MACCATALYST: NO
+
+  KokenTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+      - path: Tests
+    dependencies:
+      - target: Koken
+      - package: KokenKit
+        product: KokenKit
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.solvy.koken.tests
+        GENERATE_INFOPLIST_FILE: YES

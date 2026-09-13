@@ -1,0 +1,36 @@
+# Köken
+
+Her gün bir kelimenin hikâyesi: nereden geldi, nasıl değişti, bugün ne anlama
+geliyor. Türkçe kelimelerin kökenini anlatan, günün kelimesi odaklı, widget'lı,
+ücretsiz ve açık kaynak bir iOS uygulaması.
+
+- **Platform:** iOS 18+, iPhone
+- **Bağımlılık yok:** SwiftUI + WidgetKit + yerel `SolvyKit`
+- **İçerik:** `Resources/Content/words.json` (gömülü), uzaktan güncellenebilir
+- **Lisans:** kod MIT (`LICENSE`), içerik CC BY-SA 4.0 (`LICENSE-CONTENT`)
+
+## Geliştirme
+
+```bash
+xcodegen generate
+xcodebuild build -scheme Koken -destination 'platform=iOS Simulator,name=iPhone 17' CODE_SIGNING_ALLOWED=NO -quiet
+cd Packages/KokenKit && swift test
+```
+
+Xcode projesi üretilir, elle düzenlenmez. Kaynak dosya ekledikten sonra
+`xcodegen generate` çalıştırın.
+
+---
+
+# Köken (EN)
+
+A free, open-source iOS app that tells the story of Turkish words: where they
+came from, how they changed, what they mean today. One word each day, with
+widgets.
+
+- **Platform:** iOS 18+, iPhone
+- **No third-party dependencies:** SwiftUI + WidgetKit + local `SolvyKit`
+- **Content:** bundled `Resources/Content/words.json`, updatable over the air
+- **License:** code MIT (`LICENSE`), content CC BY-SA 4.0 (`LICENSE-CONTENT`)
+
+Content is Turkish only; the interface is Turkish and English.

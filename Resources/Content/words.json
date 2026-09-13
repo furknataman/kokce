@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "schedule": {
+    "start": "2026-10-01",
+    "ids": ["kalem", "pencere", "çay"]
+  },
+  "languages": {
+    "ar": "Arapça",
+    "fa": "Farsça",
+    "grc": "Eski Yunanca",
+    "tr": "Türkçe",
+    "zh": "Çince"
+  },
+  "words": [
+    {
+      "id": "kalem",
+      "word": "kalem",
+      "partOfSpeech": "isim",
+      "formationType": "alıntı",
+      "donorLanguage": "ar",
+      "ultimateOrigin": "grc",
+      "chain": [
+        {
+          "language": "grc",
+          "form": "kálamos",
+          "meaning": "kamış, saz",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "ar",
+          "form": "qalam",
+          "meaning": "kamış kalem",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "tr",
+          "form": "kalem",
+          "meaning": "yazı aracı",
+          "period": null,
+          "reconstructed": false
+        }
+      ],
+      "shortMeaning": "Yazı yazmaya yarayan araç.",
+      "currentMeaning": "Yazı yazmak veya çizmek için kullanılan, ucundan boya, mürekkep ya da grafit bırakan araç.",
+      "story": "Eski Yunancada kálamos, kıyıda biten kamışın adıydı. Ucu eğik kesilip mürekkebe batırılan bu kamış, Arapçaya qalam biçiminde geçti ve yazının aracı oldu. Türkçeye Arapçadan gelen kelime, kamış çoktan yerini madene bıraksa da adını korudu.",
+      "firstAttestation": null,
+      "relatives": [
+        { "word": "kalemtıraş", "relation": "birleşik" },
+        { "word": "kalem işi", "relation": "birleşik" }
+      ],
+      "alternatives": null,
+      "funFact": "Aynı Yunanca kökten gelen \"kalamar\" da mürekkebiyle anılır.",
+      "sources": [
+        { "name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/" },
+        { "name": "TDK Güncel Türkçe Sözlük", "ref": "kalem maddesi", "url": "https://sozluk.gov.tr/" }
+      ],
+      "confidence": "yüksek",
+      "reviewed": true
+    },
+    {
+      "id": "pencere",
+      "word": "pencere",
+      "partOfSpeech": "isim",
+      "formationType": "alıntı",
+      "donorLanguage": "fa",
+      "ultimateOrigin": "fa",
+      "chain": [
+        {
+          "language": "fa",
+          "form": "penc",
+          "meaning": "beş",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "fa",
+          "form": "pencere",
+          "meaning": "kafes, ızgara",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "tr",
+          "form": "pencere",
+          "meaning": "duvardaki ışık ve hava açıklığı",
+          "period": null,
+          "reconstructed": false
+        }
+      ],
+      "shortMeaning": "Duvarda ışık ve hava almaya yarayan açıklık.",
+      "currentMeaning": "Yapıların duvarında bulunan, ışık ve hava girmesini sağlayan, camla kapatılan açıklık.",
+      "story": "Farsçada pencere, çubukların birbirini kestiği kafes demekti; kelimenin penc yani beş sayısıyla ilişkilendirilmesi bu kafesin çubuk düzeninden gelir. Camın pahalı olduğu çağlarda duvardaki boşluk camla değil, ahşap kafesle kapatılırdı. Türkçeye geçen kelime, kafes yerini cama bıraktıktan sonra da aynı açıklığın adı olarak kaldı.",
+      "firstAttestation": null,
+      "relatives": [
+        { "word": "pencerelik", "relation": "türev" }
+      ],
+      "alternatives": [
+        "Kimi kaynaklar kelimeyi, \"kafes\" anlamındaki Sanskritçe pañjara ile ilişkilendirir."
+      ],
+      "funFact": null,
+      "sources": [
+        { "name": "Nişanyan Sözlük", "ref": "pencere maddesi", "url": "https://www.nisanyansozluk.com/" },
+        { "name": "TDK Güncel Türkçe Sözlük", "ref": "pencere maddesi", "url": "https://sozluk.gov.tr/" }
+      ],
+      "confidence": "orta",
+      "reviewed": true
+    },
+    {
+      "id": "çay",
+      "word": "çay",
+      "partOfSpeech": "isim",
+      "formationType": "alıntı",
+      "donorLanguage": "fa",
+      "ultimateOrigin": "zh",
+      "chain": [
+        {
+          "language": "zh",
+          "form": "chá",
+          "meaning": "çay bitkisi, çay içeceği",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "fa",
+          "form": "çāy",
+          "meaning": "çay",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "tr",
+          "form": "çay",
+          "meaning": "çay yaprağından demlenen içecek",
+          "period": null,
+          "reconstructed": false
+        }
+      ],
+      "shortMeaning": "Çay bitkisinin yaprağından demlenen içecek.",
+      "currentMeaning": "Çay bitkisinin kurutulmuş yaprağının kaynar suda demlenmesiyle elde edilen içecek.",
+      "story": "Çayın anayurdu Çin'de kelimenin biçimi chá idi. Kara yoluyla batıya taşınan içecek, adını da yanında götürdü: Farsçaya çāy olarak geçti, oradan Türkçeye ulaştı. Deniz yoluyla taşınan çay ise Çincenin güney ağızlarındaki te biçimini yaydı; İngilizcedeki tea ile Türkçedeki çay bu yüzden aynı kelimenin iki ayrı yolculuğudur.",
+      "firstAttestation": null,
+      "relatives": [
+        { "word": "çaydanlık", "relation": "türev" },
+        { "word": "çayhane", "relation": "birleşik" }
+      ],
+      "alternatives": null,
+      "funFact": "Türkçede \"çay\" aynı zamanda küçük akarsu demektir; bu ikinci çay Eski Türkçe kökenlidir ve içecekle akraba değildir.",
+      "sources": [
+        { "name": "Nişanyan Sözlük", "ref": "çay maddesi", "url": "https://www.nisanyansozluk.com/" },
+        { "name": "TDK Güncel Türkçe Sözlük", "ref": "çay maddesi", "url": "https://sozluk.gov.tr/" }
+      ],
+      "confidence": "yüksek",
+      "reviewed": true
+    }
+  ]
+}

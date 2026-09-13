@@ -1,0 +1,76 @@
+{
+  "sourceLanguage" : "tr",
+  "strings" : {
+    "dictionary.search" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Search words" }
+        },
+        "tr" : {
+          "stringUnit" : { "state" : "translated", "value" : "Kelime ara" }
+        }
+      }
+    },
+    "tab.dictionary" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Dictionary" }
+        },
+        "tr" : {
+          "stringUnit" : { "state" : "translated", "value" : "Sözlük" }
+        }
+      }
+    },
+    "tab.settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Settings" }
+        },
+        "tr" : {
+          "stringUnit" : { "state" : "translated", "value" : "Ayarlar" }
+        }
+      }
+    },
+    "tab.today" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Today" }
+        },
+        "tr" : {
+          "stringUnit" : { "state" : "translated", "value" : "Bugün" }
+        }
+      }
+    },
+    "today.empty" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "No word for today yet." }
+        },
+        "tr" : {
+          "stringUnit" : { "state" : "translated", "value" : "Bugünün kelimesi henüz hazır değil." }
+        }
+      }
+    },
+    "widget.description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Today's word and its short meaning." }
+        },
+        "tr" : {
+          "stringUnit" : { "state" : "translated", "value" : "Günün kelimesi ve kısa anlamı." }
+        }
+      }
+    },
+    "widget.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Word of the Day" }
+        },
+        "tr" : {
+          "stringUnit" : { "state" : "translated", "value" : "Günün Kelimesi" }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
