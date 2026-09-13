@@ -3,24 +3,7 @@
     "id": "hâr",
     "verdict": "drop",
     "objections": [
-      "formationType null ve doğrulayıcı hata veriyor; asıl sorun daha derinde: madde başı şapkalı yazılmış, yani edebî alıntı kastedilmiş, ama içerik TDK'nin ilk homoniminden, yani ilgisiz Türkçe kelimeden yazılmış. formationType'a alıntı yazmak bu Türkçe anlamı Farsça alıntı gibi göstereceği için durumu kötüleştirir.",
-      "İçerik TDK'deki 'har' (har vurup harman savurmak) maddesinden yazılmış; madde başının karşılığı Arapça ḥarr 'sıcak, kızgın' TDK'de ikinci homonim olarak var, madde bu kayıttan yeniden üretilmeli."
-    ]
-  },
-  {
-    "id": "hemavaz",
-    "verdict": "drop",
-    "objections": [
-      "Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve Kubbealtı Lugatı'nın üçünde de madde bulunamadı.",
-      "sources Kubbealtı'nda 'hemâvaz maddesi' diyor; çekim şapkasız yapıldığı için boşa düşmüş olabilir, hemâvaz yazımıyla yeniden çekilmeli."
-    ]
-  },
-  {
-    "id": "hurşit",
-    "verdict": "drop",
-    "objections": [
-      "Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve Kubbealtı Lugatı'nın üçünde de madde bulunamadı.",
-      "sources Kubbealtı'nı gösteriyor ve çekim aynı yazımla yapılmış, yine de kayıt dönmemiş; çekim hatası olabilir, yeniden denenmeli."
+      "Nişanyan, TDK ve Kubbealtı'nda madde bulunamadı; şapkasız arama başka bir sözcüğü döndürüyor."
     ]
   }
 ]

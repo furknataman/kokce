@@ -858,41 +858,6 @@
     "reviewed": false
   },
   {
-    "id": "kevkep",
-    "word": "kevkep",
-    "rarity": "az-bilinen",
-    "partOfSpeech": "isim",
-    "formationType": "alıntı",
-    "donorLanguage": "ar",
-    "ultimateOrigin": "ar",
-    "chain": [
-      {
-        "language": "ar",
-        "form": "kawkab",
-        "meaning": "yıldız",
-        "period": null,
-        "reconstructed": false
-      },
-      {
-        "language": "tr",
-        "form": "kevkep",
-        "meaning": "yıldız",
-        "period": null,
-        "reconstructed": false
-      }
-    ],
-    "shortMeaning": "Gökte görülen yıldız.",
-    "currentMeaning": "Yıldız.",
-    "story": "Arapça kawkab, gökyüzündeki yıldızı adlandırır. Türkçedeki kevkep de aynı gök cismine verilen bir addır; kelimenin taşıdığı görüntü gece göğünde parlayan yıldızdır.",
-    "firstAttestation": null,
-    "relatives": [],
-    "alternatives": null,
-    "funFact": null,
-    "sources": [],
-    "confidence": "orta",
-    "reviewed": false
-  },
-  {
     "id": "şetaret",
     "word": "şetaret",
     "rarity": "az-bilinen",
@@ -1052,6 +1017,58 @@
       }
     ],
     "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kevkeb",
+    "word": "kevkeb",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {
+        "language": "arc",
+        "form": "kawkāb, kawkbā",
+        "meaning": "yıldız",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "kawkab",
+        "meaning": "yıldız",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kevkeb",
+        "meaning": "yıldız",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yıldızın eski adlarından biri.",
+    "currentMeaning": "Gökyüzündeki yıldız için kullanılan bir ad.",
+    "story": "Kevkebin dil yolculuğu, Aramice-Süryanice / İbranice halkasında gökteki yıldızı adlandıran kawkāb, kawkbā biçimleriyle başlar. Arapçada kawkab, Türkçede kevkeb biçimini alırken aynı gök cismine bağlı kalır. Türkçedeki erken kullanımında inci ve yakutla bezeli yıldız biçimli süsleri de adlandırır; böylece gökteki parıltının adı, değerli taşlarla yapılmış bir bezemeye taşınır.",
+    "firstAttestation": {
+      "source": "Rabguzi — Kısasü'l-Enbiya terc.",
+      "period": "1310",
+      "form": "kevkebler"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kevkeb maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kevkeb"
+      }
+    ],
+    "confidence": "orta",
     "reviewed": false
   }
 ]

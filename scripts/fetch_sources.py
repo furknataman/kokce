@@ -307,20 +307,39 @@ def spelling_variants(word, limit=5):
     return out[:limit]
 
 
+def circumflex_consistent(parsed, word):
+    """Şapkasız varyantla gelen sonuç gerçekten aynı sözcük mü.
+
+    çâk şapkasız sorulunca TDK'nin bambaşka bir maddesi (çak) dönüyor.
+    Sorulan kelimede şapka varsa, dönen madde başlarından en az biri de
+    şapkalı olmalıdır; değilse sonuç kabul edilmez.
+    """
+    if not any(c in nfc(word) for c in "âîû"):
+        return True
+    for entry in parsed.get("entries") or []:
+        head = entry.get("madde") or entry.get("kelime") or ""
+        if any(c in head for c in "âîû"):
+            return True
+    return False
+
+
 def fetch_with_variants(fetcher, parser, word, limit=5):
-    """Varyantları sırayla dener, ilk dolu yanıtı döner."""
+    """Varyantları sırayla dener, ilk kabul edilebilir dolu yanıtı döner."""
     last_error = None
+    original = nfc(word).strip()
     for variant in spelling_variants(word, limit):
         raw, error = fetcher(variant)
         if error:
             last_error = error
             continue
         parsed = parser(raw, word)
-        if parsed.get("found"):
-            if variant != nfc(word).strip():
+        # Denetim asıl sorguya da uygulanır: TDK ve Kubbealtı aramaları şapkayı
+        # yok saydığı için çâk sorgusu da çak maddesini döndürüyor.
+        if parsed.get("found") and circumflex_consistent(parsed, word):
+            if variant != original:
                 parsed["queriedAs"] = variant
             return parsed, None
-        if variant != nfc(word).strip():
+        if variant != original:
             time.sleep(POLITE_DELAY)
     return {"found": False, "entries": []}, last_error
 

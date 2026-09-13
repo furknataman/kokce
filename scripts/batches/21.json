@@ -946,47 +946,6 @@
     "reviewed": false
   },
   {
-    "id": "iskarmoz",
-    "word": "iskarmoz",
-    "rarity": "az-bilinen",
-    "partOfSpeech": "isim",
-    "formationType": "alıntı",
-    "donorLanguage": "el",
-    "ultimateOrigin": "el",
-    "chain": [
-      {
-        "language": "el",
-        "form": "skalmós",
-        "meaning": "küreğin bağlandığı çubuk",
-        "period": null,
-        "reconstructed": false
-      },
-      {
-        "language": "tr",
-        "form": "iskarmoz",
-        "meaning": "kayığın kenarında küreğe dayanak olan çubuk",
-        "period": null,
-        "reconstructed": false
-      }
-    ],
-    "shortMeaning": "Kayıkta küreği tutmaya ve dayamaya yarayan çubuk.",
-    "currentMeaning": "Kayık veya sandalın yanına dik yerleştirilen, küreğin bağlanıp dayanmasını sağlayan ağaç parça.",
-    "story": "Yunancadaki skalmós, küreğin kayığa bağlandığı çubuğu adlandırıyordu. Türkçeye taşınan ad, suyu iten küreğin teknenin kenarında dayandığı bu küçük parçayı anlatmayı sürdürür. Hareketli kürek ile tekne arasındaki bağlantı, sözcüğün anlamının merkezinde kalır.",
-    "firstAttestation": null,
-    "relatives": [],
-    "alternatives": null,
-    "funFact": null,
-    "sources": [
-      {
-        "name": "TDK Güncel Türkçe Sözlük",
-        "ref": "ıskarmoz maddesi, denizcilik anlamı",
-        "url": null
-      }
-    ],
-    "confidence": "orta",
-    "reviewed": false
-  },
-  {
     "id": "izmarit",
     "word": "izmarit",
     "rarity": "az-bilinen",
@@ -1082,6 +1041,70 @@
       }
     ],
     "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ıskarmoz",
+    "word": "ıskarmoz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "sḱel-1",
+        "meaning": "yarmak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "sḱol-mn̥-",
+        "meaning": "yarılarak elde edilmiş ağaç parçası veya çubuk",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "el",
+        "form": "skalmós",
+        "meaning": "küreği sandala tutturmaya yarayan çubuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ıskarmoz",
+        "meaning": "gemi kaburgasını meydana getiren kavisli ahşap parça",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gemi kaburgasını meydana getiren kavisli ahşap parça.",
+    "currentMeaning": "Geminin kaburga yapısında kullanılan eğri biçimli ahşap parçaların her biri.",
+    "story": "Iskarmozun geçmişi, ağacı yarma eylemini anlatan Hintavrupa köküne uzanır. Bu kökten gelişen ağaç parçası ve çubuk adı, Yunancada küreği sandala tutturmaya yarayan ahşap parçanın adı olmuştur. Türkçeye geçen sözcüğün 19. yüzyıldaki kullanımında da kürek için yerleştirilmiş bir ağaç çivi vardır. Bugünkü anlamında ise ahşabın teknedeki görevi değişir: Sözcük, geminin kaburgasını oluşturan eğri parçaları adlandırır.",
+    "firstAttestation": {
+      "source": "Ahmed Vefik Paşa — Lehce-i Osmani",
+      "period": "1876",
+      "form": "ıskarmoz"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ıskarmoz maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C4%B1skarmoz"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ıskarmoz",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
     "reviewed": false
   }
 ]

@@ -80,13 +80,6 @@
     "reasons": []
   },
   {
-    "id": "kevkep",
-    "verdict": "check",
-    "reasons": [
-      "Hiçbir kaynakta kayıt bulunamadı, doğrulanamıyor"
-    ]
-  },
-  {
     "id": "şetaret",
     "verdict": "ok",
     "reasons": []
@@ -98,6 +91,11 @@
   },
   {
     "id": "taravet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kevkeb",
     "verdict": "ok",
     "reasons": []
   }

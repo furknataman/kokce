@@ -182,14 +182,14 @@
       {
         "language": "tr",
         "form": "çenk",
-        "meaning": "arpa benzeyen eski telli çalgı",
+        "meaning": "arpa benzeyen telli çalgı",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Arpa benzeyen eski bir telli çalgı.",
-    "currentMeaning": "Telleri parmaklarla çekilerek çalınan, arp benzeri eski bir müzik aleti.",
-    "story": "Farsça çeng, tellerin çekilmesiyle ses veren arp benzeri bir çalgının adıydı. Türkçede çenk biçimini alan ad, aynı çalgıyı anlatmayı sürdürdü; bugün geçmişin müzik dünyasına ait bir nesneyi adlandırır.",
+    "shortMeaning": "Arpa benzeyen telli bir müzik aleti.",
+    "currentMeaning": "Biçimiyle arpı hatırlatan telli bir müzik aleti.",
+    "story": "Farsçada çeng adıyla anılan telli çalgı, Türkçeye çenk adıyla taşındı. Sözcük Türkçede de telleri ve arpı hatırlatan biçimiyle tanınan bir müzik aletinin adı olarak kullanılır.",
     "firstAttestation": null,
     "relatives": [],
     "alternatives": null,
@@ -303,40 +303,6 @@
       {
         "name": "TDK Güncel Türkçe Sözlük",
         "ref": "cuşiş",
-        "url": null
-      }
-    ],
-    "confidence": "orta",
-    "reviewed": false
-  },
-  {
-    "id": "çâk",
-    "word": "çâk",
-    "rarity": "az-bilinen",
-    "partOfSpeech": "ünlem",
-    "formationType": null,
-    "donorLanguage": null,
-    "ultimateOrigin": null,
-    "chain": [
-      {
-        "language": "tr",
-        "form": "çâk",
-        "meaning": "onay veya sevinç için elleri havada buluşturma çağrısı",
-        "period": null,
-        "reconstructed": false
-      }
-    ],
-    "shortMeaning": "Onay veya sevinçle elleri havada buluşturma çağrısı.",
-    "currentMeaning": "Bir söze ya da davranışa katılmayı veya ortak sevinci göstermek için karşıdakini avuçları havada birbirine vurmaya çağıran söz.",
-    "story": "Bu kullanımda söz, iki kişinin ellerini havada buluşturduğu harekete eşlik eder. Bir düşünceye katılma ya da sevinci paylaşma isteği, böylece kısa bir seslenişle bedensel bir karşılık bulur.",
-    "firstAttestation": null,
-    "relatives": [],
-    "alternatives": null,
-    "funFact": null,
-    "sources": [
-      {
-        "name": "TDK Güncel Türkçe Sözlük",
-        "ref": "çak",
         "url": null
       }
     ],
@@ -691,40 +657,6 @@
       {
         "name": "TDK Güncel Türkçe Sözlük",
         "ref": "peyrev",
-        "url": null
-      }
-    ],
-    "confidence": "orta",
-    "reviewed": false
-  },
-  {
-    "id": "dâm",
-    "word": "dâm",
-    "rarity": "az-bilinen",
-    "partOfSpeech": "isim",
-    "formationType": null,
-    "donorLanguage": null,
-    "ultimateOrigin": null,
-    "chain": [
-      {
-        "language": "tr",
-        "form": "dâm",
-        "meaning": "yapının koruyucu üst örtüsü, çatı",
-        "period": null,
-        "reconstructed": false
-      }
-    ],
-    "shortMeaning": "Yapının üzerini örten koruyucu bölüm; çatı.",
-    "currentMeaning": "Bir binayı hava koşullarından koruyan, üstünü kapatan ve genellikle kiremitlerle örtülen bölüm.",
-    "story": "Bu kullanım, binanın üstünde duran koruyucu örtüyü adlandırır. Kiremitlerle kaplanan bu bölüm, dışarıdaki hava koşullarıyla içerideki yaşam alanı arasına bir sınır koyar.",
-    "firstAttestation": null,
-    "relatives": [],
-    "alternatives": null,
-    "funFact": null,
-    "sources": [
-      {
-        "name": "TDK Güncel Türkçe Sözlük",
-        "ref": "dam",
         "url": null
       }
     ],

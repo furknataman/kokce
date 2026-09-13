@@ -1,0 +1,14 @@
+# Kurtarma turu — 2026-09-13
+# id	parti	eski yazım	kaynak	crosscheck
+
+ıskarmoz	21	iskarmoz	nisanyan,tdk	ok
+nekahet	27	nekahat	nisanyan,tdk	ok
+kevkeb	32	kevkep	nisanyan	ok
+çenk	38	-	tdk	ok
+hemavaz	40	-	kubbealti	ok
+hurşid	40	hurşit	kubbealti	ok
+
+# Kurtarılamadı (şapkasız arama yanlış maddeyi döndürüyordu, drop geri kondu)
+çâk	38	-	-	drop
+dâm	38	-	-	drop
+hâr	40	-	-	drop

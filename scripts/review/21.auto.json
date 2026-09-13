@@ -91,13 +91,6 @@
     "reasons": []
   },
   {
-    "id": "iskarmoz",
-    "verdict": "check",
-    "reasons": [
-      "Hiçbir kaynakta kayıt bulunamadı, doğrulanamıyor"
-    ]
-  },
-  {
     "id": "izmarit",
     "verdict": "check",
     "reasons": [
@@ -111,6 +104,11 @@
   },
   {
     "id": "kikla",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ıskarmoz",
     "verdict": "ok",
     "reasons": []
   }

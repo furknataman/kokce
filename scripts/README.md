@@ -86,7 +86,10 @@ olan dosya `--force` verilmedikçe atlanır. İstekler arası 1 saniye beklenir.
 - **Yazım varyantları:** TDK ve Kubbealtı boş dönerse şapkalı/şapkasız
   varyantlar (`â↔a`, `î↔i`, `û↔u`) sırayla denenir, ilk dolu yanıt alınır.
   Kubbealtı madde başındaki iç tireler eşleştirmede yok sayılır
-  (`HEM-ÂVAZ` ↔ `hemavaz`).
+  (`HEM-ÂVAZ` ↔ `hemavaz`). TDK ve Kubbealtı aramaları şapkayı yok saydığı
+  için sorgulanan kelimede şapka varsa dönen madde başlarından en az birinde
+  de şapka aranır; yoksa sonuç kabul edilmez. Bu denetim olmadan `çâk`
+  sorgusu TDK'nin `çak` maddesini, `dâm` sorgusu `dam` maddesini döndürüyordu.
 - `%b %i %u` gibi biçim imleri kayıt sırasında temizlenir.
 
 Özet `scripts/sources/_index.json` dosyasındadır: hangi kelimede hangi kaynak

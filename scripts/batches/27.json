@@ -1,46 +1,5 @@
 [
   {
-    "id": "nekahat",
-    "word": "nekahat",
-    "rarity": "az-bilinen",
-    "partOfSpeech": "isim",
-    "formationType": "alıntı",
-    "donorLanguage": "ar",
-    "ultimateOrigin": "ar",
-    "chain": [
-      {
-        "language": "ar",
-        "form": "naḳāha(t)",
-        "meaning": "hastalık sonrasında sağlığını yeniden kazanma",
-        "period": null,
-        "reconstructed": false
-      },
-      {
-        "language": "tr",
-        "form": "nekahat",
-        "meaning": "hastalık sonrasında güç toplama durumu",
-        "period": null,
-        "reconstructed": false
-      }
-    ],
-    "shortMeaning": "Hastalık sonrasında güç toplama durumu.",
-    "currentMeaning": "Hastalığı atlatmış bir kişinin eski gücüne henüz kavuşmadığı toparlanma durumu; standart yazımı nekahettir.",
-    "story": "Arapçadaki naḳāha(t), hastalığın ardından bedenin yeniden güç kazanmasını anlatır. Hastalık geride kalsa da kişinin hemen eski canlılığına dönememesi, kelimenin merkezindeki durumdur. Türkçede standart nekahet yazımıyla kullanılan söz, bu toparlanma sürecini adlandırır.",
-    "firstAttestation": null,
-    "relatives": [],
-    "alternatives": null,
-    "funFact": null,
-    "sources": [
-      {
-        "name": "TDK Güncel Türkçe Sözlük",
-        "ref": "nekahet maddesi; [TDK kaydını aktaran metin](https://www.turkedebiyati.org/nekahet-nedir/)",
-        "url": null
-      }
-    ],
-    "confidence": "orta",
-    "reviewed": false
-  },
-  {
     "id": "nedamet",
     "word": "nedamet",
     "rarity": "az-bilinen",
@@ -1225,6 +1184,63 @@
       }
     ],
     "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nekahet",
+    "word": "nekahet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "naḳaha",
+        "meaning": "sağlığına kavuştu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "naḳāha(t)",
+        "meaning": "hastalık sonrası sağlığına kavuşma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nekahet",
+        "meaning": "hastalık geçtikten sonra güçsüzlüğün sürdüğü durum",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hastalık sonrasında güçsüzlüğün sürdüğü toparlanma durumu.",
+    "currentMeaning": "Hastalığı yeni atlatan kişinin henüz gücünü toplayamadığı, bitkinliğinin sürdüğü durum.",
+    "story": "Hastalık geride kalsa da bedenin eski gücüne dönmesi zaman alır. Arapçada sağlığına kavuşmayı anlatan naḳaha fiilinden türeyen naḳāha(t), bu iyileşme sürecinin adıydı. Türkçeye nekahet biçiminde geçen sözcük, hastalığın ardından hâlsizliğin sürdüğü ve kişinin yeniden güç topladığı durumu anlatır.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "nuḳh"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "nekahet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/nekahet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "nekahet",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
     "reviewed": false
   }
 ]

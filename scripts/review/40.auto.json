@@ -20,13 +20,6 @@
     "reasons": []
   },
   {
-    "id": "hâr",
-    "verdict": "check",
-    "reasons": [
-      "formationType izinli bir değer değil: None"
-    ]
-  },
-  {
     "id": "hemavaz",
     "verdict": "ok",
     "reasons": []
@@ -55,13 +48,6 @@
     "id": "hun",
     "verdict": "ok",
     "reasons": []
-  },
-  {
-    "id": "hurşit",
-    "verdict": "check",
-    "reasons": [
-      "Hiçbir kaynakta kayıt bulunamadı, doğrulanamıyor"
-    ]
   },
   {
     "id": "ruşen",
@@ -100,6 +86,11 @@
   },
   {
     "id": "suziş",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hurşid",
     "verdict": "ok",
     "reasons": []
   }

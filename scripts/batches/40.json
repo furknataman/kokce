@@ -199,80 +199,41 @@
     "reviewed": false
   },
   {
-    "id": "hâr",
-    "word": "hâr",
-    "rarity": "az-bilinen",
-    "partOfSpeech": "isim",
-    "formationType": null,
-    "donorLanguage": null,
-    "ultimateOrigin": null,
-    "chain": [
-      {
-        "language": "tr",
-        "form": "hâr",
-        "meaning": "ölçüsüzce tüketmeyi anlatan deyimin bir unsuru",
-        "period": null,
-        "reconstructed": false
-      }
-    ],
-    "shortMeaning": "Har vurup harman savurmak deyiminde kullanılan söz.",
-    "currentMeaning": "Malı veya parayı ölçüsüzce tüketmeyi anlatan har vurup harman savurmak deyiminin bir unsuru.",
-    "story": "Har vurup harman savurmak ifadesi, eldeki varlığı dağıtıp tüketen bir hareket resmi kurar. Buradaki sözün işlevi, tek başına bir nesneyi adlandırmaktan çok deyimin bütünü içinde savurganlığı anlatmaktır.",
-    "firstAttestation": null,
-    "relatives": [],
-    "alternatives": null,
-    "funFact": null,
-    "sources": [
-      {
-        "name": "TDK Güncel Türkçe Sözlük",
-        "ref": "har",
-        "url": null
-      }
-    ],
-    "confidence": "orta",
-    "reviewed": false
-  },
-  {
     "id": "hemavaz",
     "word": "hemavaz",
     "rarity": "az-bilinen",
-    "partOfSpeech": "sıfat",
+    "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "fa",
     "ultimateOrigin": "fa",
     "chain": [
       {
         "language": "fa",
-        "form": "ham-āvāz",
-        "meaning": "sesleri birbirine uyan, birlikte ses veren",
+        "form": "hem-āvāz",
+        "meaning": "sesi bir başkasının sesiyle uyumlu olan arkadaş",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "hemavaz",
-        "meaning": "sesleri birbirine uyan, birlikte ses veren",
+        "meaning": "sesi bir başkasının sesiyle uyumlu olan arkadaş",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Birlikte, uyumlu sesle söyleyen.",
-    "currentMeaning": "Başkalarıyla ses birliği içinde olan, aynı söyleyişe katılan.",
-    "story": "Farsçada birlik bildiren hem ile ses bildiren avaz bir araya gelince, birbirine katılan seslerin resmi ortaya çıkar. Türkçedeki hemavaz da birlikte söyleyen veya başkasının sesine katılan kişiyi niteler.",
+    "shortMeaning": "Sesi bir başkasının sesiyle uyumlu olan arkadaş.",
+    "currentMeaning": "Ses bakımından bir başkasıyla uyum gösteren arkadaş.",
+    "story": "Hemavazın yapısındaki Farsça āvāz, insanın işitilen sesini taşır. Sözcük, arkadaşlığı seslerin birbirine uyması üzerinden anlatır. Türkçeye geçen biçiminde de arkadaş ile ses uyumu arasındaki bu bağ korunur.",
     "firstAttestation": null,
-    "relatives": [
-      {
-        "word": "avaz",
-        "relation": "akraba"
-      }
-    ],
+    "relatives": [],
     "alternatives": null,
     "funFact": null,
     "sources": [
       {
         "name": "Kubbealtı Lugatı",
-        "ref": "hemâvaz maddesi",
-        "url": null
+        "ref": "hemavaz maddesi",
+        "url": "https://lugatim.com/s/hemavaz"
       }
     ],
     "confidence": "orta",
@@ -535,47 +496,6 @@
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false
-  },
-  {
-    "id": "hurşit",
-    "word": "hurşit",
-    "rarity": "az-bilinen",
-    "partOfSpeech": "isim",
-    "formationType": "alıntı",
-    "donorLanguage": "fa",
-    "ultimateOrigin": "fa",
-    "chain": [
-      {
-        "language": "fa",
-        "form": "ḫurşīd",
-        "meaning": "güneş",
-        "period": null,
-        "reconstructed": false
-      },
-      {
-        "language": "tr",
-        "form": "hurşit",
-        "meaning": "güneş",
-        "period": null,
-        "reconstructed": false
-      }
-    ],
-    "shortMeaning": "Güneş.",
-    "currentMeaning": "Gündüzün ışık kaynağı olan gök cismi; güneş.",
-    "story": "Farsça ḫurşīd, gökyüzünü aydınlatan güneşin adıdır. Türkçede hurşit biçimini alırken ışık veren aynı gök cismini anlatmayı sürdürmüştür.",
-    "firstAttestation": null,
-    "relatives": [],
-    "alternatives": null,
-    "funFact": null,
-    "sources": [
-      {
-        "name": "Kubbealtı Lugatı",
-        "ref": "hurşit maddesi",
-        "url": null
-      }
-    ],
-    "confidence": "orta",
     "reviewed": false
   },
   {
@@ -989,6 +909,47 @@
         "name": "Kubbealtı Lugatı",
         "ref": "suziş maddesi",
         "url": "https://lugatim.com/s/suzi%C5%9F"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hurşid",
+    "word": "hurşid",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "ḫūrşīd",
+        "meaning": "güneş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hurşid",
+        "meaning": "güneş",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Güneş için kullanılan bir ad.",
+    "currentMeaning": "Yeryüzünü aydınlatıp ısıtan Güneş'in adlarından biri.",
+    "story": "Farsçada ḫūrşīd, gündüz göğünü aydınlatan güneşin adıydı. Türkçeye hurşid biçiminde taşınırken de aynı gök cismine bağlı kaldı; değişen, adın söylenişiydi.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "hurşid maddesi",
+        "url": "https://lugatim.com/s/hur%C5%9Fid"
       }
     ],
     "confidence": "orta",
