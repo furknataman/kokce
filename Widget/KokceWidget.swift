@@ -9,10 +9,12 @@ struct KokceEntry: TimelineEntry {
     let word: Word?
     /// Kronolojik köken satırı: "Eski Yunanca → Arapça → Türkçe".
     let originPath: [String]
+    /// Tek köken dili adı ("Arapça"); küçük ailenin alt satırı.
+    let originName: String?
     /// Yolculuğun ilk üç adımı (systemLarge).
     let steps: [KokceJourneyStep]
 
-    static let empty = KokceEntry(date: .now, word: nil, originPath: [], steps: [])
+    static let empty = KokceEntry(date: .now, word: nil, originPath: [], originName: nil, steps: [])
 }
 
 struct KokceJourneyStep: Hashable {
@@ -32,7 +34,9 @@ struct KokceProvider: TimelineProvider {
     }
 
     private func entry(for word: Word?, date: Date, in catalog: WordCatalog?) -> KokceEntry {
-        guard let word, let catalog else { return KokceEntry(date: date, word: nil, originPath: [], steps: []) }
+        guard let word, let catalog else {
+            return KokceEntry(date: date, word: nil, originPath: [], originName: nil, steps: [])
+        }
         // Zincirdeki ardışık tekrarlar ("Farsça → Farsça") tek ada indirilir.
         var path: [String] = []
         for step in word.chain {
@@ -44,7 +48,11 @@ struct KokceProvider: TimelineProvider {
                              form: $0.form,
                              meaning: $0.meaning)
         }
-        return KokceEntry(date: date, word: word, originPath: path, steps: steps)
+        return KokceEntry(date: date,
+                          word: word,
+                          originPath: path,
+                          originName: word.originLanguage.map { catalog.languageName($0) },
+                          steps: steps)
     }
 
     /// Galeri ve yer tutucu için bundle'daki ilk kelime: her zaman aynı, her

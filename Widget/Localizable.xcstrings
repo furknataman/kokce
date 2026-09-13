@@ -1,36 +1,86 @@
 {
-  "sourceLanguage" : "tr",
-  "strings" : {
-    "widget.description" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : { "state" : "translated", "value" : "Today's word, its origin and its journey." }
+  "sourceLanguage": "tr",
+  "strings": {
+    "widget.description": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today's word, its origin and its journey."
+          }
         },
-        "tr" : {
-          "stringUnit" : { "state" : "translated", "value" : "Günün kelimesi, kökeni ve yolculuğu." }
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Günün kelimesi, kökeni ve yolculuğu."
+          }
         }
       }
     },
-    "widget.empty" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : { "state" : "translated", "value" : "No word available yet." }
+    "widget.empty": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No word available yet."
+          }
         },
-        "tr" : {
-          "stringUnit" : { "state" : "translated", "value" : "Kelime henüz hazır değil." }
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kelime henüz hazır değil."
+          }
         }
       }
     },
-    "widget.title" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : { "state" : "translated", "value" : "Word of the Day" }
+    "widget.label.today": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WORD OF THE DAY"
+          }
         },
-        "tr" : {
-          "stringUnit" : { "state" : "translated", "value" : "Günün Kelimesi" }
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GÜNÜN KELİMESİ"
+          }
+        }
+      }
+    },
+    "widget.rarity.rare": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lesser known"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az bilinen"
+          }
+        }
+      }
+    },
+    "widget.title": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Word of the Day"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Günün Kelimesi"
+          }
         }
       }
     }
   },
-  "version" : "1.0"
+  "version": "1.0"
 }

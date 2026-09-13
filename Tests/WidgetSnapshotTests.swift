@@ -23,7 +23,7 @@ struct WidgetSnapshotTests {
 
         for scheme in [ColorScheme.light, .dark] {
             let suffix = scheme == .dark ? "-dark" : ""
-            try render(KokceSmallView(word: word), size: CGSize(width: 170, height: 170),
+            try render(KokceSmallView(entry: entry, word: word), size: CGSize(width: 170, height: 170),
                        scheme: scheme, to: directory.appendingPathComponent("widget-small\(suffix).png"))
             try render(KokceMediumView(entry: entry, word: word), size: CGSize(width: 364, height: 170),
                        scheme: scheme, to: directory.appendingPathComponent("widget-medium\(suffix).png"))

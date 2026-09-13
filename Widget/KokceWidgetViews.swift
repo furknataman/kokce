@@ -2,6 +2,14 @@ import SwiftUI
 import WidgetKit
 import KokenKit
 
+/// Metinler uzantının kendi `Localizable.xcstrings` dosyasından gelir.
+/// `Bundle(for:)` widget'ta uzantının, anlık görüntü testinde test hedefinin
+/// bundle'ını verir; `Bundle.main` ikisinde de yanlış yeri gösterirdi.
+enum KokceStrings {
+    static let bundle = Bundle(for: BundleToken.self)
+    private final class BundleToken {}
+}
+
 /// Ailelere göre dallanan kök görünüm. Zemin ve deep link tek yerde tanımlanır.
 struct KokceWidgetView: View {
     @Environment(\.widgetFamily) private var family
@@ -28,71 +36,93 @@ struct KokceWidgetView: View {
             case .accessoryRectangular: KokceAccessoryView(word: word)
             case .systemMedium: KokceMediumView(entry: entry, word: word)
             case .systemLarge: KokceLargeView(entry: entry, word: word)
-            default: KokceSmallView(word: word)
+            default: KokceSmallView(entry: entry, word: word)
             }
         } else {
-            Text("widget.empty")
+            Text("widget.empty", bundle: KokceStrings.bundle)
                 .font(.caption)
                 .foregroundStyle(family == .accessoryRectangular ? Color.primary : Theme.inkSoft)
         }
     }
 }
 
-/// Kelime + tek satır anlam.
+/// Etiket + kelime + anlam + köken dili. Kesme yok: anlam üç satıra kadar
+/// açılır, gerekirse hafifçe küçülür.
 struct KokceSmallView: View {
+    let entry: KokceEntry
     let word: Word
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 6) {
+        VStack(alignment: .leading, spacing: 4) {
+            KokceLabel()
             Text(word.word)
                 .font(.kokenWord(.title2))
                 .foregroundStyle(Theme.ink)
                 .lineLimit(1)
-                .minimumScaleFactor(0.6)
+                .minimumScaleFactor(0.7)
             Text(word.shortMeaning)
                 .font(.caption)
                 .foregroundStyle(Theme.inkSoft)
-                .lineLimit(1)
-            Spacer(minLength: 0)
+                .lineLimit(3)
+                .minimumScaleFactor(0.85)
+            Spacer(minLength: 2)
+            KokceOriginFooter(name: entry.originName, isRare: word.isRare)
         }
     }
 }
 
-/// Kelime + kronolojik köken satırı + kısa anlam.
+/// Sol sütunda kelime ve anlam, sağ üstte filiz ile tarih.
 struct KokceMediumView: View {
     let entry: KokceEntry
     let word: Word
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 8) {
-            Text(word.word)
-                .font(.kokenWord(.title))
-                .foregroundStyle(Theme.ink)
-                .lineLimit(1)
-                .minimumScaleFactor(0.6)
-            if !entry.originPath.isEmpty {
-                Text(entry.originPath.joined(separator: " → "))
-                    .font(.caption2.weight(.medium))
-                    .foregroundStyle(Theme.accent)
+        HStack(alignment: .top, spacing: 10) {
+            VStack(alignment: .leading, spacing: 6) {
+                Text(word.word)
+                    .font(.kokenWord(.title))
+                    .foregroundStyle(Theme.ink)
                     .lineLimit(1)
-                    .minimumScaleFactor(0.7)
+                    .minimumScaleFactor(0.6)
+                if !entry.originPath.isEmpty {
+                    Text(entry.originPath.joined(separator: " → "))
+                        .font(.caption2.weight(.medium))
+                        .foregroundStyle(Theme.accent)
+                        .lineLimit(1)
+                        .minimumScaleFactor(0.7)
+                }
+                // Anlam köken satırının hemen altında durur: Spacer ortaya
+                // alınsaydı kısa anlamlarda ortada büyük bir boşluk kalırdı.
+                Text(word.shortMeaning)
+                    .font(.subheadline)
+                    .foregroundStyle(Theme.inkSoft)
+                    .lineLimit(3)
+                    .minimumScaleFactor(0.9)
+                Spacer(minLength: 0)
             }
-            Text(word.shortMeaning)
-                .font(.footnote)
-                .foregroundStyle(Theme.inkSoft)
-                .lineLimit(2)
-            Spacer(minLength: 0)
+            VStack(alignment: .trailing, spacing: 4) {
+                Image(systemName: "leaf.fill")
+                    .font(.system(size: 15, weight: .semibold))
+                    .foregroundStyle(Theme.accent)
+                Text(entry.date, format: .dateTime.day().month(.wide))
+                    .font(.caption2)
+                    .foregroundStyle(Theme.inkSoft)
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.8)
+                Spacer(minLength: 0)
+            }
+            .fixedSize(horizontal: true, vertical: false)
         }
     }
 }
 
-/// Kelime + kısa anlam + yolculuğun ilk üç adımı + güncel anlam.
+/// Kelime, anlam, yolculuk ve hikâye; alan sonuna kadar kullanılır.
 struct KokceLargeView: View {
     let entry: KokceEntry
     let word: Word
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 10) {
+        VStack(alignment: .leading, spacing: 8) {
             Text(word.word)
                 .font(.kokenWord(.largeTitle))
                 .foregroundStyle(Theme.ink)
@@ -103,19 +133,95 @@ struct KokceLargeView: View {
                 .foregroundStyle(Theme.inkSoft)
                 .lineLimit(2)
 
+            KokceRule()
+
             VStack(alignment: .leading, spacing: 6) {
                 ForEach(Array(entry.steps.enumerated()), id: \.offset) { index, step in
                     KokceStepRow(number: index + 1, step: step)
                 }
             }
 
-            Spacer(minLength: 0)
+            KokceRule()
 
             Text(word.currentMeaning)
                 .font(.caption)
+                .foregroundStyle(Theme.ink)
+                .lineLimit(3)
+            Text(word.story)
+                .font(.caption2)
                 .foregroundStyle(Theme.inkSoft)
+                .lineLimit(6)
+                .minimumScaleFactor(0.95)
+
+            Spacer(minLength: 0)
+
+            HStack {
+                Spacer()
+                Text(verbatim: "Kökçe")
+                    .font(.caption2.weight(.medium))
+                    .foregroundStyle(Theme.accent.opacity(0.85))
+            }
+        }
+    }
+}
+
+/// Kilit ekranı. Renkler sistemden gelir; kelime vurgulanabilir.
+struct KokceAccessoryView: View {
+    let word: Word
+
+    var body: some View {
+        VStack(alignment: .leading, spacing: 2) {
+            Text(word.word)
+                .font(.headline)
+                .lineLimit(1)
+                .widgetAccentable()
+            Text(word.shortMeaning)
+                .font(.caption)
                 .lineLimit(2)
         }
+    }
+}
+
+/// "GÜNÜN KELİMESİ" — büyük harfli metin katalogda hazır durur; Türkçede
+/// `i` harfinin büyütülmesi yerel ayara bağlı olduğu için kodda çevrilmez.
+private struct KokceLabel: View {
+    var body: some View {
+        Text("widget.label.today", bundle: KokceStrings.bundle)
+            .font(.caption2.weight(.semibold))
+            .tracking(0.9)
+            .foregroundStyle(Theme.accent)
+            .lineLimit(1)
+            .minimumScaleFactor(0.8)
+    }
+}
+
+private struct KokceOriginFooter: View {
+    let name: String?
+    let isRare: Bool
+
+    var body: some View {
+        if let name {
+            HStack(spacing: 4) {
+                Text(name)
+                if isRare {
+                    Text(verbatim: "·")
+                    Text("widget.rarity.rare", bundle: KokceStrings.bundle)
+                }
+            }
+            .font(.caption2)
+            .foregroundStyle(Theme.inkSoft)
+            .lineLimit(1)
+            .minimumScaleFactor(0.8)
+        }
+    }
+}
+
+/// İnce altın ayırıcı.
+private struct KokceRule: View {
+    var body: some View {
+        Rectangle()
+            .fill(Theme.accent.opacity(0.35))
+            .frame(height: 1)
     }
 }
 
@@ -144,23 +250,6 @@ private struct KokceStepRow: View {
     }
 }
 
-/// Kilit ekranı. Renkler sistemden gelir; kelime vurgulanabilir.
-struct KokceAccessoryView: View {
-    let word: Word
-
-    var body: some View {
-        VStack(alignment: .leading, spacing: 2) {
-            Text(word.word)
-                .font(.headline)
-                .lineLimit(1)
-                .widgetAccentable()
-            Text(word.shortMeaning)
-                .font(.caption)
-                .lineLimit(2)
-        }
-    }
-}
-
 #Preview("Küçük", as: .systemSmall) {
     KokceWidget()
 } timeline: {
@@ -185,8 +274,7 @@ struct KokceAccessoryView: View {
     KokcePreview.entry
 }
 
-/// Xcode önizlemeleri için sabit örnek; `simctl` kilit ekranı widget'ını
-/// ekleyemediğinden dördüncü aile buradan görülür.
+/// Xcode önizlemeleri ve anlık görüntü testi için sabit örnek.
 enum KokcePreview {
     static let entry = KokceEntry(
         date: .now,
@@ -203,7 +291,7 @@ enum KokcePreview {
                    ],
                    shortMeaning: "Yazı yazmaya yarayan araç.",
                    currentMeaning: "Yazı yazmak veya çizmek için kullanılan, ucundan boya, mürekkep ya da grafit bırakan araç.",
-                   story: "Kamıştan kaleme uzanan bir yolculuk.",
+                   story: "Eski Yunancada kálamos, kıyıda biten kamışın adıydı. Ucu eğik kesilip mürekkebe batırılan bu kamış, Arapçaya qalam biçiminde geçti ve yazının aracı oldu. Türkçeye Arapçadan gelen kelime, kamış çoktan yerini madene bıraksa da adını korudu.",
                    firstAttestation: nil,
                    relatives: [],
                    alternatives: nil,
@@ -212,6 +300,7 @@ enum KokcePreview {
                    confidence: .high,
                    reviewed: true),
         originPath: ["Eski Yunanca", "Arapça", "Türkçe"],
+        originName: "Arapça",
         steps: [
             KokceJourneyStep(language: "Eski Yunanca", form: "kálamos", meaning: "kamış"),
             KokceJourneyStep(language: "Arapça", form: "qalam", meaning: "kamış kalem"),

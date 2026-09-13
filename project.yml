@@ -156,6 +156,7 @@ targets:
       # edilir; @main taşıyan bundle dosyası bilerek dışarıda bırakıldı.
       - path: Widget/KokceWidget.swift
       - path: Widget/KokceWidgetViews.swift
+      - path: Widget/Localizable.xcstrings
       - path: App/DesignSystem/Theme.swift
     dependencies:
       - target: Koken
