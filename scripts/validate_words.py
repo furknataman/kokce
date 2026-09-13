@@ -116,7 +116,7 @@ SOURCE_FIELDS = ["name", "ref", "url"]
 
 # null yazılabilen alanların açık listesi. Burada olmayan bir alanda null hatadır.
 NULLABLE = {
-    "donorLanguage", "ultimateOrigin", "firstAttestation", "relatives",
+    "donorLanguage", "ultimateOrigin", "firstAttestation",
     "alternatives", "funFact", "chain[].period", "sources[].url",
 }
 
@@ -304,10 +304,12 @@ def validate_word(item, rep, index):
                 rep.add(wid, "firstAttestation." + key, "şemada tanımsız alan")
 
     # relatives — hedef kelimenin madde başı olması gerekmez, yalnızca biçim.
-    rels = item.get("relatives")
-    if rels is not None:
+    # Her zaman dizidir; akraba yoksa boş dizi yazılır, null yazılmaz.
+    if "relatives" in item:
+        rels = item["relatives"]
         if not isinstance(rels, list):
-            rep.add(wid, "relatives", "dizi veya null olmalı")
+            rep.add(wid, "relatives", "dizi olmalı (akraba yoksa []), %s geldi"
+                    % ("null" if rels is None else type(rels).__name__))
         else:
             for i, rel in enumerate(rels):
                 prefix = "relatives[%d]" % i

@@ -1,4 +1,4 @@
-# Köken — Üretim Prompt'u (v10)
+# Köken — Üretim Prompt'u (v11)
 
 Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
 bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
@@ -198,7 +198,8 @@ Her nesne tam olarak şu alanları içerir:
   işareti **yazma**, bu alanı kullan.
 - `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
   biri bile bilinmiyorsa tamamı `null`.
-- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+- `relatives` **her zaman dizidir**. Akraba kelime yoksa `null` değil `[]`
+  yaz. `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
   Akraba kelimenin listede olması gerekmez.
 - `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
   belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne

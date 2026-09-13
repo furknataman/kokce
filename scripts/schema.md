@@ -10,7 +10,8 @@ Genel kurallar:
 - Kodlama UTF-8, tüm metinler **NFC** normalize.
 - Türkçe metinlerde sıfır yazım hatası; kesme işareti `'` (U+2019 değil `'`),
   tırnak `"` kullanılır.
-- Bilinmeyen bilgi **`null`** yazılır, asla uydurulmaz.
+- Bilinmeyen bilgi **`null`** yazılır, asla uydurulmaz. Tek istisna
+  `relatives`: o alan her zaman dizidir, boşsa `[]` olur.
 - Hiçbir zorunlu metin alanı boş string (`""`) veya yalnızca boşluk olamaz.
 - Bilinmeyen (şemada tanımsız) alan eklenemez.
 
@@ -67,7 +68,7 @@ kök nesne sarmalayıcısı yoktur.
 | `currentMeaning` | string | hayır | Bugünkü anlam, 1-2 cümle. |
 | `story` | string | hayır | **2-6 cümle.** Kelimenin yolculuğu; akıcı, süssüz Türkçe. |
 | `firstAttestation` | nesne | evet (`null`) | İlk tanıklık. Bkz. aşağı. |
-| `relatives` | dizi | evet (`null`) | Akraba kelimeler. Bkz. aşağı. |
+| `relatives` | dizi | hayır | Akraba kelimeler. **Her zaman dizidir**; akraba yoksa `[]` yazılır, `null` yazılmaz. Bkz. aşağı. |
 | `alternatives` | dizi (string) | evet (`null`) | Kaynaklar arasında çelişen alternatif köken açıklamaları, her biri tek cümle. |
 | `funFact` | string | evet (`null`) | Tek cümlelik ilginç ayrıntı. |
 | `sources` | dizi | hayır | **En az 1** kaynak. Bkz. aşağı. |

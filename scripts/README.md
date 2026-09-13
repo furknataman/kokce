@@ -8,7 +8,7 @@ kökünden (`koken/`) çalıştırılır.
 | Yol | İşi |
 |---|---|
 | `schema.md` | Kelime veri şeması. Tek doğruluk kaynağı. |
-| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v10**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
+| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v11**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
 | `prompts/verify_batch.md` | Bağımsız doğrulayıcı prompt'u (v1). `{{ITEMS}}` yer tutucusu. |
 | `fetch_sources.py` | Nişanyan ve TDK kayıtlarını indirir. |
 | `generate_batch.py` | Kelime listesinden parti üretir (`codex exec`). |
@@ -80,6 +80,7 @@ python3 scripts/generate_batch.py --all                # tüm partiler, var olan
 python3 scripts/generate_batch.py --rarity-from-wordlist      # tek seferlik onarım
 python3 scripts/generate_batch.py --fill-chain-meanings       # boş anlamları doldur
 python3 scripts/generate_batch.py --lowercase-chain-meanings  # baş harfleri küçült
+python3 scripts/generate_batch.py --normalize-relatives       # relatives null → []
 ```
 
 `--lowercase-chain-meanings` bir parti dosyasındaki zincir anlamlarının
@@ -124,6 +125,7 @@ kuralları ikisinde de aynıdır.
 
 `relatives` yalnızca biçim ve ilişki türü açısından denetlenir; akraba
 kelimenin madde başı olması **gerekmez** (kalemtıraş listede olmayabilir).
+Alan her zaman dizidir: akraba yoksa `[]` olur, `null` reddedilir.
 
 ### 5. Çapraz denetim (kaynaklara karşı)
 
@@ -194,6 +196,7 @@ eşleştirme sıraya göre değil **id'ye göre** yapılır.
 python3 scripts/build_words.py
 python3 scripts/build_words.py --out /tmp/deneme.json   # test için
 python3 scripts/build_words.py --strict-reviewed        # yalnızca onaylı maddeler
+python3 scripts/build_words.py --no-bump                # contentVersion sabit kalsın
 ```
 
 Karar işleyişi:
@@ -221,7 +224,9 @@ ilk gün `gündelik` bir kelimedir, aynı türden en fazla iki gün üst üste g
 fazlalık sona yığılmaz. Düzeltme dosyasında `rarity` yoksa parti dosyasındaki
 değer korunur.
 `schedule.start` var olan dosyadan alınır; dosya yoksa `2026-10-01`.
-`contentVersion` her çalıştırmada +1. `languages` sözlüğü şemadan, yalnızca
+`contentVersion` her çalıştırmada +1; içerik değişmeyen yeniden üretimlerde
+`--no-bump` ile sabit tutulur. `relatives` alanı `null` ise boş diziye
+çevrilir. `languages` sözlüğü şemadan, yalnızca
 kullanılan kodlar için üretilir. Yazımdan sonra doğrulama otomatik çalışır
 (`--no-validate` ile kapatılır).
 

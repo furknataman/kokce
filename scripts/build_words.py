@@ -269,6 +269,9 @@ def main(argv=None):
                         help="Yazdıktan sonra doğrulama çalıştırmaz.")
     parser.add_argument("--dry-run", action="store_true",
                         help="Dosya yazmaz; ne yazılacağının sayımını basar.")
+    parser.add_argument("--no-bump", action="store_true",
+                        help="contentVersion'ı artırmaz; içerik değişmeyen "
+                             "yeniden üretimlerde kullanılır.")
     args = parser.parse_args(argv)
 
     items, batch_paths = load_batches(args.batches_dir)
@@ -297,9 +300,22 @@ def main(argv=None):
                          "validate_words.py güncellenmeli." % ", ".join(unknown))
     languages = {code: LANGUAGES[code] for code in sorted(used)}
 
+    # relatives her zaman dizidir; eski partilerdeki null değerler burada
+    # boş diziye çevrilir.
+    normalized_relatives = 0
+    for _wid, item in kept:
+        if item.get("relatives") is None:
+            item["relatives"] = []
+            normalized_relatives += 1
+
+    content_version = existing["content_version"] if args.no_bump \
+        else existing["content_version"] + 1
+    if content_version < 1:
+        content_version = 1
+
     document = {
         "schemaVersion": SCHEMA_VERSION,
-        "contentVersion": existing["content_version"] + 1,
+        "contentVersion": content_version,
         "schedule": {"start": existing["start"], "ids": schedule_ids},
         "languages": languages,
         "words": words,
@@ -321,9 +337,11 @@ def main(argv=None):
               % (reviewed_true, len(kept) - reviewed_true))
         print("rarity: %s"
               % " · ".join("%s %d" % (k, v) for k, v in sorted(rarity_counts.items())))
+        if normalized_relatives:
+            print("relatives null → [] : %d madde" % normalized_relatives)
         print("yazılacaktı: %s (contentVersion %d, %d kelime, %d dil, "
               "schedule %d gün)"
-              % (args.out, existing["content_version"] + 1, len(words),
+              % (args.out, content_version, len(words),
                  len(languages), len(schedule_ids)))
         print("Dosya yazılmadı (--dry-run).")
         return 0
@@ -345,6 +363,8 @@ def main(argv=None):
     if stats["unreviewed"] and not args.strict_reviewed:
         print("Uyarı: %d madde doğrulayıcıdan geçmedi, reviewed: false olarak "
               "yazıldı." % stats["unreviewed"], file=sys.stderr)
+    if normalized_relatives:
+        print("relatives null → [] : %d madde" % normalized_relatives)
     print("Yazıldı: %s (contentVersion %d, %d kelime, %d dil)"
           % (args.out, document["contentVersion"], len(words), len(languages)))
 

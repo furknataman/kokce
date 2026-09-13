@@ -362,6 +362,7 @@ def generate(number, words, template, args):
     # Boş bırakılan zincir anlamlarını bir önceki adımdan tamamla.
     fill_chain_meanings(items)
     lowercase_chain_meanings(items)
+    normalize_relatives(items)
 
     with open(out_path, "w", encoding="utf-8") as handle:
         json.dump(items, handle, ensure_ascii=False, indent=2)
@@ -473,32 +474,47 @@ def lowercase_chain_meanings(items):
     return len(meanings)
 
 
-def repair_batches(batches_dir, entries, do_rarity, do_meanings, do_lowercase):
+def normalize_relatives(items):
+    """relatives her zaman dizidir; null olanları boş diziye çevirir."""
+    changed = 0
+    for item in items:
+        if isinstance(item, dict) and item.get("relatives") is None:
+            item["relatives"] = []
+            changed += 1
+    return changed
+
+
+def repair_batches(batches_dir, entries, do_rarity, do_meanings, do_lowercase,
+                   do_relatives):
     """Var olan parti dosyalarını yerinde onarır (tek seferlik komutlar)."""
     paths = sorted(glob.glob(os.path.join(batches_dir, "*.json")))
     if not paths:
         raise SystemExit("%s içinde parti dosyası yok." % batches_dir)
-    total_rarity = total_meanings = total_lowered = total_missing = 0
+    total_rarity = total_meanings = total_lowered = 0
+    total_relatives = total_missing = 0
     for path in paths:
         with open(path, encoding="utf-8") as handle:
             items = json.load(handle)
         if not isinstance(items, list):
             print("%s: JSON dizi değil, atlandı." % show(path), file=sys.stderr)
             continue
-        changed = missing = meanings = lowered = 0
+        changed = missing = meanings = lowered = relatives = 0
         if do_rarity:
             changed, missing = apply_rarity(items, entries)
         if do_meanings:
             meanings = fill_chain_meanings(items)
         if do_lowercase:
             lowered = lowercase_chain_meanings(items)
-        if changed or meanings or lowered:
+        if do_relatives:
+            relatives = normalize_relatives(items)
+        if changed or meanings or lowered or relatives:
             with open(path, "w", encoding="utf-8") as handle:
                 json.dump(items, handle, ensure_ascii=False, indent=2)
                 handle.write("\n")
         total_rarity += changed
         total_meanings += meanings
         total_lowered += lowered
+        total_relatives += relatives
         total_missing += missing
         bits = []
         if do_rarity:
@@ -507,11 +523,13 @@ def repair_batches(batches_dir, entries, do_rarity, do_meanings, do_lowercase):
             bits.append("%d anlam" % meanings)
         if do_lowercase:
             bits.append("%d küçültme" % lowered)
+        if do_relatives:
+            bits.append("%d relatives" % relatives)
         if missing:
             bits.append("%d madde listede yok" % missing)
         print("%s: %s" % (show(path), ", ".join(bits)))
-    print("\nToplam: %d rarity, %d anlam, %d baş harf güncellendi."
-          % (total_rarity, total_meanings, total_lowered))
+    print("\nToplam: %d rarity, %d anlam, %d baş harf, %d relatives güncellendi."
+          % (total_rarity, total_meanings, total_lowered, total_relatives))
     if total_missing:
         print("%d madde kelime listesinde bulunamadı, rarity yazılmadı."
               % total_missing, file=sys.stderr)
@@ -536,6 +554,9 @@ def main(argv=None):
     group.add_argument("--lowercase-chain-meanings", action="store_true",
                        help="Üretim yapmaz; tamamı büyük harfle başlayan "
                             "chain[].meaning alanlarının baş harfini küçültür.")
+    group.add_argument("--normalize-relatives", action="store_true",
+                       help="Üretim yapmaz; relatives null olan maddelere boş "
+                            "dizi yazar.")
     parser.add_argument("--wordlist", metavar="DOSYA",
                         help="Kelime listesi (varsayılan: scripts/wordlist.json).")
     parser.add_argument("--size", type=int, default=DEFAULT_SIZE,
@@ -565,13 +586,14 @@ def main(argv=None):
           % (show(wordlist_path), len(words), total))
 
     if args.rarity_from_wordlist or args.fill_chain_meanings \
-            or args.lowercase_chain_meanings:
+            or args.lowercase_chain_meanings or args.normalize_relatives:
         if args.rarity_from_wordlist and not any(e["rarity"] for e in words):
             raise SystemExit("Kelime listesinde rarity alanı yok.")
         return repair_batches(BATCHES_DIR, words,
                               do_rarity=args.rarity_from_wordlist,
                               do_meanings=args.fill_chain_meanings,
-                              do_lowercase=args.lowercase_chain_meanings)
+                              do_lowercase=args.lowercase_chain_meanings,
+                              do_relatives=args.normalize_relatives)
 
     if args.all:
         numbers = range(1, total + 1)
