@@ -88,21 +88,30 @@ struct WordDetailView: View {
 
     @ToolbarContentBuilder
     private var toolbar: some ToolbarContent {
-        ToolbarItem(placement: .topBarTrailing) {
-            Button {
-                model.toggleFavorite(word)
-            } label: {
-                let isFavorite = model.isFavorite(word)
-                Label(isFavorite ? "detail.favorite.remove" : "detail.favorite.add",
-                      systemImage: isFavorite ? "star.fill" : "star")
-            }
-            .tint(Theme.accent)
-        }
-        ToolbarItem(placement: .topBarTrailing) {
-            ShareLink(item: model.shareText(for: word)) {
-                Label("detail.share", systemImage: "square.and.arrow.up")
-            }
-            .tint(Theme.accent)
-        }
+        // Araç çubuğu öğelerine iOS 26 cam görünümü sistem tarafından zaten
+        // verilir; `.buttonStyle(.glass)` eklenince kapsülün içine ikinci bir
+        // kapsül biniyor. Cam, çubuğun dışındaki kontrollerde (filtre çipleri)
+        // elle uygulanır.
+        ToolbarItem(placement: .topBarTrailing) { favoriteButton }
+        ToolbarItem(placement: .topBarTrailing) { shareButton }
     }
+
+    private var favoriteButton: some View {
+        Button {
+            model.toggleFavorite(word)
+        } label: {
+            let isFavorite = model.isFavorite(word)
+            Label(isFavorite ? "detail.favorite.remove" : "detail.favorite.add",
+                  systemImage: isFavorite ? "star.fill" : "star")
+        }
+        .tint(Theme.accent)
+    }
+
+    private var shareButton: some View {
+        ShareLink(item: model.shareText(for: word)) {
+            Label("detail.share", systemImage: "square.and.arrow.up")
+        }
+        .tint(Theme.accent)
+    }
+
 }

@@ -47,7 +47,8 @@ private struct FilterChip: View {
     @ViewBuilder
     private var chip: some View {
         if #available(iOS 26.0, *) {
-            label.glassEffect(isSelected ? .regular.tint(Theme.accent) : .regular, in: .capsule)
+            label.glassEffect(isSelected ? .regular.tint(Theme.accent).interactive() : .regular.interactive(),
+                              in: .capsule)
         } else {
             label.background(isSelected ? AnyShapeStyle(Theme.accent) : AnyShapeStyle(.thinMaterial),
                              in: .capsule)

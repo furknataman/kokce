@@ -69,6 +69,7 @@ private struct StepRow: View {
             Image(systemName: "arrowtriangle.down.fill")
                 .font(.system(size: 7))
                 .foregroundStyle(Theme.border)
+                .accessibilityHidden(true)
         }
         .padding(.vertical, 3)
     }

@@ -74,6 +74,7 @@ private struct WordRow: View {
                 .foregroundStyle(Theme.inkSoft)
         }
         .padding(.vertical, 3)
+        .accessibilityElement(children: .combine)
     }
 
     private var title: some View {
@@ -88,7 +89,9 @@ private struct WordRow: View {
                 Text(origin)
                     .font(.caption2)
                     .foregroundStyle(Theme.inkSoft)
-                    .lineLimit(1)
+                    // Büyük puntoda tek satır yolun sonunu ("→ Türkçe")
+                    // kırpıyordu; iki satır bilgiyi geri getiriyor.
+                    .lineLimit(2)
                     .padding(.horizontal, 7)
                     .padding(.vertical, 2)
                     .background(Theme.parchmentDeep, in: Capsule())

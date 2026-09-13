@@ -14,7 +14,13 @@ enum Theme {
     /// Kart ve rozet zemini.
     static let parchmentDeep = adaptive(light: (0.93, 0.90, 0.83), dark: (0.12, 0.14, 0.21))
     /// Vurgu: eskitilmiş altın.
-    static let accent = adaptive(light: (0.58, 0.44, 0.18), dark: (0.82, 0.68, 0.38))
+    ///
+    /// Açık moddaki ton, küçük puntoda okunabilirlik için koyulaştırıldı:
+    /// önceki (0.58, 0.44, 0.18) parşömen kart üstünde 3.64:1 veriyordu, yani
+    /// WCAG AA'nın küçük metin için istediği 4.5:1'in altında. Şimdiki değer
+    /// kart üstünde 4.55:1, ekran zemininde 5.10:1; üstüne yazılan parşömen
+    /// rengi metin (seçili çip, zaman çizelgesi numarası) de 5.10:1.
+    static let accent = adaptive(light: (0.50, 0.38, 0.16), dark: (0.82, 0.68, 0.38))
     /// Kart kenarlığı, ayraç ve zaman çizelgesi rayı. Kartlar düz zemin +
     /// ince çizgiyle ayrılır; cam yalnızca kontrollerdedir.
     static let border = adaptive(light: (0.84, 0.79, 0.69), dark: (0.20, 0.23, 0.32))
