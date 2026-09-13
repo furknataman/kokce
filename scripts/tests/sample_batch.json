@@ -1,0 +1,81 @@
+[
+  {
+    "id": "kalem",
+    "word": "kalem",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "qalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yazı yazmaya yarayan araç.",
+    "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+    "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, 13. yy metinlerinde görülür ve kamışla bağını çoktan koparmıştır.",
+    "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+    "relatives": [
+      {"word": "kalemtıraş", "relation": "birleşik"},
+      {"word": "kalemlik", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ısırgan",
+    "word": "ısırgan",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "ısır-", "meaning": "ısırmak", "period": "11. yy", "reconstructed": false},
+      {"language": "tr", "form": "ısırgan", "meaning": "değince yakan ot", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Değdiği yeri yakan tüylü yabani ot.",
+    "currentMeaning": "Gövdesi ve yaprakları yakıcı tüylerle kaplı, çorbası yapılan yabani bitki.",
+    "story": "Ad, ısırmak fiiline alışkanlık bildiren -gan ekinin eklenmesiyle kurulmuştur. Bitki gerçekten ısırmaz; tüylerindeki asit deriye değince ısırık benzeri bir yanma bırakır. Türkçenin bu eki, sürekli bir huyu anlatmak için havlagan ve kaçgan gibi örneklerde de görülür.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "ısırmak", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ısırgan maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "Yoğurt",
+    "word": "yoğurt",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "yoğurt", "meaning": "mayalanmış süt", "period": "11. yy", "reconstructed": false},
+      {"language": "ar", "form": "yaġurt", "meaning": "mayalanmış süt", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Süte maya katılarak elde edilen, dünyanın pek çok diline Türkçeden geçmiş beyaz besin.",
+    "currentMeaning": "Kaynatılmış süte maya katılarak elde edilen besin.",
+    "story": "Yoğurt sözcüğü Eski Türkçe yoğur- fiilinden gelir.",
+    "firstAttestation": {"source": "Dîvânu Lugâti't-Türk", "period": "", "form": "yoğurt"},
+    "relatives": [
+      {"word": "yoğurmak", "relation": "kardeş"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [],
+    "confidence": "kesin",
+    "reviewed": false
+  }
+]
