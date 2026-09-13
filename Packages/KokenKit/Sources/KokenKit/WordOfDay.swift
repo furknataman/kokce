@@ -26,13 +26,17 @@ public enum WordOfDay {
     // ponytail: ids tükenince modulo ile başa sarar; 500 kelime ≈ 16 ay,
     // o süre içinde yeni kelime eklenerek sarma önlenir.
     public static func index(for date: Date, schedule: Schedule) -> Int? {
-        guard !schedule.ids.isEmpty,
-              let start = day(from: schedule.start) else { return nil }
+        index(for: date, start: schedule.start, count: schedule.ids.count)
+    }
+
+    /// Gün farkı mantığının tek gerçekleşimi; kipli seçim de bunu kullanır.
+    static func index(for date: Date, start: String, count: Int) -> Int? {
+        guard count > 0, let startDay = day(from: start) else { return nil }
         let calendar = calendar
-        let from = calendar.startOfDay(for: start)
+        let from = calendar.startOfDay(for: startDay)
         let to = calendar.startOfDay(for: date)
         guard let difference = calendar.dateComponents([.day], from: from, to: to).day else { return nil }
-        return max(0, difference) % schedule.ids.count
+        return max(0, difference) % count
     }
 
     /// Verilen günün kelime kimliği.
@@ -42,19 +46,44 @@ public enum WordOfDay {
     }
 
     /// Verilen günün kelimesi. Takvimdeki kimlik katalogda yoksa `nil`.
-    public static func word(for date: Date, in catalog: WordCatalog) -> Word? {
-        guard let id = id(for: date, schedule: catalog.schedule) else { return nil }
+    public static func word(for date: Date,
+                            in catalog: WordCatalog,
+                            mode: WordOfDayMode = .mixed) -> Word? {
+        guard let id = id(for: date, in: catalog, mode: mode) else { return nil }
         return catalog.word(id: id)
+    }
+
+    /// Kipe göre süzülmüş takvimdeki günün kimliği.
+    public static func id(for date: Date,
+                          in catalog: WordCatalog,
+                          mode: WordOfDayMode = .mixed) -> String? {
+        let ids = scheduledIDs(mode: mode, in: catalog)
+        guard let index = index(for: date, start: catalog.schedule.start, count: ids.count) else { return nil }
+        return ids[index]
+    }
+
+    /// Kipin havuzu. Süzgeç hiçbir kelime bırakmazsa takvimin tamamına düşülür:
+    /// kullanıcı boş bir "Bugün" ekranıyla karşılaşmaz.
+    public static func scheduledIDs(mode: WordOfDayMode, in catalog: WordCatalog) -> [String] {
+        guard mode != .mixed else { return catalog.schedule.ids }
+        let filtered = catalog.schedule.ids.filter { id in
+            guard let word = catalog.word(id: id) else { return false }
+            return mode == .rare ? word.isRare : !word.isRare
+        }
+        return filtered.isEmpty ? catalog.schedule.ids : filtered
     }
 
     /// Bugünden başlayarak `count` günün (tarih, kelime) çiftleri —
     /// widget zaman çizelgesi bunu kullanır.
-    public static func upcoming(from date: Date, count: Int, in catalog: WordCatalog) -> [(date: Date, word: Word)] {
+    public static func upcoming(from date: Date,
+                                count: Int,
+                                in catalog: WordCatalog,
+                                mode: WordOfDayMode = .mixed) -> [(date: Date, word: Word)] {
         let calendar = calendar
         let start = calendar.startOfDay(for: date)
         return (0..<max(0, count)).compactMap { offset in
             guard let day = calendar.date(byAdding: .day, value: offset, to: start),
-                  let word = word(for: day, in: catalog) else { return nil }
+                  let word = word(for: day, in: catalog, mode: mode) else { return nil }
             return (day, word)
         }
     }

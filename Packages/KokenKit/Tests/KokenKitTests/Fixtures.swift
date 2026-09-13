@@ -64,7 +64,10 @@ enum Fixtures {
 
     static let catalogData = Data(catalogJSON.utf8)
 
-    static func word(id: String, word: String? = nil, donorLanguage: String? = "ar") -> Word {
+    static func word(id: String,
+                     word: String? = nil,
+                     donorLanguage: String? = "ar",
+                     rarity: String? = nil) -> Word {
         Word(id: id,
              word: word ?? id,
              partOfSpeech: "isim",
@@ -81,17 +84,19 @@ enum Fixtures {
              funFact: nil,
              sources: [Source(name: "Nişanyan Sözlük", ref: nil, url: nil)],
              confidence: .high,
-             reviewed: true)
+             reviewed: true,
+             rarity: rarity)
     }
 
     static func catalog(contentVersion: Int = 1,
                         ids: [String] = ["kalem", "pencere", "çay"],
-                        start: String = "2026-10-01") -> WordCatalog {
+                        start: String = "2026-10-01",
+                        rarities: [String: String] = [:]) -> WordCatalog {
         WordCatalog(schemaVersion: 1,
                     contentVersion: contentVersion,
                     schedule: Schedule(start: start, ids: ids),
                     languages: ["ar": "Arapça", "tr": "Türkçe"],
-                    words: ids.map { word(id: $0) })
+                    words: ids.map { word(id: $0, rarity: rarities[$0]) })
     }
 
     static func encoded(_ catalog: WordCatalog) -> Data {

@@ -76,6 +76,9 @@ public struct Word: Codable, Sendable, Equatable, Identifiable, Hashable {
     public let sources: [Source]
     public let confidence: Confidence
     public let reviewed: Bool
+    /// "gündelik" veya "az-bilinen". Eski içerikte alan yoktur; `nil` gelir ve
+    /// gündelik sayılır.
+    public let rarity: String?
 
     public init(id: String,
                 word: String,
@@ -93,7 +96,8 @@ public struct Word: Codable, Sendable, Equatable, Identifiable, Hashable {
                 funFact: String?,
                 sources: [Source],
                 confidence: Confidence,
-                reviewed: Bool) {
+                reviewed: Bool,
+                rarity: String? = nil) {
         self.id = id
         self.word = word
         self.partOfSpeech = partOfSpeech
@@ -111,7 +115,14 @@ public struct Word: Codable, Sendable, Equatable, Identifiable, Hashable {
         self.sources = sources
         self.confidence = confidence
         self.reviewed = reviewed
+        self.rarity = rarity
     }
+
+    public static let rarityEveryday = "gündelik"
+    public static let rarityRare = "az-bilinen"
+
+    /// Günün kelimesi kipinde ayırt edici olan tek soru.
+    public var isRare: Bool { rarity == Self.rarityRare }
 
     /// Rozette ve filtre çiplerinde gösterilen köken dili.
     public var originLanguage: String? {
