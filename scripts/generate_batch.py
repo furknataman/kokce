@@ -31,6 +31,7 @@ BATCHES_DIR = os.path.join(SCRIPTS_DIR, "batches")
 LOG_DIR = os.path.join(SCRIPTS_DIR, "log")
 PROMPT_PATH = os.path.join(SCRIPTS_DIR, "prompts", "generate_batch.md")
 SOURCES_DIR = os.path.join(SCRIPTS_DIR, "sources")
+COGNATE_RE = re.compile(r"eşköken", re.IGNORECASE)
 NOTE_MAX = 400      # prompt'u şişirmemek için kırpma sınırları
 QUOTE_MAX = 220
 HISTORY_MAX = 3
@@ -152,20 +153,37 @@ def render_source(word, record):
         out.append("")
         out.append("**Nişanyan — %s**" % entry.get("name", word))
         chain = entry.get("chain") or []
-        if chain:
+        transmission = [st for st in chain
+                        if not COGNATE_RE.search(st.get("relation") or "")]
+        cognates = [st for st in chain
+                    if COGNATE_RE.search(st.get("relation") or "")]
+
+        def render_step(step):
+            langs = " / ".join(step.get("languages") or []) or "?"
+            form = step.get("romanizedText") or step.get("originalText") or "?"
+            meaning = step.get("definition") or ""
+            relation = step.get("relation")
+            line = "- %s › %s" % (langs, form)
+            if meaning:
+                line += " › %s" % meaning
+            if relation:
+                line += "  [%s]" % relation
+            return line
+
+        if transmission:
             out.append("")
-            out.append("Zincir (eskiden yeniye):")
-            for step in chain:
-                langs = " / ".join(step.get("languages") or []) or "?"
-                form = step.get("romanizedText") or step.get("originalText") or "?"
-                meaning = step.get("definition") or ""
-                relation = step.get("relation")
-                line = "- %s › %s" % (langs, form)
-                if meaning:
-                    line += " › %s" % meaning
-                if relation:
-                    line += "  [%s]" % relation
-                out.append(line)
+            out.append("AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına "
+                       "yalnızca bunlar girer:")
+            for step in transmission:
+                out.append(render_step(step))
+        if cognates:
+            out.append("")
+            out.append("EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar "
+                       "sözcüğün geçtiği yol değil, başka dillerdeki "
+                       "akrabalarıdır. İstersen `funFact` ya da `relatives` "
+                       "içinde `\"eş köken\"` ilişkisiyle anabilirsin:")
+            for step in cognates:
+                out.append(render_step(step))
         histories = entry.get("histories") or []
         if histories:
             out.append("")

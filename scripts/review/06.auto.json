@@ -1,8 +1,10 @@
 [
   {
     "id": "maaş",
-    "verdict": "ok",
-    "reasons": []
+    "verdict": "check",
+    "reasons": [
+      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
+    ]
   },
   {
     "id": "masraf",
@@ -98,7 +100,8 @@
     "id": "şekil",
     "verdict": "check",
     "reasons": [
-      "Kaynak zincirinde olup maddede olmayan halka: arc"
+      "Kaynak zincirinde olup maddede olmayan halka: arc",
+      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
     ]
   }
 ]

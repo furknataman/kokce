@@ -8,7 +8,7 @@ kökünden (`koken/`) çalıştırılır.
 | Yol | İşi |
 |---|---|
 | `schema.md` | Kelime veri şeması. Tek doğruluk kaynağı. |
-| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v6**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
+| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v8**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
 | `prompts/verify_batch.md` | Bağımsız doğrulayıcı prompt'u (v1). `{{ITEMS}}` yer tutucusu. |
 | `fetch_sources.py` | Nişanyan ve TDK kayıtlarını indirir. |
 | `generate_batch.py` | Kelime listesinden parti üretir (`codex exec`). |
@@ -131,13 +131,18 @@ Partiyi `sources/` ile karşılaştırıp `review/NN.auto.json` yazar. Bakılanl
 - Zincir halkaları ve sırası ↔ Nişanyan zinciri.
 - `firstAttestation.period` ↔ en küçük `dateSortable` (yüzyıl biçimi aralığa
   çevrilir), `firstAttestation.source` ↔ eser adı (gevşek eşleşme).
-- Nişanyan belirsizlik bildiriyorsa `formationType` `tartışmalı` mı,
-  `alternatives` dolu mu.
+- Eş kökenli halkalar zincire sızmış mı: `chain[].meaning` içinde "eş
+  kökenli" / "akraba biçim" geçiyor mu, kaynakta yalnızca eş kökenli olarak
+  geçen bir dil zincire aktarım halkası olarak konmuş mu.
+- `formationType: tartışmalı` yalnızca kaynak oluşum türünde ayrışınca
+  kullanılmış mı, `alternatives` dolu mu. Veren dil belirsizse `alıntı` +
+  `alternatives` beklenir.
 - `sources` içindeki Nişanyan bağlantısı doğru mu.
 
 İki nokta önemli: Nişanyan'ın **`eşkökenlilik`** ilişkili adımları sözcüğün
 geçtiği yolu değil başka dillerdeki akrabalarını gösterir, zincir
-karşılaştırmasına girmez. Ardışık aynı dil adımları (Arapça kök + Arapça
+karşılaştırmasına girmez ve prompt'ta ayrı bir "EŞ KÖKENLİLER — `chain`
+alanına KOYMA" başlığı altında verilir. Ardışık aynı dil adımları (Arapça kök + Arapça
 sözcük) teke indirilir.
 
 Kaynak kaydı olmayan madde her zaman `check` olur; denetlenemeyen şey

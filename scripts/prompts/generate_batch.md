@@ -1,4 +1,4 @@
-# Köken — Üretim Prompt'u (v7)
+# Köken — Üretim Prompt'u (v8)
 
 Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
 bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
@@ -30,9 +30,19 @@ kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
      özgün cümlelerinle kur. `story` senin anlatın olacak.
    - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
      yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
-   - Nişanyan ilişki alanında **"tahmine dayalı"**, **"tartışmalı"**,
-     **"belirsiz"** veya benzeri bir kayıt varsa `formationType` değerini
-     `"tartışmalı"` yap ve `alternatives` dizisini doldur.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
    - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
      anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
    - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı

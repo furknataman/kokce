@@ -3,7 +3,9 @@
     "id": "kalp",
     "verdict": "check",
     "reasons": [
-      "Maddede olup kaynak zincirinde olmayan halka: akk"
+      "Maddede olup kaynak zincirinde olmayan halka: akk",
+      "chain[0].meaning akrabalık anlatıyor ('yürek; Arapça biçimle eş kökenli'); eş kökenli biçim zincire girmez",
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: akk"
     ]
   },
   {
@@ -37,7 +39,9 @@
     "id": "cenaze",
     "verdict": "check",
     "reasons": [
-      "Maddede olup kaynak zincirinde olmayan halka: arc"
+      "Maddede olup kaynak zincirinde olmayan halka: arc",
+      "chain[1].meaning akrabalık anlatıyor ('gömü, saklı değer; eş kökenli biçimler'); eş kökenli biçim zincire girmez",
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: arc"
     ]
   },
   {
@@ -59,8 +63,10 @@
   },
   {
     "id": "kahve",
-    "verdict": "ok",
-    "reasons": []
+    "verdict": "check",
+    "reasons": [
+      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
+    ]
   },
   {
     "id": "baharat",
@@ -74,14 +80,18 @@
   },
   {
     "id": "şurup",
-    "verdict": "ok",
-    "reasons": []
+    "verdict": "check",
+    "reasons": [
+      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
+    ]
   },
   {
     "id": "helva",
     "verdict": "check",
     "reasons": [
-      "Maddede olup kaynak zincirinde olmayan halka: arc"
+      "Maddede olup kaynak zincirinde olmayan halka: arc",
+      "chain[0].meaning akrabalık anlatıyor ('tatlı yiyecek; Arapça biçimle eş kökenli'); eş kökenli biçim zincire girmez",
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: arc"
     ]
   },
   {
@@ -103,14 +113,18 @@
     "id": "zeytin",
     "verdict": "check",
     "reasons": [
-      "Maddede olup kaynak zincirinde olmayan halka: he"
+      "Maddede olup kaynak zincirinde olmayan halka: he",
+      "chain[0].meaning akrabalık anlatıyor ('zeytin ve yağı; eş kökenli biçim'); eş kökenli biçim zincire girmez",
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: he",
+      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
     ]
   },
   {
     "id": "salep",
     "verdict": "check",
     "reasons": [
-      "firstAttestation.period 1665, kaynaktaki en eski tanıklık 1410"
+      "firstAttestation.period 1665, kaynaktaki en eski tanıklık 1410",
+      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
     ]
   }
 ]

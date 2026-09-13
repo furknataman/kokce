@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fiyat",
+    "verdict": "fix",
+    "objections": [
+      "chain[1].meaning null bırakılmış ve doğrulayıcı hata veriyor; kaynak bu biçimin Arapçada bulunmayan bir çoğul olduğunu söylediği için anlam bu bilgiden yazıldı."
+    ]
+  },
+  {
+    "id": "şekil",
+    "verdict": "fix",
+    "objections": [
+      "formationType 'tartışmalı' verilmiş; kaynaklar oluşum türünde değil yalnızca aktarım yolunda ayrışıyor, alıntı olduğunda uyuşuyorlar, değer 'alıntı' olmalı.",
+      "Kaynakta alıntı halkası olan Aramice şaklīl/şiklīl zincirden düşürülmüş, buna karşılık eşkökenlilik olarak geçen Akkadca şuklulu zincire halka diye konmuş; ikisi de ters.",
+      "Zincir düzeltilince ikinci alternatives maddesi konusuz kaldığı için yeniden yazıldı."
+    ]
+  }
+]

@@ -35,7 +35,8 @@
     "id": "sandalye",
     "verdict": "check",
     "reasons": [
-      "donorLanguage null ama kaynak alıntı diyor: ar, el"
+      "donorLanguage null ama kaynak alıntı diyor: ar, el",
+      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
     ]
   },
   {

@@ -58,8 +58,10 @@
   },
   {
     "id": "ıspanak",
-    "verdict": "ok",
-    "reasons": []
+    "verdict": "check",
+    "reasons": [
+      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
+    ]
   },
   {
     "id": "nar",
@@ -79,7 +81,8 @@
     "verdict": "check",
     "reasons": [
       "Kaynak zincirinde olup maddede olmayan halka: arc",
-      "Maddede olup kaynak zincirinde olmayan halka: syc"
+      "Maddede olup kaynak zincirinde olmayan halka: syc",
+      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
     ]
   },
   {

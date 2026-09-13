@@ -1,0 +1,63 @@
+[
+  {
+    "id": "kalp",
+    "verdict": "fix",
+    "objections": [
+      "Akkadca ḳablu kaynakta eşkökenlilik olarak geçiyor, aktarım halkası değil; zincirden çıkarılmalı.",
+      "chain[0].meaning alanına 'Arapça biçimle eş kökenli' ilişki notu yazılmış; meaning yalnızca o aşamadaki anlamı taşır.",
+      "Zincirin ilk halkası düşünce ultimateOrigin akk değil ar olur."
+    ]
+  },
+  {
+    "id": "hücre",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "cenaze",
+    "verdict": "fix",
+    "objections": [
+      "Aramice ginzā/gənīzā kaynakta eşkökenlilik olarak geçiyor, aktarım halkası değil; zincirden çıkarılmalı.",
+      "chain[1].meaning alanına 'eş kökenli biçimler' ilişki notu yazılmış; meaning yalnızca o aşamadaki anlamı taşır."
+    ]
+  },
+  {
+    "id": "merasim",
+    "verdict": "fix",
+    "objections": [
+      "chain[0].meaning null bırakılmış ve doğrulayıcı hata veriyor; kaynak Arapça rasm halkasına tanım vermediği için halka çıkarıldı, uydurma anlam yazılmadı."
+    ]
+  },
+  {
+    "id": "ameliyat",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "helva",
+    "verdict": "fix",
+    "objections": [
+      "Aramice ḥalaw/ḥalwā kaynakta eşkökenlilik olarak geçiyor, aktarım halkası değil; zincirden çıkarılmalı.",
+      "chain[0].meaning alanına 'Arapça biçimle eş kökenli' ilişki notu yazılmış; meaning yalnızca o aşamadaki anlamı taşır.",
+      "Zincirin ilk halkası düşünce ultimateOrigin arc değil ar olur."
+    ]
+  },
+  {
+    "id": "zeytin",
+    "verdict": "fix",
+    "objections": [
+      "formationType 'tartışmalı' verilmiş; kaynaklar oluşum türünde değil yalnızca aktarım yolunda ayrışıyor, alıntı olduğunda uyuşuyorlar, değer 'alıntı' olmalı.",
+      "İbranice zayt kaynakta eşkökenlilik olarak geçiyor, aktarım halkası değil; zincirden çıkarılmalı.",
+      "chain[0].meaning alanına 'eş kökenli biçim' ilişki notu yazılmış; meaning yalnızca o aşamadaki anlamı taşır.",
+      "Zincirin en eski halkası Aramice olduğundan ultimateOrigin null değil arc olmalı; Sami öncesi kaynak belirsizliği alternatives'te zaten kayıtlı."
+    ]
+  },
+  {
+    "id": "salep",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation olarak 1665 verilmiş; kaynaktaki en eski tanıklık 1410'dan önceye tarihlenen Müntehab-ı Şifa kaydıdır, bu kayıt bitki anlamınadır, 1665 ise içecek ve satıcı anlamınadır.",
+      "Tanıklık öne alındığı için Türkçe halkanın 17. yy period değeri düşürüldü."
+    ]
+  }
+]

@@ -67,7 +67,8 @@
     "verdict": "check",
     "reasons": [
       "Kaynak zincirinde olup maddede olmayan halka: arc",
-      "Maddede olup kaynak zincirinde olmayan halka: he"
+      "Maddede olup kaynak zincirinde olmayan halka: he",
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: he"
     ]
   },
   {
@@ -86,7 +87,8 @@
     "id": "devlet",
     "verdict": "check",
     "reasons": [
-      "Maddede olup kaynak zincirinde olmayan halka: akk"
+      "Maddede olup kaynak zincirinde olmayan halka: akk",
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: akk"
     ]
   },
   {

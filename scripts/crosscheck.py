@@ -106,6 +106,12 @@ SOURCE_LANG = {
 
 # Nişanyan'ın belirsizlik bildiren ifadeleri.
 COGNATE_RE = re.compile(r"eşköken", re.IGNORECASE)
+# Madde metninde akrabalık anlatan ifadeler: bunlar zincir adımı açıklaması olamaz.
+# "akraba" tek başına geçerli bir anlam olabilir (aile = akrabalık topluluğu);
+# yalnızca biçim/sözcük hakkında konuşan kullanımlar yakalanır.
+COGNATE_TEXT_RE = re.compile(
+    r"eş ?kökenli|akraba(?:sı)?\s+(?:biçim|sözcük|kelime|kök|form)",
+    re.IGNORECASE)
 UNCERTAIN_RE = re.compile(
     r"tahmin|tartışmal|belirsiz|muhtemel|şüphe|kesin değil|açıklanamam", re.IGNORECASE)
 
@@ -309,18 +315,54 @@ def check_attestation(item, entry, reasons):
                            "eşleşmiyor (%s)" % (named, ", ".join(candidates[:4])))
 
 
+def check_cognates(item, entry, reasons):
+    """Eş kökenli halkaların aktarım zincirine sızmadığını denetler."""
+    for i, step in enumerate(item.get("chain") or []):
+        if not isinstance(step, dict):
+            continue
+        meaning = step.get("meaning")
+        if isinstance(meaning, str) and COGNATE_TEXT_RE.search(meaning):
+            reasons.append("chain[%d].meaning akrabalık anlatıyor (%r); eş "
+                           "kökenli biçim zincire girmez" % (i, meaning))
+    if not entry:
+        return
+    transmission = set(transmission_chain(entry))
+    cognate_codes = set()
+    for step in entry.get("chain") or []:
+        if not COGNATE_RE.search(step.get("relation") or ""):
+            continue
+        for name in step.get("languages") or []:
+            code = lang_code(name)
+            if code:
+                cognate_codes.add(code)
+    cognate_only = cognate_codes - transmission
+    item_codes = {st.get("language") for st in item.get("chain") or []
+                  if isinstance(st, dict)}
+    intruders = sorted(cognate_only & item_codes)
+    if intruders:
+        reasons.append("Kaynakta yalnızca eş kökenli olarak geçen dil zincire "
+                       "aktarım halkası olarak konmuş: %s" % ", ".join(intruders))
+
+
 def check_uncertainty(item, entry, reasons):
     if not entry:
         return
     texts = [s.get("relation") or "" for s in entry.get("chain") or []
              if not COGNATE_RE.search(s.get("relation") or "")]
-    uncertain_relation = any(UNCERTAIN_RE.search(t) for t in texts)
-    if uncertain_relation and item.get("formationType") != "tartışmalı":
-        hits = sorted({t for t in texts if UNCERTAIN_RE.search(t)})
-        reasons.append("Kaynak ilişkisi belirsizlik bildiriyor (%s) ama "
-                       "formationType %r" % (", ".join(hits), item.get("formationType")))
-    if item.get("formationType") == "tartışmalı" and not item.get("alternatives"):
+    hits = sorted({t for t in texts if UNCERTAIN_RE.search(t)})
+    formation = item.get("formationType")
+
+    # tartışmalı yalnızca kaynaklar oluşum türünde ayrışınca kullanılır.
+    if formation == "tartışmalı" and not hits:
+        reasons.append("formationType tartışmalı ama Nişanyan ilişkisinde "
+                       "tartışma kaydı yok; veren dil belirsizse alıntı + "
+                       "alternatives kullanılmalı")
+    if formation == "tartışmalı" and not item.get("alternatives"):
         reasons.append("formationType tartışmalı ama alternatives boş")
+    # Kaynak belirsizlik bildiriyorsa bu bir yerde kayıtlı olmalı.
+    if hits and formation != "tartışmalı" and not item.get("alternatives"):
+        reasons.append("Kaynak belirsizlik bildiriyor (%s) ama ne formationType "
+                       "tartışmalı ne alternatives dolu" % ", ".join(hits))
 
 
 def check_source_url(item, entry, reasons):
@@ -359,6 +401,7 @@ def crosscheck_item(item):
     check_donor(item, entry, tdk, reasons)
     check_chain(item, entry, reasons)
     check_attestation(item, entry, reasons)
+    check_cognates(item, entry, reasons)
     check_uncertainty(item, entry, reasons)
     check_source_url(item, entry, reasons)
 

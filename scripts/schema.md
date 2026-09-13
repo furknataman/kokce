@@ -173,7 +173,7 @@ Model kanaati değil, **kaynak sayımı**dır:
 | `öz` | Eski Türkçeden süreklilikle gelen, alıntı olmayan. |
 | `yansıma` | Ses taklidi. |
 | `kısaltma` | Kırpma/kısaltma yoluyla. |
-| `tartışmalı` | Kaynaklar oluşum türünde ayrışıyor. |
+| `tartışmalı` | Kaynaklar **oluşum türünde** ayrışıyor (biri alıntı, öbürü türeme diyor). Yalnızca veren dil ya da geliş yolu tartışmalıysa bu değer kullanılmaz: oluşum türü yazılır (çoğunlukla `alıntı`) ve tartışma `alternatives` alanına konur. |
 
 ### `relation`
 
@@ -182,7 +182,7 @@ Model kanaati değil, **kaynak sayımı**dır:
 | `türev` | Aynı kökten ek alarak türemiş. |
 | `birleşik` | Bu kelimeyi içeren birleşik sözcük. |
 | `akraba` | Aynı kökten, Türkçe içinde ayrı yoldan gelen. |
-| `eş köken` | Aynı uzak kökenden gelen, başka dilden alınmış ikiz (doublet). |
+| `eş köken` | Aynı uzak kökenden gelen, başka dilden alınmış ikiz (doublet). Kaynakta eş kökenli olarak geçen biçimler `chain` içine **girmez**, buraya ya da `funFact` alanına yazılır. |
 
 ### `partOfSpeech`
 

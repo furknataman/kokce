@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mutfak",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "sandalye",
+    "verdict": "fix",
+    "objections": [
+      "formationType 'tartışmalı' verilmiş; kaynaklar oluşum türünde değil yalnızca aktarım yolunda ayrışıyor, alıntı olduğunda uyuşuyorlar, değer 'alıntı' olmalı.",
+      "chain[1].meaning null bırakılmış ve doğrulayıcı hata veriyor; kaynak Yunanca sandália halkasına tanım vermediği için halka çıkarıldı.",
+      "donorLanguage null bırakılmış, oysa maddenin kendi zinciri Yunancadan Türkçeye geçişi gösteriyor; değer el olmalı, TDK'nin Arapça yolu alternatives'te kayıtlı kalır.",
+      "firstAttestation.period '<1377' biçiminde yazılmış, metin alanında \"1377'den önce\" olmalı."
+    ]
+  }
+]
