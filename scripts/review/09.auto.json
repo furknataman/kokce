@@ -1,0 +1,116 @@
+[
+  {
+    "id": "ateş",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "rüzgâr",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 1341, kaynaktaki en eski tanıklık 1303"
+    ]
+  },
+  {
+    "id": "dert",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: pal",
+      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303"
+    ]
+  },
+  {
+    "id": "derman",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: pal"
+    ]
+  },
+  {
+    "id": "çare",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "keşke",
+    "verdict": "check",
+    "reasons": [
+      "Zincir sırası kaynaktan farklı: madde pal › fa, kaynak fa › pal › fa"
+    ]
+  },
+  {
+    "id": "arzu",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "naz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "nazik",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "narin",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "can",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "cihan",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "cömert",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kahraman",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "dost",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: pal"
+    ]
+  },
+  {
+    "id": "düşman",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: ae, ine, ae",
+      "Maddede olup kaynak zincirinde olmayan halka: pal"
+    ]
+  },
+  {
+    "id": "sarhoş",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hoş",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "serbest",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "bedava",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

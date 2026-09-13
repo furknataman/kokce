@@ -1,0 +1,155 @@
+[
+  {
+    "id": "kalem",
+    "verdict": "fix",
+    "objections": [
+      "funFact yalnızca sözlükte bir kaydın bulunduğunu söylüyor, kelime hakkında ilginç bir bilgi vermiyor.",
+      "story son cümlesinde kaynağı adıyla anıyor; anlatı kelimenin yolculuğunu değil sözlüğün ne dediğini aktarıyor.",
+      "Hint-Avrupa ve Eski Yunanca biçimler (ḱolh₂mos, kálamos) Arapça çevriyazı dışı olduğundan kendi yazım geleneklerinde bırakıldı."
+    ]
+  },
+  {
+    "id": "defter",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "kitap",
+    "verdict": "fix",
+    "objections": [
+      "funFact yalnızca tanıklıktaki kelimenin yönelme eki aldığını söylüyor, kelime hakkında bilgi taşımıyor.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "mektup",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "sayfa",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "cümle",
+    "verdict": "fix",
+    "objections": [
+      "cemal akraba olarak verilmiş; kaynak cümleyi tam ve eksiksiz olma anlamındaki camula fiiline bağlar, güzellik anlamıyla bağ kurmaz.",
+      "funFact aynı desteksiz cemal bağını tekrarlıyor.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "kelime",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "harf",
+    "verdict": "fix",
+    "objections": [
+      "huruf için türev ilişkisi verilmiş; huruf Türkçe ekle türetilmiş değil, Arapça çoğul biçimdir, ilişki akraba olmalı.",
+      "funFact aynı çoğulluk bilgisini tekrarlıyor, kelime hakkında yeni bir şey söylemiyor.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı.",
+      "Eski Yunanca gráphō biçimi Arapça çevriyazı dışı olduğundan kendi yazım geleneğinde bırakıldı."
+    ]
+  },
+  {
+    "id": "nokta",
+    "verdict": "fix",
+    "objections": [
+      "story kaynağı adıyla anıyor; anlatı kelimenin yolculuğunu değil sözlüğün ne dediğini aktarıyor.",
+      "Aramice nəḳūdtā biçimindeki ə harfinin v4 listesinde karşılığı yok, biçim kaynaktaki gibi bırakıldı."
+    ]
+  },
+  {
+    "id": "tarih",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "saat",
+    "verdict": "fix",
+    "objections": [
+      "funFact sözlüğün hangi yazardan örnek verdiğini anlatıyor; bilgi kelimeye değil kaynağa ait.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "vakit",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "zaman",
+    "verdict": "fix",
+    "objections": [
+      "story dört cümlesini de hangi sözlüğün ne dediğine ayırmış; kelimenin yolculuğunu anlatmıyor.",
+      "Nişanyan Sözlük Türkçeye veren dil olarak Arapça ile Farsçayı birlikte anıyor, bu ayrışma alternatives alanında belirtilmemiş.",
+      "Aramice zəmān biçimindeki ə harfinin v4 listesinde karşılığı yok, biçim kaynaktaki gibi bırakıldı."
+    ]
+  },
+  {
+    "id": "sabah",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "takvim",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "saniye",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı.",
+      "Arapça ث sesi için kullanılan s̱ harfinin v4 çevriyazı listesinde karşılığı yok, biçim kaynaktaki gibi bırakıldı."
+    ]
+  },
+  {
+    "id": "dakika",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "müddet",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation gereksiz yere null bırakılmış; Nişanyan Sözlük Atebetü'l-Hakayık'taki muddat biçimini kaydeder.",
+      "müddetname akraba kelime olarak verilmiş, ancak bu kelime ne Nişanyan Sözlük'te ne TDK Güncel Türkçe Sözlük'te bulunur.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "mevsim",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "sene",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  }
+]

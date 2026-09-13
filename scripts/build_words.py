@@ -267,6 +267,8 @@ def main(argv=None):
                         help="Yalnızca doğrulayıcıdan geçmiş maddeleri yazar.")
     parser.add_argument("--no-validate", action="store_true",
                         help="Yazdıktan sonra doğrulama çalıştırmaz.")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="Dosya yazmaz; ne yazılacağının sayımını basar.")
     args = parser.parse_args(argv)
 
     items, batch_paths = load_batches(args.batches_dir)
@@ -303,6 +305,29 @@ def main(argv=None):
         "words": words,
     }
 
+    rarity_counts = {}
+    for _wid, item in kept:
+        key = item.get("rarity") or "(yok)"
+        rarity_counts[key] = rarity_counts.get(key, 0) + 1
+    reviewed_true = sum(1 for _w, i in kept if i.get("reviewed") is True)
+
+    if args.dry_run:
+        print("Parti dosyası: %d · madde: %d" % (len(batch_paths), len(items)))
+        print("ok: %d · fix: %d · drop: %d · otomatik: %d · kararsız: %d · "
+              "eksik düzeltme: %d"
+              % (stats["ok"], stats["fix"], stats["drop"], stats["auto"],
+                 stats["unreviewed"], stats["missing_fix"]))
+        print("reviewed true: %d · reviewed false: %d"
+              % (reviewed_true, len(kept) - reviewed_true))
+        print("rarity: %s"
+              % " · ".join("%s %d" % (k, v) for k, v in sorted(rarity_counts.items())))
+        print("yazılacaktı: %s (contentVersion %d, %d kelime, %d dil, "
+              "schedule %d gün)"
+              % (args.out, existing["content_version"] + 1, len(words),
+                 len(languages), len(schedule_ids)))
+        print("Dosya yazılmadı (--dry-run).")
+        return 0
+
     out_dir = os.path.dirname(os.path.abspath(args.out))
     if out_dir:
         os.makedirs(out_dir, exist_ok=True)
@@ -315,6 +340,8 @@ def main(argv=None):
           "eksik düzeltme: %d"
           % (stats["ok"], stats["fix"], stats["drop"], stats["auto"],
              stats["unreviewed"], stats["missing_fix"]))
+    print("rarity: %s"
+          % " · ".join("%s %d" % (k, v) for k, v in sorted(rarity_counts.items())))
     if stats["unreviewed"] and not args.strict_reviewed:
         print("Uyarı: %d madde doğrulayıcıdan geçmedi, reviewed: false olarak "
               "yazıldı." % stats["unreviewed"], file=sys.stderr)

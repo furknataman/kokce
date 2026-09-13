@@ -1,0 +1,106 @@
+[
+  {
+    "id": "mutfak",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 1680, kaynaktaki en eski tanıklık 1303"
+    ]
+  },
+  {
+    "id": "tabak",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tas",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sahan",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ibrik",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sofra",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sandalye",
+    "verdict": "check",
+    "reasons": [
+      "donorLanguage null ama kaynak alıntı diyor: ar, el"
+    ]
+  },
+  {
+    "id": "minder",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "havuz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "raf",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "mahalle",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sokak",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "cadde",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "bina",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "daire",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "inşaat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tamir",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kira",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ücret",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hesap",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

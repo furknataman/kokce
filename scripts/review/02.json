@@ -1,0 +1,159 @@
+[
+  {
+    "id": "insan",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "aile",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation gereksiz yere null bırakılmış; Nişanyan Sözlük Kitâb Fi'l-Fıkh Bi'l-Lisâni't-Türkî'deki ˁāyilet biçimini kaydeder.",
+      "story kaynağı adıyla anıyor; anlatı kelimenin yolculuğunu değil sözlüğün ne dediğini aktarıyor.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "akraba",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation gereksiz yere null bırakılmış; Nişanyan Sözlük 1429 tarihli Gülistan tercümesindeki aḳrıbā biçimini kaydeder.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "ahbap",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation gereksiz yere null bırakılmış; Nişanyan Sözlük Garib-nâme'deki aḥbāb biçimini kaydeder.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "misafir",
+    "verdict": "fix",
+    "objections": [
+      "funFact story'nin son cümlesini tekrarlıyor, yeni bir bilgi eklemiyor.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "davet",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation gereksiz yere null bırakılmış; Nişanyan Sözlük Mukaddimetü'l-Edeb tercümesindeki daˁvat biçimini kaydeder.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "ziyaret",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "sohbet",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "muhabbet",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "selam",
+    "verdict": "fix",
+    "objections": [
+      "story kaynağı adıyla anıyor; anlatı kelimenin yolculuğunu değil sözlüğün ne dediğini aktarıyor."
+    ]
+  },
+  {
+    "id": "merhaba",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation gereksiz yere null bırakılmış; Nişanyan Sözlük Mukaddimetü'l-Edeb tercümesindeki marhabā biçimini kaydeder.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "teşekkür",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "cevap",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "sual",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation gereksiz yere null bırakılmış; Nişanyan Sözlük Garib-nâme'deki suwāl biçimini kaydeder (1303 Codex Cumanicus kaydı Türkçe karşılık olarak daˁva verdiği için sayılmaz).",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "haber",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "hikâye",
+    "verdict": "fix",
+    "objections": [
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "masal",
+    "verdict": "fix",
+    "objections": [
+      "mesel için eş köken ilişkisi verilmiş; masal ile mesel Türkçe içinde ayrışmış iki biçim olduğundan ilişki akraba olmalı.",
+      "story kaynağı adıyla anıyor; anlatı kelimenin yolculuğunu değil sözlüğün ne dediğini aktarıyor.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı.",
+      "Arapça ث sesi için kullanılan s̱ harfinin v4 çevriyazı listesinde karşılığı yok, biçim kaynaktaki gibi bırakıldı."
+    ]
+  },
+  {
+    "id": "şaka",
+    "verdict": "fix",
+    "objections": [
+      "donorLanguage ve ultimateOrigin null bırakılmış, zincir yalnızca Türkçe adımdan oluşuyor; Nişanyan Sözlük ihtiyatla da olsa Arapça şaḳāˀ biçimini kaynak gösterir.",
+      "story iki ayrı köken açıklamasını anlatıyor ama alternatives alanı null bırakılmış.",
+      "firstAttestation gereksiz yere null bırakılmış; Nişanyan Sözlük Tacü't-Tevârih'teki şaḳā biçimini kaydeder."
+    ]
+  },
+  {
+    "id": "zevk",
+    "verdict": "fix",
+    "objections": [
+      "funFact zincirdeki Arapça anlamı yeniden söylüyor, kelime hakkında yeni bir bilgi vermiyor.",
+      "firstAttestation gereksiz yere null bırakılmış; Nişanyan Sözlük Garib-nâme'deki ẕevḳ biçimini kaydeder.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  },
+  {
+    "id": "keyif",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation gereksiz yere null bırakılmış; Nişanyan Sözlük Kâtip Çelebi'nin Fezleke'sindeki keyf biçimini kaydeder.",
+      "story kaynağı adıyla anıyor; anlatı kelimenin yolculuğunu değil sözlüğün ne dediğini aktarıyor.",
+      "TDK Güncel Türkçe Sözlük aynı Arapça kökeni doğruluyor, ikinci kaynak eklenerek confidence yüksek'e çıkarıldı."
+    ]
+  }
+]

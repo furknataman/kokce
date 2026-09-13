@@ -1,0 +1,116 @@
+[
+  {
+    "id": "pencere",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "çerçeve",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "perde",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "merdiven",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303"
+    ]
+  },
+  {
+    "id": "duvar",
+    "verdict": "check",
+    "reasons": [
+      "Zincir sırası kaynaktan farklı: madde ine › peo › fa, kaynak ine › peo › ine › peo › fa"
+    ]
+  },
+  {
+    "id": "çeşme",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ayna",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: ae",
+      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303"
+    ]
+  },
+  {
+    "id": "kilit",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "menteşe",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kelepçe",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "bahçe",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "bahar",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "gül",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "lale",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "menekşe",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: ae"
+    ]
+  },
+  {
+    "id": "sümbül",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: arc",
+      "Maddede olup kaynak zincirinde olmayan halka: he"
+    ]
+  },
+  {
+    "id": "çınar",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "servi",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tohum",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 1680, kaynaktaki en eski tanıklık 1303"
+    ]
+  },
+  {
+    "id": "fıstık",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

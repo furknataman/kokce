@@ -16,3 +16,6 @@ Packages/*/.build/
 
 # Codex ham çıktıları (hata ayıklama artığı)
 scripts/batches/*.raw.txt
+
+# Kaynak önbelleği: Nişanyan/TDK ham kayıtları, fetch_sources.py ile yeniden üretilir
+scripts/sources/

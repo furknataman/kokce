@@ -1,0 +1,104 @@
+[
+  {
+    "id": "maaş",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "masraf",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "fiyat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kıymet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "zam",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "nakit",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "faiz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "taksit",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "senet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "makbuz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hediye",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "emanet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "eşya",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "cihaz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "alet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "nakil",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "malzeme",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hacim",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "cisim",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "şekil",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: arc"
+    ]
+  }
+]

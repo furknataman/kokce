@@ -1,0 +1,116 @@
+[
+  {
+    "id": "kalp",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: akk"
+    ]
+  },
+  {
+    "id": "nabız",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hücre",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 1429, kaynaktaki en eski tanıklık 1303"
+    ]
+  },
+  {
+    "id": "vücut",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "şifa",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hekim",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "cenaze",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: arc"
+    ]
+  },
+  {
+    "id": "merasim",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ameliyat",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 1876, kaynaktaki en eski tanıklık 1680"
+    ]
+  },
+  {
+    "id": "muayene",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kahve",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "baharat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "şerbet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "şurup",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "helva",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: arc"
+    ]
+  },
+  {
+    "id": "lokma",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kadayıf",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tahin",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "zeytin",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: he"
+    ]
+  },
+  {
+    "id": "salep",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 1665, kaynaktaki en eski tanıklık 1410"
+    ]
+  }
+]

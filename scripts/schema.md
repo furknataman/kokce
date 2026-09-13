@@ -97,7 +97,7 @@ kök nesne sarmalayıcısı yoktur.
 |---|---|---|---|
 | `language` | string | hayır | Dil kodu. |
 | `form` | string | hayır | O dildeki biçim; Latin harfli çevriyazı (örn. `kálamos`, `ḳalam`). Tek standart: `ḳ ḥ ḫ ṣ ṭ ẓ ˁ ˀ ā ī ū ş ç`; `q`, `ʿ`, `ʾ` kullanılmaz. |
-| `meaning` | string | hayır | O aşamadaki anlam. |
+| `meaning` | string | hayır | O aşamadaki anlam. Anlam bir önceki adımdan farklı değilse o adımın anlamı **tekrarlanır**, boş bırakılmaz. |
 | `period` | string | evet (`null`) | Örn. `"13. yy"`, `"MÖ 5. yy"`. Bilinmiyorsa `null`. |
 | `reconstructed` | bool | hayır | Biçim varsayımsal/rekonstrüksiyon ise `true` (yazımda `*` kullanılmaz, bu alan işaretler). |
 

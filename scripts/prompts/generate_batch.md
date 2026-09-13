@@ -1,4 +1,4 @@
-# Köken — Üretim Prompt'u (v6)
+# Köken — Üretim Prompt'u (v7)
 
 Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
 bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
@@ -172,6 +172,10 @@ Her nesne tam olarak şu alanları içerir:
 - `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
   `null`.
 - `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
 - `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
 - `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
   işareti **yazma**, bu alanı kullan.

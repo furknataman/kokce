@@ -341,6 +341,8 @@ def generate(number, words, template, args):
     # rarity modelin kanaati değil, kelime listesinin verisidir: her hâlükârda
     # listeden yazılır.
     apply_rarity(items, chunk)
+    # Boş bırakılan zincir anlamlarını bir önceki adımdan tamamla.
+    fill_chain_meanings(items)
 
     with open(out_path, "w", encoding="utf-8") as handle:
         json.dump(items, handle, ensure_ascii=False, indent=2)
@@ -391,29 +393,77 @@ def apply_rarity(items, entries):
     return changed, missing
 
 
-def fix_rarity(batches_dir, entries):
-    """Var olan parti dosyalarına rarity alanını ekler (tek seferlik onarım)."""
+def fill_chain_meanings(items):
+    """chain[].meaning boşsa bir önceki adımın anlamını yazar.
+
+    İlk adım boşsa ileriye bakıp ilk dolu anlamı alır. Hiçbir adımda anlam
+    yoksa dokunmaz; doğrulayıcı yakalar.
+    """
+    filled = 0
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        chain = item.get("chain")
+        if not isinstance(chain, list):
+            continue
+        steps = [st for st in chain if isinstance(st, dict)]
+        previous = None
+        for step in steps:
+            meaning = step.get("meaning")
+            if isinstance(meaning, str) and meaning.strip():
+                previous = meaning.strip()
+            elif previous is not None:
+                step["meaning"] = previous
+                filled += 1
+        # İlk adımlar boş kaldıysa ilk dolu anlamla geriye doğru doldur.
+        first_filled = next((st["meaning"] for st in steps
+                             if isinstance(st.get("meaning"), str)
+                             and st["meaning"].strip()), None)
+        if first_filled is None:
+            continue
+        for step in steps:
+            meaning = step.get("meaning")
+            if isinstance(meaning, str) and meaning.strip():
+                break
+            step["meaning"] = first_filled
+            filled += 1
+    return filled
+
+
+def repair_batches(batches_dir, entries, do_rarity, do_meanings):
+    """Var olan parti dosyalarını yerinde onarır (tek seferlik komutlar)."""
     paths = sorted(glob.glob(os.path.join(batches_dir, "*.json")))
     if not paths:
         raise SystemExit("%s içinde parti dosyası yok." % batches_dir)
-    total_changed = total_missing = 0
+    total_rarity = total_meanings = total_missing = 0
     for path in paths:
         with open(path, encoding="utf-8") as handle:
             items = json.load(handle)
         if not isinstance(items, list):
             print("%s: JSON dizi değil, atlandı." % show(path), file=sys.stderr)
             continue
-        changed, missing = apply_rarity(items, entries)
-        if changed:
+        changed = missing = meanings = 0
+        if do_rarity:
+            changed, missing = apply_rarity(items, entries)
+        if do_meanings:
+            meanings = fill_chain_meanings(items)
+        if changed or meanings:
             with open(path, "w", encoding="utf-8") as handle:
                 json.dump(items, handle, ensure_ascii=False, indent=2)
                 handle.write("\n")
-        total_changed += changed
+        total_rarity += changed
+        total_meanings += meanings
         total_missing += missing
-        print("%s: %d madde güncellendi%s"
-              % (show(path), changed,
-                 ", %d madde listede yok" % missing if missing else ""))
-    print("\nToplam %d madde güncellendi." % total_changed)
+        bits = []
+        if do_rarity:
+            bits.append("%d rarity" % changed)
+        if do_meanings:
+            bits.append("%d anlam" % meanings)
+        if missing:
+            bits.append("%d madde listede yok" % missing)
+        print("%s: %s" % (show(path), ", ".join(bits)))
+    print("\nToplam: %d rarity, %d anlam güncellendi."
+          % (total_rarity, total_meanings))
     if total_missing:
         print("%d madde kelime listesinde bulunamadı, rarity yazılmadı."
               % total_missing, file=sys.stderr)
@@ -432,6 +482,9 @@ def main(argv=None):
     group.add_argument("--rarity-from-wordlist", action="store_true",
                        help="Üretim yapmaz; var olan parti dosyalarına rarity "
                             "alanını kelime listesinden yazar (tek seferlik).")
+    group.add_argument("--fill-chain-meanings", action="store_true",
+                       help="Üretim yapmaz; var olan parti dosyalarında boş "
+                            "chain[].meaning alanlarını doldurur.")
     parser.add_argument("--wordlist", metavar="DOSYA",
                         help="Kelime listesi (varsayılan: scripts/wordlist.json).")
     parser.add_argument("--size", type=int, default=DEFAULT_SIZE,
@@ -460,10 +513,12 @@ def main(argv=None):
     print("Kelime listesi: %s (%d kelime, %d parti)"
           % (show(wordlist_path), len(words), total))
 
-    if args.rarity_from_wordlist:
-        if not any(e["rarity"] for e in words):
+    if args.rarity_from_wordlist or args.fill_chain_meanings:
+        if args.rarity_from_wordlist and not any(e["rarity"] for e in words):
             raise SystemExit("Kelime listesinde rarity alanı yok.")
-        return fix_rarity(BATCHES_DIR, words)
+        return repair_batches(BATCHES_DIR, words,
+                              do_rarity=args.rarity_from_wordlist,
+                              do_meanings=args.fill_chain_meanings)
 
     if args.all:
         numbers = range(1, total + 1)

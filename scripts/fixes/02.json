@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "insan",
+    "word": "insan",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "insān",
+        "meaning": "insanlık, insan soyu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "insan",
+        "meaning": "kişi, insan türünün bireyi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsan türünün bireyi, kişi.",
+    "currentMeaning": "Düşünme, dil kullanma ve toplumsal yaşam kurma yetileri bulunan insan türünün bireyi.",
+    "story": "İnsan, Arapçada insan soyunu topluca belirten insān kelimesinden alınmıştır. Türkçede hem türün bütününü hem de tek bir kişiyi anlatır. İnsanlık ve insanca gibi kelimeler Türkçe eklerle bu gövdeden türetilmiştir.",
+    "firstAttestation": {
+      "source": "Âşık Paşa, Garib-nâme",
+      "period": "1330",
+      "form": "insān"
+    },
+    "relatives": [
+      {
+        "word": "insanlık",
+        "relation": "türev"
+      },
+      {
+        "word": "insanca",
+        "relation": "türev"
+      },
+      {
+        "word": "ünsiyet",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "İnsan kelimesinin, Arapçada yakınlık ve alışkanlık anlamı taşıyan ünsiyet ile ilişkisi dikkat çekicidir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "insan maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/insan"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "insan maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "aile",
+    "word": "aile",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ˁāˀila(t)",
+        "meaning": "ev halkı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "aile",
+        "meaning": "akrabalık veya evlilik bağlarıyla oluşan topluluk",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Akrabalık veya evlilik bağlarıyla birbirine bağlı kişiler topluluğu.",
+    "currentMeaning": "Evlilik, soy veya evlat edinme gibi bağlarla birbirine bağlı kişilerin oluşturduğu topluluk.",
+    "story": "Aile, Arapçada ev halkını anlatan ˁāˀila kelimesinden gelir. Kaynak dilde bu kelime, geçimini sağlamak ve bakmakla yükümlü olmak anlamındaki bir fiile bağlanır. Türkçede aynı kavram için uzun süre iyal kullanılmış, aile ancak 19. yüzyılda yaygınlaşmıştır.",
+    "firstAttestation": {
+      "source": "Kitâb Fi'l-Fıkh Bi'l-Lisâni't-Türkî",
+      "period": "1421'den önce",
+      "form": "ˁāyilet"
+    },
+    "relatives": [
+      {
+        "word": "ailece",
+        "relation": "türev"
+      },
+      {
+        "word": "ayal",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Aile kelimesi eski sözlüklerde görülmez, Türkçede onun yerine iyal kullanılırdı.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "aile maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/aile"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "aile maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "akraba",
+    "word": "akraba",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "aḳribāˀ",
+        "meaning": "yakınlar, hısımlar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "akraba",
+        "meaning": "soy veya evlilik bağı bulunan kişi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir kimseyle soy veya evlilik bağı bulunan kişi.",
+    "currentMeaning": "Başka bir kişiyle soy, evlilik veya benzeri aile bağları üzerinden ilişkisi bulunan kimse.",
+    "story": "Akraba, Arapçada yakınlar anlamındaki aḳribāˀ kelimesinden alınmıştır. Bu biçim, yakın anlamına gelen ḳarīb kelimesinin çoğuludur. Türkçede tek kişi için de kullanılabildiğinden akrabalar biçiminde yeniden çoğullaştırılır.",
+    "firstAttestation": {
+      "source": "Ahmed bin Kadı-i Manyas, Gülistan tercümesi",
+      "period": "1429",
+      "form": "aḳrıbā"
+    },
+    "relatives": [
+      {
+        "word": "akrabalık",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Akraba, Arapçada çoğul olmasına rağmen Türkçede tek bir kişiyi belirtebilir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "akraba maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/akraba"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "akraba maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ahbap",
+    "word": "ahbap",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "aḥbāb",
+        "meaning": "dostlar, sevilen kimseler",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ahbap",
+        "meaning": "dost, yakın arkadaş",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yakınlık duyulan, görüşülüp konuşulan dost.",
+    "currentMeaning": "Kendisiyle tanışıklık ve dostluk ilişkisi bulunan, samimi biçimde görüşülen kimse.",
+    "story": "Ahbap, Arapçada dostları ve sevilen kişileri belirten aḥbāb biçiminden gelir. Kelime, sevgili veya dost anlamındaki ḥabīb kelimesinin çoğuludur. Türkçede çoğulluk özelliğini yitirerek tek bir arkadaşın adı da olmuştur.",
+    "firstAttestation": {
+      "source": "Âşık Paşa, Garib-nâme",
+      "period": "1330",
+      "form": "aḥbāb"
+    },
+    "relatives": [
+      {
+        "word": "habip",
+        "relation": "akraba"
+      },
+      {
+        "word": "muhabbet",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Ahbap ile muhabbet, Arapçada sevme anlamıyla bağlantılı aynı köke dayanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ahbap maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ahbap"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ahbap maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "misafir",
+    "word": "misafir",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "musāfir",
+        "meaning": "yolcu, yolculuk eden",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "misafir",
+        "meaning": "konuk",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir yerde geçici olarak ağırlanan kimse, konuk.",
+    "currentMeaning": "Görüşmek veya geçici olarak kalmak amacıyla bir yere gelen ve orada ağırlanan kişi.",
+    "story": "Misafir, Arapçada yolculuk eden kişiyi anlatan musāfir kelimesinden alınmıştır. Sefer kelimesiyle aynı köke bağlıdır. Türkçedeki eski örneklerinde yolcu anlamı görülürken zamanla konuk anlamı yerleşmiştir.",
+    "firstAttestation": {
+      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "musāfir"
+    },
+    "relatives": [
+      {
+        "word": "sefer",
+        "relation": "akraba"
+      },
+      {
+        "word": "misafirlik",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Misafir, Türkçede 19. yüzyılın başlarına kadar müsafir biçiminde yazılır ve söylenirdi.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "misafir maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/misafir"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "misafir maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "davet",
+    "word": "davet",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "daˁwa(t)",
+        "meaning": "çağırma, çağrı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "davet",
+        "meaning": "çağrı, çağırma",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Birini bir yere veya bir etkinliğe çağırma.",
+    "currentMeaning": "Bir kimsenin gelmesini veya bir işe katılmasını isteme; bu amaçla yapılan çağrı ya da düzenlenen toplantı.",
+    "story": "Davet, Arapçada çağırmayı anlatan daˁwa kelimesinden gelir. Türkçede hem çağırma eylemini hem de insanların çağrıldığı toplantıyı belirtir. Davetli ve davetsiz kelimeleri bu gövdeye Türkçe eklerin getirilmesiyle oluşmuştur.",
+    "firstAttestation": {
+      "source": "Mukaddimetü'l-Edeb tercümesi",
+      "period": "1300",
+      "form": "daˁvat"
+    },
+    "relatives": [
+      {
+        "word": "davetli",
+        "relation": "türev"
+      },
+      {
+        "word": "dua",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Davet ile dua, Arapçada çağırma anlamını taşıyan aynı kökle bağlantılıdır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "davet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/davet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "davet maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ziyaret",
+    "word": "ziyaret",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ziyāra(t)",
+        "meaning": "birinin yanına gitme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ziyaret",
+        "meaning": "birini veya bir yeri görmeye gitme",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir kimseyi veya bir yeri görmeye gitme.",
+    "currentMeaning": "Görüşmek, görmek, saygı göstermek veya incelemek amacıyla bir kişinin yanına ya da bir yere gitme.",
+    "story": "Ziyaret, Arapçada birinin yanına gitmeyi anlatan ziyāra kelimesinden alınmıştır. Türkçede kişiler kadar çeşitli yerler için de kullanılır. Ziyaretçi kelimesi, bu eylemi yapan kişiyi Türkçe bir ekle adlandırır.",
+    "firstAttestation": {
+      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "ziyārat"
+    },
+    "relatives": [
+      {
+        "word": "ziyaretçi",
+        "relation": "türev"
+      },
+      {
+        "word": "mezar",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Mezar kelimesi de aynı kökten gelir ve Arapçada ziyaret edilen yer anlamındadır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ziyaret maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ziyaret"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ziyaret maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sohbet",
+    "word": "sohbet",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ṣuḥba(t)",
+        "meaning": "arkadaşlık, dostluk etme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sohbet",
+        "meaning": "samimi karşılıklı konuşma",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Samimi bir ortamda yapılan karşılıklı konuşma.",
+    "currentMeaning": "İnsanların yakınlık içinde, genellikle gündelik konular üzerine karşılıklı konuşması.",
+    "story": "Sohbet, Arapçada arkadaşlığı ve dostça birlikteliği anlatan ṣuḥba kelimesinden gelir. Türkçede bu birlikteliğin konuşma yönü öne çıkmıştır. Kelimenin eski kullanımları, bugünkü konuşma anlamından daha geniş bir yakınlığı ifade edebilir.",
+    "firstAttestation": {
+      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "ṣoḥbat"
+    },
+    "relatives": [
+      {
+        "word": "hoşsohbet",
+        "relation": "birleşik"
+      },
+      {
+        "word": "musahip",
+        "relation": "akraba"
+      },
+      {
+        "word": "sahabe",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Peygamberin arkadaşlarına verilen sahabe adı da aynı Arapça kökten gelir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sohbet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sohbet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sohbet maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muhabbet",
+    "word": "muhabbet",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "maḥabba(t)",
+        "meaning": "sevgi, dostluk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muhabbet",
+        "meaning": "sevgi, dostça konuşma",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sevgi, yakınlık veya dostça konuşma.",
+    "currentMeaning": "Birine karşı duyulan sevgi ve bağlılık; samimi biçimde yapılan karşılıklı konuşma.",
+    "story": "Muhabbet, Arapçada sevgi ve dostluğu anlatan maḥabba kelimesinden alınmıştır. Türkçede sevgi anlamını korurken samimi konuşmayı da adlandırır. Ahbap ve habip kelimeleriyle aynı Arapça köke bağlıdır.",
+    "firstAttestation": {
+      "source": "Âşık Paşa, Garib-nâme",
+      "period": "1330",
+      "form": "maḥabbet"
+    },
+    "relatives": [
+      {
+        "word": "ahbap",
+        "relation": "akraba"
+      },
+      {
+        "word": "habip",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muhabbet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muhabbet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muhabbet maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "selam",
+    "word": "selam",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "sux",
+    "chain": [
+      {
+        "language": "sux",
+        "form": "silim",
+        "meaning": "sağlık, esenlik, barış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "akk",
+        "form": "şalāmu",
+        "meaning": "sağlık, esenlik, barış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "salām",
+        "meaning": "esenlik, barış, selamlama sözü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "selam",
+        "meaning": "esenlik ve iyi dilek bildiren söz veya hareket",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Karşılaşırken veya haber gönderirken bildirilen iyi dilek.",
+    "currentMeaning": "Birine esenlik, yakınlık ve saygı bildirmek için söylenen söz veya yapılan hareket.",
+    "story": "Selam, Arapçada esenlik ve barış anlamlarını taşıyan salām kelimesinden alınmıştır. Kelimenin geçmişi Akkadca şalāmu üzerinden Sümerce silim biçimine kadar götürülür. Türkçede hem selamlama sözünü hem de bu amaçla yapılan hareketi karşılar.",
+    "firstAttestation": {
+      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "salām"
+    },
+    "relatives": [
+      {
+        "word": "selamlaşmak",
+        "relation": "türev"
+      },
+      {
+        "word": "selamet",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Sümerce silim, milattan önce 3000'den başlayarak iki yüzü aşkın metinde geçer.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "selam maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/selam"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "merhaba",
+    "word": "merhaba",
+    "partOfSpeech": "ünlem",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "marḥaban",
+        "meaning": "ferahlıkla; karşılama sözü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "merhaba",
+        "meaning": "selamlama sözü",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Karşılaşma sırasında kullanılan selamlama sözü.",
+    "currentMeaning": "Birini karşılarken, onunla karşılaşırken veya konuşmaya başlarken kullanılan selamlama sözü.",
+    "story": "Merhaba, Arapça marḥaban karşılama sözünden gelir. Bu söz, ferahlık ve genişlik anlamlarıyla bağlantılı marḥab kelimesinin zarf biçimidir. Türkçede belirli bir zamanla sınırlı olmayan bir selamlama olarak kullanılır.",
+    "firstAttestation": {
+      "source": "Mukaddimetü'l-Edeb tercümesi",
+      "period": "1300",
+      "form": "marhabā"
+    },
+    "relatives": [
+      {
+        "word": "merhabalaşmak",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "En eski Türkçe tanıklıkta merhaba, sana genişlik olsun sözüyle açıklanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "merhaba maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/merhaba"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "merhaba maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "teşekkür",
+    "word": "teşekkür",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "taşakkur",
+        "meaning": "şükretme, minnet bildirme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "teşekkür",
+        "meaning": "iyilik karşısında duyulan minneti bildirme",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir iyilik veya yardım karşısında minnetini bildirme.",
+    "currentMeaning": "Birinin yaptığı iyilik, yardım veya gösterdiği ilgi karşısında duyulan memnuniyet ve minnetin dile getirilmesi.",
+    "story": "Teşekkür, Arapçada şükretmeyi anlatan taşakkur kelimesinden alınmıştır. Şükür ve müteşekkir kelimeleriyle aynı kökü paylaşır. Türkçede etmek yardımcı fiiliyle kullanılarak minnet bildiren bir eylem kurar.",
+    "firstAttestation": {
+      "source": "Meninski, Thesaurus",
+      "period": "1680",
+      "form": "teşekkür"
+    },
+    "relatives": [
+      {
+        "word": "şükür",
+        "relation": "akraba"
+      },
+      {
+        "word": "müteşekkir",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "teşekkür maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/te%C5%9Fekk%C3%BCr"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "teşekkür maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "cevap",
+    "word": "cevap",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "cawāb",
+        "meaning": "yanıt",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "cevap",
+        "meaning": "soruya veya söze verilen karşılık",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir soruya, söze veya isteğe verilen karşılık.",
+    "currentMeaning": "Bir soruya, söze, yazıya veya isteğe karşılık olarak bildirilen söz, yazı ya da tepki.",
+    "story": "Cevap, Arapçada yanıt anlamına gelen cawāb kelimesinden alınmıştır. Kutadgu Bilig'de de bir söze karşılık verme bağlamında görülür. Türkçede cevaplamak ve cevaplandırmak gibi fiillerin gövdesini oluşturur.",
+    "firstAttestation": {
+      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "cawāb"
+    },
+    "relatives": [
+      {
+        "word": "cevaplamak",
+        "relation": "türev"
+      },
+      {
+        "word": "hazırcevap",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Cevabın Arapça kökünde öteye geçme ve aşma anlamları bulunur.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "cevap maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/cevap"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "cevap maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sual",
+    "word": "sual",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "suˀāl",
+        "meaning": "soru, sorma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sual",
+        "meaning": "soru",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir konuda bilgi almak için yöneltilen soru.",
+    "currentMeaning": "Bir şey öğrenmek veya bir açıklama istemek amacıyla yöneltilen söz, soru.",
+    "story": "Sual, Arapçada sormayı ve soruyu anlatan suˀāl kelimesinden gelir. Aynı kök, mesele ve mesul kelimelerinde de bulunur. Türkçede sual sormak ve sual etmek gibi ifadeler içinde kullanılır.",
+    "firstAttestation": {
+      "source": "Âşık Paşa, Garib-nâme",
+      "period": "1330",
+      "form": "suwāl"
+    },
+    "relatives": [
+      {
+        "word": "mesele",
+        "relation": "akraba"
+      },
+      {
+        "word": "mesul",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Sual ile mesul, Arapçada sorma anlamıyla bağlantılı aynı köke dayanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sual maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sual"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sual maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "haber",
+    "word": "haber",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḫabar",
+        "meaning": "bilgi, bilinen şey",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "haber",
+        "meaning": "bir olay veya durum hakkında iletilen bilgi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir olay veya durum hakkında iletilen bilgi.",
+    "currentMeaning": "Bir olay, kişi veya durum hakkında edinilen ya da başkasına aktarılan bilgi; basın ve yayın yoluyla duyurulan olay anlatımı.",
+    "story": "Haber, Arapçada bilgi ve bilinen şey anlamları taşıyan ḫabar kelimesinden alınmıştır. Kaynak dilde deneme ve deneyerek öğrenmeyle bağlantılı bir köke dayanır. Türkçede gündelik bilgi aktarımını da gazetecilik ürününü de adlandırır.",
+    "firstAttestation": {
+      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "ḫabar"
+    },
+    "relatives": [
+      {
+        "word": "haberci",
+        "relation": "türev"
+      },
+      {
+        "word": "ihbar",
+        "relation": "akraba"
+      },
+      {
+        "word": "muhabir",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "haber maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/haber"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "haber maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hikâye",
+    "word": "hikâye",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥikāya(t)",
+        "meaning": "anlatma, anlatı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hikâye",
+        "meaning": "olay anlatısı, öykü",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gerçek veya tasarlanmış olayları aktaran anlatı, öykü.",
+    "currentMeaning": "Gerçek ya da kurmaca olayları anlatan sözlü veya yazılı metin; olayları sınırlı bir kapsamda işleyen edebî tür.",
+    "story": "Hikâye, Arapçada anlatmayı ve anlatıyı belirten ḥikāya kelimesinden gelir. Kaynak dilde anlatma ile taklit etme anlamlarını taşıyan bir fiille bağlantılıdır. Türkçenin eski metinlerinde hikâyet biçimi de görülür.",
+    "firstAttestation": {
+      "source": "Âşık Paşa, Garib-nâme",
+      "period": "1330",
+      "form": "hıkāyet"
+    },
+    "relatives": [
+      {
+        "word": "hikâyeci",
+        "relation": "türev"
+      },
+      {
+        "word": "tahkiye",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hikâye maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/hik%C3%A2ye"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hikâye maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "masal",
+    "word": "masal",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "mas̱al",
+        "meaning": "mesel, öğretici hikâye",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mesel",
+        "meaning": "öğretici hikâye, ibretli anlatı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "masal",
+        "meaning": "olağanüstü olaylar içerebilen geleneksel anlatı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Olağanüstü olaylar içerebilen, gelenek yoluyla aktarılan kurmaca anlatı.",
+    "currentMeaning": "Genellikle belirsiz bir zaman ve yerde geçen, olağanüstü kişi ve olaylara yer verebilen geleneksel anlatı; mecazen inandırıcı bulunmayan söz.",
+    "story": "Masal, Arapça mas̱al kelimesinden gelen meselin Türkçede ayrışmış biçimidir. Mesel öğüt veren kısa anlatıyı karşılarken masal, olağanüstü olayların geçtiği geleneksel anlatının adı olmuştur. İki biçimin söyleyişçe ne zaman ayrıldığı eski yazılı metinlerden anlaşılamamaktadır.",
+    "firstAttestation": {
+      "source": "Meninski, Thesaurus",
+      "period": "1680",
+      "form": "masal"
+    },
+    "relatives": [
+      {
+        "word": "mesel",
+        "relation": "akraba"
+      },
+      {
+        "word": "masalcı",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Masal ile mesel aynı Arapça kelimeye dayanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "masal maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/masal"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "masal maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şaka",
+    "word": "şaka",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "şaḳāˀ",
+        "meaning": "mutsuz olma, bedbahtlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "şaka",
+        "meaning": "güldürme veya eğlendirme amacı taşıyan söz ve davranış",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Güldürmek veya eğlendirmek amacıyla söylenen söz ya da yapılan davranış.",
+    "currentMeaning": "Ciddi bir amaç taşımadan, güldürmek veya eğlendirmek için söylenen söz ya da yapılan hareket.",
+    "story": "Şakanın kökeni kesin değildir. Arapçada bedbahtlık anlamına gelen şaḳāˀ biçiminden alınmış olabilir, fakat oradan güldürmeye uzanan anlam yolu açıklanabilmiş değildir. Türkçedeki en eski tanıklıkta kelime hâlâ mutsuzluk anlamını taşır. Eğlence anlamı ancak bir yüzyıl sonra görülür.",
+    "firstAttestation": {
+      "source": "Hoca Sadeddin Efendi, Tacü't-Tevârih",
+      "period": "1574",
+      "form": "şaḳā"
+    },
+    "relatives": [
+      {
+        "word": "şakacı",
+        "relation": "türev"
+      },
+      {
+        "word": "şakalaşmak",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Arapçada bedbahtlık anlamına gelen şaḳāˀ biçiminden alınmış olabilir, ancak anlam değişimi açıklanmış değildir.",
+      "Farsçada şaka anlamına gelen şūḫī kelimesiyle anlam birleşmesi yaşanmış olabilir."
+    ],
+    "funFact": "Şakanın Türkçedeki en eski tanıklığında kelime, eğlence değil bedbahtlık anlamındadır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "şaka maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C5%9Faka"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "zevk",
+    "word": "zevk",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ẕawḳ",
+        "meaning": "tatma, tat",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "zevk",
+        "meaning": "haz, hoşlanma, beğeni",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyden duyulan haz veya kişisel beğeni.",
+    "currentMeaning": "Bir şeyin verdiği hoş duygu ve haz; kişinin güzellik, uygunluk veya hoşluk bakımından yaptığı seçimleri belirleyen beğeni.",
+    "story": "Zevk, Arapçada tatmayı ve tadı anlatan ẕawḳ kelimesinden alınmıştır. Türkçede bedensel tat almanın ötesinde hoşlanmayı ve beğeniyi ifade eder. Sanat zevki gibi kullanımlarda kelimenin değerlendirme ve seçme yönü öne çıkar.",
+    "firstAttestation": {
+      "source": "Âşık Paşa, Garib-nâme",
+      "period": "1330",
+      "form": "ẕevḳ"
+    },
+    "relatives": [
+      {
+        "word": "zevkli",
+        "relation": "türev"
+      },
+      {
+        "word": "zevksiz",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Zevk, Türkçedeki en eski tanıklığında bile tatma değil, doğrudan keyif anlamındadır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "zevk maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/zevk"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "zevk maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "keyif",
+    "word": "keyif",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "kayf",
+        "meaning": "hâl, ruh hâli",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "keyif",
+        "meaning": "hoşnutluk, ruh hâli, istek",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hoşnutluk, neşe veya kişinin içinde bulunduğu ruh hâli.",
+    "currentMeaning": "Kişinin bedensel ve ruhsal durumu; hoşnutluk ve neşe; bir şeyi yapma isteği veya kişisel tercih.",
+    "story": "Keyif, Arapçada hâl ve ruh hâli anlamlarını taşıyan kayf kelimesinden gelir. Kaynak dilde bu kelime, nasıl sorusunu karşılayan kayfa sözünden türetilmiştir. Türkçede hem iyi hissetmeyi hem de kişinin canının istediği gibi davranmasını anlatan kullanımlar kazanmıştır.",
+    "firstAttestation": {
+      "source": "Kâtip Çelebi, Fezleke",
+      "period": "1653",
+      "form": "keyf"
+    },
+    "relatives": [
+      {
+        "word": "keyifli",
+        "relation": "türev"
+      },
+      {
+        "word": "keyifsiz",
+        "relation": "türev"
+      },
+      {
+        "word": "keyfiyet",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Keyif kelimesinin kökeninde Arapçanın nasıl anlamındaki soru sözü bulunur.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "keyif maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/keyif"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "keyif maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

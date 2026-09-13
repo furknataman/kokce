@@ -1,0 +1,112 @@
+[
+  {
+    "id": "rahat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "huzur",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sabır",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "merak",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "heves",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "heyecan",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "şefkat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "vicdan",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "gurur",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "cesaret",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kaide",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kanun",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: arc",
+      "Maddede olup kaynak zincirinde olmayan halka: syc"
+    ]
+  },
+  {
+    "id": "hak",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: arc",
+      "Maddede olup kaynak zincirinde olmayan halka: he"
+    ]
+  },
+  {
+    "id": "hukuk",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: he"
+    ]
+  },
+  {
+    "id": "adalet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "devlet",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: akk"
+    ]
+  },
+  {
+    "id": "millet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "vatan",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "memleket",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "dünya",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "rahat",
+    "word": "rahat",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "rūḥ",
+        "meaning": "nefes",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "arāḥa",
+        "meaning": "nefes aldı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "rāḥa(t)",
+        "meaning": "nefes alıp ferahlama, dinlenme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "rahat",
+        "meaning": "sıkıntıdan uzak olma durumu",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sıkıntı ve tedirginlikten uzak olma durumu.",
+    "currentMeaning": "İnsanın kendisini sıkıntıdan uzak, huzurlu ve ferah hissetmesi.",
+    "story": "Rahatın geçmişinde nefes alıp ferahlayan bir beden vardır. Arapçada nefesle bağlantılı rūḥ ve arāḥa biçimlerinden gelişen rāḥa(t), dinlenmeyi de kapsıyordu. Türkçede bu bedensel ferahlık, insanın içini sıkan şeylerden uzak oluşunu da anlatan bir ada dönüştü.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "rāḥat"
+    },
+    "relatives": [
+      {
+        "word": "rahatlık",
+        "relation": "türev"
+      },
+      {
+        "word": "rahatsız",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "rahat maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/rahat"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "rahat maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "huzur",
+    "word": "huzur",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥaḍara",
+        "meaning": "orada bulundu, yerinde durdu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḥuḍūr",
+        "meaning": "hazır bulunma, yerleşiklik, dinginlik",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "huzur",
+        "meaning": "gönül dinginliği",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gönlün dingin ve kaygıdan uzak olması.",
+    "currentMeaning": "İnsanın iç dünyasında duyduğu sakinlik, güven ve rahatlık.",
+    "story": "Huzurun Arapçadaki geçmişi, bir yerde hazır bulunmaya ve orada durmaya uzanır. Ḥuḍūr, yolculukta veya göç hâlinde olmanın karşısına yerleşik oluşu koyarken dinginliği de anlatıyordu. Türkçedeki gönül rahatlığı anlamı, bu durulma ve sakinlik yönünü sürdürür.",
+    "firstAttestation": {
+      "source": "Erzurumlu Darir — Kıssa-i Yusuf tercümesi",
+      "period": "<1377",
+      "form": "ḥuẓūr"
+    },
+    "relatives": [
+      {
+        "word": "huzurevi",
+        "relation": "birleşik"
+      },
+      {
+        "word": "huzurlu",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "huzur maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/huzur"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "huzur maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sabır",
+    "word": "sabır",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ṣabara",
+        "meaning": "sabır gösterdi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ṣabr",
+        "meaning": "güçlüğe dayanma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sabır",
+        "meaning": "sıkıntıya dayanıp bekleyebilme",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sıkıntıya dayanıp acele etmeden bekleyebilme gücü.",
+    "currentMeaning": "Acı veya güçlük karşısında dayanıklılığını koruyarak durumun değişmesini bekleyebilme.",
+    "story": "Arapça ṣabara fiilinde, bir güçlüğün karşısında dayanmayı sürdürme eylemi vardır. Bu eylemi adlandıran ṣabr, Türkçeye geçerken aynı dayanma düşüncesini taşıdı. Türkçenin erken kullanımlarında acele etmeden davranmayla da birleşen sabır, bugün hem sıkıntıya katlanmayı hem bekleyebilmeyi anlatır.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "ṣabr"
+    },
+    "relatives": [
+      {
+        "word": "sabırlı",
+        "relation": "türev"
+      },
+      {
+        "word": "sabırsız",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sabır maddesi; dayanma anlamı",
+        "url": "https://www.nisanyansozluk.com/kelime/sab%C4%B1r"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sabır maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "merak",
+    "word": "merak",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "raḳḳa",
+        "meaning": "inceldi, acı duydu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "maraḳḳ/marāḳḳ",
+        "meaning": "karın veya kulağın hassas bölümü, dalak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "merak",
+        "meaning": "öğrenmeye yönelik ilgi ve istek",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyi öğrenmeye veya anlamaya duyulan istek.",
+    "currentMeaning": "Bir konu hakkında bilgi edinmek ve bilinmeyen yönlerini anlamak için duyulan ilgi.",
+    "story": "Merakın geçmişinde bedenin hassas bölgelerini adlandıran Arapça maraḳḳ ve marāḳḳ biçimleri bulunur, ancak bugünkü kelimeyle bağları kesin değildir. Eski kullanımlarda karın ve kulakla ilgili bir ad olan kelime, daha sonra dalak, ruhsal sıkıntı ve bir şeye düşkünlük çevresinde dolaşır. Yirminci yüzyılın başına gelindiğinde öğrenme isteği anlamı da belirgindir. Bu yolculuğun büyük bir anlam değişmesiyle mi, yoksa aynı kökten yeniden türetmeyle mi gerçekleştiği tartışmalıdır.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "meraḳḳ"
+    },
+    "relatives": [
+      {
+        "word": "meraklı",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, bedenin hassas bölgelerini adlandıran maraḳḳ/marāḳḳ ile bağlantıyı tartışmalı gösterir ve Türkçede kapsamlı bir anlam değişmesi yaşanmış olabileceğini belirtir.",
+      "Nişanyan Sözlük, kelimenin Arapça riḳḳat veya raḳīḳ üzerinden yeniden türetilmiş olmasını da olası bir açıklama olarak sunar."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "merak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/merak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "merak maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "heves",
+    "word": "heves",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "hawisa",
+        "meaning": "şaşkınlığa veya deliliğe kapıldı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "hawas",
+        "meaning": "geçici ruhsal taşkınlık, hayale veya boş uğraşa kapılma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "heves",
+        "meaning": "bir şeye yönelik istek",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyi yapmaya veya edinmeye duyulan istek.",
+    "currentMeaning": "Bir uğraşa, nesneye veya deneyime yönelten istek ve ilgi.",
+    "story": "Hevesin Arapçadaki başlangıcında sakin bir istekten çok, şaşırma ve ruhsal taşkınlık vardır. Hawas, gelip geçen ruh hâllerini ve insanı oyalayan boş uğraşları da kapsıyordu. Türkçede bu sert çağrışımlar hafifledi; kelime, insanı bir işe yönelten gündelik isteği anlatacak kadar genişledi.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "hevesdür"
+    },
+    "relatives": [
+      {
+        "word": "hevesli",
+        "relation": "türev"
+      },
+      {
+        "word": "heveskâr",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "heves maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/heves"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "heves maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "heyecan",
+    "word": "heyecan",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "hāca",
+        "meaning": "tozu havalandırdı, öfkesi veya telaşı arttı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "hayacān",
+        "meaning": "tozun kalkması, coşup hareketlenme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "heyecan",
+        "meaning": "güçlü ve geçici duygusal hareketlenme",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Güçlü bir duygunun yarattığı geçici iç hareketlilik.",
+    "currentMeaning": "Sevinç, korku veya öfke gibi duygularla ortaya çıkan yoğun ve geçici duygusal durum.",
+    "story": "Heyecanın geçmişindeki Arapça hāca, hem tozun havalanmasını hem öfke ve telaşın kızışmasını anlatıyordu. Hayacān biçiminde dışarıdaki hareket ile insanın içindeki coşma aynı kelimede buluştu. Türkçede bedenden çok duygu dünyasına yerleşen heyecan, korkudan sevince kadar farklı duyguların yarattığı hareketliliği kapsadı.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "heyecān"
+    },
+    "relatives": [
+      {
+        "word": "heyecanlı",
+        "relation": "türev"
+      },
+      {
+        "word": "heyecanlanmak",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "heyecan maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/heyecan"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "heyecan maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şefkat",
+    "word": "şefkat",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "şafaḳa",
+        "meaning": "kıstı, kıskançlık veya kaygı duydu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "şafaḳa(t)",
+        "meaning": "acıyarak koruma ve gözetme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "şefkat",
+        "meaning": "koruyucu ve esirgeyici sevgi",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Birini sevgiyle korumaya ve esirgemeye yönelten duygu.",
+    "currentMeaning": "Başkasına karşı duyulan, onu koruma ve incitmekten sakınma isteği taşıyan sevgi.",
+    "story": "Şefkatin Arapçadaki fiil kökü, kaygılanmayı da içeren bir anlam alanına sahipti. Şafaḳa(t) adıyla bu alanın merhamet etme ve birini esirgeme yönü öne çıktı. Türkçeye taşınan kelimede de sevgi, karşıdakinin başına bir şey gelmesin diye onu gözetme duygusuyla birleşir.",
+    "firstAttestation": {
+      "source": "Anonim — Mukaddimetü'l-Edeb tercümesi",
+      "period": "1300",
+      "form": "şafaḳat"
+    },
+    "relatives": [
+      {
+        "word": "şefkatli",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "şefkat maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fefkat"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şefkat maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "vicdan",
+    "word": "vicdan",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "wacada",
+        "meaning": "buldu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "wicdān",
+        "meaning": "bulma, zihinde canlandırma, öfke veya vecd",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "vicdan",
+        "meaning": "kişinin davranışlarını ahlaken değerlendiren iç duygu",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsanın kendi davranışlarını ahlaken tartmasını sağlayan duygu.",
+    "currentMeaning": "Kişinin yaptıklarını kendi ahlak değerleri açısından değerlendirerek doğru veya yanlış bulmasını sağlayan iç duygu.",
+    "story": "Vicdanın çıkış noktasındaki Arapça wacada, bir şeyi bulma eylemini anlatır. Wicdān ise bulmanın yanında zihinde canlandırmayı, yoğun öfkeyi ve tasavvuftaki kendinden geçişi de kapsıyordu. Türkçedeki eski kullanımlar bu bulma ve iç yaşantı alanını korurken, on dokuzuncu yüzyılda kişinin içinde taşıdığı ahlaki ölçü belirginleşti. Bugünkü vicdanda bulunan şey bir eşya değil, insanın kendi davranışı hakkındaki yargısıdır.",
+    "firstAttestation": {
+      "source": "Sinan Paşa — Tazarru'nâme",
+      "period": "1482",
+      "form": "vicdān"
+    },
+    "relatives": [
+      {
+        "word": "vicdanlı",
+        "relation": "türev"
+      },
+      {
+        "word": "vicdansız",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "vicdan maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/vicdan"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "vicdan maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gurur",
+    "word": "gurur",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ġarra",
+        "meaning": "görünüşle yanılttı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ġurūr",
+        "meaning": "yanıltma veya yanılgıya kapılma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "gurur",
+        "meaning": "kendini üstün görme",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kendini üstün ve beğenilmeye değer görme duygusu.",
+    "currentMeaning": "İnsanın kendisini aşırı ölçüde beğenmesi ve başkalarından üstün sayması.",
+    "story": "Gururun Arapçadaki geçmişinde, görünüşe kanarak yanılmak vardır. Ġarra fiilinden gelişen ġurūr, hem kandırmayı hem aldanmayı adlandırıyordu. Türkçedeki kendini beğenme anlamında bu yanılgının odağı insanın kendisine çevrilir; kişi kendi değerini olduğundan büyük görür.",
+    "firstAttestation": {
+      "source": "Anonim — Tezkiretü'l-Evliya tercümesi",
+      "period": "1341",
+      "form": "ġurūrdan"
+    },
+    "relatives": [
+      {
+        "word": "gururlu",
+        "relation": "türev"
+      },
+      {
+        "word": "gururlanmak",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "gurur maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/gurur"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "gurur maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "cesaret",
+    "word": "cesaret",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "casara",
+        "meaning": "dereyi veya vadiyi aştı, tehlikeye girişti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "casāra(t)",
+        "meaning": "gözü pek davranma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "cesaret",
+        "meaning": "tehlikeye veya güçlüğe karşı girişme güveni",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Güç veya tehlikeli bir işe girişebilme güveni.",
+    "currentMeaning": "Kişinin tehlike ya da güçlük karşısında harekete geçmesini sağlayan kendine güven ve atılganlık.",
+    "story": "Cesaretin geçmişinde bir dereyi veya vadiyi aşma eylemi vardır. Arapça casara, bu somut geçişin yanında tehlikeli bir işe atılmayı da anlatıyordu. Casāra(t) ile adlandırılan gözü peklik Türkçeye cesaret olarak taşındı; aşılacak engel artık bir vadi kadar zor bir karar da olabilir.",
+    "firstAttestation": {
+      "source": "Kâtip Çelebi — Fezleke",
+      "period": "1653",
+      "form": "cesāret"
+    },
+    "relatives": [
+      {
+        "word": "cesaretli",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Arapçada köprüyü adlandıran cisr de cesaretle aynı kökü paylaşır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "cesaret maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/cesaret"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "cesaret maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kaide",
+    "word": "kaide",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḳaˁada",
+        "meaning": "oturdu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḳāˁida(t)",
+        "meaning": "üzerine oturulan temel, dayanak, kural",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kaide",
+        "meaning": "uyulacak kural",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir işte veya davranışta uyulan kural.",
+    "currentMeaning": "Davranışları veya bir işin yürütülüşünü düzenleyen, uyulması beklenen ilke.",
+    "story": "Kaidenin Arapçadaki başlangıcı, oturma eylemini anlatan ḳaˁada fiilidir. Buradan gelişen ḳāˁida(t), bir şeyin oturduğu tabanı ve temeli adlandırırken soyut bir dayanak olan kuralı da kapsadı. Türkçedeki kural anlamı böylece bir düzenin üzerine oturduğu temel düşüncesini taşır.",
+    "firstAttestation": {
+      "source": "Şeyyad Hamza — Dastan-ı Yusuf tercümesi",
+      "period": "<1348",
+      "form": "ḳāˁide"
+    },
+    "relatives": [
+      {
+        "word": "kaideli",
+        "relation": "türev"
+      },
+      {
+        "word": "kaidesiz",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kaide maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kaide"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kaide maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kanun",
+    "word": "kanun",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "kanōn",
+        "meaning": "kural, düzen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "syc",
+        "form": "ḳānōnā",
+        "meaning": "kural, düzen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḳānūn",
+        "meaning": "yasa, düzen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kanun",
+        "meaning": "yasa",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yetkili organın koyduğu bağlayıcı hukuk kuralı.",
+    "currentMeaning": "Yasama yetkisine sahip organın kabul ettiği, uyulması zorunlu hukuk düzenlemesi.",
+    "story": "Kanunun yolculuğu, kural ve düzeni adlandıran Eski Yunanca kanōn ile başlar. Kelime Süryanicede ḳānōnā biçimini aldıktan sonra Arapçaya ḳānūn olarak geçti. Türkçeye ulaşırken de insan davranışlarını ortak bir düzene bağlama düşüncesini korudu; bugünkü kullanımında bu düzenin bağlayıcı yasalarını adlandırır.",
+    "firstAttestation": {
+      "source": "Sinan Paşa — Tazarru'nâme",
+      "period": "1482",
+      "form": "ḳānūn"
+    },
+    "relatives": [
+      {
+        "word": "kanunsuz",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kanun maddesi; yasa anlamı",
+        "url": "https://www.nisanyansozluk.com/kelime/kanun"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kanun maddesi; yasa anlamı",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hak",
+    "word": "hak",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "he",
+    "chain": [
+      {
+        "language": "he",
+        "form": "ḥaḳaḳ",
+        "meaning": "taşa veya metale yazı kazımak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "he",
+        "form": "ḥuḳḳā",
+        "meaning": "kazınmış yazı, yasa, buyruğun kaydı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḥaḳḳ",
+        "meaning": "gerçeğe, yasaya ve erdeme uygunluk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hak",
+        "meaning": "doğruluk, gerçeklik ve hak edilmiş pay",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Doğru ve gerçek olan; kişiye ait olması gereken pay.",
+    "currentMeaning": "Doğruluk ve gerçeklik; ayrıca adalet gereği bir kişiye tanınması veya verilmesi gereken şey.",
+    "story": "Hakkın eski kök bağlantısında taşa veya metale kazınan bir yazı vardır. İbranice ḥuḳḳā, bu kalıcı kaydı yasa ve buyrukla birleştirir; Arapça ḥaḳḳ ile ilişkisi eş kökenliliktir. Arapçadaki kelime, yasaya uygun oluşun yanında doğruluğu ve gerçekliği de kapsar. Türkçede hem doğru olanı hem kişinin emeği veya konumu gereği kendisine düşeni anlatır.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "ḥaḳ"
+    },
+    "relatives": [
+      {
+        "word": "hukuk",
+        "relation": "akraba"
+      },
+      {
+        "word": "haklı",
+        "relation": "türev"
+      },
+      {
+        "word": "haksız",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hak maddesi; doğruluk ve hak edilmiş pay anlamı",
+        "url": "https://www.nisanyansozluk.com/kelime/hak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hak maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hukuk",
+    "word": "hukuk",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "he",
+    "chain": [
+      {
+        "language": "he",
+        "form": "ḥaḳaḳ",
+        "meaning": "taşa veya metale yazı kazımak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "he",
+        "form": "ḥuḳḳā",
+        "meaning": "kazınmış yazı, yasa, buyruğun kaydı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḥaḳḳ",
+        "meaning": "doğruluk, yasaya uygunluk, hak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḥuḳūḳ",
+        "meaning": "birden çok hak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hukuk",
+        "meaning": "toplumsal düzeni belirleyen bağlayıcı kurallar bütünü",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Toplum düzenini sağlayan bağlayıcı kurallar bütünü.",
+    "currentMeaning": "İnsanların birbirleriyle ve devletle ilişkilerini düzenleyen, yaptırımlarla desteklenen kuralların bütünü.",
+    "story": "Hukuk, Arapçada hakkın çoğulu olarak kişilere ait hakları bir araya getiriyordu. Hak üzerinden uzanan eski eş köken bağlantısında, yasanın taşa veya metale kazınmış kaydı bulunur. Türkçedeki erken kullanımında birinin yerine getirilmesi gereken haklarını anlatan hukuk, zamanla bu hakları düzenleyen kuralların bütününü de adlandırdı. Böylece tek tek kişilerin alacaklarından toplumun ortak düzenine doğru genişledi.",
+    "firstAttestation": {
+      "source": "Anonim — Ferec ba'd eş-şidde",
+      "period": "<1451",
+      "form": "ḥuḳūḳı"
+    },
+    "relatives": [
+      {
+        "word": "hak",
+        "relation": "akraba"
+      },
+      {
+        "word": "hukukçu",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hukuk maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/hukuk"
+      },
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hak maddesi; daha eski kök bağlantısı",
+        "url": "https://www.nisanyansozluk.com/kelime/hak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hukuk maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "adalet",
+    "word": "adalet",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ˁadala",
+        "meaning": "denk, ölçülü ve adil oldu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ˁadāla(t)",
+        "meaning": "hakları gözeterek adil davranma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "adalet",
+        "meaning": "hakka ve hukuka uygun davranma",
+        "period": "15. yy başından önce",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Herkesin hakkını gözeterek doğru ve adil davranma.",
+    "currentMeaning": "Karar ve davranışlarda hakları gözetme, hakka ve hukuka uygun olma.",
+    "story": "Adaletin Arapçadaki fiil kökünde denklik ve ölçülülük birlikte yer alır. ˁAdāla(t), bu ölçüyü insan ilişkilerine taşıyarak hakları gözeten davranışı adlandırır. Türkçedeki adalet de kimsenin hakkının eksilmediği bir düzen düşüncesini bu denklik bağıyla taşır.",
+    "firstAttestation": {
+      "source": "Anonim — Kitâb Fi'l-Fıkh Bi'l-Lisâni't-Türkî",
+      "period": "<1421",
+      "form": "ˁadāleti"
+    },
+    "relatives": [
+      {
+        "word": "adaletli",
+        "relation": "türev"
+      },
+      {
+        "word": "adaletsiz",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "adalet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/adalet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "adalet maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "devlet",
+    "word": "devlet",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {
+        "language": "akk",
+        "form": "dālu",
+        "meaning": "dönüp dolaşmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "dāla",
+        "meaning": "döndü, talih yön değiştirdi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "dawla(t)",
+        "meaning": "dönüş, talih, varlık ve egemenlik",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "devlet",
+        "meaning": "bir ülkenin siyasal ve hukuki örgütlenmesi",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir ülkenin egemen siyasal ve hukuki örgütlenmesi.",
+    "currentMeaning": "Belirli bir toprak üzerinde yaşayan toplumu ortak bir egemenlik ve hukuk düzeni altında örgütleyen tüzel yapı.",
+    "story": "Devletin geçmişinde dönüp duran talih vardır: Arapça dāla ile eş kökenli Akatça dālu, dönme hareketini anlatır. Arapça dawla(t), bu dönüşten bahta, zenginliğe ve iktidara uzanan bir anlam alanı kurdu. Türkçenin erken döneminde de mutluluğu ve talihi anlatan devlet, hükümdarın sahip olduğu güç ve baht üzerinden egemenlikle birleşti. Sonunda kişiye ait bir üstünlüğün adı olmaktan çıkıp siyasal örgütlenmenin soyut adına dönüştü.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "dawlat"
+    },
+    "relatives": [
+      {
+        "word": "devletli",
+        "relation": "türev"
+      },
+      {
+        "word": "dolap",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Devlet ile dolap, geçmişlerinde aynı dönme kökünü paylaşır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "devlet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/devlet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "devlet maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "millet",
+    "word": "millet",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {
+        "language": "arc",
+        "form": "mālal, məlal",
+        "meaning": "söz söylemek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "arc",
+        "form": "millā",
+        "meaning": "söylenen söz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "milla(t)",
+        "meaning": "din, gelenek ve bunlara bağlı topluluk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "millet",
+        "meaning": "ortak tarih ve kültürle bağlı insan topluluğu",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ortak tarih ve kültür bağları taşıyan insan topluluğu.",
+    "currentMeaning": "Dil, tarih, kültür, gelenek ve ortak aidiyet gibi bağlarla birbirine bağlı insan topluluğu.",
+    "story": "Milletin en eski halkalarında Aramice konuşma eylemi ve söylenen söz vardır. Millā Arapçaya geçtiğinde din, töre ve bunları paylaşan cemaat çevresinde yeni bir anlam kazandı. Türkçede uzun süre insanları aynı inançta buluşturan topluluğu anlattı. On dokuzuncu yüzyılın ikinci yarısında Fransızca nation karşılığındaki kullanımı güçlenince ortak tarih ve kültürle bağlı ulus anlamı öne çıktı.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "millatḳa"
+    },
+    "relatives": [
+      {
+        "word": "millî",
+        "relation": "akraba"
+      },
+      {
+        "word": "milletvekili",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "millet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/millet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "millet maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "vatan",
+    "word": "vatan",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "waṭana",
+        "meaning": "bir yerde kaldı, yerleşti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "waṭan",
+        "meaning": "yerleşilen yer, yaşanan konut",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "vatan",
+        "meaning": "aidiyet duyulan yurt",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsanın kendisini ait hissettiği yurt.",
+    "currentMeaning": "Bir kişinin veya topluluğun aidiyet bağıyla bağlı olduğu ülke ve yurt toprakları.",
+    "story": "Vatanın Arapçadaki başlangıç resmi, insanın konakladığı veya yerleştiği yerdir. Waṭan, aynı kökü paylaşan waṭana fiiliyle birlikte bu yaşama ve yer tutma alanına bağlıdır. Türkçede kişinin yerleştiği yeri anlatan kelime, 1860'lardan itibaren Fransız devrimci düşüncesinin ve patrie kavramının etkisiyle siyasal bir genişleme yaşadı. Yaşanan yer, böylece mensup olunan devletin topraklarını kapsayan ortak yurda dönüştü.",
+    "firstAttestation": {
+      "source": "Ahmedî Divanı",
+      "period": "1400",
+      "form": "vatan"
+    },
+    "relatives": [
+      {
+        "word": "vatandaş",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "vatan maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/vatan"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "vatan maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "memleket",
+    "word": "memleket",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "malaka",
+        "meaning": "sahip oldu, hükmetti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mamlaka(t)",
+        "meaning": "hükmedilen alan, krallık ve ülke",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "memleket",
+        "meaning": "ülke, kişinin yurdu",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ülke veya kişinin kendi yurdu saydığı yer.",
+    "currentMeaning": "Bir ülke; ayrıca kişinin doğduğu, yetiştiği veya kendisini ait hissettiği yer.",
+    "story": "Memleketin Arapçadaki kökü, bir şeye sahip olmayı ve onun üzerinde hüküm sürmeyi anlatır. Mamlaka(t), bu sahipliğin uzandığı alanı, yani krallığı veya ülkeyi adlandırdı. Türkçede ülke ve vilayet için kullanılan kelime, halk dilinde kişinin kendi yurduna da yerleşti. Böylece yönetilen toprak parçasının adı, insanın kendisini ait hissettiği yerin adına dönüştü.",
+    "firstAttestation": {
+      "source": "Rabguzi — Kısasü'l-Enbiya tercümesi",
+      "period": "1310",
+      "form": "memleket"
+    },
+    "relatives": [
+      {
+        "word": "memleketli",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "memleket maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/memleket"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "memleket maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dünya",
+    "word": "dünya",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "danī",
+        "meaning": "aşağıda, bu tarafta",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "adnā",
+        "meaning": "daha aşağıda veya bu tarafa daha yakın",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "dunyā",
+        "meaning": "üzerinde yaşanan yeryüzü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dünya",
+        "meaning": "insanların yaşadığı yeryüzü",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsanların üzerinde yaşadığı yeryüzü.",
+    "currentMeaning": "İnsanların yaşadığı, karaları ve denizleriyle yeryüzünün bütünü.",
+    "story": "Dünyanın Arapçadaki geçmişi, aşağıda veya bu tarafta bulunmayı anlatan danī ile başlar. Adnā biçiminde karşılaştırmaya dönüşen bu yer ilişkisi, dunyā ile yaşadığımız yeryüzünün adına bağlanır. İslam düşüncesindeki öteki hayatın karşısında dünya, insanın şimdi bulunduğu tarafı işaret eder. Türkçede bu karşıtlığı taşıyarak yerleşen kelime, gündelik kullanımda üzerinde yaşadığımız yeryüzünü adlandırır.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "dunyā"
+    },
+    "relatives": [
+      {
+        "word": "dünyalık",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "dünya maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/d%C3%BCnya"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "dünya maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

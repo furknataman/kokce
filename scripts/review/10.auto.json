@@ -1,0 +1,112 @@
+[
+  {
+    "id": "peynir",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 1312, kaynaktaki en eski tanıklık 1303"
+    ]
+  },
+  {
+    "id": "sebze",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "meyve",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "havuç",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hıyar",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "turşu",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "reçel",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "pirinç",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "nohut",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "mercimek",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "patlıcan",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ıspanak",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "nar",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: pal",
+      "firstAttestation.period 1341, kaynaktaki en eski tanıklık 1303"
+    ]
+  },
+  {
+    "id": "badem",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "dut",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: arc",
+      "Maddede olup kaynak zincirinde olmayan halka: syc"
+    ]
+  },
+  {
+    "id": "incir",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: pal"
+    ]
+  },
+  {
+    "id": "şeftali",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "zerdali",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hurma",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "nişasta",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

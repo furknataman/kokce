@@ -1,0 +1,106 @@
+[
+  {
+    "id": "akıl",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "fikir",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "zihin",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hafıza",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hayal",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "rüya",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "niyet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "karar",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sebep",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "netice",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hayat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ömür",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "nefes",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ruh",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "beden",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sıhhat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "maraz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ilaç",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "merhem",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: ar"
+    ]
+  },
+  {
+    "id": "mide",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303"
+    ]
+  }
+]

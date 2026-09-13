@@ -2,11 +2,19 @@
   {
     "id": "kalp",
     "word": "kalp",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
-    "ultimateOrigin": "ar",
+    "ultimateOrigin": "akk",
     "chain": [
+      {
+        "language": "akk",
+        "form": "ḳablu",
+        "meaning": "yürek; Arapça biçimle eş kökenli",
+        "period": null,
+        "reconstructed": false
+      },
       {
         "language": "ar",
         "form": "ḳalb",
@@ -17,25 +25,20 @@
       {
         "language": "tr",
         "form": "kalp",
-        "meaning": "yürek; gönül; merkez",
+        "meaning": "kanı dolaşıma pompalayan organ",
         "period": "14. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Kan dolaşımını sağlayan kaslı organ, yürek.",
-    "currentMeaning": "Kanı pompalayan organ; mecazen duyguların merkezi, gönül veya bir şeyin en önemli noktası.",
-    "story": "Arapça ḳalb, göğüste atan yüreğin adıydı. Türkçede bu organ adı, insanın sevgisini ve üzüntüsünü taşıdığı düşünülen iç dünyasını da anlatır. Bir şehrin ya da kuruluşun en önemli yerine kalp denmesi de yaşamın merkezindeki organın başka alanlara taşınmasıdır.",
+    "shortMeaning": "Kanın vücutta dolaşmasını sağlayan organ.",
+    "currentMeaning": "Göğüste bulunan, kasılıp gevşeyerek kanı akciğerlere ve bedenin diğer bölümlerine pompalayan organ.",
+    "story": "Arapçada ḳalb, göğüste atan yüreğin adıydı; Türkçeye de bu organın adı olarak geçti. Daha eski Akatça ḳablu biçimiyle bağı bir kelime akrabalığıdır, doğrudan aktarım değildir. Türkçede yürekle yan yana yaşayan kalp, zamanla krizin ve ameliyatın da anlatıldığı tıp dilinde yerini aldı.",
     "firstAttestation": {
-      "source": "Gülşehri, Mantıku't-Tayr",
+      "source": "Gülşehri — Mantıku't-Tayr",
       "period": "1317",
       "form": "ḳalbüm"
     },
-    "relatives": [
-      {
-        "word": "kalben",
-        "relation": "akraba"
-      }
-    ],
+    "relatives": [],
     "alternatives": null,
     "funFact": null,
     "sources": [
@@ -45,18 +48,18 @@
         "url": "https://www.nisanyansozluk.com/kelime/kalp"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "KALP – KALB maddesi",
-        "url": "https://lugatim.com/s/kalp"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kalp maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "nabız",
     "word": "nabız",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -64,50 +67,56 @@
     "chain": [
       {
         "language": "ar",
+        "form": "nabaḍa",
+        "meaning": "kalbin atması",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
         "form": "nabḍ",
-        "meaning": "kalp atışı",
+        "meaning": "kalbin atışı",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "nabız",
-        "meaning": "atardamarlarda hissedilen ritmik vuru",
+        "meaning": "atardamarda hissedilen düzenli vuru",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Kalp atışının atardamarlarda hissedilen ritmik vurusu.",
-    "currentMeaning": "Kalbin çalışmasıyla atardamarlarda hissedilen vuru; mecazen bir kişinin veya topluluğun eğilimi ve düşüncesi.",
-    "story": "Arapça nabḍ, kalbin atmasını adlandırıyordu. Türkçede nabız, bu hareketin bilekte parmak uçlarıyla hissedilen vurusunu anlatır. Birinin nabzını yoklamak sözü, bedendeki işaretten durum anlama eylemini kişinin düşüncesini ve niyetini anlamaya taşır.",
-    "firstAttestation": null,
-    "relatives": [
-      {
-        "word": "nabız yoklaması",
-        "relation": "birleşik"
-      }
-    ],
+    "shortMeaning": "Kalbin çalışmasıyla atardamarlarda hissedilen vuru.",
+    "currentMeaning": "Kalbin pompaladığı kanın oluşturduğu basınç dalgasının atardamar üzerinde hissedilen vuruşu.",
+    "story": "Nabzın başlangıcında Arapça nabaḍa fiilinin anlattığı kalp hareketi bulunur. Bu hareketin adı olan nabḍ, Türkçede nabız biçimini aldı. Kelime, göğsün içindeki atışı bilekte parmakla duyulan vuru üzerinden anlatır.",
+    "firstAttestation": {
+      "source": "Yadigâr-ı İbni Şerif",
+      "period": "<1421?",
+      "form": "nabż"
+    },
+    "relatives": [],
     "alternatives": null,
     "funFact": null,
     "sources": [
       {
         "name": "Nişanyan Sözlük",
         "ref": "nabız maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/nabız"
+        "url": "https://www.nisanyansozluk.com/kelime/nab%C4%B1z"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "NABIZ – NABZ maddesi",
-        "url": "https://lugatim.com/s/nabız"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "nabız maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "hücre",
     "word": "hücre",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -115,31 +124,38 @@
     "chain": [
       {
         "language": "ar",
-        "form": "ḥucra",
-        "meaning": "kapatılmış yer, oda",
+        "form": "ḥacara",
+        "meaning": "kapatmak, yasaklamak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḥucra(t)",
+        "meaning": "çevresi kapalı mekân, oda",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "hücre",
-        "meaning": "küçük oda; canlının temel yapı birimi",
+        "meaning": "küçük oda; canlının temel yapısal birimi",
         "period": "15. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Canlının temel yapı birimi; küçük ve kapalı oda.",
-    "currentMeaning": "Canlıların temel yapı ve işlev birimi; küçük, kapalı oda veya bir örgütün küçük çalışma birimi.",
-    "story": "Hücrenin ilk resmi, çevresi kapatılmış küçük bir odadır. Arapçadaki ḥucra bu kapalı mekânı adlandırırken Türkçede medrese odası ve tek kişilik kapalı oda için de kullanıldı. Biyoloji dilinde Fransızca cellule karşılanırken aynı odacık düşüncesi canlı dokularının küçük birimlerine taşındı. Önce hüceyre, yani hücrecik biçimi de kullanıldı; zamanla hücre yerleşti.",
+    "shortMeaning": "Canlıların yapısını oluşturan en küçük canlı birim.",
+    "currentMeaning": "Canlılarda beslenme, büyüme ve çoğalma gibi yaşamsal işlevlerin gerçekleştiği temel yapı birimi.",
+    "story": "Hücrenin ilk dünyası mikroskobun altında değil, duvarlarla çevrili bir odadaydı. Arapça ḥacara fiilindeki kapatma düşüncesi, ḥucra adında kapalı bir mekâna dönüştü ve Türkçeye oda adı olarak taşındı. Biyoloji dilinde Fransızca cellule karşılanırken önce küçük oda fikrini taşıyan hüceyre kullanıldı; ardından hücre, canlının küçük yapı biriminin adı olarak yerleşti.",
     "firstAttestation": {
-      "source": "Ahmed b. Kadı-i Manyas, Gülistan tercümesi",
+      "source": "Ahmed b. Kadı-i Manyas — Gülistan tercümesi",
       "period": "1429",
       "form": "ḥucreyi"
     },
     "relatives": [
       {
-        "word": "hücrecik",
-        "relation": "türev"
+        "word": "hüceyre",
+        "relation": "eş köken"
       }
     ],
     "alternatives": null,
@@ -148,21 +164,21 @@
       {
         "name": "Nişanyan Sözlük",
         "ref": "hücre maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/hücre"
+        "url": "https://www.nisanyansozluk.com/kelime/h%C3%BCcre"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "HÜCRE maddesi",
-        "url": "https://lugatim.com/s/hücre"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hücre maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "vücut",
     "word": "vücut",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -170,35 +186,38 @@
     "chain": [
       {
         "language": "ar",
+        "form": "wacada",
+        "meaning": "bulmak, bulunmak, var olmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
         "form": "wucūd",
-        "meaning": "varoluş, mevcudiyet",
+        "meaning": "var olma, varlık",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "vücut",
-        "meaning": "varlık; beden",
+        "meaning": "beden; var olma",
         "period": "14. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "İnsan veya hayvan bedeni; varlık.",
-    "currentMeaning": "İnsan veya hayvanın bedeni; bir şeyin var olması ve mevcudiyeti.",
-    "story": "Arapça wucūd başlangıçta bedenin parçalarını değil, bir şeyin var olmasını anlatıyordu. Türkçede bu geniş varlık kavramı, insanın somut varlığı olan bedeni de karşılar hâle geldi. Vücut bulmak ve vücuda getirmek sözlerinde ise eski anlam yaşamayı sürdürür: Ortaya çıkan şeyin mutlaka bir bedeni olması gerekmez.",
+    "shortMeaning": "İnsan veya hayvan bedeninin bütünü.",
+    "currentMeaning": "Bir insanın veya hayvanın bütün organları ve uzuvlarıyla oluşturduğu bedensel yapı.",
+    "story": "Vücudun geçmişinde önce etten ve kemikten bir beden değil, var olma düşüncesi vardır. Arapça wacada fiilinin bulunma ve var olma çevresindeki anlamları, wucūd adında varlık kavramına dönüşür. Türkçeye taşınan kelime, soyut varlığın yanında insanın somut bedensel bütününü de anlatmaya başladı.",
     "firstAttestation": {
-      "source": "Aşık Paşa, Garib-name",
+      "source": "Aşık Paşa — Garib-name",
       "period": "1330",
       "form": "vücūd"
     },
     "relatives": [
       {
-        "word": "mevcut",
-        "relation": "akraba"
-      },
-      {
-        "word": "icat",
-        "relation": "akraba"
+        "word": "vücutçu",
+        "relation": "türev"
       }
     ],
     "alternatives": null,
@@ -207,21 +226,21 @@
       {
         "name": "Nişanyan Sözlük",
         "ref": "vücut maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/vücut"
+        "url": "https://www.nisanyansozluk.com/kelime/v%C3%BCcut"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "VÜCUT – VÜCUD maddesi",
-        "url": "https://lugatim.com/s/vücut"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "vücut maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "şifa",
     "word": "şifa",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -229,58 +248,56 @@
     "chain": [
       {
         "language": "ar",
+        "form": "şafā",
+        "meaning": "sağlığına kavuşturmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
         "form": "şifāˀ",
-        "meaning": "iyileşme, tedavi",
+        "meaning": "sağlığa kavuşma, tedavi",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "şifa",
-        "meaning": "iyileşme; derman",
+        "meaning": "hastalıktan kurtulma",
         "period": "11. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Hastalıktan kurtulma, iyileşme.",
-    "currentMeaning": "Hastalıktan kurtulup sağlığa kavuşma; iyileşmeyi sağlayan derman veya çare.",
-    "story": "Arapça şifāˀ, hastanın iyileşmesini ve tedavisini anlatıyordu. Türkçede aynı sözcük hem sağlığa kavuşmanın hem de bunu sağlayan dermanın adı oldu. Böylece şifa aramak, yalnız iyileşme sonucunu istemeyi değil, o sonuca ulaştıracak çareyi bulmayı da anlatır.",
+    "shortMeaning": "Hastalıktan kurtulup sağlığa kavuşma.",
+    "currentMeaning": "Bedeni veya ruhu etkileyen bir hastalığın iyileşmesiyle sağlığın yeniden kazanılması.",
+    "story": "Şifanın ardında, hastayı iyileştirmeyi anlatan Arapça şafā fiili bulunur. Bu eylemden doğan şifāˀ, hem tedaviye hem de onunla beklenen iyileşmeye ad oldu. Türkçe kelimeyi, hastalığın sona ermesi ve sağlığın geri gelmesi çevresindeki anlamıyla benimsedi.",
     "firstAttestation": {
-      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "source": "Yusuf Hacib — Kutadgu Bilig",
       "period": "1069",
       "form": "şifā"
     },
-    "relatives": [
-      {
-        "word": "şifalı",
-        "relation": "türev"
-      },
-      {
-        "word": "darüşşifa",
-        "relation": "birleşik"
-      }
-    ],
+    "relatives": [],
     "alternatives": null,
-    "funFact": "Şifayı kapmak sözü, iyileşmenin tersine, alaylı biçimde hastalanmayı anlatır.",
+    "funFact": null,
     "sources": [
       {
         "name": "Nişanyan Sözlük",
         "ref": "şifa maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/şifa"
+        "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fifa"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "ŞİFÂ maddesi",
-        "url": "https://lugatim.com/s/şifa"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şifa maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "hekim",
     "word": "hekim",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -289,30 +306,30 @@
       {
         "language": "ar",
         "form": "ḥakīm",
-        "meaning": "bilge, filozof, tabip",
+        "meaning": "bilgelik ve bilim sahibi kişi; tabip",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "hekim",
-        "meaning": "tıp doktoru",
+        "meaning": "hastalıkları tanıyıp tedavi eden kişi",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Hastalıkları teşhis ve tedavi eden tıp doktoru.",
-    "currentMeaning": "Tıp öğrenimi görmüş, hastalıkları teşhis ve tedavi etme yetkisi bulunan kişi.",
-    "story": "Arapça ḥakīm yalnız hastayı tedavi eden kişiyi değil, bilgeliğiyle tanınan düşünürü de adlandırıyordu. Sözcüğün çevresinde hem insan bedenini hem de dünyanın işleyişini anlama bilgisi bulunuyordu. Türkçede hekim yazımı tıp doktorunda özelleşirken bilge ve filozof anlamındaki hakim ile ayrımı belirginleşti.",
-    "firstAttestation": null,
+    "shortMeaning": "Hastalıkları teşhis ve tedavi eden kişi.",
+    "currentMeaning": "Tıp eğitimi almış, insan sağlığını korumak ve hastalıkları teşhis edip tedavi etmekle uğraşan kişi.",
+    "story": "Hekim adı, Arapça ḥakīm kelimesinin taşıdığı geniş bilgi ve bilgelik dünyasından ayrılarak belirginleşti. Bu adın kapsamına filozof da hastayı tedavi eden kişi de giriyordu. Türkçede hakîm ile hekim arasındaki yazım ayrımı harf devriminden önce belirgin değildi; bugün hekim denince bu geniş alanın tıpla uğraşan kişisi anlaşılır.",
+    "firstAttestation": {
+      "source": "Akşam gazetesi",
+      "period": "1930",
+      "form": "Hekim"
+    },
     "relatives": [
       {
-        "word": "hikmet",
-        "relation": "akraba"
-      },
-      {
-        "word": "hekimlik",
-        "relation": "türev"
+        "word": "hakîm",
+        "relation": "eş köken"
       }
     ],
     "alternatives": null,
@@ -324,51 +341,62 @@
         "url": "https://www.nisanyansozluk.com/kelime/hekim"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "HEKİM ve HAKİM maddeleri",
-        "url": "https://lugatim.com/s/hekim"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hekim maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "cenaze",
     "word": "cenaze",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
-    "formationType": "tartışmalı",
+    "formationType": "alıntı",
     "donorLanguage": "ar",
-    "ultimateOrigin": "ar",
+    "ultimateOrigin": "pal",
     "chain": [
+      {
+        "language": "pal",
+        "form": "ganz/gazīnag",
+        "meaning": "gömülü değer, hazine",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "arc",
+        "form": "ginzā, gənīzā",
+        "meaning": "gömü, saklı değer; eş kökenli biçimler",
+        "period": null,
+        "reconstructed": false
+      },
       {
         "language": "ar",
         "form": "cināza",
-        "meaning": "ölünün konulduğu tabut; cenaze",
+        "meaning": "ölüyü taşıyan tabut",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "cenaze",
-        "meaning": "gömülecek ölü; gömme töreni",
+        "meaning": "defnedilmek üzere hazırlanmış ölü",
         "period": "14. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Gömülmek üzere hazırlanmış ölü; onun gömme töreni.",
-    "currentMeaning": "Gömülmek üzere hazırlanmış insan ölüsü; bu ölünün gömülmesiyle ilgili tören.",
-    "story": "Cenazenin geçmişinde ölünün taşındığı tabut vardır. Arapçadaki cināza, ölüyü içine alan bu nesneyi adlandırıyordu. Türkçede sözcük tabuttaki ölüyü, ardından onun gömülmesi için yapılan töreni de karşılar oldu. Doğrudan aktarımda Farsçanın da payı olabileceği belirtilir.",
-    "firstAttestation": null,
-    "relatives": [
-      {
-        "word": "cenaze namazı",
-        "relation": "birleşik"
-      }
-    ],
-    "alternatives": [
-      "Kubbealtı Lugatı cenazeyi Arapça cenāze veya cināze ile açıklar; Nişanyan Sözlük doğrudan kaynak olarak Arapçayı ve Farsçayı birlikte belirtir."
-    ],
+    "shortMeaning": "Gömülmek üzere hazırlanmış insan ölüsü.",
+    "currentMeaning": "Kefenlenerek tabuta yerleştirilmiş ve defin için hazırlanmış insan ölüsü.",
+    "story": "Cenazenin uzak geçmişinde Orta Farsçanın hazine ve gömü çevresindeki kelimeleri bulunur; Aramicedeki akraba biçimler de aynı anlam alanını taşır. Arapçada ve Farsçada kullanılan cināza ise ölünün konduğu tabuta ad olmuştur. Türkçedeki cenaze, bu taşıyıcı nesnenin adını onun içindeki, gömülmeye hazırlanmış insana taşır.",
+    "firstAttestation": {
+      "source": "Rabguzi — Kısasü'l-Enbiya tercümesi",
+      "period": "1310",
+      "form": "cenāzesiŋe"
+    },
+    "relatives": [],
+    "alternatives": null,
     "funFact": null,
     "sources": [
       {
@@ -377,55 +405,55 @@
         "url": "https://www.nisanyansozluk.com/kelime/cenaze"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "CENÂZE maddesi",
-        "url": "https://lugatim.com/s/cenaze"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "cenaze maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "merasim",
     "word": "merasim",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
-    "formationType": "tartışmalı",
+    "formationType": "alıntı",
     "donorLanguage": "ar",
     "ultimateOrigin": "ar",
     "chain": [
       {
         "language": "ar",
+        "form": "rasm",
+        "meaning": "yerine getirilen resmî işlemler ve törenler",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
         "form": "marāsim",
-        "meaning": "formaliteler, törenler",
+        "meaning": "yerine getirilen resmî işlemler ve törenler",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "merasim",
-        "meaning": "tören; resmî davranış kuralları",
+        "meaning": "belirli usullerle yapılan tören",
         "period": "16. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Belirli kurallara göre yapılan tören.",
-    "currentMeaning": "Tören; resmiyetin veya geleneğin gerektirdiği davranışlar ve işlemler.",
-    "story": "Arapça marāsim, törenleri ve yerine getirilmesi beklenen resmî işlemleri bir arada anlatıyordu. Sözcüğün Türkçedeki eski kullanımlarında da bir makamın gerektirdiği işlemleri yerine getirme düşüncesi görülür. Bugün merasim denince bu kurallı davranışların bir araya geldiği tören öne çıkar. Arapçadaki çoğul biçimin hangi tekilden oluştuğu konusunda farklı açıklamalar vardır.",
+    "shortMeaning": "Belirli usullere göre düzenlenen tören.",
+    "currentMeaning": "Bir olay veya kişi için belirlenmiş kurallara ve sıraya göre gerçekleştirilen törensel etkinlik.",
+    "story": "Merasimin Arapçadaki biçimi marāsim, hem resmî işlemleri hem de törenleri kapsıyordu. Türkçedeki eski kullanımında da bir saltanatın gerektirdiği işlemlerin yerine getirilmesi anlatılıyordu. Bugünkü törende korunan bağ, hareketlerin ve uygulamaların belirli bir usule göre yürütülmesidir.",
     "firstAttestation": {
-      "source": "Hoca Sadeddin Efendi, Tacü't-Tevârih",
+      "source": "Hoca Sadeddin Efendi — Tacü't-Tevârih",
       "period": "1574",
       "form": "merāsimini"
     },
-    "relatives": [
-      {
-        "word": "resmî",
-        "relation": "akraba"
-      }
-    ],
-    "alternatives": [
-      "Nişanyan Sözlük marāsim biçimini rasm sözcüğünün çoğulu sayar; Kubbealtı Lugatı mersūm sözcüğünün çoğulu olarak açıklar."
-    ],
+    "relatives": [],
+    "alternatives": null,
     "funFact": null,
     "sources": [
       {
@@ -434,66 +462,60 @@
         "url": "https://www.nisanyansozluk.com/kelime/merasim"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "MERÂSİM maddesi",
-        "url": "https://lugatim.com/s/merasim"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "merasim maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "ameliyat",
     "word": "ameliyat",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
-    "formationType": "tartışmalı",
+    "formationType": "alıntı",
     "donorLanguage": "ar",
     "ultimateOrigin": "ar",
     "chain": [
       {
         "language": "ar",
-        "form": "ˁamaliyya",
-        "meaning": "işlem",
+        "form": "ˁamaliyya(t)",
+        "meaning": "uygulanan işlem",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "ˁamaliyyāt",
-        "meaning": "işlemler",
+        "meaning": "uygulanan işlemler",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "ameliyat",
-        "meaning": "cerrahi müdahale",
+        "meaning": "cerrahi tedavi işlemi",
         "period": "19. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Teşhis veya tedavi amacıyla yapılan cerrahi müdahale.",
-    "currentMeaning": "Hastalığı teşhis veya tedavi etmek amacıyla vücut üzerinde gerçekleştirilen cerrahi işlem.",
-    "story": "Ameliyatın arkasında yalnız cerrahlık değil, genel olarak bir işi uygulamaya koyma düşüncesi vardır. Arapça ˁamaliyyāt, işlemleri adlandırır. Türkçede cerrahi işlemler için kullanılan ameliyatı cerrahiye sözünün kısalmasıyla bugünkü tıbbi anlam öne çıkmıştır. Bu kullanımın hazır bir alıntı mı yoksa Türkçede oluşturulmuş bir biçim mi sayılacağı konusunda açıklamalar ayrılır.",
+    "shortMeaning": "Tedavi amacıyla yapılan cerrahi işlem.",
+    "currentMeaning": "Bir hastalığı veya yaralanmayı tedavi etmek için beden üzerinde kesme, çıkarma ya da dikme gibi yöntemlerle yapılan cerrahi müdahale.",
+    "story": "Ameliyat başlangıçta yalnızca cerrahın yaptığı işe ayrılmış bir ad değildi. Arapça ˁamaliyya tek bir işlemi, ˁamaliyyāt ise işlemleri karşılıyordu. Türkçede cerrahi işlemleri belirten ameliyatı cerrahiye ifadesinin ikinci bölümü kullanılmaz olunca, ameliyat tek başına bugünkü tıbbi anlamı üstlendi.",
     "firstAttestation": {
-      "source": "Ahmed Vefik Paşa, Lehce-i Osmani",
+      "source": "Ahmed Vefik Paşa — Lehce-i Osmani",
       "period": "1876",
       "form": "ˁameliyāt"
     },
     "relatives": [
       {
         "word": "ameliye",
-        "relation": "akraba"
-      },
-      {
-        "word": "ameliyathane",
-        "relation": "birleşik"
+        "relation": "eş köken"
       }
     ],
-    "alternatives": [
-      "Nişanyan Sözlük ameliyatı Arapça işlemler adının alıntısı olarak açıklar; Kubbealtı Lugatı cerrahi anlamdaki maddeyi Arapça unsurlarla Türkçede türetilmiş sayar."
-    ],
+    "alternatives": null,
     "funFact": null,
     "sources": [
       {
@@ -502,18 +524,18 @@
         "url": "https://www.nisanyansozluk.com/kelime/ameliyat"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "AMELİYAT maddeleri",
-        "url": "https://lugatim.com/s/ameliyat"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ameliyat maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "muayene",
     "word": "muayene",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -522,39 +544,34 @@
       {
         "language": "ar",
         "form": "ˁayn",
-        "meaning": "göz",
+        "meaning": "görme organı, göz",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
-        "form": "muˁāyana",
-        "meaning": "gözüyle görme, inceleme",
+        "form": "muˁāyana(t)",
+        "meaning": "bir şeyi kendi gözüyle görme",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "muayene",
-        "meaning": "inceleme; sağlık kontrolü",
+        "meaning": "sağlık durumunu araştıran inceleme",
         "period": "14. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir durumu anlamak için yapılan inceleme veya sağlık kontrolü.",
-    "currentMeaning": "Bir şeyin durumunu inceleme; hekimin hastalık veya sağlık durumunu belirlemek için yaptığı değerlendirme.",
-    "story": "Muayenenin içinde Arapça göz adı olan ˁayn bulunur. Muˁāyana, bir şeyi kendi gözüyle görüp inceleme eylemini anlatıyordu. Türkçede bu bakıp anlama işi, hekimin hastayı değerlendirmesinde özel bir kullanım kazandı. Araç muayenesi gibi kullanımlarda ise sözcük daha geniş olan kontrol etme anlamını korur.",
+    "shortMeaning": "Sağlık durumunu belirlemek için yapılan inceleme.",
+    "currentMeaning": "Bir kişinin sağlık durumunu ve varsa hastalığını belirlemek amacıyla hekim tarafından incelenmesi.",
+    "story": "Muayenenin merkezinde Arapça ˁayn, yani göz vardır. Ondan türeyen muˁāyana, bir şeyi başkasından duymak yerine kendi gözüyle görme fikrini taşır. Türkçede bu doğrudan görüp inceleme düşüncesi, hastanın durumunu araştıran hekimin yaptığı işe de ad oldu.",
     "firstAttestation": {
-      "source": "Mukaddimetü'l-Edeb tercümesi",
+      "source": "Anonim — Mukaddimetü'l-Edeb tercümesi",
       "period": "1300",
       "form": "muˁāyana"
     },
-    "relatives": [
-      {
-        "word": "muayenehane",
-        "relation": "birleşik"
-      }
-    ],
+    "relatives": [],
     "alternatives": null,
     "funFact": null,
     "sources": [
@@ -564,18 +581,18 @@
         "url": "https://www.nisanyansozluk.com/kelime/muayene"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "MUÂYENE maddesi",
-        "url": "https://lugatim.com/s/muayene"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muayene maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "kahve",
     "word": "kahve",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "tartışmalı",
     "donorLanguage": "ar",
@@ -583,42 +600,37 @@
     "chain": [
       {
         "language": "ar",
-        "form": "ḳahwa",
-        "meaning": "kahve çekirdeğinden hazırlanan içecek",
-        "period": "15. yy",
+        "form": "ḳahwa(t)",
+        "meaning": "eskiden koyu madde ve özsu; kahve içeceği",
+        "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "kahve",
-        "meaning": "kahve bitkisi, çekirdeği ve içeceği",
+        "meaning": "kahve ağacı; tohumlarından hazırlanan içecek",
         "period": "16. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Kavrulmuş kahve çekirdeğinden hazırlanan içecek.",
-    "currentMeaning": "Kahve ağacı, onun çekirdeği, çekirdeğin öğütülmüş biçimi ve bundan hazırlanan içecek; kahvehane.",
-    "story": "Arapça ḳahwa, Yemen'de kahve çekirdeklerinden hazırlanan içeceğin adı olarak kullanıldı. İçecekle birlikte adı da İstanbul'a ulaştı ve Türkçede ağacı, çekirdeği ve fincandaki içeceği kapsadı. Kahvehane sözünün kısalmasıyla kahve, insanların oturup sohbet ettiği yerin de adı oldu. Sözcüğün bu içecekten önceki anlamı ve daha uzak kökeni konusunda farklı açıklamalar vardır.",
+    "shortMeaning": "Tohumlarından kahve içeceği hazırlanan sıcak iklim ağacı.",
+    "currentMeaning": "Sıcak bölgelerde yetişen, tohumları kavrulup öğütülerek içecek hazırlamada kullanılan Coffea arabica ağacı.",
+    "story": "Arapça ḳahwa adının eski anlam alanında koyu maddeler ve özsular bulunur; kelime daha sonra kahve tohumlarından hazırlanan içeceği de adlandırır. Türkçede kahve adı hem fincandaki içeceğe hem onun elde edildiği ağaca uzanır. Arapça biçimin daha eski kaynağı kesin değildir; Etiyopya dillerinden bir kelimeyle veya oradaki bir yer adıyla bağlantı kurulmuştur.",
     "firstAttestation": {
-      "source": "Gelibolulu Mustafa Âlî, Kavaidü'l-Mecalis",
-      "period": "1587",
-      "form": "kahvesini"
+      "source": "Meşâirü'ş-şuarâ",
+      "period": "1568",
+      "form": "ḳaḥve-ḫāne"
     },
     "relatives": [
-      {
-        "word": "kahvaltı",
-        "relation": "birleşik"
-      },
       {
         "word": "kahvehane",
         "relation": "birleşik"
       }
     ],
     "alternatives": [
-      "Nişanyan Sözlük eski anlamı koyu şey veya özsuyu olarak verir; Kubbealtı Lugatı içecek şey ve şarap anlamlarını belirtir.",
-      "Nişanyan Sözlük daha uzak etimolojiyi belirsiz sayar ve Etiyopya'daki bir dil ya da yer adıyla bağlantı önerilerinin bulunduğunu aktarır."
+      "Nişanyan Sözlük, Arapça kelimenin etimolojisini belirsiz sayar ve daha eski kaynağı için bir Etiyopya dili veya Etiyopya'daki bir yer adı önerildiğini aktarır."
     ],
-    "funFact": "Kahvaltı, kahve içilmeden önce yenilen yiyeceği anlatan kahve altı birleşmesidir.",
+    "funFact": "Kahvenin adı, 17. yüzyılda bir kürkün rengini anlatmak için de kullanılıyordu.",
     "sources": [
       {
         "name": "Nişanyan Sözlük",
@@ -626,82 +638,18 @@
         "url": "https://www.nisanyansozluk.com/kelime/kahve"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "KAHVE maddesi",
-        "url": "https://lugatim.com/s/kahve"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kahve maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "baharat",
     "word": "baharat",
-    "partOfSpeech": "isim",
-    "formationType": "tartışmalı",
-    "donorLanguage": "ar",
-    "ultimateOrigin": null,
-    "chain": [
-      {
-        "language": "ar",
-        "form": "bahār",
-        "meaning": "güzel kokulu bitki; çeşni",
-        "period": null,
-        "reconstructed": false
-      },
-      {
-        "language": "ar",
-        "form": "bahārāt",
-        "meaning": "çeşniler, baharlar",
-        "period": null,
-        "reconstructed": false
-      },
-      {
-        "language": "tr",
-        "form": "baharat",
-        "meaning": "yemeğe tat ve koku veren maddeler",
-        "period": null,
-        "reconstructed": false
-      }
-    ],
-    "shortMeaning": "Yiyeceklere tat ve koku katmak için kullanılan maddeler.",
-    "currentMeaning": "Karabiber, tarçın, karanfil gibi yiyecek ve içeceklere tat veya koku vermek için kullanılan maddelerin genel adı.",
-    "story": "Baharatın temelindeki Arapça bahār, güzel kokulu bitkileri adlandırıyordu. Aynı ad çevresinde yağmurdan sonra çölde açan bitkiler de bulunuyordu. Bitkinin kokusuyla ilgili bu adlandırma, yemeklere çeşni veren maddelerin adına taşındı. Farsçada ilkbaharı anlatan bahār ile bağlantısı önerilse de bu daha eski halka kesin değildir.",
-    "firstAttestation": null,
-    "relatives": [
-      {
-        "word": "baharatçı",
-        "relation": "türev"
-      },
-      {
-        "word": "baharatlı",
-        "relation": "türev"
-      }
-    ],
-    "alternatives": [
-      "Nişanyan Sözlük Arapça bahār için Farsça ilkbahar adından alıntı olasılığını belirtir, ancak bu bağlantıyı kesin kabul etmez."
-    ],
-    "funFact": null,
-    "sources": [
-      {
-        "name": "Nişanyan Sözlük",
-        "ref": "baharat maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/baharat"
-      },
-      {
-        "name": "Kubbealtı Lugatı",
-        "ref": "BAHARAT maddesi",
-        "url": "https://lugatim.com/s/baharat"
-      }
-    ],
-    "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
-  },
-  {
-    "id": "şerbet",
-    "word": "şerbet",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -709,35 +657,79 @@
     "chain": [
       {
         "language": "ar",
-        "form": "şarba",
-        "meaning": "bir içim; içilecek şey",
+        "form": "bahārāt",
+        "meaning": "yiyeceklere koku ve tat katan maddeler",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "baharat",
+        "meaning": "yemeği kokulandırıp tatlandıran maddeler",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yiyecek ve içeceklere koku ve tat katan maddeler.",
+    "currentMeaning": "Tarçın, karanfil veya karabiber gibi, yiyeceklerin ve içeceklerin kokusunu ve tadını zenginleştirmek için eklenen maddelerin ortak adı.",
+    "story": "Baharat, Arapça bahārāt adıyla Türkçeye taşınırken mutfaktaki görevini korudu. Birbirinden farklı tarçın, karanfil ve karabiber gibi maddeler, yemeğe koku ve tat katmaları sayesinde aynı adın altında buluşur. Kelimenin Türkçedeki anlamı da tek bir bitkiye değil, bu ortak kullanıma dayanır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "baharat maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şerbet",
+    "word": "şerbet",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "şaraba",
+        "meaning": "içmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "şarba(t)",
+        "meaning": "bir içimlik miktar; içilen şey",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "şerbet",
-        "meaning": "tatlı içecek; şekerli sıvı",
+        "meaning": "tatlı içecek; tatlılara dökülen şekerli sıvı",
         "period": "14. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Şekerli suyla hazırlanan tatlı içecek veya tatlıların şekerli sıvısı.",
-    "currentMeaning": "Su, şeker ve çeşitli özlerle hazırlanan içecek; tatlı yapımında kullanılan şekerli sıvı.",
-    "story": "Arapça şarba, bir defada içilen miktarı veya içilecek şeyi anlatıyordu. Türkçeye geçen şerbet, özellikle meyve ve çiçek özleriyle hazırlanan tatlı içecekte özelleşti. Aynı akışkanlık düşüncesi gübre şerbeti ve çimento şerbeti gibi kullanımlarda da sürer; burada belirleyici olan tatlılık değil, maddenin sulandırılmış olmasıdır.",
+    "shortMeaning": "Tatlıları ıslatmak için hazırlanan şekerli sıvı.",
+    "currentMeaning": "Baklava gibi hamur tatlılarına dökülmek üzere su ve şekerin kaynatılmasıyla hazırlanan sıvı.",
+    "story": "Şerbetin başlangıcında şekerden önce içme eylemi vardır: Arapça şaraba bu hareketi anlatır. Ondan türeyen şarba, bir içimlik miktarı ve içilecek şeyi adlandırır. Türkçede şerbet tatlı bir içecek olarak yaşarken, baklava gibi tatlıların üzerine dökülen şekerli sıvının da adı oldu.",
     "firstAttestation": {
-      "source": "Aşık Paşa, Garib-name",
+      "source": "Aşık Paşa — Garib-name",
       "period": "1330",
       "form": "şerbet"
     },
     "relatives": [
       {
         "word": "şurup",
-        "relation": "akraba"
-      },
-      {
-        "word": "şarap",
-        "relation": "akraba"
+        "relation": "eş köken"
       }
     ],
     "alternatives": null,
@@ -746,44 +738,51 @@
       {
         "name": "Nişanyan Sözlük",
         "ref": "şerbet maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/şerbet"
+        "url": "https://www.nisanyansozluk.com/kelime/%C5%9Ferbet"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "ŞERBET maddesi",
-        "url": "https://lugatim.com/s/şerbet"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şerbet maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "şurup",
     "word": "şurup",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
-    "formationType": "alıntı",
+    "formationType": "tartışmalı",
     "donorLanguage": "ar",
     "ultimateOrigin": "ar",
     "chain": [
       {
         "language": "ar",
+        "form": "şaraba",
+        "meaning": "içmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
         "form": "şurb",
-        "meaning": "içme, içilecek şey",
+        "meaning": "içme eylemi; içilen şey",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "şurup",
-        "meaning": "koyu şekerli sıvı; sıvı ilaç",
-        "period": null,
+        "meaning": "şekerli sıvı, şerbet",
+        "period": "15. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Koyu şekerli sıvı veya bu biçimde hazırlanan ilaç.",
-    "currentMeaning": "Şekerli sıvının yoğunlaştırılmasıyla elde edilen ürün; genellikle tatlandırılmış sıvı ilaç.",
-    "story": "Şurubun temelindeki Arapça şurb, içme eylemini ve içilecek şeyi anlatıyordu. Türkçede sözcük, kaynatılıp koyulaştırılan şekerli sıvının adı olarak özelleşti. Şekerle hazırlanan sıvı ilaçlar da aynı adla anılınca şurup hem mutfakta hem eczacılıkta yer tuttu.",
+    "shortMeaning": "Şekerli suyla hazırlanan sıvı; şerbet.",
+    "currentMeaning": "Şekerin suda çözündürülmesiyle hazırlanan ve şerbet olarak da adlandırılan tatlı sıvı.",
+    "story": "Şurubun geçmişinde Arapça şaraba fiilinin anlattığı içme hareketi bulunur. Eski şurb biçimi, hem içmeyi hem de içilen şeyi kapsarken Türkçedeki şurup şekerli sıvıyı adlandırır. Türkçeye kaynak olan Arapça biçimin şurb veya şurūb olarak gösterilmesi konusunda sözlük kayıtları farklılaşır.",
     "firstAttestation": {
       "source": "Lugat-i Halimi",
       "period": "1477",
@@ -792,72 +791,75 @@
     "relatives": [
       {
         "word": "şerbet",
-        "relation": "akraba"
-      },
-      {
-        "word": "şarap",
-        "relation": "akraba"
+        "relation": "eş köken"
       }
     ],
-    "alternatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük alıntının kaynağını Arapça şurb olarak gösterirken TDK Güncel Türkçe Sözlük Arapça şurūb biçimini verir; Nişanyan ayrıca 1835 tarihli Türkçe şurūb tanıklığını aktarır."
+    ],
     "funFact": null,
     "sources": [
       {
         "name": "Nişanyan Sözlük",
         "ref": "şurup maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/şurup"
+        "url": "https://www.nisanyansozluk.com/kelime/%C5%9Furup"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "ŞURUP maddesi",
-        "url": "https://lugatim.com/s/şurup"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şurup maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "helva",
     "word": "helva",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
-    "ultimateOrigin": "ar",
+    "ultimateOrigin": "arc",
     "chain": [
+      {
+        "language": "arc",
+        "form": "ḥalaw, ḥalwā",
+        "meaning": "tatlı yiyecek; Arapça biçimle eş kökenli",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḥalab",
+        "meaning": "süt",
+        "period": null,
+        "reconstructed": false
+      },
       {
         "language": "ar",
         "form": "ḥalwāˀ",
-        "meaning": "tatlı yiyecek, şekerleme",
+        "meaning": "çeşitli tatlılar ve şekerlemeler",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "helva",
-        "meaning": "çeşitli malzemelerle yapılan bir tatlı türü",
+        "meaning": "şeker ve yağla hazırlanan bir tatlı türü",
         "period": "11. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Un, irmik veya tahin gibi malzemelerle yapılan tatlı.",
-    "currentMeaning": "Un, irmik veya tahin gibi malzemelerin şeker ve çeşidine göre yağla işlenmesiyle yapılan tatlıların genel adı.",
-    "story": "Arapça ḥalwāˀ tek bir tarife bağlı değildi; tatlı yiyecekleri ve şekerlemeleri kapsıyordu. Türkçede bu geniş ad, un, irmik veya tahinle yapılan belirli tatlıların ortak adına dönüştü. Malzemesi değişse de helvanın adında kalan ortak özellik tatlı oluşudur.",
+    "shortMeaning": "Şeker, yağ ve un ya da irmikle hazırlanan tatlı.",
+    "currentMeaning": "Un veya irmik gibi bir malzemenin yağ ve şekerle işlenmesiyle hazırlanan tatlı.",
+    "story": "Helva adının geçmişinde süt ile tatlılık arasında kurulmuş bir bağ vardır. Arapça ḥalab sütü adlandırırken onunla bağlantılı ḥalwāˀ, tek bir tariften daha geniş bir tatlılar dünyasını kapsar; Aramicedeki biçimler de bu kelimenin akrabalarıdır. Türkçeye geçen ad, un veya irmikle hazırlananlar gibi belirli tatlı çeşitlerinde yerleşti.",
     "firstAttestation": {
-      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "source": "Yusuf Hacib — Kutadgu Bilig",
       "period": "1069",
       "form": "ḥalva"
     },
-    "relatives": [
-      {
-        "word": "helvacı",
-        "relation": "türev"
-      },
-      {
-        "word": "tahin helvası",
-        "relation": "birleşik"
-      }
-    ],
+    "relatives": [],
     "alternatives": null,
     "funFact": null,
     "sources": [
@@ -867,18 +869,18 @@
         "url": "https://www.nisanyansozluk.com/kelime/helva"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "HELVA maddesi",
-        "url": "https://lugatim.com/s/helva"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "helva maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "lokma",
     "word": "lokma",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -886,39 +888,37 @@
     "chain": [
       {
         "language": "ar",
-        "form": "luḳma",
-        "meaning": "bir defada ağza alınan yiyecek parçası",
+        "form": "laḳama",
+        "meaning": "yutmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "luḳma(t)",
+        "meaning": "bir ağız dolusu yiyecek veya içecek",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "lokma",
-        "meaning": "bir ağızlık yiyecek; küçük hamur tatlısı",
+        "meaning": "bir defada ağza alınan yiyecek miktarı",
         "period": "14. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir defada ağza alınan yiyecek parçası; bir hamur tatlısı.",
-    "currentMeaning": "Bir defada ağza alınabilecek yiyecek parçası; küçük hamur parçalarının kızartılıp şerbetlenmesiyle yapılan tatlı.",
-    "story": "Arapça luḳma, yutma eylemiyle bağlantılı olarak ağza bir defada alınan yiyecek parçasını adlandırıyordu. Türkçede ekmekten koparılan parça da başka bir yiyeceğin ağızlık miktarı da lokma oldu. Küçük parçalar hâlinde kızartılan hamur tatlısı, bu yenilebilir parça ölçüsünü kendi adına taşıdı.",
+    "shortMeaning": "Bir defada ağza alınan yiyecek parçası.",
+    "currentMeaning": "Yemek yerken ağıza tek seferde alınabilecek büyüklükteki yiyecek parçası.",
+    "story": "Lokma, Arapça laḳama fiilindeki yutma hareketinden doğar. Luḳma adı, yiyeceği türüne göre değil, ağza bir defada alınan miktarına göre ayırır. Türkçede de aynı ölçü korunur: Ekmek de başka bir yemek de ağızdaki tek parçasıyla lokma olur.",
     "firstAttestation": {
-      "source": "Mukaddimetü'l-Edeb tercümesi",
+      "source": "Anonim — Mukaddimetü'l-Edeb tercümesi",
       "period": "1300",
       "form": "loḳmanı"
     },
-    "relatives": [
-      {
-        "word": "lokmacı",
-        "relation": "türev"
-      },
-      {
-        "word": "lokmalık",
-        "relation": "türev"
-      }
-    ],
+    "relatives": [],
     "alternatives": null,
-    "funFact": null,
+    "funFact": "Lokma adı, 1533 tarihli bir Türkçe-İtalyanca kayıtta hamur kızartması için de kullanılmıştır.",
     "sources": [
       {
         "name": "Nişanyan Sözlük",
@@ -926,18 +926,18 @@
         "url": "https://www.nisanyansozluk.com/kelime/lokma"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "LOKMA maddesi",
-        "url": "https://lugatim.com/s/lokma"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "lokma maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "kadayıf",
     "word": "kadayıf",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -945,65 +945,56 @@
     "chain": [
       {
         "language": "ar",
-        "form": "ḳaṭīfa",
-        "meaning": "hav, kırpıntı; kaymak",
+        "form": "ḳaṭīfa(t)",
+        "meaning": "yüzeydeki hav, küçük kırpıntılar veya kaymak",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "ḳaṭāˀif",
-        "meaning": "ince hamurdan yapılan tatlı",
+        "meaning": "ince hamurlu tatlı, baklava",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "kadayıf",
-        "meaning": "ince hamur malzemesi ve bundan yapılan tatlı",
+        "meaning": "ince hamurdan hazırlanan tatlı malzemesi",
         "period": "15. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "İnce hamurdan hazırlanan tatlı malzemesi ve bununla yapılan tatlı.",
-    "currentMeaning": "Tel veya yassı biçimde hazırlanan hamur malzemesi; bu malzemeden yapılan şerbetli tatlı.",
-    "story": "Kadayıfın Arapça geçmişinde hav ve kırpıntı gibi ince parçaları anlatan ḳaṭīfa vardır. Bunun çoğulu olan ḳaṭāˀif, ince hamurla hazırlanan tatlının adı olarak kullanılıyordu. Türkçede ad hem pişirilmeye hazır hamura hem de ondan yapılan tatlıya yerleşti. Tel kadayıfın yanında yassı kadayıfın da bulunması, adın yalnız tel biçimine bağlı olmadığını gösterir.",
+    "shortMeaning": "Tel veya yuvarlak biçimde hazırlanan ince hamur malzemesi.",
+    "currentMeaning": "Akışkan, az mayalı hamurun sıcak sac üzerinde ince teller veya yuvarlak parçalar hâlinde kurutulmasıyla elde edilen tatlı malzemesi.",
+    "story": "Kadayıfın geçmişinde yalnızca hamur değil, hav, kırpıntı ve sütün üstünden alınan kaymak da vardır. Bu nesneleri adlandıran Arapça ḳaṭīfa ile bağlantılı ḳaṭāˀif, ince hamurlu tatlıların adı olarak kullanılmıştır. Türkçedeki kadayıf adı da tel biçimindeki hamurla sınırlı kalmamış, kaymaklı ve ekmekli tatlı çeşitlerine uzanmıştır.",
     "firstAttestation": {
       "source": "Lugat-i Halimi",
       "period": "1477",
-      "form": "ḳaṭāˀif"
+      "form": "kaṭāif"
     },
-    "relatives": [
-      {
-        "word": "tel kadayıf",
-        "relation": "birleşik"
-      },
-      {
-        "word": "ekmek kadayıfı",
-        "relation": "birleşik"
-      }
-    ],
+    "relatives": [],
     "alternatives": null,
     "funFact": null,
     "sources": [
       {
         "name": "Nişanyan Sözlük",
         "ref": "kadayıf maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/kadayıf"
+        "url": "https://www.nisanyansozluk.com/kelime/kaday%C4%B1f"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "KADAYIF maddesi",
-        "url": "https://lugatim.com/s/kadayıf"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kadayıf maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "tahin",
     "word": "tahin",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -1011,8 +1002,15 @@
     "chain": [
       {
         "language": "ar",
+        "form": "ṭaḥana",
+        "meaning": "öğütmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
         "form": "ṭaḥīn",
-        "meaning": "un, öğütülmüş madde",
+        "meaning": "öğütülmüş ürün, un",
         "period": null,
         "reconstructed": false
       },
@@ -1024,24 +1022,15 @@
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Susamın öğütülmesiyle elde edilen ezme.",
-    "currentMeaning": "Susam tanelerinin öğütülmesiyle elde edilen, yağlı ve koyu kıvamlı ezme.",
-    "story": "Arapça ṭaḥīn, öğütme eyleminden türemiş bir un adıydı. Sözcüğün ilk odağında susam değil, tanelerin öğütülerek başka bir kıvama getirilmesi bulunuyordu. Türkçede eski un anlamının yanında susam çekilmişi anlamı gelişti ve sonunda tahin denince susamın yağlı ezmesi anlaşılır oldu.",
+    "shortMeaning": "Kavrulmuş susamın öğütülmesiyle hazırlanan yağlı ezme.",
+    "currentMeaning": "Kavrulan susam tohumlarının öğütülmesiyle elde edilen, yoğun kıvamlı ve yağ bakımından zengin yiyecek.",
+    "story": "Tahinin adında önce susam değil, öğütme işi vardır. Arapça ṭaḥana fiilinden türeyen ṭaḥīn, öğütmenin ürünü olan unu adlandırır. Türkçede eski kayıtlarda un karşılığını koruyan kelime, daha sonra öğütülmüş susama özgüleşerek bugün bildiğimiz yağlı ezmenin adı oldu.",
     "firstAttestation": {
-      "source": "Meninski, Thesaurus",
+      "source": "Meninski — Thesaurus",
       "period": "1680",
       "form": "ṭaḥīn"
     },
-    "relatives": [
-      {
-        "word": "tahinli",
-        "relation": "türev"
-      },
-      {
-        "word": "tahin helvası",
-        "relation": "birleşik"
-      }
-    ],
+    "relatives": [],
     "alternatives": null,
     "funFact": null,
     "sources": [
@@ -1051,41 +1040,48 @@
         "url": "https://www.nisanyansozluk.com/kelime/tahin"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "TAHİN maddesi",
-        "url": "https://lugatim.com/s/tahin"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "tahin maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "zeytin",
     "word": "zeytin",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "tartışmalı",
     "donorLanguage": "ar",
     "ultimateOrigin": null,
     "chain": [
       {
+        "language": "he",
+        "form": "zayt",
+        "meaning": "zeytin ve yağı; eş kökenli biçim",
+        "period": null,
+        "reconstructed": false
+      },
+      {
         "language": "arc",
         "form": "zeytā",
-        "meaning": "zeytin, zeytinyağı",
+        "meaning": "zeytin ve zeytinden elde edilen yağ",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "zayt",
-        "meaning": "zeytin, zeytinyağı",
+        "meaning": "zeytin ve zeytinyağı",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "zaytūn",
-        "meaning": "zeytin taneleri",
+        "meaning": "zeytinin meyveleri",
         "period": null,
         "reconstructed": false
       },
@@ -1097,9 +1093,9 @@
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Akdeniz ikliminde yetişen bir ağaç ve yağlı meyvesi.",
-    "currentMeaning": "Zeytingillerden, yapraklarını dökmeyen bir ağaç; bu ağacın yenilen ve yağ çıkarılan tek çekirdekli meyvesi.",
-    "story": "Zeytinin adında meyveyle ondan sıkılan yağın yakınlığı görülür. Aramice zeytā ve Arapça zayt, zeytini ve zeytinyağını aynı ad çevresinde topluyordu. Türkçe, Arapçadaki zaytūn biçimini aldı ve hem meyveyi hem ağacı bununla adlandırdı. Sözcüğün Aramiceden daha eski geçmişi kesin olarak bilinmez.",
+    "shortMeaning": "Akdeniz'de yetişen, yağlı meyveler veren uzun ömürlü ağaç.",
+    "currentMeaning": "Akdeniz çevresinde yetişen, gümüşi yapraklı ve yağ elde edilen meyvelere sahip, uzun ömürlü Olea europaea ağacı.",
+    "story": "Zeytinin adı, Doğu Akdeniz'de meyve ile ondan çıkarılan yağın çevresinde dolaşır. Aramice zeytā ve Arapça zayt bu ikisini birlikte adlandırırken, Arapça zaytūn meyve tanelerini öne çıkarır; Türkçe zeytin de bu biçimden alınmıştır. İbranice ve Fenike dilindeki benzerleri kelimenin akrabalarıdır. Daha uzak kaynağının bölgedeki Sami dillerinden önce konuşulmuş bir dil olması önerilir, ancak bu dil kesin olarak belirlenmiş değildir.",
     "firstAttestation": {
       "source": "Codex Cumanicus",
       "period": "1303",
@@ -1107,16 +1103,16 @@
     },
     "relatives": [
       {
-        "word": "zeytinyağı",
-        "relation": "birleşik"
+        "word": "zeytinlik",
+        "relation": "türev"
       },
       {
-        "word": "zeytinlik",
+        "word": "zeytinci",
         "relation": "türev"
       }
     ],
     "alternatives": [
-      "Nişanyan Sözlük sözcüğün nihai kaynağının Doğu Akdeniz'deki Sami öncesi bir dil olabileceğini belirtir; bu dilin adı ve biçimi kesinleştirilmez."
+      "Nişanyan Sözlük, kelimenin nihai kaynağını Doğu Akdeniz'de Sami dillerinden önce konuşulan, adı belirlenmemiş bir dilin kalıntısı olarak değerlendirir."
     ],
     "funFact": null,
     "sources": [
@@ -1126,18 +1122,18 @@
         "url": "https://www.nisanyansozluk.com/kelime/zeytin"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "ZEYTİN maddesi",
-        "url": "https://lugatim.com/s/zeytin"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "zeytin maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "salep",
     "word": "salep",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "tartışmalı",
     "donorLanguage": "ar",
@@ -1145,30 +1141,34 @@
     "chain": [
       {
         "language": "ar",
-        "form": "ḫuṣyatu's-saˁlab",
-        "meaning": "tilki testisi; orkide",
+        "form": "s̱aˁlab",
+        "meaning": "tilki",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
-        "form": "saˁlab",
-        "meaning": "tilki; kısaltılmış bitki adı",
+        "form": "ḫuṣyatu's̱-s̱aˁlab",
+        "meaning": "tilkinin testisi; benzetmeyle orkide",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "salep",
-        "meaning": "orkide yumrusu tozu ve bununla yapılan içecek",
-        "period": null,
+        "meaning": "yumrulu bir orkide türü",
+        "period": "17. yy",
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Orkide yumrularından elde edilen toz ve bununla yapılan sıcak içecek.",
-    "currentMeaning": "Bazı orkidelerin yumrularından elde edilen toz; bu tozla hazırlanan koyu kıvamlı sıcak içecek ve ilgili bitkiler.",
-    "story": "Salebin yaygın köken açıklaması, orkidenin toprak altındaki iki yumrusunun görünüşüne dayanır. Bu yumrular tilkinin testislerine benzetilerek Arapçada ḫuṣyatu's-saˁlab diye adlandırılmıştır. Uzun bitki adı kısalarak Türkçede salep biçimine ulaşmış; bitkinin adı öğütülen yumrularına ve bunlarla yapılan içeceğe de geçmiştir. Bunun yanında asmanın kütük kısmını anlatan bir Arapça adla bağlantı kuran alternatif açıklama da vardır.",
-    "firstAttestation": null,
+    "shortMeaning": "Toprak altında yumruları bulunan bir orkide.",
+    "currentMeaning": "Salepgillerden, toprak altında yumru oluşturan ve çiçekleri salkım ya da başak biçiminde toplanan Orchis cinsi bitki.",
+    "story": "Salebin adlandırılmasında bitkinin toprak altındaki yumrularıyla bir hayvanın organı arasında kurulan benzerlik öne çıkar. Bir açıklama, Arapça tilki adını taşıyan ve tilkinin testisini belirten bitki adının Türkçede kısalarak salep olduğunu anlatır. Bununla birlikte, Türkçeye kaynak gösterilen Arapça biçim konusunda sözlükler ayrılır; başka bir kayıt doğrudan saḥleb biçimini verir.",
+    "firstAttestation": {
+      "source": "Evliya Çelebi — Seyahatname",
+      "period": "1665",
+      "form": "saˁlebciyān"
+    },
     "relatives": [
       {
         "word": "salepçi",
@@ -1176,9 +1176,10 @@
       }
     ],
     "alternatives": [
-      "Nişanyan Sözlük salebi tilki testisi anlamındaki Arapça bitki adının kısalmasıyla açıklar; Kubbealtı Lugatı aynı açıklamanın yanında asmanın kütük kısmını anlatan Arapça saˁlab biçimini de alternatif olarak verir."
+      "Nişanyan Sözlük, salebi Arapça ḫuṣyatu's̱-s̱aˁlab ifadesinin kısalmış biçimiyle açıklar ve modern Arapçadaki ilgili yazımları Türkçeden geri alıntı sayar.",
+      "TDK Güncel Türkçe Sözlük, doğrudan kaynak olarak Arapça saḥleb biçimini gösterir."
     ],
-    "funFact": null,
+    "funFact": "Anadolu ağızlarında aynı bitki için it taşağı adı da kullanılır.",
     "sources": [
       {
         "name": "Nişanyan Sözlük",
@@ -1186,13 +1187,12 @@
         "url": "https://www.nisanyansozluk.com/kelime/salep"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "SÂLEP maddesi",
-        "url": "https://lugatim.com/s/salep"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "salep maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   }
 ]

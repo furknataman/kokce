@@ -2,6 +2,7 @@
   {
     "id": "maaş",
     "word": "maaş",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "tartışmalı",
     "donorLanguage": "ar",
@@ -9,61 +10,58 @@
     "chain": [
       {
         "language": "ar",
-        "form": "maˁāş",
-        "meaning": "yaşayış, geçim",
+        "form": "maˁīşa(t)",
+        "meaning": "hayatı sürdürme, geçimini sağlama",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "maˁāyiş",
+        "meaning": "geçinmeye yarayan imkânlar",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "maaş",
-        "meaning": "düzenli olarak ödenen aylık ücret",
+        "meaning": "çalışma karşılığında düzenli alınan aylık ödeme",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir kimseye düzenli olarak ödenen aylık ücret.",
-    "currentMeaning": "Çalışma karşılığında veya emeklilik gibi bir hak nedeniyle aylık olarak ödenen para.",
-    "story": "Kelimenin başlangıcında insanın yaşamasını ve geçinmesini sağlayan imkânlar vardır. Arapçadaki tekil geçim adından mı, aynı ailedeki çoğul biçimden mi geçtiği konusunda farklı açıklamalar bulunur. Türkçede önceleri geçinmeyi sağlayan şeyleri anlatan maaş, zamanla bu geçimi sağlayan düzenli aylık ödemenin adı olmuştur.",
+    "shortMeaning": "Çalışma karşılığında düzenli alınan aylık ödeme.",
+    "currentMeaning": "Bir çalışana yaptığı iş karşılığında aylık olarak ödenen para.",
+    "story": "Maaşın geçmişinde yalnızca bir işin karşılığı değil, insanın hayatını sürdürmesini sağlayan geçim imkânları bulunur. Arapçadaki maˁīşa(t) ile bağlantılı maˁāyiş biçimi bu geniş geçim dünyasını anlatır; Türkçedeki biçimin doğrudan çıkış noktası konusunda iki farklı açıklama vardır. Türkçede önceleri geçinmeyi anlatan kelime, zamanla çalışana düzenli verilen aylık paraya yerleşmiştir.",
     "firstAttestation": {
       "source": "Erzurumlu Darir, Kıssa-i Yusuf tercümesi",
       "period": "1377'den önce",
       "form": "maˁāş"
     },
-    "relatives": [
-      {
-        "word": "maişet",
-        "relation": "akraba"
-      },
-      {
-        "word": "maaşlı",
-        "relation": "türev"
-      }
-    ],
+    "relatives": [],
     "alternatives": [
-      "Kubbealtı Lugatı kelimeyi Arapça yaşama ve geçim bildiren maˁāş biçimiyle açıklar.",
-      "Nişanyan Sözlük doğrudan kaynak biçim olarak maˁāyiş çoğulunu gösterir ve bunu maˁīşa sözcüğüne bağlar."
+      "Nişanyan Sözlük Türkçe biçimi Arapça maˁāyiş üzerinden açıklarken TDK Güncel Türkçe Sözlük doğrudan Arapça maˁāş biçimini verir."
     ],
-    "funFact": null,
+    "funFact": "Halk ağzındaki mayış söyleyişi, maˁāyiş biçimine standart maaş söyleyişinden daha yakındır.",
     "sources": [
       {
         "name": "Nişanyan Sözlük",
         "ref": "maaş maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/maaş"
+        "url": "https://www.nisanyansozluk.com/kelime/maa%C5%9F"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "MAAŞ maddesi",
-        "url": "https://lugatim.com/s/MAAŞ"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "maaş maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "masraf",
     "word": "masraf",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -72,28 +70,28 @@
       {
         "language": "ar",
         "form": "ṣarafa",
-        "meaning": "harcadı",
+        "meaning": "para harcadı",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "maṣraf",
-        "meaning": "harcama, gider",
+        "meaning": "harcanan para, gider",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "masraf",
-        "meaning": "bir iş için harcanan para",
+        "meaning": "bir iş için yapılan harcama",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir iş veya ihtiyaç için harcanan para.",
-    "currentMeaning": "Bir işi yapmak, bir ihtiyacı karşılamak veya bir şeyi sürdürmek için yapılan harcama; gider.",
-    "story": "Arapçada harcama eyleminden doğan kelime, bir iş için elden çıkan parayı adlandırıyordu. Türkçeye geçtiğinde de bu somut para çıkışını anlatmayı sürdürdü. Bir evin bakımı veya bir yolculuğun giderleri masraf sayılırken, kelimenin merkezinde hâlâ bir amaç uğruna harcanan kaynak bulunur.",
+    "shortMeaning": "Bir iş veya ihtiyaç için yapılan harcama.",
+    "currentMeaning": "Bir ihtiyacı karşılamak ya da bir işi gerçekleştirmek için harcanan para.",
+    "story": "Masrafın arkasında Arapça ṣarafa fiilinin anlattığı para harcama eylemi vardır. Bu eylemden oluşan maṣraf, eldeki paranın giderlere ayrılan bölümünü adlandırır. Türkçeye geçtiğinde de aynı hesap dünyasını korumuş; evin ihtiyaçlarından büyük işlerin giderlerine kadar yapılan harcamaların adı olmuştur.",
     "firstAttestation": {
       "source": "Kâtip Çelebi, Fezleke",
       "period": "1653",
@@ -103,10 +101,6 @@
       {
         "word": "sarf",
         "relation": "akraba"
-      },
-      {
-        "word": "masraflı",
-        "relation": "türev"
       }
     ],
     "alternatives": null,
@@ -116,45 +110,50 @@
         "name": "Nişanyan Sözlük",
         "ref": "masraf maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/masraf"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "masraf maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "fiyat",
     "word": "fiyat",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
-    "formationType": "tartışmalı",
+    "formationType": "alıntı",
     "donorLanguage": "ar",
     "ultimateOrigin": "ar",
     "chain": [
       {
         "language": "ar",
         "form": "fī",
-        "meaning": "içinde, bir yerde",
+        "meaning": "içinde bulunmayı bildiren edat",
         "period": null,
         "reconstructed": false
       },
       {
-        "language": "ota",
-        "form": "fiyāt",
-        "meaning": "gelir, toplam; bir malın bedeli",
-        "period": "19. yy",
-        "reconstructed": false
+        "language": "ar",
+        "form": "fiyāt / fīˀāt",
+        "meaning": "içinde bulunmayı bildiren edat",
+        "period": null,
+        "reconstructed": true
       },
       {
         "language": "tr",
         "form": "fiyat",
-        "meaning": "bir mal veya hizmetin para karşılığı",
+        "meaning": "bir malın para ile belirtilen karşılığı",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir mal veya hizmet için belirlenen para karşılığı.",
-    "currentMeaning": "Bir malın satın alınması veya bir hizmetten yararlanılması için ödenmesi gereken para miktarı.",
-    "story": "Kelimenin başlangıcında Arapçanın yer ve ilişki bildiren fī edatı bulunur. Türkçedeki kullanımında bu küçük kelime paha ve bedel bildiren bir değer kazanmış, Arapça çoğul ekiyle genişletilen biçimi de tek bir malın karşılığını anlatır olmuştur. Ortaya çıkan biçimin Arapçadan alıntı mı, Türkçede yapılmış bir türetme mi sayılacağı konusunda açıklamalar ayrılır.",
+    "shortMeaning": "Bir mal veya hizmetin para ile belirtilen karşılığı.",
+    "currentMeaning": "Bir mal ya da hizmetin alınması veya satılması için belirlenen para tutarı.",
+    "story": "Fiyatın başlangıcında, Arapçada bir şeyin içinde bulunmayı bildiren fī edatı vardır. Bu edatın Arapçada bulunmayan çoğul biçimi ve alışverişteki değer kullanımı Türkçede gelişmiştir. Kelimenin eski Türkçe kayıtlarında gelir ve toplam tutar öne çıkarken, sonraki kayıtlarda tek tek malların satış bedeli belirginleşir.",
     "firstAttestation": {
       "source": "Kieffer ve Bianchi, Dictionnaire Turc-Français",
       "period": "1835",
@@ -162,18 +161,11 @@
     },
     "relatives": [
       {
-        "word": "fiyatlandırmak",
-        "relation": "türev"
-      },
-      {
-        "word": "fiyatlamak",
+        "word": "fiyatlandırma",
         "relation": "türev"
       }
     ],
-    "alternatives": [
-      "Nişanyan Sözlük Arapçada tanıklanmayan fiyāt veya fīˀāt biçimlerinden alıntı açıklamasını verir; çoğul biçimin ve paha anlamının Türkçeye özgü olduğunu belirtir.",
-      "Kubbealtı Lugatı fiyatı, paha bildiren fī üzerine Arapça çoğul eki getirilerek Türkçede yapılmış bir kelime olarak açıklar."
-    ],
+    "alternatives": null,
     "funFact": null,
     "sources": [
       {
@@ -182,18 +174,18 @@
         "url": "https://www.nisanyansozluk.com/kelime/fiyat"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "FİYAT – FİAT maddesi",
-        "url": "https://lugatim.com/s/FİYAT"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "fiyat maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "kıymet",
     "word": "kıymet",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -201,24 +193,31 @@
     "chain": [
       {
         "language": "ar",
-        "form": "ḳīma",
-        "meaning": "değer, nicelik",
+        "form": "ḳāma",
+        "meaning": "durdu, sağlam veya değerli oldu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḳīma(t)",
+        "meaning": "bir şeyin değeri veya miktarı",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "kıymet",
-        "meaning": "maddi veya manevi değer",
+        "meaning": "maddi ya da manevi değer",
         "period": null,
         "reconstructed": false
       }
     ],
     "shortMeaning": "Bir şeyin maddi veya manevi değeri.",
-    "currentMeaning": "Bir varlığın para bakımından değeri veya kendisine verilen önem.",
-    "story": "Arapçada bir şeyin değerini ve miktarını anlatan kelime, Türkçeye de değer bildirmek üzere geçti. Türkçedeki eski kullanımında bilginin kıymetinden söz edilmesi, kelimenin yalnızca alışverişle sınırlı olmadığını gösterir. Bugün bir yüzüğün kıymeti parasal karşılığına, bir dostun kıymeti ise ona verilen öneme uzanır.",
+    "currentMeaning": "Bir varlığın para ile ölçülen karşılığı veya taşıdığı önem ve değer.",
+    "story": "Kıymetin dayandığı Arapça ḳāma fiili, durmayı ve sağlam bulunmayı değerli olmayla aynı anlam alanında buluşturur. Bu fiille bağlantılı ḳīma(t), bir şeyin değerini ve miktarını ifade eder. Türkçede kelime yalnızca alışveriş hesabına kapanmamış, erken kullanımında bilginin değerini de anlatmıştır. Bugün bir yüzüğün parasal karşılığıyla bir insanın hayatımızdaki önemini aynı kelimeyle dile getiririz.",
     "firstAttestation": {
-      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "source": "Yusuf Hacib, Kutadgu Bilig",
       "period": "1069",
       "form": "ḳıymatın"
     },
@@ -226,10 +225,6 @@
       {
         "word": "kıymetli",
         "relation": "türev"
-      },
-      {
-        "word": "kıyam",
-        "relation": "akraba"
       }
     ],
     "alternatives": null,
@@ -238,16 +233,21 @@
       {
         "name": "Nişanyan Sözlük",
         "ref": "kıymet maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/kıymet"
+        "url": "https://www.nisanyansozluk.com/kelime/k%C4%B1ymet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kıymet maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "zam",
     "word": "zam",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -255,8 +255,15 @@
     "chain": [
       {
         "language": "ar",
+        "form": "ḍamma",
+        "meaning": "bir araya getirdi, ekledi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
         "form": "ḍamm",
-        "meaning": "katma, birleştirme, toplama",
+        "meaning": "ekleme, birleştirme, toplama işlemi",
         "period": null,
         "reconstructed": false
       },
@@ -268,9 +275,9 @@
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir fiyat veya ücretin artırılması.",
-    "currentMeaning": "Bir malın fiyatına, bir ücrete veya başka bir parasal tutara yapılan artış.",
-    "story": "Arapçadaki kelime, bir şeyi başka bir şeye katmayı ve sayıları toplamayı anlatıyordu. Türkçede de başlangıçta sonradan ekleme eylemi öndeydi. Ücrete eklenen para için kullanıldıkça parasal artış anlamı belirginleşti; bugün zam denince çoğunlukla fiyatın veya aylığın üzerine konan tutar düşünülür.",
+    "shortMeaning": "Bir fiyatın veya ücretin artırılması.",
+    "currentMeaning": "Bir malın fiyatına veya bir kişinin ücretine eklenen artış.",
+    "story": "Zamın ilk resmi, bir şeyin yanına başka bir şeyi katmaktır. Arapça ḍamm hem birleştirmeyi hem de sayıları toplamayı kapsar. Türkçede de önce genel bir ekleme eylemini anlatan kelime, maaşa eklenen paraya ve ardından satış fiyatındaki artışa yerleşmiştir.",
     "firstAttestation": {
       "source": "Meninski, Thesaurus",
       "period": "1680",
@@ -278,12 +285,8 @@
     },
     "relatives": [
       {
-        "word": "zamlanmak",
+        "word": "zamlı",
         "relation": "türev"
-      },
-      {
-        "word": "munzam",
-        "relation": "akraba"
       }
     ],
     "alternatives": null,
@@ -293,15 +296,20 @@
         "name": "Nişanyan Sözlük",
         "ref": "zam maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/zam"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "zam maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "nakit",
     "word": "nakit",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -309,22 +317,29 @@
     "chain": [
       {
         "language": "ar",
+        "form": "naḳada",
+        "meaning": "gagaladı, eleştiri yaptı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
         "form": "naḳd",
-        "meaning": "metal para, akçe",
+        "meaning": "gagalama, eleştiri; madeni para",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "nakit",
-        "meaning": "doğrudan ödemede kullanılan hazır para",
+        "meaning": "elde bulunan ve doğrudan ödenebilen para",
         "period": null,
         "reconstructed": false
       }
     ],
     "shortMeaning": "Ödemede doğrudan kullanılabilen hazır para.",
-    "currentMeaning": "Özellikle banknot ve madeni para biçiminde, hemen ödeme yapmak için kullanılabilen para.",
-    "story": "Arapçada kelimenin para anlamı metal sikkeyle bağlantılıydı. Türkçeye de elde bulunan ve alışverişte verilebilen para adı olarak geçti. Zamanla kâğıt para da bu kapsama girdi; kelimenin odağı paranın metalinden, hemen ödenebilir oluşuna kaydı.",
+    "currentMeaning": "Bir ödeme için hemen kullanılabilen para; özellikle banknot ve madeni para.",
+    "story": "Nakitin Arapça geçmişinde gagalama ve eleştirme eylemleriyle madeni para aynı kelime ailesinde buluşur. Bu anlamların nokta ya da çentik taşıyan sikke üzerinden bağlanmış olması bir köken açıklamasıdır. Türkçenin erken kayıtlarında kelime akçeyle birlikte para karşılığı olarak kullanılır. Günümüzde metal olma özelliği geri çekilmiş, paranın ödemeye hazır bulunması öne çıkmıştır.",
     "firstAttestation": {
       "source": "Codex Cumanicus",
       "period": "1303",
@@ -334,28 +349,31 @@
       {
         "word": "nakden",
         "relation": "akraba"
-      },
-      {
-        "word": "tenkit",
-        "relation": "akraba"
       }
     ],
-    "alternatives": null,
-    "funFact": "Eleştiri bildiren tenkit ile para bildiren nakit aynı Arapça kökü paylaşır.",
+    "alternatives": [
+      "Nişanyan Sözlük gagalama ile para arasındaki anlam bağını nokta, çentik veya işaretli sikke üzerinden olasılıklı biçimde açıklar; Aramice-Süryanice ve İbranice nḳd biçimlerini alıntı basamağı değil, eş kökenli karşılıklar olarak gösterir."
+    ],
+    "funFact": null,
     "sources": [
       {
         "name": "Nişanyan Sözlük",
         "ref": "nakit maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/nakit"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "nakit maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "faiz",
     "word": "faiz",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -364,34 +382,34 @@
       {
         "language": "ar",
         "form": "fāḍa",
-        "meaning": "taştı, arttı",
+        "meaning": "taştı, çoğaldı, dışarı döküldü",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "fāˀiḍ",
-        "meaning": "taşan, artan, fazla",
+        "meaning": "artan veya taşan şey, fazlalık",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "faiz",
-        "meaning": "paranın kullanımına karşılık hesaplanan ek tutar",
+        "meaning": "ödünç verilen paranın getirisi",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Paranın kullanımına karşılık hesaplanan ek tutar.",
-    "currentMeaning": "Ödünç verilen veya bir hesapta tutulan paraya, belirli bir süre ve oran üzerinden hesaplanan karşılık.",
-    "story": "Kelimenin Arapçadaki somut resmi, dolup taşan ve bulunduğu sınırı aşan bir şeydir. Bu taşma düşüncesi fazlalığı anlatan bir sıfata dönüşmüş, para söz konusu olduğunda asıl tutarın üstündeki ek miktarı adlandırmıştır. Türkçede faiz, böylece borcun veya birikimin üzerine hesaplanan parasal fazlalıkta uzmanlaşmıştır.",
-    "firstAttestation": null,
+    "shortMeaning": "Ödünç verilen para karşılığında alınan getiri.",
+    "currentMeaning": "Bir paranın belirli süre kullanılmasına karşılık, ana paraya ek olarak ödenen tutar.",
+    "story": "Faizin ardındaki somut görüntü, dolduğu yerden taşan ve çevresine dökülen bir fazlalıktır. Arapça fāḍa fiilinden oluşan fāˀiḍ, artıp taşanı adlandırır. Para kullanımında bu fazlalık, başlangıçta verilen tutarın üzerine eklenen kazanca dönüşmüştür. Kelime bu alanda ribā terimini daha yumuşak bir ifadeyle karşılamak için benimsenmiştir.",
+    "firstAttestation": {
+      "source": "Evliya Çelebi, Seyahatname",
+      "period": "1665",
+      "form": "fāiżi"
+    },
     "relatives": [
-      {
-        "word": "feyiz",
-        "relation": "akraba"
-      },
       {
         "word": "faizli",
         "relation": "türev"
@@ -404,66 +422,57 @@
         "name": "Nişanyan Sözlük",
         "ref": "faiz maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/faiz"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "faiz maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "taksit",
     "word": "taksit",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
-    "ultimateOrigin": "la",
+    "ultimateOrigin": "arc",
     "chain": [
       {
-        "language": "la",
-        "form": "sextarius",
-        "meaning": "altıda birlik miktar; bir ölçü birimi",
-        "period": null,
-        "reconstructed": false
-      },
-      {
-        "language": "grc",
-        "form": "ksestēs",
-        "meaning": "bir sıvı ölçüsü ve tartı birimi",
-        "period": null,
-        "reconstructed": false
-      },
-      {
         "language": "arc",
-        "form": "ḳīsṭā",
-        "meaning": "standart ölçü birimi",
-        "period": null,
+        "form": "ḳīsthā",
+        "meaning": "belirli bir ağırlığı ölçen tartı birimi",
+        "period": "Geç Antik Çağ",
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "ḳisṭ",
-        "meaning": "ölçülü veya adil pay",
+        "meaning": "hakkaniyetle ayrılan pay, bölüşümde adalet",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "taḳsīṭ",
-        "meaning": "paylara bölme",
+        "meaning": "malı paylara ayırma; payların yazıldığı defter",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "taksit",
-        "meaning": "bölünmüş ödemenin her bir parçası",
+        "meaning": "bölünmüş bir borcun ödeme parçalarından biri",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Belli aralıklarla ödenen borç parçalarının her biri.",
-    "currentMeaning": "Bir borcun, önceden belirlenen zamanlarda ve miktarlarda ödenmek üzere ayrıldığı bölümlerden her biri.",
-    "story": "Kelimenin uzak geçmişinde Roma dünyasında kullanılan bir ölçü birimi vardır. Latince adı Yunanca ve Aramice üzerinden ilerlerken ölçülmüş miktar düşüncesini taşımış, Arapçada adil pay ve paylaştırma kavramlarına bağlanmıştır. Türkçede bu bölüştürme işlemi borca uygulanmış; taksit, bütün borcun belirli aralıklarla ödenen parçalarından birini anlatır olmuştur.",
+    "shortMeaning": "Bir borcun belirli zamanda ödenen parçalarından biri.",
+    "currentMeaning": "Parçalara bölünmüş bir borcun, önceden belirlenen tarihlerde ödenecek bölümlerinden her biri.",
+    "story": "Taksitin uzak geçmişinde, malları tartarken kullanılan standart bir ağırlık birimi bulunur. Aramiceden Arapçaya geçen bu ölçü adı, hakkaniyetli pay ve adil bölüşüm düşüncesiyle bağlantılanmıştır. Arapça taḳsīṭ, mülkü paylara ayırmayı ve bu payların kaydını tutan defteri anlatır. Türkçedeki kullanımda bölünen şey borç olmuş, her ödeme parçası taksit adını almıştır.",
     "firstAttestation": {
       "source": "Ahmed Vefik Paşa, Lehce-i Osmani",
       "period": "1876",
@@ -471,12 +480,8 @@
     },
     "relatives": [
       {
-        "word": "kıstas",
+        "word": "kıst",
         "relation": "akraba"
-      },
-      {
-        "word": "taksitli",
-        "relation": "türev"
       }
     ],
     "alternatives": null,
@@ -488,23 +493,18 @@
         "url": "https://www.nisanyansozluk.com/kelime/taksit"
       },
       {
-        "name": "Nişanyan Sözlük",
-        "ref": "kıstas maddesi; eski dil halkaları",
-        "url": "https://www.nisanyansozluk.com/kelime/kıstas"
-      },
-      {
-        "name": "Kubbealtı Lugatı",
-        "ref": "TAKSİT maddesi",
-        "url": "https://lugatim.com/s/TAKSİT"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "taksit maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "senet",
     "word": "senet",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -513,41 +513,37 @@
       {
         "language": "ar",
         "form": "sanada",
-        "meaning": "dayandı",
+        "meaning": "bir şeye yaslandı, dayandı",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "sanad",
-        "meaning": "dayanak, kanıt, borç belgesi",
+        "meaning": "destek, kanıt; borcu gösteren belge",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "senet",
-        "meaning": "bir hakkı veya borcu belgeleyen yazı",
+        "meaning": "bir borç veya yükümlülüğü gösteren imzalı belge",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir hakkı veya borcu belgeleyen yazılı dayanak.",
-    "currentMeaning": "Bir borcu, hakkı veya hukuki işlemi gösteren ve gerektiğinde kanıt olarak kullanılan belge.",
-    "story": "Arapçada kelimenin temelinde bir yere dayanma ve destek bulma eylemi vardır. Bir iddianın doğruluğunu destekleyen kanıt da bu yüzden aynı adla anlatılmıştır. Türkçede senet, özellikle bir alacağı veya hakkı destekleyen yazılı belgeye yerleşmiş; fiziksel dayanak düşüncesi kâğıt üzerindeki güvenceye dönüşmüştür.",
+    "shortMeaning": "Bir borç veya yükümlülüğü gösteren imzalı belge.",
+    "currentMeaning": "Bir kişinin ödeme ya da bir işi yapma yükümlülüğünü kayıt altına alan imzalı resmî belge.",
+    "story": "Senedin başlangıcında bir yere dayanmak, destek almak vardır. Arapça sanad bu desteği düşünce ve iddia dünyasına taşır: Bir sözün doğruluğu da bir kanıta dayanır. Borcu kanıtlayan yazılı belge bu yüzden aynı adla anılmıştır. Türkçede eski yasal dayanak kullanımıyla bugünkü borç belgesi arasında bu destek fikri sürer.",
     "firstAttestation": {
-      "source": "Munyatu'l-Guzat",
+      "source": "Anonim, Munyatu'l-ġuzāt",
       "period": "1400'den önce",
-      "form": "sened-i"
+      "form": "sened"
     },
     "relatives": [
       {
-        "word": "mesnet",
-        "relation": "akraba"
-      },
-      {
-        "word": "istinat",
-        "relation": "akraba"
+        "word": "senetli",
+        "relation": "türev"
       }
     ],
     "alternatives": null,
@@ -557,15 +553,20 @@
         "name": "Nişanyan Sözlük",
         "ref": "senet maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/senet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "senet maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "makbuz",
     "word": "makbuz",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -574,55 +575,60 @@
       {
         "language": "ar",
         "form": "ḳabaḍa",
-        "meaning": "tuttu, aldı",
+        "meaning": "eline aldı, tuttu",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "maḳbūḍ",
-        "meaning": "tutulmuş, alınmış",
+        "meaning": "ele alınmış, teslim alınmış",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "makbuz",
-        "meaning": "teslim almayı belgeleyen yazı",
+        "meaning": "teslim alınanı belgeleyen yazılı kayıt",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Para veya malın alındığını gösteren belge.",
-    "currentMeaning": "Bir para tutarının veya malın teslim alındığını bildiren yazılı ya da elektronik belge.",
-    "story": "Arapçada kelime, ele geçirilmiş veya teslim alınmış şeyi niteleyen bir sıfattı. Türkçede para tesliminin belgelenmesi sırasında bu alınmışlık durumu belgenin adına taşındı. Böylece makbuz, alınan paradan çok, paranın alındığını kanıtlayan yazıyı anlatır oldu.",
-    "firstAttestation": null,
+    "shortMeaning": "Para veya bir şeyin teslim alındığını gösteren belge.",
+    "currentMeaning": "Bir para ya da eşyanın teslim alındığını doğrulamak amacıyla verilen belge.",
+    "story": "Makbuzun arkasında eliyle tutma ve ele alma eylemi bulunur. Arapça maḳbūḍ, bu eylemin sonucunu, yani artık alınmış olan şeyi niteler. Türkçede kelime zamanla alınan paranın kendisinden, onun teslim alındığını gösteren belgeye yönelmiştir. Böylece bir durumu bildiren ifade, o durumu kanıtlayan kâğıdın adı olmuştur.",
+    "firstAttestation": {
+      "source": "Hoca Sadeddin Efendi, Tacü't-Tevârih",
+      "period": "1574",
+      "form": "maḳbūḍ"
+    },
     "relatives": [
-      {
-        "word": "kabza",
-        "relation": "akraba"
-      },
       {
         "word": "kabz",
         "relation": "akraba"
       }
     ],
     "alternatives": null,
-    "funFact": "Bir silahın elde tutulan bölümünü anlatan kabza, makbuzla aynı kökü paylaşır.",
+    "funFact": null,
     "sources": [
       {
         "name": "Nişanyan Sözlük",
         "ref": "makbuz maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/makbuz"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "makbuz maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "hediye",
     "word": "hediye",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -631,36 +637,36 @@
       {
         "language": "ar",
         "form": "hadā",
-        "meaning": "yol gösterdi",
+        "meaning": "birine yol gösterdi",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
-        "form": "hadiyya",
-        "meaning": "yolluk, uğurluk, armağan",
+        "form": "hadiyya(t)",
+        "meaning": "yolculuk kurbanı, yol için verilen şey; armağan",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "hediye",
-        "meaning": "karşılıksız verilen armağan",
+        "meaning": "birine karşılık beklemeden verilen armağan",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir kimseye karşılıksız verilen armağan.",
-    "currentMeaning": "Sevgi, saygı, teşekkür veya başka bir yakınlık göstermek amacıyla karşılıksız verilen şey.",
-    "story": "Arapçadaki kelimenin anlam çevresinde yolculuk için verilen yolluk ve uğurluk, hatta yol için kesilen kurban bulunur. Yol gösterme köküyle bağlantılı bu ad, her çeşit armağanı kapsayacak biçimde genişlemiştir. Türkçeye geçtiğinde yolculuk bağı zorunlu olmaktan çıkmış, birine sunulan armağanın genel adı olmuştur.",
-    "firstAttestation": null,
+    "shortMeaning": "Birine karşılık beklenmeden verilen armağan.",
+    "currentMeaning": "Sevgi, saygı, teşekkür veya benzeri bir duyguyu göstermek için birine verilen şey.",
+    "story": "Hediyenin geçmişi, Arapçada yol gösterme eylemine uzanır. Hadiyya(t) kelimesinin anlam dünyasında yolculuk için kesilen kurban, uğur getirmesi beklenen sunu ve yola çıkana verilen şeyler vardır. Bu yolculuk çevresi genişleyerek her türlü armağanı içine almıştır. Türkçeye de bu geniş kullanımıyla geçen kelime, birini sevindirmek için verilen şeylerin adı olmuştur.",
+    "firstAttestation": {
+      "source": "Edib Ahmed, Atebet-ül Hakayık",
+      "period": "1250'den önce?",
+      "form": "hedyeni"
+    },
     "relatives": [
       {
-        "word": "hidayet",
-        "relation": "akraba"
-      },
-      {
-        "word": "hediyeleşmek",
+        "word": "hediyelik",
         "relation": "türev"
       }
     ],
@@ -671,15 +677,20 @@
         "name": "Nişanyan Sözlük",
         "ref": "hediye maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/hediye"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hediye maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "emanet",
     "word": "emanet",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -687,32 +698,35 @@
     "chain": [
       {
         "language": "ar",
-        "form": "amāna",
-        "meaning": "güven; güvenilerek bırakılan şey veya görev",
+        "form": "amana",
+        "meaning": "güven duydu, inandı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "amāna(t)",
+        "meaning": "güven; güvenilerek bırakılan şey veya sorumluluk",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "emanet",
-        "meaning": "korunması için birine bırakılan şey",
+        "meaning": "korunması için geçici olarak birine bırakılan şey",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Korunması veya saklanması için güvenilerek bırakılan şey.",
-    "currentMeaning": "Bir kimseye koruması, saklaması veya gerektiğinde geri vermesi için teslim edilen şey; üstlenilen güven sorumluluğu.",
-    "story": "Arapçada kelimenin merkezinde güvenme ve inanma vardır. Bir nesne ya da görev güvenilen kişiye bırakılınca, bu güven ilişkisinin adı bırakılan şeye de geçmiştir. Türkçede emanet edilen eşyanın yanında bir görevin de emanet sayılması, kelimenin hem nesneyi hem sorumluluğu taşıyan eski kapsamını sürdürür.",
-    "firstAttestation": null,
+    "shortMeaning": "Korunması için geçici olarak birine bırakılan şey.",
+    "currentMeaning": "Bir süre korunup daha sonra geri verilmesi veya sahibine ulaştırılması için birine bırakılan eşya, kişi ya da başka bir varlık.",
+    "story": "Emanetin merkezinde bir nesneden önce insanlar arasındaki güven vardır. Arapça amana fiiliyle bağlantılı amāna(t), hem bu güveni hem de güvenilerek birine verilen şeyi veya görevi kapsar. Türkçede güvenceyi anlatan eski kullanımların yanında, korunmak üzere başkasına bırakılan şey öne çıkmıştır. Kelime böylece güven duygusunu somut bir koruma sorumluluğuna bağlar.",
+    "firstAttestation": {
+      "source": "Edib Ahmed, Atebet-ül Hakayık",
+      "period": "1250'den önce?",
+      "form": "amānat"
+    },
     "relatives": [
-      {
-        "word": "emin",
-        "relation": "akraba"
-      },
-      {
-        "word": "emniyet",
-        "relation": "akraba"
-      },
       {
         "word": "emanetçi",
         "relation": "türev"
@@ -725,15 +739,20 @@
         "name": "Nişanyan Sözlük",
         "ref": "emanet maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/emanet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "emanet maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "eşya",
     "word": "eşya",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -742,28 +761,28 @@
       {
         "language": "ar",
         "form": "şayˀ",
-        "meaning": "şey, varlık",
+        "meaning": "şey",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "aşyāˀ",
-        "meaning": "şeyler, varlıklar",
+        "meaning": "birden çok şey, var olanlar",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "eşya",
-        "meaning": "kullanılan veya sahip olunan nesneler",
+        "meaning": "kullanılan taşınabilir nesneler",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Günlük yaşamda kullanılan veya sahip olunan nesneler.",
-    "currentMeaning": "İnsanların kullandığı, taşıdığı veya bir yerde bulundurduğu nesneler; özellikle ev ve kişisel kullanım nesneleri.",
-    "story": "Arapçada kelime yalnızca evdeki nesneleri değil, genel olarak şeyleri ve varlıkları kapsıyordu. Türkçedeki eski kullanımında da bütün varlıklardan eşya diye söz edilebiliyordu. Gündelik kullanımda anlam daralarak mobilyaya, taşınabilir nesnelere ve kişisel gereçlere yöneldi; eşyanın tabiatı ifadesi ise eski geniş kapsamı korudu.",
+    "shortMeaning": "Çeşitli amaçlarla kullanılan taşınabilir nesneler.",
+    "currentMeaning": "İnsanların ihtiyaçları için kullandığı, taşınabilen cansız nesnelerin genel adı.",
+    "story": "Eşya başlangıçta bir evin içindekilerden çok daha geniş bir alanı kapsıyordu. Arapça şayˀ kelimesinin çoğulu olan aşyāˀ, var olan şeyleri topluca anlatır. Türkçenin eski kullanımında da bütün varlıkları kapsayabilen bu kelimenin alanı daralmış, gündelik hayatta kullanılan taşınır nesneler öne çıkmıştır.",
     "firstAttestation": {
       "source": "Seyf-i Sarayî, Gülistan tercümesi",
       "period": "1391",
@@ -773,28 +792,29 @@
       {
         "word": "şey",
         "relation": "akraba"
-      },
-      {
-        "word": "hediyelik eşya",
-        "relation": "birleşik"
       }
     ],
     "alternatives": null,
-    "funFact": null,
+    "funFact": "Eşyanın tabiatı ifadesindeki eşya, yalnızca evdeki nesneleri değil, şeylerin genelini kapsayan eski kullanımı korur.",
     "sources": [
       {
         "name": "Nişanyan Sözlük",
         "ref": "eşya maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/eşya"
+        "url": "https://www.nisanyansozluk.com/kelime/e%C5%9Fya"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "eşya maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "cihaz",
     "word": "cihaz",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -802,32 +822,35 @@
     "chain": [
       {
         "language": "ar",
+        "form": "cahaza",
+        "meaning": "gerekli donanımı sağladı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
         "form": "cahāz",
-        "meaning": "donanım, teçhizat",
+        "meaning": "işe hazırlayan donanım, araç gereç",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "cihaz",
-        "meaning": "belirli bir işi yapan teknik düzenek",
+        "meaning": "belirli bir işlevi yerine getiren aygıt",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Belirli bir işi yapmak için hazırlanmış teknik düzenek.",
-    "currentMeaning": "Bir işlevi yerine getirmek üzere düzenlenmiş araç veya birbirine bağlı parçalar bütünü.",
-    "story": "Arapçada cihaz, bir iş için hazır edilen donanımı anlatıyordu. Türkçedeki eski kullanımında düğün için hazırlanan çeyiz ve armağanlar da bu adla anılıyordu. Aynı donatma düşüncesi teknik araçlara uygulanınca kelime, belirli bir işi yapacak biçimde hazırlanmış düzeneklerin adı olarak yerleşti.",
+    "shortMeaning": "Belirli bir işi yapmaya yarayan aygıt.",
+    "currentMeaning": "Bir işlevi yerine getirmek üzere düzenlenmiş araç veya mekanizma.",
+    "story": "Cihazın geçmişindeki Arapça cahaza fiili, birini veya bir şeyi gerekenlerle donatmayı anlatır. Cahāz da bu hazırlığı sağlayan donanımın ve araç gerecin adıdır. Türkçede geniş donanım kullanımı zamanla belirli işler yapan aygıtlara uzanmıştır. Soğutma ya da kumanda cihazı gibi kullanımlarda kelime artık tek bir teknik düzeneği gösterir.",
     "firstAttestation": {
-      "source": "Danişmendname",
+      "source": "Anonim, Danişmend-Name",
       "period": "1360",
-      "form": "cihāz-ıla"
+      "form": "cihāz"
     },
     "relatives": [
-      {
-        "word": "çeyiz",
-        "relation": "eş köken"
-      },
       {
         "word": "teçhizat",
         "relation": "akraba"
@@ -840,15 +863,20 @@
         "name": "Nişanyan Sözlük",
         "ref": "cihaz maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/cihaz"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "cihaz maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "alet",
     "word": "alet",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -857,23 +885,30 @@
       {
         "language": "ar",
         "form": "āla",
-        "meaning": "araç, düzenek",
+        "meaning": "geri geldi, döndü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "āla(t)",
+        "meaning": "iş görmeye yarayan düzenek veya araç",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "alet",
-        "meaning": "bir işi yapmaya yarayan araç",
+        "meaning": "belirli bir işi yapmak için üretilmiş araç",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir işi yapmaya yarayan araç.",
-    "currentMeaning": "Bir işi gerçekleştirmek, kolaylaştırmak veya bir etki oluşturmak için kullanılan araç.",
-    "story": "Arapçada kelime, iş görmeye yarayan araç ve düzenekleri kapsıyordu. Türkçedeki eski kullanımında da kişinin bir işi başarabilmesi için gereken donanımı anlatıyordu. Bugün çekiçten ölçüm aracına kadar farklı nesnelerin alet sayılmasını sağlayan ortak özellik, insanın yapmak istediği işe aracılık etmeleridir.",
+    "shortMeaning": "Bir işi gerçekleştirmek için yapılmış araç.",
+    "currentMeaning": "Bir el işini veya mekanik işlemi yapmak amacıyla özel olarak üretilmiş nesne.",
+    "story": "Aletin Arapça geçmişinde dönme ve geri gelme hareketini anlatan āla fiili bulunur. Bununla bağlantılı āla(t), iş görmeye yarayan araç ve düzeneklerin adıdır. Türkçedeki erken kullanımında da işin yapılabilmesi için gereken araç öne çıkar; bugünkü kullanım bu pratik işlevi sürdürür.",
     "firstAttestation": {
-      "source": "Âşık Paşa, Garibname",
+      "source": "Aşık Paşa, Garib-name",
       "period": "1330",
       "form": "āleti"
     },
@@ -881,10 +916,6 @@
       {
         "word": "aletli",
         "relation": "türev"
-      },
-      {
-        "word": "şarj aleti",
-        "relation": "birleşik"
       }
     ],
     "alternatives": null,
@@ -894,15 +925,20 @@
         "name": "Nişanyan Sözlük",
         "ref": "alet maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/alet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "alet maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "nakil",
     "word": "nakil",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -911,63 +947,60 @@
       {
         "language": "ar",
         "form": "naḳala",
-        "meaning": "taşıdı, aktardı",
+        "meaning": "bir yerden başka yere taşıdı",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "naḳl",
-        "meaning": "taşıma, aktarma",
+        "meaning": "yer değiştirtme, iletme",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "nakil",
-        "meaning": "bir yerden başka yere taşıma veya aktarma",
+        "meaning": "bir yerden başka bir yere aktarma",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir yerden başka bir yere taşıma veya aktarma.",
-    "currentMeaning": "Bir kişiyi veya şeyi başka bir yere taşıma; bir bilgiyi, sözü ya da anlatıyı aktarma.",
-    "story": "Arapçada kelimenin temelinde bir şeyi bulunduğu yerden alıp başka yere taşıma eylemi vardır. Türkçede de eşyanın, insanların ve organların yer değiştirmesini bu adla anlatırız. Aynı hareket düşüncesi söz ve bilgiye uygulandığında, bir anlatıyı başka birine ulaştırmak da nakil olur.",
+    "shortMeaning": "Bir şeyi bir yerden başka bir yere aktarma.",
+    "currentMeaning": "Bir kimseyi veya şeyi bulunduğu yerden alıp başka bir yere taşıma ya da iletme.",
+    "story": "Naklin çekirdeğinde bir şeyi bulunduğu yerden alıp başka bir yere taşıma eylemi vardır. Arapça naḳala fiili ve ondan oluşan naḳl, bu hareketi adlandırır. Türkçede kelime aynı aktarım fikrini koruyarak insanların, nesnelerin ve anlatılan bilgilerin bir yerden diğerine geçirilmesini ifade eder.",
     "firstAttestation": {
-      "source": "Nehcü'l-Feradis",
+      "source": "Anonim, Nehcü'l-Feradis",
       "period": "1358",
       "form": "naḳl"
     },
     "relatives": [
       {
-        "word": "nakliye",
-        "relation": "akraba"
-      },
-      {
-        "word": "menkul",
-        "relation": "akraba"
-      },
-      {
-        "word": "intikal",
-        "relation": "akraba"
+        "word": "nakletmek",
+        "relation": "birleşik"
       }
     ],
     "alternatives": null,
-    "funFact": null,
+    "funFact": "Eski Türkçe bir kullanımda dünyadan nakil yapmak, ölümü bir yer değiştirme olarak anlatır.",
     "sources": [
       {
         "name": "Nişanyan Sözlük",
         "ref": "nakil maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/nakil"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "nakil maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "malzeme",
     "word": "malzeme",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -975,22 +1008,29 @@
     "chain": [
       {
         "language": "ar",
+        "form": "lazima",
+        "meaning": "gerekli oldu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
         "form": "mā lazima",
-        "meaning": "gereken şey",
+        "meaning": "ihtiyaç duyulan şey",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "malzeme",
-        "meaning": "bir iş veya üretim için gereken nesneler",
+        "meaning": "bir işte ihtiyaç duyulan nesneler",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir iş veya üretim için gereken nesneler.",
-    "currentMeaning": "Bir işi yapmak için kullanılan gereçler veya bir ürünün meydana getirilmesinde kullanılan maddeler.",
-    "story": "Kelime Arapçada gereken şeyi belirten iki parçalı bir ifadeydi. Türkçede bu ifade tek kelime hâline gelerek bir işin yapılabilmesi için hazır bulunması gereken nesneleri topluca adlandırdı. İnşaatta tuğla ve harcın, mutfakta un ve yağın malzeme sayılması, bu gereklilik düşüncesini sürdürür.",
+    "shortMeaning": "Bir işi yapmak için gereken nesneler.",
+    "currentMeaning": "Bir işin yapılmasında veya bir ürünün hazırlanmasında kullanılan gerekli nesnelerin bütünü.",
+    "story": "Malzeme, Arapçada gerekli olmayı anlatan lazima fiiline dayanır. Mā lazima ifadesi, belirli bir maddeyi değil, yapılacak işin gerektirdiği şeyi gösterir. Türkçede bu ifade tek kelime hâlinde yerleşmiş ve söyleyişi bugünkü malzeme biçimine dönüşmüştür. İnşaattan yemek yapmaya kadar farklı işlerde kullanılabilmesi, başlangıçtaki bu geniş ihtiyaç fikrini korur.",
     "firstAttestation": {
       "source": "Meninski, Thesaurus",
       "period": "1680",
@@ -998,20 +1038,12 @@
     },
     "relatives": [
       {
-        "word": "lüzum",
-        "relation": "akraba"
-      },
-      {
         "word": "lazım",
         "relation": "akraba"
-      },
-      {
-        "word": "malzemeci",
-        "relation": "türev"
       }
     ],
     "alternatives": null,
-    "funFact": null,
+    "funFact": "Bugün standart olan malzeme söyleyişi, 1900 tarihli bir sözlükte yanlış kabul ediliyordu.",
     "sources": [
       {
         "name": "Nişanyan Sözlük",
@@ -1019,18 +1051,18 @@
         "url": "https://www.nisanyansozluk.com/kelime/malzeme"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "MALZEME maddesi",
-        "url": "https://lugatim.com/s/MALZEME"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "malzeme maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   },
   {
     "id": "hacim",
     "word": "hacim",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -1038,35 +1070,38 @@
     "chain": [
       {
         "language": "ar",
+        "form": "ḥacama",
+        "meaning": "memeden emdi, hacamat uyguladı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
         "form": "ḥacm",
-        "meaning": "bedendeki kabartı; hacamat",
+        "meaning": "meme, hacamat; deride veya kemik üzerinde çıkıntı",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "hacim",
-        "meaning": "bir cismin uzayda kapladığı yer",
+        "meaning": "bir cismin kapladığı üç boyutlu yer",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir cismin uzayda kapladığı yerin ölçüsü.",
-    "currentMeaning": "Bir cismin üç boyutlu uzayda kapladığı yerin ölçüsü; mecazen bir işin veya etkinliğin büyüklüğü.",
-    "story": "Arapçadaki kelimenin eski anlam çevresinde bedendeki kabartılar, kemik çıkıntıları ve hacamat bulunur. Türkçede de önce bu bedensel kullanımlar görülürken, 19. yüzyılda kelime Fransızca volume karşılığında kullanılmaya başlamıştır. Böylece bedende belirginleşen çıkıntıdan genel büyüklüğe, oradan da cismin kapladığı yerin ölçüsüne uzanan bir anlam kazanmıştır.",
+    "shortMeaning": "Bir cismin uzayda kapladığı üç boyutlu yer.",
+    "currentMeaning": "Bir cismin uzayda kapladığı yerin büyüklüğü.",
+    "story": "Hacmin geçmişi, soyut bir ölçüden önce bedenin çıkıntılarına ve hacamat uygulamasına bağlıdır. Arapça ḥacm, meme ve deri üzerindeki kabarıklıklarla kemik başı gibi belirgin çıkıntıları da adlandırır. Osmanlı Türkçesinde kelime, 19. yüzyılda Fransızca volume karşılığı olarak kullanılmıştır. Böylece bedendeki kabartıdan bir cismin bütün olarak kapladığı yere uzanan bir anlam kazanmıştır.",
     "firstAttestation": {
       "source": "Meninski, Thesaurus",
       "period": "1680",
-      "form": "ḥacm"
+      "form": "hacm"
     },
     "relatives": [
       {
         "word": "hacamat",
         "relation": "akraba"
-      },
-      {
-        "word": "hacimli",
-        "relation": "türev"
       }
     ],
     "alternatives": null,
@@ -1076,15 +1111,20 @@
         "name": "Nişanyan Sözlük",
         "ref": "hacim maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/hacim"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hacim maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "cisim",
     "word": "cisim",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -1093,37 +1133,29 @@
       {
         "language": "ar",
         "form": "cism",
-        "meaning": "beden, gövde",
+        "meaning": "canlının bedeni, gövdesi",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "cisim",
-        "meaning": "uzayda yer kaplayan maddi varlık",
+        "meaning": "maddi varlığı olan nesne",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Uzayda yer kaplayan maddi varlık.",
-    "currentMeaning": "Uzayda yer kaplayan ve maddeden oluşan varlık; nesne.",
-    "story": "Arapçada kelime beden ve gövdeyi anlatıyordu. Türkçedeki eski kullanımı da varlıkların bedenli oluşunu öne çıkarıyordu. Bugünkü daha genel kullanımda canlı bedeninin sınırları aşılmış, taş veya metal parçası gibi maddi varlıklar da cisim adı altında toplanmıştır.",
+    "shortMeaning": "Kütlesi olan ve uzayda yer kaplayan maddi varlık.",
+    "currentMeaning": "Kütlesi bulunan, uzayda yer kaplayan ve duyularla algılanabilen maddi varlık.",
+    "story": "Cisim, Arapça cism biçiminde canlı bir varlığın bedenini ve gövdesini anlatır. Türkçedeki eski kullanımlarında da varlıkların beden sahibi oluşu öne çıkar. Kelimenin kapsamı bedenden maddi varlıkların geneline genişlemiştir; bugün bir taş da metal bir parça da cisim olarak adlandırılabilir.",
     "firstAttestation": {
-      "source": "Âşık Paşa, Garibname",
+      "source": "Aşık Paşa, Garib-name",
       "period": "1330",
       "form": "cismiyle"
     },
     "relatives": [
       {
         "word": "cismani",
-        "relation": "akraba"
-      },
-      {
-        "word": "mücessem",
-        "relation": "akraba"
-      },
-      {
-        "word": "tecessüm",
         "relation": "akraba"
       }
     ],
@@ -1134,45 +1166,57 @@
         "name": "Nişanyan Sözlük",
         "ref": "cisim maddesi",
         "url": "https://www.nisanyansozluk.com/kelime/cisim"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "cisim maddesi",
+        "url": null
       }
     ],
-    "confidence": "orta",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "confidence": "yüksek",
+    "reviewed": false
   },
   {
     "id": "şekil",
     "word": "şekil",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "tartışmalı",
     "donorLanguage": "ar",
-    "ultimateOrigin": "arc",
+    "ultimateOrigin": "akk",
     "chain": [
       {
-        "language": "arc",
-        "form": "şaklīl",
-        "meaning": "tamamlama, biçimleme, bezeme",
+        "language": "akk",
+        "form": "kullatu",
+        "meaning": "eksiksiz, bütün",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "akk",
+        "form": "şuklulu",
+        "meaning": "bütünlük; bir işi tamamlama",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "ar",
         "form": "şakl",
-        "meaning": "biçim, görünüş",
+        "meaning": "bir şeyin biçimi",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
         "form": "şekil",
-        "meaning": "bir şeyin biçimi veya görünüşü",
+        "meaning": "bir şeyin dış görünüşünü belirleyen biçim",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Bir şeyin dış görünüşü veya biçimi.",
-    "currentMeaning": "Bir varlığın dış çizgilerinin oluşturduğu görünüş; biçim, tarz veya açıklayıcı çizim.",
-    "story": "Kelimenin Arapça öncesi açıklamalarından biri, onu Aramicede tamamlama, biçimleme ve bezeme bildiren bir sözcüğe bağlar. Arapçaya doğrudan Akadcadan geçmiş olması da ileri sürüldüğünden bu eski geçiş yolu kesin değildir. Türkçeye ulaşan biçim anlamı ise bir nesnenin dış çizgilerinde somutlaşır; bir işi yapma şekli dendiğinde aynı düzen düşüncesi davranışa uygulanır.",
+    "shortMeaning": "Bir şeyin dış görünüşünü belirleyen biçim.",
+    "currentMeaning": "Bir nesnenin sınırları, çizgileri ve yüzey düzeniyle ortaya çıkan görünüşü veya biçimi.",
+    "story": "Şeklin uzak geçmişinde bir şeyi tam ve bütün hâle getirme düşüncesi vardır. Akkadca şuklulu bu tamamlanmayı anlatırken, onunla eş kökenli Aramice şaklīl ve şiklīl biçimleri biçim verme ve bezemeyi de kapsar. Arapça şakl bu geçmişten biçim adı olarak ayrılır; aktarımın doğrudan Akkadcadan mı, Irak Aramicesi üzerinden mi gerçekleştiği açık değildir. Türkçeye geçtiğinde kelime, bir şeyin tamamlanmış dış görünüşünü anlatan kullanımını korumuştur.",
     "firstAttestation": {
       "source": "Gülşehri, Mantıku't-Tayr",
       "period": "1317",
@@ -1180,36 +1224,28 @@
     },
     "relatives": [
       {
-        "word": "eşkâl",
-        "relation": "akraba"
-      },
-      {
-        "word": "teşkil",
-        "relation": "akraba"
-      },
-      {
-        "word": "şekillenmek",
+        "word": "şekilci",
         "relation": "türev"
       }
     ],
     "alternatives": [
-      "Nişanyan Sözlük ana açıklamada Aramice şaklīl veya şiklīl biçimini gösterirken ek açıklamada Arapçaya Akadcadan ya da Irak Aramicesinden alıntı ihtimallerini belirtir."
+      "Nişanyan Sözlük Arapça şakl için Akkadcadan doğrudan alıntı ile Irak Aramicesi aracılığıyla alıntıyı seçenek olarak verir; zincirde doğrudan Akkadca yolu gösterilmiştir.",
+      "Nişanyan Sözlük Aramice şaklīl ve şiklīl biçimlerini Akkadca şuklulu ile eş kökenli sayar; bunları Akkadcadan Aramiceye kesin bir alıntı basamağı olarak sunmaz."
     ],
     "funFact": null,
     "sources": [
       {
         "name": "Nişanyan Sözlük",
         "ref": "şekil maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/şekil"
+        "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fekil"
       },
       {
-        "name": "Kubbealtı Lugatı",
-        "ref": "ŞEKİL – ŞEKL maddesi",
-        "url": "https://lugatim.com/s/ŞEKİL"
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şekil maddesi",
+        "url": null
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false,
-    "rarity": "gündelik"
+    "reviewed": false
   }
 ]

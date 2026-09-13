@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "kalem",
+    "word": "kalem",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "ḱolh₂mos",
+        "meaning": "kamış",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "grc",
+        "form": "kálamos",
+        "meaning": "kamış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "arc",
+        "form": "ḳalamos",
+        "meaning": "kamış, kamış kalem",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḳalam",
+        "meaning": "kamış, kamış kalem",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kalem",
+        "meaning": "yazı aracı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yazı yazmaya veya çizim yapmaya yarayan araç.",
+    "currentMeaning": "Yazmak, çizmek veya işaret koymak için kullanılan araç.",
+    "story": "Eski Yunancada kálamos kamış demekti. Ucu eğik kesilip mürekkebe batırılan kamış yazı aracına dönüşünce, bitkinin adı aracın da adı oldu. Sözcük Aramice yoluyla Arapçaya ḳalam biçiminde geçti ve Türkçeye oradan alındı. Daha gerisinde, kamış anlamındaki yeniden kurulmuş bir Hint-Avrupa biçimi bulunur.",
+    "firstAttestation": {
+      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "ḳalam"
+    },
+    "relatives": [
+      {
+        "word": "kalemlik",
+        "relation": "türev"
+      },
+      {
+        "word": "dolmakalem",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Kalem, 18. yüzyıldan başlayarak devlet dairelerindeki yazı bürolarının da adı olmuştur.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kalem maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kalem"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kitap",
+    "word": "kitap",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "kitāb",
+        "meaning": "yazılı şey, belge, kitap",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kitap",
+        "meaning": "bir bütün oluşturan yazılı eser",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir bütün oluşturan yazılı veya basılı eser.",
+    "currentMeaning": "Belirli bir düzen içinde sunulan, basılı veya dijital olarak okunabilen eser.",
+    "story": "Kitap, Arapça kitāb sözcüğünden alınmıştır. Bu sözcük, yazmakla ilgili ktb köküne bağlıdır ve belgeyi de anlatabilir. Türkçedeki mektup, mektep ve kâtip sözcükleri aynı kökün farklı biçimlerinden gelir.",
+    "firstAttestation": {
+      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "kitābḳa"
+    },
+    "relatives": [
+      {
+        "word": "kitaplık",
+        "relation": "türev"
+      },
+      {
+        "word": "mektup",
+        "relation": "akraba"
+      },
+      {
+        "word": "kâtip",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Sami dillerinde ktb kökü önce dikmek ve bağlamak anlamındaydı, yazı anlamını İbranice ile Aramicede kazandı.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kitap maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kitap"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kitap maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mektup",
+    "word": "mektup",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "maktūb",
+        "meaning": "yazılmış, yazı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mektup",
+        "meaning": "birine iletilmek üzere yazılmış metin",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Birine haber veya düşünce iletmek için yazılan metin.",
+    "currentMeaning": "Bir kişiye ya da kuruma haber, düşünce, duygu veya istek iletmek amacıyla yazılan metin.",
+    "story": "Mektup, Arapçada yazılmış anlamını taşıyan maktūb biçiminden gelir. Bu biçim, yazmakla ilgili ktb kökünden kurulmuş edilgen bir sıfattır. Türkçede bir alıcıya gönderilen yazının adı olmuştur.",
+    "firstAttestation": {
+      "source": "Ahmed bin Kadı-i Manyas, Gülistan tercümesi",
+      "period": "1429",
+      "form": "mektūb"
+    },
+    "relatives": [
+      {
+        "word": "kitap",
+        "relation": "akraba"
+      },
+      {
+        "word": "mektuplaşmak",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Türkçede 15. yüzyılın ortalarına kadar mektup yerine Türkçe biti ve Farsça nâme kelimeleri kullanılırdı.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mektup maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mektup"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mektup maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sayfa",
+    "word": "sayfa",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ṣaḥīfa(t)",
+        "meaning": "levha, üzerine yazı yazılan yüzey",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sayfa",
+        "meaning": "bir yaprağın yüzlerinden her biri",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir kitap veya defter yaprağının yüzlerinden her biri.",
+    "currentMeaning": "Bir yaprağın ön veya arka yüzü; dijital ortamda içerik sunan bölüm.",
+    "story": "Sayfa, Arapça ṣaḥīfa sözcüğünden gelir. Sözcük, üzerine yazı yazılabilen levha veya yüzey anlamıyla bağlantılıdır. Türkçede sahife biçimi de kullanılmış, sayfa biçimi yaygınlaşmıştır.",
+    "firstAttestation": {
+      "source": "İrşadü'l-Mülûk ve's-Selâtîn",
+      "period": "1387",
+      "form": "sahīfe"
+    },
+    "relatives": [
+      {
+        "word": "sahaf",
+        "relation": "akraba"
+      },
+      {
+        "word": "mushaf",
+        "relation": "akraba"
+      },
+      {
+        "word": "sayfalandırmak",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Arapça ṣaḥīfa sözcüğünün ilk anlamları levha, yüz ve yanaktır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sayfa maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sayfa"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sayfa maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "cümle",
+    "word": "cümle",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "cumla(t)",
+        "meaning": "bütünlük, bütün, dil bilgisinde önerme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "cümle",
+        "meaning": "yargı bildiren söz birimi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir yargı bildiren söz birimi.",
+    "currentMeaning": "Bir düşünceyi, duyguyu veya durumu yargı biçiminde anlatan kelime ya da kelimeler bütünü.",
+    "story": "Cümle, Arapça cumla sözcüğünden alınmıştır. Kaynak dilde bütünlük ve tamlık anlamlarının yanında dil bilgisi terimi olarak da kullanılır. Türkçede bütün anlamındaki kullanımı, cümle âlem gibi sözlerde korunur.",
+    "firstAttestation": {
+      "source": "Âşık Paşa, Garibnâme",
+      "period": "1330",
+      "form": "cümle"
+    },
+    "relatives": [
+      {
+        "word": "cümlecik",
+        "relation": "türev"
+      },
+      {
+        "word": "mücmel",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Bir yapının ana girişine verilen cümle kapısı adı, kelimenin bütün anlamından gelir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "cümle maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/c%C3%BCmle"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "cümle maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kelime",
+    "word": "kelime",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "kalima(t)",
+        "meaning": "söylenen şey, söz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kelime",
+        "meaning": "sözcük",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Anlamı veya dil bilgisel görevi bulunan söz birimi.",
+    "currentMeaning": "Bir dilde anlam veya dil bilgisel görev taşıyan, tek başına ya da başka birimlerle kullanılan sözcük.",
+    "story": "Kelime, Arapça kalima sözcüğünden Türkçeye geçmiştir. Kaynak biçim, söylenen şey ve söz anlamlarını taşır. Kelam da aynı Arapça köke bağlıdır.",
+    "firstAttestation": {
+      "source": "Mukaddimetü'l-Edeb tercümesi",
+      "period": "1300",
+      "form": "kelimeni"
+    },
+    "relatives": [
+      {
+        "word": "kelam",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kelime maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kelime"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kelime maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "harf",
+    "word": "harf",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥarf",
+        "meaning": "keskin kenar; yazı birimi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "harf",
+        "meaning": "alfabeyi oluşturan işaretlerden biri",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Alfabeyi oluşturan yazı işaretlerinden her biri.",
+    "currentMeaning": "Bir dilin yazısında sesleri göstermek için kullanılan alfabe işareti.",
+    "story": "Harf, Arapça ḥarf sözcüğünden gelir. Kaynak sözcüğün yazı birimi yanında keskin ağız veya kenar anlamı da vardır. Nişanyan Sözlük, yazıyla ilgili anlamı sivri uçla çizme ve kazıma eylemiyle ilişkilendirir.",
+    "firstAttestation": {
+      "source": "Âşık Paşa, Garibnâme",
+      "period": "1330",
+      "form": "ḥarf"
+    },
+    "relatives": [
+      {
+        "word": "huruf",
+        "relation": "akraba"
+      },
+      {
+        "word": "tahrif",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Sivri uçla çizmekten yazmaya uzanan anlam yolu, Türkçe çizmek, Yunanca gráphō ve Latince scribere fiillerinde de görülür.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "harf maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/harf"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "harf maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nokta",
+    "word": "nokta",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {
+        "language": "arc",
+        "form": "nəḳūdtā",
+        "meaning": "nokta, yazıda kullanılan noktalama işareti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "nuḳṭa(t)",
+        "meaning": "nokta, yazıda kullanılan noktalama işareti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nokta",
+        "meaning": "küçük iz veya noktalama işareti",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Küçük yuvarlak iz veya cümle sonunda kullanılan işaret.",
+    "currentMeaning": "Küçük bir iz, belirli bir yer ya da konum; yazıda çeşitli görevlerle kullanılan noktalama işareti.",
+    "story": "Noktanın kökeninde, delmek ve noktalamak anlamındaki Aramice nāḳad fiili bulunur. Bu kökten türeyen nəḳūdtā, Arami yazısında kullanılan noktalama işaretlerini adlandırıyordu. Sözcük Arapçaya nuḳṭa biçiminde geçti ve Türkçeye oradan alındı.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "nokta"
+    },
+    "relatives": [
+      {
+        "word": "noktalamak",
+        "relation": "türev"
+      },
+      {
+        "word": "noktasal",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Kelimenin sonundaki t sesi Arapçadan değil, Aramicenin dişil ekinden gelir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "nokta maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/nokta"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tarih",
+    "word": "tarih",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "taˀrīḫ",
+        "meaning": "tarih belirleme, olayları zaman sırasıyla kaydetme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tarih",
+        "meaning": "geçmiş olaylar ve bunların incelenmesi; gün bilgisi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Geçmiş olaylar ve bunların incelenmesi; belirli bir günün bilgisi.",
+    "currentMeaning": "Geçmişteki olayların bütünü ve bunları inceleyen bilim; bir olayın gün, ay ve yıl olarak zamanı.",
+    "story": "Tarih, Arapça taˀrīḫ sözcüğünden alınmıştır. Sözcük, bir günün takvimdeki yerini belirleme ve olayları zaman sırasıyla yazma anlamlarını taşır. Gün belirtme ile geçmişi kaydetme arasındaki bağ, Türkçedeki iki temel anlamında korunur.",
+    "firstAttestation": {
+      "source": "Rabguzi, Kısasü'l-Enbiya tercümesi",
+      "period": "1310",
+      "form": "taˀriḫni"
+    },
+    "relatives": [
+      {
+        "word": "tarihçi",
+        "relation": "türev"
+      },
+      {
+        "word": "tarihsel",
+        "relation": "türev"
+      },
+      {
+        "word": "müverrih",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Tarih kelimesi, Sami dillerinde ay anlamına gelen warḫ biçimiyle ilişkilendirilir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tarih maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/tarih"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "tarih maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "saat",
+    "word": "saat",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "sāˁa(t)",
+        "meaning": "süre, günün yirmi dörtte biri",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "saat",
+        "meaning": "altmış dakikalık süre; zamanı gösteren araç",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Altmış dakikalık süre veya zamanı gösteren araç.",
+    "currentMeaning": "Altmış dakikadan oluşan zaman birimi; zamanı ölçen ve gösteren araç.",
+    "story": "Saat, Arapça sāˁa sözcüğünden Türkçeye geçmiştir. Türkçenin eski tanıklıklarında genel olarak zamanı da anlatır. Zamanı ölçen aracın adı olarak kullanımı, süre bildiren anlamının yanında yerleşmiştir.",
+    "firstAttestation": {
+      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "sāˁatı"
+    },
+    "relatives": [
+      {
+        "word": "saatlik",
+        "relation": "türev"
+      },
+      {
+        "word": "çalar saat",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Günün yirmi dörde bölünmesi milattan önce 600'den önce Babil'de benimsenmiş ve öbür dillere Aramice üzerinden yayılmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "saat maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/saat"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "saat maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "vakit",
+    "word": "vakit",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "waḳt",
+        "meaning": "zamanın belirli bir noktası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "vakit",
+        "meaning": "zaman, belirli süre veya an",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Belirli bir zaman, süre veya an.",
+    "currentMeaning": "Bir olayın gerçekleştiği zaman; bir iş için ayrılan veya kullanılabilen süre.",
+    "story": "Vakit, Arapça waḳt sözcüğünden gelir. Türkçede son iki ünsüzün arasına bir ünlü girerek vakit biçimi oluşmuştur. Vakti ve vaktinde gibi çekimlerde bu ünlü düşer.",
+    "firstAttestation": {
+      "source": "Yusuf Has Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "waḳt"
+    },
+    "relatives": [
+      {
+        "word": "vakitsiz",
+        "relation": "türev"
+      },
+      {
+        "word": "muvakkat",
+        "relation": "akraba"
+      },
+      {
+        "word": "muvakkit",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Codex Cumanicus'ta kahvaltının karşılığı olarak aş vakti kaydedilmiştir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "vakit maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/vakit"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "vakit maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zaman",
+    "word": "zaman",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "peo",
+    "chain": [
+      {
+        "language": "peo",
+        "form": "camānā",
+        "meaning": "zaman, saat",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "pal",
+        "form": "zamān",
+        "meaning": "zaman, saat",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "zamān",
+        "meaning": "vakit, çağ, devir",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "zaman",
+        "meaning": "olayların sıralanmasını ve süresini anlatan kavram",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Olayların sıralanmasını ve süresini anlatan kavram.",
+    "currentMeaning": "Olayların önce ve sonra ilişkisi içinde gerçekleştiği süreklilik; bunun belirli bir bölümü, çağ veya dönem.",
+    "story": "Zaman, Orta Farsçadaki zamān biçiminden Arapçaya, oradan da Türkçeye geçmiştir. Orta Farsça biçimin gerisinde yeniden kurulmuş bir Eski Farsça sözcük bulunur. Aynı kaynaktan Aramice zəmān, Akkadca simānu ve Ermenice jamanag biçimleri de beslenmiştir.",
+    "firstAttestation": {
+      "source": "Âşık Paşa, Garibnâme",
+      "period": "1330",
+      "form": "zamān"
+    },
+    "relatives": [
+      {
+        "word": "zamanlama",
+        "relation": "türev"
+      },
+      {
+        "word": "zamansız",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Türkçeye veren dil olarak Arapça ile Farsçayı birlikte anar."
+    ],
+    "funFact": "Ermenicede zaman anlamına gelen jamanag kelimesi de aynı Orta Farsça biçimden gelir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "zaman maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/zaman"
+      },
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "zaman (زمان) maddesi",
+        "url": "https://lugatim.com/s/zaman"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sabah",
+    "word": "sabah",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ṣabāḥ",
+        "meaning": "gün doğumu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sabah",
+        "meaning": "günün başlangıç bölümü",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Günün aydınlanmasıyla başlayan ve öğleye kadar süren bölüm.",
+    "currentMeaning": "Günün ilk aydınlığından öğleye kadar geçen zaman.",
+    "story": "Sabah, Arapçada gün doğumunu anlatan ṣabāḥ sözcüğünden gelir. Aynı kökte ışımak ve aydınlanmak anlamları da bulunur. Türkçede sözcük, günün aydınlanmasıyla başlayan zaman bölümünü adlandırır.",
+    "firstAttestation": {
+      "source": "Erzurumlu Darir, Kıssa-i Yusuf tercümesi",
+      "period": "1377'den önce",
+      "form": "ṣabāḥ"
+    },
+    "relatives": [
+      {
+        "word": "sabahlık",
+        "relation": "türev"
+      },
+      {
+        "word": "sabahlamak",
+        "relation": "türev"
+      },
+      {
+        "word": "misbah",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Codex Cumanicus'ta sabahın Türkçe karşılıkları olarak tan ve erte verilir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sabah maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sabah"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sabah maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "takvim",
+    "word": "takvim",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "taḳwīm",
+        "meaning": "düzeltme, konum belirleme, takvim",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "takvim",
+        "meaning": "günleri, ayları ve yılları düzenleyen sistem veya çizelge",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Günleri, ayları ve yılları düzenleyen sistem veya çizelge.",
+    "currentMeaning": "Zamanı gün, ay ve yıl gibi birimlere ayıran sistem; bu birimleri veya planlanan işleri gösteren çizelge.",
+    "story": "Takvim, Arapça taḳwīm sözcüğünden alınmıştır. Kaynak dilde düzeltme ve konum belirleme anlamları da vardır. Takvim anlamı, gök cisimlerinin yılın günlerine göre konumlarını gösteren astronomi tablolarıyla bağlantılıdır.",
+    "firstAttestation": {
+      "source": "Hoca Mesud, Ferhengnâme-i Sadi tercümesi",
+      "period": "1342",
+      "form": "taḳvīm"
+    },
+    "relatives": [
+      {
+        "word": "kamet",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "takvim maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/takvim"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "takvim maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "saniye",
+    "word": "saniye",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "s̱āniya(t)",
+        "meaning": "ikinci, ikinci olan şey",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "saniye",
+        "meaning": "dakikanın altmışta biri",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Dakikanın altmışta biri olan zaman birimi.",
+    "currentMeaning": "Bir dakikanın altmışta birine eşit zaman birimi; çok kısa süre.",
+    "story": "Saniye, Arapçada ikinci anlamındaki sāni sözcüğünün dişil biçiminden gelir. Türkçenin eski tanıklıklarında ikinci anlamıyla kullanılır. Zaman birimi anlamı, sözcüğün Türkçedeki tarihinde daha sonra belgelenir.",
+    "firstAttestation": {
+      "source": "Neşrî, Kitab-ı Cihannümâ",
+      "period": "1492",
+      "form": "sāniye"
+    },
+    "relatives": [
+      {
+        "word": "sani",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Fransızca seconde sözcüğü de ikinci ve saniye anlamları arasındaki aynı bağlantıyı taşır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "saniye maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/saniye"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "saniye maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dakika",
+    "word": "dakika",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "daḳīḳa(t)",
+        "meaning": "küçük parça, incelik, derecenin altmışta biri",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dakika",
+        "meaning": "altmış saniyelik zaman birimi; açı birimi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Altmış saniyelik zaman veya derecenin altmışta birlik açı birimi.",
+    "currentMeaning": "Saatin altmışta birine eşit süre; açı ölçümünde bir derecenin altmışta biri.",
+    "story": "Dakika, Arapça daḳīḳa sözcüğünden gelir. Kaynak biçim küçük parça, incelik ve ayrıntı anlamlarını taşır. Türkçedeki eski örneklerinde ince hüner anlamı görülür; zaman ölçüsü olarak kullanımı daha sonraki kaynaklarda belgelenir.",
+    "firstAttestation": {
+      "source": "Seyf-i Sarayî, Gülistan tercümesi",
+      "period": "1391",
+      "form": "dakikanı"
+    },
+    "relatives": [
+      {
+        "word": "dakik",
+        "relation": "akraba"
+      },
+      {
+        "word": "dikkat",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Dakika ile dikkat, Arapçadaki dḳḳ köküne bağlıdır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "dakika maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/dakika"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "dakika maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müddet",
+    "word": "müddet",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "mudda(t)",
+        "meaning": "zamanda veya mekânda uzunluk, süre",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müddet",
+        "meaning": "süre",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir olayın veya durumun devam ettiği süre.",
+    "currentMeaning": "Bir işin, olayın ya da durumun başlangıcı ile sonu arasında geçen zaman.",
+    "story": "Müddet, Arapça mudda sözcüğünden alınmıştır. Sözcük, uzamayla ilgili mdd köküne bağlıdır. Kaynak dilde zaman ve mekân boyunca uzanma düşüncesi bulunurken Türkçede süre anlamıyla kullanılır.",
+    "firstAttestation": {
+      "source": "Edib Ahmed, Atebetü'l-Hakayık",
+      "period": "1250'den önce",
+      "form": "muddat"
+    },
+    "relatives": [
+      {
+        "word": "temdit",
+        "relation": "akraba"
+      },
+      {
+        "word": "imdat",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Müddet ile imdat, uzatma anlamındaki aynı Arapça köke dayanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müddet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCddet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "müddet maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mevsim",
+    "word": "mevsim",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "mawsim",
+        "meaning": "yıl içinde belirli bir işe veya olaya ayrılan dönem",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mevsim",
+        "meaning": "yılın iklimle ayrılan bölümü; belirli bir işin dönemi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yılın iklim özellikleriyle ayrılan bölümü veya belirli bir dönem.",
+    "currentMeaning": "İlkbahar, yaz, sonbahar ve kıştan her biri; bir ürünün yetiştiği veya bir işin yapıldığı dönem.",
+    "story": "Mevsim, Arapça mawsim sözcüğünden gelir. Kaynak dilde hac, yağmur veya yolculuk gibi olayların yıl içindeki dönemlerini anlatır. Türkçede hem yılın iklimle ayrılan bölümleri hem de belirli işlerin uygun zamanı için kullanılır.",
+    "firstAttestation": {
+      "source": "Âşık Paşa, Garibnâme",
+      "period": "1330",
+      "form": "mevsüm"
+    },
+    "relatives": [
+      {
+        "word": "mevsimlik",
+        "relation": "türev"
+      },
+      {
+        "word": "mevsimsel",
+        "relation": "türev"
+      },
+      {
+        "word": "muson",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Muson sözcüğü de mevsimin kaynağı olan Arapça mawsim biçimine dayanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mevsim maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mevsim"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mevsim maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sene",
+    "word": "sene",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "sana(t)",
+        "meaning": "yıl",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sene",
+        "meaning": "yıl",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "On iki aylık zaman dilimi, yıl.",
+    "currentMeaning": "Takvimde on iki aydan oluşan zaman dilimi; yıl.",
+    "story": "Sene, Arapçada yıl anlamına gelen sana sözcüğünden alınmıştır. Türkçede aynı anlamdaki yıl sözcüğüyle birlikte kullanılır. Senelik ve senelerce gibi biçimler, bu alıntı tabana Türkçe ekler getirilerek oluşturulmuştur.",
+    "firstAttestation": {
+      "source": "Neşrî, Kitab-ı Cihannümâ",
+      "period": "1492",
+      "form": "sene"
+    },
+    "relatives": [
+      {
+        "word": "senelik",
+        "relation": "türev"
+      },
+      {
+        "word": "senelerce",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Sene ile saniye, Sami dillerinde iki ve yineleme anlamlarını taşıyan aynı kökle ilişkilendirilir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sene maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sene"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sene maddesi",
+        "url": "https://sozluk.gov.tr/"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
