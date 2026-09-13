@@ -28,10 +28,8 @@
   },
   {
     "id": "bedmest",
-    "verdict": "check",
-    "reasons": [
-      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "behre",
@@ -67,7 +65,7 @@
     "id": "canpare",
     "verdict": "check",
     "reasons": [
-      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
+      "Hiçbir kaynakta kayıt bulunamadı, doğrulanamıyor"
     ]
   },
   {

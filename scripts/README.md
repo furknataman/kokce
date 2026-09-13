@@ -8,7 +8,7 @@ kökünden (`koken/`) çalıştırılır.
 | Yol | İşi |
 |---|---|
 | `schema.md` | Kelime veri şeması. Tek doğruluk kaynağı. |
-| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v12**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
+| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v13**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
 | `prompts/verify_batch.md` | Bağımsız doğrulayıcı prompt'u (v1). `{{ITEMS}}` yer tutucusu. |
 | `fetch_sources.py` | Nişanyan ve TDK kayıtlarını indirir. |
 | `generate_batch.py` | Kelime listesinden parti üretir (`codex exec`). |
@@ -57,6 +57,7 @@ python3 scripts/fetch_sources.py                  # 550 kelime, ~20 dk
 python3 scripts/fetch_sources.py --only kalem,yüz # tek tek
 python3 scripts/fetch_sources.py --force          # var olanları yenile
 python3 scripts/fetch_sources.py --index-only     # yalnızca özeti yeniden üret
+python3 scripts/fetch_sources.py --kubbealti-only # yalnızca eksikler için Kubbealtı
 ```
 
 Her kelime bir kez çekilir, `scripts/sources/<id>.json` olarak saklanır, var
@@ -68,6 +69,15 @@ olan dosya `--force` verilmedikçe atlanır. İstekler arası 1 saniye beklenir.
   eşleşenler alınır (`yüz2` eşleşir, `yüz-` eşleşmez). Saklananlar:
   zincir (dil, biçim, anlam, ilişki — **eskiden yeniye çevrilir**),
   tanıklıklar (tarih, `dateSortable`, eser, alıntı), not, madde bağlantısı.
+- **Kubbealtı Lugatı:** yalnızca ilk iki kaynak boş kaldığında sorulur.
+  `lugatim.com` bir SPA, sayfa HTML'i boş gelir; içerik JS paketindeki
+  `https://eski.lugatim.com/rest/s/<kelime>` uçundan JSON olarak alınır.
+  Bu sunucu sertifika zincirinde ara sertifikayı göndermediği için urllib
+  doğrulayamıyor; yalnızca bu kaynakta `curl` kullanılıyor, doğrulama
+  kapatılmıyor. Madde başları şapkalı yazılır (`TÎR`), varyantlar tire ile
+  ayrılır (`PÎRÂHEN – PÎREHEN`), ekler iki yanı tireli gösterilir (`–TİR–`);
+  eşleştirme şapkasız yapılır ve ek maddeleri elenir. Saklananlar: köken
+  satırı, dil kısaltması, ilk anlam, madde bağlantısı.
 - **TDK:** `gts?ara=<kelime>`; bulunursa dizi, bulunmazsa hata nesnesi döner.
   Saklananlar: `lisan` ve ilk 3 anlam.
 - `%b %i %u` gibi biçim imleri kayıt sırasında temizlenir.
@@ -141,7 +151,8 @@ python3 scripts/crosscheck.py --all --autofix
 
 Partiyi `sources/` ile karşılaştırıp `review/NN.auto.json` yazar. Bakılanlar:
 
-- `donorLanguage` ↔ Nişanyan'ın en yakın aktarım halkası ve TDK `lisan`.
+- `donorLanguage` ↔ Nişanyan'ın en yakın aktarım halkası, TDK `lisan` ve
+  Kubbealtı köken satırındaki kısaltma (`Fars.` → `fa`).
 - Zincir halkaları ve sırası ↔ Nişanyan zinciri. `formationType: birleşik`
   maddelerde **sıra denetlenmez**: düz dizi iki kollu bir bileşiği gösteremez,
   yalnızca eksik ve fazla dil bakılır. Bileşik etiket

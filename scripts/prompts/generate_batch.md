@@ -1,4 +1,4 @@
-# Köken — Üretim Prompt'u (v12)
+# Köken — Üretim Prompt'u (v13)
 
 Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
 bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
@@ -18,8 +18,12 @@ yazıyorsa `rarity` alanına **aynen** onu yaz.
 
 ## Kaynak özetleri
 
-Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
-kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+Aşağıda her kelime için Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve
+gerektiğinde Kubbealtı Lugatı kayıtlarının özeti verilmiştir. **Bu özetler
+esastır.** Kubbealtı bölümü varsa (ilk iki kaynakta madde yoksa gelir) köken
+satırındaki dil kısaltması (`Fars.`, `Ar.`) `donorLanguage` için esastır ve
+kaynak şöyle yazılır:
+`{"name": "Kubbealtı Lugatı", "ref": "<kelime> maddesi", "url": "<verilen bağlantı>"}`.
 
 {{SOURCES}}
 

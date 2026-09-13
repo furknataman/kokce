@@ -147,7 +147,8 @@ def render_source(word, record):
     out = ["### %s" % word]
     nis = (record or {}).get("nisanyan") or {}
     tdk = (record or {}).get("tdk") or {}
-    if not nis.get("found") and not tdk.get("found"):
+    kub = (record or {}).get("kubbealti") or {}
+    if not nis.get("found") and not tdk.get("found") and not kub.get("found"):
         out.append("")
         out.append("Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: "
                    "bildiğini yaz, bilmediğine `null` koy, uydurma.")
@@ -205,6 +206,19 @@ def render_source(word, record):
         if note:
             out.append("")
             out.append("Not: %s" % note)
+        if entry.get("url"):
+            out.append("")
+            out.append("Bağlantı: %s" % entry["url"])
+
+    for entry in (kub.get("entries") or [])[:2]:
+        out.append("")
+        out.append("**Kubbealtı Lugatı — %s**" % (entry.get("kelime") or word))
+        if entry.get("origin"):
+            out.append("")
+            out.append("Köken satırı: %s" % entry["origin"])
+        if entry.get("meaning"):
+            out.append("")
+            out.append("İlk anlam: %s" % entry["meaning"])
         if entry.get("url"):
             out.append("")
             out.append("Bağlantı: %s" % entry["url"])

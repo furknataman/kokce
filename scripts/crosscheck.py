@@ -135,6 +135,16 @@ SOURCE_LANG = {
 # Alıntı olmayan, Türkçenin kendi içinde kalan halkalar.
 NATIVE_CODES = {"tr", "otk"}
 
+# Kubbealtı Lugatı köken satırındaki dil kısaltmaları.
+KUBBEALTI_LANG = {
+    "ar.": "ar", "fars.": "fa", "far.": "fa", "fr.": "fr", "i̇ng.": "en",
+    "ing.": "en", "i̇t.": "it", "it.": "it", "alm.": "de", "lat.": "la",
+    "yun.": "el", "rum.": "el", "rus.": "ru", "erm.": "hy", "i̇br.": "he",
+    "ibr.": "he", "moğ.": "mn", "i̇sp.": "es", "isp.": "es", "port.": "pt",
+    "mac.": "hu", "bulg.": "bg", "sırp.": "sr", "çin.": "zh", "jap.": "ja",
+    "süry.": "syc", "sansk.": "sa", "hind.": "hi", "t.": "tr", "türk.": "tr",
+}
+
 # Dil olmayan kaynak etiketleri: eşlenemedi diye rapor edilmezler.
 NON_LANGUAGE = {
     "özel isim", "kaynağı bilinmeyen kelime", "çocuk dili",
@@ -243,7 +253,18 @@ def pick_entry(record, word_id):
     return entries[0] if entries else None
 
 
-def check_donor(item, entry, tdk, reasons):
+def kubbealti_codes(record):
+    """Kubbealtı köken satırındaki kısaltmalardan dil kodları."""
+    codes = set()
+    for entry in ((record or {}).get("kubbealti") or {}).get("entries") or []:
+        for part in re.split(r"\s*[-–]\s*", entry.get("language") or ""):
+            code = KUBBEALTI_LANG.get(tr_lower(part).strip())
+            if code:
+                codes.add(canon(code))
+    return codes
+
+
+def check_donor(item, entry, tdk, reasons, kub_codes=frozenset()):
     donor = canon(item.get("donorLanguage"))
     nearest_codes, unmapped = set(), set()
     steps = [st for st in (entry or {}).get("chain") or []
@@ -264,7 +285,7 @@ def check_donor(item, entry, tdk, reasons):
             continue
         reasons.append("Kaynaktaki dil adı eşlenemedi: %s" % name)
 
-    expected = nearest_codes | ({tdk_code} if tdk_code else set())
+    expected = nearest_codes | ({tdk_code} if tdk_code else set()) | set(kub_codes)
     if donor is None:
         nearest_rel = tr_lower(steps[-1].get("relation") if steps else "")
         if "alıntı" in nearest_rel and expected - {"tr", "otk", "ota", "tr-new"}:
@@ -510,14 +531,15 @@ def crosscheck_item(item):
                 "reasons": ["Kaynak dosyası yok: scripts/sources/%s.json" % word_id]}
     nis = record.get("nisanyan") or {}
     tdk = record.get("tdk") or {}
-    if not nis.get("found") and not tdk.get("found"):
+    kub = record.get("kubbealti") or {}
+    if not nis.get("found") and not tdk.get("found") and not kub.get("found"):
         return {"id": word_id, "verdict": "check",
-                "reasons": ["Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"]}
+                "reasons": ["Hiçbir kaynakta kayıt bulunamadı, doğrulanamıyor"]}
 
     entry = pick_entry(record, word_id)
     if entry is None and nis.get("found"):
         reasons.append("Nişanyan maddesi id ile eşleşmedi")
-    check_donor(item, entry, tdk, reasons)
+    check_donor(item, entry, tdk, reasons, kubbealti_codes(record))
     check_chain(item, entry, reasons)
     check_attestation(item, entry, reasons)
     check_formation(item, reasons)

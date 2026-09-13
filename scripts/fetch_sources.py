@@ -16,7 +16,9 @@ import datetime
 import json
 import os
 import re
+import subprocess
 import sys
+import html as html_module
 import time
 import unicodedata
 import urllib.error
@@ -32,6 +34,10 @@ INDEX_PATH = os.path.join(SOURCES_DIR, "_index.json")
 
 NISANYAN_URL = "https://www.nisanyansozluk.com/api/words/%s?session=0"
 TDK_URL = "https://sozluk.gov.tr/gts?ara=%s"
+# lugatim.com bir SPA; sayfa HTML'i boş gelir. İçerik bu REST uçtan alınır
+# (adres JS paketindeki baseURL'den).
+KUBBEALTI_URL = "https://eski.lugatim.com/rest/s/%s"
+KUBBEALTI_PAGE = "https://lugatim.com/s/%s"
 USER_AGENT = "Mozilla/5.0"
 REQUEST_TIMEOUT = 20
 POLITE_DELAY = 1.0      # istekler arası bekleme
@@ -41,6 +47,18 @@ RETRIES = 4
 # Nişanyan metinlerinde geçen biçim imleri: %b kalın, %i eğik, %u altı çizili.
 FORMAT_MARK_RE = re.compile(r"%[a-zA-Z]")
 TRAILING_DIGITS_RE = re.compile(r"\d+$")
+TAG_RE = re.compile(r"<[^>]+>")
+PAREN_RE = re.compile(r"\(([^()]*)\)")
+# Kubbealtı köken satırı "(Fars. giristen ...)" biçimindedir.
+ORIGIN_RE = re.compile(r"^([A-ZÇĞİÖŞÜ][a-zçğıöşü]{0,6}\.(?:\s*[-–]\s*"
+                       r"[A-ZÇĞİÖŞÜ][a-zçğıöşü]{0,6}\.)*)\s")
+# Kubbealtı madde başları şapkalı yazılır (TÎR), varyantları tire ile ayırır
+# (PÎRÂHEN – PÎREHEN) ve ekleri iki yanı tireli gösterir (–TİR–).
+FOLD_MAP = str.maketrans({"â": "a", "î": "i", "û": "u", "ç": "c", "ğ": "g",
+                          "ı": "i", "ö": "o", "ş": "s", "ü": "u"})
+VARIANT_SPLIT_RE = re.compile(r"\s*[–—/]\s*")
+AFFIX_RE = re.compile(r"^[–—-]|[–—-]$")
+POS_RE = re.compile(r"^(?:i|sıf|zf|f|e|ünl|zm|bağ|isim|çoğul)\.\s*", re.IGNORECASE)
 
 
 def clean(text):
@@ -176,6 +194,112 @@ def parse_tdk(data):
     return {"found": bool(entries), "entries": entries}
 
 
+def plain_text(markup):
+    """HTML etiketlerini atar, varlıkları çözer, boşlukları toparlar."""
+    if not isinstance(markup, str):
+        return ""
+    text = html_module.unescape(TAG_RE.sub("", markup))
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def parse_kubbealti_entry(item, word):
+    """Tek Kubbealtı maddesinden köken satırı ve ilk anlamı çıkarır."""
+    headword = nfc((item.get("kelime") or "").strip())
+    text = plain_text(item.get("anlam"))
+    if not text:
+        return None
+
+    origin = None
+    rest = text
+    for match in PAREN_RE.finditer(text):
+        inner = match.group(1).strip()
+        if ORIGIN_RE.match(inner):
+            origin = clean(inner)
+            rest = text[match.end():].strip()
+            break
+    else:
+        # Köken satırı yoksa parantezleri atlayıp gövdeye geç.
+        last = None
+        for match in PAREN_RE.finditer(text[:120]):
+            last = match
+        if last:
+            rest = text[last.end():].strip()
+
+    rest = POS_RE.sub("", rest).strip()
+    rest = re.sub(r"^1\.\s*", "", rest)
+    # Anlamdan sonra iki nokta gelir ve örnek cümleler başlar.
+    meaning = re.split(r"\s*:\s|\s2\.\s", rest, maxsplit=1)[0]
+    language = None
+    if origin:
+        abbr = ORIGIN_RE.match(origin)
+        language = abbr.group(1).strip() if abbr else None
+
+    return {
+        "kelime": headword,
+        "language": language,
+        "origin": origin,
+        "meaning": clean(meaning[:400]),
+        "url": KUBBEALTI_PAGE % urllib.parse.quote(nfc(word).strip(), safe=""),
+    }
+
+
+def get_json_curl(url):
+    """curl ile çeker.
+
+    eski.lugatim.com sertifika zincirinde ara sertifikayı göndermiyor;
+    OpenSSL bunu tamamlayamadığı için urllib "unable to get local issuer
+    certificate" veriyor. curl (macOS Security çatısı) zinciri tamamlayıp
+    doğruluyor, bu yüzden yalnızca bu kaynakta curl kullanılıyor.
+    Doğrulama kapatılmıyor.
+    """
+    result = subprocess.run(
+        ["curl", "-sS", "--fail", "--max-time", str(REQUEST_TIMEOUT),
+         "-H", "User-Agent: %s" % USER_AGENT, url],
+        capture_output=True, text=True)
+    if result.returncode != 0:
+        raise OSError(result.stderr.strip() or "curl çıkış kodu %d"
+                      % result.returncode)
+    return json.loads(result.stdout)
+
+
+def fetch_kubbealti(word):
+    url = KUBBEALTI_URL % urllib.parse.quote(word, safe="")
+    try:
+        return get_json_curl(url), None
+    except (OSError, ValueError) as exc:
+        return None, str(exc)
+
+
+def fold(text):
+    """Küçük harf + şapkasız biçim: 'TÎR' → 'tir'."""
+    return slugify_id(text or "").translate(FOLD_MAP)
+
+
+def headword_matches(headword, word):
+    """Şapka ve varyant farklarını yok sayarak eşleştirir; ekleri eler."""
+    headword = nfc((headword or "").strip())
+    if not headword or AFFIX_RE.search(headword):
+        return False  # –TİR– gibi ek maddeleri madde başı değildir
+    target = fold(word)
+    return any(fold(v) == target for v in VARIANT_SPLIT_RE.split(headword) if v)
+
+
+def parse_kubbealti(data, word):
+    """Madde başıyla eşleşen kayıtları alır."""
+    if not isinstance(data, dict):
+        return {"found": False, "entries": []}
+    entries = []
+    for item in data.get("content") or []:
+        if not isinstance(item, dict):
+            continue
+        if not headword_matches(item.get("kelime"), word):
+            continue
+        parsed = parse_kubbealti_entry(item, word)
+        if parsed:
+            entries.append(parsed)
+    return {"found": bool(entries), "entries": entries}
+
+
 def load_words(path):
     with open(path, encoding="utf-8") as handle:
         data = json.load(handle)
@@ -203,17 +327,63 @@ def fetch_one(word, path):
     if tdk_error:
         tdk["error"] = tdk_error
 
+    # Kubbealtı yalnızca ilk iki kaynak boş kaldığında sorulur.
+    kubbealti = {"found": False, "entries": []}
+    if not nisanyan["found"] and not tdk["found"]:
+        time.sleep(POLITE_DELAY)
+        kub_raw, kub_error = fetch_kubbealti(word)
+        kubbealti = parse_kubbealti(kub_raw, word)
+        if kub_error:
+            kubbealti["error"] = kub_error
+
     record = {
         "id": slugify_id(word),
         "word": nfc(word),
         "fetchedAt": datetime.datetime.now().astimezone().isoformat(timespec="seconds"),
         "nisanyan": nisanyan,
         "tdk": tdk,
+        "kubbealti": kubbealti,
     }
     with open(path, "w", encoding="utf-8") as handle:
         json.dump(record, handle, ensure_ascii=False, indent=2)
         handle.write("\n")
     return record
+
+
+def fill_kubbealti(directory, force=False):
+    """Var olan kayıtlarda Nişanyan ve TDK boşsa Kubbealtı bölümünü doldurur.
+
+    Nişanyan ve TDK'ye yeniden istek atmaz.
+    """
+    filled = found = 0
+    names = sorted(n for n in os.listdir(directory)
+                   if n.endswith(".json") and not n.startswith("_"))
+    for name in names:
+        path = os.path.join(directory, name)
+        with open(path, encoding="utf-8") as handle:
+            record = json.load(handle)
+        if (record.get("nisanyan") or {}).get("found"):
+            continue
+        if (record.get("tdk") or {}).get("found"):
+            continue
+        if record.get("kubbealti") and not force:
+            continue
+        word = record.get("word") or record.get("id")
+        kub_raw, kub_error = fetch_kubbealti(word)
+        kubbealti = parse_kubbealti(kub_raw, word)
+        if kub_error:
+            kubbealti["error"] = kub_error
+        record["kubbealti"] = kubbealti
+        with open(path, "w", encoding="utf-8") as handle:
+            json.dump(record, handle, ensure_ascii=False, indent=2)
+            handle.write("\n")
+        filled += 1
+        if kubbealti["found"]:
+            found += 1
+        print("%s [%s]" % (word, "K" if kubbealti["found"] else "-"), flush=True)
+        time.sleep(POLITE_DELAY)
+    print("\nKubbealtı sorulan: %d · bulunan: %d" % (filled, found))
+    return filled, found
 
 
 def write_index(directory):
@@ -228,14 +398,17 @@ def write_index(directory):
             "word": record.get("word"),
             "nisanyan": bool((record.get("nisanyan") or {}).get("found")),
             "tdk": bool((record.get("tdk") or {}).get("found")),
+            "kubbealti": bool((record.get("kubbealti") or {}).get("found")),
         }
     both = sum(1 for e in entries.values() if e["nisanyan"] and e["tdk"])
-    neither = sum(1 for e in entries.values() if not e["nisanyan"] and not e["tdk"])
+    neither = sum(1 for e in entries.values()
+                  if not e["nisanyan"] and not e["tdk"] and not e.get("kubbealti"))
     index = {
         "generatedAt": datetime.datetime.now().astimezone().isoformat(timespec="seconds"),
         "total": len(entries),
         "nisanyanFound": sum(1 for e in entries.values() if e["nisanyan"]),
         "tdkFound": sum(1 for e in entries.values() if e["tdk"]),
+        "kubbealtiFound": sum(1 for e in entries.values() if e.get("kubbealti")),
         "bothFound": both,
         "neitherFound": neither,
         "words": entries,
@@ -257,14 +430,25 @@ def main(argv=None):
                         help="Var olan kayıtları yeniden indirir.")
     parser.add_argument("--index-only", action="store_true",
                         help="İndirme yapmaz, yalnızca _index.json üretir.")
+    parser.add_argument("--kubbealti-only", action="store_true",
+                        help="Yalnızca Nişanyan ve TDK boş olan kayıtlarda "
+                             "Kubbealtı bölümünü doldurur.")
     args = parser.parse_args(argv)
 
     os.makedirs(SOURCES_DIR, exist_ok=True)
+    if args.kubbealti_only:
+        fill_kubbealti(SOURCES_DIR, force=args.force)
+        index = write_index(SOURCES_DIR)
+        print("Nişanyan: %d · TDK: %d · Kubbealtı: %d · hiçbiri: %d"
+              % (index["nisanyanFound"], index["tdkFound"],
+                 index["kubbealtiFound"], index["neitherFound"]))
+        return 0
     if args.index_only:
         index = write_index(SOURCES_DIR)
-        print("Özet: %d kayıt · Nişanyan %d · TDK %d · ikisi de %d · hiçbiri %d"
+        print("Özet: %d kayıt · Nişanyan %d · TDK %d · Kubbealtı %d · "
+              "hiçbiri %d"
               % (index["total"], index["nisanyanFound"], index["tdkFound"],
-                 index["bothFound"], index["neitherFound"]))
+                 index["kubbealtiFound"], index["neitherFound"]))
         return 0
 
     if args.only:
@@ -291,16 +475,17 @@ def main(argv=None):
             continue
         fetched += 1
         marks = ("N" if record["nisanyan"]["found"] else "-") + \
-                ("T" if record["tdk"]["found"] else "-")
+                ("T" if record["tdk"]["found"] else "-") + \
+                ("K" if record["kubbealti"]["found"] else "-")
         print("%d/%d %s [%s]" % (i, total, word, marks), flush=True)
         time.sleep(POLITE_DELAY)
 
     index = write_index(SOURCES_DIR)
     print("\nİndirilen: %d · atlanan: %d · toplam kayıt: %d"
           % (fetched, skipped, index["total"]))
-    print("Nişanyan bulundu: %d · TDK bulundu: %d · ikisi de: %d · hiçbiri: %d"
-          % (index["nisanyanFound"], index["tdkFound"], index["bothFound"],
-             index["neitherFound"]))
+    print("Nişanyan: %d · TDK: %d · Kubbealtı: %d · ilk ikisi de: %d · hiçbiri: %d"
+          % (index["nisanyanFound"], index["tdkFound"], index["kubbealtiFound"],
+             index["bothFound"], index["neitherFound"]))
     return 0
 
 
