@@ -1,0 +1,1620 @@
+[
+  {
+    "id": "kalem",
+    "word": "kalem",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ḱolh₂mos", "meaning": "kamış", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+      {"language": "arc", "form": "ḳalamos", "meaning": "kamış, kamış kalem", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḳalam", "meaning": "kamış, kamış kalem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yazı yazmaya veya çizim yapmaya yarayan araç.",
+    "currentMeaning": "Yazmak, çizmek veya işaret koymak için kullanılan araç.",
+    "story": "Kalem, Türkçeye Arapçadan geçmiştir. Arapça biçimin gerisinde Aramice ḳalamos ve Eski Yunanca kálamos bulunur. Kamışın yazı aracı olarak kullanılması, bitkinin adıyla aracın adını birleştirmiştir. Nişanyan Sözlük bu zinciri, kamış anlamındaki yeniden kurulmuş bir Hint-Avrupa biçimine kadar götürür.",
+    "firstAttestation": {"source": "Yusuf Has Hacib, Kutadgu Bilig", "period": "1069", "form": "ḳalam"},
+    "relatives": [{"word": "kalemlik", "relation": "türev"}, {"word": "dolmakalem", "relation": "birleşik"}],
+    "alternatives": null,
+    "funFact": "Kalem sözcüğünün büro anlamındaki kullanımı da Nişanyan Sözlük'te kaydedilir.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "defter",
+    "word": "defter",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "diphthéra", "meaning": "tabaklanmış deri, yazı için hazırlanmış deri", "period": null, "reconstructed": false},
+      {"language": "arc", "form": "diphterā", "meaning": "yazı tableti, kodeks", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "daftar", "meaning": "defter", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "defter", "meaning": "yazı yazmak için birleştirilmiş yapraklar", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yazı yazmak için bir araya getirilmiş kâğıt yaprakları.",
+    "currentMeaning": "Not, hesap veya başka kayıtlar tutmak için yaprakları birleştirilmiş yazı gereci.",
+    "story": "Defterin kökenindeki Eski Yunanca diphthéra, tabaklanmış deriyi ve yazı için hazırlanmış deri tabakasını anlatıyordu. Sözcük Aramice üzerinden Arapçaya, oradan Türkçeye geçti. Böylece eski bir yazı yüzeyinin adı, kâğıt yapraklarından oluşan gerecin adı olarak yaşamayı sürdürdü.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "taftar"},
+    "relatives": [{"word": "defterdar", "relation": "birleşik"}, {"word": "difteri", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": "Difteri hastalığının adı da defterin kökenindeki Eski Yunanca sözcükle bağlantılıdır.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "defter maddesi", "url": "https://www.nisanyansozluk.com/kelime/defter"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kitap",
+    "word": "kitap",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "kitāb", "meaning": "yazılı şey, belge, kitap", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kitap", "meaning": "bir bütün oluşturan yazılı eser", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir bütün oluşturan yazılı veya basılı eser.",
+    "currentMeaning": "Belirli bir düzen içinde sunulan, basılı veya dijital olarak okunabilen eser.",
+    "story": "Kitap, Arapça kitāb sözcüğünden alınmıştır. Bu sözcük, yazmakla ilgili ktb köküne bağlıdır ve belgeyi de anlatabilir. Türkçedeki mektup, mektep ve kâtip sözcükleri aynı kökün farklı biçimlerinden gelir.",
+    "firstAttestation": {"source": "Yusuf Has Hacib, Kutadgu Bilig", "period": "1069", "form": "kitābḳa"},
+    "relatives": [{"word": "kitaplık", "relation": "türev"}, {"word": "mektup", "relation": "akraba"}, {"word": "kâtip", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": "Kutadgu Bilig'deki tanıklıkta kitap sözcüğü yönelme ekiyle kullanılır.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "kitap maddesi", "url": "https://www.nisanyansozluk.com/kelime/kitap"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mektup",
+    "word": "mektup",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "maktūb", "meaning": "yazılmış, yazı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mektup", "meaning": "birine iletilmek üzere yazılmış metin", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birine haber veya düşünce iletmek için yazılan metin.",
+    "currentMeaning": "Bir kişiye ya da kuruma haber, düşünce, duygu veya istek iletmek amacıyla yazılan metin.",
+    "story": "Mektup, Arapçada yazılmış anlamını taşıyan maktūb biçiminden gelir. Bu biçim, yazmakla ilgili ktb kökünden kurulmuş edilgen bir sıfattır. Türkçede bir alıcıya gönderilen yazının adı olmuştur.",
+    "firstAttestation": {"source": "Ahmed bin Kadı-i Manyas, Gülistan tercümesi", "period": "1429", "form": "mektūb"},
+    "relatives": [{"word": "kitap", "relation": "akraba"}, {"word": "mektuplaşmak", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "mektup maddesi", "url": "https://www.nisanyansozluk.com/kelime/mektup"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sayfa",
+    "word": "sayfa",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ṣaḥīfa(t)", "meaning": "levha, üzerine yazı yazılan yüzey", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sayfa", "meaning": "bir yaprağın yüzlerinden her biri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir kitap veya defter yaprağının yüzlerinden her biri.",
+    "currentMeaning": "Bir yaprağın ön veya arka yüzü; dijital ortamda içerik sunan bölüm.",
+    "story": "Sayfa, Arapça ṣaḥīfa sözcüğünden gelir. Sözcük, üzerine yazı yazılabilen levha veya yüzey anlamıyla bağlantılıdır. Türkçede sahife biçimi de kullanılmış, sayfa biçimi yaygınlaşmıştır.",
+    "firstAttestation": {"source": "İrşadü'l-Mülûk ve's-Selâtîn", "period": "1387", "form": "sahīfe"},
+    "relatives": [{"word": "sahaf", "relation": "akraba"}, {"word": "mushaf", "relation": "akraba"}, {"word": "sayfalandırmak", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "sayfa maddesi", "url": "https://www.nisanyansozluk.com/kelime/sayfa"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "cümle",
+    "word": "cümle",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "cumla(t)", "meaning": "bütünlük, bütün, dil bilgisinde önerme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "cümle", "meaning": "yargı bildiren söz birimi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yargı bildiren söz birimi.",
+    "currentMeaning": "Bir düşünceyi, duyguyu veya durumu yargı biçiminde anlatan kelime ya da kelimeler bütünü.",
+    "story": "Cümle, Arapça cumla sözcüğünden alınmıştır. Kaynak dilde bütünlük ve tamlık anlamlarının yanında dil bilgisi terimi olarak da kullanılır. Türkçede bütün anlamındaki kullanımı, cümle âlem gibi sözlerde korunur.",
+    "firstAttestation": {"source": "Âşık Paşa, Garibnâme", "period": "1330", "form": "cümle"},
+    "relatives": [{"word": "cümlecik", "relation": "türev"}, {"word": "cemal", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": "Cümle ile cemal, Arapçadaki cml kökünde birleşir.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "cümle maddesi", "url": "https://www.nisanyansozluk.com/kelime/c%C3%BCmle"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kelime",
+    "word": "kelime",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "kalima(t)", "meaning": "söylenen şey, söz", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kelime", "meaning": "sözcük", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Anlamı veya dil bilgisel görevi bulunan söz birimi.",
+    "currentMeaning": "Bir dilde anlam veya dil bilgisel görev taşıyan, tek başına ya da başka birimlerle kullanılan sözcük.",
+    "story": "Kelime, Arapça kalima sözcüğünden Türkçeye geçmiştir. Kaynak biçim, söylenen şey ve söz anlamlarını taşır. Kelam da aynı Arapça köke bağlıdır.",
+    "firstAttestation": {"source": "Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "kelimeni"},
+    "relatives": [{"word": "kelam", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "kelime maddesi", "url": "https://www.nisanyansozluk.com/kelime/kelime"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "harf",
+    "word": "harf",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥarf", "meaning": "keskin kenar; yazı birimi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "harf", "meaning": "alfabeyi oluşturan işaretlerden biri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Alfabeyi oluşturan yazı işaretlerinden her biri.",
+    "currentMeaning": "Bir dilin yazısında sesleri göstermek için kullanılan alfabe işareti.",
+    "story": "Harf, Arapça ḥarf sözcüğünden gelir. Kaynak sözcüğün yazı birimi yanında keskin ağız veya kenar anlamı da vardır. Nişanyan Sözlük, yazıyla ilgili anlamı sivri uçla çizme ve kazıma eylemiyle ilişkilendirir.",
+    "firstAttestation": {"source": "Âşık Paşa, Garibnâme", "period": "1330", "form": "ḥarf"},
+    "relatives": [{"word": "huruf", "relation": "türev"}, {"word": "tahrif", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": "Huruf, harf sözcüğünün Arapçadaki çoğul biçimidir.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "harf maddesi", "url": "https://www.nisanyansozluk.com/kelime/harf"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nokta",
+    "word": "nokta",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {"language": "arc", "form": "nəḳūdtā", "meaning": "nokta, yazıda kullanılan noktalama işareti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "nuḳṭa(t)", "meaning": "nokta, yazıda kullanılan noktalama işareti", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nokta", "meaning": "küçük iz veya noktalama işareti", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Küçük yuvarlak iz veya cümle sonunda kullanılan işaret.",
+    "currentMeaning": "Küçük bir iz, belirli bir yer ya da konum; yazıda çeşitli görevlerle kullanılan noktalama işareti.",
+    "story": "Nokta, Türkçeye Arapça nuḳṭa biçiminden geçmiştir. Nişanyan Sözlük, Arapça sözcüğü Aramice nəḳūdtā biçimine bağlar. Aramicedeki kök, delme ve noktalama eylemleriyle ilişkilidir.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "nokta"},
+    "relatives": [{"word": "noktalamak", "relation": "türev"}, {"word": "noktasal", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "nokta maddesi", "url": "https://www.nisanyansozluk.com/kelime/nokta"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tarih",
+    "word": "tarih",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "taˀrīχ", "meaning": "tarih belirleme, olayları zaman sırasıyla kaydetme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tarih", "meaning": "geçmiş olaylar ve bunların incelenmesi; gün bilgisi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Geçmiş olaylar ve bunların incelenmesi; belirli bir günün bilgisi.",
+    "currentMeaning": "Geçmişteki olayların bütünü ve bunları inceleyen bilim; bir olayın gün, ay ve yıl olarak zamanı.",
+    "story": "Tarih, Arapça taˀrīχ sözcüğünden alınmıştır. Sözcük, bir günün takvimdeki yerini belirleme ve olayları zaman sırasıyla yazma anlamlarını taşır. Gün belirtme ile geçmişi kaydetme arasındaki bağ, Türkçedeki iki temel anlamında korunur.",
+    "firstAttestation": {"source": "Rabguzi, Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "taˀriḫni"},
+    "relatives": [{"word": "tarihçi", "relation": "türev"}, {"word": "tarihsel", "relation": "türev"}, {"word": "müverrih", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "tarih maddesi", "url": "https://www.nisanyansozluk.com/kelime/tarih"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "saat",
+    "word": "saat",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sāˁa(t)", "meaning": "süre, günün yirmi dörtte biri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "saat", "meaning": "altmış dakikalık süre; zamanı gösteren araç", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Altmış dakikalık süre veya zamanı gösteren araç.",
+    "currentMeaning": "Altmış dakikadan oluşan zaman birimi; zamanı ölçen ve gösteren araç.",
+    "story": "Saat, Arapça sāˁa sözcüğünden Türkçeye geçmiştir. Türkçenin eski tanıklıklarında genel olarak zamanı da anlatır. Zamanı ölçen aracın adı olarak kullanımı, süre bildiren anlamının yanında yerleşmiştir.",
+    "firstAttestation": {"source": "Yusuf Has Hacib, Kutadgu Bilig", "period": "1069", "form": "sāˁatı"},
+    "relatives": [{"word": "saatlik", "relation": "türev"}, {"word": "çalar saat", "relation": "birleşik"}],
+    "alternatives": null,
+    "funFact": "Nişanyan Sözlük, saat sözcüğünün araç anlamına Evliya Çelebi'den örnek verir.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "saat maddesi", "url": "https://www.nisanyansozluk.com/kelime/saat"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "vakit",
+    "word": "vakit",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "waḳt", "meaning": "zamanın belirli bir noktası", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "vakit", "meaning": "zaman, belirli süre veya an", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Belirli bir zaman, süre veya an.",
+    "currentMeaning": "Bir olayın gerçekleştiği zaman; bir iş için ayrılan veya kullanılabilen süre.",
+    "story": "Vakit, Arapça waḳt sözcüğünden gelir. Türkçede son iki ünsüzün arasına bir ünlü girerek vakit biçimi oluşmuştur. Vakti ve vaktinde gibi çekimlerde bu ünlü düşer.",
+    "firstAttestation": {"source": "Yusuf Has Hacib, Kutadgu Bilig", "period": "1069", "form": "waḳt"},
+    "relatives": [{"word": "vakitsiz", "relation": "türev"}, {"word": "muvakkat", "relation": "akraba"}, {"word": "muvakkit", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "vakit maddesi", "url": "https://www.nisanyansozluk.com/kelime/vakit"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "zaman",
+    "word": "zaman",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "peo",
+    "chain": [
+      {"language": "peo", "form": "camānā", "meaning": "zaman, saat", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "zamān", "meaning": "zaman, saat", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "zamān", "meaning": "vakit, çağ, devir", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "zaman", "meaning": "olayların sıralanmasını ve süresini anlatan kavram", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Olayların sıralanmasını ve süresini anlatan kavram.",
+    "currentMeaning": "Olayların önce ve sonra ilişkisi içinde gerçekleştiği süreklilik; bunun belirli bir bölümü, çağ veya dönem.",
+    "story": "Kubbealtı Lugatı zamanın Türkçeye veren dilini Arapça olarak gösterir. Nişanyan Sözlük Arapça ve Farsça zamān biçimlerini birlikte anar ve sözcüğün geçmişini Orta Farsçaya bağlar. Buradaki zincir Arapça üzerinden aktarımı gösterir. Zincirin Eski Farsça halkası, doğrudan tanıklanmış bir biçim değil, yeniden kurulmuş bir biçimdir.",
+    "firstAttestation": {"source": "Âşık Paşa, Garibnâme", "period": "1330", "form": "zamān"},
+    "relatives": [{"word": "zamanlama", "relation": "türev"}, {"word": "zamansız", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "zaman maddesi", "url": "https://www.nisanyansozluk.com/kelime/zaman"},
+      {"name": "Kubbealtı Lugatı", "ref": "zaman (زمان) maddesi", "url": "https://lugatim.com/s/zaman"}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sabah",
+    "word": "sabah",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ṣabāḥ", "meaning": "gün doğumu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sabah", "meaning": "günün başlangıç bölümü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Günün aydınlanmasıyla başlayan ve öğleye kadar süren bölüm.",
+    "currentMeaning": "Günün ilk aydınlığından öğleye kadar geçen zaman.",
+    "story": "Sabah, Arapçada gün doğumunu anlatan ṣabāḥ sözcüğünden gelir. Aynı kökte ışımak ve aydınlanmak anlamları da bulunur. Türkçede sözcük, günün aydınlanmasıyla başlayan zaman bölümünü adlandırır.",
+    "firstAttestation": {"source": "Erzurumlu Darir, Kıssa-i Yusuf tercümesi", "period": "1377'den önce", "form": "ṣabāḥ"},
+    "relatives": [{"word": "sabahlık", "relation": "türev"}, {"word": "sabahlamak", "relation": "türev"}, {"word": "misbah", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "sabah maddesi", "url": "https://www.nisanyansozluk.com/kelime/sabah"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "takvim",
+    "word": "takvim",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "taḳwīm", "meaning": "düzeltme, konum belirleme, takvim", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "takvim", "meaning": "günleri, ayları ve yılları düzenleyen sistem veya çizelge", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Günleri, ayları ve yılları düzenleyen sistem veya çizelge.",
+    "currentMeaning": "Zamanı gün, ay ve yıl gibi birimlere ayıran sistem; bu birimleri veya planlanan işleri gösteren çizelge.",
+    "story": "Takvim, Arapça taḳwīm sözcüğünden alınmıştır. Kaynak dilde düzeltme ve konum belirleme anlamları da vardır. Takvim anlamı, gök cisimlerinin yılın günlerine göre konumlarını gösteren astronomi tablolarıyla bağlantılıdır.",
+    "firstAttestation": {"source": "Hoca Mesud, Ferhengnâme-i Sadi tercümesi", "period": "1342", "form": "taḳvīm"},
+    "relatives": [{"word": "kamet", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "takvim maddesi", "url": "https://www.nisanyansozluk.com/kelime/takvim"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "saniye",
+    "word": "saniye",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "s̱āniya(t)", "meaning": "ikinci, ikinci olan şey", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "saniye", "meaning": "dakikanın altmışta biri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dakikanın altmışta biri olan zaman birimi.",
+    "currentMeaning": "Bir dakikanın altmışta birine eşit zaman birimi; çok kısa süre.",
+    "story": "Saniye, Arapçada ikinci anlamındaki sāni sözcüğünün dişil biçiminden gelir. Türkçenin eski tanıklıklarında ikinci anlamıyla kullanılır. Zaman birimi anlamı, sözcüğün Türkçedeki tarihinde daha sonra belgelenir.",
+    "firstAttestation": {"source": "Neşrî, Kitab-ı Cihannümâ", "period": "1492", "form": "sāniye"},
+    "relatives": [{"word": "sani", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": "Fransızca seconde sözcüğü de ikinci ve saniye anlamları arasındaki aynı bağlantıyı taşır.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "saniye maddesi", "url": "https://www.nisanyansozluk.com/kelime/saniye"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "dakika",
+    "word": "dakika",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "daḳīḳa(t)", "meaning": "küçük parça, incelik, derecenin altmışta biri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dakika", "meaning": "altmış saniyelik zaman birimi; açı birimi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Altmış saniyelik zaman veya derecenin altmışta birlik açı birimi.",
+    "currentMeaning": "Saatin altmışta birine eşit süre; açı ölçümünde bir derecenin altmışta biri.",
+    "story": "Dakika, Arapça daḳīḳa sözcüğünden gelir. Kaynak biçim küçük parça, incelik ve ayrıntı anlamlarını taşır. Türkçedeki eski örneklerinde ince hüner anlamı görülür; zaman ölçüsü olarak kullanımı daha sonraki kaynaklarda belgelenir.",
+    "firstAttestation": {"source": "Seyf-i Sarayî, Gülistan tercümesi", "period": "1391", "form": "dakikanı"},
+    "relatives": [{"word": "dakik", "relation": "akraba"}, {"word": "dikkat", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": "Dakika ile dikkat, Arapçadaki dḳḳ köküne bağlıdır.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "dakika maddesi", "url": "https://www.nisanyansozluk.com/kelime/dakika"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "müddet",
+    "word": "müddet",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mudda(t)", "meaning": "zamanda veya mekânda uzunluk, süre", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müddet", "meaning": "süre", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir olayın veya durumun devam ettiği süre.",
+    "currentMeaning": "Bir işin, olayın ya da durumun başlangıcı ile sonu arasında geçen zaman.",
+    "story": "Müddet, Arapça mudda sözcüğünden alınmıştır. Sözcük, uzamayla ilgili mdd köküne bağlıdır. Kaynak dilde zaman ve mekân boyunca uzanma düşüncesi bulunurken Türkçede süre anlamıyla kullanılır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "med", "relation": "akraba"}, {"word": "müddetname", "relation": "birleşik"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "müddet maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCddet"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mevsim",
+    "word": "mevsim",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mawsim", "meaning": "yıl içinde belirli bir işe veya olaya ayrılan dönem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mevsim", "meaning": "yılın iklimle ayrılan bölümü; belirli bir işin dönemi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yılın iklim özellikleriyle ayrılan bölümü veya belirli bir dönem.",
+    "currentMeaning": "İlkbahar, yaz, sonbahar ve kıştan her biri; bir ürünün yetiştiği veya bir işin yapıldığı dönem.",
+    "story": "Mevsim, Arapça mawsim sözcüğünden gelir. Kaynak dilde hac, yağmur veya yolculuk gibi olayların yıl içindeki dönemlerini anlatır. Türkçede hem yılın iklimle ayrılan bölümleri hem de belirli işlerin uygun zamanı için kullanılır.",
+    "firstAttestation": {"source": "Âşık Paşa, Garibnâme", "period": "1330", "form": "mevsüm"},
+    "relatives": [{"word": "mevsimlik", "relation": "türev"}, {"word": "mevsimsel", "relation": "türev"}, {"word": "muson", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": "Muson sözcüğü de mevsimin kaynağı olan Arapça mawsim biçimine dayanır.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "mevsim maddesi", "url": "https://www.nisanyansozluk.com/kelime/mevsim"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sene",
+    "word": "sene",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sana(t)", "meaning": "yıl", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sene", "meaning": "yıl", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "On iki aylık zaman dilimi, yıl.",
+    "currentMeaning": "Takvimde on iki aydan oluşan zaman dilimi; yıl.",
+    "story": "Sene, Arapçada yıl anlamına gelen sana sözcüğünden alınmıştır. Türkçede aynı anlamdaki yıl sözcüğüyle birlikte kullanılır. Senelik ve senelerce gibi biçimler, bu alıntı tabana Türkçe ekler getirilerek oluşturulmuştur.",
+    "firstAttestation": {"source": "Neşrî, Kitab-ı Cihannümâ", "period": "1492", "form": "sene"},
+    "relatives": [{"word": "senelik", "relation": "türev"}, {"word": "senelerce", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "sene maddesi", "url": "https://www.nisanyansozluk.com/kelime/sene"}],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a0d-609c-7c10-bad0-b7f166f6aa06
+--------
+user
+# Köken — Üretim Prompt'u (v1)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+1. kalem — ipucu: ar<grc
+2. defter — ipucu: ar<grc
+3. kitap — ipucu: ar
+4. mektup — ipucu: ar
+5. sayfa — ipucu: ar
+6. cümle — ipucu: ar
+7. kelime — ipucu: ar
+8. harf — ipucu: ar
+9. nokta — ipucu: ar
+10. tarih — ipucu: ar
+11. saat — ipucu: ar
+12. vakit — ipucu: ar
+13. zaman — ipucu: ar
+14. sabah — ipucu: ar
+15. takvim — ipucu: ar
+16. saniye — ipucu: ar
+17. dakika — ipucu: ar
+18. müddet — ipucu: ar
+19. mevsim — ipucu: ar
+20. sene — ipucu: ar
+
+## Katı kurallar
+
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler korunur, boşluk yerine `-`.
+   Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**; akıcı, süssüz, bilgi veren Türkçe. Reklam dili,
+    ünlem, "bilir miydiniz" kalıbı yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "qalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki varsa cümlelerden oluşan dizi, yoksa
+  `null`.
+- `funFact`: tek cümle veya `null`.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `en` İngilizce · `la` Latince · `de` Almanca · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+Maddelerin kökenlerini izin verilen kaynaklardan kontrol edip veri setini istenen JSON şemasında hazırlayacağım.
+
+web search: 
+web search: site.kubbealtilugati.com kalem defter ...
+web search: 
+web search: Kubbealtı Lugatı kalem ...
+web search: 
+web search: https://www.nisanyansozluk.com/kelime/kalem
+exec
+/bin/zsh -lc 'curl -L -s https://www.nisanyansozluk.com/kelime/kalem | head -c 16000' in /Users/furkan/Desktop/dev/koken
+ succeeded in 0ms:
+codex
+Sözlük sayfalarının içerikleri dinamik yüklendiği için tarayıcıyla kontrol ediyorum; bu adımda agent-browser becerisini kullanacağım. İlk tanıklık bilgilerini yalnızca açıkça doğrulanabildiğinde dolduracağım.
+
+exec
+/bin/zsh -lc 'cat /Users/furkan/.agents/skills/agent-browser/SKILL.md' in /Users/furkan/Desktop/dev/koken
+ succeeded in 0ms:
+---
+name: agent-browser
+description: Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, testing web apps, or automating any browser task. Triggers include requests to "open a website", "fill out a form", "click a button", "take a screenshot", "scrape data from a page", "test this web app", "login to a site", "automate browser actions", or any task requiring programmatic web interaction.
+allowed-tools: Bash(npx agent-browser:*), Bash(agent-browser:*)
+---
+
+# Browser Automation with agent-browser
+
+## Core Workflow
+
+Every browser automation follows this pattern:
+
+1. **Navigate**: `agent-browser open <url>`
+2. **Snapshot**: `agent-browser snapshot -i` (get element refs like `@e1`, `@e2`)
+3. **Interact**: Use refs to click, fill, select
+4. **Re-snapshot**: After navigation or DOM changes, get fresh refs
+
+```bash
+agent-browser open https://example.com/form
+agent-browser snapshot -i
+# Output: @e1 [input type="email"], @e2 [input type="password"], @e3 [button] "Submit"
+
+agent-browser fill @e1 "user@example.com"
+agent-browser fill @e2 "password123"
+agent-browser click @e3
+agent-browser wait --load networkidle
+agent-browser snapshot -i  # Check result
+```
+
+## Command Chaining
+
+Commands can be chained with `&&` in a single shell invocation. The browser persists between commands via a background daemon, so chaining is safe and more efficient than separate calls.
+
+```bash
+# Chain open + wait + snapshot in one call
+agent-browser open https://example.com && agent-browser wait --load networkidle && agent-browser snapshot -i
+
+# Chain multiple interactions
+agent-browser fill @e1 "user@example.com" && agent-browser fill @e2 "password123" && agent-browser click @e3
+
+# Navigate and capture
+agent-browser open https://example.com && agent-browser wait --load networkidle && agent-browser screenshot page.png
+```
+
+**When to chain:** Use `&&` when you don't need to read the output of an intermediate command before proceeding (e.g., open + wait + screenshot). Run commands separately when you need to parse the output first (e.g., snapshot to discover refs, then interact using those refs).
+
+## Essential Commands
+
+```bash
+# Navigation
+agent-browser open <url>              # Navigate (aliases: goto, navigate)
+agent-browser close                   # Close browser
+
+# Snapshot
+agent-browser snapshot -i             # Interactive elements with refs (recommended)
+agent-browser snapshot -i -C          # Include cursor-interactive elements (divs with onclick, cursor:pointer)
+agent-browser snapshot -s "#selector" # Scope to CSS selector
+
+# Interaction (use @refs from snapshot)
+agent-browser click @e1               # Click element
+agent-browser click @e1 --new-tab     # Click and open in new tab
+agent-browser fill @e2 "text"         # Clear and type text
+agent-browser type @e2 "text"         # Type without clearing
+agent-browser select @e1 "option"     # Select dropdown option
+agent-browser check @e1               # Check checkbox
+agent-browser press Enter             # Press key
+agent-browser keyboard type "text"    # Type at current focus (no selector)
+agent-browser keyboard inserttext "text"  # Insert without key events
+agent-browser scroll down 500         # Scroll page
+agent-browser scroll down 500 --selector "div.content"  # Scroll within a specific container
+
+# Get information
+agent-browser get text @e1            # Get element text
+agent-browser get url                 # Get current URL
+agent-browser get title               # Get page title
+
+# Wait
+agent-browser wait @e1                # Wait for element
+agent-browser wait --load networkidle # Wait for network idle
+agent-browser wait --url "**/page"    # Wait for URL pattern
+agent-browser wait 2000               # Wait milliseconds
+
+# Downloads
+agent-browser download @e1 ./file.pdf          # Click element to trigger download
+agent-browser wait --download ./output.zip     # Wait for any download to complete
+agent-browser --download-path ./downloads open <url>  # Set default download directory
+
+# Capture
+agent-browser screenshot              # Screenshot to temp dir
+agent-browser screenshot --full       # Full page screenshot
+agent-browser screenshot --annotate   # Annotated screenshot with numbered element labels
+agent-browser pdf output.pdf          # Save as PDF
+
+# Diff (compare page states)
+agent-browser diff snapshot                          # Compare current vs last snapshot
+agent-browser diff snapshot --baseline before.txt    # Compare current vs saved file
+agent-browser diff screenshot --baseline before.png  # Visual pixel diff
+agent-browser diff url <url1> <url2>                 # Compare two pages
+agent-browser diff url <url1> <url2> --wait-until networkidle  # Custom wait strategy
+agent-browser diff url <url1> <url2> --selector "#main"  # Scope to element
+```
+
+## Common Patterns
+
+### Form Submission
+
+```bash
+agent-browser open https://example.com/signup
+agent-browser snapshot -i
+agent-browser fill @e1 "Jane Doe"
+agent-browser fill @e2 "jane@example.com"
+agent-browser select @e3 "California"
+agent-browser check @e4
+agent-browser click @e5
+agent-browser wait --load networkidle
+```
+
+### Authentication with Auth Vault (Recommended)
+
+```bash
+# Save credentials once (encrypted with AGENT_BROWSER_ENCRYPTION_KEY)
+# Recommended: pipe password via stdin to avoid shell history exposure
+echo "pass" | agent-browser auth save github --url https://github.com/login --username user --password-stdin
+
+# Login using saved profile (LLM never sees password)
+agent-browser auth login github
+
+# List/show/delete profiles
+agent-browser auth list
+agent-browser auth show github
+agent-browser auth delete github
+```
+
+### Authentication with State Persistence
+
+```bash
+# Login once and save state
+agent-browser open https://app.example.com/login
+agent-browser snapshot -i
+agent-browser fill @e1 "$USERNAME"
+agent-browser fill @e2 "$PASSWORD"
+agent-browser click @e3
+agent-browser wait --url "**/dashboard"
+agent-browser state save auth.json
+
+# Reuse in future sessions
+agent-browser state load auth.json
+agent-browser open https://app.example.com/dashboard
+```
+
+### Session Persistence
+
+```bash
+# Auto-save/restore cookies and localStorage across browser restarts
+agent-browser --session-name myapp open https://app.example.com/login
+# ... login flow ...
+agent-browser close  # State auto-saved to ~/.agent-browser/sessions/
+
+# Next time, state is auto-loaded
+agent-browser --session-name myapp open https://app.example.com/dashboard
+
+# Encrypt state at rest
+export AGENT_BROWSER_ENCRYPTION_KEY=$(openssl rand -hex 32)
+agent-browser --session-name secure open https://app.example.com
+
+# Manage saved states
+agent-browser state list
+agent-browser state show myapp-default.json
+agent-browser state clear myapp
+agent-browser state clean --older-than 7
+```
+
+### Data Extraction
+
+```bash
+agent-browser open https://example.com/products
+agent-browser snapshot -i
+agent-browser get text @e5           # Get specific element text
+agent-browser get text body > page.txt  # Get all page text
+
+# JSON output for parsing
+agent-browser snapshot -i --json
+agent-browser get text @e1 --json
+```
+
+### Parallel Sessions
+
+```bash
+agent-browser --session site1 open https://site-a.com
+agent-browser --session site2 open https://site-b.com
+
+agent-browser --session site1 snapshot -i
+agent-browser --session site2 snapshot -i
+
+agent-browser session list
+```
+
+### Connect to Existing Chrome
+
+```bash
+# Auto-discover running Chrome with remote debugging enabled
+agent-browser --auto-connect open https://example.com
+agent-browser --auto-connect snapshot
+
+# Or with explicit CDP port
+agent-browser --cdp 9222 snapshot
+```
+
+### Color Scheme (Dark Mode)
+
+```bash
+# Persistent dark mode via flag (applies to all pages and new tabs)
+agent-browser --color-scheme dark open https://example.com
+
+# Or via environment variable
+AGENT_BROWSER_COLOR_SCHEME=dark agent-browser open https://example.com
+
+# Or set during session (persists for subsequent commands)
+agent-browser set media dark
+```
+
+### Visual Browser (Debugging)
+
+```bash
+agent-browser --headed open https://example.com
+agent-browser highlight @e1          # Highlight element
+agent-browser record start demo.webm # Record session
+agent-browser profiler start         # Start Chrome DevTools profiling
+agent-browser profiler stop trace.json # Stop and save profile (path optional)
+```
+
+Use `AGENT_BROWSER_HEADED=1` to enable headed mode via environment variable. Browser extensions work in both headed and headless mode.
+
+### Local Files (PDFs, HTML)
+
+```bash
+# Open local files with file:// URLs
+agent-browser --allow-file-access open file:///path/to/document.pdf
+agent-browser --allow-file-access open file:///path/to/page.html
+agent-browser screenshot output.png
+```
+
+### iOS Simulator (Mobile Safari)
+
+```bash
+# List available iOS simulators
+agent-browser device list
+
+# Launch Safari on a specific device
+agent-browser -p ios --device "iPhone 16 Pro" open https://example.com
+
+# Same workflow as desktop - snapshot, interact, re-snapshot
+agent-browser -p ios snapshot -i
+agent-browser -p ios tap @e1          # Tap (alias for click)
+agent-browser -p ios fill @e2 "text"
+agent-browser -p ios swipe up         # Mobile-specific gesture
+
+# Take screenshot
+agent-browser -p ios screenshot mobile.png
+
+# Close session (shuts down simulator)
+agent-browser -p ios close
+```
+
+**Requirements:** macOS with Xcode, Appium (`npm install -g appium && appium driver install xcuitest`)
+
+**Real devices:** Works with physical iOS devices if pre-configured. Use `--device "<UDID>"` where UDID is from `xcrun xctrace list devices`.
+
+## Security
+
+All security features are opt-in. By default, agent-browser imposes no restrictions on navigation, actions, or output.
+
+### Content Boundaries (Recommended for AI Agents)
+
+Enable `--content-boundaries` to wrap page-sourced output in markers that help LLMs distinguish tool output from untrusted page content:
+
+```bash
+export AGENT_BROWSER_CONTENT_BOUNDARIES=1
+agent-browser snapshot
+# Output:
+# --- AGENT_BROWSER_PAGE_CONTENT nonce=<hex> origin=https://example.com ---
+# [accessibility tree]
+# --- END_AGENT_BROWSER_PAGE_CONTENT nonce=<hex> ---
+```
+
+### Domain Allowlist
+
+Restrict navigation to trusted domains. Wildcards like `*.example.com` also match the bare domain `example.com`. Sub-resource requests, WebSocket, and EventSource connections to non-allowed domains are also blocked. Include CDN domains your target pages depend on:
+
+```bash
+export AGENT_BROWSER_ALLOWED_DOMAINS="example.com,*.example.com"
+agent-browser open https://example.com        # OK
+agent-browser open https://malicious.com       # Blocked
+```
+
+### Action Policy
+
+Use a policy file to gate destructive actions:
+
+```bash
+export AGENT_BROWSER_ACTION_POLICY=./policy.json
+```
+
+Example `policy.json`:
+```json
+{"default": "deny", "allow": ["navigate", "snapshot", "click", "scroll", "wait", "get"]}
+```
+
+Auth vault operations (`auth login`, etc.) bypass action policy but domain allowlist still applies.
+
+### Output Limits
+
+Prevent context flooding from large pages:
+
+```bash
+export AGENT_BROWSER_MAX_OUTPUT=50000
+```
+
+## Diffing (Verifying Changes)
+
+Use `diff snapshot` after performing an action to verify it had the intended effect. This compares the current accessibility tree against the last snapshot taken in the session.
+
+```bash
+# Typical workflow: snapshot -> action -> diff
+agent-browser snapshot -i          # Take baseline snapshot
+agent-browser click @e2            # Perform action
+agent-browser diff snapshot        # See what changed (auto-compares to last snapshot)
+```
+
+For visual regression testing or monitoring:
+
+```bash
+# Save a baseline screenshot, then compare later
+agent-browser screenshot baseline.png
+# ... time passes or changes are made ...
+agent-browser diff screenshot --baseline baseline.png
+
+# Compare staging vs production
+agent-browser diff url https://staging.example.com https://prod.example.com --screenshot
+```
+
+`diff snapshot` output uses `+` for additions and `-` for removals, similar to git diff. `diff screenshot` produces a diff image with changed pixels highlighted in red, plus a mismatch percentage.
+
+## Timeouts and Slow Pages
+
+The default Playwright timeout is 25 seconds for local browsers. This can be overridden with the `AGENT_BROWSER_DEFAULT_TIMEOUT` environment variable (value in milliseconds). For slow websites or large pages, use explicit waits instead of relying on the default timeout:
+
+```bash
+# Wait for network activity to settle (best for slow pages)
+agent-browser wait --load networkidle
+
+# Wait for a specific element to appear
+agent-browser wait "#content"
+agent-browser wait @e1
+
+# Wait for a specific URL pattern (useful after redirects)
+agent-browser wait --url "**/dashboard"
+
+# Wait for a JavaScript condition
+agent-browser wait --fn "document.readyState === 'complete'"
+
+# Wait a fixed duration (milliseconds) as a last resort
+agent-browser wait 5000
+```
+
+When dealing with consistently slow websites, use `wait --load networkidle` after `open` to ensure the page is fully loaded before taking a snapshot. If a specific element is slow to render, wait for it directly with `wait <selector>` or `wait @ref`.
+
+## Session Management and Cleanup
+
+When running multiple agents or automations concurrently, always use named sessions to avoid conflicts:
+
+```bash
+# Each agent gets its own isolated session
+agent-browser --session agent1 open site-a.com
+agent-browser --session agent2 open site-b.com
+
+# Check active sessions
+agent-browser session list
+```
+
+Always close your browser session when done to avoid leaked processes:
+
+```bash
+agent-browser close                    # Close default session
+agent-browser --session agent1 close   # Close specific session
+```
+
+If a previous session was not closed properly, the daemon may still be running. Use `agent-browser close` to clean it up before starting new work.
+
+## Ref Lifecycle (Important)
+
+Refs (`@e1`, `@e2`, etc.) are invalidated when the page changes. Always re-snapshot after:
+
+- Clicking links or buttons that navigate
+- Form submissions
+- Dynamic content loading (dropdowns, modals)
+
+```bash
+agent-browser click @e5              # Navigates to new page
+agent-browser snapshot -i            # MUST re-snapshot
+agent-browser click @e1              # Use new refs
+```
+
+## Annotated Screenshots (Vision Mode)
+
+Use `--annotate` to take a screenshot with numbered labels overlaid on interactive elements. Each label `[N]` maps to ref `@eN`. This also caches refs, so you can interact with elements immediately without a separate snapshot.
+
+```bash
+agent-browser screenshot --annotate
+# Output includes the image path and a legend:
+#   [1] @e1 button "Submit"
+#   [2] @e2 link "Home"
+#   [3] @e3 textbox "Email"
+agent-browser click @e2              # Click using ref from annotated screenshot
+```
+
+Use annotated screenshots when:
+- The page has unlabeled icon buttons or visual-only elements
+- You need to verify visual layout or styling
+- Canvas or chart elements are present (invisible to text snapshots)
+- You need spatial reasoning about element positions
+
+## Semantic Locators (Alternative to Refs)
+
+When refs are unavailable or unreliable, use semantic locators:
+
+```bash
+agent-browser find text "Sign In" click
+agent-browser find label "Email" fill "user@test.com"
+agent-browser find role button click --name "Submit"
+agent-browser find placeholder "Search" type "query"
+agent-browser find testid "submit-btn" click
+```
+
+## JavaScript Evaluation (eval)
+
+Use `eval` to run JavaScript in the browser context. **Shell quoting can corrupt complex expressions** -- use `--stdin` or `-b` to avoid issues.
+
+```bash
+# Simple expressions work with regular quoting
+agent-browser eval 'document.title'
+agent-browser eval 'document.querySelectorAll("img").length'
+
+# Complex JS: use --stdin with heredoc (RECOMMENDED)
+agent-browser eval --stdin <<'EVALEOF'
+JSON.stringify(
+  Array.from(document.querySelectorAll("img"))
+    .filter(i => !i.alt)
+    .map(i => ({ src: i.src.split("/").pop(), width: i.width }))
+)
+EVALEOF
+
+# Alternative: base64 encoding (avoids all shell escaping issues)
+agent-browser eval -b "$(echo -n 'Array.from(document.querySelectorAll("a")).map(a => a.href)' | base64)"
+```
+
+**Why this matters:** When the shell processes your command, inner double quotes, `!` characters (history expansion), backticks, and `$()` can all corrupt the JavaScript before it reaches agent-browser. The `--stdin` and `-b` flags bypass shell interpretation entirely.
+
+**Rules of thumb:**
+- Single-line, no nested quotes -> regular `eval 'expression'` with single quotes is fine
+- Nested quotes, arrow functions, template literals, or multiline -> use `eval --stdin <<'EVALEOF'`
+- Programmatic/generated scripts -> use `eval -b` with base64
+
+## Configuration File
+
+Create `agent-browser.json` in the project root for persistent settings:
+
+```json
+{
+  "headed": true,
+  "proxy": "http://localhost:8080",
+  "profile": "./browser-data"
+}
+```
+
+Priority (lowest to highest): `~/.agent-browser/config.json` < `./agent-browser.json` < env vars < CLI flags. Use `--config <path>` or `AGENT_BROWSER_CONFIG` env var for a custom config file (exits with error if missing/invalid). All CLI options map to camelCase keys (e.g., `--executable-path` -> `"executablePath"`). Boolean flags accept `true`/`false` values (e.g., `--headed false` overrides config). Extensions from user and project configs are merged, not replaced.
+
+## Deep-Dive Documentation
+
+| Reference | When to Use |
+|-----------|-------------|
+| [references/commands.md](references/commands.md) | Full command reference with all options |
+| [references/snapshot-refs.md](references/snapshot-refs.md) | Ref lifecycle, invalidation rules, troubleshooting |
+| [references/session-management.md](references/session-management.md) | Parallel sessions, state persistence, concurrent scraping |
+| [references/authentication.md](references/authentication.md) | Login flows, OAuth, 2FA handling, state reuse |
+| [references/video-recording.md](references/video-recording.md) | Recording workflows for debugging and documentation |
+| [references/profiling.md](references/profiling.md) | Chrome DevTools profiling for performance analysis |
+| [references/proxy-support.md](references/proxy-support.md) | Proxy configuration, geo-testing, rotating proxies |
+
+## Experimental: Native Mode
+
+agent-browser has an experimental native Rust daemon that communicates with Chrome directly via CDP, bypassing Node.js and Playwright entirely. It is opt-in and not recommended for production use yet.
+
+```bash
+# Enable via flag
+agent-browser --native open example.com
+
+# Enable via environment variable (avoids passing --native every time)
+export AGENT_BROWSER_NATIVE=1
+agent-browser open example.com
+```
+
+The native daemon supports Chromium and Safari (via WebDriver). Firefox and WebKit are not yet supported. All core commands (navigate, snapshot, click, fill, screenshot, cookies, storage, tabs, eval, etc.) work identically in native mode. Use `agent-browser close` before switching between native and default mode within the same session.
+
+## Ready-to-Use Templates
+
+| Template | Description |
+|----------|-------------|
+| [templates/form-automation.sh](templates/form-automation.sh) | Form filling with validation |
+| [templates/authenticated-session.sh](templates/authenticated-session.sh) | Login once, reuse state |
+| [templates/capture-workflow.sh](templates/capture-workflow.sh) | Content extraction with screenshots |
+
+```bash
+./templates/form-automation.sh https://example.com/form
+./templates/authenticated-session.sh https://app.example.com/login
+./templates/capture-workflow.sh https://example.com ./output
+```
+
+mcp: cua_repl/js started
+mcp: cua_repl/js (completed)
+mcp: cua_repl/js started
+mcp: cua_repl/js (completed)
+mcp: cua_repl/js started
+mcp: cua_repl/js (completed)
+mcp: cua_repl/js started
+mcp: cua_repl/js (completed)
+mcp: cua_repl/js started
+mcp: cua_repl/js (completed)
+mcp: cua_repl/js started
+mcp: cua_repl/js (completed)
+codex
+Kalem ve defter maddelerinde Aramice ara halkası, nokta maddesinde de Aramice köken bilgisi var. Zaman için kaynak, verilen ipucundan daha eski bir Farsça köken gösteriyor; zincirleri bu bilgilere göre düzenliyorum.
+
+mcp: cua_repl/js started
+mcp: cua_repl/js (completed)
+mcp: cua_repl/js started
+mcp: cua_repl/js (completed)
+codex
+[
+  {
+    "id": "kalem",
+    "word": "kalem",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ḱolh₂mos", "meaning": "kamış", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+      {"language": "arc", "form": "ḳalamos", "meaning": "kamış, kamış kalem", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḳalam", "meaning": "kamış, kamış kalem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yazı yazmaya veya çizim yapmaya yarayan araç.",
+    "currentMeaning": "Yazmak, çizmek veya işaret koymak için kullanılan araç.",
+    "story": "Kalem, Türkçeye Arapçadan geçmiştir. Arapça biçimin gerisinde Aramice ḳalamos ve Eski Yunanca kálamos bulunur. Kamışın yazı aracı olarak kullanılması, bitkinin adıyla aracın adını birleştirmiştir. Nişanyan Sözlük bu zinciri, kamış anlamındaki yeniden kurulmuş bir Hint-Avrupa biçimine kadar götürür.",
+    "firstAttestation": {"source": "Yusuf Has Hacib, Kutadgu Bilig", "period": "1069", "form": "ḳalam"},
+    "relatives": [{"word": "kalemlik", "relation": "türev"}, {"word": "dolmakalem", "relation": "birleşik"}],
+    "alternatives": null,
+    "funFact": "Kalem sözcüğünün büro anlamındaki kullanımı da Nişanyan Sözlük'te kaydedilir.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "defter",
+    "word": "defter",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "diphthéra", "meaning": "tabaklanmış deri, yazı için hazırlanmış deri", "period": null, "reconstructed": false},
+      {"language": "arc", "form": "diphterā", "meaning": "yazı tableti, kodeks", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "daftar", "meaning": "defter", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "defter", "meaning": "yazı yazmak için birleştirilmiş yapraklar", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yazı yazmak için bir araya getirilmiş kâğıt yaprakları.",
+    "currentMeaning": "Not, hesap veya başka kayıtlar tutmak için yaprakları birleştirilmiş yazı gereci.",
+    "story": "Defterin kökenindeki Eski Yunanca diphthéra, tabaklanmış deriyi ve yazı için hazırlanmış deri tabakasını anlatıyordu. Sözcük Aramice üzerinden Arapçaya, oradan Türkçeye geçti. Böylece eski bir yazı yüzeyinin adı, kâğıt yapraklarından oluşan gerecin adı olarak yaşamayı sürdürdü.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "taftar"},
+    "relatives": [{"word": "defterdar", "relation": "birleşik"}, {"word": "difteri", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": "Difteri hastalığının adı da defterin kökenindeki Eski Yunanca sözcükle bağlantılıdır.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "defter maddesi", "url": "https://www.nisanyansozluk.com/kelime/defter"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kitap",
+    "word": "kitap",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "kitāb", "meaning": "yazılı şey, belge, kitap", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kitap", "meaning": "bir bütün oluşturan yazılı eser", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir bütün oluşturan yazılı veya basılı eser.",
+    "currentMeaning": "Belirli bir düzen içinde sunulan, basılı veya dijital olarak okunabilen eser.",
+    "story": "Kitap, Arapça kitāb sözcüğünden alınmıştır. Bu sözcük, yazmakla ilgili ktb köküne bağlıdır ve belgeyi de anlatabilir. Türkçedeki mektup, mektep ve kâtip sözcükleri aynı kökün farklı biçimlerinden gelir.",
+    "firstAttestation": {"source": "Yusuf Has Hacib, Kutadgu Bilig", "period": "1069", "form": "kitābḳa"},
+    "relatives": [{"word": "kitaplık", "relation": "türev"}, {"word": "mektup", "relation": "akraba"}, {"word": "kâtip", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": "Kutadgu Bilig'deki tanıklıkta kitap sözcüğü yönelme ekiyle kullanılır.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "kitap maddesi", "url": "https://www.nisanyansozluk.com/kelime/kitap"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mektup",
+    "word": "mektup",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "maktūb", "meaning": "yazılmış, yazı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mektup", "meaning": "birine iletilmek üzere yazılmış metin", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birine haber veya düşünce iletmek için yazılan metin.",
+    "currentMeaning": "Bir kişiye ya da kuruma haber, düşünce, duygu veya istek iletmek amacıyla yazılan metin.",
+    "story": "Mektup, Arapçada yazılmış anlamını taşıyan maktūb biçiminden gelir. Bu biçim, yazmakla ilgili ktb kökünden kurulmuş edilgen bir sıfattır. Türkçede bir alıcıya gönderilen yazının adı olmuştur.",
+    "firstAttestation": {"source": "Ahmed bin Kadı-i Manyas, Gülistan tercümesi", "period": "1429", "form": "mektūb"},
+    "relatives": [{"word": "kitap", "relation": "akraba"}, {"word": "mektuplaşmak", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "mektup maddesi", "url": "https://www.nisanyansozluk.com/kelime/mektup"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sayfa",
+    "word": "sayfa",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ṣaḥīfa(t)", "meaning": "levha, üzerine yazı yazılan yüzey", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sayfa", "meaning": "bir yaprağın yüzlerinden her biri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir kitap veya defter yaprağının yüzlerinden her biri.",
+    "currentMeaning": "Bir yaprağın ön veya arka yüzü; dijital ortamda içerik sunan bölüm.",
+    "story": "Sayfa, Arapça ṣaḥīfa sözcüğünden gelir. Sözcük, üzerine yazı yazılabilen levha veya yüzey anlamıyla bağlantılıdır. Türkçede sahife biçimi de kullanılmış, sayfa biçimi yaygınlaşmıştır.",
+    "firstAttestation": {"source": "İrşadü'l-Mülûk ve's-Selâtîn", "period": "1387", "form": "sahīfe"},
+    "relatives": [{"word": "sahaf", "relation": "akraba"}, {"word": "mushaf", "relation": "akraba"}, {"word": "sayfalandırmak", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "sayfa maddesi", "url": "https://www.nisanyansozluk.com/kelime/sayfa"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "cümle",
+    "word": "cümle",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "cumla(t)", "meaning": "bütünlük, bütün, dil bilgisinde önerme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "cümle", "meaning": "yargı bildiren söz birimi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yargı bildiren söz birimi.",
+    "currentMeaning": "Bir düşünceyi, duyguyu veya durumu yargı biçiminde anlatan kelime ya da kelimeler bütünü.",
+    "story": "Cümle, Arapça cumla sözcüğünden alınmıştır. Kaynak dilde bütünlük ve tamlık anlamlarının yanında dil bilgisi terimi olarak da kullanılır. Türkçede bütün anlamındaki kullanımı, cümle âlem gibi sözlerde korunur.",
+    "firstAttestation": {"source": "Âşık Paşa, Garibnâme", "period": "1330", "form": "cümle"},
+    "relatives": [{"word": "cümlecik", "relation": "türev"}, {"word": "cemal", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": "Cümle ile cemal, Arapçadaki cml kökünde birleşir.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "cümle maddesi", "url": "https://www.nisanyansozluk.com/kelime/c%C3%BCmle"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kelime",
+    "word": "kelime",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "kalima(t)", "meaning": "söylenen şey, söz", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kelime", "meaning": "sözcük", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Anlamı veya dil bilgisel görevi bulunan söz birimi.",
+    "currentMeaning": "Bir dilde anlam veya dil bilgisel görev taşıyan, tek başına ya da başka birimlerle kullanılan sözcük.",
+    "story": "Kelime, Arapça kalima sözcüğünden Türkçeye geçmiştir. Kaynak biçim, söylenen şey ve söz anlamlarını taşır. Kelam da aynı Arapça köke bağlıdır.",
+    "firstAttestation": {"source": "Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "kelimeni"},
+    "relatives": [{"word": "kelam", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "kelime maddesi", "url": "https://www.nisanyansozluk.com/kelime/kelime"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "harf",
+    "word": "harf",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥarf", "meaning": "keskin kenar; yazı birimi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "harf", "meaning": "alfabeyi oluşturan işaretlerden biri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Alfabeyi oluşturan yazı işaretlerinden her biri.",
+    "currentMeaning": "Bir dilin yazısında sesleri göstermek için kullanılan alfabe işareti.",
+    "story": "Harf, Arapça ḥarf sözcüğünden gelir. Kaynak sözcüğün yazı birimi yanında keskin ağız veya kenar anlamı da vardır. Nişanyan Sözlük, yazıyla ilgili anlamı sivri uçla çizme ve kazıma eylemiyle ilişkilendirir.",
+    "firstAttestation": {"source": "Âşık Paşa, Garibnâme", "period": "1330", "form": "ḥarf"},
+    "relatives": [{"word": "huruf", "relation": "türev"}, {"word": "tahrif", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": "Huruf, harf sözcüğünün Arapçadaki çoğul biçimidir.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "harf maddesi", "url": "https://www.nisanyansozluk.com/kelime/harf"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nokta",
+    "word": "nokta",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {"language": "arc", "form": "nəḳūdtā", "meaning": "nokta, yazıda kullanılan noktalama işareti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "nuḳṭa(t)", "meaning": "nokta, yazıda kullanılan noktalama işareti", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nokta", "meaning": "küçük iz veya noktalama işareti", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Küçük yuvarlak iz veya cümle sonunda kullanılan işaret.",
+    "currentMeaning": "Küçük bir iz, belirli bir yer ya da konum; yazıda çeşitli görevlerle kullanılan noktalama işareti.",
+    "story": "Nokta, Türkçeye Arapça nuḳṭa biçiminden geçmiştir. Nişanyan Sözlük, Arapça sözcüğü Aramice nəḳūdtā biçimine bağlar. Aramicedeki kök, delme ve noktalama eylemleriyle ilişkilidir.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "nokta"},
+    "relatives": [{"word": "noktalamak", "relation": "türev"}, {"word": "noktasal", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "nokta maddesi", "url": "https://www.nisanyansozluk.com/kelime/nokta"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tarih",
+    "word": "tarih",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "taˀrīχ", "meaning": "tarih belirleme, olayları zaman sırasıyla kaydetme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tarih", "meaning": "geçmiş olaylar ve bunların incelenmesi; gün bilgisi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Geçmiş olaylar ve bunların incelenmesi; belirli bir günün bilgisi.",
+    "currentMeaning": "Geçmişteki olayların bütünü ve bunları inceleyen bilim; bir olayın gün, ay ve yıl olarak zamanı.",
+    "story": "Tarih, Arapça taˀrīχ sözcüğünden alınmıştır. Sözcük, bir günün takvimdeki yerini belirleme ve olayları zaman sırasıyla yazma anlamlarını taşır. Gün belirtme ile geçmişi kaydetme arasındaki bağ, Türkçedeki iki temel anlamında korunur.",
+    "firstAttestation": {"source": "Rabguzi, Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "taˀriḫni"},
+    "relatives": [{"word": "tarihçi", "relation": "türev"}, {"word": "tarihsel", "relation": "türev"}, {"word": "müverrih", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "tarih maddesi", "url": "https://www.nisanyansozluk.com/kelime/tarih"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "saat",
+    "word": "saat",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sāˁa(t)", "meaning": "süre, günün yirmi dörtte biri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "saat", "meaning": "altmış dakikalık süre; zamanı gösteren araç", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Altmış dakikalık süre veya zamanı gösteren araç.",
+    "currentMeaning": "Altmış dakikadan oluşan zaman birimi; zamanı ölçen ve gösteren araç.",
+    "story": "Saat, Arapça sāˁa sözcüğünden Türkçeye geçmiştir. Türkçenin eski tanıklıklarında genel olarak zamanı da anlatır. Zamanı ölçen aracın adı olarak kullanımı, süre bildiren anlamının yanında yerleşmiştir.",
+    "firstAttestation": {"source": "Yusuf Has Hacib, Kutadgu Bilig", "period": "1069", "form": "sāˁatı"},
+    "relatives": [{"word": "saatlik", "relation": "türev"}, {"word": "çalar saat", "relation": "birleşik"}],
+    "alternatives": null,
+    "funFact": "Nişanyan Sözlük, saat sözcüğünün araç anlamına Evliya Çelebi'den örnek verir.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "saat maddesi", "url": "https://www.nisanyansozluk.com/kelime/saat"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "vakit",
+    "word": "vakit",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "waḳt", "meaning": "zamanın belirli bir noktası", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "vakit", "meaning": "zaman, belirli süre veya an", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Belirli bir zaman, süre veya an.",
+    "currentMeaning": "Bir olayın gerçekleştiği zaman; bir iş için ayrılan veya kullanılabilen süre.",
+    "story": "Vakit, Arapça waḳt sözcüğünden gelir. Türkçede son iki ünsüzün arasına bir ünlü girerek vakit biçimi oluşmuştur. Vakti ve vaktinde gibi çekimlerde bu ünlü düşer.",
+    "firstAttestation": {"source": "Yusuf Has Hacib, Kutadgu Bilig", "period": "1069", "form": "waḳt"},
+    "relatives": [{"word": "vakitsiz", "relation": "türev"}, {"word": "muvakkat", "relation": "akraba"}, {"word": "muvakkit", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "vakit maddesi", "url": "https://www.nisanyansozluk.com/kelime/vakit"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "zaman",
+    "word": "zaman",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "peo",
+    "chain": [
+      {"language": "peo", "form": "camānā", "meaning": "zaman, saat", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "zamān", "meaning": "zaman, saat", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "zamān", "meaning": "vakit, çağ, devir", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "zaman", "meaning": "olayların sıralanmasını ve süresini anlatan kavram", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Olayların sıralanmasını ve süresini anlatan kavram.",
+    "currentMeaning": "Olayların önce ve sonra ilişkisi içinde gerçekleştiği süreklilik; bunun belirli bir bölümü, çağ veya dönem.",
+    "story": "Kubbealtı Lugatı zamanın Türkçeye veren dilini Arapça olarak gösterir. Nişanyan Sözlük Arapça ve Farsça zamān biçimlerini birlikte anar ve sözcüğün geçmişini Orta Farsçaya bağlar. Buradaki zincir Arapça üzerinden aktarımı gösterir. Zincirin Eski Farsça halkası, doğrudan tanıklanmış bir biçim değil, yeniden kurulmuş bir biçimdir.",
+    "firstAttestation": {"source": "Âşık Paşa, Garibnâme", "period": "1330", "form": "zamān"},
+    "relatives": [{"word": "zamanlama", "relation": "türev"}, {"word": "zamansız", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "zaman maddesi", "url": "https://www.nisanyansozluk.com/kelime/zaman"},
+      {"name": "Kubbealtı Lugatı", "ref": "zaman (زمان) maddesi", "url": "https://lugatim.com/s/zaman"}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sabah",
+    "word": "sabah",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ṣabāḥ", "meaning": "gün doğumu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sabah", "meaning": "günün başlangıç bölümü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Günün aydınlanmasıyla başlayan ve öğleye kadar süren bölüm.",
+    "currentMeaning": "Günün ilk aydınlığından öğleye kadar geçen zaman.",
+    "story": "Sabah, Arapçada gün doğumunu anlatan ṣabāḥ sözcüğünden gelir. Aynı kökte ışımak ve aydınlanmak anlamları da bulunur. Türkçede sözcük, günün aydınlanmasıyla başlayan zaman bölümünü adlandırır.",
+    "firstAttestation": {"source": "Erzurumlu Darir, Kıssa-i Yusuf tercümesi", "period": "1377'den önce", "form": "ṣabāḥ"},
+    "relatives": [{"word": "sabahlık", "relation": "türev"}, {"word": "sabahlamak", "relation": "türev"}, {"word": "misbah", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "sabah maddesi", "url": "https://www.nisanyansozluk.com/kelime/sabah"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "takvim",
+    "word": "takvim",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "taḳwīm", "meaning": "düzeltme, konum belirleme, takvim", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "takvim", "meaning": "günleri, ayları ve yılları düzenleyen sistem veya çizelge", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Günleri, ayları ve yılları düzenleyen sistem veya çizelge.",
+    "currentMeaning": "Zamanı gün, ay ve yıl gibi birimlere ayıran sistem; bu birimleri veya planlanan işleri gösteren çizelge.",
+    "story": "Takvim, Arapça taḳwīm sözcüğünden alınmıştır. Kaynak dilde düzeltme ve konum belirleme anlamları da vardır. Takvim anlamı, gök cisimlerinin yılın günlerine göre konumlarını gösteren astronomi tablolarıyla bağlantılıdır.",
+    "firstAttestation": {"source": "Hoca Mesud, Ferhengnâme-i Sadi tercümesi", "period": "1342", "form": "taḳvīm"},
+    "relatives": [{"word": "kamet", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "takvim maddesi", "url": "https://www.nisanyansozluk.com/kelime/takvim"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "saniye",
+    "word": "saniye",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "s̱āniya(t)", "meaning": "ikinci, ikinci olan şey", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "saniye", "meaning": "dakikanın altmışta biri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dakikanın altmışta biri olan zaman birimi.",
+    "currentMeaning": "Bir dakikanın altmışta birine eşit zaman birimi; çok kısa süre.",
+    "story": "Saniye, Arapçada ikinci anlamındaki sāni sözcüğünün dişil biçiminden gelir. Türkçenin eski tanıklıklarında ikinci anlamıyla kullanılır. Zaman birimi anlamı, sözcüğün Türkçedeki tarihinde daha sonra belgelenir.",
+    "firstAttestation": {"source": "Neşrî, Kitab-ı Cihannümâ", "period": "1492", "form": "sāniye"},
+    "relatives": [{"word": "sani", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": "Fransızca seconde sözcüğü de ikinci ve saniye anlamları arasındaki aynı bağlantıyı taşır.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "saniye maddesi", "url": "https://www.nisanyansozluk.com/kelime/saniye"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "dakika",
+    "word": "dakika",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "daḳīḳa(t)", "meaning": "küçük parça, incelik, derecenin altmışta biri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dakika", "meaning": "altmış saniyelik zaman birimi; açı birimi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Altmış saniyelik zaman veya derecenin altmışta birlik açı birimi.",
+    "currentMeaning": "Saatin altmışta birine eşit süre; açı ölçümünde bir derecenin altmışta biri.",
+    "story": "Dakika, Arapça daḳīḳa sözcüğünden gelir. Kaynak biçim küçük parça, incelik ve ayrıntı anlamlarını taşır. Türkçedeki eski örneklerinde ince hüner anlamı görülür; zaman ölçüsü olarak kullanımı daha sonraki kaynaklarda belgelenir.",
+    "firstAttestation": {"source": "Seyf-i Sarayî, Gülistan tercümesi", "period": "1391", "form": "dakikanı"},
+    "relatives": [{"word": "dakik", "relation": "akraba"}, {"word": "dikkat", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": "Dakika ile dikkat, Arapçadaki dḳḳ köküne bağlıdır.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "dakika maddesi", "url": "https://www.nisanyansozluk.com/kelime/dakika"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "müddet",
+    "word": "müddet",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mudda(t)", "meaning": "zamanda veya mekânda uzunluk, süre", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müddet", "meaning": "süre", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir olayın veya durumun devam ettiği süre.",
+    "currentMeaning": "Bir işin, olayın ya da durumun başlangıcı ile sonu arasında geçen zaman.",
+    "story": "Müddet, Arapça mudda sözcüğünden alınmıştır. Sözcük, uzamayla ilgili mdd köküne bağlıdır. Kaynak dilde zaman ve mekân boyunca uzanma düşüncesi bulunurken Türkçede süre anlamıyla kullanılır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "med", "relation": "akraba"}, {"word": "müddetname", "relation": "birleşik"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "müddet maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCddet"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mevsim",
+    "word": "mevsim",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mawsim", "meaning": "yıl içinde belirli bir işe veya olaya ayrılan dönem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mevsim", "meaning": "yılın iklimle ayrılan bölümü; belirli bir işin dönemi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yılın iklim özellikleriyle ayrılan bölümü veya belirli bir dönem.",
+    "currentMeaning": "İlkbahar, yaz, sonbahar ve kıştan her biri; bir ürünün yetiştiği veya bir işin yapıldığı dönem.",
+    "story": "Mevsim, Arapça mawsim sözcüğünden gelir. Kaynak dilde hac, yağmur veya yolculuk gibi olayların yıl içindeki dönemlerini anlatır. Türkçede hem yılın iklimle ayrılan bölümleri hem de belirli işlerin uygun zamanı için kullanılır.",
+    "firstAttestation": {"source": "Âşık Paşa, Garibnâme", "period": "1330", "form": "mevsüm"},
+    "relatives": [{"word": "mevsimlik", "relation": "türev"}, {"word": "mevsimsel", "relation": "türev"}, {"word": "muson", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": "Muson sözcüğü de mevsimin kaynağı olan Arapça mawsim biçimine dayanır.",
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "mevsim maddesi", "url": "https://www.nisanyansozluk.com/kelime/mevsim"}],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sene",
+    "word": "sene",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sana(t)", "meaning": "yıl", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sene", "meaning": "yıl", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "On iki aylık zaman dilimi, yıl.",
+    "currentMeaning": "Takvimde on iki aydan oluşan zaman dilimi; yıl.",
+    "story": "Sene, Arapçada yıl anlamına gelen sana sözcüğünden alınmıştır. Türkçede aynı anlamdaki yıl sözcüğüyle birlikte kullanılır. Senelik ve senelerce gibi biçimler, bu alıntı tabana Türkçe ekler getirilerek oluşturulmuştur.",
+    "firstAttestation": {"source": "Neşrî, Kitab-ı Cihannümâ", "period": "1492", "form": "sene"},
+    "relatives": [{"word": "senelik", "relation": "türev"}, {"word": "senelerce", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [{"name": "Nişanyan Sözlük", "ref": "sene maddesi", "url": "https://www.nisanyansozluk.com/kelime/sene"}],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+tokens used
+92,676

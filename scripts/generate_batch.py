@@ -308,7 +308,8 @@ def generate(number, words, template, args):
     log_path = os.path.join(LOG_DIR, "%s.codex.log" % tag)
     meta_path = os.path.join(LOG_DIR, "%s.meta.json" % tag)
 
-    if os.path.exists(out_path) and not args.force and not args.dry_run:
+    if os.path.exists(out_path) and not args.force and not args.dry_run \
+            and not args.only:
         print("%s: zaten var, atlanıyor." % show(out_path))
         return True
 
@@ -317,6 +318,14 @@ def generate(number, words, template, args):
     if not chunk:
         print("Parti %d: kelime kalmadı." % number, file=sys.stderr)
         return False
+
+    wanted = None
+    if args.only:
+        wanted = {slugify_id(w.strip()) for w in args.only.split(",") if w.strip()}
+        chunk = [e for e in chunk if slugify_id(e["word"]) in wanted]
+        if not chunk:
+            print("Parti %s: --only ile eşleşen kelime yok." % tag, file=sys.stderr)
+            return False
 
     chunk_words = [e["word"] for e in chunk]
     prompt = build_prompt(template, chunk)
@@ -381,6 +390,24 @@ def generate(number, words, template, args):
     fill_chain_meanings(items)
     lowercase_chain_meanings(items)
     normalize_relatives(items)
+
+    if wanted and os.path.exists(out_path):
+        # Yeniden üretilen maddeler var olan partiye yerinde işlenir.
+        with open(out_path, encoding="utf-8") as handle:
+            existing = json.load(handle)
+        by_id = {slugify_id(i.get("word") or i.get("id") or ""): i
+                 for i in items if isinstance(i, dict)}
+        merged, replaced = [], 0
+        for old_item in existing:
+            key = slugify_id(old_item.get("word") or old_item.get("id") or "")
+            if key in by_id:
+                merged.append(by_id.pop(key))
+                replaced += 1
+            else:
+                merged.append(old_item)
+        merged.extend(by_id.values())
+        items = merged
+        print("Parti %s: %d madde yenisiyle değiştirildi." % (tag, replaced))
 
     with open(out_path, "w", encoding="utf-8") as handle:
         json.dump(items, handle, ensure_ascii=False, indent=2)
@@ -584,6 +611,10 @@ def main(argv=None):
                         help="Codex modeli (varsayılan: %s)." % DEFAULT_MODEL)
     parser.add_argument("--timeout", type=int, default=1800,
                         help="Parti başına saniye sınırı (varsayılan: 1800).")
+    parser.add_argument("--only", metavar="KELİMELER",
+                        help="Partideki yalnızca bu kelimeleri üretir "
+                             "(virgülle ayrılmış id/kelime); sonuç var olan "
+                             "parti dosyasına işlenir.")
     parser.add_argument("--force", action="store_true",
                         help="Var olan parti dosyasının üzerine yazar.")
     parser.add_argument("--dry-run", action="store_true",

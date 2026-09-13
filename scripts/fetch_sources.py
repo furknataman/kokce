@@ -25,7 +25,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-from validate_words import nfc, slugify_id
+from validate_words import LANGUAGES, nfc, slugify_id
 
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(SCRIPTS_DIR)
@@ -56,6 +56,9 @@ ORIGIN_RE = re.compile(r"^([A-ZÇĞİÖŞÜ][a-zçğıöşü]{0,6}\.(?:\s*[-–]
 # (PÎRÂHEN – PÎREHEN) ve ekleri iki yanı tireli gösterir (–TİR–).
 FOLD_MAP = str.maketrans({"â": "a", "î": "i", "û": "u", "ç": "c", "ğ": "g",
                           "ı": "i", "ö": "o", "ş": "s", "ü": "u"})
+# Yalnızca şapkaları atar, Türkçe harfleri korur.
+FOLD_MAP_SOFT = str.maketrans({"â": "a", "î": "i", "û": "u"})
+CIRCUMFLEX = {"a": "â", "i": "î", "u": "û"}
 VARIANT_SPLIT_RE = re.compile(r"\s*[–—/]\s*")
 AFFIX_RE = re.compile(r"^[–—-]|[–—-]$")
 POS_RE = re.compile(r"^(?:i|sıf|zf|f|e|ünl|zm|bağ|isim|çoğul)\.\s*", re.IGNORECASE)
@@ -172,8 +175,20 @@ def fetch_tdk(word):
         return None, str(exc)
 
 
-def parse_tdk(data):
-    """TDK bulunamayınca {'error': ...} nesnesi döner, bulununca dizi."""
+def hint_language_name(hint):
+    """originHint ("ar<grc") → TDK'nin kullandığı Türkçe dil adı ("Arapça")."""
+    if not isinstance(hint, str) or not hint.strip():
+        return None
+    code = re.split(r"[<>,/\s]+", hint.strip())[0]
+    return LANGUAGES.get(code)
+
+
+def parse_tdk(data, word=None, hint=None):
+    """TDK bulunamayınca {'error': ...} nesnesi döner, bulununca dizi.
+
+    Birden çok homonim varsa en uygunu başa alınır: önce originHint diliyle
+    uyuşan `lisan`, sonra madde başının şapkalı yazımıyla uyuşan kayıt.
+    """
     if not isinstance(data, list):
         return {"found": False, "entries": []}
     entries = []
@@ -191,6 +206,19 @@ def parse_tdk(data):
             "lisan": clean(item.get("lisan")),
             "meanings": meanings,
         })
+
+    if len(entries) > 1:
+        wanted = hint_language_name(hint)
+        has_circumflex = any(c in (nfc(word or "")) for c in "âîû")
+
+        def rank(entry):
+            lisan = entry.get("lisan") or ""
+            madde = entry.get("madde") or ""
+            lang_hit = bool(wanted) and lisan.startswith(wanted)
+            circ_hit = has_circumflex and any(c in madde for c in "âîû")
+            return (not lang_hit, not circ_hit)
+
+        entries.sort(key=rank)
     return {"found": bool(entries), "entries": entries}
 
 
@@ -262,6 +290,41 @@ def get_json_curl(url):
     return json.loads(result.stdout)
 
 
+def spelling_variants(word, limit=5):
+    """Şapkalı/şapkasız yazım varyantları. İlki her zaman kelimenin kendisi."""
+    word = nfc(word).strip()
+    out = [word]
+    plain = word.translate(FOLD_MAP_SOFT)
+    if plain != word and plain not in out:
+        out.append(plain)
+    for i, ch in enumerate(plain):
+        if len(out) >= limit:
+            break
+        if ch in CIRCUMFLEX:
+            variant = plain[:i] + CIRCUMFLEX[ch] + plain[i + 1:]
+            if variant not in out:
+                out.append(variant)
+    return out[:limit]
+
+
+def fetch_with_variants(fetcher, parser, word, limit=5):
+    """Varyantları sırayla dener, ilk dolu yanıtı döner."""
+    last_error = None
+    for variant in spelling_variants(word, limit):
+        raw, error = fetcher(variant)
+        if error:
+            last_error = error
+            continue
+        parsed = parser(raw, word)
+        if parsed.get("found"):
+            if variant != nfc(word).strip():
+                parsed["queriedAs"] = variant
+            return parsed, None
+        if variant != nfc(word).strip():
+            time.sleep(POLITE_DELAY)
+    return {"found": False, "entries": []}, last_error
+
+
 def fetch_kubbealti(word):
     url = KUBBEALTI_URL % urllib.parse.quote(word, safe="")
     try:
@@ -280,8 +343,14 @@ def headword_matches(headword, word):
     headword = nfc((headword or "").strip())
     if not headword or AFFIX_RE.search(headword):
         return False  # –TİR– gibi ek maddeleri madde başı değildir
-    target = fold(word)
-    return any(fold(v) == target for v in VARIANT_SPLIT_RE.split(headword) if v)
+    target = fold(word).replace("-", "")
+    for variant in VARIANT_SPLIT_RE.split(headword):
+        if not variant:
+            continue
+        # HEM-ÂVAZ ↔ hemavaz: iç tireler yok sayılır.
+        if fold(variant).replace("-", "") == target:
+            return True
+    return False
 
 
 def parse_kubbealti(data, word):
@@ -309,21 +378,26 @@ def load_words(path):
         raise SystemExit("%s: kelime dizisi bulunamadı." % path)
     words = []
     for item in data:
-        word = item if isinstance(item, str) else (item or {}).get("word")
+        if isinstance(item, str):
+            word, hint = item, None
+        else:
+            item = item or {}
+            word, hint = item.get("word"), item.get("originHint")
         if isinstance(word, str) and word.strip():
-            words.append(word.strip())
+            words.append((word.strip(), hint))
     return words
 
 
-def fetch_one(word, path):
+def fetch_one(word, path, hint=None):
     nis_raw, nis_error = fetch_nisanyan(word)
     time.sleep(POLITE_DELAY)
-    tdk_raw, tdk_error = fetch_tdk(word)
 
     nisanyan = parse_nisanyan(nis_raw, word)
     if nis_error:
         nisanyan["error"] = nis_error
-    tdk = parse_tdk(tdk_raw)
+
+    tdk, tdk_error = fetch_with_variants(
+        fetch_tdk, lambda raw, w: parse_tdk(raw, w, hint), word)
     if tdk_error:
         tdk["error"] = tdk_error
 
@@ -331,8 +405,8 @@ def fetch_one(word, path):
     kubbealti = {"found": False, "entries": []}
     if not nisanyan["found"] and not tdk["found"]:
         time.sleep(POLITE_DELAY)
-        kub_raw, kub_error = fetch_kubbealti(word)
-        kubbealti = parse_kubbealti(kub_raw, word)
+        kubbealti, kub_error = fetch_with_variants(
+            fetch_kubbealti, parse_kubbealti, word)
         if kub_error:
             kubbealti["error"] = kub_error
 
@@ -348,6 +422,16 @@ def fetch_one(word, path):
         json.dump(record, handle, ensure_ascii=False, indent=2)
         handle.write("\n")
     return record
+
+
+def has_any_source(directory, word):
+    path = os.path.join(directory, "%s.json" % slugify_id(word))
+    if not os.path.exists(path):
+        return False
+    with open(path, encoding="utf-8") as handle:
+        record = json.load(handle)
+    return any((record.get(key) or {}).get("found")
+               for key in ("nisanyan", "tdk", "kubbealti"))
 
 
 def fill_kubbealti(directory, force=False):
@@ -369,8 +453,8 @@ def fill_kubbealti(directory, force=False):
         if record.get("kubbealti") and not force:
             continue
         word = record.get("word") or record.get("id")
-        kub_raw, kub_error = fetch_kubbealti(word)
-        kubbealti = parse_kubbealti(kub_raw, word)
+        kubbealti, kub_error = fetch_with_variants(
+            fetch_kubbealti, parse_kubbealti, word)
         if kub_error:
             kubbealti["error"] = kub_error
         record["kubbealti"] = kubbealti
@@ -430,6 +514,9 @@ def main(argv=None):
                         help="Var olan kayıtları yeniden indirir.")
     parser.add_argument("--index-only", action="store_true",
                         help="İndirme yapmaz, yalnızca _index.json üretir.")
+    parser.add_argument("--refetch-missing", action="store_true",
+                        help="Hiçbir kaynakta bulunamamış kelimeleri yeniden "
+                             "çeker (yazım varyantlarıyla).")
     parser.add_argument("--kubbealti-only", action="store_true",
                         help="Yalnızca Nişanyan ve TDK boş olan kayıtlarda "
                              "Kubbealtı bölümünü doldurur.")
@@ -452,9 +539,13 @@ def main(argv=None):
         return 0
 
     if args.only:
-        words = [w.strip() for w in args.only.split(",") if w.strip()]
+        words = [(w.strip(), None) for w in args.only.split(",") if w.strip()]
     else:
         words = load_words(args.wordlist)
+    if args.refetch_missing:
+        words = [(w, h) for w, h in words if not has_any_source(SOURCES_DIR, w)]
+        args.force = True
+        print("Kaynağı olmayan %d kelime yeniden çekilecek." % len(words))
     if args.limit:
         words = words[:args.limit]
     if not words:
@@ -462,13 +553,13 @@ def main(argv=None):
 
     total = len(words)
     fetched = skipped = 0
-    for i, word in enumerate(words, 1):
+    for i, (word, hint) in enumerate(words, 1):
         path = os.path.join(SOURCES_DIR, "%s.json" % slugify_id(word))
         if os.path.exists(path) and not args.force:
             skipped += 1
             continue
         try:
-            record = fetch_one(word, path)
+            record = fetch_one(word, path, hint)
         except Exception as exc:  # ağ kesintisi tek kelimeyi düşürsün, hattı değil
             print("%d/%d %s: HATA %s" % (i, total, word, exc), file=sys.stderr)
             time.sleep(POLITE_DELAY)

@@ -31,7 +31,7 @@
       "period": "1000 öncesi",
       "form": "ig kem"
     },
-    "relatives": null,
+    "relatives": [],
     "alternatives": [
       "TDK Güncel Türkçe Sözlük, kötü anlamındaki kem için Farsça köken verir.",
       "Nişanyan Sözlük, Farsça kam ile Eski Türkçede hastalık bildiren kem biçimlerini alternatif olarak değerlendirir ve güncel anlamı her iki biçimle bağdaştırmanın da güç olduğunu belirtir.",
@@ -48,6 +48,52 @@
         "name": "TDK Güncel Türkçe Sözlük",
         "ref": "kem maddesi",
         "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nevnihal",
+    "word": "nevnihal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "nev-nihāl",
+        "meaning": "yeni yetişen fidan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nevnihal",
+        "meaning": "yeni yetişen fidan; genç ve körpe kimse",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yeni yetişen fidan; genç ve körpe kimse.",
+    "currentMeaning": "Henüz büyümekte olan taze fidan; benzetmeyle genç ve körpe kişi.",
+    "story": "Nevnihalin Farsça kuruluşunda yeni olmayı anlatan nev ile fidanı adlandıran nihal birleşir. Ortaya çıkan görüntü, henüz büyümeye başlayan ince bir fidandır. Türkçede bu tazelik ve körpelik insanlara da taşınmış, gençler fidanın yeni gelişen hâliyle anlatılmıştır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "nihal",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "nevnihâl maddesi",
+        "url": "https://lugatim.com/s/nevnihal"
       }
     ],
     "confidence": "orta",

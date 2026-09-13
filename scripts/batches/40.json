@@ -1,0 +1,997 @@
+[
+  {
+    "id": "hâb",
+    "word": "hâb",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "ḫvāb",
+        "meaning": "uyku",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hâb",
+        "meaning": "uyku",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Uyku.",
+    "currentMeaning": "Kişinin uyuduğu durum; uyku.",
+    "story": "Farsçada ḫvāb, insanın uykuya dalıp dış dünyadan uzaklaştığı hâlin adıdır. Türkçeye hâb biçiminde taşınırken aynı gündelik deneyimi adlandırmayı sürdürmüştür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hâb",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hümayun",
+    "word": "hümayun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {
+        "language": "ae",
+        "form": "humāyā-",
+        "meaning": "uğurlu, kutsanmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "humāyūn",
+        "meaning": "kutsal sayılan, hükümdarlıkla ilgili",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hümayun",
+        "meaning": "mutlu",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Mutlu.",
+    "currentMeaning": "Mutluluk taşıyan, mutlu.",
+    "story": "Avestacadaki humāyā-, uğur ve kutsanmışlık düşüncesini taşıyordu. Farsçada humāyūn biçimine dönüşünce hükümdarlığa ait olan şeyleri de nitelemeye başladı. Türkçedeki kullanımında bu olumlu değer, hem saltanatın yüceliğine hem de mutluluğa uzanır.",
+    "firstAttestation": {
+      "source": "Süleyman Çelebi — Mevlid",
+      "period": "1409",
+      "form": "hümāyūn"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hümayun maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/h%C3%BCmayun"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hümayun",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hame",
+    "word": "hame",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "ḫāme",
+        "meaning": "yazı kalemi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hame",
+        "meaning": "yazı kalemi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yazı kalemi.",
+    "currentMeaning": "Yazı yazmak için kullanılan kalem.",
+    "story": "Farsçada ḫāme, elde tutulan ve yazıyı kâğıda aktaran kalemin adıydı. Türkçeye geçerken de aynı nesneyi adlandırdı; kelimenin iki dildeki bağını yazı yazma eylemi korudu.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "hame maddesi",
+        "url": "https://lugatim.com/s/hame"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hara",
+    "word": "hara",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "faras",
+        "meaning": "at",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "haras",
+        "meaning": "damızlık at yetiştirilen çiftlik",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hara",
+        "meaning": "at yetiştirme ve bakım tesisi",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "At yetiştirilen ve atların bakıldığı tesis.",
+    "currentMeaning": "Atların üretimi ve bakımı için düzenlenmiş, dolaşabilecekleri açık alanları da bulunan tesis.",
+    "story": "Fransızca haras, damızlık atların yetiştirildiği çiftliği adlandırır. Türkçeye hara biçiminde geçen kelime, atların üretildiği ve bakıldığı tesisin adı olmuştur. Fransızca biçimin daha geride Arapçadaki faras, yani at adına bağlanması ise tartışmalıdır.",
+    "firstAttestation": {
+      "source": "Hara-yı Hümayun Nezareti — kurum adı",
+      "period": "1886",
+      "form": "Hārā-yı Hümayun"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Fransızca haras ile Arapça faras arasındaki bağı tartışmalı bir açıklama olarak aktarır; aynı maddede Fransız Akademisi sözlüğünün Bloch ve Wartburg'a dayanarak bu açıklamayı reddettiğini belirtir.",
+      "TDK Güncel Türkçe Sözlük, Türkçeye doğrudan kaynaklık eden biçimi Fransızca haras olarak verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hara maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/hara"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hara",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hâr",
+    "word": "hâr",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": null,
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "hâr",
+        "meaning": "ölçüsüzce tüketmeyi anlatan deyimin bir unsuru",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Har vurup harman savurmak deyiminde kullanılan söz.",
+    "currentMeaning": "Malı veya parayı ölçüsüzce tüketmeyi anlatan har vurup harman savurmak deyiminin bir unsuru.",
+    "story": "Har vurup harman savurmak ifadesi, eldeki varlığı dağıtıp tüketen bir hareket resmi kurar. Buradaki sözün işlevi, tek başına bir nesneyi adlandırmaktan çok deyimin bütünü içinde savurganlığı anlatmaktır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "har",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hemavaz",
+    "word": "hemavaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "ham-āvāz",
+        "meaning": "sesleri birbirine uyan, birlikte ses veren",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hemavaz",
+        "meaning": "sesleri birbirine uyan, birlikte ses veren",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Birlikte, uyumlu sesle söyleyen.",
+    "currentMeaning": "Başkalarıyla ses birliği içinde olan, aynı söyleyişe katılan.",
+    "story": "Farsçada birlik bildiren hem ile ses bildiren avaz bir araya gelince, birbirine katılan seslerin resmi ortaya çıkar. Türkçedeki hemavaz da birlikte söyleyen veya başkasının sesine katılan kişiyi niteler.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "avaz",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "hemâvaz maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tüvana",
+    "word": "tüvana",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "tevānā",
+        "meaning": "gücü yerinde, kuvvetli",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tüvana",
+        "meaning": "dinç",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Dinç.",
+    "currentMeaning": "Bedensel gücü ve canlılığı yerinde olan.",
+    "story": "Farsça tevānā, güç sahibi olmayı insanın bir niteliği olarak anlatır. Türkçede tüvana denildiğinde de yorgunlukla çökmemiş, gücünü ve canlılığını koruyan bir beden düşünülür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "tüvana",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hıram",
+    "word": "hıram",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "ḫirām",
+        "meaning": "nazlı ve salınan adımlarla yürüme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hıram",
+        "meaning": "nazlı ve salınan adımlarla yürüme",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Nazlı, salınan adımlarla yürüme.",
+    "currentMeaning": "Vücudu hafifçe salarak, nazlı ve edalı bir biçimde yürüme.",
+    "story": "Farsça ḫirām, yürüyüşün yalnızca ilerlemeye değil, bedenin salınışına ve edasına da bakan adıdır. Türkçeye taşınan hıram, adımların bu nazlı ritmini korur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "hıram maddesi",
+        "url": "https://lugatim.com/s/h%C4%B1ram"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hodbin",
+    "word": "hodbin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "bīn",
+        "meaning": "gören, bakışını yönelten",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "ḫʷad",
+        "meaning": "kendi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "ḫʷad-bīn",
+        "meaning": "kendini gören, yalnız kendini düşünen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hodbin",
+        "meaning": "bencil",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bencil.",
+    "currentMeaning": "Başkalarının ihtiyaçlarını gözetmeden kendi çıkarını öne alan.",
+    "story": "Farsçada kendi bildiren unsurla gören bildiren unsur birleşince bakışı kendisine dönük bir kişi ortaya çıkar. Bu bakış, başkasını hesaba katmayan bir tutumun resmi olmuştur. Türkçe hodbin, birleşimin bu bencillik anlamını devralmıştır.",
+    "firstAttestation": {
+      "source": "Gülşehri — Mantıku't-Tayr",
+      "period": "1317",
+      "form": "ḫoḏbīnliği"
+    },
+    "relatives": [
+      {
+        "word": "hodbinlik",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hodbin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/hodbin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hodbin",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nazende",
+    "word": "nazende",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "nāzende",
+        "meaning": "nazlı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nazende",
+        "meaning": "nazlı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Nazlı.",
+    "currentMeaning": "Davranışlarında naz bulunan, naz yapan.",
+    "story": "Farsça nāzende, nazı bir kişinin tavrında görünür kılar. Türkçeye nazende olarak geçen kelime de bu davranış resmini koruyarak nazlı kişiyi niteler.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "naz",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "nazende",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hun",
+    "word": "hun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ira",
+    "chain": [
+      {
+        "language": "ira",
+        "form": "ḫʷahun",
+        "meaning": "kan",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "fa",
+        "form": "ḫūn",
+        "meaning": "kan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hun",
+        "meaning": "kan",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kan.",
+    "currentMeaning": "Damarlarda dolaşan yaşamsal sıvı; kan.",
+    "story": "Ana İrancaya uzanan bu ad, bedenin damarlarında dolaşan kanı anlatır. Farsçada ḫūn biçimini almış, Türkçeye de aynı bedensel karşılıkla taşınmıştır. Sesleri değişirken adlandırdığı sıvı değişmemiştir.",
+    "firstAttestation": {
+      "source": "Anonim — Ferec ba'd eş-şidde",
+      "period": "1451'den önce",
+      "form": "ḫūnını"
+    },
+    "relatives": [
+      {
+        "word": "vohunī",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hun maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/hun"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hun",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hurşit",
+    "word": "hurşit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "ḫurşīd",
+        "meaning": "güneş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hurşit",
+        "meaning": "güneş",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Güneş.",
+    "currentMeaning": "Gündüzün ışık kaynağı olan gök cismi; güneş.",
+    "story": "Farsça ḫurşīd, gökyüzünü aydınlatan güneşin adıdır. Türkçede hurşit biçimini alırken ışık veren aynı gök cismini anlatmayı sürdürmüştür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "hurşit maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ruşen",
+    "word": "ruşen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "lewk-",
+        "meaning": "ışımak, parlamak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "lówksneh₂",
+        "meaning": "ışımak, parlamak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "peo",
+        "form": "rauḫşnā",
+        "meaning": "ışımak, parlamak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "pal",
+        "form": "rōşn",
+        "meaning": "ışımak, parlamak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "rōşan/rawşan",
+        "meaning": "ışık, aydınlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ruşen",
+        "meaning": "aydınlık, parlak",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Aydınlık, parlak.",
+    "currentMeaning": "Işıklı, aydınlık veya parlak olan.",
+    "story": "Kelimenin en eski katmanında ışığın parlamasını anlatan bir Hintavrupa kökü bulunur. Bu kök İran dillerinde biçim değiştirerek Farsçadaki rōşan ve rawşan biçimlerine ulaşmıştır. Türkçedeki ruşen de ışıkla aydınlanan, parlak görünen şeyi niteleyerek aynı görüntüyü taşır.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "rosan"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ruşen maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ru%C5%9Fen"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kâm",
+    "word": "kâm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "keh₂- (kā-)",
+        "meaning": "sevmek",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "kóh₂-mo-s (kṓ-mo-s)",
+        "meaning": "sevmek",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "fa",
+        "form": "kām",
+        "meaning": "sevgi, istek ve haz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kâm",
+        "meaning": "arzu, dileğe erişmenin verdiği zevk",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Arzu ve bu arzuya kavuşmanın verdiği zevk.",
+    "currentMeaning": "İnsanın gönlünden geçen istek; istediğine kavuşmaktan duyduğu haz.",
+    "story": "Kâmın gerisinde, sevmeyi anlatan eski bir Hintavrupa kökü vardır. Farsça kām bu bağı sevgi, arzu ve haz çevresinde sürdürür. Türkçede kelime, gönülden geçeni istemekle o isteğe kavuşmanın zevkini aynı ad altında buluşturmuştur.",
+    "firstAttestation": {
+      "source": "Ömer b. Mezîd — Mecmuatü'n-nezâir",
+      "period": "1437",
+      "form": "kāmını"
+    },
+    "relatives": [
+      {
+        "word": "kāma",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Kama Sutra adındaki Sanskritçe kāma ile Türkçedeki kâm aynı eski kökü paylaşır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kâm maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/k%C3%A2m"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "zebun",
+    "word": "zebun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "zabūn",
+        "meaning": "gücü tükenmiş, zayıf düşmüş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "zebun",
+        "meaning": "güçsüz, karşı koyamayan",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Güçsüz ve çaresiz kalmış.",
+    "currentMeaning": "Gücü azalmış, direnme veya bir işin üstesinden gelme yetisi kalmamış olan.",
+    "story": "Farsça zabūn, gücünü yitirmiş ve ayakta durmakta zorlanan kişinin durumunu anlatır. Türkçede zebun biçimiyle hem bedensel zayıflığı hem de bir güç karşısında direnememeyi nitelemeyi sürdürmüştür.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "zebūn"
+    },
+    "relatives": [
+      {
+        "word": "zebunküş",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "zebun maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/zebun"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "zebun",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sirişk",
+    "word": "sirişk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "sirişk",
+        "meaning": "gözyaşı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sirişk",
+        "meaning": "gözyaşı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gözyaşı.",
+    "currentMeaning": "Gözden çıkan yaş damlası.",
+    "story": "Farsçada sirişk, gözde birikip dışarı süzülen yaşın adıdır. Türkçeye de aynı damlayı anlatmak üzere geçmiş, adlandırdığı bedensel olay değişmemiştir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "sirişk maddesi",
+        "url": "https://lugatim.com/s/siri%C5%9Fk"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kemter",
+    "word": "kemter",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "kem",
+        "meaning": "kötü, değersiz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "kem-ter",
+        "meaning": "daha değersiz, daha aşağı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kemter",
+        "meaning": "pek değersiz, itibarı çok düşük",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Pek değersiz ve itibarsız.",
+    "currentMeaning": "Değeri ve itibarı son derece düşük sayılan, çok aşağı görülen.",
+    "story": "Farsçada kem, kötü veya değersiz görüleni niteler. Karşılaştırma bildiren -ter eklenince değerlendirme bir basamak daha aşağıya iner. Türkçeye kemter olarak geçen bu biçim, çok düşük değer ve itibar bildiren güçlü bir nitelemeye dönüşmüştür.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "kem",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "kemter maddesi",
+        "url": "https://lugatim.com/s/kemter"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kişver",
+    "word": "kişver",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "kişver",
+        "meaning": "ülke",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kişver",
+        "meaning": "ülke",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ülke.",
+    "currentMeaning": "Bir memleketi oluşturan toprakların bütünü.",
+    "story": "Farsça kişver, bir ülkenin topraklarını tek bir ad altında toplar. Türkçeye geçerken de bu geniş coğrafi ölçeği korumuş, memleketi anlatan bir ad olarak kullanılmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "kişver maddesi",
+        "url": "https://lugatim.com/s/ki%C5%9Fver"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kûy",
+    "word": "kûy",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "kūy",
+        "meaning": "köy veya mahalle gibi yerleşim alanı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kûy",
+        "meaning": "köy veya mahalle gibi yerleşim alanı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Köy, mahalle veya semt.",
+    "currentMeaning": "İnsanların yerleştiği köy ya da bir yerleşimin mahalle, semt gibi bölümü.",
+    "story": "Farsça kūy, insanların evlerinin bir araya geldiği yerleşim çevresini adlandırır. Türkçede kûy da köyden mahalleye uzanan bu yakın yaşam alanını anlatır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "kûy maddesi",
+        "url": "https://lugatim.com/s/k%C3%BBy"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "suziş",
+    "word": "suziş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "sūḫten",
+        "meaning": "yanmak, yakmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "sūziş",
+        "meaning": "yanma, yakıcı acı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "suziş",
+        "meaning": "yanma, yüreği yakan acı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yanma veya yüreği yakan yoğun acı.",
+    "currentMeaning": "Yanma durumu; kişinin içinde duyduğu yakıcı keder ve ıstırap.",
+    "story": "Farsçada sūḫten, ateşin yaptığı işi, yanmayı ve yakmayı anlatır. Bu fiilden oluşan sūziş, yanma olayını bir ad hâline getirir. Türkçedeki suziş, ateşin bedende bıraktığı yakıcılığı duygulara da taşıyarak derin kederi içte hissedilen bir yanış olarak anlatır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "suziş maddesi",
+        "url": "https://lugatim.com/s/suzi%C5%9F"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

@@ -1,0 +1,1895 @@
+[
+  {
+    "id": "peynir",
+    "word": "peynir",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "panīr", "meaning": "peynir", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "panīr", "meaning": "peynir", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "peynir", "meaning": "sütün katılaştırılmasıyla hazırlanan besin", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sütün mayalanıp katılaştırılmasıyla hazırlanan besin.",
+    "currentMeaning": "Sütün maya yardımıyla katılaştırılmasından elde edilen, farklı kıvam ve tatlarda hazırlanabilen besin.",
+    "story": "Peynirin adının gerisinde, sütü anlatan eski Hint ve İran dili biçimleriyle bir akrabalık bulunur. Orta Farsçada panīr, sütün kendisini değil, ondan hazırlanan besini adlandırıyordu. Farsçadan Türkçeye taşınırken bu besinle bağı korundu; eski penīr ve beynir biçimlerinin ardından bugünkü peynir söyleyişi yerleşti.",
+    "firstAttestation": {"source": "Ebu Hayyan — Kitabu'l-İdrak", "period": "1312", "form": "penīr"},
+    "relatives": [
+      {"word": "páyas", "relation": "eş köken"},
+      {"word": "payah-", "relation": "eş köken"},
+      {"word": "panīr", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Hintçedeki panīr de Farsçadan alınmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "peynir maddesi", "url": "https://www.nisanyansozluk.com/kelime/peynir"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "peynir", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sebze",
+    "word": "sebze",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "sabz", "meaning": "yeşil, taze", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sabz", "meaning": "yeşil, taze, yaş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sabza", "meaning": "yeşillik, ot", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sebze", "meaning": "besin olarak kullanılan bitki veya bitki bölümü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yaprağı, kökü veya başka bölümleri besin olarak kullanılan bitki.",
+    "currentMeaning": "Yaprakları, kökleri, meyveleri veya taneleri yemeklerde kullanılan bitkilerin ve yenilen bölümlerinin ortak adı.",
+    "story": "Sebzenin başlangıcında bir yiyecek türünden önce yeşil renk ve tazelik vardır. Farsça sabz bu özellikleri anlatırken, ondan türeyen sabza yerde biten otları ve yeşillikleri adlandırdı. Türkçede sebze, bu yeşillik alanından mutfakta kullanılan bitkilerin genel adına uzandı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sebze maddesi", "url": "https://www.nisanyansozluk.com/kelime/sebze"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sebze", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meyve",
+    "word": "meyve",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "mēvag", "meaning": "meyve", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "mīva/mēva", "meaning": "meyve", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meyve", "meaning": "bitkinin tohum taşıyan ürünü, yemiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bitkinin tohumlarını taşıyan, çoğu zaman yenebilen ürünü.",
+    "currentMeaning": "Çiçeğin döllenmesini izleyen gelişme sonucunda oluşan, tohumları içinde bulunduran ve birçok bitkide besin olarak tüketilen organ.",
+    "story": "Orta Farsçadaki mēvag, bitkinin verdiği yemişi adlandırıyordu. Farsçada mīva ve mēva biçimleriyle yaşayan bu ad, Türkçeye de aynı somut ürünü anlatmak üzere geçti. Söyleyiş meyveye dönüşürken dalda yetişen, olgunlaşıp dökülen yemişle bağı sürdü.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "mīve"},
+    "relatives": [
+      {"word": "məġdē", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "meyve maddesi", "url": "https://www.nisanyansozluk.com/kelime/meyve"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "meyve", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "havuç",
+    "word": "havuç",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "havīc/havic", "meaning": "yenilebilir kökü için yetiştirilen sebze", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "havuç", "meaning": "etli kökü yenen bitki ve kökü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Etli kökü sebze olarak yenen iki yıllık bitki.",
+    "currentMeaning": "Maydanozgiller ailesinden, aşağı doğru daralan etli kökü için yetiştirilen iki yıllık bitki ve bu bitkinin yenilen kökü.",
+    "story": "Farsçada havīc, toprağın altında gelişen yenilebilir köküyle tanınan sebzenin adıydı. Türkçedeki eski hevc ve hevic biçimleri de aynı bitkiyi gösteriyordu. On yedinci yüzyılda halk söyleyişinde havuç biçimine yaklaşılırken adın gösterdiği kök sebze değişmedi.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "havuç maddesi", "url": "https://www.nisanyansozluk.com/kelime/havu%C3%A7"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "havuç", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hıyar",
+    "word": "hıyar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫiyār", "meaning": "seçme, tercih; bitki adıyla bağlantısı tartışmalı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ḫiyār", "meaning": "salatalık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hıyar", "meaning": "salatalık bitkisi ve meyvesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Salatalık bitkisi ve bu bitkinin yenilen uzun meyvesi.",
+    "currentMeaning": "Kabakgiller ailesinden, yerde yayılarak büyüyen bir yıllık bitki ve bu bitkinin genellikle çiğ tüketilen uzun meyvesi.",
+    "story": "Farsçada ḫiyār, uzun meyveli salatalığın adıydı ve Türkçeye bu bitkiyi adlandırmak üzere geçti. Daha geride Arapçadaki seçme ve tercih kavramıyla bir bağ kurulsa da bu açıklama kesin değildir. Bitkinin biçimi nedeniyle örtmeceli bir adlandırma yapıldığı düşüncesi, önerilen anlam geçişini açıklamaya çalışır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "ḫear"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Farsça bitki adı ḫiyār ile Arapça 'seçme, tercih' bildiren ḫiyār arasındaki bağı tahmine dayalı veya tartışmalı olarak işaretler.",
+      "TDK Güncel Türkçe Sözlük, bitki adının doğrudan kaynağını Farsça olarak verir; daha eski Arapça bağlantısını belirtmez."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hıyar maddesi; bitki anlamı", "url": "https://www.nisanyansozluk.com/kelime/h%C4%B1yar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hıyar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "turşu",
+    "word": "turşu",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ters-", "meaning": "kurumak", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "tr̥s-i̯é-", "meaning": null, "period": null, "reconstructed": true},
+      {"language": "pal", "form": "tru(f)ş", "meaning": "ekşi veya tuzlu", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "turş", "meaning": "ekşi veya tuzlu", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "turşī", "meaning": "ekşilik; salamura veya sirkede mayalanan yiyecek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "turşu", "meaning": "salamura veya sirkeyle hazırlanan sebze ya da meyve", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sebze veya meyvenin salamura ya da sirkeyle hazırlanmış hâli.",
+    "currentMeaning": "Sebze ya da meyvelerin tuzlu su veya sirke içinde bekletilerek tat ve kıvam kazanmasıyla hazırlanan yiyecek.",
+    "story": "Turşunun uzak geçmişinde kurumayı anlatan bir kök bulunur; İran dillerindeki devamında ekşi ve tuzlu tatlar öne çıkar. Farsça turş bu tatları nitelerken turşī hem ekşiliği hem de bu tadı kazanmış yiyeceği adlandırdı. Türkçe, adı tuzlu suya veya sirkeye yatırılan sebze ve meyveler için benimsedi.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1400 öncesi", "form": "turşīsi"},
+    "relatives": [
+      {"word": "thirst", "relation": "eş köken"},
+      {"word": "terra", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "İngilizce thirst ve Latince terra, turşunun en eski köküyle akrabadır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "turşu maddesi", "url": "https://www.nisanyansozluk.com/kelime/tur%C5%9Fu"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "turşu", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "reçel",
+    "word": "reçel",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "rīçāl/riçāl", "meaning": "reçel", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "reçel", "meaning": "meyvenin şekerle pişirilmesiyle yapılan tatlı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Meyvelerin şekerle pişirilmesiyle yapılan tatlı.",
+    "currentMeaning": "Meyvenin şekerle birlikte kaynatılıp kıvamlandırılmasıyla elde edilen tatlı yiyecek.",
+    "story": "Farsçadaki rīçāl, meyvenin tatlı bir yiyeceğe dönüştürülmüş hâlinin adıydı. Türkçeye giren adın eski rīçāl biçimi zamanla reçel söyleyişine dönüştü. Buradaki yolculukta yiyeceğin anlamı korunurken adı Türkçenin seslerine yaklaştı.",
+    "firstAttestation": {"source": "Anonim — Ferec ba'd eş-şidde", "period": "1451 öncesi", "form": "rīçāller"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "reçel maddesi", "url": "https://www.nisanyansozluk.com/kelime/re%C3%A7el"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "reçel", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pirinç",
+    "word": "pirinç",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "sa",
+    "chain": [
+      {"language": "sa", "form": "vrīha/vrīza", "meaning": "pirinç", "period": null, "reconstructed": false},
+      {"language": "peo", "form": "wrīza-/wrinca-", "meaning": "pirinç", "period": null, "reconstructed": true},
+      {"language": "fa", "form": "brinc/birinc", "meaning": "pirinç bitkisi ve tanesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pirinç", "meaning": "sulu alanlarda yetiştirilen tahıl ve yenilen tanesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bol suyla yetiştirilen bir tahıl ve onun yenilen tanesi.",
+    "currentMeaning": "Buğdaygiller ailesinden, suya doygun alanlarda yetiştirilen bitki ve kabuklarından ayrılarak yemeklerde kullanılan taneleri.",
+    "story": "Pirinç adı, Güney Asya'daki bir Dravid dilinden Sanskritçeye uzanan bir geçmiş taşır. Eski Farsça üzerinden Farsçadaki brinc ve birinc biçimlerine ulaşırken aynı tahılı adlandırmayı sürdürdü. Türkçeye Farsçadan giren bu ad, eski metinlerde aynı ürün için kullanılan tuturgan adıyla birlikte görüldü.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "brinç"},
+    "relatives": [
+      {"word": "oryza", "relation": "eş köken"},
+      {"word": "ruzz", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pirinç maddesi; tahıl anlamı", "url": "https://www.nisanyansozluk.com/kelime/pirin%C3%A7"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pirinç; bitki anlamı", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nohut",
+    "word": "nohut",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "naḫōd", "meaning": "nohut", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "naḫōd/nuḫōd", "meaning": "nohut", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nohut", "meaning": "bir baklagil ve yenilen tanesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yemeklerde kullanılan taneleri için yetiştirilen bir baklagil.",
+    "currentMeaning": "Baklagiller ailesinden, sarımsı çiçekler açan tarım bitkisi ve bu bitkinin besin olarak kullanılan taneleri.",
+    "story": "Orta Farsçadaki naḫōd, bugün de tanelerini yediğimiz baklagilin adıydı. Farsçada naḫōd ve nuḫōd biçimleriyle sürdürülen ad, Türkçede nohut oldu. Diller arasında değişen seslerine karşılık, tarladaki bitkiyle sofradaki taneyi birlikte adlandırma işlevi korundu.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "noghu[t]"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nohut maddesi", "url": "https://www.nisanyansozluk.com/kelime/nohut"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nohut", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mercimek",
+    "word": "mercimek",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "marcumak", "meaning": "küçük taneli bir baklagil, mercimek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mercimek", "meaning": "yassı taneleri yenen baklagil", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Küçük ve yassı taneleri yenen bir baklagil.",
+    "currentMeaning": "Baklagiller ailesinden, beyaz çiçekli tarım bitkisi ve yemeklerde kullanılan küçük, yassı taneleri.",
+    "story": "Farsça marcumak, küçük taneli mercimeği adlandırıyordu. Bu ad, aynı dilde göz bebeğini anlatan mardumak ile kök bağı taşır; mardumak da insanı anlatan mardumla bağlantılıdır. Bitki adı Türkçeye mercimek olarak geçerken gözle ilgili kullanım değil, yenilen tanenin adı yerleşti.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "maruimak"},
+    "relatives": [
+      {"word": "mardumak", "relation": "eş köken"},
+      {"word": "mardum", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mercimek maddesi", "url": "https://www.nisanyansozluk.com/kelime/mercimek"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mercimek", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "patlıcan",
+    "word": "patlıcan",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "sa",
+    "chain": [
+      {"language": "sa", "form": "vātigagama/vātiŋgaṇa", "meaning": "patlıcan", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bādingān", "meaning": "patlıcan", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "bādincān", "meaning": "patlıcan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "patlıcan", "meaning": "meyvesi sebze olarak yenen bitki", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Meyvesi sebze olarak kullanılan bir bitki ve onun meyvesi.",
+    "currentMeaning": "Patlıcangiller ailesinden, kalınca saplı ve uzun yapraklı otsu bitki ile yemeklerde kullanılan etli meyvesi.",
+    "story": "Hindistan kökenli bu bitkinin adı, Sanskritçeden Farsçaya, oradan da Arapçaya taşındı. Farsça bādingān ve Arapça bādincān aynı sebzeyi gösterirken Türkçedeki söyleyiş zamanla patlıcan biçimini aldı. Bitki Yakın Doğu'da tanındıkça adı da farklı dillerin seslerine uyarlanarak yaşamayı sürdürdü.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "aubergine", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Fransızca aubergine, aynı Arapça bitki adının Katalanca üzerinden geçmiş biçimidir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "patlıcan maddesi", "url": "https://www.nisanyansozluk.com/kelime/patl%C4%B1can"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "patlıcan", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ıspanak",
+    "word": "ıspanak",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "spey-", "meaning": "sivrilikle ilişkili kök", "period": null, "reconstructed": true},
+      {"language": "peo", "form": "spai-", "meaning": "dikenli, uzun veya sivri nesne", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "ispanāḫ/ispanāg/spanāg", "meaning": "ıspanak", "period": null, "reconstructed": true},
+      {"language": "fa", "form": "ispanāḫ/ispānac/sipānāḫ/sipānāc", "meaning": "ıspanak bitkisi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ıspanak", "meaning": "yaprakları yenen sebze", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yeşil yaprakları sebze olarak yenen bitki.",
+    "currentMeaning": "Yaprakları yemek, börek ve benzeri yiyeceklerde kullanılan otsu sebze bitkisi.",
+    "story": "Ispanağın adını Farsçaya bağlayan açıklama, daha geride sivri ve dikenli nesneleri anlatan eski bir köke uzanır. Bu çizgide ad, İran dillerinde bir sebzeye bağlanmış ve Türkçede yaprakları yenen bitkiyi adlandırmıştır. Ancak Türkçeye doğrudan Farsçadan mı, Rumcadan mı geçtiği konusunda kaynaklar uyuşmaz.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "yspanak"},
+    "relatives": [
+      {"word": "spinach", "relation": "eş köken"},
+      {"word": "épinard", "relation": "eş köken"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Türkçe ıspanağı Farsça biçimlerden açıklar ve kökü eski İran dilleri üzerinden Hintavrupa Anadiline götürür.",
+      "TDK Güncel Türkçe Sözlük, Türkçeye kaynaklık eden dili Rumca olarak belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ıspanak maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C4%B1spanak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ıspanak", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nar",
+    "word": "nar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "nār/anār", "meaning": "nar ağacı ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nār/anār", "meaning": "nar ağacı ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nar", "meaning": "çok taneli meyve ve onu veren ağaç", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İçi sulu tanelerle dolu meyve ve bu meyveyi veren ağaç.",
+    "currentMeaning": "Kırmızı çiçekler açan küçük ağaç ve bu ağacın kalınca bir kabuk içinde çok sayıda sulu tane barındıran meyvesi.",
+    "story": "Narın Farsça nār ve anār biçimleri, hem ağacı hem de içi tanelerle dolu meyvesini adlandırıyordu. Bu adın Akkadca ve Hititçedeki karşılıklarıyla kök bağı, geçmişini eski Mezopotamya ve Anadolu'nun bitki adlarına bağlar. Türkçede enār biçimi de kullanılmış, bugünkü dilde kısa nar biçimi yerleşmiştir.",
+    "firstAttestation": {"source": "Anonim — Tezkiretü'l-Evliya tercümesi", "period": "1341", "form": "nār"},
+    "relatives": [
+      {"word": "nurmû", "relation": "eş köken"},
+      {"word": "nur", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nar maddesi; meyve anlamı", "url": "https://www.nisanyansozluk.com/kelime/nar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "badem",
+    "word": "badem",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "wādām", "meaning": "badem", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bādām/bāyām", "meaning": "badem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "badem", "meaning": "badem ağacı ve yenilen içi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sert kabuklu meyvesinin içi yenen ağaç ve onun yenilen içi.",
+    "currentMeaning": "Sert bir kabukla çevrili yenilebilir iç veren ağaç ve bu ağacın besin olarak tüketilen meyve içi.",
+    "story": "Orta Farsçadaki wādām, kabuğunun içi yenilen bademin eski adıdır. Farsçada bādām ve bāyām biçimleri oluşmuş, Türkçede de bādām ile pāyām kullanılmıştır. Bugün badem dediğimiz yiyeceğin adında büyük bir anlam değişmesi yaşanmamış; aynı ürün farklı ses biçimleriyle adlandırılmıştır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "badam"},
+    "relatives": [
+      {"word": "payam", "relation": "eş köken"},
+      {"word": "Acıpayam", "relation": "birleşik"},
+      {"word": "vāma", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Acıpayam ilçesinin adı, eski payam biçimiyle kurulmuş 'acı badem' adlandırmasıdır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "badem maddesi", "url": "https://www.nisanyansozluk.com/kelime/badem"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "badem", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dut",
+    "word": "dut",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "syc",
+    "chain": [
+      {"language": "syc", "form": "tūtā", "meaning": "dut", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tūt", "meaning": "dut ağacı ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dut", "meaning": "dut ağacı ve yenilen meyvesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yaprakları ipek böceğine verilen ağaç ve onun meyvesi.",
+    "currentMeaning": "Ilıman bölgelerde yetişen, yaprakları ipek böceği besiciliğinde kullanılan ağaç ve bu ağacın yenilebilir meyvesi.",
+    "story": "Dutun geçmişini Süryanice tūtā ile başlatan açıklamada, ad Arapçaya tūt olarak geçer ve hem ağacı hem meyvesini gösterir. Türkçenin eski tūt biçimi de aynı bitkiyi adlandırırken zamanla dut söyleyişi yerleşir. Türkçeye geçişteki doğrudan aracının Arapça mı, Farsça mı olduğu konusunda kaynaklar farklı açıklamalar sunar.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1400 öncesi", "form": "tūt"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Türkçe dutu Arapça tūt üzerinden Süryanice tūtā biçimine bağlar.",
+      "TDK Güncel Türkçe Sözlük, Türkçe dutun kaynağını Farsça tūt olarak verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "dut maddesi", "url": "https://www.nisanyansozluk.com/kelime/dut"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dut", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "incir",
+    "word": "incir",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "ancīr", "meaning": "incir", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ancīr", "meaning": "incir", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "incir", "meaning": "incir ağacı ve meyvesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Geniş yapraklı bir ağaç ve onun tatlı meyvesi.",
+    "currentMeaning": "Akdeniz çevresine özgü, geniş ve dilimli yaprakları olan ağaç ile bu ağacın taze veya kurutularak yenilen meyvesi.",
+    "story": "İran dillerindeki ancīr, bugün incir dediğimiz meyvenin eski adını taşır. Türkçe bu adı Farsçadan alırken başlangıçtaki sesleri değişmiş, ancak adın gösterdiği meyve değişmemiştir. Bugünkü incir, hem geniş yapraklı ağacı hem de ondan toplanan tatlı ürünü adlandırır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "ingir"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "incir maddesi", "url": "https://www.nisanyansozluk.com/kelime/incir"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "incir", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şeftali",
+    "word": "şeftali",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "şaft + ālū", "meaning": "kaba, kalın + erik türü meyve", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şaft-ālū", "meaning": "şeftali", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şeftali", "meaning": "şeftali ağacı ve meyvesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Pembe çiçekli bir ağaç ve onun iri çekirdekli, sulu meyvesi.",
+    "currentMeaning": "Gülgiller ailesinden, ılıman iklimlerde yetişen pembe çiçekli ağaç ve bu ağacın etli, sulu meyvesi.",
+    "story": "Şeftalinin Farsça adı, meyveyi erik benzeri ürünlerin arasında tarif eder. Adın ālū bölümü bu meyve grubunu gösterirken şaft bölümü kabalık ve kalınlık niteliği ekler. Bu iki parçadan kurulan şaft-ālū, Türkçeye tek bir meyvenin adı olarak taşınmış ve şeftali biçimini almıştır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "saftalu"},
+    "relatives": [
+      {"word": "zerdali", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": "Şeftalinin eski şeftālü biçimi, 'öpücük' için de kullanılmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şeftali maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Feftali"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şeftali", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zerdali",
+    "word": "zerdali",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "zard + ālū", "meaning": "sarı + erik türü meyve", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "zardālū", "meaning": "sarı erik; kayısı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "zerdali", "meaning": "küçük meyveli kayısı türü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Küçük meyveli bir kayısı türü ve onun meyvesi.",
+    "currentMeaning": "Akdeniz çevresinde yetiştirilen, meyveleri küçük olan kayısı türü ve bu ağacın meyvesi.",
+    "story": "Farsçada zard sarı rengi, ālū ise erik benzeri meyveleri adlandırır. Birleşmeleriyle oluşan zardālū, kayısıyı rengi üzerinden 'sarı erik' olarak tarif ediyordu. Türkçede başlangıçta kayısıyı karşılayan bu adın kapsamı daraldı ve zerdali özellikle küçük meyveli tür için kullanılır oldu.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1400 öncesi", "form": "zerdālūnuŋ"},
+    "relatives": [
+      {"word": "şeftali", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "zerdali maddesi", "url": "https://www.nisanyansozluk.com/kelime/zerdali"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "zerdali", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hurma",
+    "word": "hurma",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "ḫordan, ḫor", "meaning": "yemek", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "ḫormag", "meaning": "yemiş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ḫurmā", "meaning": "yemiş; özellikle taze hurma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hurma", "meaning": "hurma ağacı ve tatlı meyvesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hurma ağacı ve onun tatlı, etli meyvesi.",
+    "currentMeaning": "Sıcak iklimlerde yetişen hurma ağacı ve bu ağacın taze ya da kurutulmuş olarak tüketilen tatlı meyvesi.",
+    "story": "Hurmanın adı, Orta Farsçada yemek eylemine bağlanır. Bu eylemden türeyen ḫormag, belirli bir meyveden önce genel olarak yemişi adlandırıyordu. Farsça ḫurmā kullanımında özellikle taze hurma öne çıktı; Türkçede de ad bu belirli meyve ve ağacı üzerinde yerleşti.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "ḫurma"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hurma maddesi", "url": "https://www.nisanyansozluk.com/kelime/hurma"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hurma", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nişasta",
+    "word": "nişasta",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ni-sed-", "meaning": "aşağı oturmak", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "nişastan", "meaning": "oturmak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "nişāstag", "meaning": "nişasta, çökelti", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nişāsta", "meaning": "nişasta; dibe çöken madde", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nişasta", "meaning": "bitkilerden ayrıştırılarak elde edilen unumsu madde", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Tahıl ve yumru gibi bitkisel ürünlerden elde edilen unumsu madde.",
+    "currentMeaning": "Tahıl, baklagil veya patates gibi bitkisel ürünlerden ayrıştırılan, un görünümünde ve yemeklerde kıvam vermek için de kullanılan madde.",
+    "story": "Nişastanın adının başlangıcında oturmak ve aşağı yerleşmek hareketi vardır. Orta Farsçadaki nişastan fiiline bağlı ad, Farsçada dibe çöken maddeyi ve nişastayı birlikte anlatır. Sıvı içinde dibe oturan çökelti görüntüsü böylece bir mutfak malzemesinin adına dönüşmüş, Türkçeye nişasta olarak geçmiştir.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "nişasta"},
+    "relatives": [
+      {"word": "nişīdati", "relation": "eş köken"},
+      {"word": "nişidaiti", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nişasta maddesi", "url": "https://www.nisanyansozluk.com/kelime/ni%C5%9Fasta"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nişasta", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a3e-5067-7b00-b62c-46e43effa0b3
+--------
+user
+# Köken — Üretim Prompt'u (v6)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. peynir — ipucu: fa — rarity: gündelik
+2. sebze — ipucu: fa — rarity: gündelik
+3. meyve — ipucu: fa — rarity: gündelik
+4. havuç — ipucu: fa — rarity: gündelik
+5. hıyar — ipucu: fa — rarity: gündelik
+6. turşu — ipucu: fa — rarity: gündelik
+7. reçel — ipucu: fa — rarity: gündelik
+8. pirinç — ipucu: fa — rarity: gündelik
+9. nohut — ipucu: fa — rarity: gündelik
+10. mercimek — ipucu: fa — rarity: gündelik
+11. patlıcan — ipucu: ar<fa — rarity: gündelik
+12. ıspanak — ipucu: fa — rarity: gündelik
+13. nar — ipucu: fa — rarity: gündelik
+14. badem — ipucu: fa — rarity: gündelik
+15. dut — ipucu: fa — rarity: gündelik
+16. incir — ipucu: fa — rarity: gündelik
+17. şeftali — ipucu: fa — rarity: gündelik
+18. zerdali — ipucu: fa — rarity: gündelik
+19. hurma — ipucu: fa — rarity: gündelik
+20. nişasta — ipucu: fa — rarity: gündelik
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### peynir
+
+**Nişanyan — peynir**
+
+Zincir (eskiden yeniye):
+- Sanskritçe › páyas › süt  [eşkökenlilik]
+- Avestaca › payah- › süt  [eşkökenlilik]
+- Orta Farsça › panīr › a.a.  [ses evrimi]
+- Farsça / Orta Farsça › panīr › peynir  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > cazeum [peynir] - Fa: panir - Tr: [yok]
+- 1312, Ebu Hayyan — Kitabu'l-İdrak
+  > [[Kıpçakça penīr, Türkmence beynir]]
+- 1680, Meninski — Thesaurus
+  > dil peyniri: caseus oblongus recens
+
+Not: Erm banir պանիր, Hind panīr, Bengali ponir vb. Farsçadan alınmıştır. Güncel Batı Ermenicesinde görülen panir բանիր biçimi Türkçeden ikincil bir etkileşime işaret eder.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/peynir
+
+**TDK** — köken kaydı: Farsça penīr · anlam: Maya ile katılaştırılarak sütten yapılan ve birçok türü olan besin
+
+### sebze
+
+**Nişanyan — sebze**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › sabz › a.a.  [ses evrimi]
+- Farsça › sabz › yeşil, taze, yaş  [türeme]
+- Farsça › sabza › yeşillik, ot  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > erba - Fa: sauzi - Tr: otlar
+- <1421?, Yadigâr-ı İbni Şerif
+  > tereler dimek yaˁnī sebze dimek olur
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sebze
+
+**TDK** — köken kaydı: Farsça sebze · anlam: Genellikle pişirilerek yenen bitkiler veya bunların taneleri; göveri, göverti, sebzevat, zerzevat
+
+### meyve
+
+**Nişanyan — meyve**
+
+Zincir (eskiden yeniye):
+- Soğdca › məġdē › a.a.  [eşkökenlilik]
+- Orta Farsça › mēvag › a.a.  [ses evrimi]
+- Farsça › mīva/mēva › a.a.  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1300, anon. — Mukaddimetü'l-Edeb terc.
+  > tüşdi mīve = töküldi ḫurma birin birin yıġaçdın
+- 1303, Codex Cumanicus
+  > fructus - Fa: miua - Tr: yemis
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/meyve
+
+**TDK** — köken kaydı: Farsça mīve · anlam: Bitkilerde çiçeğin döllenmesinden sonra yumurtalığın gelişmesiyle oluşan tohumları taşıyan, genellikle yenebilen organ; yemiş
+
+### havuç
+
+**Nişanyan — havuç**
+
+Zincir (eskiden yeniye):
+- Farsça › havīc/havic › kökü yenen malum sebze  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1421?, Yadigâr-ı İbni Şerif
+  > yabān hevcine biraz beŋzer
+- 1680, Meninski — Thesaurus
+  > hevc vul. hauc.
+
+Not: Aslı hevc veya hevic iken 17. yy'da halk arasında hawuc telaffuzu kullanılmaktadır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/havu%C3%A7
+
+**TDK** — köken kaydı: Farsça hevīc · anlam: Maydanozgillerden, koni biçimindeki etli kökü için sebze olarak yetiştirilen, iki yıllık otsu bir kültür bitkisi; pürçekli, yeregeçen (Daucus carota)
+
+### hıyar
+
+**Nişanyan — hıyar**
+
+Zincir (eskiden yeniye):
+- Arapça › χiyār › seçme, tercih  [tahmine dayalı veya tartışmalı köken]
+- Farsça › χiyār › salatalık, cucumis sativus  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > cocomarum: ḫear
+- 1354, Mesud b. Ahmed — Süheyl ü Nevbahar terc.
+  > iki böler idi ḫıyār bigi çak
+- 1900, Şemseddin Sami — Kamus-ı Türki
+  > xıyārcık: Hıyar resminde olarak arız olan bir şiş.
+
+Not: Şeklinden ötürü benimsenmiş bir hüsnütabir (euphemism) olduğu söylenir. Osmanlıca metinlerde görülen Ar χıyār "seçme, tercih" ayrı sözcüktür.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/h%C4%B1yar
+
+**Nişanyan — hıyar2**
+
+Zincir (eskiden yeniye):
+- Arapça › χāra › seçti  [türeme]
+- Arapça › χiyār › (iki şeyden birini) seçme, opsiyon  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > ḫiyār: Optio, electio.
+
+Not: Hakk-ı hıyar "iade seçeneğiyle satış" deyiminde geçer. İhtiyar ile eş anşamlıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/h%C4%B1yar2
+
+**TDK** — köken kaydı: Farsça ḫiyār · anlam: Kabakgillerden, uzun, iri meyveli, sürüngen, bir yıllık otsu bir bitki (Cucumis sativus)
+
+### turşu
+
+**Nişanyan — turşu**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *ters- › kurumak  [türeme]
+- Hintavrupa Anadili › *tr̥s-i̯é-  [ses evrimi]
+- Avestaca › tarşna- › kurumak, susamak  [eşkökenlilik]
+- Orta Farsça › tru(f)ş › a.a.  [ses evrimi]
+- Farsça › turş › ekşi veya tuzlu  [türeme]
+- Farsça › turşī › 1. ekşilik, 2. tuzlu su veya sirkede mayalanmış yemiş veya yeşillik  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1400, Hızır Paşa — Müntehab-ı Şifa
+  > kebere turşīsi
+- <1451, anon. — Ferec ba'd eş-şidde
+  > rīçāller, türşīler, pilāv-ı sultānī
+
+Not: Aynı HAvr kökten Lat terra "kuru yer, toprak" < tersa, İng thirst "susamak". Barth 644.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tur%C5%9Fu
+
+**TDK** — köken kaydı: Farsça turşī · anlam: Tuzlu suda, sirkede bırakılarak özel bir kıvama getirilmiş sebze veya meyve
+
+### reçel
+
+**Nişanyan — reçel**
+
+Zincir (eskiden yeniye):
+- Farsça › rīçāl/riçāl › a.a.  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1451, anon. — Ferec ba'd eş-şidde
+  > rīçāller, türşīler, pilāv-ı sultānī
+- 1680, Meninski — Thesaurus
+  > rīçāl vul. reçel
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/re%C3%A7el
+
+**TDK** — köken kaydı: Farsça rīçāl · anlam: Meyvelerin şekerle kaynatılmasıyla hazırlanan tatlı
+
+### pirinç
+
+**Nişanyan — pirinç**
+
+Zincir (eskiden yeniye):
+- Dravidce › *warinci › a.a.  [alıntı]
+- Sanskritçe › vrīha/vrīza › a.a.  [alıntı]
+- Avestaca › vrinca- › a.a.  [eşkökenlilik]
+- Eski Farsça › *wrīza-/*wrinca- › a.a.  [ses evrimi]
+- Farsça › brinc/birinc › Güney Asya kökenli bir tahıl, oryza sativa  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > risum - Fa & Tr: brinč (...) risum - Fa: bring - Tr: tuturgan vel brinǵ
+- 1367, Fahrî — Hüsrev ü Şirin terc.
+  > sovuḳ birinç istemegüŋ ne aṣṣı
+
+Not: Sözcüğün Nihai kaynağı bir Dravid (Güney Hint) dilidir. Karş. Tamil arisi, Telugu warinci. Eski Farsçadan EYun oryza ὄρυζα yoluyla Batı dillerine geçmiştir. • 14. yy ve öncesine ait Türkçe metinlerde bazen tuturgan görülür. • Ar (a.a.) ruzz رُزّ ve ˀaruzz أَرُزّ da aynı kökene dayanır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pirin%C3%A7
+
+**Nişanyan — pirinç2**
+
+Zincir (eskiden yeniye):
+- Farsça › birinc/piring › bir bakır alaşımı, tunç veya sarı tunç  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > latonum - Fa: brinč - Tr: yes [?]
+- 1541, Lugat-i Ni'metullah
+  > [tuç] ṣaru birinç gibi maˁdenīdür
+
+Not: Farsça sözcüğün kaynağı ve tahıl olan pirinçle ilgisi açık değildir. İt bronzo "tunç" > İng brass/brazen "tunç, pirinç" biçimleri 13. yy'da Yakın Doğu dillerinden alınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pirin%C3%A72
+
+**TDK** — köken kaydı: Farsça birinc · anlam: Buğdaygillerden, kökleri bol su içinde yetişen bir bitki (Oryza sativa)
+
+### nohut
+
+**Nişanyan — nohut**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › naχōd › a.a.  [ses evrimi]
+- Farsça › naχōd/nuχōd › a.a.  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > ciceri - Fa & Tr: noghu[t]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/nohut
+
+**TDK** — köken kaydı: Farsça noḫūd · anlam: Baklagillerden, ana yurdu Akdeniz kıyıları olan, birleşik telek yapraklı, çiçekleri sarımtırak renkte, tanesi baklamsı bir bitki (Cicer arietinum)
+
+### mercimek
+
+**Nişanyan — mercimek**
+
+Zincir (eskiden yeniye):
+- Farsça › mardum › adam  [türeme]
+- Farsça › mardumak › göz bebeği, lens  [eşkökenlilik]
+- Farsça › marcumak › baklagillerden küçük taneli bitki, mercimek  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > lenticula - Fa & Tr: maruimak
+- 1533, Filippo Argenti — Regola del Parlare Turco
+  > mergiméch [mercimek]: lente ciuaia
+
+Not: Karş. Lat lens, lenticulus "mercimek" > "göz bebeği". Gerek Farsça gerek Latincede asli anlamın "mercimek" (sebze) olduğu anlaşılıyor.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/mercimek
+
+**TDK** — köken kaydı: Farsça merdumek · anlam: Baklagillerden, beyaz çiçekli bir tarım bitkisi (Lens culinaris)
+
+### patlıcan
+
+**Nişanyan — patlıcan**
+
+Zincir (eskiden yeniye):
+- Sanskritçe › vātigagama/vātiŋgaṇa › a.a.  [alıntı]
+- Farsça › bādingān › a.a.  [alıntı]
+- Arapça › bādincān › patlıcan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > merezana - Fa: badiǵian [badican]
+- <1421?, Yadigâr-ı İbni Şerif
+  > yüz kararır demür rengi gibi olur iki yanakları kızıl olur bādincān rengi gibi dahı olur
+- 1680, Meninski — Thesaurus
+  > bādlicān, bādilcān & vul. patlican
+
+Not: Hindistan kökenli bitki Yakın Doğu'da 10. yy'dan itibaren tanınmıştır. Karş. Hind baiŋgan बैंगन, Malay vaḻutana വഴുതന (a.a.). Eski Hintçeye muhtemelen Dravidceden alıntıdır. • Fr aubergine biçimi, Katalan albergínia vasıtasıyla Arapçadan alınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/patl%C4%B1can
+
+**TDK** — köken kaydı: Arapça bādincān · anlam: Patlıcangillerden, kalın saplı, uzunca yapraklı otsu bitki (Solanum melongena)
+
+### ıspanak
+
+**Nişanyan — ıspanak**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *spey- › a.a.  [ses evrimi]
+- Eski Farsça › *spai- › dikenli, uzun, sivri (nesne)  [ses evrimi]
+- Orta Farsça › *ispanāx/*ispanāg/*spanāg › a.a.  [ses evrimi]
+- Farsça › ispanāχ/ispānac/sipānāχ/sipānāc › bir sebze, spinacia oleracea  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > spinatium - Fa: spanak - Tr: yspanak
+- <1400, Hızır Paşa — Müntehab-ı Şifa
+  > pāzūyıla isfanāḫla ya ˁaṣfūr toḫmıyla cerb şorbā bişüreler
+
+Not: Batı dillerine 13. yy sonlarında Ortadoğu dillerinden alınmıştır. Karş. OYun spanákion, OLat spinaceum, spinargium, Fr épinard, İng spinach.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C4%B1spanak
+
+**TDK** — köken kaydı: Rumca · anlam: Ispanakgillerden, yapraklarından sebze olarak yararlanılan bir bitki (Spinacia oleracea)
+
+### nar
+
+**Nişanyan — nar**
+
+Zincir (eskiden yeniye):
+- Akatça › nurmû › a.a.  [eşkökenlilik]
+- Hititçe › nurati-/nuúrma- › a.a.  [eşkökenlilik]
+- Farsça / Orta Farsça › nār/anār › nar ağacı ve meyvası  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > pomum granatum - Fa: anar - Tr: nardan [nardenk]
+- 1341, anon. — Tezkiretü'l-Evliya terc.
+  > bir tabak nār getürgil
+
+Not: Osmanlıca kaynaklarda enār biçimi daha sık görülür. Karş. Erm nur նուռ (a.a.). Farsça ve Ermenice sözcükler eski Mezopotamya veya Anadolu dillerinden mirastır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/nar
+
+**Nişanyan — nar2**
+
+Zincir (eskiden yeniye):
+- Arapça › nār › ateş  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > ḫāk ü bād u nār ü āb [toprak, hava, ateş, su]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/nar2
+
+**TDK** — köken kaydı: Farsça nār, enār · anlam: Nargillerden, yaprakları karşılıklı, çiçekleri büyük, koyu kırmızı renkte, küçük bir ağaç (Punica granatum)
+
+### badem
+
+**Nişanyan — badem**
+
+Zincir (eskiden yeniye):
+- Sanskritçe › badama/vatama › a.a.  [eşkökenlilik]
+- Orta Farsça › wādām › a.a.  [ses evrimi]
+- Farsça › bādām/bāyām › badem  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > amindula - Fa & Tr: badan, badam
+- <1400, anon. — et-Tuhfetu'z-Zekiyye fi'l-Lugati't-Türkiyye
+  > lawz [Ar.]: pāyām
+- 1680, Meninski — Thesaurus
+  > bādām vul. bādem.
+
+Not: TTr bādām ve pāyām biçimleri görülür. Acıpayam ilçe adı "acı badem" demektir. İki sesli arasında /d/ > /y/ evrimi Farsçada tipiktir. • Aynı İrani kökten Zaz vāma/vām (a.a.).
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/badem
+
+**TDK** — köken kaydı: Farsça bādām · anlam: ► badem ağacı
+
+### dut
+
+**Nişanyan — dut**
+
+Zincir (eskiden yeniye):
+- Aramice-Süryanice › tūtā › a.a.  [alıntı]
+- Arapça › tūt › dut ağacı ve meyvesi, morus indica  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1400, Hızır Paşa — Müntehab-ı Şifa
+  > tūt ağacı köki ... tūt şarābı ... tūt yaprağı
+- 1680, Meninski — Thesaurus
+  > tūt (توت) ... ak ve tatlü tūt, kara tūt ... tūtı vahşī: bögürtlen yemişi
+- 1937, Akşam - gazete
+  > Necmi, dut yemiş bülbül gibi neden susuyorsun?
+
+Not: Muarrab 45 Arapça sözcüğün Süryaniceden alıntı olduğunu belirtir. Akad tuttu (a.a.) Aramiceden alıntıdır (CAD 18.498). Fa tūt/tūd, Erm tut (a.a.) Arapça veya Süryaniceden alıntı olmalıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/dut
+
+**TDK** — köken kaydı: Farsça tūt · anlam: Dutgillerden, kuzey yarım kürenin genellikle ılıman bölgelerinde yetişen, yapraklarıyla ipek böceği beslenen ağaç (Morus)
+
+### incir
+
+**Nişanyan — incir**
+
+Zincir (eskiden yeniye):
+- Farsça / Orta Farsça › ancīr › incir  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > ficus - Fa & Tr: ingir [incir]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/incir
+
+**TDK** — köken kaydı: Farsça encīr · anlam: Dutgillerden, asıl yurdu Akdeniz kıyıları olan, yaprakları geniş dilimli bir ağaç (Ficus carica)
+
+### şeftali
+
+**Nişanyan — şeftali**
+
+Zincir (eskiden yeniye):
+- Farsça › ālū › erik cinsi meyvelerin genel adı  [bileşik sözcüğün devamı]
+- Farsça › şaft › kaba, kalın  [bileşik sözcük]
+- Farsça › şaft-ālū › şeftali  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > persicum - Fa & Tr: saftalu
+
+Not: Men I.923 s.v. buse, şeftālü sözcüğünün "öpücük, buse" anlamında kullanıldığını belirtir. • Fr pêche, İng peach, Alm Pfirsich "şeftali" sözcükleri ilk kez 6. yy'da kaydedilen OLat persica veya persicus "Fars elması" biçiminden türerler (DuCangeL 6:282).
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C5%9Feftali
+
+**TDK** — köken kaydı: Farsça şeft + ālū · anlam: Gülgillerden, ılıman bölgelerde yetişen, çiçekleri pembe renkli bir ağaç (Prunus persica)
+
+### zerdali
+
+**Nişanyan — zerdali**
+
+Zincir (eskiden yeniye):
+- Farsça › ālū › erik cinsi meyvelerin genel adı  [bileşik sözcüğün devamı]
+- Avestaca › zairita- › a.a.  [eşkökenlilik]
+- Farsça › zard › sarı  [bileşik sözcük]
+- Farsça › zardālū › «sarı erik», kayısı, prunus armeniaca  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1400, Hızır Paşa — Müntehab-ı Şifa
+  > acı zerdālūnuŋ çekürdegi yağı
+- 1432, Mercimek Ahmed — Kâbusname terc.
+  > erük yā zerdālū ḫoşāfı-ile tīmār olur
+
+Not: Esasen "kayısı" demek iken güncel kullanımda "bir tür küçük taneli kayısı" anlamını kazanmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/zerdali
+
+**TDK** — köken kaydı: Farsça zerd + ālū · anlam: Kayısı ağacının Akdeniz ülkelerinde yetiştirilen küçük meyveli bir türü (Armeniaca vulgaris)
+
+### hurma
+
+**Nişanyan — hurma**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › χordan, χor › yemek  [türeme]
+- Orta Farsça › χormag › yemiş  [ses evrimi]
+- Farsça › χurmā › yemiş, özellikle taze hurma  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1300, anon. — Mukaddimetü'l-Edeb terc.
+  > tüşdi meyva = töküldi ḫurma birin birin yıġaçdın [meyveler birer birer ağaçtan döküldü]
+- 1303, Codex Cumanicus
+  > datillum - Tr: ghorma
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/hurma
+
+**TDK** — köken kaydı: Farsça ḫurmā · anlam: ► hurma ağacı
+
+### nişasta
+
+**Nişanyan — nişasta**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *ni-sed- › aşağı oturmak, a.a.  [ses evrimi]
+- Sanskritçe › nişīdati › a.a.  [eşkökenlilik]
+- Avestaca › nişidaiti › a.a.  [eşkökenlilik]
+- Orta Farsça › nişastan › oturmak  [türeme]
+- Orta Farsça › nişāstag › a.a.  [ses evrimi]
+- Farsça › nişāsta › nişasta, çökelti  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1360, anon. — Danişmend-Name
+  > biş yüz batman nişasta, biŋ batman bal, biŋ batman yağ
+- 1680, Meninski — Thesaurus
+  > nişāste vul. nişasta
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ni%C5%9Fasta
+
+**TDK** — köken kaydı: Farsça nişāste · anlam: Tahıl tanelerinden, mercimek, bezelye vb. bakla türleri veya patates gibi birtakım yumrulardan özel yöntemlerle çıkarılan una benzer bir madde
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - Nişanyan ilişki alanında **"tahmine dayalı"**, **"tartışmalı"**,
+     **"belirsiz"** veya benzeri bir kayıt varsa `formationType` değerini
+     `"tartışmalı"` yap ve `alternatives` dizisini doldur.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `en` İngilizce · `la` Latince · `de` Almanca · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "peynir",
+    "word": "peynir",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "panīr", "meaning": "peynir", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "panīr", "meaning": "peynir", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "peynir", "meaning": "sütün katılaştırılmasıyla hazırlanan besin", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sütün mayalanıp katılaştırılmasıyla hazırlanan besin.",
+    "currentMeaning": "Sütün maya yardımıyla katılaştırılmasından elde edilen, farklı kıvam ve tatlarda hazırlanabilen besin.",
+    "story": "Peynirin adının gerisinde, sütü anlatan eski Hint ve İran dili biçimleriyle bir akrabalık bulunur. Orta Farsçada panīr, sütün kendisini değil, ondan hazırlanan besini adlandırıyordu. Farsçadan Türkçeye taşınırken bu besinle bağı korundu; eski penīr ve beynir biçimlerinin ardından bugünkü peynir söyleyişi yerleşti.",
+    "firstAttestation": {"source": "Ebu Hayyan — Kitabu'l-İdrak", "period": "1312", "form": "penīr"},
+    "relatives": [
+      {"word": "páyas", "relation": "eş köken"},
+      {"word": "payah-", "relation": "eş köken"},
+      {"word": "panīr", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Hintçedeki panīr de Farsçadan alınmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "peynir maddesi", "url": "https://www.nisanyansozluk.com/kelime/peynir"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "peynir", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sebze",
+    "word": "sebze",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "sabz", "meaning": "yeşil, taze", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sabz", "meaning": "yeşil, taze, yaş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sabza", "meaning": "yeşillik, ot", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sebze", "meaning": "besin olarak kullanılan bitki veya bitki bölümü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yaprağı, kökü veya başka bölümleri besin olarak kullanılan bitki.",
+    "currentMeaning": "Yaprakları, kökleri, meyveleri veya taneleri yemeklerde kullanılan bitkilerin ve yenilen bölümlerinin ortak adı.",
+    "story": "Sebzenin başlangıcında bir yiyecek türünden önce yeşil renk ve tazelik vardır. Farsça sabz bu özellikleri anlatırken, ondan türeyen sabza yerde biten otları ve yeşillikleri adlandırdı. Türkçede sebze, bu yeşillik alanından mutfakta kullanılan bitkilerin genel adına uzandı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sebze maddesi", "url": "https://www.nisanyansozluk.com/kelime/sebze"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sebze", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meyve",
+    "word": "meyve",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "mēvag", "meaning": "meyve", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "mīva/mēva", "meaning": "meyve", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meyve", "meaning": "bitkinin tohum taşıyan ürünü, yemiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bitkinin tohumlarını taşıyan, çoğu zaman yenebilen ürünü.",
+    "currentMeaning": "Çiçeğin döllenmesini izleyen gelişme sonucunda oluşan, tohumları içinde bulunduran ve birçok bitkide besin olarak tüketilen organ.",
+    "story": "Orta Farsçadaki mēvag, bitkinin verdiği yemişi adlandırıyordu. Farsçada mīva ve mēva biçimleriyle yaşayan bu ad, Türkçeye de aynı somut ürünü anlatmak üzere geçti. Söyleyiş meyveye dönüşürken dalda yetişen, olgunlaşıp dökülen yemişle bağı sürdü.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "mīve"},
+    "relatives": [
+      {"word": "məġdē", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "meyve maddesi", "url": "https://www.nisanyansozluk.com/kelime/meyve"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "meyve", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "havuç",
+    "word": "havuç",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "havīc/havic", "meaning": "yenilebilir kökü için yetiştirilen sebze", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "havuç", "meaning": "etli kökü yenen bitki ve kökü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Etli kökü sebze olarak yenen iki yıllık bitki.",
+    "currentMeaning": "Maydanozgiller ailesinden, aşağı doğru daralan etli kökü için yetiştirilen iki yıllık bitki ve bu bitkinin yenilen kökü.",
+    "story": "Farsçada havīc, toprağın altında gelişen yenilebilir köküyle tanınan sebzenin adıydı. Türkçedeki eski hevc ve hevic biçimleri de aynı bitkiyi gösteriyordu. On yedinci yüzyılda halk söyleyişinde havuç biçimine yaklaşılırken adın gösterdiği kök sebze değişmedi.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "havuç maddesi", "url": "https://www.nisanyansozluk.com/kelime/havu%C3%A7"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "havuç", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hıyar",
+    "word": "hıyar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫiyār", "meaning": "seçme, tercih; bitki adıyla bağlantısı tartışmalı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ḫiyār", "meaning": "salatalık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hıyar", "meaning": "salatalık bitkisi ve meyvesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Salatalık bitkisi ve bu bitkinin yenilen uzun meyvesi.",
+    "currentMeaning": "Kabakgiller ailesinden, yerde yayılarak büyüyen bir yıllık bitki ve bu bitkinin genellikle çiğ tüketilen uzun meyvesi.",
+    "story": "Farsçada ḫiyār, uzun meyveli salatalığın adıydı ve Türkçeye bu bitkiyi adlandırmak üzere geçti. Daha geride Arapçadaki seçme ve tercih kavramıyla bir bağ kurulsa da bu açıklama kesin değildir. Bitkinin biçimi nedeniyle örtmeceli bir adlandırma yapıldığı düşüncesi, önerilen anlam geçişini açıklamaya çalışır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "ḫear"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Farsça bitki adı ḫiyār ile Arapça 'seçme, tercih' bildiren ḫiyār arasındaki bağı tahmine dayalı veya tartışmalı olarak işaretler.",
+      "TDK Güncel Türkçe Sözlük, bitki adının doğrudan kaynağını Farsça olarak verir; daha eski Arapça bağlantısını belirtmez."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hıyar maddesi; bitki anlamı", "url": "https://www.nisanyansozluk.com/kelime/h%C4%B1yar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hıyar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "turşu",
+    "word": "turşu",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ters-", "meaning": "kurumak", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "tr̥s-i̯é-", "meaning": null, "period": null, "reconstructed": true},
+      {"language": "pal", "form": "tru(f)ş", "meaning": "ekşi veya tuzlu", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "turş", "meaning": "ekşi veya tuzlu", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "turşī", "meaning": "ekşilik; salamura veya sirkede mayalanan yiyecek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "turşu", "meaning": "salamura veya sirkeyle hazırlanan sebze ya da meyve", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sebze veya meyvenin salamura ya da sirkeyle hazırlanmış hâli.",
+    "currentMeaning": "Sebze ya da meyvelerin tuzlu su veya sirke içinde bekletilerek tat ve kıvam kazanmasıyla hazırlanan yiyecek.",
+    "story": "Turşunun uzak geçmişinde kurumayı anlatan bir kök bulunur; İran dillerindeki devamında ekşi ve tuzlu tatlar öne çıkar. Farsça turş bu tatları nitelerken turşī hem ekşiliği hem de bu tadı kazanmış yiyeceği adlandırdı. Türkçe, adı tuzlu suya veya sirkeye yatırılan sebze ve meyveler için benimsedi.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1400 öncesi", "form": "turşīsi"},
+    "relatives": [
+      {"word": "thirst", "relation": "eş köken"},
+      {"word": "terra", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "İngilizce thirst ve Latince terra, turşunun en eski köküyle akrabadır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "turşu maddesi", "url": "https://www.nisanyansozluk.com/kelime/tur%C5%9Fu"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "turşu", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "reçel",
+    "word": "reçel",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "rīçāl/riçāl", "meaning": "reçel", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "reçel", "meaning": "meyvenin şekerle pişirilmesiyle yapılan tatlı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Meyvelerin şekerle pişirilmesiyle yapılan tatlı.",
+    "currentMeaning": "Meyvenin şekerle birlikte kaynatılıp kıvamlandırılmasıyla elde edilen tatlı yiyecek.",
+    "story": "Farsçadaki rīçāl, meyvenin tatlı bir yiyeceğe dönüştürülmüş hâlinin adıydı. Türkçeye giren adın eski rīçāl biçimi zamanla reçel söyleyişine dönüştü. Buradaki yolculukta yiyeceğin anlamı korunurken adı Türkçenin seslerine yaklaştı.",
+    "firstAttestation": {"source": "Anonim — Ferec ba'd eş-şidde", "period": "1451 öncesi", "form": "rīçāller"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "reçel maddesi", "url": "https://www.nisanyansozluk.com/kelime/re%C3%A7el"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "reçel", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pirinç",
+    "word": "pirinç",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "sa",
+    "chain": [
+      {"language": "sa", "form": "vrīha/vrīza", "meaning": "pirinç", "period": null, "reconstructed": false},
+      {"language": "peo", "form": "wrīza-/wrinca-", "meaning": "pirinç", "period": null, "reconstructed": true},
+      {"language": "fa", "form": "brinc/birinc", "meaning": "pirinç bitkisi ve tanesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pirinç", "meaning": "sulu alanlarda yetiştirilen tahıl ve yenilen tanesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bol suyla yetiştirilen bir tahıl ve onun yenilen tanesi.",
+    "currentMeaning": "Buğdaygiller ailesinden, suya doygun alanlarda yetiştirilen bitki ve kabuklarından ayrılarak yemeklerde kullanılan taneleri.",
+    "story": "Pirinç adı, Güney Asya'daki bir Dravid dilinden Sanskritçeye uzanan bir geçmiş taşır. Eski Farsça üzerinden Farsçadaki brinc ve birinc biçimlerine ulaşırken aynı tahılı adlandırmayı sürdürdü. Türkçeye Farsçadan giren bu ad, eski metinlerde aynı ürün için kullanılan tuturgan adıyla birlikte görüldü.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "brinç"},
+    "relatives": [
+      {"word": "oryza", "relation": "eş köken"},
+      {"word": "ruzz", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pirinç maddesi; tahıl anlamı", "url": "https://www.nisanyansozluk.com/kelime/pirin%C3%A7"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pirinç; bitki anlamı", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nohut",
+    "word": "nohut",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "naḫōd", "meaning": "nohut", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "naḫōd/nuḫōd", "meaning": "nohut", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nohut", "meaning": "bir baklagil ve yenilen tanesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yemeklerde kullanılan taneleri için yetiştirilen bir baklagil.",
+    "currentMeaning": "Baklagiller ailesinden, sarımsı çiçekler açan tarım bitkisi ve bu bitkinin besin olarak kullanılan taneleri.",
+    "story": "Orta Farsçadaki naḫōd, bugün de tanelerini yediğimiz baklagilin adıydı. Farsçada naḫōd ve nuḫōd biçimleriyle sürdürülen ad, Türkçede nohut oldu. Diller arasında değişen seslerine karşılık, tarladaki bitkiyle sofradaki taneyi birlikte adlandırma işlevi korundu.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "noghu[t]"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nohut maddesi", "url": "https://www.nisanyansozluk.com/kelime/nohut"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nohut", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mercimek",
+    "word": "mercimek",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "marcumak", "meaning": "küçük taneli bir baklagil, mercimek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mercimek", "meaning": "yassı taneleri yenen baklagil", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Küçük ve yassı taneleri yenen bir baklagil.",
+    "currentMeaning": "Baklagiller ailesinden, beyaz çiçekli tarım bitkisi ve yemeklerde kullanılan küçük, yassı taneleri.",
+    "story": "Farsça marcumak, küçük taneli mercimeği adlandırıyordu. Bu ad, aynı dilde göz bebeğini anlatan mardumak ile kök bağı taşır; mardumak da insanı anlatan mardumla bağlantılıdır. Bitki adı Türkçeye mercimek olarak geçerken gözle ilgili kullanım değil, yenilen tanenin adı yerleşti.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "maruimak"},
+    "relatives": [
+      {"word": "mardumak", "relation": "eş köken"},
+      {"word": "mardum", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mercimek maddesi", "url": "https://www.nisanyansozluk.com/kelime/mercimek"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mercimek", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "patlıcan",
+    "word": "patlıcan",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "sa",
+    "chain": [
+      {"language": "sa", "form": "vātigagama/vātiŋgaṇa", "meaning": "patlıcan", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bādingān", "meaning": "patlıcan", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "bādincān", "meaning": "patlıcan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "patlıcan", "meaning": "meyvesi sebze olarak yenen bitki", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Meyvesi sebze olarak kullanılan bir bitki ve onun meyvesi.",
+    "currentMeaning": "Patlıcangiller ailesinden, kalınca saplı ve uzun yapraklı otsu bitki ile yemeklerde kullanılan etli meyvesi.",
+    "story": "Hindistan kökenli bu bitkinin adı, Sanskritçeden Farsçaya, oradan da Arapçaya taşındı. Farsça bādingān ve Arapça bādincān aynı sebzeyi gösterirken Türkçedeki söyleyiş zamanla patlıcan biçimini aldı. Bitki Yakın Doğu'da tanındıkça adı da farklı dillerin seslerine uyarlanarak yaşamayı sürdürdü.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "aubergine", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Fransızca aubergine, aynı Arapça bitki adının Katalanca üzerinden geçmiş biçimidir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "patlıcan maddesi", "url": "https://www.nisanyansozluk.com/kelime/patl%C4%B1can"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "patlıcan", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ıspanak",
+    "word": "ıspanak",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "spey-", "meaning": "sivrilikle ilişkili kök", "period": null, "reconstructed": true},
+      {"language": "peo", "form": "spai-", "meaning": "dikenli, uzun veya sivri nesne", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "ispanāḫ/ispanāg/spanāg", "meaning": "ıspanak", "period": null, "reconstructed": true},
+      {"language": "fa", "form": "ispanāḫ/ispānac/sipānāḫ/sipānāc", "meaning": "ıspanak bitkisi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ıspanak", "meaning": "yaprakları yenen sebze", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yeşil yaprakları sebze olarak yenen bitki.",
+    "currentMeaning": "Yaprakları yemek, börek ve benzeri yiyeceklerde kullanılan otsu sebze bitkisi.",
+    "story": "Ispanağın adını Farsçaya bağlayan açıklama, daha geride sivri ve dikenli nesneleri anlatan eski bir köke uzanır. Bu çizgide ad, İran dillerinde bir sebzeye bağlanmış ve Türkçede yaprakları yenen bitkiyi adlandırmıştır. Ancak Türkçeye doğrudan Farsçadan mı, Rumcadan mı geçtiği konusunda kaynaklar uyuşmaz.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "yspanak"},
+    "relatives": [
+      {"word": "spinach", "relation": "eş köken"},
+      {"word": "épinard", "relation": "eş köken"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Türkçe ıspanağı Farsça biçimlerden açıklar ve kökü eski İran dilleri üzerinden Hintavrupa Anadiline götürür.",
+      "TDK Güncel Türkçe Sözlük, Türkçeye kaynaklık eden dili Rumca olarak belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ıspanak maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C4%B1spanak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ıspanak", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nar",
+    "word": "nar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "nār/anār", "meaning": "nar ağacı ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nār/anār", "meaning": "nar ağacı ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nar", "meaning": "çok taneli meyve ve onu veren ağaç", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İçi sulu tanelerle dolu meyve ve bu meyveyi veren ağaç.",
+    "currentMeaning": "Kırmızı çiçekler açan küçük ağaç ve bu ağacın kalınca bir kabuk içinde çok sayıda sulu tane barındıran meyvesi.",
+    "story": "Narın Farsça nār ve anār biçimleri, hem ağacı hem de içi tanelerle dolu meyvesini adlandırıyordu. Bu adın Akkadca ve Hititçedeki karşılıklarıyla kök bağı, geçmişini eski Mezopotamya ve Anadolu'nun bitki adlarına bağlar. Türkçede enār biçimi de kullanılmış, bugünkü dilde kısa nar biçimi yerleşmiştir.",
+    "firstAttestation": {"source": "Anonim — Tezkiretü'l-Evliya tercümesi", "period": "1341", "form": "nār"},
+    "relatives": [
+      {"word": "nurmû", "relation": "eş köken"},
+      {"word": "nur", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nar maddesi; meyve anlamı", "url": "https://www.nisanyansozluk.com/kelime/nar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "badem",
+    "word": "badem",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "wādām", "meaning": "badem", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bādām/bāyām", "meaning": "badem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "badem", "meaning": "badem ağacı ve yenilen içi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sert kabuklu meyvesinin içi yenen ağaç ve onun yenilen içi.",
+    "currentMeaning": "Sert bir kabukla çevrili yenilebilir iç veren ağaç ve bu ağacın besin olarak tüketilen meyve içi.",
+    "story": "Orta Farsçadaki wādām, kabuğunun içi yenilen bademin eski adıdır. Farsçada bādām ve bāyām biçimleri oluşmuş, Türkçede de bādām ile pāyām kullanılmıştır. Bugün badem dediğimiz yiyeceğin adında büyük bir anlam değişmesi yaşanmamış; aynı ürün farklı ses biçimleriyle adlandırılmıştır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "badam"},
+    "relatives": [
+      {"word": "payam", "relation": "eş köken"},
+      {"word": "Acıpayam", "relation": "birleşik"},
+      {"word": "vāma", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Acıpayam ilçesinin adı, eski payam biçimiyle kurulmuş 'acı badem' adlandırmasıdır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "badem maddesi", "url": "https://www.nisanyansozluk.com/kelime/badem"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "badem", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dut",
+    "word": "dut",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "syc",
+    "chain": [
+      {"language": "syc", "form": "tūtā", "meaning": "dut", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tūt", "meaning": "dut ağacı ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dut", "meaning": "dut ağacı ve yenilen meyvesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yaprakları ipek böceğine verilen ağaç ve onun meyvesi.",
+    "currentMeaning": "Ilıman bölgelerde yetişen, yaprakları ipek böceği besiciliğinde kullanılan ağaç ve bu ağacın yenilebilir meyvesi.",
+    "story": "Dutun geçmişini Süryanice tūtā ile başlatan açıklamada, ad Arapçaya tūt olarak geçer ve hem ağacı hem meyvesini gösterir. Türkçenin eski tūt biçimi de aynı bitkiyi adlandırırken zamanla dut söyleyişi yerleşir. Türkçeye geçişteki doğrudan aracının Arapça mı, Farsça mı olduğu konusunda kaynaklar farklı açıklamalar sunar.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1400 öncesi", "form": "tūt"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Türkçe dutu Arapça tūt üzerinden Süryanice tūtā biçimine bağlar.",
+      "TDK Güncel Türkçe Sözlük, Türkçe dutun kaynağını Farsça tūt olarak verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "dut maddesi", "url": "https://www.nisanyansozluk.com/kelime/dut"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dut", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "incir",
+    "word": "incir",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "ancīr", "meaning": "incir", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ancīr", "meaning": "incir", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "incir", "meaning": "incir ağacı ve meyvesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Geniş yapraklı bir ağaç ve onun tatlı meyvesi.",
+    "currentMeaning": "Akdeniz çevresine özgü, geniş ve dilimli yaprakları olan ağaç ile bu ağacın taze veya kurutularak yenilen meyvesi.",
+    "story": "İran dillerindeki ancīr, bugün incir dediğimiz meyvenin eski adını taşır. Türkçe bu adı Farsçadan alırken başlangıçtaki sesleri değişmiş, ancak adın gösterdiği meyve değişmemiştir. Bugünkü incir, hem geniş yapraklı ağacı hem de ondan toplanan tatlı ürünü adlandırır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "ingir"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "incir maddesi", "url": "https://www.nisanyansozluk.com/kelime/incir"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "incir", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şeftali",
+    "word": "şeftali",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "şaft + ālū", "meaning": "kaba, kalın + erik türü meyve", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şaft-ālū", "meaning": "şeftali", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şeftali", "meaning": "şeftali ağacı ve meyvesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Pembe çiçekli bir ağaç ve onun iri çekirdekli, sulu meyvesi.",
+    "currentMeaning": "Gülgiller ailesinden, ılıman iklimlerde yetişen pembe çiçekli ağaç ve bu ağacın etli, sulu meyvesi.",
+    "story": "Şeftalinin Farsça adı, meyveyi erik benzeri ürünlerin arasında tarif eder. Adın ālū bölümü bu meyve grubunu gösterirken şaft bölümü kabalık ve kalınlık niteliği ekler. Bu iki parçadan kurulan şaft-ālū, Türkçeye tek bir meyvenin adı olarak taşınmış ve şeftali biçimini almıştır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "saftalu"},
+    "relatives": [
+      {"word": "zerdali", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": "Şeftalinin eski şeftālü biçimi, 'öpücük' için de kullanılmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şeftali maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Feftali"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şeftali", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zerdali",
+    "word": "zerdali",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "zard + ālū", "meaning": "sarı + erik türü meyve", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "zardālū", "meaning": "sarı erik; kayısı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "zerdali", "meaning": "küçük meyveli kayısı türü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Küçük meyveli bir kayısı türü ve onun meyvesi.",
+    "currentMeaning": "Akdeniz çevresinde yetiştirilen, meyveleri küçük olan kayısı türü ve bu ağacın meyvesi.",
+    "story": "Farsçada zard sarı rengi, ālū ise erik benzeri meyveleri adlandırır. Birleşmeleriyle oluşan zardālū, kayısıyı rengi üzerinden 'sarı erik' olarak tarif ediyordu. Türkçede başlangıçta kayısıyı karşılayan bu adın kapsamı daraldı ve zerdali özellikle küçük meyveli tür için kullanılır oldu.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1400 öncesi", "form": "zerdālūnuŋ"},
+    "relatives": [
+      {"word": "şeftali", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "zerdali maddesi", "url": "https://www.nisanyansozluk.com/kelime/zerdali"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "zerdali", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hurma",
+    "word": "hurma",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "ḫordan, ḫor", "meaning": "yemek", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "ḫormag", "meaning": "yemiş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ḫurmā", "meaning": "yemiş; özellikle taze hurma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hurma", "meaning": "hurma ağacı ve tatlı meyvesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hurma ağacı ve onun tatlı, etli meyvesi.",
+    "currentMeaning": "Sıcak iklimlerde yetişen hurma ağacı ve bu ağacın taze ya da kurutulmuş olarak tüketilen tatlı meyvesi.",
+    "story": "Hurmanın adı, Orta Farsçada yemek eylemine bağlanır. Bu eylemden türeyen ḫormag, belirli bir meyveden önce genel olarak yemişi adlandırıyordu. Farsça ḫurmā kullanımında özellikle taze hurma öne çıktı; Türkçede de ad bu belirli meyve ve ağacı üzerinde yerleşti.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "ḫurma"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hurma maddesi", "url": "https://www.nisanyansozluk.com/kelime/hurma"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hurma", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nişasta",
+    "word": "nişasta",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ni-sed-", "meaning": "aşağı oturmak", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "nişastan", "meaning": "oturmak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "nişāstag", "meaning": "nişasta, çökelti", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nişāsta", "meaning": "nişasta; dibe çöken madde", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nişasta", "meaning": "bitkilerden ayrıştırılarak elde edilen unumsu madde", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Tahıl ve yumru gibi bitkisel ürünlerden elde edilen unumsu madde.",
+    "currentMeaning": "Tahıl, baklagil veya patates gibi bitkisel ürünlerden ayrıştırılan, un görünümünde ve yemeklerde kıvam vermek için de kullanılan madde.",
+    "story": "Nişastanın adının başlangıcında oturmak ve aşağı yerleşmek hareketi vardır. Orta Farsçadaki nişastan fiiline bağlı ad, Farsçada dibe çöken maddeyi ve nişastayı birlikte anlatır. Sıvı içinde dibe oturan çökelti görüntüsü böylece bir mutfak malzemesinin adına dönüşmüş, Türkçeye nişasta olarak geçmiştir.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "nişasta"},
+    "relatives": [
+      {"word": "nişīdati", "relation": "eş köken"},
+      {"word": "nişidaiti", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nişasta maddesi", "url": "https://www.nisanyansozluk.com/kelime/ni%C5%9Fasta"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nişasta", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+27,664

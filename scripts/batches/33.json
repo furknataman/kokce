@@ -1,0 +1,1153 @@
+[
+  {
+    "id": "safvet",
+    "word": "safvet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ṣafwat",
+        "meaning": "saflık, duruluk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "safvet",
+        "meaning": "iç temizliği, arılık",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İç temizliği ve arılık.",
+    "currentMeaning": "Duygu ve niyetlerin kötülükten uzak, temiz olması.",
+    "story": "Safvet, Arapçadaki duruluk ve arılık düşüncesini Türkçeye taşır. Bulanıklığın bulunmadığı bir şey için düşünülen temizlik, insanın niyetlerine uygulandığında gönül temizliğini anlatır. Saffet biçimiyle de kullanılan kelimede bu arılık düşüncesi korunur.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "saffet",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "safvet maddesi",
+        "url": "https://lugatim.com/s/safvet"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "itminan",
+    "word": "itminan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "iṭmiˀnān",
+        "meaning": "iç huzuru, yatışma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "itminan",
+        "meaning": "iç huzuru",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kaygının yatışmasıyla duyulan iç huzuru.",
+    "currentMeaning": "İnsanın kendini kaygıdan uzak ve içi rahat hissetmesi.",
+    "story": "İtminan, Arapçada içteki huzursuzluğun yatışmasını anlatan bir addır. Türkçede de zihni meşgul eden kaygıların dinmesiyle beliren rahatlığı taşır. Kelimenin merkezinde taşkın bir sevinçten çok, insanın içine yerleşen sükûnet vardır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "mutmain",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "itminan",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "teessür",
+    "word": "teessür",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "as̱ar",
+        "meaning": "iz, eser",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "as̱s̱ara",
+        "meaning": "etkiledi, tesir etti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "taˀas̱s̱ur",
+        "meaning": "etki altında kalma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "teessür",
+        "meaning": "üzüntü duyma",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir olayın etkisiyle duyulan üzüntü.",
+    "currentMeaning": "İnsanın yaşadığı veya öğrendiği bir şey karşısında duyduğu keder.",
+    "story": "Teessürün gerisinde Arapçada iz bildiren as̱ar bulunur. Bu iz düşüncesi, bir şeyin başka bir şey üzerinde etki bırakmasını anlatan fiile, oradan da etkilenme adına uzanır. Türkçede kelimenin anlamı duygusal etkinin kederli tarafında yoğunlaşmış, insanın içinde kalan üzüntüyü anlatır olmuştur.",
+    "firstAttestation": {
+      "source": "Hoca Sadeddin Ef. — Tacü't-Tevârih",
+      "period": "1574",
+      "form": "tees̱s̱ür"
+    },
+    "relatives": [
+      {
+        "word": "eser",
+        "relation": "akraba"
+      },
+      {
+        "word": "tesir",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "teessür maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/teess%C3%BCr"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "teessür",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "teessüf",
+    "word": "teessüf",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "asifa",
+        "meaning": "esef etti, pişmanlık duydu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "taˀassuf",
+        "meaning": "eseflenme, üzülme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "teessüf",
+        "meaning": "hayıflanma, yazıklanma",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir duruma üzülerek hayıflanma.",
+    "currentMeaning": "Olmuş bir şey karşısında üzüntü duyup yazık olduğunu düşünme.",
+    "story": "Teessüfün Arapçadaki başlangıcında, olup bitenin ardından duyulan esef ve pişmanlık vardır. Bu duyguyu bir durum adı olarak taşıyan taˀassuf, Türkçede hayıflanmayı karşılar. Elden kaçmış bir fırsatın ardından söylenen 'yazık' kelimesi, teessüfün duygusunu somutlaştırır.",
+    "firstAttestation": {
+      "source": "Ahmed b. Kadı-i Manyas — Gülistan tercümesi",
+      "period": "1429",
+      "form": "teessüf"
+    },
+    "relatives": [
+      {
+        "word": "esef",
+        "relation": "akraba"
+      },
+      {
+        "word": "müteessif",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "teessüf maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/teess%C3%BCf"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "teessüf",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "teellüm",
+    "word": "teellüm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "elem",
+        "meaning": "ağrımak, acı çekmek, dertlenmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "taˀallum",
+        "meaning": "acı ve keder duyma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "teellüm",
+        "meaning": "kederlenme, eseflenme",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kederlenme ve esef duyma.",
+    "currentMeaning": "Bir şey yüzünden üzülme, içten içe keder duyma.",
+    "story": "Teellümün bağlı olduğu Arapça eylem, ağrımayı ve dertli olmayı birlikte taşır. Böylece bedende hissedilen acıyla insanın içinde duyduğu keder aynı kelime ailesinde buluşur. Türkçedeki teellüm, bu bağın ruhsal tarafını öne çıkararak üzülmeyi anlatır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "elem",
+        "relation": "akraba"
+      },
+      {
+        "word": "müteellim",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "teellüm maddesi",
+        "url": "https://lugatim.com/s/teell%C3%BCm"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tahayyül",
+    "word": "tahayyül",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḫāla",
+        "meaning": "hayalinde canlandırdı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "taḫayyul",
+        "meaning": "düşleme, hayal kurma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tahayyül",
+        "meaning": "algılanmış bir şeyi yokluğunda zihinde canlandırma",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Önceden algılanmış bir şeyi zihinde yeniden canlandırma.",
+    "currentMeaning": "Daha önce duyularla tanınmış bir şeyi, kendisi ortada yokken zihinde yeniden kurma.",
+    "story": "Tahayyül, Arapçada hayal etme eyleminden doğan bir addır. Gözün önünden çekilmiş bir manzarayı zihinde yeniden görmek, kelimenin anlattığı işe örnektir. Türkçede de dışarıda bulunmayan görüntünün içeride canlandırılması düşüncesini korur.",
+    "firstAttestation": {
+      "source": "Şeyhoğlu — Marzubânnâme tercümesi",
+      "period": "1380",
+      "form": "taḫayyül"
+    },
+    "relatives": [
+      {
+        "word": "hayal",
+        "relation": "akraba"
+      },
+      {
+        "word": "muhayyile",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tahayyül maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/tahayy%C3%BCl"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "tahayyül",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tehayyüç",
+    "word": "tehayyüç",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "tahayyuc",
+        "meaning": "coşma, heyecanlanma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tehayyüç",
+        "meaning": "duygusal hareketlenme, coşma",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Duyguların kabarması, heyecana kapılma.",
+    "currentMeaning": "İçinde güçlü bir heyecan uyanması, coşkulu bir duruma gelme.",
+    "story": "Tehayyüç, Arapçada coşma ve hareketlenme bildiren kelime ailesine bağlıdır. Türkçede bu hareketlilik, duyguların kabarıp insanı heyecana sürüklemesi olarak belirir. Aynı ailedeki müteheyyiç de bu durumu yaşayan kişiyi niteler.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "müteheyyiç",
+        "relation": "akraba"
+      },
+      {
+        "word": "heyecan",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müteheyyiç maddesi; ortak kök için",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCteheyyi%C3%A7"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tecahül",
+    "word": "tecahül",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "cahala",
+        "meaning": "bilmedi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "tacāhul",
+        "meaning": "bilmiyormuş gibi davranma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tecahül",
+        "meaning": "bildiğini belli etmeyip bilmez görünme",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bildiği bir şeyi bilmiyormuş gibi davranma.",
+    "currentMeaning": "Bir konuda bilgisi olduğu hâlde bilgisiz görünmeyi seçme.",
+    "story": "Tecahülün başlangıcındaki Arapça fiil, bir şeyi bilmemeyi anlatır. Tacāhul biçiminde ise bilgisizlik bir görünüşe dönüşür: Kişi bildiğini saklayıp bilmiyormuş gibi davranır. Türkçe kelimeyi bu davranışla birlikte almıştır.",
+    "firstAttestation": {
+      "source": "Ömer b. Mezîd — Mecmuatü'n-nezâir",
+      "period": "1437",
+      "form": "tecāhül"
+    },
+    "relatives": [
+      {
+        "word": "cahil",
+        "relation": "akraba"
+      },
+      {
+        "word": "cehalet",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tecahül maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/tecah%C3%BCl"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "tecahül",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nesim",
+    "word": "nesim",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "nasama",
+        "meaning": "hafif bir rüzgârla esti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "nasīm",
+        "meaning": "hafif yel",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nesim",
+        "meaning": "hafifçe esen rüzgâr",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hafifçe esen rüzgâr.",
+    "currentMeaning": "Gücü az, hafifçe hissedilen hava akımı.",
+    "story": "Nesim, Arapçada hafifçe esme eylemine verilen addan gelişir. Yaprakları usulca kıpırdatan bir hava akımı, kelimenin taşıdığı hareketi gösterir. Türkçeye geçişinde bu hafiflik korunmuş, nesim yumuşak bir esintinin adı olmuştur.",
+    "firstAttestation": {
+      "source": "Ömer b. Mezîd — Mecmuatü'n-nezâir",
+      "period": "1437",
+      "form": "nesīm"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "nesim maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/nesim"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "nesim",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tezelzül",
+    "word": "tezelzül",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "tazalzul",
+        "meaning": "sarsılma, sallanma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tezelzül",
+        "meaning": "yerinde duramayıp sallanma",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyin sallanması.",
+    "currentMeaning": "Bir cismin bulunduğu yerde gidip gelerek hareket etmesi.",
+    "story": "Tezelzül, Arapçada sarsılma hareketini adlandırır. Sabit duran bir şeyin oynamaya başlaması, kelimenin somut karşılığıdır. Türkçede de bu hareketi koruyarak sallanmayı anlatır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "zelzele",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "tezelzül",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "telehhüf",
+    "word": "telehhüf",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "lehef",
+        "meaning": "yitirilen bir şey için üzülmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "talahhuf",
+        "meaning": "bir kaybın ardından yanıp yakınma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "telehhüf",
+        "meaning": "kaybedilene özlemle hayıflanma, sızlanma",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yitirilen bir şeyin ardından özlem ve kederle yakınma.",
+    "currentMeaning": "Elden kaçan bir şey için hasret çekerek üzülme, ağlayıp yakınma veya acınma.",
+    "story": "Telehhüfün Arapçadaki çıkış noktası, kaybedilmiş bir şey için duyulan üzüntüdür. Kelime bu kaybın ardından gelen özlemi ve yakınmayı bir arada taşır. Türkçede de artık elde olmayan şeye dönüp dönüp yanmayı anlatır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "telehhüf maddesi",
+        "url": "https://lugatim.com/s/telehh%C3%BCf"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nefha",
+    "word": "nefha",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "nefḥa",
+        "meaning": "hoş koku",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nefha",
+        "meaning": "hoş koku",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hoşa giden koku.",
+    "currentMeaning": "Duyulduğunda hoşluk veren koku.",
+    "story": "Nefha, Arapçadan Türkçeye hoş koku karşılığıyla taşınmıştır. Bir çiçekten çevreye yayılan kokuyu adlandırırken, kokunun güzelliğini öne çıkarır. Türkçedeki kullanımında da bu hoşluk korunur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "nefha",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mütehayyir",
+    "word": "mütehayyir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥāra",
+        "meaning": "şaşkınlığa düştü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mutaḥayyir",
+        "meaning": "hayret içinde kalan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mütehayyir",
+        "meaning": "şaşkınlığa düşmüş",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Şaşkınlığa düşmüş olan.",
+    "currentMeaning": "Gördüğü veya yaşadığı bir şey karşısında şaşırmış kimse.",
+    "story": "Mütehayyir, Arapçada şaşma eylemini yaşayan kişiyi gösteren bir biçimdir. Beklemediği bir durum karşısında ne diyeceğini bilemeyen kişinin hâli, kelimenin merkezindedir. Türkçeye de bu şaşkınlığı taşıyan bir niteleme olarak geçmiştir.",
+    "firstAttestation": {
+      "source": "Anonim — Nehcü'l-Feradis",
+      "period": "1358",
+      "form": "müteḥayyir"
+    },
+    "relatives": [
+      {
+        "word": "hayret",
+        "relation": "akraba"
+      },
+      {
+        "word": "hayran",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mütehayyir maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCtehayyir"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mütehayyir",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mütebessim",
+    "word": "mütebessim",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "basama",
+        "meaning": "gülümsedi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mutabassim",
+        "meaning": "yüzünde gülümseme bulunan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mütebessim",
+        "meaning": "gülümseyen, güler yüzlü",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yüzünde gülümseme bulunan, güler yüzlü.",
+    "currentMeaning": "Gülümseyen veya yüzünde gülümsemeye yatkın bir ifade bulunan.",
+    "story": "Mütebessimin Arapçadaki temelinde gülümseme eylemi vardır. Bu eylemden kurulan mutabassim, yüzünde tebessüm beliren kişiyi gösterir. Türkçede kelime hem o andaki gülümsemeyi hem de kişinin güler yüzlü oluşunu anlatır.",
+    "firstAttestation": {
+      "source": "Sinan Paşa — Tazarru'nâme",
+      "period": "1482",
+      "form": "mütebessim"
+    },
+    "relatives": [
+      {
+        "word": "tebessüm",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mütebessim maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCtebessim"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mütebessim",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mütevekkil",
+    "word": "mütevekkil",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "wakala",
+        "meaning": "güven duydu, vekil olarak görevlendirdi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mutawakkil",
+        "meaning": "işini Allah'a güvenerek bırakan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mütevekkil",
+        "meaning": "işlerini Tanrı'ya veya akışına bırakıp kaderi kabullenen",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İşlerini Tanrı'ya veya akışına bırakıp kaderi kabullenen.",
+    "currentMeaning": "İşlerinin sonucunu Tanrı'ya ya da olayların akışına bırakmış, yazgısına razı olmuş.",
+    "story": "Mütevekkilin gerisinde Arapçada güvenme ve birini vekil kılma eylemleri bulunur. Bir işi güvenilen birine bırakma düşüncesi, mutawakkilde Allah'a güvenip teslim olma yönünü kazanır. Türkçede kelime, işlerini bu güvenle bırakan kişiyi ve olayların akışına razı oluşu anlatır.",
+    "firstAttestation": {
+      "source": "Latifî — Tezkîretü'ş-Şuarâ",
+      "period": "1546",
+      "form": "mütevekkil"
+    },
+    "relatives": [
+      {
+        "word": "vekil",
+        "relation": "akraba"
+      },
+      {
+        "word": "tevekkül",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mütevekkil maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCtevekkil"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mütevekkil",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müteellim",
+    "word": "müteellim",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "taˀallum",
+        "meaning": "elem duyma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mutaˀallim",
+        "meaning": "elem duyan, keder taşıyan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müteellim",
+        "meaning": "içi kederle dolu, üzgün",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İçi kederle dolu, üzgün.",
+    "currentMeaning": "Üzüntü duyan, gönlü elemle dolmuş olan.",
+    "story": "Müteellim, Arapçada elem duyma hâlini anlatan teellümle bağlantılıdır. Duygunun adı, bu biçimde o duyguyu taşıyan kişinin niteliğine dönüşür. Türkçede müteellim denildiğinde içindeki kederiyle öne çıkan bir kişi tasvir edilir.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "teellüm",
+        "relation": "akraba"
+      },
+      {
+        "word": "elem",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "müteellim maddesi",
+        "url": "https://lugatim.com/s/m%C3%BCteellim"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "müteyakkız",
+    "word": "müteyakkız",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "yaḳaẓa",
+        "meaning": "uykudan çıktı, uyanık bulundu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mutayaḳḳiẓ",
+        "meaning": "uyanıklığını koruyan, tetikte duran",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müteyakkız",
+        "meaning": "uyanık, dikkati açık",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Uyanık ve dikkati açık olan.",
+    "currentMeaning": "Çevresinde olup bitenlere karşı uyanıklığını koruyan.",
+    "story": "Müteyakkızın Arapçadaki başlangıcı, uyanma ve uyanık bulunma eylemidir. Uykudan çıkmış olmanın açıklığı, çevredeki gelişmeleri fark etmeye hazır bir dikkati de anlatır. Türkçede kelime bu uyanıklık hâlini koruyan kişiyi niteler.",
+    "firstAttestation": {
+      "source": "Evliya Çelebi — Seyahatname",
+      "period": "1665",
+      "form": "müteyakkız"
+    },
+    "relatives": [
+      {
+        "word": "teyakkuz",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müteyakkız maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCteyakk%C4%B1z"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "müteyakkız",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müteheyyiç",
+    "word": "müteheyyiç",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "hāca",
+        "meaning": "tozuttu, coştu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mutahayyic",
+        "meaning": "coşkuya kapılmış, heyecan duyan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müteheyyiç",
+        "meaning": "heyecana kapılmış",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Heyecana kapılmış olan.",
+    "currentMeaning": "İçinde heyecan bulunan, duyguları hareketlenmiş.",
+    "story": "Müteheyyicin bağlı olduğu Arapça fiil, tozutma ve coşma hareketlerini birlikte taşır. Bu hareketlilik, mutahayyic biçiminde insanın duygularına yerleşir: Duyguları kabarmış kişi böyle nitelenir. Türkçede kelime, aynı iç hareketliliği heyecanlı olma hâliyle sürdürür.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "müteheyyic"
+    },
+    "relatives": [
+      {
+        "word": "heyecan",
+        "relation": "akraba"
+      },
+      {
+        "word": "tehayyüç",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müteheyyiç maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCteheyyi%C3%A7"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "müteheyyiç",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müteessif",
+    "word": "müteessif",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "asifa",
+        "meaning": "esef duydu, üzüldü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mutaˀassif",
+        "meaning": "üzüntü duyan, teessüf eden",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müteessif",
+        "meaning": "eseflenen, üzgün",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir duruma üzülen, eseflenen.",
+    "currentMeaning": "Olup biten bir şey karşısında üzüntü ve esef duyan.",
+    "story": "Müteessif, Arapçada üzülme eylemini yaşayan kişiyi gösterir. Teessüf duygunun adıyken müteessif bu duyguyu taşıyan insanı öne çıkarır. Türkçede de bir olay karşısında eseflenen kişinin hâlini anlatmayı sürdürür.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "müteessif"
+    },
+    "relatives": [
+      {
+        "word": "teessüf",
+        "relation": "akraba"
+      },
+      {
+        "word": "esef",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müteessif maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCteessif"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "müteessif",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müteşevvik",
+    "word": "müteşevvik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "mutaşawwiḳ",
+        "meaning": "istek duyan, özleyen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müteşevvik",
+        "meaning": "bir şeye heves ve istek duyan",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeye heves ve istek duyan.",
+    "currentMeaning": "Bir şeyi yapmaya veya ona kavuşmaya hevesli olan.",
+    "story": "Müteşevvik, Arapçada şevk ve özlem bildiren kelime ailesine bağlıdır. Bir şeye kavuşma isteğinin kişiyi ona yöneltmesi, bu sıfatın taşıdığı duygudur. Türkçede kelime, içinde böyle bir heves bulunan kişiyi niteler.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "şevk",
+        "relation": "akraba"
+      },
+      {
+        "word": "teşvik",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

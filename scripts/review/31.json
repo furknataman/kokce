@@ -1,0 +1,16 @@
+[
+  {
+    "id": "vesamet",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve Kubbealtı Lugatı'nın üçünde de madde yok.",
+      "sources boş ve confidence null; doğrulayıcı ikisi için de hata veriyor.",
+      "Düşürmeden önce şapkalı vesâmet yazımıyla yeniden çekilmeli."
+    ]
+  },
+  {
+    "id": "haşyet",
+    "verdict": "ok",
+    "objections": []
+  }
+]

@@ -13,10 +13,10 @@
   },
   {
     "id": "epigraf",
-    "verdict": "drop",
+    "verdict": "fix",
     "objections": [
-      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor.",
-      "sources null, confidence null; doğrulayıcı ikisi için de hata veriyor."
+      "Önceki turda düşürmüştüm; gerekçem Kubbealtı Lugatı'nın doğrulama hattında çekilmemesiydi. Kubbealtı artık çekiliyor ve maddeyi doğruluyor, karar geri alındı.",
+      "sources null ve confidence null bırakılmıştı; Kubbealtı kaydı kaynak olarak eklendi, confidence tek kaynağa göre orta yapıldı."
     ]
   },
   {

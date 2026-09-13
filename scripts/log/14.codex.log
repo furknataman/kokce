@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "aşina",
+    "word": "aşina",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {"language": "ae", "form": "ḫşnā-, ḫşnās-", "meaning": "bilmek", "period": null, "reconstructed": false},
+      {"language": "peo", "form": "ā-ḫşnav-", "meaning": "bilmek", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "āşnūtan, āşnāv-", "meaning": "işitmek, duyularla kavramak ve bilmek", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "āşnāg", "meaning": "işitmek, duyularla kavramak ve bilmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "āşnā/āşinā", "meaning": "önceden tanınan, yabancı olmayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "aşina", "meaning": "önceden tanınan, yabancı olmayan", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Önceden tanınan, yabancı gelmeyen.",
+    "currentMeaning": "Daha önce karşılaşılmış veya hakkında bilgi edinilmiş olduğu için yabancı gelmeyen.",
+    "story": "Aşinanın geçmişinde duyma, algılama ve bilme eylemleri birbirine bağlanır. Eski İran dillerindeki bu eylem ailesi, Farsçada kişinin önceden bildiği insanı veya şeyi niteleyen bir söze dönüşür. Türkçede de bir yüze, sese veya konuya aşina olmak, onunla daha önce kurulmuş bir tanışıklığı taşır.",
+    "firstAttestation": {"source": "Şeyhoğlu — Marzubânnâme tercümesi", "period": "1380", "form": "āşinā"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "aşina maddesi", "url": "https://www.nisanyansozluk.com/kelime/a%C5%9Fina"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "aşina maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "aşiyan",
+    "word": "aşiyan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "kʷi̯eh₁- (kʷi̯ē-)", "meaning": "yatışmak, durulmak", "period": null, "reconstructed": true},
+      {"language": "ae", "form": "şyāti-", "meaning": "durulmak, hareketsiz kalmak ve dinlenmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "āşiyān", "meaning": "kuşun barınıp yavruladığı yuva", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "aşiyan", "meaning": "kuşun barınıp yavruladığı yuva", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kuşun barındığı yuva.",
+    "currentMeaning": "Kuşların barınmak ve yavrularını büyütmek için kullandığı yuva.",
+    "story": "Aşiyanın en eski anlam bağı durulmak ve dinlenmekle kurulur. Farsçada bu dinlenme düşüncesi, kuşun uçuşunu bırakıp sığındığı yuvanın adında somutlaşır. Türkçeye geçen aşiyan da kuşun barınağını adlandırır.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "āşiyān"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "aşiyan maddesi", "url": "https://www.nisanyansozluk.com/kelime/a%C5%9Fiyan"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "aşiyan maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "berduş",
+    "word": "berduş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dūş/dōş", "meaning": "kolun gövdeyle birleştiği üst bölüm, omuz", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ḫāna bar dūş", "meaning": "evini omzunda taşıyan; yerleşik barınağı bulunmayan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "berduş", "meaning": "yerleşik düzeni olmadan başıboş dolaşan kişi", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yerleşik düzeni olmadan başıboş dolaşan kimse.",
+    "currentMeaning": "Düzenli bir yaşayışı bulunmayan, başıboş dolaşan kimse.",
+    "story": "Berduşun arkasında evini omzunda taşıyan bir insan resmi vardır. Farsça ifadedeki dūş omzu belirtir; bütün ifade, sabit bir barınağı bulunmayan kişiyi anlatır. Türkçede başındaki hane bölümünün düşmesiyle kalan berduş, başıboş ve düzensiz yaşayan kimsenin adı olmuştur.",
+    "firstAttestation": {"source": "Evliya Çelebi — Seyahatname", "period": "1665", "form": "ḫāne berdūş"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "berduş maddesi", "url": "https://www.nisanyansozluk.com/kelime/berdu%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "berduş maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bedbin",
+    "word": "bedbin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "wēn-", "meaning": "görmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bīn", "meaning": "görme eylemini gerçekleştiren", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bad", "meaning": "iyi olmayan, kötü", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bad-bīn", "meaning": "kötülük gören, olumsuz yanlara bakan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bedbin", "meaning": "olayların kötü yanlarını öne çıkaran, karamsar", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Olayların kötü yanlarını öne çıkaran, karamsar.",
+    "currentMeaning": "Durumları olumsuz değerlendirmeye ve kötü sonuçlar beklemeye eğilimli olan.",
+    "story": "Bedbin, Farsçada kötülüğü görme düşüncesini bir insanın bakışına yerleştirir. Bīn bölümünün geçmişi görme eylemine uzanırken bad bu bakışı kötüye yöneltir. Türkçede önce başkalarının kusurlarını arayan kişiyi anlatan söz, daha sonra her durumu olumsuz değerlendiren kötümserin karşılığı olarak da kullanılmıştır.",
+    "firstAttestation": {"source": "Hayalî — Ravzatü'l-envâr", "period": "1449", "form": "bed-bīn"},
+    "relatives": [
+      {"word": "bedhah", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bedbin maddesi", "url": "https://www.nisanyansozluk.com/kelime/bedbin"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bedbin maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bedhah",
+    "word": "bedhah",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫʷāh", "meaning": "isteyen; istek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bad", "meaning": "iyi olmayan, kötü", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bad-ḫʷāh", "meaning": "birine zarar gelmesini isteyen, düşmanca niyet taşıyan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bedhah", "meaning": "başkasına kötülük gelmesini arzulayan", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Başkasına kötülük gelmesini arzulayan.",
+    "currentMeaning": "Bir başkasının zarar görmesini veya kötü duruma düşmesini isteyen.",
+    "story": "Bedhahın Farsça yapısında bir dilek vardır, fakat bu dileğin yönü kötülüktür. İstemeyi anlatan bölüm kötü anlamındaki bad ile birleşince başkasının zararını arzulayan kişiyi niteler. Türkçe kullanımda da kelimenin odağında bu düşmanca istek bulunur.",
+    "firstAttestation": {"source": "Ceride-i Havadis", "period": "1841", "form": "bedhah"},
+    "relatives": [
+      {"word": "bedbin", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bedhah maddesi", "url": "https://www.nisanyansozluk.com/kelime/bedhah"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bedhah maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bedmest",
+    "word": "bedmest",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bad-mast", "meaning": "sarhoşlukla kendini kaybeden", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bedmest", "meaning": "aşırı sarhoş olup kendini denetleyemeyen", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Aşırı sarhoş olup kendini denetleyemeyen.",
+    "currentMeaning": "İçkinin etkisiyle ne yaptığını bilemeyecek duruma gelmiş olan.",
+    "story": "Bedmestin Farsça yapısında kötülüğü belirten bad ile sarhoşluğu anlatan mast birleşir. Bu birleşim sarhoşluğun ölçüyü aşan, kişinin kendine hâkim olamadığı yönünü öne çıkarır. Türkçede de içki yüzünden kendini kaybetmiş kişiyi niteler.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "mest", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bedmest maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "behre",
+    "word": "behre",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "bahrag", "meaning": "kişiye düşen pay, nasip", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bahra", "meaning": "kişiye düşen pay, nasip", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "behre", "meaning": "bir şeyden elde edilen pay veya yarar", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyden elde edilen pay veya yarar.",
+    "currentMeaning": "Bir kimsenin payına düşen şey; bir bilgiden, imkândan veya iyilikten elde ettiği yarar.",
+    "story": "Behrenin geçmişinde bir bütünden kişiye ayrılan pay düşüncesi vardır. Orta Farsçadan Farsçaya uzanan kelime, Türkçede maddi payın yanında bilgiden ve iyilikten edinilen kazanımı da anlatır. Bir şeyden behre almak, o şeyin sunduğundan kendi payına düşeni edinmektir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "behre"},
+    "relatives": [
+      {"word": "behremend", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "behre maddesi", "url": "https://www.nisanyansozluk.com/kelime/behre"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "behre maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "beyhude",
+    "word": "beyhude",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "dādan, dah-", "meaning": "sunmak, ortaya çıkarmak, var etmek", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "hū", "meaning": "iyi", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "hūdahag", "meaning": "iyi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "hūda", "meaning": "doğruluk, gerçeklik ve yarar", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bī", "meaning": "yokluk ve yoksunluk bildiren unsur", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bī-hūda", "meaning": "yararı veya geçerli bir karşılığı bulunmayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "beyhude", "meaning": "yarar sağlamayan, boşa giden", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yarar sağlamayan, boşa giden.",
+    "currentMeaning": "Bir yarar veya sonuç sağlamayan; boşuna yapılmış olan.",
+    "story": "Beyhudenin yapısındaki hūda, Farsçada doğruluk ve yarar gibi olumlu değerler taşır. Önüne gelen bī bu değerlerin yokluğunu bildirerek sözü faydasızlık yönüne çevirir. Türkçede beyhude bir çaba, harcanan emeğin bir karşılık vermemesini anlatır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "bīhūde"},
+    "relatives": [
+      {"word": "bihaber", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "beyhude maddesi", "url": "https://www.nisanyansozluk.com/kelime/beyhude"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "beyhude maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bihaber",
+    "word": "bihaber",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "birleşik",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "fa", "form": "bī", "meaning": "yokluk ve yoksunluk bildiren unsur", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḫaber", "meaning": "bir olay veya durum hakkında bilgi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bihaber", "meaning": "bir olay veya durum hakkında bilgisi bulunmayan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir olay veya durum hakkında bilgisi bulunmayan.",
+    "currentMeaning": "Olan bitenden ya da belirli bir konudan haberi olmayan.",
+    "story": "Bihaberde iki dilin malzemesi birleşir: Farsça bī yoksunluk bildirir, Arapça haber ise olaylara ilişkin bilgiyi taşır. Yan yana geldiklerinde bir kişinin o bilgiden yoksun oluşunu anlatırlar. Türkçede kelime, çevresinde olup biteni veya belirli bir durumu bilmeyen kişiyi niteler.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "haber", "relation": "akraba"},
+      {"word": "beyhude", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bihaber maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "pürüz",
+    "word": "pürüz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "purz/purza", "meaning": "dokuma kenarındaki iplik uçları; küçük kırpıntı ve talaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pürüz", "meaning": "düzgünlüğü bozan küçük kusur; işin ilerlemesini zorlaştıran engel", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Düzgünlüğü bozan küçük kusur veya ilerlemeyi aksatan engel.",
+    "currentMeaning": "Bir yüzeyin düzgünlüğünü bozan çıkıntı ya da kusur; mecazen bir işin ilerlemesini zorlaştıran sorun.",
+    "story": "Pürüzün Farsça geçmişinde dokumanın kenarından çıkan iplikler ve küçük kırpıntılar bulunur. Türkçede bu küçük fazlalıkların adı, bir yüzeyin düzgünlüğünü bozan kusurları da kapsar. Anlam daha sonra soyutlaşır; bir işte çıkan pürüz de işin düzgün ilerleyişini aksatan küçük bir engeldir.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "pürz, pürze"},
+    "relatives": [
+      {"word": "pürüzlenmek", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pürüz maddesi", "url": "https://www.nisanyansozluk.com/kelime/p%C3%BCr%C3%BCz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pürüz maddesi; güncel anlam", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "canhıraş",
+    "word": "canhıraş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫirāşīdan", "meaning": "tırnakla çizmek, tırmalamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ḫirāş", "meaning": "tırmalayıp yara açan", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "cān", "meaning": "yaşam, ruh", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "cānḫirāş", "meaning": "canı yaralayan, derin acı veren", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "canhıraş", "meaning": "şiddetli acı ve dehşet uyandıran", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Şiddetli acı ve dehşet uyandıran.",
+    "currentMeaning": "İnsanı derinden sarsacak ölçüde acı, korku veya dehşet uyandıran.",
+    "story": "Canhıraşın içinde tırnağın açtığı yaranın sertliği vardır. Farsçada tırmalama eyleminden türeyen bölüm can ile birleşince acı doğrudan insanın yaşama ve duyma merkezine yönelir. Türkçede özellikle çığlık gibi sarsıcı sesleri nitelerken bu yaralama resmi duygusal bir etkiye dönüşür.",
+    "firstAttestation": {"source": "Neşrî — Kitab-ı Cihannümâ", "period": "1492", "form": "cān-ḫıraş"},
+    "relatives": [
+      {"word": "can", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "canhıraş maddesi", "url": "https://www.nisanyansozluk.com/kelime/canh%C4%B1ra%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "canhıraş maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "canfeza",
+    "word": "canfeza",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "cānfezā", "meaning": "cana canlılık katan, canlandıran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "canfeza", "meaning": "Türk müziğinde seyrek kullanılan birleşik makam", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Türk müziğinde seyrek kullanılan bir birleşik makam.",
+    "currentMeaning": "Türk müziğinde kullanımı sınırlı kalmış birleşik makamlardan biri.",
+    "story": "Canfezanın Farsça kuruluşunda cana canlılık katma düşüncesi bulunur. Türkçede bu olumlu çağrışımı taşıyan söz, müzik alanında bir makamın özel adı olarak yerleşmiştir. Böylece canlandırıcı etkiyi anlatan ifade, belirli bir müzikal yapıyı adlandırır.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "can", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "canfeza maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "canpare",
+    "word": "canpare",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "birleşik",
+    "donorLanguage": null,
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "cān", "meaning": "yaşam, ruh", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pāre", "meaning": "bir bütünden ayrılan bölüm", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "canpare", "meaning": "kişinin kendi canından bir parça saydığı sevgili kimse", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kişinin kendi canından bir parça saydığı sevgili kimse.",
+    "currentMeaning": "Çok sevilen, kişinin kendi varlığının bir parçası gibi gördüğü kimse için kullanılan sevgi sözü.",
+    "story": "Canpare, Farsça kökenli can ile parçayı belirten pareyi yan yana getirir. Bu kuruluşta sevilen kişi, insanın kendi canından ayrılmış bir parça gibi düşünülür. Böylece parça düşüncesi, güçlü bir yakınlık ve sevgi anlatımına dönüşür.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "can", "relation": "akraba"},
+      {"word": "pare", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "can ve pare maddeleri; birleşiğin bileşenleri", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "derbeder",
+    "word": "derbeder",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dar", "meaning": "bir yere girilip çıkılan açıklık, kapı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dar-ba-dar", "meaning": "bir kapıdan ötekine dolaşan; barınaksız veya dilenen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "derbeder", "meaning": "hayatında ve davranışlarında düzen bulunmayan", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Hayatında ve davranışlarında düzen bulunmayan.",
+    "currentMeaning": "Yaşayışına, görünüşüne veya davranışlarına yeterince düzen ve özen göstermeyen.",
+    "story": "Derbederin Farsça yapısında kapı sözü iki kez karşımıza çıkar. Bir kapıdan ötekine gitme resmi, barınaksız dolaşan veya dilenen kişiyi anlatır. Türkçede bu dışarıda kalmışlık görüntüsü genişleyerek yaşamı ve davranışları dağınık olan kişiye yönelmiştir.",
+    "firstAttestation": {"source": "Ömer b. Mezîd — Mecmuatü'n-nezâir", "period": "1437", "form": "derbeder"},
+    "relatives": [
+      {"word": "dergâh", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "derbeder maddesi", "url": "https://www.nisanyansozluk.com/kelime/derbeder"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "derbeder maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dergâh",
+    "word": "dergâh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "gāh", "meaning": "bir şeyin bulunduğu yer", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dar", "meaning": "bir yere girilip çıkılan açıklık, kapı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dargāh", "meaning": "kapının bulunduğu bölüm, giriş eşiği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dergâh", "meaning": "bir tarikatın dervişlerinin toplandığı ve faaliyet gösterdiği yer", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Dervişlerin toplandığı ve tarikat faaliyetlerinin yürütüldüğü yer.",
+    "currentMeaning": "Bir tarikata bağlı dervişlerin toplandığı, eğitim ve ibadet faaliyetlerinin yürütüldüğü tekke.",
+    "story": "Dergâhın Farsça kuruluşu kapı ile yeri birleştirerek bir giriş eşiğini gösterir. Kapı, kendisine varılan kişinin makamını da temsil eder; kelimenin hükümdar ve şeyh çevresindeki kullanımları bu bağı taşır. Türkçede dergâh, tasavvuf hayatının sürdürüldüğü tekkenin adı olarak yerleşmiştir.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "dergāh"},
+    "relatives": [
+      {"word": "derbeder", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "dergâh maddesi", "url": "https://www.nisanyansozluk.com/kelime/derg%C3%A2h"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dergâh maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "derun",
+    "word": "derun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "andarōn", "meaning": "iç bölüm, iç taraf", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "andarūn", "meaning": "iç bölüm, iç taraf", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "darūn", "meaning": "iç bölüm; insanın gönlü ve duygu dünyası", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "derun", "meaning": "iç taraf; insanın duygu dünyası", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İç taraf veya insanın duygu dünyası.",
+    "currentMeaning": "Bir şeyin iç bölümü; mecazen insanın gönlü ve iç dünyası.",
+    "story": "Derun, eski İran dil biçimlerinde bir şeyin içinde kalan bölgeyi gösterir. Farsçada bu iç alan insanın gönlünü ve duygularını da kapsar. Türkçe kullanımda da dışarıdan görünmeyen yer ile insanın saklı duygu dünyası aynı kelimede buluşur.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "derūn"},
+    "relatives": [
+      {"word": "deruni", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "derun maddesi", "url": "https://www.nisanyansozluk.com/kelime/derun"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "derun maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "didar",
+    "word": "didar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "dīdār", "meaning": "görme; gözle algılanabilir olan", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dīdan", "meaning": "gözle algılamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dīdār", "meaning": "görme; görünen biçim ve insan yüzü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "didar", "meaning": "insan yüzü, özellikle yüzün güzelliği", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnsan yüzü, özellikle yüzün güzelliği.",
+    "currentMeaning": "Yüz ve çehre; özellikle edebî kullanımda yüzün güzelliği.",
+    "story": "Didarın anlam yolculuğu görme eyleminden görülen şeye doğru ilerler. Farsçada bakışın karşısındaki görüntüyü ve yüzü adlandıran kelime, Türkçede tasavvufun Tanrı'yı görme düşüncesinde de kullanılmıştır. Yüzü anlatan kullanımında ise güzellik çağrışımı belirginleşmiştir.",
+    "firstAttestation": {"source": "Rabguzi — Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "dīdār"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "didar maddesi", "url": "https://www.nisanyansozluk.com/kelime/didar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "didar maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dilber",
+    "word": "dilber",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bar", "meaning": "getirme eylemini gerçekleştiren", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dil", "meaning": "duyguların merkezi sayılan gönül", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dilbar", "meaning": "gönlü kendine bağlayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dilber", "meaning": "güzelliğiyle ilgi uyandıran kadın", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Güzelliğiyle ilgi uyandıran kadın.",
+    "currentMeaning": "Güzel ve çekici kadın.",
+    "story": "Dilberin Farsça dil bölümü, duyguların merkezi olan gönlü gösterir. Birleşiğin bütünü gönlü kendine alan kişiyi tasvir ederek güzelliği, karşısındakinde uyandırdığı etki üzerinden anlatır. Türkçede bu gönül çekiciliği, güzel ve alımlı kadının adına dönüşmüştür.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "dil-ber"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "Dilberdeki dil Farsça gönlü, dilbazdaki dil ise Türkçe konuşma organını belirtir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "dilber maddesi", "url": "https://www.nisanyansozluk.com/kelime/dilber"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dilber ve dilbaz maddeleri", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dilbaz",
+    "word": "dilbaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "birleşik",
+    "donorLanguage": null,
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "dil", "meaning": "konuşma organı; söz söyleme yetisi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "-bāz", "meaning": "bir işle uğraşan veya o işe yatkın olan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dilbaz", "meaning": "etkili konuşarak karşısındakini inandıran", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Etkili konuşarak karşısındakini inandıran.",
+    "currentMeaning": "Sözü ustaca kullanan ve konuşmasıyla başkalarını ikna edebilen.",
+    "story": "Dilbazın başlangıcındaki dil, Türkçenin konuşma organını adlandıran sözüdür. Farsça -bāz ile birleştiğinde konuşmayı bir beceri olarak kullanan kişiyi öne çıkarır. Organın adı böylece söz ustalığına, söz ustalığı da karşısındakini ikna etme gücüne bağlanır.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "dil", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dilbaz maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "girift",
+    "word": "girift",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "giriftan, gīr-", "meaning": "yakalamak, elde tutmak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "girift", "meaning": "yakalama; yakalanmış veya esir düşmüş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "girift", "meaning": "öğeleri birbirine dolanmış, çözülmesi güç", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Öğeleri birbirine dolanmış, çözülmesi güç.",
+    "currentMeaning": "Parçaları veya ilişkileri birbirine karışmış olduğu için anlaşılması ya da çözülmesi güç olan.",
+    "story": "Giriftin Farsça geçmişinde yakalama ve tutulma eylemi vardır. Türkçedeki eski kullanımında esir düşen kişi de girift olurken daha sonraki kullanım dolaşmış, birbirine takılmış şeyleri öne çıkarır. Bugün girift bir sorun denildiğinde bu çözülmesi güç dolanıklık düşünce ve ilişkiler alanına taşınır.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "girift"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "girift maddesi", "url": "https://www.nisanyansozluk.com/kelime/girift"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "girift maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a57-f67c-70f1-ab25-353ff8a46e96
+--------
+user
+# Köken — Üretim Prompt'u (v10)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. aşina — ipucu: fa — rarity: az-bilinen
+2. aşiyan — ipucu: fa — rarity: az-bilinen
+3. berduş — ipucu: fa — rarity: az-bilinen
+4. bedbin — ipucu: fa — rarity: az-bilinen
+5. bedhah — ipucu: fa — rarity: az-bilinen
+6. bedmest — ipucu: fa — rarity: az-bilinen
+7. behre — ipucu: fa — rarity: az-bilinen
+8. beyhude — ipucu: fa — rarity: az-bilinen
+9. bihaber — ipucu: fa — rarity: az-bilinen
+10. pürüz — ipucu: fa — rarity: az-bilinen
+11. canhıraş — ipucu: fa — rarity: az-bilinen
+12. canfeza — ipucu: fa — rarity: az-bilinen
+13. canpare — ipucu: fa — rarity: az-bilinen
+14. derbeder — ipucu: fa — rarity: az-bilinen
+15. dergâh — ipucu: fa — rarity: az-bilinen
+16. derun — ipucu: fa — rarity: az-bilinen
+17. didar — ipucu: fa — rarity: az-bilinen
+18. dilber — ipucu: fa — rarity: az-bilinen
+19. dilbaz — ipucu: fa — rarity: az-bilinen
+20. girift — ipucu: fa — rarity: az-bilinen
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### aşina
+
+**Nişanyan — aşina**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Avestaca / Eski Farsça › χşnā-, χşnās- › a.a.  [türeme]
+- Eski Farsça › ā-χşnav- › bilmek  [ses evrimi]
+- Orta Farsça › āşnūtan, āşnāv- › duymak, algılamak, bilmek  [türeme]
+- Orta Farsça › āşnāg › a.a.  [ses evrimi]
+- Farsça › āşnā/āşinā › bilinen, tanıdık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1380, Şeyhoğlu — Marzubânnâme terc.
+  > egerçi ḫıḏmetüŋüz-ile şimdiye degin sābıka yoğ-ıdı, līkin ezelde cānlarumuz āşināy-ıdı
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/a%C5%9Fina
+
+**TDK** — köken kaydı: Farsça āşinā · anlam: Bildik, tanıdık olan
+
+### aşiyan
+
+**Nişanyan — aşiyan**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *kʷi̯eh₁- (*kʷi̯ē-) › dinmek  [ses evrimi]
+- Avestaca › şyāti- › dinmek, durmak, istirahat etmek  [türeme]
+- Farsça › āşiyān › kuş yuvası  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Avestaca › *ā-şyā  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1360, anon. — Danişmend-Name
+  > Bir dem ola āşiyān-ı ḫāk-dān
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/a%C5%9Fiyan
+
+**TDK** — köken kaydı: Farsça āşiyān · anlam: ► kuş yuvası
+
+### berduş
+
+**Nişanyan — berduş**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › dūş/dōş › omuz  [türeme]
+- Farsça › χāna bar dūş › «evi omuzda», evsiz barksız kimse  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1665, Evliya Çelebi — Seyahatname
+  > bunlar bir alay ḫāne berdūş ḫīzān-i ˁulūfeciyān-i mepşūtāndır [evsiz barksız ulufe kaldırıcı? puştlardır]
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > ḫāne berdūş: salyangoz gibi hercai, nerede akşam orada sabah
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/berdu%C5%9F
+
+**TDK** — köken kaydı: Farsça berdūş · anlam: Başıboş, serseri kimse
+
+### bedbin
+
+**Nişanyan — bedbin**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › wēn-  [ses evrimi]
+- Farsça › bīn › gören  [bileşik sözcüğün devamı]
+- Farsça › bad › kötü  [bileşik sözcük]
+- Farsça › bad-bīn › kötü gören  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Avestaca › vaēna- › görmek  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1449, Hayalî — Ravzatü'l-envâr
+  > Göŋül gözin éyü aç düşme bed-bīn
+- 1900, Şemseddin Sami — Kamus-ı Türki
+  > bedbīn: herkesin kötülüğünü gören ve arayan. Lisan-ı siyasiyede Fr. pessimiste kelimesinin tercümesi olarak kullanılır ki her hali fena görmeğe mail demekdir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bedbin
+
+**TDK** — köken kaydı: Farsça bed-bīn · anlam: ► kötümser
+
+### bedhah
+
+**Nişanyan — bedhah**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › χʷāh › dileyen, dilek  [bileşik sözcüğün devamı]
+- Farsça › bad › kötü  [bileşik sözcük]
+- Farsça › bad-χʷāh › kötü dileyen, kötü niyetli, düşman  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1841, Ceride-i Havadis - gazete
+  > Bazı bedhahlar bu maddeyi izam ederek dürlü dürlü eracif neşr etmekde iseler
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bedhah
+
+**TDK** — köken kaydı: Farsça bed + ḫāh · anlam: Başkasının kötülüğünü isteyen, kötü yürekli
+
+### bedmest
+
+Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: bildiğini yaz, bilmediğine `null` koy, uydurma.
+
+### behre
+
+**Nişanyan — behre**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › bahrag › a.a.  [ses evrimi]
+- Farsça › bahra › pay, hisse, nasip  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Sanskritçe › bhadra › talih, mutluluk, güzellik  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > bulardan kimse behre ala
+- 1341, anon. — Tezkiretü'l-Evliya terc.
+  > dürlü ˁilm içinde behresi var-ıdı
+- 1423, Yazıcızade Ali — Tarih-i Âl-i Selçuk
+  > ˁumūm ṭavāyif [ū] ḫalāyıḳ ol ṣadaḳa ve iḥsāndan behremend oldılar.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/behre
+
+**TDK** — köken kaydı: Farsça behre · anlam: ► kısmet
+
+### beyhude
+
+**Nişanyan — beyhude**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › dādan, dah- › vermek, getirmek, yaratmak  [bileşik sözcüğün devamı]
+- Orta Farsça › hū › iyi  [bileşik sözcük]
+- Orta Farsça › hūdahag › a.a.  [ses evrimi]
+- Farsça › hūda › hak, hakikat, fayda  [bileşik sözcüğün devamı]
+- Farsça › bī › olumsuzluk edatı  [bileşik sözcük]
+- Farsça › bī-hūda › faydasız, batıl, abes, anlamsız  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > ne dilinden bīhūde söz söyleye
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/beyhude
+
+**TDK** — köken kaydı: Farsça bīhūde · anlam: ► yararsız
+
+### bihaber
+
+**TDK** — köken kaydı: Farsça bī + Arapça ḫaber · anlam: ► habersiz
+
+### pürüz
+
+**Nişanyan — pürüz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › purz/purza › kumaşın ve özellikle halının kenarından sarkan iplik, püskül, talaş  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > pürz & pürze: kırpındı. Tonsura ex panno [kumaş kırpıntısı) & fomes ignitabuli [yakılacak talaş].
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > pürüz پوروز (...) pürüzlenmek
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/p%C3%BCr%C3%BCz
+
+**TDK** — anlam: Bir şeyin düzgünlüğünü bozacak çıkıntı, gedik veya kusur
+
+### canhıraş
+
+**Nişanyan — canhıraş**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › χirāşīdan › tırmalamak  [türeme]
+- Farsça › χirāş › tırmalayan, yaralayan  [bileşik sözcüğün devamı]
+- Farsça › cān  [bileşik sözcük]
+- Farsça › cānχirāş › can yakan, bağır tırmalayan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1492, Neşrî — Kitab-ı Cihannümâ
+  > kabzesindeki minḳār-i tīr-i cān-ḫıraşla hāzır oldu. [pençesindeki can yakan okun sivri ucuyla bekledi]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/canh%C4%B1ra%C5%9F
+
+**TDK** — köken kaydı: Farsça cānḫirāş · anlam: Yürek paralayan, iç tırmalayan, tüyler ürpertecek kadar korkunç
+
+### canfeza
+
+**TDK** — köken kaydı: Farsça cānfezā · anlam: Türk müziğinde çok az kullanılmış bir birleşik makam
+
+### canpare
+
+Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: bildiğini yaz, bilmediğine `null` koy, uydurma.
+
+### derbeder
+
+**Nişanyan — derbeder**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › dar › kapı  [türeme]
+- Farsça › dar-ba-dar › kapı kapı (dolaşan, dilenen), evsiz barksız, dilenci  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1437, Ömer b. Mezîd — Mecmuatü'n-nezâir
+  > Gör ol bī-devlet ü cimrī dilenür derbeder dérler
+- 1665, Evliya Çelebi — Seyahatname
+  > Bu İç Manya halkı derbeder ve müflis ve bī-hāsıl olmağın
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/derbeder
+
+**TDK** — köken kaydı: Farsça derbeder · anlam: Yaşayışı ve davranışı düzensiz (kimse)
+
+### dergâh
+
+**Nişanyan — dergâh**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › gāh › yer  [bileşik sözcüğün devamı]
+- Farsça › dar › kapı  [bileşik sözcük]
+- Farsça › dargāh › kapı mahalli, eşik  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1317, Gülşehri — Mantıku't-Tayr
+  > çün yakın geldi şeḫüŋ dergâhına
+- 1330, Aşık Paşa — Garib-name
+  > pādişāh dergāhına ola nis̠ār
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/derg%C3%A2h
+
+**TDK** — köken kaydı: Farsça dergāh · anlam: ► tekke
+
+### derun
+
+**Nişanyan — derun**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › andarōn⁠  [ses evrimi]
+- Farsça › andarūn  [türeme]
+- Farsça › darūn › bir şeyin içi, içyüzü, gönül, kalp  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1317, Gülşehri — Mantıku't-Tayr
+  > ola Gülşehrî ü her ehl-i derūn
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/derun
+
+**TDK** — köken kaydı: Farsça derūn · anlam: ► iç
+
+### didar
+
+**Nişanyan — didar**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › dīdār › görüş; görünür  [ses evrimi]
+- Farsça › dīdan › görmek  [türeme]
+- Farsça › dīdār › görme, görüntü, suret, yüz  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1310, Rabguzi — Kısasü'l-Enbiya terc.
+  > Muhammed ˁaleyhi's-selâm şefāˁat kılmağunça hiç kimerse dīdār körmegey,
+- 1317, Gülşehri — Mantıku't-Tayr
+  > görmege dīẕārını gey er gerek
+- 1680, Meninski — Thesaurus
+  > dīdār: yüzün görünen yeri, yüz, vech
+
+Not: Tanrıyı görmeyi ifade eden tasavvuf terimidir. • Anlam evrimi suret > surat gibidir. Güncel Türkçede "yüz güzelliği" anlamı yüklenir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/didar
+
+**TDK** — köken kaydı: Farsça dīdār · anlam: ► yüz (II)
+
+### dilber
+
+**Nişanyan — dilber**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › bar › getiren  [bileşik sözcüğün devamı]
+- Farsça › dil › gönül  [bileşik sözcük]
+- Farsça › dilbar › gönül çelen, gönül alan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1360, anon. — Danişmend-Name
+  > ˁayıb olmasun iy dil-ber saŋa elim uzadursam
+- 1367, Fahrî — Hüsrev ü Şirin terc.
+  > ṣanur şāh bile yatan dilber oldı
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/dilber
+
+**TDK** — köken kaydı: Farsça dilber · anlam: Alımlı, güzel kadın
+
+### dilbaz
+
+**TDK** — köken kaydı: Türkçe dil + Farsça -bāz · anlam: Güzel söz söyleyen, konuşmasıyla ikna eden
+
+### girift
+
+**Nişanyan — girift**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › giriftan, gīr- › tutmak  [türeme]
+- Farsça › girift › tutma, tutulmuş, tutsak  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1360, anon. — Danişmend-Name
+  > Efrumiyye'nüŋ girift olduğın ḫaber virdi.
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > girift: Tutulmuş, dolaşmış Arap saçı (...) dolaşık şey, çepreşik.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/girift
+
+**TDK** — köken kaydı: Farsça girift · anlam: Birbirinin içine girip karışmış; girişik, çapraşık
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+Kaydı eksik olan bedmest ve canpare için kaynak kontrolü yapacağım; diğer maddelerde verdiğiniz özetleri esas alacağım.
+
+web search: 
+web search: site.lugatim.com bedmest ...
+web search: 
+web search: https://lugatim.com/s/BEDMEST
+web search: 
+web search: "bedmest" "Kubbealtı" ...
+web search: 
+web search: https://www.lugatim.com/s/bedmest
+web search: 
+web search: "bedmest" "Farsça" "TDK" ...
+codex
+[
+  {
+    "id": "aşina",
+    "word": "aşina",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {"language": "ae", "form": "ḫşnā-, ḫşnās-", "meaning": "bilmek", "period": null, "reconstructed": false},
+      {"language": "peo", "form": "ā-ḫşnav-", "meaning": "bilmek", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "āşnūtan, āşnāv-", "meaning": "işitmek, duyularla kavramak ve bilmek", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "āşnāg", "meaning": "işitmek, duyularla kavramak ve bilmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "āşnā/āşinā", "meaning": "önceden tanınan, yabancı olmayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "aşina", "meaning": "önceden tanınan, yabancı olmayan", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Önceden tanınan, yabancı gelmeyen.",
+    "currentMeaning": "Daha önce karşılaşılmış veya hakkında bilgi edinilmiş olduğu için yabancı gelmeyen.",
+    "story": "Aşinanın geçmişinde duyma, algılama ve bilme eylemleri birbirine bağlanır. Eski İran dillerindeki bu eylem ailesi, Farsçada kişinin önceden bildiği insanı veya şeyi niteleyen bir söze dönüşür. Türkçede de bir yüze, sese veya konuya aşina olmak, onunla daha önce kurulmuş bir tanışıklığı taşır.",
+    "firstAttestation": {"source": "Şeyhoğlu — Marzubânnâme tercümesi", "period": "1380", "form": "āşinā"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "aşina maddesi", "url": "https://www.nisanyansozluk.com/kelime/a%C5%9Fina"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "aşina maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "aşiyan",
+    "word": "aşiyan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "kʷi̯eh₁- (kʷi̯ē-)", "meaning": "yatışmak, durulmak", "period": null, "reconstructed": true},
+      {"language": "ae", "form": "şyāti-", "meaning": "durulmak, hareketsiz kalmak ve dinlenmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "āşiyān", "meaning": "kuşun barınıp yavruladığı yuva", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "aşiyan", "meaning": "kuşun barınıp yavruladığı yuva", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kuşun barındığı yuva.",
+    "currentMeaning": "Kuşların barınmak ve yavrularını büyütmek için kullandığı yuva.",
+    "story": "Aşiyanın en eski anlam bağı durulmak ve dinlenmekle kurulur. Farsçada bu dinlenme düşüncesi, kuşun uçuşunu bırakıp sığındığı yuvanın adında somutlaşır. Türkçeye geçen aşiyan da kuşun barınağını adlandırır.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "āşiyān"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "aşiyan maddesi", "url": "https://www.nisanyansozluk.com/kelime/a%C5%9Fiyan"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "aşiyan maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "berduş",
+    "word": "berduş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dūş/dōş", "meaning": "kolun gövdeyle birleştiği üst bölüm, omuz", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ḫāna bar dūş", "meaning": "evini omzunda taşıyan; yerleşik barınağı bulunmayan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "berduş", "meaning": "yerleşik düzeni olmadan başıboş dolaşan kişi", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yerleşik düzeni olmadan başıboş dolaşan kimse.",
+    "currentMeaning": "Düzenli bir yaşayışı bulunmayan, başıboş dolaşan kimse.",
+    "story": "Berduşun arkasında evini omzunda taşıyan bir insan resmi vardır. Farsça ifadedeki dūş omzu belirtir; bütün ifade, sabit bir barınağı bulunmayan kişiyi anlatır. Türkçede başındaki hane bölümünün düşmesiyle kalan berduş, başıboş ve düzensiz yaşayan kimsenin adı olmuştur.",
+    "firstAttestation": {"source": "Evliya Çelebi — Seyahatname", "period": "1665", "form": "ḫāne berdūş"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "berduş maddesi", "url": "https://www.nisanyansozluk.com/kelime/berdu%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "berduş maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bedbin",
+    "word": "bedbin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "wēn-", "meaning": "görmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bīn", "meaning": "görme eylemini gerçekleştiren", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bad", "meaning": "iyi olmayan, kötü", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bad-bīn", "meaning": "kötülük gören, olumsuz yanlara bakan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bedbin", "meaning": "olayların kötü yanlarını öne çıkaran, karamsar", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Olayların kötü yanlarını öne çıkaran, karamsar.",
+    "currentMeaning": "Durumları olumsuz değerlendirmeye ve kötü sonuçlar beklemeye eğilimli olan.",
+    "story": "Bedbin, Farsçada kötülüğü görme düşüncesini bir insanın bakışına yerleştirir. Bīn bölümünün geçmişi görme eylemine uzanırken bad bu bakışı kötüye yöneltir. Türkçede önce başkalarının kusurlarını arayan kişiyi anlatan söz, daha sonra her durumu olumsuz değerlendiren kötümserin karşılığı olarak da kullanılmıştır.",
+    "firstAttestation": {"source": "Hayalî — Ravzatü'l-envâr", "period": "1449", "form": "bed-bīn"},
+    "relatives": [
+      {"word": "bedhah", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bedbin maddesi", "url": "https://www.nisanyansozluk.com/kelime/bedbin"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bedbin maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bedhah",
+    "word": "bedhah",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫʷāh", "meaning": "isteyen; istek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bad", "meaning": "iyi olmayan, kötü", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bad-ḫʷāh", "meaning": "birine zarar gelmesini isteyen, düşmanca niyet taşıyan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bedhah", "meaning": "başkasına kötülük gelmesini arzulayan", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Başkasına kötülük gelmesini arzulayan.",
+    "currentMeaning": "Bir başkasının zarar görmesini veya kötü duruma düşmesini isteyen.",
+    "story": "Bedhahın Farsça yapısında bir dilek vardır, fakat bu dileğin yönü kötülüktür. İstemeyi anlatan bölüm kötü anlamındaki bad ile birleşince başkasının zararını arzulayan kişiyi niteler. Türkçe kullanımda da kelimenin odağında bu düşmanca istek bulunur.",
+    "firstAttestation": {"source": "Ceride-i Havadis", "period": "1841", "form": "bedhah"},
+    "relatives": [
+      {"word": "bedbin", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bedhah maddesi", "url": "https://www.nisanyansozluk.com/kelime/bedhah"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bedhah maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bedmest",
+    "word": "bedmest",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bad-mast", "meaning": "sarhoşlukla kendini kaybeden", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bedmest", "meaning": "aşırı sarhoş olup kendini denetleyemeyen", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Aşırı sarhoş olup kendini denetleyemeyen.",
+    "currentMeaning": "İçkinin etkisiyle ne yaptığını bilemeyecek duruma gelmiş olan.",
+    "story": "Bedmestin Farsça yapısında kötülüğü belirten bad ile sarhoşluğu anlatan mast birleşir. Bu birleşim sarhoşluğun ölçüyü aşan, kişinin kendine hâkim olamadığı yönünü öne çıkarır. Türkçede de içki yüzünden kendini kaybetmiş kişiyi niteler.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "mest", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bedmest maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "behre",
+    "word": "behre",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "bahrag", "meaning": "kişiye düşen pay, nasip", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bahra", "meaning": "kişiye düşen pay, nasip", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "behre", "meaning": "bir şeyden elde edilen pay veya yarar", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyden elde edilen pay veya yarar.",
+    "currentMeaning": "Bir kimsenin payına düşen şey; bir bilgiden, imkândan veya iyilikten elde ettiği yarar.",
+    "story": "Behrenin geçmişinde bir bütünden kişiye ayrılan pay düşüncesi vardır. Orta Farsçadan Farsçaya uzanan kelime, Türkçede maddi payın yanında bilgiden ve iyilikten edinilen kazanımı da anlatır. Bir şeyden behre almak, o şeyin sunduğundan kendi payına düşeni edinmektir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "behre"},
+    "relatives": [
+      {"word": "behremend", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "behre maddesi", "url": "https://www.nisanyansozluk.com/kelime/behre"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "behre maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "beyhude",
+    "word": "beyhude",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "dādan, dah-", "meaning": "sunmak, ortaya çıkarmak, var etmek", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "hū", "meaning": "iyi", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "hūdahag", "meaning": "iyi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "hūda", "meaning": "doğruluk, gerçeklik ve yarar", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bī", "meaning": "yokluk ve yoksunluk bildiren unsur", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bī-hūda", "meaning": "yararı veya geçerli bir karşılığı bulunmayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "beyhude", "meaning": "yarar sağlamayan, boşa giden", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yarar sağlamayan, boşa giden.",
+    "currentMeaning": "Bir yarar veya sonuç sağlamayan; boşuna yapılmış olan.",
+    "story": "Beyhudenin yapısındaki hūda, Farsçada doğruluk ve yarar gibi olumlu değerler taşır. Önüne gelen bī bu değerlerin yokluğunu bildirerek sözü faydasızlık yönüne çevirir. Türkçede beyhude bir çaba, harcanan emeğin bir karşılık vermemesini anlatır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "bīhūde"},
+    "relatives": [
+      {"word": "bihaber", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "beyhude maddesi", "url": "https://www.nisanyansozluk.com/kelime/beyhude"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "beyhude maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bihaber",
+    "word": "bihaber",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "birleşik",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "fa", "form": "bī", "meaning": "yokluk ve yoksunluk bildiren unsur", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḫaber", "meaning": "bir olay veya durum hakkında bilgi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bihaber", "meaning": "bir olay veya durum hakkında bilgisi bulunmayan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir olay veya durum hakkında bilgisi bulunmayan.",
+    "currentMeaning": "Olan bitenden ya da belirli bir konudan haberi olmayan.",
+    "story": "Bihaberde iki dilin malzemesi birleşir: Farsça bī yoksunluk bildirir, Arapça haber ise olaylara ilişkin bilgiyi taşır. Yan yana geldiklerinde bir kişinin o bilgiden yoksun oluşunu anlatırlar. Türkçede kelime, çevresinde olup biteni veya belirli bir durumu bilmeyen kişiyi niteler.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "haber", "relation": "akraba"},
+      {"word": "beyhude", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bihaber maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "pürüz",
+    "word": "pürüz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "purz/purza", "meaning": "dokuma kenarındaki iplik uçları; küçük kırpıntı ve talaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pürüz", "meaning": "düzgünlüğü bozan küçük kusur; işin ilerlemesini zorlaştıran engel", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Düzgünlüğü bozan küçük kusur veya ilerlemeyi aksatan engel.",
+    "currentMeaning": "Bir yüzeyin düzgünlüğünü bozan çıkıntı ya da kusur; mecazen bir işin ilerlemesini zorlaştıran sorun.",
+    "story": "Pürüzün Farsça geçmişinde dokumanın kenarından çıkan iplikler ve küçük kırpıntılar bulunur. Türkçede bu küçük fazlalıkların adı, bir yüzeyin düzgünlüğünü bozan kusurları da kapsar. Anlam daha sonra soyutlaşır; bir işte çıkan pürüz de işin düzgün ilerleyişini aksatan küçük bir engeldir.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "pürz, pürze"},
+    "relatives": [
+      {"word": "pürüzlenmek", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pürüz maddesi", "url": "https://www.nisanyansozluk.com/kelime/p%C3%BCr%C3%BCz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pürüz maddesi; güncel anlam", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "canhıraş",
+    "word": "canhıraş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫirāşīdan", "meaning": "tırnakla çizmek, tırmalamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ḫirāş", "meaning": "tırmalayıp yara açan", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "cān", "meaning": "yaşam, ruh", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "cānḫirāş", "meaning": "canı yaralayan, derin acı veren", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "canhıraş", "meaning": "şiddetli acı ve dehşet uyandıran", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Şiddetli acı ve dehşet uyandıran.",
+    "currentMeaning": "İnsanı derinden sarsacak ölçüde acı, korku veya dehşet uyandıran.",
+    "story": "Canhıraşın içinde tırnağın açtığı yaranın sertliği vardır. Farsçada tırmalama eyleminden türeyen bölüm can ile birleşince acı doğrudan insanın yaşama ve duyma merkezine yönelir. Türkçede özellikle çığlık gibi sarsıcı sesleri nitelerken bu yaralama resmi duygusal bir etkiye dönüşür.",
+    "firstAttestation": {"source": "Neşrî — Kitab-ı Cihannümâ", "period": "1492", "form": "cān-ḫıraş"},
+    "relatives": [
+      {"word": "can", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "canhıraş maddesi", "url": "https://www.nisanyansozluk.com/kelime/canh%C4%B1ra%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "canhıraş maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "canfeza",
+    "word": "canfeza",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "cānfezā", "meaning": "cana canlılık katan, canlandıran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "canfeza", "meaning": "Türk müziğinde seyrek kullanılan birleşik makam", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Türk müziğinde seyrek kullanılan bir birleşik makam.",
+    "currentMeaning": "Türk müziğinde kullanımı sınırlı kalmış birleşik makamlardan biri.",
+    "story": "Canfezanın Farsça kuruluşunda cana canlılık katma düşüncesi bulunur. Türkçede bu olumlu çağrışımı taşıyan söz, müzik alanında bir makamın özel adı olarak yerleşmiştir. Böylece canlandırıcı etkiyi anlatan ifade, belirli bir müzikal yapıyı adlandırır.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "can", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "canfeza maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "canpare",
+    "word": "canpare",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "birleşik",
+    "donorLanguage": null,
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "cān", "meaning": "yaşam, ruh", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pāre", "meaning": "bir bütünden ayrılan bölüm", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "canpare", "meaning": "kişinin kendi canından bir parça saydığı sevgili kimse", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kişinin kendi canından bir parça saydığı sevgili kimse.",
+    "currentMeaning": "Çok sevilen, kişinin kendi varlığının bir parçası gibi gördüğü kimse için kullanılan sevgi sözü.",
+    "story": "Canpare, Farsça kökenli can ile parçayı belirten pareyi yan yana getirir. Bu kuruluşta sevilen kişi, insanın kendi canından ayrılmış bir parça gibi düşünülür. Böylece parça düşüncesi, güçlü bir yakınlık ve sevgi anlatımına dönüşür.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "can", "relation": "akraba"},
+      {"word": "pare", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "can ve pare maddeleri; birleşiğin bileşenleri", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "derbeder",
+    "word": "derbeder",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dar", "meaning": "bir yere girilip çıkılan açıklık, kapı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dar-ba-dar", "meaning": "bir kapıdan ötekine dolaşan; barınaksız veya dilenen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "derbeder", "meaning": "hayatında ve davranışlarında düzen bulunmayan", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Hayatında ve davranışlarında düzen bulunmayan.",
+    "currentMeaning": "Yaşayışına, görünüşüne veya davranışlarına yeterince düzen ve özen göstermeyen.",
+    "story": "Derbederin Farsça yapısında kapı sözü iki kez karşımıza çıkar. Bir kapıdan ötekine gitme resmi, barınaksız dolaşan veya dilenen kişiyi anlatır. Türkçede bu dışarıda kalmışlık görüntüsü genişleyerek yaşamı ve davranışları dağınık olan kişiye yönelmiştir.",
+    "firstAttestation": {"source": "Ömer b. Mezîd — Mecmuatü'n-nezâir", "period": "1437", "form": "derbeder"},
+    "relatives": [
+      {"word": "dergâh", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "derbeder maddesi", "url": "https://www.nisanyansozluk.com/kelime/derbeder"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "derbeder maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dergâh",
+    "word": "dergâh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "gāh", "meaning": "bir şeyin bulunduğu yer", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dar", "meaning": "bir yere girilip çıkılan açıklık, kapı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dargāh", "meaning": "kapının bulunduğu bölüm, giriş eşiği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dergâh", "meaning": "bir tarikatın dervişlerinin toplandığı ve faaliyet gösterdiği yer", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Dervişlerin toplandığı ve tarikat faaliyetlerinin yürütüldüğü yer.",
+    "currentMeaning": "Bir tarikata bağlı dervişlerin toplandığı, eğitim ve ibadet faaliyetlerinin yürütüldüğü tekke.",
+    "story": "Dergâhın Farsça kuruluşu kapı ile yeri birleştirerek bir giriş eşiğini gösterir. Kapı, kendisine varılan kişinin makamını da temsil eder; kelimenin hükümdar ve şeyh çevresindeki kullanımları bu bağı taşır. Türkçede dergâh, tasavvuf hayatının sürdürüldüğü tekkenin adı olarak yerleşmiştir.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "dergāh"},
+    "relatives": [
+      {"word": "derbeder", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "dergâh maddesi", "url": "https://www.nisanyansozluk.com/kelime/derg%C3%A2h"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dergâh maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "derun",
+    "word": "derun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "andarōn", "meaning": "iç bölüm, iç taraf", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "andarūn", "meaning": "iç bölüm, iç taraf", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "darūn", "meaning": "iç bölüm; insanın gönlü ve duygu dünyası", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "derun", "meaning": "iç taraf; insanın duygu dünyası", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İç taraf veya insanın duygu dünyası.",
+    "currentMeaning": "Bir şeyin iç bölümü; mecazen insanın gönlü ve iç dünyası.",
+    "story": "Derun, eski İran dil biçimlerinde bir şeyin içinde kalan bölgeyi gösterir. Farsçada bu iç alan insanın gönlünü ve duygularını da kapsar. Türkçe kullanımda da dışarıdan görünmeyen yer ile insanın saklı duygu dünyası aynı kelimede buluşur.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "derūn"},
+    "relatives": [
+      {"word": "deruni", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "derun maddesi", "url": "https://www.nisanyansozluk.com/kelime/derun"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "derun maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "didar",
+    "word": "didar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "dīdār", "meaning": "görme; gözle algılanabilir olan", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dīdan", "meaning": "gözle algılamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dīdār", "meaning": "görme; görünen biçim ve insan yüzü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "didar", "meaning": "insan yüzü, özellikle yüzün güzelliği", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnsan yüzü, özellikle yüzün güzelliği.",
+    "currentMeaning": "Yüz ve çehre; özellikle edebî kullanımda yüzün güzelliği.",
+    "story": "Didarın anlam yolculuğu görme eyleminden görülen şeye doğru ilerler. Farsçada bakışın karşısındaki görüntüyü ve yüzü adlandıran kelime, Türkçede tasavvufun Tanrı'yı görme düşüncesinde de kullanılmıştır. Yüzü anlatan kullanımında ise güzellik çağrışımı belirginleşmiştir.",
+    "firstAttestation": {"source": "Rabguzi — Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "dīdār"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "didar maddesi", "url": "https://www.nisanyansozluk.com/kelime/didar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "didar maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dilber",
+    "word": "dilber",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bar", "meaning": "getirme eylemini gerçekleştiren", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dil", "meaning": "duyguların merkezi sayılan gönül", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dilbar", "meaning": "gönlü kendine bağlayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dilber", "meaning": "güzelliğiyle ilgi uyandıran kadın", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Güzelliğiyle ilgi uyandıran kadın.",
+    "currentMeaning": "Güzel ve çekici kadın.",
+    "story": "Dilberin Farsça dil bölümü, duyguların merkezi olan gönlü gösterir. Birleşiğin bütünü gönlü kendine alan kişiyi tasvir ederek güzelliği, karşısındakinde uyandırdığı etki üzerinden anlatır. Türkçede bu gönül çekiciliği, güzel ve alımlı kadının adına dönüşmüştür.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "dil-ber"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "Dilberdeki dil Farsça gönlü, dilbazdaki dil ise Türkçe konuşma organını belirtir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "dilber maddesi", "url": "https://www.nisanyansozluk.com/kelime/dilber"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dilber ve dilbaz maddeleri", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dilbaz",
+    "word": "dilbaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "birleşik",
+    "donorLanguage": null,
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "dil", "meaning": "konuşma organı; söz söyleme yetisi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "-bāz", "meaning": "bir işle uğraşan veya o işe yatkın olan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dilbaz", "meaning": "etkili konuşarak karşısındakini inandıran", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Etkili konuşarak karşısındakini inandıran.",
+    "currentMeaning": "Sözü ustaca kullanan ve konuşmasıyla başkalarını ikna edebilen.",
+    "story": "Dilbazın başlangıcındaki dil, Türkçenin konuşma organını adlandıran sözüdür. Farsça -bāz ile birleştiğinde konuşmayı bir beceri olarak kullanan kişiyi öne çıkarır. Organın adı böylece söz ustalığına, söz ustalığı da karşısındakini ikna etme gücüne bağlanır.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "dil", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dilbaz maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "girift",
+    "word": "girift",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "giriftan, gīr-", "meaning": "yakalamak, elde tutmak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "girift", "meaning": "yakalama; yakalanmış veya esir düşmüş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "girift", "meaning": "öğeleri birbirine dolanmış, çözülmesi güç", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Öğeleri birbirine dolanmış, çözülmesi güç.",
+    "currentMeaning": "Parçaları veya ilişkileri birbirine karışmış olduğu için anlaşılması ya da çözülmesi güç olan.",
+    "story": "Giriftin Farsça geçmişinde yakalama ve tutulma eylemi vardır. Türkçedeki eski kullanımında esir düşen kişi de girift olurken daha sonraki kullanım dolaşmış, birbirine takılmış şeyleri öne çıkarır. Bugün girift bir sorun denildiğinde bu çözülmesi güç dolanıklık düşünce ve ilişkiler alanına taşınır.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "girift"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "girift maddesi", "url": "https://www.nisanyansozluk.com/kelime/girift"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "girift maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+36,192

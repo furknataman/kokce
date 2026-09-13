@@ -1,0 +1,1699 @@
+[
+  {
+    "id": "kreşendo",
+    "word": "kreşendo",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "crescere, cret-", "meaning": "büyümek, artmak, yükselmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "crescere", "meaning": "büyümek, artmak, yükselmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "crescendo", "meaning": "müzikte sesin giderek güçlenmesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kreşendo", "meaning": "sesin giderek güçlendirilmesini gösteren müzik işareti", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Müzikte sesin giderek güçleneceğini gösteren işaret.",
+    "currentMeaning": "Bir müzik parçasında sesin aşamalı olarak kuvvetlendirilmesini isteyen, portenin altına konulan işaret.",
+    "story": "Latince crescere ile İtalyanca crescere, bir şeyin büyümesini ve artmasını anlatır. İtalyanca crescendo bu büyüme hareketini müziğe taşır: Büyüyen şey artık sesin gücüdür. Türkçede kreşendo, çalınan parçanın giderek daha kuvvetli duyulmasını isteyen işaretin adı olmuştur.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar", "period": "1930 öncesi", "form": "kresçendo"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kreşendo maddesi", "url": "https://www.nisanyansozluk.com/kelime/kre%C5%9Fendo"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kreşendo maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istihza",
+    "word": "istihza",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "hazaˀa", "meaning": "alay ederek küçümsedi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istihzāˀ", "meaning": "alay etme, küçük düşürme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istihza", "meaning": "üstü kapalı veya kinayeli alay", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Üstü kapalı veya kinayeli alay.",
+    "currentMeaning": "Birini ya da bir şeyi açıkça söylemeden, imalı sözlerle veya tavırlarla alaya alma.",
+    "story": "Arapça hazaˀa, birini alaya alıp küçültme davranışını anlatıyordu. Bu eylemden doğan istihzāˀ, küçümseyici alayın adı oldu. Türkçedeki istihzada alay çoğu zaman açık bir saldırı yerine sözün imasında ya da bir bakışta kendini gösterir.",
+    "firstAttestation": {"source": "Rabguzi — Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "istihzā"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istihza maddesi", "url": "https://www.nisanyansozluk.com/kelime/istihza"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istihza maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mahzun",
+    "word": "mahzun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥazana", "meaning": "üzüntü verdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maḥzūn", "meaning": "üzüntü duyan, kederli", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mahzun", "meaning": "üzüntülü, kederli", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Üzüntü duyan, kederli.",
+    "currentMeaning": "Üzüntü içinde bulunan veya görünüşüyle bu duyguyu yansıtan.",
+    "story": "Arapça ḥazana birine üzüntü vermeyi anlatırken maḥzūn bu üzüntünün etkisindeki kişiyi gösterir. Sözcüğün odağında üzen olaydan çok, o olayın insanda bıraktığı duygu vardır. Türkçeye mahzun olarak geçerken bu bağ korunmuş; kelime kederli insanları, yüzleri ve bakışları nitelemeye yerleşmiştir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "maḥzūn"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mahzun maddesi", "url": "https://www.nisanyansozluk.com/kelime/mahzun"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mahzun maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "efkâr",
+    "word": "efkâr",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "fikr", "meaning": "düşünce", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "afkār", "meaning": "düşünceler", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "efkâr", "meaning": "üzüntüden doğan keder", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Üzücü bir olayın doğurduğu keder.",
+    "currentMeaning": "İnsanın üzücü bir olay üzerine düşünürken duyduğu hüzün ve iç sıkıntısı.",
+    "story": "Arapçada fikr tek bir düşünceyi, afkār ise düşünceleri karşılıyordu. Türkçede bu düşünceler dünyasına zamanla dert ve kaygı da katıldı. Böylece efkâr, zihinden geçenlerden çok bunların insanda bıraktığı hüzünle özdeşleşti.",
+    "firstAttestation": {"source": "Evliya Çelebi — Seyahatname", "period": "1665", "form": "efkâre"},
+    "relatives": [{"word": "fikir", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "efkâr maddesi", "url": "https://www.nisanyansozluk.com/kelime/efk%C3%A2r"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "efkâr maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tebessüm",
+    "word": "tebessüm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "basama", "meaning": "gülümsedi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tabassum", "meaning": "gülümseme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tebessüm", "meaning": "gülümseme", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yüzde beliren hafif gülüş.",
+    "currentMeaning": "Dudakların ve yüzün hafifçe gülme ifadesi alması.",
+    "story": "Arapça basama, yüzün gülümsemesini anlatan bir eylemdi. Bu hareketin adı olan tabassum, Türkçeye tebessüm biçiminde taşındı. Kelimenin yolculuğunda büyük bir anlam değişmesi olmadı; bugün de yüzün hafif bir gülüşle değişmesini anlatır.",
+    "firstAttestation": {"source": "Rabguzi — Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "tebessüm"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tebessüm maddesi", "url": "https://www.nisanyansozluk.com/kelime/tebess%C3%BCm"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tebessüm maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muzip",
+    "word": "muzip",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁaẕaba", "meaning": "engelledi, sıkıntıya soktu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muˁẕib", "meaning": "eziyet eden", "period": null, "reconstructed": true},
+      {"language": "tr", "form": "muzip", "meaning": "şakalarıyla başkalarını uğraştıran", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Şakalarıyla başkalarını uğraştırmayı seven.",
+    "currentMeaning": "İnsanları şaka amacıyla kızdırmayı, hafifçe üzmeyi veya uğraştırmayı alışkanlık edinmiş olan.",
+    "story": "Muzibin geçmişinde, Arapçada engel olmayı ve sıkıntı vermeyi anlatan ˁaẕaba bulunur. Türkçeye taşınan biçimin dayandığı kişi tasvirinde başkasına eziyet etme öne çıkıyordu. Türkçede bu sertlik hafifledi; geriye insanları eğlenmek için uğraştıran, şakalarıyla kızdıran bir kişilik kaldı.",
+    "firstAttestation": {"source": "Şemseddin Sami — Kamus-ı Türki", "period": "1900", "form": "mūzib"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "muzip maddesi", "url": "https://www.nisanyansozluk.com/kelime/muzip"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "muzip maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şiar",
+    "word": "şiar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şaˁara", "meaning": "anladı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "şiˁār", "meaning": "ortaklaşa benimsenen söz veya işaret, parola", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şiar", "meaning": "benimsenen düşünceyi belirleyen ayırıcı özellik veya ilke", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir kişinin veya topluluğun benimsediği ayırıcı ilke.",
+    "currentMeaning": "Bir kişinin ya da topluluğun düşünce, inanç ve tutumunu belirleyen özellik veya benimsediği ilke.",
+    "story": "Arapça şaˁara anlama eylemini anlatırken şiˁār insanların üzerinde anlaştığı bir söz ya da parola olarak kullanılıyordu. Parola, onu bilenlerin ortaklığını görünür kılan bir işaretti. Türkçede şiar, bu ayırt etme işlevini koruyarak kişinin veya topluluğun benimsediği düşünce ve davranış ilkesine uzandı.",
+    "firstAttestation": {"source": "Anonim — Ferec ba'd eş-şidde", "period": "1451 öncesi", "form": "şiˁār"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şiar maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fiar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şiar maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "vuslat",
+    "word": "vuslat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "waṣala", "meaning": "varıp erişti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "waṣla(t)", "meaning": "erişme, bir araya gelme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "vuslat", "meaning": "sevilene kavuşma", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Sevilene kavuşma.",
+    "currentMeaning": "Ayrı kalınan sevgiliyle yeniden bir araya gelme, ona kavuşma.",
+    "story": "Arapça waṣala bir yere ya da birine erişmeyi anlatıyordu; waṣla(t) ise bu erişmenin ve birleşmenin adıydı. Türkçede kelimenin odağı sevgiliye yöneldi ve varılacak yerin yerini kavuşulacak kişi aldı. Eski vaslat ve vaslet söyleyişleri de halkın dilinde değişerek bugünkü vuslat biçimine dönüştü.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "vaṣlat"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "vuslat maddesi", "url": "https://www.nisanyansozluk.com/kelime/vuslat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "vuslat maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meşakkat",
+    "word": "meşakkat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şaḳḳa", "meaning": "yarıp ayırdı, güçlük çıkardı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maşaḳḳa(t)", "meaning": "güçlük, zahmet", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meşakkat", "meaning": "yorucu güçlük, zahmet", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnsanı yoran güçlük ve zahmet.",
+    "currentMeaning": "Bir işi yaparken katlanılan yorucu güçlük, sıkıntı ve zahmet.",
+    "story": "Arapça şaḳḳa hem bir şeyi yarıp ayırmayı hem de sıkıntı vermeyi anlatıyordu. Aynı eylem ailesindeki maşaḳḳa(t), insanı zorlayan zahmetin adı oldu. Türkçedeki meşakkat bu ikinci çizgiyi sürdürür; bir işin insanı ne kadar uğraştırıp yorduğunu dile getirir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "meşaḳḳatler"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "meşakkat maddesi", "url": "https://www.nisanyansozluk.com/kelime/me%C5%9Fakkat"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hicap",
+    "word": "hicap",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥacaba", "meaning": "örtüp sakladı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥicāb", "meaning": "perde, kadınların örtüsü; utanma duygusu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hicap", "meaning": "utanma duygusu", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Utanma duygusu.",
+    "currentMeaning": "Bir durum karşısında duyulan utanma ve mahcubiyet.",
+    "story": "Arapça ḥacaba, bir şeyi örterek gözden saklama hareketini anlatıyordu. Bu kökten doğan ḥicāb, hem somut bir perdeyi veya örtüyü hem de utanma duygusunu taşıdı. Türkçenin eski kullanımında perde karşılığı da bulunan hicap, bugün utanmayı anlatırken örtünme ile geri çekilme arasındaki anlam bağını korur.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "bī-ḥıcāb"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hicap maddesi", "url": "https://www.nisanyansozluk.com/kelime/hicap"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hicap maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tefekkür",
+    "word": "tefekkür",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "fakara", "meaning": "düşündü", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tafakkur", "meaning": "düşünme, zihinsel değerlendirme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tefekkür", "meaning": "bir konu üzerinde düşünme", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir konu üzerinde düşünme.",
+    "currentMeaning": "Bir konuyu zihinde ele alıp değerlendirme ve üzerinde düşünme.",
+    "story": "Arapça fakara, zihnin düşünme işini anlatıyordu. Tafakkur bu işi bir süreç olarak adlandırdı; sözcüğün merkezinde hazır bir düşünceden çok düşünmekle meşgul olma vardır. Türkçede tefekkür de aynı çizgiyi koruyarak bir meseleyi zihinde ele alma ve değerlendirme için kullanılır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "tefekkür"},
+    "relatives": [{"word": "efkâr", "relation": "akraba"}, {"word": "fikir", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tefekkür maddesi", "url": "https://www.nisanyansozluk.com/kelime/tefekk%C3%BCr"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tefekkür maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mağrur",
+    "word": "mağrur",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġarra", "meaning": "yanılttı, kandırdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maġrūr", "meaning": "kandırılmış, yanılgıya düşmüş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mağrur", "meaning": "kendini üstün gören, kibirli", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kendini üstün gören, kibirli.",
+    "currentMeaning": "Kendini fazla beğenen ve başkalarından üstün tutan; gururlu, kibirli.",
+    "story": "Arapça ġarra birini kandırmayı, maġrūr ise bu aldanmanın içindeki kişiyi anlatıyordu. Farsça ve Türkçe kullanımında kelimenin odağı aldatılmış kişiden kendini fazla beğenen kişiye kaydı. Böylece Türkçedeki mağrurda yanılgı, insanın kendi değerini olduğundan büyük görmesiyle birleşti.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "maġrūr"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mağrur maddesi", "url": "https://www.nisanyansozluk.com/kelime/ma%C4%9Frur"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mağrur maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "seyyah",
+    "word": "seyyah",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sāḥa", "meaning": "gezip dolaştı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "sayyāḥ", "meaning": "sık sık gezip dolaşan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "seyyah", "meaning": "gezip dolaşan kimse, gezgin", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Farklı yerleri gezip dolaşan kimse.",
+    "currentMeaning": "Yerler ve ülkeler arasında gezip dolaşan kişi; gezgin.",
+    "story": "Arapça sāḥa, bir yerde durmak yerine gezip dolaşmayı anlatıyordu. Sayyāḥ, bu eylemi çok yapan kişiyi adlandırarak yolculuğu kişinin belirgin özelliğine dönüştürdü. Türkçeye seyyah biçiminde geçen kelime, farklı yerleri dolaşan insanı anlatmayı sürdürdü.",
+    "firstAttestation": {"source": "Fahrî — Hüsrev ü Şirin tercümesi", "period": "1367", "form": "seyyāḥ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "seyyah maddesi", "url": "https://www.nisanyansozluk.com/kelime/seyyah"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "seyyah maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muhayyile",
+    "word": "muhayyile",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫāla", "meaning": "zihninde canlandırdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muḫayyil", "meaning": "zihninde canlandıran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "muhayyile", "meaning": "zihinde görüntü ve tasarılar kurma gücü", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Zihinde görüntü ve tasarılar kurma gücü.",
+    "currentMeaning": "Gerçekte karşısında bulunmayan şeyleri zihninde canlandırma ve yeni tasarılar oluşturma yetisi.",
+    "story": "Arapça ḫāla, göz önünde olmayanı zihinde hayal etme eylemini anlatıyordu. Muḫayyil bu eylemi gerçekleştiren tarafı öne çıkarırken Türkçedeki muhayyile, hayal kurmayı sağlayan yetinin adı oldu. Böylece kelimenin odağı tek bir hayalden, o hayalleri üretebilen zihinsel güce yerleşti.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "muḫayyile"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "muhayyile maddesi", "url": "https://www.nisanyansozluk.com/kelime/muhayyile"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "muhayyile maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müphem",
+    "word": "müphem",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "bahīma(t)", "meaning": "konuşma ve kavrama yetisinden yoksun sayılan hayvan", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mubham", "meaning": "anlaşılması güç, açık olmayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müphem", "meaning": "açıklık kazanmamış, belirsiz", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Açıklık kazanmamış, belirsiz.",
+    "currentMeaning": "Ne olduğu veya ne anlatmak istediği açıkça anlaşılamayan.",
+    "story": "Müphemin gerisindeki Arapça bahīma(t), hayvanı konuşma ve kavrama yetilerinin yokluğu üzerinden adlandırıyordu. Aynı anlam çevresindeki mubham, anlaşılmayan veya açıklıktan yoksun olanı niteledi. Türkçede müphem, bu somut başlangıçtan uzaklaşarak anlamı seçilemeyen sözlere ve açıklığa kavuşmamış durumlara yerleşti.",
+    "firstAttestation": {"source": "Fuzuli — Türkçe Divan", "period": "1535", "form": "mübhem"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müphem maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCphem"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müphem maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müreffeh",
+    "word": "müreffeh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "raffaha", "meaning": "rahata kavuşturdu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muraffah", "meaning": "rahat ve bolluk içinde bulunan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müreffeh", "meaning": "geçim rahatlığına ve bolluğa sahip", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bolluk ve geçim rahatlığı içinde olan.",
+    "currentMeaning": "Maddi imkânları yeterli, rahat ve gönenç içinde yaşayan.",
+    "story": "Arapça raffaha birini rahata kavuşturma eylemini anlatıyordu. Muraffah, bu rahatlığın sağlandığı ve huzur içinde bulunan kişiyi niteledi. Türkçede müreffeh, geçim sıkıntısından uzak yaşayabilmeyi öne çıkararak kişilerin ve toplumların yaşam koşullarını anlatır.",
+    "firstAttestation": {"source": "Neşrî — Kitab-ı Cihannümâ", "period": "1492", "form": "müreffehü'l-hāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müreffeh maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCreffeh"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müreffeh maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müdrik",
+    "word": "müdrik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "daraka", "meaning": "hedefine veya bitiş noktasına erişti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mudrik", "meaning": "anlayan, zihnen kavrayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müdrik", "meaning": "bir şeyi kavramış olan", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyi anlamış ve kavramış olan.",
+    "currentMeaning": "Bir durumun veya düşüncenin anlamını kavramış, onun bilincine varmış olan.",
+    "story": "Arapça daraka, bir hedefe ya da sona erişmeyi anlatıyordu. Mudrikte bu erişme zihinsel bir boyut kazandı: Varılan şey bir yer değil, bir düşüncenin kavranmasıydı. Türkçede müdrik, bu anlama noktasına ulaşmış kişiyi niteler.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "müdrik"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müdrik maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCdrik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müdrik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mümbit",
+    "word": "mümbit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nabata", "meaning": "filizlenip büyüdü, ürün verdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "munbit", "meaning": "bitkilerin yetişmesini sağlayan, bereketli", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mümbit", "meaning": "bol ürün veren, verimli", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bol ürün veren, verimli.",
+    "currentMeaning": "Bitkilerin iyi yetişmesine ve bol ürün alınmasına elverişli; verimli.",
+    "story": "Arapça nabata, bir bitkinin filizlenip büyümesini ve verim vermesini anlatıyordu. Munbit, bu büyümeyi sağlayan toprağın üretkenliğini öne çıkardı. Türkçeye geçen mümbit de bereketli toprağı nitelerken kelimenin içindeki bitki yetiştirme bağını korudu.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "münbit"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mümbit maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCmbit"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mümbit maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mülahaza",
+    "word": "mülahaza",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "laḥaẓa", "meaning": "gözünün ucuyla baktı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mulāḥaẓa(t)", "meaning": "bakışların karşılaşması, inceleyip değerlendirme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mülahaza", "meaning": "bir konuya ilişkin düşünce", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir konuya ilişkin düşünce veya değerlendirme.",
+    "currentMeaning": "Bir konu üzerinde düşünerek oluşan görüş veya değerlendirme.",
+    "story": "Arapça laḥaẓa, göz ucuyla bakmak gibi somut bir hareketten başlar. Mulāḥaẓa(t) içinde bakışların karşılaşmasıyla bir şeyi gözden geçirme yan yana bulunur. Türkçede mülahaza, gözle incelemeden zihinsel değerlendirmeye uzanan bu bağı sürdürerek bir konu hakkındaki düşünceyi adlandırır.",
+    "firstAttestation": {"source": "Neşrî — Kitab-ı Cihannümâ", "period": "1492", "form": "mülāḥaẓa"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mülahaza maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BClahaza"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mülahaza maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müptela",
+    "word": "müptela",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "balā", "meaning": "sınamadan geçirdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mubtalāˀ", "meaning": "sıkıntıyla sınanan, derde tutulmuş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müptela", "meaning": "bir şeye bağımlı hâle gelmiş", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeye bağımlı hâle gelmiş.",
+    "currentMeaning": "Bir alışkanlığa, kişiye veya şeye kendini ondan ayıramayacak ölçüde bağlanmış olan.",
+    "story": "Arapça balā sınamayı anlatırken mubtalāˀ, bir sıkıntının içine düşüp onunla sınanan kişiyi gösteriyordu. Türkçenin eski kullanımında kelime hem derde tutulmayı hem de birine aşkla bağlanmayı anlatabildi. Bugünkü müptelada ortak nokta, kişinin kendini kolayca kurtaramadığı güçlü bir bağlılık içinde bulunmasıdır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "mübtelā"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müptela maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCptela"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müptela maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a63-7616-7370-82bc-1e38ae2e1f14
+--------
+user
+# Köken — Üretim Prompt'u (v10)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. kreşendo — ipucu: it — rarity: az-bilinen
+2. istihza — ipucu: ar — rarity: az-bilinen
+3. mahzun — ipucu: ar — rarity: az-bilinen
+4. efkâr — ipucu: ar — rarity: az-bilinen
+5. tebessüm — ipucu: ar — rarity: az-bilinen
+6. muzip — ipucu: ar — rarity: az-bilinen
+7. şiar — ipucu: ar — rarity: az-bilinen
+8. vuslat — ipucu: ar — rarity: az-bilinen
+9. meşakkat — ipucu: ar — rarity: az-bilinen
+10. hicap — ipucu: ar — rarity: az-bilinen
+11. tefekkür — ipucu: ar — rarity: az-bilinen
+12. mağrur — ipucu: ar — rarity: az-bilinen
+13. seyyah — ipucu: ar — rarity: az-bilinen
+14. muhayyile — ipucu: ar — rarity: az-bilinen
+15. müphem — ipucu: ar — rarity: az-bilinen
+16. müreffeh — ipucu: ar — rarity: az-bilinen
+17. müdrik — ipucu: ar — rarity: az-bilinen
+18. mümbit — ipucu: ar — rarity: az-bilinen
+19. mülahaza — ipucu: ar — rarity: az-bilinen
+20. müptela — ipucu: ar — rarity: az-bilinen
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### kreşendo
+
+**Nişanyan — kreşendo**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › crescere, cret- › a.a.  [ses evrimi]
+- İtalyanca › crescere › büyümek, artmak, yükselmek  [türeme]
+- İtalyanca › crescendo › müzikte yükselen volüm  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1930, Hüseyin Rahmi Gürpınar
+  > horultu yavaş yavaş bir kresçendo ile o kadar büyüdü ki
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/kre%C5%9Fendo
+
+**TDK** — köken kaydı: İtalyanca crescendo · anlam: Porte altında bulunan ve müzik parçası çalınırken sesin hafiften kuvvetliye doğru gideceğini belirten işaret
+
+### istihza
+
+**Nişanyan — istihza**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › hazaˀa › alay etti, aşağıladı  [türeme]
+- Arapça › istihzāˀ › alay, aşağılama  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1310, Rabguzi — Kısasü'l-Enbiya terc.
+  > Rasūlğa kāfırlar istihzā kıldılar
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/istihza
+
+**TDK** — köken kaydı: Arapça istihzāʾ · anlam: Gizli veya kinayeli bir biçimde alay
+
+### mahzun
+
+**Nişanyan — mahzun**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ḥazana › üzdü  [türeme]
+- Arapça › maḥzūn › üzülen, üzgün  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > yār-ıla birlik iden maḥzūn degül
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/mahzun
+
+**TDK** — köken kaydı: Arapça maḥzūn · anlam: ► üzgün
+
+### efkâr
+
+**Nişanyan — efkâr**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › fikr › düşünce  [türeme]
+- Arapça › afkār › fikirler, düşünceler  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1665, Evliya Çelebi — Seyahatname
+  > huddâmlarımla birer at ve birer kılıç ile kalsam deyü efkâre düşüp...
+- 1680, Meninski — Thesaurus
+  > efkār: Cogitationes, consilia, opiniones, curae [düşünceler, fikirler, dertler].
+
+Not: Fa afgār ("yaralı, kötürüm") ayrı ve ilgisiz bir kelimedir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/efk%C3%A2r
+
+**TDK** — köken kaydı: Arapça efkār · anlam: Herhangi üzücü bir olay sebebiyle hissedilen hüzün
+
+### tebessüm
+
+**Nişanyan — tebessüm**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › basama › gülümsedi  [türeme]
+- Arapça › tabassum › gülümseme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1310, Rabguzi — Kısasü'l-Enbiya terc.
+  > Rasūl tebessüm kıldı aydı: ey ˁÖmer şeytān seniŋ kölegeŋdin [gölgenden] korkup kaçar.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tebess%C3%BCm
+
+**TDK** — köken kaydı: Arapça tebessum · anlam: ► gülümseme
+
+### muzip
+
+**Nişanyan — muzip**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ˁaḏaba › engel oldu, sıkıntı verdi  [türeme]
+- Arapça › *muˁḏib › azap veren  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1900, Şemseddin Sami — Kamus-ı Türki
+  > muˁaẕẕib معذِّب:. Azap ve eziyet veren, birini bir suretle rahatsız etmeyi seven, mūzib (...) mūzib موزب: (Arabca muˁaẕẕibden galat): Eğlenmek içün azap veren.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/muzip
+
+**TDK** — köken kaydı: Arapça muʿẕib · anlam: İnsanı, şaka yollu üzecek veya uğraştıracak davranışlarda bulunmayı huy edinmiş olan; takılgan
+
+### şiar
+
+**Nişanyan — şiar**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › şaˁara › anladı  [türeme]
+- Arapça › şiˁār › üzerinde anlaşılan şey veya söz, parola  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1451, anon. — Ferec ba'd eş-şidde
+  > ˁadlı vü insāfı şiˁār-ı rūzigâr [yaşam sloganı] idindi
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C5%9Fiar
+
+**TDK** — köken kaydı: Arapça şiʿār · anlam: Duyuş, düşünüş ve inanıştaki ayırıcı özellik; belgi
+
+### vuslat
+
+**Nişanyan — vuslat**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › waṣala › ulaştı  [türeme]
+- Arapça › waṣla(t) › birleşme, buluşma, ulaşma, varma  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > bir sāˁat vaṣlat gibi bir dem firāḳ [bir an birleşme gibi, bir an ayrılık]
+
+Not: Aslı vaslet/vaslat olup vuslat biçimi halk telaffuzunu yansıtır. Zıddı firaktır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/vuslat
+
+**TDK** — köken kaydı: Arapça vuṣlat · anlam: Sevgiliye kavuşma
+
+### meşakkat
+
+**Nişanyan — meşakkat**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › şaḳḳa › yardı, böldü, zahmet ve sıkıntı verdi  [türeme]
+- Arapça › maşaḳḳa(t) › zahmet, sıkıntı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > Sol yañasından meşaḳḳatler biter / Ol meşaḳḳatden göñül bozlur yiter
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/me%C5%9Fakkat
+
+### hicap
+
+**Nişanyan — hicap**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ḥacaba › sakladı, gizledi, örttü  [türeme]
+- Arapça › ḥicāb › 1. perde, kadın örtüsü, 2. utanma  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > gözüme görni-dururdu bī-ḥıcāb [perdesiz]
+- 1354, Mesud b. Ahmed — Süheyl ü Nevbahar terc.
+  > ḥıcāb ortadan gitdi idi bir uca / bilürler idi kim kısacuk géce
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/hicap
+
+**TDK** — köken kaydı: Arapça ḥicāb · anlam: ► utanma
+
+### tefekkür
+
+**Nişanyan — tefekkür**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › fakara › düşündü  [türeme]
+- Arapça › tafakkur › düşünme, akıl yürütme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > hem taḥayyür hem tefekkür hem fenā
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tefekk%C3%BCr
+
+**TDK** — köken kaydı: Arapça tefekkur · anlam: ► düşünme
+
+### mağrur
+
+**Nişanyan — mağrur**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ġarra › aldattı  [türeme]
+- Arapça › maġrūr › aldatılmış, kanmış  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > kendü ḥāline maġrūr-ıdı
+- 1680, Meninski — Thesaurus
+  > mağrūr: Deceptus & usit. superbus, arrogans, praesumptiosus.
+
+Not: "Kendini beğenen" anlamı Farsça ve Türkçeye özgüdür.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ma%C4%9Frur
+
+**TDK** — köken kaydı: Arapça maġrūr · anlam: Kurumlu (II), gururlu, kibirli, kendini beğenmiş
+
+### seyyah
+
+**Nişanyan — seyyah**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › sāḥa › gezdi  [türeme]
+- Arapça › sayyāḥ › çok gezen, gezgin  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1367, Fahrî — Hüsrev ü Şirin terc.
+  > cihān görmiş ü gey seyyāḥ-ı meşhūr
+- 1391, Seyf-i Sarayî — Gülistan terc.
+  > anıŋ bigin bir seyyāḥ fakīr biyābān içinde yol azıp [onun gibi bir gezgin fakir bozkırda yol alıp]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/seyyah
+
+**TDK** — köken kaydı: Arapça seyyāḥ · anlam: ► gezgin
+
+### muhayyile
+
+**Nişanyan — muhayyile**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › χāla › hayal etti  [türeme]
+- Arapça › muχayyil › hayal eden  [türeme]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > muḫayyile, müteḫayyile: Phantasia, potentia imaginativa.
+
+Not: Muhayyele yanlıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/muhayyile
+
+**TDK** — köken kaydı: Arapça muḫayyile · anlam: ► hayal gücü
+
+### müphem
+
+**Nişanyan — müphem**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › bahīma(t) › hayvan, dil ve idraktan yoksun mahluk  [türeme]
+- Arapça › mubham › anlaşılmaz, belirsiz, anlayıştan veya anlaşılırlıktan yoksun  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1535, Fuzuli — Türkçe Divan
+  > Hem eşkāl-i muğlak hem esrār-i mübhem
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BCphem
+
+**TDK** — köken kaydı: Arapça mubhem · anlam: ► belirsiz
+
+### müreffeh
+
+**Nişanyan — müreffeh**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › raffaha › rahat kıldı, huzurlu etti  [türeme]
+- Arapça › muraffah › refah sahibi, huzurlu  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1492, Neşrî — Kitab-ı Cihannümâ
+  > eyyām-i devletünde reâyâ müreffehü'l-hāl olub, devām-ı devlet-i ebed-peyvend duˁasına pāyveste iştigāl olunurdu.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BCreffeh
+
+**TDK** — köken kaydı: Arapça mureffeh · anlam: ► gönençli
+
+### müdrik
+
+**Nişanyan — müdrik**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › daraka › hedefe veya sona ulaştı  [türeme]
+- Arapça › mudrik › idrak eden, kavrayan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > müdrik: Comprehendens.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BCdrik
+
+**TDK** — köken kaydı: Arapça mudrik · anlam: Anlamış, idrak etmiş olan
+
+### mümbit
+
+**Nişanyan — mümbit**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › nabata › bitki bitti, verim verdi  [türeme]
+- Arapça › munbit › bitki yetiştiren, verimli  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > münbit: Germinans, crescens, plantas seu germinas proferatus (tellus)
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BCmbit
+
+**TDK** — köken kaydı: Arapça munbit · anlam: ► verimli
+
+### mülahaza
+
+**Nişanyan — mülahaza**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › laḥaẓa › göz ucuyla baktı  [türeme]
+- Arapça › mulāḥaẓa(t) › göz göze gelme, gözden geçirme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1492, Neşrî — Kitab-ı Cihannümâ
+  > bād-ı nefesden maˁzūl ve mülāḥaẓa-i aḥvāl-i uḫreviyyeye meşġūl olsa
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BClahaza
+
+**TDK** — köken kaydı: Arapça mulāḥaẓa · anlam: ► düşünce
+
+### müptela
+
+**Nişanyan — müptela**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › balā › sınadı  [türeme]
+- Arapça › mubtalāˀ › belaya uğrayan, sınanan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > mübtelā kılmış-durur kança gide [belaya saplanmıştır, nasıl gitsin]
+- 1477, anon. — Kıssa-i Anter terc.
+  > hep muṭṭaliˁ olup bildiler ki ˁAnter ˁAble’ye mübtelāyımış.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BCptela
+
+**TDK** — köken kaydı: Arapça mubtelā · anlam: ► bağımlı
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "kreşendo",
+    "word": "kreşendo",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "crescere, cret-", "meaning": "büyümek, artmak, yükselmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "crescere", "meaning": "büyümek, artmak, yükselmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "crescendo", "meaning": "müzikte sesin giderek güçlenmesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kreşendo", "meaning": "sesin giderek güçlendirilmesini gösteren müzik işareti", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Müzikte sesin giderek güçleneceğini gösteren işaret.",
+    "currentMeaning": "Bir müzik parçasında sesin aşamalı olarak kuvvetlendirilmesini isteyen, portenin altına konulan işaret.",
+    "story": "Latince crescere ile İtalyanca crescere, bir şeyin büyümesini ve artmasını anlatır. İtalyanca crescendo bu büyüme hareketini müziğe taşır: Büyüyen şey artık sesin gücüdür. Türkçede kreşendo, çalınan parçanın giderek daha kuvvetli duyulmasını isteyen işaretin adı olmuştur.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar", "period": "1930 öncesi", "form": "kresçendo"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kreşendo maddesi", "url": "https://www.nisanyansozluk.com/kelime/kre%C5%9Fendo"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kreşendo maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istihza",
+    "word": "istihza",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "hazaˀa", "meaning": "alay ederek küçümsedi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istihzāˀ", "meaning": "alay etme, küçük düşürme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istihza", "meaning": "üstü kapalı veya kinayeli alay", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Üstü kapalı veya kinayeli alay.",
+    "currentMeaning": "Birini ya da bir şeyi açıkça söylemeden, imalı sözlerle veya tavırlarla alaya alma.",
+    "story": "Arapça hazaˀa, birini alaya alıp küçültme davranışını anlatıyordu. Bu eylemden doğan istihzāˀ, küçümseyici alayın adı oldu. Türkçedeki istihzada alay çoğu zaman açık bir saldırı yerine sözün imasında ya da bir bakışta kendini gösterir.",
+    "firstAttestation": {"source": "Rabguzi — Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "istihzā"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istihza maddesi", "url": "https://www.nisanyansozluk.com/kelime/istihza"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istihza maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mahzun",
+    "word": "mahzun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥazana", "meaning": "üzüntü verdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maḥzūn", "meaning": "üzüntü duyan, kederli", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mahzun", "meaning": "üzüntülü, kederli", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Üzüntü duyan, kederli.",
+    "currentMeaning": "Üzüntü içinde bulunan veya görünüşüyle bu duyguyu yansıtan.",
+    "story": "Arapça ḥazana birine üzüntü vermeyi anlatırken maḥzūn bu üzüntünün etkisindeki kişiyi gösterir. Sözcüğün odağında üzen olaydan çok, o olayın insanda bıraktığı duygu vardır. Türkçeye mahzun olarak geçerken bu bağ korunmuş; kelime kederli insanları, yüzleri ve bakışları nitelemeye yerleşmiştir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "maḥzūn"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mahzun maddesi", "url": "https://www.nisanyansozluk.com/kelime/mahzun"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mahzun maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "efkâr",
+    "word": "efkâr",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "fikr", "meaning": "düşünce", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "afkār", "meaning": "düşünceler", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "efkâr", "meaning": "üzüntüden doğan keder", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Üzücü bir olayın doğurduğu keder.",
+    "currentMeaning": "İnsanın üzücü bir olay üzerine düşünürken duyduğu hüzün ve iç sıkıntısı.",
+    "story": "Arapçada fikr tek bir düşünceyi, afkār ise düşünceleri karşılıyordu. Türkçede bu düşünceler dünyasına zamanla dert ve kaygı da katıldı. Böylece efkâr, zihinden geçenlerden çok bunların insanda bıraktığı hüzünle özdeşleşti.",
+    "firstAttestation": {"source": "Evliya Çelebi — Seyahatname", "period": "1665", "form": "efkâre"},
+    "relatives": [{"word": "fikir", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "efkâr maddesi", "url": "https://www.nisanyansozluk.com/kelime/efk%C3%A2r"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "efkâr maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tebessüm",
+    "word": "tebessüm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "basama", "meaning": "gülümsedi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tabassum", "meaning": "gülümseme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tebessüm", "meaning": "gülümseme", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yüzde beliren hafif gülüş.",
+    "currentMeaning": "Dudakların ve yüzün hafifçe gülme ifadesi alması.",
+    "story": "Arapça basama, yüzün gülümsemesini anlatan bir eylemdi. Bu hareketin adı olan tabassum, Türkçeye tebessüm biçiminde taşındı. Kelimenin yolculuğunda büyük bir anlam değişmesi olmadı; bugün de yüzün hafif bir gülüşle değişmesini anlatır.",
+    "firstAttestation": {"source": "Rabguzi — Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "tebessüm"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tebessüm maddesi", "url": "https://www.nisanyansozluk.com/kelime/tebess%C3%BCm"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tebessüm maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muzip",
+    "word": "muzip",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁaẕaba", "meaning": "engelledi, sıkıntıya soktu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muˁẕib", "meaning": "eziyet eden", "period": null, "reconstructed": true},
+      {"language": "tr", "form": "muzip", "meaning": "şakalarıyla başkalarını uğraştıran", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Şakalarıyla başkalarını uğraştırmayı seven.",
+    "currentMeaning": "İnsanları şaka amacıyla kızdırmayı, hafifçe üzmeyi veya uğraştırmayı alışkanlık edinmiş olan.",
+    "story": "Muzibin geçmişinde, Arapçada engel olmayı ve sıkıntı vermeyi anlatan ˁaẕaba bulunur. Türkçeye taşınan biçimin dayandığı kişi tasvirinde başkasına eziyet etme öne çıkıyordu. Türkçede bu sertlik hafifledi; geriye insanları eğlenmek için uğraştıran, şakalarıyla kızdıran bir kişilik kaldı.",
+    "firstAttestation": {"source": "Şemseddin Sami — Kamus-ı Türki", "period": "1900", "form": "mūzib"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "muzip maddesi", "url": "https://www.nisanyansozluk.com/kelime/muzip"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "muzip maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şiar",
+    "word": "şiar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şaˁara", "meaning": "anladı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "şiˁār", "meaning": "ortaklaşa benimsenen söz veya işaret, parola", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şiar", "meaning": "benimsenen düşünceyi belirleyen ayırıcı özellik veya ilke", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir kişinin veya topluluğun benimsediği ayırıcı ilke.",
+    "currentMeaning": "Bir kişinin ya da topluluğun düşünce, inanç ve tutumunu belirleyen özellik veya benimsediği ilke.",
+    "story": "Arapça şaˁara anlama eylemini anlatırken şiˁār insanların üzerinde anlaştığı bir söz ya da parola olarak kullanılıyordu. Parola, onu bilenlerin ortaklığını görünür kılan bir işaretti. Türkçede şiar, bu ayırt etme işlevini koruyarak kişinin veya topluluğun benimsediği düşünce ve davranış ilkesine uzandı.",
+    "firstAttestation": {"source": "Anonim — Ferec ba'd eş-şidde", "period": "1451 öncesi", "form": "şiˁār"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şiar maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fiar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şiar maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "vuslat",
+    "word": "vuslat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "waṣala", "meaning": "varıp erişti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "waṣla(t)", "meaning": "erişme, bir araya gelme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "vuslat", "meaning": "sevilene kavuşma", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Sevilene kavuşma.",
+    "currentMeaning": "Ayrı kalınan sevgiliyle yeniden bir araya gelme, ona kavuşma.",
+    "story": "Arapça waṣala bir yere ya da birine erişmeyi anlatıyordu; waṣla(t) ise bu erişmenin ve birleşmenin adıydı. Türkçede kelimenin odağı sevgiliye yöneldi ve varılacak yerin yerini kavuşulacak kişi aldı. Eski vaslat ve vaslet söyleyişleri de halkın dilinde değişerek bugünkü vuslat biçimine dönüştü.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "vaṣlat"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "vuslat maddesi", "url": "https://www.nisanyansozluk.com/kelime/vuslat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "vuslat maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meşakkat",
+    "word": "meşakkat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şaḳḳa", "meaning": "yarıp ayırdı, güçlük çıkardı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maşaḳḳa(t)", "meaning": "güçlük, zahmet", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meşakkat", "meaning": "yorucu güçlük, zahmet", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnsanı yoran güçlük ve zahmet.",
+    "currentMeaning": "Bir işi yaparken katlanılan yorucu güçlük, sıkıntı ve zahmet.",
+    "story": "Arapça şaḳḳa hem bir şeyi yarıp ayırmayı hem de sıkıntı vermeyi anlatıyordu. Aynı eylem ailesindeki maşaḳḳa(t), insanı zorlayan zahmetin adı oldu. Türkçedeki meşakkat bu ikinci çizgiyi sürdürür; bir işin insanı ne kadar uğraştırıp yorduğunu dile getirir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "meşaḳḳatler"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "meşakkat maddesi", "url": "https://www.nisanyansozluk.com/kelime/me%C5%9Fakkat"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hicap",
+    "word": "hicap",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥacaba", "meaning": "örtüp sakladı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥicāb", "meaning": "perde, kadınların örtüsü; utanma duygusu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hicap", "meaning": "utanma duygusu", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Utanma duygusu.",
+    "currentMeaning": "Bir durum karşısında duyulan utanma ve mahcubiyet.",
+    "story": "Arapça ḥacaba, bir şeyi örterek gözden saklama hareketini anlatıyordu. Bu kökten doğan ḥicāb, hem somut bir perdeyi veya örtüyü hem de utanma duygusunu taşıdı. Türkçenin eski kullanımında perde karşılığı da bulunan hicap, bugün utanmayı anlatırken örtünme ile geri çekilme arasındaki anlam bağını korur.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "bī-ḥıcāb"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hicap maddesi", "url": "https://www.nisanyansozluk.com/kelime/hicap"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hicap maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tefekkür",
+    "word": "tefekkür",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "fakara", "meaning": "düşündü", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tafakkur", "meaning": "düşünme, zihinsel değerlendirme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tefekkür", "meaning": "bir konu üzerinde düşünme", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir konu üzerinde düşünme.",
+    "currentMeaning": "Bir konuyu zihinde ele alıp değerlendirme ve üzerinde düşünme.",
+    "story": "Arapça fakara, zihnin düşünme işini anlatıyordu. Tafakkur bu işi bir süreç olarak adlandırdı; sözcüğün merkezinde hazır bir düşünceden çok düşünmekle meşgul olma vardır. Türkçede tefekkür de aynı çizgiyi koruyarak bir meseleyi zihinde ele alma ve değerlendirme için kullanılır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "tefekkür"},
+    "relatives": [{"word": "efkâr", "relation": "akraba"}, {"word": "fikir", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tefekkür maddesi", "url": "https://www.nisanyansozluk.com/kelime/tefekk%C3%BCr"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tefekkür maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mağrur",
+    "word": "mağrur",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġarra", "meaning": "yanılttı, kandırdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maġrūr", "meaning": "kandırılmış, yanılgıya düşmüş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mağrur", "meaning": "kendini üstün gören, kibirli", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kendini üstün gören, kibirli.",
+    "currentMeaning": "Kendini fazla beğenen ve başkalarından üstün tutan; gururlu, kibirli.",
+    "story": "Arapça ġarra birini kandırmayı, maġrūr ise bu aldanmanın içindeki kişiyi anlatıyordu. Farsça ve Türkçe kullanımında kelimenin odağı aldatılmış kişiden kendini fazla beğenen kişiye kaydı. Böylece Türkçedeki mağrurda yanılgı, insanın kendi değerini olduğundan büyük görmesiyle birleşti.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "maġrūr"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mağrur maddesi", "url": "https://www.nisanyansozluk.com/kelime/ma%C4%9Frur"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mağrur maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "seyyah",
+    "word": "seyyah",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sāḥa", "meaning": "gezip dolaştı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "sayyāḥ", "meaning": "sık sık gezip dolaşan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "seyyah", "meaning": "gezip dolaşan kimse, gezgin", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Farklı yerleri gezip dolaşan kimse.",
+    "currentMeaning": "Yerler ve ülkeler arasında gezip dolaşan kişi; gezgin.",
+    "story": "Arapça sāḥa, bir yerde durmak yerine gezip dolaşmayı anlatıyordu. Sayyāḥ, bu eylemi çok yapan kişiyi adlandırarak yolculuğu kişinin belirgin özelliğine dönüştürdü. Türkçeye seyyah biçiminde geçen kelime, farklı yerleri dolaşan insanı anlatmayı sürdürdü.",
+    "firstAttestation": {"source": "Fahrî — Hüsrev ü Şirin tercümesi", "period": "1367", "form": "seyyāḥ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "seyyah maddesi", "url": "https://www.nisanyansozluk.com/kelime/seyyah"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "seyyah maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muhayyile",
+    "word": "muhayyile",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫāla", "meaning": "zihninde canlandırdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muḫayyil", "meaning": "zihninde canlandıran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "muhayyile", "meaning": "zihinde görüntü ve tasarılar kurma gücü", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Zihinde görüntü ve tasarılar kurma gücü.",
+    "currentMeaning": "Gerçekte karşısında bulunmayan şeyleri zihninde canlandırma ve yeni tasarılar oluşturma yetisi.",
+    "story": "Arapça ḫāla, göz önünde olmayanı zihinde hayal etme eylemini anlatıyordu. Muḫayyil bu eylemi gerçekleştiren tarafı öne çıkarırken Türkçedeki muhayyile, hayal kurmayı sağlayan yetinin adı oldu. Böylece kelimenin odağı tek bir hayalden, o hayalleri üretebilen zihinsel güce yerleşti.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "muḫayyile"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "muhayyile maddesi", "url": "https://www.nisanyansozluk.com/kelime/muhayyile"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "muhayyile maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müphem",
+    "word": "müphem",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "bahīma(t)", "meaning": "konuşma ve kavrama yetisinden yoksun sayılan hayvan", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mubham", "meaning": "anlaşılması güç, açık olmayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müphem", "meaning": "açıklık kazanmamış, belirsiz", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Açıklık kazanmamış, belirsiz.",
+    "currentMeaning": "Ne olduğu veya ne anlatmak istediği açıkça anlaşılamayan.",
+    "story": "Müphemin gerisindeki Arapça bahīma(t), hayvanı konuşma ve kavrama yetilerinin yokluğu üzerinden adlandırıyordu. Aynı anlam çevresindeki mubham, anlaşılmayan veya açıklıktan yoksun olanı niteledi. Türkçede müphem, bu somut başlangıçtan uzaklaşarak anlamı seçilemeyen sözlere ve açıklığa kavuşmamış durumlara yerleşti.",
+    "firstAttestation": {"source": "Fuzuli — Türkçe Divan", "period": "1535", "form": "mübhem"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müphem maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCphem"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müphem maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müreffeh",
+    "word": "müreffeh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "raffaha", "meaning": "rahata kavuşturdu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muraffah", "meaning": "rahat ve bolluk içinde bulunan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müreffeh", "meaning": "geçim rahatlığına ve bolluğa sahip", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bolluk ve geçim rahatlığı içinde olan.",
+    "currentMeaning": "Maddi imkânları yeterli, rahat ve gönenç içinde yaşayan.",
+    "story": "Arapça raffaha birini rahata kavuşturma eylemini anlatıyordu. Muraffah, bu rahatlığın sağlandığı ve huzur içinde bulunan kişiyi niteledi. Türkçede müreffeh, geçim sıkıntısından uzak yaşayabilmeyi öne çıkararak kişilerin ve toplumların yaşam koşullarını anlatır.",
+    "firstAttestation": {"source": "Neşrî — Kitab-ı Cihannümâ", "period": "1492", "form": "müreffehü'l-hāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müreffeh maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCreffeh"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müreffeh maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müdrik",
+    "word": "müdrik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "daraka", "meaning": "hedefine veya bitiş noktasına erişti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mudrik", "meaning": "anlayan, zihnen kavrayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müdrik", "meaning": "bir şeyi kavramış olan", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyi anlamış ve kavramış olan.",
+    "currentMeaning": "Bir durumun veya düşüncenin anlamını kavramış, onun bilincine varmış olan.",
+    "story": "Arapça daraka, bir hedefe ya da sona erişmeyi anlatıyordu. Mudrikte bu erişme zihinsel bir boyut kazandı: Varılan şey bir yer değil, bir düşüncenin kavranmasıydı. Türkçede müdrik, bu anlama noktasına ulaşmış kişiyi niteler.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "müdrik"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müdrik maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCdrik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müdrik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mümbit",
+    "word": "mümbit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nabata", "meaning": "filizlenip büyüdü, ürün verdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "munbit", "meaning": "bitkilerin yetişmesini sağlayan, bereketli", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mümbit", "meaning": "bol ürün veren, verimli", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bol ürün veren, verimli.",
+    "currentMeaning": "Bitkilerin iyi yetişmesine ve bol ürün alınmasına elverişli; verimli.",
+    "story": "Arapça nabata, bir bitkinin filizlenip büyümesini ve verim vermesini anlatıyordu. Munbit, bu büyümeyi sağlayan toprağın üretkenliğini öne çıkardı. Türkçeye geçen mümbit de bereketli toprağı nitelerken kelimenin içindeki bitki yetiştirme bağını korudu.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "münbit"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mümbit maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCmbit"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mümbit maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mülahaza",
+    "word": "mülahaza",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "laḥaẓa", "meaning": "gözünün ucuyla baktı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mulāḥaẓa(t)", "meaning": "bakışların karşılaşması, inceleyip değerlendirme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mülahaza", "meaning": "bir konuya ilişkin düşünce", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir konuya ilişkin düşünce veya değerlendirme.",
+    "currentMeaning": "Bir konu üzerinde düşünerek oluşan görüş veya değerlendirme.",
+    "story": "Arapça laḥaẓa, göz ucuyla bakmak gibi somut bir hareketten başlar. Mulāḥaẓa(t) içinde bakışların karşılaşmasıyla bir şeyi gözden geçirme yan yana bulunur. Türkçede mülahaza, gözle incelemeden zihinsel değerlendirmeye uzanan bu bağı sürdürerek bir konu hakkındaki düşünceyi adlandırır.",
+    "firstAttestation": {"source": "Neşrî — Kitab-ı Cihannümâ", "period": "1492", "form": "mülāḥaẓa"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mülahaza maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BClahaza"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mülahaza maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müptela",
+    "word": "müptela",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "balā", "meaning": "sınamadan geçirdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mubtalāˀ", "meaning": "sıkıntıyla sınanan, derde tutulmuş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müptela", "meaning": "bir şeye bağımlı hâle gelmiş", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeye bağımlı hâle gelmiş.",
+    "currentMeaning": "Bir alışkanlığa, kişiye veya şeye kendini ondan ayıramayacak ölçüde bağlanmış olan.",
+    "story": "Arapça balā sınamayı anlatırken mubtalāˀ, bir sıkıntının içine düşüp onunla sınanan kişiyi gösteriyordu. Türkçenin eski kullanımında kelime hem derde tutulmayı hem de birine aşkla bağlanmayı anlatabildi. Bugünkü müptelada ortak nokta, kişinin kendini kolayca kurtaramadığı güçlü bir bağlılık içinde bulunmasıdır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "mübtelā"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müptela maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCptela"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müptela maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+25,118

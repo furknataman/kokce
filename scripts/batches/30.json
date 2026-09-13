@@ -1,0 +1,1076 @@
+[
+  {
+    "id": "iğbirar",
+    "word": "iğbirar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ġabira",
+        "meaning": "toza bulandı, kırıldı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "iġbirār",
+        "meaning": "tozlanma, gönül kırgınlığı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "iğbirar",
+        "meaning": "beklentisi karşılanmadığında duyulan kırgınlık",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Beklenen karşılığı bulamayınca duyulan kırgınlık.",
+    "currentMeaning": "Bir kimsenin umulan biçimde davranmaması yüzünden duyulan kırgınlık.",
+    "story": "Arapçada ġabira fiili hem toza bulanmayı hem gücenmeyi anlatıyordu; iġbirār bu iki durumu adlandırdı. Türkçeye taşınan ise duygusal tarafı oldu: Beklenen davranış görülmediğinde gönülde kalan kırgınlık.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "ığbirār"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "iğbirar maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/i%C4%9Fbirar"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "iğbirar",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mütehassis",
+    "word": "mütehassis",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥassa",
+        "meaning": "duydu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mutaḥassis",
+        "meaning": "haber araştıran, dinleyerek bilgi edinen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mütehassis",
+        "meaning": "duygulanmış",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir olay veya durum karşısında duygulanmış.",
+    "currentMeaning": "Bir şeyden etkilenerek duygulanmış olan.",
+    "story": "Arapçada duyma eyleminden kurulan mutaḥassis, haberlerin peşine düşen ve dinleyerek bilgi edinen kişiyi anlatıyordu. Osmanlı Türkçesinde kelime his ile yeniden ilişkilendirilince dikkat dışarıdaki haberlerden kişinin içindeki duygulara kaydı. Böylece Türkçede duygulanmış birini niteleyen mütehassis ortaya çıktı.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "mütehassis"
+    },
+    "relatives": [
+      {
+        "word": "his",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mütehassis maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCtehassis"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mütehassis",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müstehzi",
+    "word": "müstehzi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "hazaˀa",
+        "meaning": "alay etti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mustahzī",
+        "meaning": "başkasıyla alay eden",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müstehzi",
+        "meaning": "alaycı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Alay eden veya alaycı bir tavır taşıyan.",
+    "currentMeaning": "Alay eden; sözünde veya davranışında alay bulunan.",
+    "story": "Arapçada hazaˀa birisiyle alay etme eylemini anlatırken mustahzī bu eylemi yapan kişiyi gösteriyordu. Türkçeye geçen müstehzi, aynı alaycı tavrı korudu; bir insanı olduğu kadar onun bakışını veya gülüşünü de niteleyebildi.",
+    "firstAttestation": {
+      "source": "Ali Ufki Bey — Kitab-ı Mukaddes tercümesi",
+      "period": "1665",
+      "form": "müstehzīler"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müstehzi maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCstehzi"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "müstehzi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "intibah",
+    "word": "intibah",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "nabaha",
+        "meaning": "uyandı, farkına vardı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "intibāh",
+        "meaning": "uyanış, uyanık olma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "intibah",
+        "meaning": "uyanma",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Uykudan veya dalgınlıktan uyanma.",
+    "currentMeaning": "Uyanma, uyanır duruma gelme.",
+    "story": "Arapçada nabaha, uykudan kalkmakla bir şeyin farkına varmayı aynı fiilde buluşturuyordu. Bu fiilden kurulan intibāh, uyanışı ve uyanık bulunmayı adlandırdı. Türkçede intibah biçimiyle yaşayan kelime de bu uyanma fikrini taşıdı.",
+    "firstAttestation": {
+      "source": "Hoca Sadeddin Efendi — Tacü't-Tevârih",
+      "period": "1574",
+      "form": "intibāh"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "intibah maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/intibah"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "intibah",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "intizar",
+    "word": "intizar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "naẓara",
+        "meaning": "baktı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "intiẓār",
+        "meaning": "bekleyiş, gelecek olanı gözleme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "intizar",
+        "meaning": "bir kimseyi veya gelişmeyi bekleme",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir kimseyi ya da bir olayın gerçekleşmesini bekleme.",
+    "currentMeaning": "Bir kişinin gelmesini veya beklenen bir durumun gerçekleşmesini gözleme.",
+    "story": "İntizarın gerisinde Arapçadaki bakma eylemi vardır. Naẓara fiilinden kurulan intiẓār, bakışın gelecek birine ya da beklenen bir gelişmeye yöneldiği bekleyişi anlatıyordu. Türkçe bu gözleme ile bekleme bağını korudu.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "intiẓār"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "İntizar, Türkçe halk ağızlarında bekleyişten çok farklı bir anlam kazanarak beddua için de kullanılmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "intizar maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/intizar"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "intizar",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "münkesir",
+    "word": "münkesir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "munkesir",
+        "meaning": "kırılmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "münkesir",
+        "meaning": "kırık",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kırılmış olan.",
+    "currentMeaning": "Kırık durumda bulunan.",
+    "story": "Münkesirin taşıdığı temel resim, kırılmış bir şeyin durumudur. Arapça munkesir Türkçeye alınırken bu kırıklık fikri korunmuş, kelime kırık olanı niteleyen bir sıfat olarak yerleşmiştir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "münkesir",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "adem",
+    "word": "adem",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ˁadima",
+        "meaning": "yoktu, eksikti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ˁadam",
+        "meaning": "var olmama",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "adem",
+        "meaning": "yokluk",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Var olmama durumu, yokluk.",
+    "currentMeaning": "Bir şeyin bulunmaması veya var olmaması durumu.",
+    "story": "Arapça ˁadima fiili, bir şeyin bulunmadığını ya da eksik olduğunu söylüyordu. Bu yok oluş durumu ˁadam adıyla soyut bir kavrama dönüştü. Türkçeye adem olarak geçen kelime, varlığın karşısındaki yokluğu adlandırdı.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "ˁadem"
+    },
+    "relatives": [
+      {
+        "word": "ademiyye",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "adem maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/adem"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "adem",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "afak",
+    "word": "afak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "āfāḳ",
+        "meaning": "ufuklar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "afak",
+        "meaning": "ufuklar",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ufukların bütünü.",
+    "currentMeaning": "Ufuklar; bakışın uzaklarda ulaştığı sınırlar.",
+    "story": "Afak, bakışın uzaklarda gökle yeri buluşturduğu ufukları bir arada adlandırır. Arapça āfāḳ Türkçeye geçerken bu çoğul görünümü korumuş, tek bir ufuk yerine ufukları anlatmıştır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "ufuk",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "afak",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ahzan",
+    "word": "ahzan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥuzn",
+        "meaning": "üzüntü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "aḥzān",
+        "meaning": "üzüntüler, tasalar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ahzan",
+        "meaning": "kederler, üzüntüler",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsanı üzen kederler ve tasalar.",
+    "currentMeaning": "Hüzün, keder ve tasa gibi üzüntülerin bütünü.",
+    "story": "Arapçadaki ḥuzn tek bir üzüntüyü adlandırırken çoğulu aḥzān bu duyguyu çokluk içinde anlatır. Türkçeye ahzan olarak geçen kelime, insanın taşıdığı kederleri ve tasaları bir araya getirir.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "hüzün",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "ahzan maddesi",
+        "url": "https://lugatim.com/s/ahzan"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "samt",
+    "word": "samt",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ṣamt",
+        "meaning": "suskunluk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "samt",
+        "meaning": "sessizlik, suskunluk",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sözün ve sesin kesildiği sessizlik.",
+    "currentMeaning": "Sessiz olma, suskun kalma durumu.",
+    "story": "Samtın anlattığı sahnede konuşma durmuş, yerini sessizliğe bırakmıştır. Arapça ṣamt Türkçeye bu suskunluk fikriyle taşınmış ve sesin yokluğunu adlandırmayı sürdürmüştür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "samt maddesi",
+        "url": "https://lugatim.com/s/samt"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "avdet",
+    "word": "avdet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ˁāda",
+        "meaning": "geri döndü, yineledi, alıştı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ˁawda(t)",
+        "meaning": "dönüş, tekrar etme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "avdet",
+        "meaning": "çıkılan yere geri dönüş",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ayrılınan yere geri dönme.",
+    "currentMeaning": "Yola çıkılan veya ayrılınan yere yeniden dönme.",
+    "story": "Arapça ˁāda, hem geri gelmeyi hem bir şeyi yeniden yapmayı anlatıyordu. Bu fiilden kurulan ˁawda(t), dönüş ile tekrarı aynı ad altında topladı. Türkçede avdetin öne çıkan yönü, gidilen yoldan başlangıç yerine geri dönmek oldu.",
+    "firstAttestation": {
+      "source": "Anonim — Ferec ba'd eş-şidde",
+      "period": "1451 öncesi",
+      "form": "ˁavdet"
+    },
+    "relatives": [
+      {
+        "word": "avdeti",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Avdeti, Selânik'teki bir cemaat için kullanılan dönme adının daha nazik bir karşılığı olarak da kullanılmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "avdet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/avdet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "avdet",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bedia",
+    "word": "bedia",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "bedˁ",
+        "meaning": "yaratma, ortaya çıkarma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "bedīˁa",
+        "meaning": "yeni ve benzeri görülmemiş güzel şey",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bedia",
+        "meaning": "yeniliği ve güzelliğiyle ayrılan şey",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Benzeri görülmemiş, yeni ve güzel şey.",
+    "currentMeaning": "Yeni oluşu ve alışılmadık güzelliğiyle dikkat çeken şey.",
+    "story": "Bedia, Arapçada yaratma ve yeni olma düşüncelerini taşıyan bir kelime ailesine bağlıdır. Bedīˁa ile adlandırılan güzellik, daha önce benzeri görülmemiş olmanın yeniliğini de taşır. Türkçedeki bedia da güzel olanı bu yenilik duygusuyla birlikte anlatır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "bedia maddesi",
+        "url": "https://lugatim.com/s/bedia"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "besalet",
+    "word": "besalet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "besālet",
+        "meaning": "yiğitlik",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "besalet",
+        "meaning": "yiğitlik",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Tehlike karşısında gösterilen yiğitlik.",
+    "currentMeaning": "Yiğitçe davranma, cesaret gösterme niteliği.",
+    "story": "Besalet, tehlike karşısında cesaretini koruyan kişinin yiğitliğini adlandırır. Arapça besālet Türkçeye alınırken bu anlamını korumuş, cesur davranışın adı olarak kullanılmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "besalet",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "beşaret",
+    "word": "beşaret",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "başşara",
+        "meaning": "sevindirici haber verdi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "bişāra(t)",
+        "meaning": "sevindiren haber",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "beşaret",
+        "meaning": "muştu, müjde",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sevinç veren haber, müjde.",
+    "currentMeaning": "İnsanı sevindiren bir gelişmeyi bildiren haber, muştu.",
+    "story": "Arapça başşara, sevindirici bir haberi başkasına ulaştırma eylemini anlatıyordu. Bişāra(t) ise bu eylemle verilen haberin adı oldu. Türkçede beşaret biçimine yerleşen kelime, haberin taşıdığı sevinci korudu.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "bişāret"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "beşaret maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/be%C5%9Faret"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "beşaret",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bürudet",
+    "word": "bürudet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "barida",
+        "meaning": "soğuktu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "burūda(t)",
+        "meaning": "soğuk olma durumu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bürudet",
+        "meaning": "soğukluk",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Soğuk olma durumu.",
+    "currentMeaning": "Soğukluk, sıcaklığın düşük olması durumu.",
+    "story": "Arapçada barida bir şeyin soğuk olduğunu bildirirken burūda(t) bu özelliği adlandırıyordu. Türkçeye bürudet olarak taşınan kelimenin eski kullanımında yağmur ve karla birlikte anılan somut bir soğukluk vardır. Bugünkü soğukluk karşılığı bu temel duyumu sürdürür.",
+    "firstAttestation": {
+      "source": "Ahmedî — İskendernâme",
+      "period": "1400",
+      "form": "bürūdet"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bürudet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/b%C3%BCrudet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bürudet",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "daüssıla",
+    "word": "daüssıla",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "al-ṣila(t)",
+        "meaning": "kavuşma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "dā",
+        "meaning": "hastalık, ağrı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "dāˀ-u'ṣ-ṣila(t)",
+        "meaning": "sılaya kavuşamamanın verdiği hastalık ve özlem",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "daüssıla",
+        "meaning": "yurt özlemi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsanın yurduna duyduğu özlem.",
+    "currentMeaning": "Uzakta bulunulan yurda yeniden kavuşma özlemi.",
+    "story": "Daüssılanın Arapçadaki kuruluşunda hastalık ile kavuşma düşüncesi yan yana durur. Sılaya duyulan hasret, insana acı veren bir hastalık gibi adlandırılmıştır. Türkçe bu birleşimi bir bütün olarak almış ve yurt özlemini anlatmak için kullanmıştır.",
+    "firstAttestation": {
+      "source": "Tıngır ve Sinapian — Istılahat Lugati",
+      "period": "1892",
+      "form": "dāüs-sıla"
+    },
+    "relatives": [
+      {
+        "word": "sıla",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "daüssıla maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/da%C3%BCss%C4%B1la"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "daüssıla",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "debdebe",
+    "word": "debdebe",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "dabdaba",
+        "meaning": "ayak, nal veya davulun çıkardığı sert ses",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "dabdaba(t)",
+        "meaning": "ayak, nal veya davulun çıkardığı sert ses",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "debdebe",
+        "meaning": "görkem, gösteriş",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Göz alıcı gösteriş ve görkem.",
+    "currentMeaning": "Büyüklüğü ve gösterişiyle etkileyen görkem.",
+    "story": "Debdebenin eski ses dünyasında yere sert basan ayaklar, at nalları ve davullar vardır. Türkçedeki erken kullanımlarında da saltanat davullarıyla birlikte duyulur. Zamanla bu gürültülü gösterinin sesi geri çekilmiş, kelime gösterinin haşmetini ve görkemini anlatmaya başlamıştır.",
+    "firstAttestation": {
+      "source": "Selanikî Mustafa Efendi — Tarih-i Selanikî",
+      "period": "1596",
+      "form": "debdebe"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "debdebe maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/debdebe"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "debdebe",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "deycur",
+    "word": "deycur",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "deycūr",
+        "meaning": "ışıksızlık, karanlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "deycur",
+        "meaning": "karanlık",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Işığın bulunmadığı karanlık.",
+    "currentMeaning": "Işık yokluğu, karanlık.",
+    "story": "Deycur, ışığın çekildiği ve çevrenin görünmez olduğu karanlığı adlandırır. Farsça ve Arapçayla ilişkilendirilen deycūr biçiminin Türkçeye hangi dil üzerinden ulaştığı kesin değildir. Türkçedeki kullanımında da merkezde bu karanlık fikri bulunur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": [
+      "Kubbealtı Lugatı kökeni Farsça ve Arapçayı birlikte gösteren 'Fars. – Ar.' etiketiyle verir; doğrudan aktarım yolunu ayırmadığı için zincirde bu ortak kayıt Farsça koduyla temsil edilmiştir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "deycur maddesi",
+        "url": "https://lugatim.com/s/deycur"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "enin",
+    "word": "enin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "enīn",
+        "meaning": "inleme sesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "enin",
+        "meaning": "inilti",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnlerken çıkan ses.",
+    "currentMeaning": "İnleme sırasında çıkan, acı veya sıkıntı bildiren ses.",
+    "story": "Enin, acının sözlere dökülmeden bir sesle dışarı çıkışını anlatır. Arapça enīn Türkçeye taşınırken bu işitilebilir karşılığını korumuş, iniltiyi adlandırmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "enin",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "esatir",
+    "word": "esatir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {
+        "language": "arc",
+        "form": "şṭārā",
+        "meaning": "olayları yazıya geçiren kişi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "usṭūra(t)",
+        "meaning": "geçmişe ilişkin olağanüstü hikâye",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "asāṭir",
+        "meaning": "efsaneler, mitoloji",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "esatir",
+        "meaning": "mitoloji",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Mitoloji; mit ve efsanelerin bütünü.",
+    "currentMeaning": "Mitleri ve efsaneleri bir araya getiren anlatılar bütünü, mitoloji.",
+    "story": "Esatirin daha eski geçmişi için Aramicedeki olayları kayda geçiren kişiyi anlatan şṭārā biçimi öne çıkarılır. Bu açıklamada yol, yazıcıdan Arapçadaki olağanüstü geçmiş anlatısı usṭūra(t) biçimine, oradan efsaneleri topluca adlandıran asāṭir biçimine uzanır. Daha eski bağlantı tartışmalıdır; Yunancadaki anlatı ve tarih kavramından hareket eden başka bir açıklama da vardır. Türkçeye Arapçadan geçen esatir ise mitolojiyi adlandırır.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "esāṭır"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Arapça biçimin Eski Yunanca historía ile açıklanmasının yaygın olduğunu, buna karşılık Jeffery'nin Aramice bağlantısını daha güçlü bulduğunu belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "esatir maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/esatir"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "esatir",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

@@ -1,0 +1,1662 @@
+[
+  {
+    "id": "muhrik",
+    "word": "muhrik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥaraḳa", "meaning": "ateşle yaktı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muḥriḳ", "meaning": "yanmaya yol açan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "muhrik", "meaning": "yakma etkisi bulunan", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yakma etkisi bulunan.",
+    "currentMeaning": "Bir şeyi yakan veya yanmaya yol açan.",
+    "story": "Muhrikin geçmişinde ateşin bir şeyi yakması vardır: Arapça ḥaraḳa bu eylemi anlatır. Bu eylemden kurulan muḥriḳ, dikkati yanan şeyden onu yakana çevirir. Türkçeye geçen muhrik de yakma gücünü bir özellik olarak taşır.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "muhrıḳ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "muhrik maddesi", "url": "https://www.nisanyansozluk.com/kelime/muhrik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "muhrik", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muzlim",
+    "word": "muzlim",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "muẓlim", "meaning": "ışıktan yoksun, karanlık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "muzlim", "meaning": "ışıktan yoksun, karanlık", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Işıktan yoksun olan.",
+    "currentMeaning": "Aydınlık olmayan, karanlık.",
+    "story": "Muzlimin taşıdığı görüntü, ışığın çekildiği ve çevrenin seçilemediği bir yerdir. Arapçadaki muẓlim Türkçeye geçerken bu karanlık niteliğini korumuş, aydınlıktan yoksun olanı anlatmayı sürdürmüştür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "muzlim", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mülevven",
+    "word": "mülevven",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mulevven", "meaning": "renk taşıyan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mülevven", "meaning": "renk taşıyan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Rengi veya renkleri bulunan.",
+    "currentMeaning": "Renk taşıyan, renkli olan.",
+    "story": "Mülevven, bir yüzeyin ya da nesnenin gözle görülen rengine odaklanır. Arapça mulevven Türkçeye alınırken bu görsel özellik korunmuş, kelime renk taşıyan şeyleri nitelemeye devam etmiştir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mülevven", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "muattar",
+    "word": "muattar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁiṭr", "meaning": "güzel koku", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muˁaṭṭar", "meaning": "güzel koku sürülmüş, kokulandırılmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "muattar", "meaning": "güzel koku taşıyan", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Güzel koku taşıyan.",
+    "currentMeaning": "Itır kokusu taşıyan, hoş kokulu.",
+    "story": "Muattar, Arapça ˁiṭr ile adlandırılan güzel kokunun bir şeye sürülmesi ya da sindirilmesi düşüncesini taşır. Muˁaṭṭar biçiminde artık kokunun kendisi değil, onunla kokulandırılmış olan şey öne çıkar. Türkçede kelime bu sonucu, yani bir şeyin hoş kokmasını anlatır.",
+    "firstAttestation": {"source": "Süleyman Çelebi — Mevlid", "period": "1409", "form": "muˁattar"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "muattar maddesi", "url": "https://www.nisanyansozluk.com/kelime/muattar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "muattar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "latif",
+    "word": "latif",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "laṭafa", "meaning": "eli açık davrandı, iyilikte bulundu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "laṭīf", "meaning": "eli açık, incelikli ve güzel", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "latif", "meaning": "hoş ve ince bir güzellik taşıyan", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnce güzelliğiyle hoş gelen.",
+    "currentMeaning": "Yumuşaklığı ve zarif güzelliğiyle hoş bir etki bırakan.",
+    "story": "Latifin geçmişinde Arapça laṭafa ile anlatılan iyilik etme ve cömert davranma eylemi bulunur. Laṭīf biçiminde bu olumlu insan davranışına zarafet ve güzellik de eşlik eder. Türkçede kelimenin ağırlığı, bir şeyin yumuşak ve ince güzelliğiyle verdiği hoş duyguya yerleşmiştir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "laṭīf"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "latif maddesi", "url": "https://www.nisanyansozluk.com/kelime/latif"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "latif", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "rakik",
+    "word": "rakik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "raḳḳa", "meaning": "inceleşti, acıma duydu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "raḳīḳ", "meaning": "kalınlığı az, duyarlı ve narin", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rakik", "meaning": "ince yapılı ve narin", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnce yapılı, narin.",
+    "currentMeaning": "İncelik ve narinlik taşıyan.",
+    "story": "Rakikin dayandığı Arapça raḳḳa, hem incelmeyi hem de acıma duymayı anlatır. Böylece maddelerin inceliğiyle insanın duygusal hassasiyeti aynı kelime ailesinde buluşur. Raḳīḳ biçimi Türkçeye rakik olarak geçerken bu incelik niteliğini korumuştur.",
+    "firstAttestation": {"source": "Latifî — Tezkîretü'ş-Şuarâ", "period": "1546", "form": "raḳīk"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "rakik maddesi", "url": "https://www.nisanyansozluk.com/kelime/rakik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rakik", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "raksan",
+    "word": "raksan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "raḳṣ", "meaning": "dans etme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "raksan", "meaning": "dans eden, oynayan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dans eden, oynayan.",
+    "currentMeaning": "Raks ederek hareket eden, dans eden.",
+    "story": "Raksanın merkezinde Arapça raḳṣ ile anlatılan dans hareketi vardır. Bu tabana Farsça -ān eki eklenince hareketin adı, o hareketi yapanı niteleyen bir söze dönüşür. Türkçedeki raksan böylece dansın kendisini değil, dans edeni gösterir.",
+    "firstAttestation": null,
+    "relatives": [{"word": "raks", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "raksan maddesi", "url": "https://lugatim.com/s/raksan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "seyyal",
+    "word": "seyyal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sāla", "meaning": "akıp gitti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "sayyāl", "meaning": "kolayca ve bolca akan, sıvı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "seyyal", "meaning": "akış hâlinde olan", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Akış hâlinde olan.",
+    "currentMeaning": "Akan veya akışını sürdüren.",
+    "story": "Seyyalin başlangıcında Arapça sāla ile anlatılan akma eylemi bulunur. Sayyāl bu hareketi güçlü bir özellik olarak taşır ve sıvı olanı da adlandırır. Türkçeye seyyal biçiminde geçen kelimede, bir yerde durmayıp akışını sürdüren şeyin görüntüsü korunur.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "seyyāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "seyyal maddesi", "url": "https://www.nisanyansozluk.com/kelime/seyyal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "seyyal", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "rakit",
+    "word": "rakit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "rākid", "meaning": "akmayan, durgun", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rakit", "meaning": "akışı olmayan su", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Akışı olmayan, durgun suyu niteleyen.",
+    "currentMeaning": "Su için, akmadan duran.",
+    "story": "Rakit, akıp gitmeyen suyun durgunluğunu taşır. Arapça rākid Türkçeye rakit biçiminde geçmiş ve suyun bu hareketsiz durumunu nitelemek üzere kullanılmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rakit", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "samit",
+    "word": "samit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ṣamt", "meaning": "söz söylememe, susma", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ṣāmit", "meaning": "söz söylemeyen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "samit", "meaning": "konuşmadan duran", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Konuşmadan duran.",
+    "currentMeaning": "Söz söylemeyen, sessiz kalan.",
+    "story": "Samitin temelinde Arapça ṣamt ile anlatılan susma eylemi vardır. Ṣāmit biçimi, bu eylemi yapan kişiyi öne çıkarır: söz söylemeden duran biri. Türkçeye samit olarak taşınan kelime de konuşmama durumunu korur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "samit maddesi", "url": "https://lugatim.com/s/samit"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sari",
+    "word": "sari",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sarā", "meaning": "akıp ilerledi, yayılarak bulaştı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "sārī", "meaning": "akan, bulaşarak yayılan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sari", "meaning": "yayılan, bulaşan", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yayılan, bulaşan.",
+    "currentMeaning": "Akıp yayılan veya başka bir yere bulaşarak geçen.",
+    "story": "Sari, Arapça sarā fiilindeki akma, yayılma ve bulaşma hareketlerini bir arada taşır. Bu hareketlerin ortak yanı, bir şeyin bulunduğu sınırı aşarak başka yerlere ulaşmasıdır. Türkçedeki eski kullanımlarda da hem bir etkinin geniş bir alana yayılması hem de zehrin bünyeye geçmesi bu kelimeyle anlatılır.",
+    "firstAttestation": {"source": "Hoca Sadeddin Ef. — Tacü't-Tevârih", "period": "1574", "form": "sārī"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sari maddesi", "url": "https://www.nisanyansozluk.com/kelime/sari"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "fani",
+    "word": "fani",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "fanā", "meaning": "varlığı sona erdi, sönüp gitti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "fānī", "meaning": "ölüme bağlı, ömrü sona eren", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fani", "meaning": "ölümlü, varlığı kalıcı olmayan", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Ölümlü, varlığı kalıcı olmayan.",
+    "currentMeaning": "Bir gün ölecek veya varlığı sona erecek olan.",
+    "story": "Faninin geçmişinde Arapça fanā ile anlatılan sönme ve yok olup gitme vardır. Fānī, bu sona erişi canlıların ölümüyle buluşturur. Türkçede kelime, yaşamın ve varlığın sürüp gitmeyeceğini anlatan ölümlülük düşüncesini taşır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "fānī"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fani maddesi", "url": "https://www.nisanyansozluk.com/kelime/fani"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "baki",
+    "word": "baki",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "baḳiya/baḳā", "meaning": "kalmayı sürdürdü", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "bāḳī", "meaning": "varlığını sürdüren", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "baki", "meaning": "ölümü olmayan, sonsuza dek kalan", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Varlığı sonsuza dek süren.",
+    "currentMeaning": "Ölmeyen, varlığını sonsuza dek sürdüren.",
+    "story": "Baki, Arapçada kalmayı anlatan baḳiya/baḳā fiiline dayanır. Bāḳī biçimi, zaman geçse de geride kalanı ve varlığını sürdüreni öne çıkarır. Türkçede bu kalıcılık düşüncesi, ölümsüzlüğü anlatacak kadar genişler.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "bāḳī"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "baki maddesi", "url": "https://www.nisanyansozluk.com/kelime/baki"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "baki", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ezel",
+    "word": "ezel",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {"language": "arc", "form": "azal", "meaning": "geçip gitmek, yaşamı sona ermek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "azal", "meaning": "başlangıcı olmayan geçmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ezel", "meaning": "başlangıcı belirlenemeyen geçmiş zaman", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Başlangıcı belirlenemeyen geçmiş zaman.",
+    "currentMeaning": "Bir başlangıç noktası gösterilemeyen zaman, öncesi bulunmama durumu.",
+    "story": "Ezelin en eski halkasında, Aramice-Süryanice azal ile anlatılan geçip gitme ve ölme eylemleri bulunur. Arapça azal aşamasında kelime artık bir eylemi değil, geriye doğru sınırı olmayan geçmişi adlandırır. Türkçeye ezel olarak geçen bu zaman adı, geçmişin başlangıç noktasına ulaşılamaması düşüncesini korur.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "azal"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ezel maddesi", "url": "https://www.nisanyansozluk.com/kelime/ezel"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ezel", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ebet",
+    "word": "ebet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "abada", "meaning": "kaldı, varlığını sürdürdü", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "abad", "meaning": "uzun zaman boyunca sürme, kalıcılık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ebet", "meaning": "bitişi olmayan gelecek", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bitişi olmayan gelecek.",
+    "currentMeaning": "Geleceğe doğru hiçbir son sınırı bulunmayan zaman.",
+    "story": "Ebetin dayandığı Arapça abada, bir şeyin kalmasını ve varlığını sürdürmesini anlatır. Abad biçiminde bu devamlılık, özellikle çok uzun bir zaman dilimine dönüşür. Türkçedeki ebet, sürenin son sınırını da kaldırarak bitmeyecek geleceği adlandırır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ebed"},
+    "relatives": [{"word": "ebediyet", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ebet maddesi", "url": "https://www.nisanyansozluk.com/kelime/ebet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ebet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zeval",
+    "word": "zeval",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "zāla", "meaning": "bulunduğu yerden uzaklaştı, alçaldı, azaldı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "zawāl", "meaning": "uzaklaşıp düşme; güneşin alçaldığı öğleden sonraki evre", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "zeval", "meaning": "varlığın sona ermesi veya sona erdirilmesi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Varlığın sona ermesi veya sona erdirilmesi.",
+    "currentMeaning": "Bir şeyin ortadan kalkması ya da ortadan kaldırılması.",
+    "story": "Zevalin geçmişinde Arapça zāla ile anlatılan uzaklaşma, düşme ve eksilme hareketleri vardır. Zawāl, güneşin öğleden sonra alçalmaya başladığı evreyi de adlandırır. Türkçede kelimenin yok oluşu anlatması, bu gerileme ve ortadan çekilme anlam çizgisini sürdürür.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "zevāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "zeval maddesi", "url": "https://www.nisanyansozluk.com/kelime/zeval"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "zeval", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "firak",
+    "word": "firak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "faraḳa", "meaning": "birbirinden ayrı hâle getirdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "firāḳ", "meaning": "ayrı düşme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "firak", "meaning": "ayrı kalma durumu", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Ayrı düşme, ayrı kalma.",
+    "currentMeaning": "Birbirinden ayrılmış olma durumu.",
+    "story": "Firakın temelinde Arapça faraḳa ile anlatılan ayırma eylemi bulunur. Firāḳ, bu eylemden sonra ortaya çıkan ayrı kalma durumunu adlandırır. Türkçeye geçerken ayrılık anlamını korur; eski kullanımlarında bu ayrılığın insana verdiği güçlük de belirgindir.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "firāḳ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "firak maddesi", "url": "https://www.nisanyansozluk.com/kelime/firak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "firak", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hicret",
+    "word": "hicret",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "hacara", "meaning": "yaşadığı yerden başka yere göçtü", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "hicra(t)", "meaning": "başka bir yere göç etme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hicret", "meaning": "yaşanan yeri değiştirerek göçme", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yaşanan yerden başka bir yere göçme.",
+    "currentMeaning": "Yaşadığı yeri bırakıp başka bir yere yerleşmek üzere gitme.",
+    "story": "Hicretin başlangıcında Arapça hacara ile anlatılan göçme eylemi vardır. Hicra(t), yaşanan yerden ayrılıp başka bir yere gitmeyi bir olayın adı hâline getirir. Türkçeye hicret biçiminde geçen kelime bu yer değiştirme anlamını korur.",
+    "firstAttestation": {"source": "Rabguzi — Kısasü'l-Enbiya terc.", "period": "1310", "form": "hicret"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hicret maddesi", "url": "https://www.nisanyansozluk.com/kelime/hicret"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hicret", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gurbet",
+    "word": "gurbet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġaraba", "meaning": "ayrılıp uzağa gitti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ġurba(t)", "meaning": "yabancı yerde ayrı kalma, sürgünlük", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gurbet", "meaning": "kişinin doğup yaşadığı yerin uzağındaki yer", "period": "13. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Doğup yaşanan yerden uzaktaki yer.",
+    "currentMeaning": "Kişinin doğduğu ve yaşamış olduğu yerden uzakta bulunan yer.",
+    "story": "Gurbet, Arapça ġaraba fiilindeki ayrılıp uzaklaşma hareketiyle başlar. Ġurba(t) bu hareketin ardından yabancı bir yerde kalmayı, yabancılığı ve sürgünlüğü anlatır. Türkçede kelime, bu uzaklık durumunun yanında kişinin doğup yaşadığı çevrenin dışındaki yeri de adlandırır.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb terc.", "period": "1300", "form": "ġurbet"},
+    "relatives": [{"word": "gurbetlik", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "gurbet maddesi", "url": "https://www.nisanyansozluk.com/kelime/gurbet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "gurbet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "uzlet",
+    "word": "uzlet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁazala", "meaning": "ayrı bir yere çekti, uzak tuttu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ˁuzla(t)", "meaning": "başkalarından ayrılıp uzak durma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "uzlet", "meaning": "toplumdan çekilerek yalnız yaşama", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Toplumdan çekilerek yalnız yaşama.",
+    "currentMeaning": "İnsanlarla ortak yaşamdan uzaklaşıp yaşamını tek başına sürdürme.",
+    "story": "Uzletin dayandığı Arapça ˁazala, bir şeyi ayırmayı ve uzaklaştırmayı anlatır. ˁUzla(t) biçiminde bu ayrılma, insanlardan uzak durma hâline yönelir. Türkçedeki uzlet de kısa bir mesafeden çok, toplum hayatından çekilip yalnız yaşamayı adlandırır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ˁuzlet"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "uzlet maddesi", "url": "https://www.nisanyansozluk.com/kelime/uzlet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "uzlet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09add-5574-7d90-94b6-7b26525ad3d1
+--------
+user
+# Köken — Üretim Prompt'u (v13)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. Bazı satırlarda ayrıca `ipucu anlam` bulunur; o da
+hangi sözcüğün kastedildiğini göstermek içindir, **kanıt değildir**: kaynakla
+çelişirse kaynağı esas al, `currentMeaning` ve `shortMeaning` alanlarını
+kaynaktan yaz, ipucu anlamı kopyalama. `rarity` ise kesin veridir: satırda ne
+yazıyorsa `rarity` alanına **aynen** onu yaz.
+
+1. muhrik — ipucu: ar — rarity: az-bilinen — ipucu anlam: yakıcı
+2. muzlim — ipucu: ar — rarity: az-bilinen — ipucu anlam: karanlık
+3. mülevven — ipucu: ar — rarity: az-bilinen — ipucu anlam: renkli
+4. muattar — ipucu: ar — rarity: az-bilinen — ipucu anlam: güzel kokulu
+5. latif — ipucu: ar — rarity: az-bilinen — ipucu anlam: hoş, ince
+6. rakik — ipucu: ar — rarity: az-bilinen — ipucu anlam: ince, hassas
+7. raksan — ipucu: ar — rarity: az-bilinen — ipucu anlam: oynayan, salınan
+8. seyyal — ipucu: ar — rarity: az-bilinen — ipucu anlam: akıcı
+9. rakit — ipucu: ar — rarity: az-bilinen — ipucu anlam: durgun, hareketsiz
+10. samit — ipucu: ar — rarity: az-bilinen — ipucu anlam: susan, sessiz
+11. sari — ipucu: ar — rarity: az-bilinen — ipucu anlam: yayılan, içine işleyen
+12. fani — ipucu: ar — rarity: az-bilinen — ipucu anlam: geçici, ölümlü
+13. baki — ipucu: ar — rarity: az-bilinen — ipucu anlam: kalıcı
+14. ezel — ipucu: ar — rarity: az-bilinen — ipucu anlam: başlangıcı olmayan geçmiş
+15. ebet — ipucu: ar — rarity: az-bilinen — ipucu anlam: sonu olmayan gelecek
+16. zeval — ipucu: ar — rarity: az-bilinen — ipucu anlam: sona erme, yok olma
+17. firak — ipucu: ar — rarity: az-bilinen — ipucu anlam: ayrılık
+18. hicret — ipucu: ar — rarity: az-bilinen — ipucu anlam: yurdundan ayrılıp göçme
+19. gurbet — ipucu: ar — rarity: az-bilinen — ipucu anlam: yurttan uzak kalma
+20. uzlet — ipucu: ar — rarity: az-bilinen — ipucu anlam: insanlardan uzak, yalnız yaşama
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve
+gerektiğinde Kubbealtı Lugatı kayıtlarının özeti verilmiştir. **Bu özetler
+esastır.** Kubbealtı bölümü varsa (ilk iki kaynakta madde yoksa gelir) köken
+satırındaki dil kısaltması (`Fars.`, `Ar.`) `donorLanguage` için esastır ve
+kaynak şöyle yazılır:
+`{"name": "Kubbealtı Lugatı", "ref": "<kelime> maddesi", "url": "<verilen bağlantı>"}`.
+
+### muhrik
+
+**Nişanyan — muhrik**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ḥaraḳa › yaktı  [türeme]
+- Arapça › muḥriḳ › yakıcı, yakan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > muhrıḳ: Comburens, incendens.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/muhrik
+
+**TDK** — köken kaydı: Arapça muḥriḳ · anlam: ► yakıcı (I)
+
+### muzlim
+
+**TDK** — köken kaydı: Arapça muẓlim · anlam: ► karanlık
+
+### mülevven
+
+**TDK** — köken kaydı: Arapça mulevven · anlam: ► renkli
+
+### muattar
+
+**Nişanyan — muattar**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ˁiṭr › ıtır  [türeme]
+- Arapça › muˁaṭṭar › ıtırlanmış, güzel kokulu  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1409, Süleyman Çelebi — Mevlid
+  > Oldı meşâm-ı ˁakl u dil ü cân muˁattar uş
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/muattar
+
+**TDK** — köken kaydı: Arapça muʿaṭṭar · anlam: ► ıtırlı
+
+### latif
+
+**Nişanyan — latif**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › laṭafa › cömertlik etti, lütfetti  [türeme]
+- Arapça › laṭīf › cömert, zarif, güzel  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > cümle ṣūret bağladı zişt ü laṭīf [güzel çirkin her şey şekil aldı]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/latif
+
+**TDK** — köken kaydı: Arapça laṭīf · anlam: Yumuşak, hoş, ince bir güzelliği olan
+
+### rakik
+
+**Nişanyan — rakik**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › raḳḳa › inceldi, acıdı  [türeme]
+- Arapça › raḳīḳ › ince, yufka, hassas  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1546, Latifî — Tezkîretü'ş-Şuarâ
+  > nüktedân-ı raḳîk-beyân
+- 1665, Evliya Çelebi — Seyahatname
+  > bir çemenzār yerde altı ˁaded raḳīḳ [ince] sütūn
+- 1680, Meninski — Thesaurus
+  > raḳīḳ: ince kâğıd, azad [azatlı köle]. Raḳīḳ-ul ḳalb: [yufka yürekli]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/rakik
+
+**TDK** — köken kaydı: Arapça raḳīḳ · anlam: İnce, narin
+
+### raksan
+
+**Kubbealtı Lugatı — RAKSAN**
+
+Köken satırı: Ar. raḳṣ “oynamak” ve Fars. -ān ekiyle raḳṣān
+
+İlk anlam: Rakseden, oynayan
+
+Bağlantı: https://lugatim.com/s/raksan
+
+**Kubbealtı Lugatı — RAKSAN**
+
+Köken satırı: Ar. raḳṣ “oynamak” ve Fars. -ān ekiyle raḳṣān
+
+İlk anlam: Mûsikîmizde on beş zamanlı, on vuruşlu, donanımdan sonra 15/8 şeklinde yazılıp gösterilen bir küçük usûl.
+
+Bağlantı: https://lugatim.com/s/raksan
+
+### seyyal
+
+**Nişanyan — seyyal**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › sāla › aktı  [türeme]
+- Arapça › sayyāl › çok akıcı, sıvı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > seyyāl: gayette akıcı.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/seyyal
+
+**TDK** — köken kaydı: Arapça seyyāl · anlam: Akan, akmakta olan
+
+### rakit
+
+**TDK** — köken kaydı: Arapça rākid · anlam: Durgun (su)
+
+### samit
+
+**Kubbealtı Lugatı — SÂMİT**
+
+Köken satırı: Ar. ṣamt “susmak”tan ṣāmit
+
+İlk anlam: Susan, konuşmayan
+
+Bağlantı: https://lugatim.com/s/samit
+
+### sari
+
+**Nişanyan — sari**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › sarā › aktı, yayıldı, bulaştı  [türeme]
+- Arapça › sārī › akıcı, bulaşıcı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1574, Hoca Sadeddin Ef. — Tacü't-Tevârih
+  > bahrü berrde hükmüm Nīl gibi sārī idı [denizde ve karada hükmüm Nil gibi akıcı idi]
+- 1574, Hoca Sadeddin Ef. — Tacü't-Tevârih
+  > semūm-i hücūm-i şuˀmleri mīzāc-i ˁāleme sārī olup [lanetli saldırılarının zehri alemin bünyesine bulaşıp]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sari
+
+**Nişanyan — sari2**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Modern Hintçe › sarī › elbise, örtü  [alıntı]
+- İngilizce › sari › Hint kadın giysisi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1961, Özön — Türkçe-Yabancı Kelimeler Sözlüğü
+  > sari: Hintli kadınların büründükleri elbise.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sari2
+
+**TDK** — köken kaydı: Hintçe · anlam: Hint kadınlarına özgü giysi
+
+### fani
+
+**Nişanyan — fani**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › fanā › yok oldu, söndü  [türeme]
+- Arapça › fānī › ölen, ölümlü  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > bilelüm ne imiş fānī فانی olan
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/fani
+
+**TDK** — köken kaydı: Fransızca phanie · anlam: İnsan gözünün algıladığı ışık şiddeti
+
+### baki
+
+**Nişanyan — baki**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › baḳiya/baḳā › kaldı  [türeme]
+- Arapça › bāḳī › kalan, kalıcı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > kim tene uyar-ısa toprağ ola / kim cāna uyar-ısa bāḳī kala
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/baki
+
+**TDK** — köken kaydı: Arapça bāḳī · anlam: ► ölümsüz
+
+### ezel
+
+**Nişanyan — ezel**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Aramice-Süryanice › azal › 1. geçmek, gitmek, 2. ölmek  [alıntı]
+- Arapça › azal › sonsuz geçmiş  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1069, Yusuf Hacib — Kutadgu Bilig
+  > miŋ s̠anā ol uġan teŋrike / azal ḥukmi tegrür köni egrike [bin sena olsun o kadir tanrıya, ezel hükmü eriştirir doğruya eğriye]
+
+Not: Arapça sözcüğün Ar azala "kıstı" fiiliyle anlam bağı kurulamaz; Arap filologlarının bu yöndeki teşebbüsleri inandırıcı değildir. Karş. Lane 1:54.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ezel
+
+**TDK** — köken kaydı: Arapça ezel · anlam: Başlangıcı belli olmayan zaman; öncesizlik
+
+### ebet
+
+**Nişanyan — ebet**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › abada › kaldı, kalıcı oldu  [türeme]
+- Arapça › abad › süre, özellikle çok uzun süre, kalıcılık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > raḥmet içinde ebed bāḳī kalan
+- 1680, Meninski — Thesaurus
+  > ebedīyet: Aeternitas.
+- 1920, Mehmet Akif Ersoy
+  > ebediyyen sana yok ırkıma yok izmihlal
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ebet
+
+**TDK** — köken kaydı: Arapça ebed · anlam: Sonu olmayan gelecek zaman; sonsuzluk
+
+### zeval
+
+**Nişanyan — zeval**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › zāla › uzaklaştı, düştü, eksildi  [türeme]
+- Arapça › zawāl › 1. uzaklaşma, düşme, 2. güneşin iniş evresi, öğleden sonra  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > Ol ḳadīmdür hīç zevāl yokdur aŋa
+- 1665, Evliya Çelebi — Seyahatname
+  > tâ vakt-i zevâle dek mehterḫane fasıllan oldu ve herkesin yüzleri güldü
+- 1680, Meninski — Thesaurus
+  > elçiye zevāl yok (...) zevāli şekk, zevāli devlet
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/zeval
+
+**TDK** — köken kaydı: Arapça zevāl · anlam: Yok olma, yok edilme
+
+### firak
+
+**Nişanyan — firak**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › faraḳa › ayırdı  [türeme]
+- Arapça › firāḳ › ayrılık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1069, Yusuf Hacib — Kutadgu Bilig
+  > negü bar ajunda firāḳta ḳatıġ [ne var cihanda ayrılıktan daha zor]
+- 1330, Aşık Paşa — Garib-name
+  > uçmakdan çıkup dartdı firāḳ [cennetten çıkıp ayrılık çekti]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/firak
+
+**TDK** — köken kaydı: Arapça firāḳ · anlam: ► ayrılık
+
+### hicret
+
+**Nişanyan — hicret**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › hacara › göçtü  [türeme]
+- Arapça › hicra(t) › göçme, göç  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1310, Rabguzi — Kısasü'l-Enbiya terc.
+  > Mekkedin hicret kılıp Medinege barmasdın éki yıl burun [önce]
+- 1317, Gülşehri — Mantıku't-Tayr
+  > yidi yüz on yidi yıl olmış-ıdı / hicrete kim bu gül açmış-ıdı
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/hicret
+
+**TDK** — köken kaydı: Arapça hicret · anlam: ► göç
+
+### gurbet
+
+**Nişanyan — gurbet**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ġaraba › ayrıldı, uzaklaştı  [türeme]
+- Arapça › ġurba(t) › 1. ayrı ve uzak olma, yabancı yerde olma, 2. yabancılık, sürgün  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1300, anon. — Mukaddimetü'l-Edeb terc.
+  > ġurbet tarttı [yabanlık çekti] = ġarīb boldı
+- 1330, Aşık Paşa — Garib-name
+  > ġurbet içre sayrulık [yaban yerde hastalık] şöyle olur / kamu bir kez ölse ol biŋ kez ölür
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/gurbet
+
+**TDK** — köken kaydı: Arapça ġurbet · anlam: Doğup yaşanılmış olan yerden uzak yer; gurbetlik
+
+### uzlet
+
+**Nişanyan — uzlet**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ˁazala › ayırdı, uzaklaştırdı  [türeme]
+- Arapça › ˁuzla(t) › uzaklaşma, (insanlardan) ayrılma  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > yoḫsullardan gizlenüp ˁuzlet gerek
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/uzlet
+
+**TDK** — köken kaydı: Arapça ʿuzlet · anlam: Toplum yaşayışından kaçıp tek başına yaşama
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives` **her zaman dizidir**. Akraba kelime yoksa `null` değil `[]`
+  yaz. `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "muhrik",
+    "word": "muhrik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥaraḳa", "meaning": "ateşle yaktı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muḥriḳ", "meaning": "yanmaya yol açan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "muhrik", "meaning": "yakma etkisi bulunan", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yakma etkisi bulunan.",
+    "currentMeaning": "Bir şeyi yakan veya yanmaya yol açan.",
+    "story": "Muhrikin geçmişinde ateşin bir şeyi yakması vardır: Arapça ḥaraḳa bu eylemi anlatır. Bu eylemden kurulan muḥriḳ, dikkati yanan şeyden onu yakana çevirir. Türkçeye geçen muhrik de yakma gücünü bir özellik olarak taşır.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "muhrıḳ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "muhrik maddesi", "url": "https://www.nisanyansozluk.com/kelime/muhrik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "muhrik", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muzlim",
+    "word": "muzlim",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "muẓlim", "meaning": "ışıktan yoksun, karanlık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "muzlim", "meaning": "ışıktan yoksun, karanlık", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Işıktan yoksun olan.",
+    "currentMeaning": "Aydınlık olmayan, karanlık.",
+    "story": "Muzlimin taşıdığı görüntü, ışığın çekildiği ve çevrenin seçilemediği bir yerdir. Arapçadaki muẓlim Türkçeye geçerken bu karanlık niteliğini korumuş, aydınlıktan yoksun olanı anlatmayı sürdürmüştür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "muzlim", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mülevven",
+    "word": "mülevven",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mulevven", "meaning": "renk taşıyan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mülevven", "meaning": "renk taşıyan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Rengi veya renkleri bulunan.",
+    "currentMeaning": "Renk taşıyan, renkli olan.",
+    "story": "Mülevven, bir yüzeyin ya da nesnenin gözle görülen rengine odaklanır. Arapça mulevven Türkçeye alınırken bu görsel özellik korunmuş, kelime renk taşıyan şeyleri nitelemeye devam etmiştir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mülevven", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "muattar",
+    "word": "muattar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁiṭr", "meaning": "güzel koku", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muˁaṭṭar", "meaning": "güzel koku sürülmüş, kokulandırılmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "muattar", "meaning": "güzel koku taşıyan", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Güzel koku taşıyan.",
+    "currentMeaning": "Itır kokusu taşıyan, hoş kokulu.",
+    "story": "Muattar, Arapça ˁiṭr ile adlandırılan güzel kokunun bir şeye sürülmesi ya da sindirilmesi düşüncesini taşır. Muˁaṭṭar biçiminde artık kokunun kendisi değil, onunla kokulandırılmış olan şey öne çıkar. Türkçede kelime bu sonucu, yani bir şeyin hoş kokmasını anlatır.",
+    "firstAttestation": {"source": "Süleyman Çelebi — Mevlid", "period": "1409", "form": "muˁattar"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "muattar maddesi", "url": "https://www.nisanyansozluk.com/kelime/muattar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "muattar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "latif",
+    "word": "latif",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "laṭafa", "meaning": "eli açık davrandı, iyilikte bulundu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "laṭīf", "meaning": "eli açık, incelikli ve güzel", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "latif", "meaning": "hoş ve ince bir güzellik taşıyan", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnce güzelliğiyle hoş gelen.",
+    "currentMeaning": "Yumuşaklığı ve zarif güzelliğiyle hoş bir etki bırakan.",
+    "story": "Latifin geçmişinde Arapça laṭafa ile anlatılan iyilik etme ve cömert davranma eylemi bulunur. Laṭīf biçiminde bu olumlu insan davranışına zarafet ve güzellik de eşlik eder. Türkçede kelimenin ağırlığı, bir şeyin yumuşak ve ince güzelliğiyle verdiği hoş duyguya yerleşmiştir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "laṭīf"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "latif maddesi", "url": "https://www.nisanyansozluk.com/kelime/latif"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "latif", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "rakik",
+    "word": "rakik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "raḳḳa", "meaning": "inceleşti, acıma duydu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "raḳīḳ", "meaning": "kalınlığı az, duyarlı ve narin", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rakik", "meaning": "ince yapılı ve narin", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnce yapılı, narin.",
+    "currentMeaning": "İncelik ve narinlik taşıyan.",
+    "story": "Rakikin dayandığı Arapça raḳḳa, hem incelmeyi hem de acıma duymayı anlatır. Böylece maddelerin inceliğiyle insanın duygusal hassasiyeti aynı kelime ailesinde buluşur. Raḳīḳ biçimi Türkçeye rakik olarak geçerken bu incelik niteliğini korumuştur.",
+    "firstAttestation": {"source": "Latifî — Tezkîretü'ş-Şuarâ", "period": "1546", "form": "raḳīk"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "rakik maddesi", "url": "https://www.nisanyansozluk.com/kelime/rakik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rakik", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "raksan",
+    "word": "raksan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "raḳṣ", "meaning": "dans etme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "raksan", "meaning": "dans eden, oynayan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dans eden, oynayan.",
+    "currentMeaning": "Raks ederek hareket eden, dans eden.",
+    "story": "Raksanın merkezinde Arapça raḳṣ ile anlatılan dans hareketi vardır. Bu tabana Farsça -ān eki eklenince hareketin adı, o hareketi yapanı niteleyen bir söze dönüşür. Türkçedeki raksan böylece dansın kendisini değil, dans edeni gösterir.",
+    "firstAttestation": null,
+    "relatives": [{"word": "raks", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "raksan maddesi", "url": "https://lugatim.com/s/raksan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "seyyal",
+    "word": "seyyal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sāla", "meaning": "akıp gitti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "sayyāl", "meaning": "kolayca ve bolca akan, sıvı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "seyyal", "meaning": "akış hâlinde olan", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Akış hâlinde olan.",
+    "currentMeaning": "Akan veya akışını sürdüren.",
+    "story": "Seyyalin başlangıcında Arapça sāla ile anlatılan akma eylemi bulunur. Sayyāl bu hareketi güçlü bir özellik olarak taşır ve sıvı olanı da adlandırır. Türkçeye seyyal biçiminde geçen kelimede, bir yerde durmayıp akışını sürdüren şeyin görüntüsü korunur.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "seyyāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "seyyal maddesi", "url": "https://www.nisanyansozluk.com/kelime/seyyal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "seyyal", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "rakit",
+    "word": "rakit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "rākid", "meaning": "akmayan, durgun", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rakit", "meaning": "akışı olmayan su", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Akışı olmayan, durgun suyu niteleyen.",
+    "currentMeaning": "Su için, akmadan duran.",
+    "story": "Rakit, akıp gitmeyen suyun durgunluğunu taşır. Arapça rākid Türkçeye rakit biçiminde geçmiş ve suyun bu hareketsiz durumunu nitelemek üzere kullanılmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rakit", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "samit",
+    "word": "samit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ṣamt", "meaning": "söz söylememe, susma", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ṣāmit", "meaning": "söz söylemeyen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "samit", "meaning": "konuşmadan duran", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Konuşmadan duran.",
+    "currentMeaning": "Söz söylemeyen, sessiz kalan.",
+    "story": "Samitin temelinde Arapça ṣamt ile anlatılan susma eylemi vardır. Ṣāmit biçimi, bu eylemi yapan kişiyi öne çıkarır: söz söylemeden duran biri. Türkçeye samit olarak taşınan kelime de konuşmama durumunu korur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "samit maddesi", "url": "https://lugatim.com/s/samit"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sari",
+    "word": "sari",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sarā", "meaning": "akıp ilerledi, yayılarak bulaştı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "sārī", "meaning": "akan, bulaşarak yayılan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sari", "meaning": "yayılan, bulaşan", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yayılan, bulaşan.",
+    "currentMeaning": "Akıp yayılan veya başka bir yere bulaşarak geçen.",
+    "story": "Sari, Arapça sarā fiilindeki akma, yayılma ve bulaşma hareketlerini bir arada taşır. Bu hareketlerin ortak yanı, bir şeyin bulunduğu sınırı aşarak başka yerlere ulaşmasıdır. Türkçedeki eski kullanımlarda da hem bir etkinin geniş bir alana yayılması hem de zehrin bünyeye geçmesi bu kelimeyle anlatılır.",
+    "firstAttestation": {"source": "Hoca Sadeddin Ef. — Tacü't-Tevârih", "period": "1574", "form": "sārī"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sari maddesi", "url": "https://www.nisanyansozluk.com/kelime/sari"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "fani",
+    "word": "fani",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "fanā", "meaning": "varlığı sona erdi, sönüp gitti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "fānī", "meaning": "ölüme bağlı, ömrü sona eren", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fani", "meaning": "ölümlü, varlığı kalıcı olmayan", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Ölümlü, varlığı kalıcı olmayan.",
+    "currentMeaning": "Bir gün ölecek veya varlığı sona erecek olan.",
+    "story": "Faninin geçmişinde Arapça fanā ile anlatılan sönme ve yok olup gitme vardır. Fānī, bu sona erişi canlıların ölümüyle buluşturur. Türkçede kelime, yaşamın ve varlığın sürüp gitmeyeceğini anlatan ölümlülük düşüncesini taşır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "fānī"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fani maddesi", "url": "https://www.nisanyansozluk.com/kelime/fani"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "baki",
+    "word": "baki",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "baḳiya/baḳā", "meaning": "kalmayı sürdürdü", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "bāḳī", "meaning": "varlığını sürdüren", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "baki", "meaning": "ölümü olmayan, sonsuza dek kalan", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Varlığı sonsuza dek süren.",
+    "currentMeaning": "Ölmeyen, varlığını sonsuza dek sürdüren.",
+    "story": "Baki, Arapçada kalmayı anlatan baḳiya/baḳā fiiline dayanır. Bāḳī biçimi, zaman geçse de geride kalanı ve varlığını sürdüreni öne çıkarır. Türkçede bu kalıcılık düşüncesi, ölümsüzlüğü anlatacak kadar genişler.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "bāḳī"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "baki maddesi", "url": "https://www.nisanyansozluk.com/kelime/baki"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "baki", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ezel",
+    "word": "ezel",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {"language": "arc", "form": "azal", "meaning": "geçip gitmek, yaşamı sona ermek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "azal", "meaning": "başlangıcı olmayan geçmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ezel", "meaning": "başlangıcı belirlenemeyen geçmiş zaman", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Başlangıcı belirlenemeyen geçmiş zaman.",
+    "currentMeaning": "Bir başlangıç noktası gösterilemeyen zaman, öncesi bulunmama durumu.",
+    "story": "Ezelin en eski halkasında, Aramice-Süryanice azal ile anlatılan geçip gitme ve ölme eylemleri bulunur. Arapça azal aşamasında kelime artık bir eylemi değil, geriye doğru sınırı olmayan geçmişi adlandırır. Türkçeye ezel olarak geçen bu zaman adı, geçmişin başlangıç noktasına ulaşılamaması düşüncesini korur.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "azal"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ezel maddesi", "url": "https://www.nisanyansozluk.com/kelime/ezel"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ezel", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ebet",
+    "word": "ebet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "abada", "meaning": "kaldı, varlığını sürdürdü", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "abad", "meaning": "uzun zaman boyunca sürme, kalıcılık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ebet", "meaning": "bitişi olmayan gelecek", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bitişi olmayan gelecek.",
+    "currentMeaning": "Geleceğe doğru hiçbir son sınırı bulunmayan zaman.",
+    "story": "Ebetin dayandığı Arapça abada, bir şeyin kalmasını ve varlığını sürdürmesini anlatır. Abad biçiminde bu devamlılık, özellikle çok uzun bir zaman dilimine dönüşür. Türkçedeki ebet, sürenin son sınırını da kaldırarak bitmeyecek geleceği adlandırır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ebed"},
+    "relatives": [{"word": "ebediyet", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ebet maddesi", "url": "https://www.nisanyansozluk.com/kelime/ebet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ebet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zeval",
+    "word": "zeval",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "zāla", "meaning": "bulunduğu yerden uzaklaştı, alçaldı, azaldı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "zawāl", "meaning": "uzaklaşıp düşme; güneşin alçaldığı öğleden sonraki evre", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "zeval", "meaning": "varlığın sona ermesi veya sona erdirilmesi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Varlığın sona ermesi veya sona erdirilmesi.",
+    "currentMeaning": "Bir şeyin ortadan kalkması ya da ortadan kaldırılması.",
+    "story": "Zevalin geçmişinde Arapça zāla ile anlatılan uzaklaşma, düşme ve eksilme hareketleri vardır. Zawāl, güneşin öğleden sonra alçalmaya başladığı evreyi de adlandırır. Türkçede kelimenin yok oluşu anlatması, bu gerileme ve ortadan çekilme anlam çizgisini sürdürür.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "zevāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "zeval maddesi", "url": "https://www.nisanyansozluk.com/kelime/zeval"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "zeval", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "firak",
+    "word": "firak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "faraḳa", "meaning": "birbirinden ayrı hâle getirdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "firāḳ", "meaning": "ayrı düşme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "firak", "meaning": "ayrı kalma durumu", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Ayrı düşme, ayrı kalma.",
+    "currentMeaning": "Birbirinden ayrılmış olma durumu.",
+    "story": "Firakın temelinde Arapça faraḳa ile anlatılan ayırma eylemi bulunur. Firāḳ, bu eylemden sonra ortaya çıkan ayrı kalma durumunu adlandırır. Türkçeye geçerken ayrılık anlamını korur; eski kullanımlarında bu ayrılığın insana verdiği güçlük de belirgindir.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "firāḳ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "firak maddesi", "url": "https://www.nisanyansozluk.com/kelime/firak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "firak", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hicret",
+    "word": "hicret",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "hacara", "meaning": "yaşadığı yerden başka yere göçtü", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "hicra(t)", "meaning": "başka bir yere göç etme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hicret", "meaning": "yaşanan yeri değiştirerek göçme", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yaşanan yerden başka bir yere göçme.",
+    "currentMeaning": "Yaşadığı yeri bırakıp başka bir yere yerleşmek üzere gitme.",
+    "story": "Hicretin başlangıcında Arapça hacara ile anlatılan göçme eylemi vardır. Hicra(t), yaşanan yerden ayrılıp başka bir yere gitmeyi bir olayın adı hâline getirir. Türkçeye hicret biçiminde geçen kelime bu yer değiştirme anlamını korur.",
+    "firstAttestation": {"source": "Rabguzi — Kısasü'l-Enbiya terc.", "period": "1310", "form": "hicret"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hicret maddesi", "url": "https://www.nisanyansozluk.com/kelime/hicret"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hicret", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gurbet",
+    "word": "gurbet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġaraba", "meaning": "ayrılıp uzağa gitti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ġurba(t)", "meaning": "yabancı yerde ayrı kalma, sürgünlük", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gurbet", "meaning": "kişinin doğup yaşadığı yerin uzağındaki yer", "period": "13. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Doğup yaşanan yerden uzaktaki yer.",
+    "currentMeaning": "Kişinin doğduğu ve yaşamış olduğu yerden uzakta bulunan yer.",
+    "story": "Gurbet, Arapça ġaraba fiilindeki ayrılıp uzaklaşma hareketiyle başlar. Ġurba(t) bu hareketin ardından yabancı bir yerde kalmayı, yabancılığı ve sürgünlüğü anlatır. Türkçede kelime, bu uzaklık durumunun yanında kişinin doğup yaşadığı çevrenin dışındaki yeri de adlandırır.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb terc.", "period": "1300", "form": "ġurbet"},
+    "relatives": [{"word": "gurbetlik", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "gurbet maddesi", "url": "https://www.nisanyansozluk.com/kelime/gurbet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "gurbet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "uzlet",
+    "word": "uzlet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁazala", "meaning": "ayrı bir yere çekti, uzak tuttu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ˁuzla(t)", "meaning": "başkalarından ayrılıp uzak durma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "uzlet", "meaning": "toplumdan çekilerek yalnız yaşama", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Toplumdan çekilerek yalnız yaşama.",
+    "currentMeaning": "İnsanlarla ortak yaşamdan uzaklaşıp yaşamını tek başına sürdürme.",
+    "story": "Uzletin dayandığı Arapça ˁazala, bir şeyi ayırmayı ve uzaklaştırmayı anlatır. ˁUzla(t) biçiminde bu ayrılma, insanlardan uzak durma hâline yönelir. Türkçedeki uzlet de kısa bir mesafeden çok, toplum hayatından çekilip yalnız yaşamayı adlandırır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ˁuzlet"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "uzlet maddesi", "url": "https://www.nisanyansozluk.com/kelime/uzlet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "uzlet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+20,351

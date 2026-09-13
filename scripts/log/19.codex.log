@@ -1,0 +1,1720 @@
+[
+  {
+    "id": "siluet",
+    "word": "siluet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "silhouette", "meaning": "yalnız dış çizgileri seçilen görüntü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "siluet", "meaning": "ayrıntıları seçilemeyen dış görünüş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir varlığın ayrıntıları seçilmeyen dış görünüşü.",
+    "currentMeaning": "Bir insanın veya nesnenin iç ayrıntıları görünmeden, dış sınırlarıyla seçilen görüntüsü.",
+    "story": "Fransızca silhouette, bir görüntünün ayrıntılarını silip geriye dış çizgilerini bırakır. Türkçede de sözcük, uzaktaki bir insanı ya da ışığın önünde kararan bir yapıyı yalnız biçiminden tanıdığımız görüntüyü anlatır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "silüet maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sofistike",
+    "word": "sofistike",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "en",
+    "chain": [
+      {"language": "en", "form": "sophist", "meaning": "söz oyunlarıyla tartışan kişi", "period": null, "reconstructed": false},
+      {"language": "en", "form": "sophisticate", "meaning": "söz oyunlarına başvurmak", "period": null, "reconstructed": false},
+      {"language": "en", "form": "sophisticated", "meaning": "yapay veya incelmiş, kaba olmaktan uzak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sofistike", "meaning": "yapmacıklı veya incelikle geliştirilmiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yapmacıklı veya incelikle geliştirilmiş olan.",
+    "currentMeaning": "Yapmacık bir incelik taşıyan; ayrıca gelişmiş, karmaşık veya işlenmiş nitelikte olan.",
+    "story": "İngilizcedeki sophist, tartışmayı söz oyunlarıyla yürüten kişiydi; sophisticate bu davranışı bir eyleme dönüştürdü. Sophisticated ise yapaylık çağrışımının yanına kabalıktan uzaklaşmış, incelmiş olmayı ekledi. Türkçedeki kullanımda da gösterişli bir yapmacıklık ile gelişmiş bir incelik yan yana durur. İngilizce üzerinden açıklanan anlam yoluna Fransızca söyleyiş eşlik eder.",
+    "firstAttestation": {"source": "Milliyet", "period": "1964", "form": "sofistike"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük anlam aktarımını İngilizce sophisticated ile açıklar ve Fransızca söyleyişin benimsendiğini belirtir; TDK Güncel Türkçe Sözlük doğrudan kaynak olarak Fransızca sophistiqué biçimini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sofistike maddesi", "url": "https://www.nisanyansozluk.com/kelime/sofistike"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sofistike maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sürrealizm",
+    "word": "sürrealizm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "fr", "form": "réél", "meaning": "gerçek olan", "period": null, "reconstructed": false},
+      {"language": "la", "form": "super", "meaning": "üstte, üzerinde", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "sur", "meaning": "üstte, üzerinde; fazladan", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "surréél", "meaning": "gerçeğin ötesindeki", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "surréalisme", "meaning": "gerçeküstünü temel alan sanat anlayışı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sürrealizm", "meaning": "gerçeküstünü temel alan sanat anlayışı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Düşleri ve bilinçdışını öne çıkaran sanat akımı.",
+    "currentMeaning": "Alışılmış gerçeklik ilişkilerini aşarak düşleri ve bilinçdışını sanatsal anlatımın merkezine yerleştiren akım.",
+    "story": "Fransızcada gerçek olanı anlatan réél, üstte bulunmayı bildiren sur ile birleşince gündelik gerçeğin ötesine uzandı. Bu sur parçasının gerisinde Latince super bulunur. Surréalisme, gerçeküstüne açılan bu alanı bir sanat anlayışının adına dönüştürdü. Türkçeye sürrealizm olarak taşınan ad, düşlerde yan yana gelebilen beklenmedik görüntüleri resme ve yazıya taşıyan akımı karşılar.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1930", "form": "sürrealizm"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sürrealizm maddesi", "url": "https://www.nisanyansozluk.com/kelime/s%C3%BCrrealizm"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sürrealizm maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "transandantal",
+    "word": "transandantal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "transcendantal", "meaning": "deneyüstü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "transandantal", "meaning": "deneyüstü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Deneyüstü nitelikte olan.",
+    "currentMeaning": "Deneyüstü niteliği taşıyan şeyleri niteleyen felsefe terimi.",
+    "story": "Fransızca transcendantal, düşünceyi yalnız duyularla edinilen deneyimle sınırlamayan felsefi bir kavramı taşır. Türkçeye transandantal biçimiyle aktarılırken bu soyut kullanımını korumuş ve deneyüstü karşılığıyla yan yana yerleşmiştir.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "transandantal maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ütopik",
+    "word": "ütopik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "utopique", "meaning": "hayalde tasarlanan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ütopik", "meaning": "hayalde tasarlanan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hayalde tasarlanan, gerçekleşmesi güç görünen.",
+    "currentMeaning": "Gerçek koşullardan uzak, hayalde kurulmuş tasarıları veya düşünceleri niteleyen.",
+    "story": "Fransızca utopique, yaşanan dünyanın koşullarından çok hayalde kurulmuş bir düzeni öne çıkarır. Türkçeye ütopik olarak geçen sıfat da bir tasarının çekiciliği ile onu hayata geçirmenin güçlüğü arasındaki mesafeyi anlatır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "ütopya", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ütopik maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "virtüöz",
+    "word": "virtüöz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "virtus", "meaning": "erkeklik, erdem, yetkinlik", "period": null, "reconstructed": false},
+      {"language": "it", "form": "virtù", "meaning": "erkeklik, erdem, nitelik ve beceri", "period": null, "reconstructed": false},
+      {"language": "it", "form": "virtuoso", "meaning": "erkeklik, erdem, nitelik ve beceri", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "virtuose", "meaning": "özellikle müzikte olağanüstü yetenekli kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "virtüöz", "meaning": "çalgısını olağanüstü ustalıkla çalan sanatçı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir çalgıyı olağanüstü ustalıkla çalan sanatçı.",
+    "currentMeaning": "Bir müzik çalgısını üstün teknik beceri ve sanat gücüyle çalabilen kişi.",
+    "story": "Latince virtus, erkeklik ve erdemle birlikte kişinin yetkinliğini de kapsıyordu. İtalyancada virtù ve ondan türeyen virtuoso, bu nitelikler çevresinde gelişti. Fransızca virtuose ile vurgu, özellikle müzikte sergilenen üstün beceriye yerleşti. Türkçedeki virtüöz de bu uzun yolun sonunda çalgısına olağanüstü hâkim olan sanatçıyı adlandırır.",
+    "firstAttestation": {"source": "Mehmed Bahaeddin [Toven] — Yeni Türkçe Lugat", "period": "1924", "form": "virtüoz"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "virtüöz maddesi", "url": "https://www.nisanyansozluk.com/kelime/virt%C3%BC%C3%B6z"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "virtüöz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ağıl",
+    "word": "ağıl",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "aġıl", "meaning": "hayvanların tutulduğu çevrili yer", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ağıl", "meaning": "koyun ve keçilerin barındırıldığı çevrili yer", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Koyun ve keçilerin barındırıldığı çevrili yer.",
+    "currentMeaning": "Küçükbaş hayvanları bir arada tutmak ve barındırmak için çevresi sınırlandırılmış alan.",
+    "story": "Eski Türkçe aġıl, sürüyü açık araziden ayıran çevrili bir barınaktı. Çitlerin içindeki hayvanları bir arada tutma işlevi, sözcüğün bugüne uzanan somut çekirdeğini oluşturdu. Türkçede ağıl denince özellikle koyun ve keçiler için ayrılmış bu alan anlaşılır.",
+    "firstAttestation": {"source": "Irk Bitig", "period": "900 öncesi", "form": "ağılıŋta"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "Oğuzların bir kullanımında ağıl, barınağın kendisini değil koyunların dışkısını adlandırıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ağıl maddesi", "url": "https://www.nisanyansozluk.com/kelime/a%C4%9F%C4%B1l"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ağıl maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ağu",
+    "word": "ağu",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "aġu", "meaning": "zehir", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ağu", "meaning": "zehir", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Zehir.",
+    "currentMeaning": "Canlıya zarar veren veya ölümüne yol açabilen madde; zehir.",
+    "story": "Eski Türkçedeki aġu, canlıya zarar veren zehirli maddeyi adlandırıyordu. Türkçede ağu biçimiyle yaşamayı sürdüren sözcükte sesler değişse de zehirle kurulan bağ korunmuştur.",
+    "firstAttestation": null,
+    "relatives": [{"word": "ağı", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "ağu maddesi", "url": "https://lugatim.com/s/a%C4%9Fu"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "alaz",
+    "word": "alaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "tr", "form": "alaz", "meaning": "ateşten yükselen alev", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Ateşten yükselen alev.",
+    "currentMeaning": "Yanan maddelerden yükselen ışıklı ve sıcak dil; alev.",
+    "story": "Alaz, ateşin yükselen ışıklı dilini adlandırır; yalaz ve yalabız biçimleriyle aynı kökeni paylaşır. Ateş görüntüsü şiirde başka nesnelere de taşınmış, dağların karı bile alazla anlatılmıştır. Böylece sözcük, gerçek alevin yanında alevi andıran görünüşü de taşıyabilmiştir.",
+    "firstAttestation": {"source": "Karacaoğlan", "period": "1700 öncesi", "form": "alaz"},
+    "relatives": [
+      {"word": "yalaz", "relation": "eş köken"},
+      {"word": "yalabız", "relation": "eş köken"},
+      {"word": "alazlamak", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "alaz maddesi", "url": "https://www.nisanyansozluk.com/kelime/alaz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "alaz maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "alkım",
+    "word": "alkım",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "tr", "form": "alkım", "meaning": "gökte beliren renkli ışık yayı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gökkuşağı.",
+    "currentMeaning": "Güneş ışığının su damlalarında oluşturduğu, gökyüzünde renkli bir yay biçiminde görülen olay.",
+    "story": "Alkım, yağmurla güneşin buluştuğu gökte beliren renkli yayı adlandırır. Bugünkü kullanımında da gökkuşağıyla aynı görüntüyü taşır; farklı bir nesneyi değil, aynı doğa olayını başka bir adla görünür kılar.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "alkım maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "arı",
+    "word": "arı",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "otk",
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "arı-", "meaning": "temizlemek", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "arıġ", "meaning": "kirden arınmış, saf", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "arı", "meaning": "yabancı unsurlardan arınmış, saf", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yabancı unsurlardan arınmış, saf.",
+    "currentMeaning": "İçine başka unsurlar karışmamış veya bunlardan temizlenmiş olan.",
+    "story": "Eski Türkçedeki arı- eylemi temizlemeyi anlatıyor, ondan türeyen arıġ ise temizlenmiş şeyin niteliğini belirtiyordu. Sözcük sonundaki ġ sesi kaybolunca bugünkü arı biçimi ortaya çıktı. Temizlik düşüncesi böylece yalnız kirden kurtulmayı değil, bir şeyin yabancı unsurlardan uzak kalmasını da anlatmayı sürdürdü.",
+    "firstAttestation": {"source": "Türkische Turfantexte 1-9", "period": "900 öncesi", "form": "arığ"},
+    "relatives": [
+      {"word": "arınmak", "relation": "akraba"},
+      {"word": "arıtmak", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": "Bal yapan arının adı, saf ve temiz olanı anlatan arıyla aynı kökten değildir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "arı2 maddesi", "url": "https://www.nisanyansozluk.com/kelime/ar%C4%B12"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "arı, saflık bildiren sıfat maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ark",
+    "word": "ark",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": "otk",
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "yar-/yır-", "meaning": "yararak suya geçit açmak", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "arık", "meaning": "su yatağı veya kazılmış hendek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ark", "meaning": "suyu iletmek için açılan oluk", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Suyu taşımak için toprakta açılan oluk.",
+    "currentMeaning": "Suyu bir yere ulaştırmak amacıyla zeminde kazılarak oluşturulan açık kanal.",
+    "story": "Arkın gerisinde toprağı yarmak ve suya yol açmak vardır. Eski Türkçedeki yar-/yır- eylemine bağlanan arık, hem kazılmış hendeği hem suyun aktığı yatağı anlatıyordu. Biçim ark diye kısalırken kullanım da tarlaya veya bostana su götüren açık kanalda yoğunlaştı.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "arıḳ"},
+    "relatives": [{"word": "arık", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": "Elektrikte kullanılan ark adı, su kanalından bağımsız olarak Fransızcadaki yay ve kavis adından alınmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ark ve ark2 maddeleri", "url": "https://www.nisanyansozluk.com/kelime/ark"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ark, su kanalı maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ayaz",
+    "word": "ayaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": "otk",
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "aya-", "meaning": "aydınlık, duru veya ay ışıklı olmak", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "ayās", "meaning": "duru ve ışıklı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ayaz", "meaning": "açık havada hissedilen kuru soğuk", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Açık ve dingin havada hissedilen kuru soğuk.",
+    "currentMeaning": "Gökyüzünün açık, havanın sakin olduğu zamanlarda duyulan keskin ve kuru soğuk.",
+    "story": "Ayazın eski anlamında soğuktan önce açıklık ve ışık vardı. Eski Türkçe aya- aydınlık veya ay ışıklı olmayı, ayās ise göğün duruluğunu anlatıyordu. Sözcük bir dönem yıldızlı gecenin açıklığını ve ay ışığını da taşıdı. Bugünkü kullanımda o açık gecenin görünüşü geri çekilmiş, insanın teninde bıraktığı kuru soğuk öne çıkmıştır.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "ayās"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ayaz maddesi", "url": "https://www.nisanyansozluk.com/kelime/ayaz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ayaz maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "aylak",
+    "word": "aylak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "aylan-", "meaning": "dönerek dolaşmak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "aylak", "meaning": "bir işle uğraşmadan duran", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir işle uğraşmadan boş duran.",
+    "currentMeaning": "Yapacak işi bulunmayan veya zamanını herhangi bir işle uğraşmadan geçiren kişi için kullanılan sıfat.",
+    "story": "Aylak, Orta Türkçedeki aylan- eyleminin dönme ve dolanma hareketine bağlanır. Bu hareketin çevresinde gelişen sözcük, bir işle meşgul olmayan kişiyi anlatmaya yerleşmiştir. Bugün aylaklık denince hareketin kendisinden çok zamanı dolduran bir uğraşın yokluğu öne çıkar.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "aylaḳ"},
+    "relatives": [{"word": "aylaklık", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "aylak maddesi", "url": "https://www.nisanyansozluk.com/kelime/aylak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "aylak maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ayrıksı",
+    "word": "ayrıksı",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "ayrık", "meaning": "diğerlerinden ayrı duran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ayrıksı", "meaning": "alışılanın dışında özellikler taşıyan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Alışılmış davranış ve özelliklerin dışında kalan.",
+    "currentMeaning": "Yerleşmiş davranışlardan, alışkanlıklardan veya beklentilerden farklılık gösteren.",
+    "story": "Ayrıksının tabanındaki ayrık, diğerlerinden ayrı durmayı anlatır. Bu ayrılık düşüncesi ayrıksıda davranışa ve görünüme taşınır; kişi alışılan çizginin dışında kalır. Eski metinlerde yaşayan sözcük, Dil Devrimi döneminde yeniden yazı diline alınarak bugünkü kullanımına kavuşmuştur.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ayruksıdır"},
+    "relatives": [
+      {"word": "ayrık", "relation": "akraba"},
+      {"word": "ayrıksılık", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ayrıksı maddesi", "url": "https://www.nisanyansozluk.com/kelime/ayr%C4%B1ks%C4%B1"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ayrıksı maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bayındır",
+    "word": "bayındır",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "otk",
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "bay", "meaning": "varlıklı", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "bayu-", "meaning": "varlığı ve refahı artmak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bayındır", "meaning": "imar edilerek yaşama elverişli kılınmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İmar edilip bakımlı ve yaşanabilir duruma getirilmiş.",
+    "currentMeaning": "Yapıları, olanakları ve bakımı geliştirilerek yaşam koşulları iyileştirilmiş yer.",
+    "story": "Eski Türkçedeki bay varlıklı kişiyi, bayu- ise varlığın ve refahın artmasını anlatıyordu. Bayındır bu refah düşüncesini bir yerin durumuna taşır. Bugün sözcük, insanların emeğiyle yapıları ve yaşam olanakları gelişmiş bir yerleşimi göz önüne getirir.",
+    "firstAttestation": {"source": "Osmanlıcadan Türkçeye Cep Kılavuzu", "period": "1935", "form": "bayındır"},
+    "relatives": [
+      {"word": "bayındırlık", "relation": "türev"},
+      {"word": "Bayundır", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bayındır maddesi", "url": "https://www.nisanyansozluk.com/kelime/bay%C4%B1nd%C4%B1r"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bayındır maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "belgi",
+    "word": "belgi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "tr", "form": "belgi", "meaning": "ayırt etmeyi sağlayan nitelik", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyi tanımayı sağlayan ayırt edici nitelik.",
+    "currentMeaning": "Bir varlığın benzerleri arasında seçilmesini ve tanınmasını sağlayan özellik.",
+    "story": "Belgi, benzer şeylerin arasından birini seçtiren özelliğe verilen addır. Bir nesneyi tanırken dikkat edilen bu özellik, sözcüğün bugünkü kullanımında ayırt etmenin dayanağı olarak öne çıkar.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "belgi maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "beniz",
+    "word": "beniz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "trk",
+    "chain": [
+      {"language": "trk", "form": "beŋiŕ", "meaning": "yüz", "period": null, "reconstructed": true},
+      {"language": "otk", "form": "meŋiz", "meaning": "yüzün görünüşü ve rengi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "beniz", "meaning": "yüz, özellikle yüzün rengi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüz, özellikle yüzün rengi ve görünüşü.",
+    "currentMeaning": "İnsanın yüzü; özellikle yüzün renk ve görünüş bakımından durumu.",
+    "story": "Ana Türkçe için yeniden kurulan beŋiŕ biçimi yüzü adlandırır. Eski Türkçedeki meŋiz de kişinin çehresini, görünüşünü ve yüz rengini taşıyordu. Türkçede beniz, yüzün özellikle solgunluk veya kızarıklık gibi gözle görülen durumlarını anlatmayı sürdürür.",
+    "firstAttestation": {"source": "Türkische Manichäica aus Chotscho 1-3", "period": "900 öncesi", "form": "meŋzin"},
+    "relatives": [{"word": "benizli", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "beniz maddesi", "url": "https://www.nisanyansozluk.com/kelime/beniz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "beniz maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bet",
+    "word": "bet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "bét", "meaning": "insanın yüzü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bet", "meaning": "insanın yüzü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüz, çehre.",
+    "currentMeaning": "İnsanın yüzü; bugün çoğunlukla bet beniz ikilemesinde kullanılan ad.",
+    "story": "Eski Türkçedeki bét, insanın yüzünü doğrudan adlandırıyordu. Zamanla tek başına kullanımı seyrekleşti, fakat benizle yan yana gelerek dilde tutundu. Bugün bet beniz ifadesi, aynı yüzü anlatan iki eski adı bir arada yaşatır.",
+    "firstAttestation": {"source": "Türkische Turfantexte 1-9", "period": "1000 öncesi", "form": "béti"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "Bet ses ifadesindeki kötü nitelemesi Farsçadan alınmıştır ve yüzü anlatan betten ayrı bir kelimedir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bet2 ve bet maddeleri", "url": "https://www.nisanyansozluk.com/kelime/bet2"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bet, yüz anlamındaki madde", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bengi",
+    "word": "bengi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "beŋgü/meŋgü", "meaning": "son bulmayan, ölüme yenilmeyen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bengi", "meaning": "sonsuza dek süren", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sonsuza dek süren.",
+    "currentMeaning": "Bir sonu bulunmayan, varlığını veya geçerliliğini sonsuza kadar sürdüren.",
+    "story": "Eski Türkçe beŋgü ve meŋgü, ölüme ve sona bağlı olmayan sürekliliği anlatıyordu. Taşın üzerine kalıcı bir söz bırakma düşüncesinde bu sonsuzluk isteği somut bir karşılık buldu. Türkçede bengi, aynı süreklilik düşüncesini koruyarak sonu olmayanı nitelemeyi sürdürür.",
+    "firstAttestation": {"source": "Orhun Yazıtları", "period": "735", "form": "bengü"},
+    "relatives": [{"word": "bengilik", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bengi maddesi", "url": "https://www.nisanyansozluk.com/kelime/bengi"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bengi, sonsuzluk bildiren madde", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a5d-a18c-7ce2-be9c-a59b9d31fcb5
+--------
+user
+# Köken — Üretim Prompt'u (v10)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. siluet — ipucu: fr — rarity: az-bilinen
+2. sofistike — ipucu: fr — rarity: az-bilinen
+3. sürrealizm — ipucu: fr — rarity: az-bilinen
+4. transandantal — ipucu: fr — rarity: az-bilinen
+5. ütopik — ipucu: fr — rarity: az-bilinen
+6. virtüöz — ipucu: fr — rarity: az-bilinen
+7. ağıl — ipucu: otk — rarity: az-bilinen
+8. ağu — ipucu: otk — rarity: az-bilinen
+9. alaz — ipucu: otk — rarity: az-bilinen
+10. alkım — ipucu: otk — rarity: az-bilinen
+11. arı — ipucu: otk — rarity: az-bilinen
+12. ark — ipucu: otk — rarity: az-bilinen
+13. ayaz — ipucu: otk — rarity: az-bilinen
+14. aylak — ipucu: otk — rarity: az-bilinen
+15. ayrıksı — ipucu: tr-new — rarity: az-bilinen
+16. bayındır — ipucu: otk — rarity: az-bilinen
+17. belgi — ipucu: otk — rarity: az-bilinen
+18. beniz — ipucu: otk — rarity: az-bilinen
+19. bet — ipucu: otk — rarity: az-bilinen
+20. bengi — ipucu: otk — rarity: az-bilinen
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### siluet
+
+Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: bildiğini yaz, bilmediğine `null` koy, uydurma.
+
+### sofistike
+
+**Nişanyan — sofistike**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- İngilizce › sophist › laf ebesi  [türeme]
+- İngilizce › sophisticate › laf ebeliği yapmak  [türeme]
+- İngilizce › sophisticated › 1. laf ebeliğine dayalı, sahte, 2. basit veya kaba olmayan, rafine  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1964, Milliyet - gazete
+  > romantik, sofistike, rüya gibi, işlemeli, zarif ve şâhâne elbiseler
+
+Not: Karş. Fr sophistiqué "tağşiş edilmiş, sahte". Türkçede İngilizce anlam ve Fransızca telaffuz benimsenmiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sofistike
+
+**TDK** — köken kaydı: Fransızca sophistiqué · anlam: ► yapmacık
+
+### sürrealizm
+
+**Nişanyan — sürrealizm**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Fransızca › réél › gerçek  [bileşik sözcüğün devamı]
+- Latince › super › a.a.  [ses evrimi]
+- Fransızca › sur › üst, üzeri, fazla  [bileşik sözcük]
+- Fransızca › surréél › gerçeküstü  [türeme]
+- Fransızca › surréalisme › gerçeküstücülük  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1930, Cumhuriyet - gazete
+  > Parisliler bugün 'sürrealizm' sistemindeki yazılardan başkasını okumamak istidadını gösteriyor
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/s%C3%BCrrealizm
+
+**TDK** — köken kaydı: Fransızca surréalisme · anlam: ► gerçeküstücülük
+
+### transandantal
+
+**TDK** — köken kaydı: Fransızca transcendantal · anlam: ► deneyüstü
+
+### ütopik
+
+**TDK** — köken kaydı: Fransızca utopique · anlam: ► hayalî
+
+### virtüöz
+
+**Nişanyan — virtüöz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › virtus  [ses evrimi]
+- İtalyanca › virtù › 1. erkeklik, 2. erdem, özellik, nitelik, yetenek  [türeme]
+- İtalyanca › virtuoso › a.a.  [alıntı]
+- Fransızca › virtuose › üstün beceri sahibi (özellikle müzikte)  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1924, Mehmed Bahaeddin [Toven] — Yeni Türkçe Lugat
+  > virtüoz: Musıkiye büyük bir istidad ve kabiliyeti olan.
+
+Not: Doğru yazım virtüoz olmalıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/virt%C3%BC%C3%B6z
+
+**TDK** — köken kaydı: Fransızca virtuose · anlam: Herhangi bir müzik aracını büyük ustalıkla çalabilen sanatçı
+
+### ağıl
+
+**Nişanyan — ağıl**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › aġıl › hayvan barınağı, çitle çevrili alan  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- <900, Irk Bitig
+  > ağılıŋta yılkıŋ bolzun [ağılında davarın olsun], özüŋ uzun bolzun
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > aġıl [[koyun barınağı. Oğuzlar arasında bu sözcük "koyun pisliği" anlamına gelir.]]
+
+Not: Türkçe veya Yunanca kaynaklı avlu/aul ile esasen eş anlamlıdır. Neolitik döneme ait bir Wanderwort olma ihtimali üzerinde durulabilir. • Anadolu ağızlarında görülen ay ağılı "hale, aura" ayrı kelime olup Tr ak sözcüğünden türer.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/a%C4%9F%C4%B1l
+
+**TDK** — anlam: Evcil küçükbaş hayvanların barındığı çit veya duvarla çevrili yer; arkaç
+
+### ağu
+
+Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: bildiğini yaz, bilmediğine `null` koy, uydurma.
+
+### alaz
+
+**Nişanyan — alaz**
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Türkiye Türkçesi › yalabız/yalaz › alev, parıltı  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- <1700, Karacaoğlan
+  > alaz alaz [alev alev] olmuş dağların karı
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > humre: Yılancık denilen illet. İşte bu illete alazlama da derler.
+
+Not: Anadolu ağızlarında yalaz, yalım, yalın, yalağı, yalağız, yalavı biçimleri yaygındır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/alaz
+
+**TDK** — anlam: ► alev (I)
+
+### alkım
+
+**TDK** — anlam: ► gökkuşağı
+
+### arı
+
+**Nişanyan — arı**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › arı › bal sineği  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > arı: az-zanbūr
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > eşek arısı
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ar%C4%B1
+
+**Nişanyan — arı2**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › arı- › temizlemek  [türeme]
+- Eski Türkçe › arıġ › temiz, pak  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- <900, Türkische Turfantexte 1-9
+  > arığ yollarda yorıp [temiz yollarda yürüyüp]
+- 1367, Fahrî — Hüsrev ü Şirin terc.
+  > yaramazdan dilümi dutġıl arı
+- 1521, Piri Reis — Kitab-ı Bahriye
+  > gerçi-kim dar boğazdur ammâ iki tarafı arıdur.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ar%C4%B12
+
+**TDK** — anlam: Yabancı şeylerden arınmış
+
+### ark
+
+**Nişanyan — ark**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › yar-/yır- › yarmak, kanal açmak  [türeme]
+- Eski Türkçe › arık › hendek, ırmak  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > arıḳ [[ırmak, hendek, nehir]] (...) suw arıḳlandı [[su yerde yar ve hendek açtı]]
+- 1358, anon. — Nehcü'l-Feradis
+  > Bu uçtmaḥ [cennet] içinde tört arıq bar: biri suwdın, taqı biri sütdin, taqı biri ḥamrdın, taqı biri ˁaseldin.
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > ark: Hark, cedvel, tarla ve bostana su getirmek için açdıkları künde, yol.
+
+Not: Modern kullanımda ark "su kanalı", arık ise "sebze fidanı dikmek için açılan kanal" anlamındadır. TTr yazı dilinde sadece ilki mevcut iken, ikincisi 20. yy'da halk ağızlarından derlenmiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ark
+
+**Nişanyan — ark2**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *arku-s < *h₂erkʷo- › (ok ve) yay  [ses evrimi]
+- Latince › arcus › a.a.  [ses evrimi]
+- Fransızca › arc › kemer, yay, kavis  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1929, Hakimiyet-i Milliye - gazete
+  > gündüz kadar aydınlığı temin için 24 büyük ark lambası kullanılmaktadır
+- 1961, Özön — Türkçe-Yabancı Kelimeler Sözlüğü
+  > ark: Yay.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ark2
+
+**TDK** — anlam: İçinden su akıtmak için toprak kazılarak yapılan açık oluk; arık (I), dren, karık (II)
+
+### ayaz
+
+**Nişanyan — ayaz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › aya- › 1. berrak ve aydınlık olmak, 2. aylı olmak  [türeme]
+- Eski Türkçe › ayās › berrak, aydınlık  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > ayās kȫk [[berrak gök. Kölelere, yüzlerinin parlaklığı buna benzetilerek ayās denir.]]
+- 1303, Codex Cumanicus
+  > serenum [berrak ve dingin hava] - Tr: ayaz ... ayas
+- 1680, Meninski — Thesaurus
+  > ayaz: Lux lunae [ay ışığı], noctis serenitas & nox serena, nox sideribus illustris [berrak ve yıldızlı gece].
+
+Not: "Kuru soğuk" anlamı derivatiftir. Karş. Tkm aýaz "kuru soğuk."
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ayaz
+
+**TDK** — anlam: Duru, sakin havada çıkan kuru soğuk
+
+### aylak
+
+**Nişanyan — aylak**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Türkçe › aylan- › dönmek, dolanmak  [türeme]
+
+Tanıklıklar (eskiden yeniye):
+- 1300, anon. — Mukaddimetü'l-Edeb terc.
+  > boşlağ ḳıldı anı = aylaḳ [işsiz, atıl] ḳodı anı
+- 1300, anon. — Mukaddimetü'l-Edeb terc.
+  > aylanu uçdı kuş [dolanarak uçtu]
+- 1317, Gülşehri — Mantıku't-Tayr
+  > çün biz aylak satarız ol gevheri / hīçe alan gey ola ḫod müşteri
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/aylak
+
+**TDK** — anlam: Yapacak bir işi olmayan, boş duran (kimse)
+
+### ayrıksı
+
+**Nişanyan — ayrıksı**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Türkiye Türkçesi › ayrık  [türeme]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > ḥāl daḫı ayruksıdır ṣurat daḳı
+- 1935, Osmanlıcadan Türkçeye Cep Kılavuzu
+  > ayrıksın = Tuhaf, acayib = Excentrique
+
+Not: Erken TTr metinlerde keşfedilen sözcük Dil Devrimi döneminde yazı diline ithal edilmiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ayr%C4%B1ks%C4%B1
+
+**TDK** — anlam: Alışılagelmiş töre ve davranışlara aykırı olan; eksantrik
+
+### bayındır
+
+**Nişanyan — bayındır**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › bay › zengin  [türeme]
+- Eski Türkçe › bayu- › zenginleşmek, müreffeh olmak  [türeme]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- özel isim › Bayundır › eski bir Türk adı  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1935, Osmanlıcadan Türkçeye Cep Kılavuzu
+  > bayındır = Âbâd, âbâdan, mamur
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bay%C4%B1nd%C4%B1r
+
+**TDK** — anlam: Gelişip güzelleşmesi, hayat şartlarının uygun duruma getirilmesi için üzerinde çalışılmış olan, bakımlı, imar edilmiş (yer); ongun (I), abat, mamur
+
+### belgi
+
+**TDK** — anlam: Bir şeyi benzerlerinden ayıran özellik
+
+### beniz
+
+**Nişanyan — beniz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Proto-Türkçe › *beŋiŕ › yüz  [ses evrimi]
+- Eski Türkçe › meŋiz › görünüş, suret, çehre  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- <900, Türkische Manichäica aus Chotscho 1-3
+  > tişi kişilerniŋ körkin meŋzin [dişi kişilerin güzelliği, çehresi]
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > meŋiz [[insanın rengi]], ḳızıl meŋizli
+
+Not: Çeşitli lehçelerde görülen /b/ > /m/ dönüşümü için bkz. ben1.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/beniz
+
+**TDK** — anlam: ► yüz (II)
+
+### bet
+
+**Nişanyan — bet**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › wad › a.a.  [ses evrimi]
+- Farsça › bad › kötü  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1250?, Edib Ahmed — Atebet-ül Hakayık
+  > kim erse bu tört işke bad iˁtiḳād [bu dört yoldaşa kim kötü inan etse]
+- 1303, Codex Cumanicus
+  > malus - Fa: bad - Tr: jaman [yaman]
+
+Not: Erm vad վատ "kötü" Orta Farsçadan alınmıştır. • İng bad "kötü" ile köken ilişkisi kurulamaz.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bet
+
+**Nişanyan — bet2**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › bét › yüz, çehre  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- <1000, Türkische Turfantexte 1-9
+  > ol béti üze urġu ol [yüzü üzere vurmalıdır]
+- 1303, Codex Cumanicus
+  > tuman betli - Alm: uinster antlî [finster Antlitz, karanlık yüzlü]
+
+Not: Günümüzde bet beniz ikileme haricinde nadiren görülür.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bet2
+
+**Nişanyan — bet3**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Kaynağı bilinmeyen kelime › ?  [türeme]
+- İngilizce › bet › müşterek bahis  [alıntı]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bet3
+
+**TDK** — anlam: ► yüz (II)
+
+### bengi
+
+**Nişanyan — bengi**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › beŋgü/meŋgü › ölümsüz, ebedi  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- 735, Orhun Yazıtları
+  > men bengü taş tikdim [monimentum peregi aere perennius]
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > meŋgü [[sonsuz (ḫālid) olan bir şey ve aynı zamanda 'sonsuzluk']]
+
+Not: Asli biçim b- olup çeşitli lehçelerde görülen b > m dönüşümü ikincildir. Bkz. ben1. • "Esrarkeş" anlamında bengî ayrı kelimedir. "Bir Bursa halk oyunu ve oyun havası" olan bengi muhtemelen bu ikinci anlamda olmalıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bengi
+
+**TDK** — anlam: ► sonsuz
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+Kaydı eksik maddelerin kökenlerini kontrol edip veri setini verilen özetlere göre hazırlayacağım.
+
+web search: 
+web search: site.nisanyansozluk.com/kelime/siluet ...
+web search: 
+web search: https://www.nisanyansozluk.com/kelime/silüet
+codex
+[
+  {
+    "id": "siluet",
+    "word": "siluet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "silhouette", "meaning": "yalnız dış çizgileri seçilen görüntü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "siluet", "meaning": "ayrıntıları seçilemeyen dış görünüş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir varlığın ayrıntıları seçilmeyen dış görünüşü.",
+    "currentMeaning": "Bir insanın veya nesnenin iç ayrıntıları görünmeden, dış sınırlarıyla seçilen görüntüsü.",
+    "story": "Fransızca silhouette, bir görüntünün ayrıntılarını silip geriye dış çizgilerini bırakır. Türkçede de sözcük, uzaktaki bir insanı ya da ışığın önünde kararan bir yapıyı yalnız biçiminden tanıdığımız görüntüyü anlatır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "silüet maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sofistike",
+    "word": "sofistike",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "en",
+    "chain": [
+      {"language": "en", "form": "sophist", "meaning": "söz oyunlarıyla tartışan kişi", "period": null, "reconstructed": false},
+      {"language": "en", "form": "sophisticate", "meaning": "söz oyunlarına başvurmak", "period": null, "reconstructed": false},
+      {"language": "en", "form": "sophisticated", "meaning": "yapay veya incelmiş, kaba olmaktan uzak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sofistike", "meaning": "yapmacıklı veya incelikle geliştirilmiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yapmacıklı veya incelikle geliştirilmiş olan.",
+    "currentMeaning": "Yapmacık bir incelik taşıyan; ayrıca gelişmiş, karmaşık veya işlenmiş nitelikte olan.",
+    "story": "İngilizcedeki sophist, tartışmayı söz oyunlarıyla yürüten kişiydi; sophisticate bu davranışı bir eyleme dönüştürdü. Sophisticated ise yapaylık çağrışımının yanına kabalıktan uzaklaşmış, incelmiş olmayı ekledi. Türkçedeki kullanımda da gösterişli bir yapmacıklık ile gelişmiş bir incelik yan yana durur. İngilizce üzerinden açıklanan anlam yoluna Fransızca söyleyiş eşlik eder.",
+    "firstAttestation": {"source": "Milliyet", "period": "1964", "form": "sofistike"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük anlam aktarımını İngilizce sophisticated ile açıklar ve Fransızca söyleyişin benimsendiğini belirtir; TDK Güncel Türkçe Sözlük doğrudan kaynak olarak Fransızca sophistiqué biçimini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sofistike maddesi", "url": "https://www.nisanyansozluk.com/kelime/sofistike"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sofistike maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sürrealizm",
+    "word": "sürrealizm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "fr", "form": "réél", "meaning": "gerçek olan", "period": null, "reconstructed": false},
+      {"language": "la", "form": "super", "meaning": "üstte, üzerinde", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "sur", "meaning": "üstte, üzerinde; fazladan", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "surréél", "meaning": "gerçeğin ötesindeki", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "surréalisme", "meaning": "gerçeküstünü temel alan sanat anlayışı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sürrealizm", "meaning": "gerçeküstünü temel alan sanat anlayışı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Düşleri ve bilinçdışını öne çıkaran sanat akımı.",
+    "currentMeaning": "Alışılmış gerçeklik ilişkilerini aşarak düşleri ve bilinçdışını sanatsal anlatımın merkezine yerleştiren akım.",
+    "story": "Fransızcada gerçek olanı anlatan réél, üstte bulunmayı bildiren sur ile birleşince gündelik gerçeğin ötesine uzandı. Bu sur parçasının gerisinde Latince super bulunur. Surréalisme, gerçeküstüne açılan bu alanı bir sanat anlayışının adına dönüştürdü. Türkçeye sürrealizm olarak taşınan ad, düşlerde yan yana gelebilen beklenmedik görüntüleri resme ve yazıya taşıyan akımı karşılar.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1930", "form": "sürrealizm"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sürrealizm maddesi", "url": "https://www.nisanyansozluk.com/kelime/s%C3%BCrrealizm"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sürrealizm maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "transandantal",
+    "word": "transandantal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "transcendantal", "meaning": "deneyüstü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "transandantal", "meaning": "deneyüstü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Deneyüstü nitelikte olan.",
+    "currentMeaning": "Deneyüstü niteliği taşıyan şeyleri niteleyen felsefe terimi.",
+    "story": "Fransızca transcendantal, düşünceyi yalnız duyularla edinilen deneyimle sınırlamayan felsefi bir kavramı taşır. Türkçeye transandantal biçimiyle aktarılırken bu soyut kullanımını korumuş ve deneyüstü karşılığıyla yan yana yerleşmiştir.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "transandantal maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ütopik",
+    "word": "ütopik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "utopique", "meaning": "hayalde tasarlanan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ütopik", "meaning": "hayalde tasarlanan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hayalde tasarlanan, gerçekleşmesi güç görünen.",
+    "currentMeaning": "Gerçek koşullardan uzak, hayalde kurulmuş tasarıları veya düşünceleri niteleyen.",
+    "story": "Fransızca utopique, yaşanan dünyanın koşullarından çok hayalde kurulmuş bir düzeni öne çıkarır. Türkçeye ütopik olarak geçen sıfat da bir tasarının çekiciliği ile onu hayata geçirmenin güçlüğü arasındaki mesafeyi anlatır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "ütopya", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ütopik maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "virtüöz",
+    "word": "virtüöz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "virtus", "meaning": "erkeklik, erdem, yetkinlik", "period": null, "reconstructed": false},
+      {"language": "it", "form": "virtù", "meaning": "erkeklik, erdem, nitelik ve beceri", "period": null, "reconstructed": false},
+      {"language": "it", "form": "virtuoso", "meaning": "erkeklik, erdem, nitelik ve beceri", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "virtuose", "meaning": "özellikle müzikte olağanüstü yetenekli kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "virtüöz", "meaning": "çalgısını olağanüstü ustalıkla çalan sanatçı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir çalgıyı olağanüstü ustalıkla çalan sanatçı.",
+    "currentMeaning": "Bir müzik çalgısını üstün teknik beceri ve sanat gücüyle çalabilen kişi.",
+    "story": "Latince virtus, erkeklik ve erdemle birlikte kişinin yetkinliğini de kapsıyordu. İtalyancada virtù ve ondan türeyen virtuoso, bu nitelikler çevresinde gelişti. Fransızca virtuose ile vurgu, özellikle müzikte sergilenen üstün beceriye yerleşti. Türkçedeki virtüöz de bu uzun yolun sonunda çalgısına olağanüstü hâkim olan sanatçıyı adlandırır.",
+    "firstAttestation": {"source": "Mehmed Bahaeddin [Toven] — Yeni Türkçe Lugat", "period": "1924", "form": "virtüoz"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "virtüöz maddesi", "url": "https://www.nisanyansozluk.com/kelime/virt%C3%BC%C3%B6z"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "virtüöz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ağıl",
+    "word": "ağıl",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "aġıl", "meaning": "hayvanların tutulduğu çevrili yer", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ağıl", "meaning": "koyun ve keçilerin barındırıldığı çevrili yer", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Koyun ve keçilerin barındırıldığı çevrili yer.",
+    "currentMeaning": "Küçükbaş hayvanları bir arada tutmak ve barındırmak için çevresi sınırlandırılmış alan.",
+    "story": "Eski Türkçe aġıl, sürüyü açık araziden ayıran çevrili bir barınaktı. Çitlerin içindeki hayvanları bir arada tutma işlevi, sözcüğün bugüne uzanan somut çekirdeğini oluşturdu. Türkçede ağıl denince özellikle koyun ve keçiler için ayrılmış bu alan anlaşılır.",
+    "firstAttestation": {"source": "Irk Bitig", "period": "900 öncesi", "form": "ağılıŋta"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "Oğuzların bir kullanımında ağıl, barınağın kendisini değil koyunların dışkısını adlandırıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ağıl maddesi", "url": "https://www.nisanyansozluk.com/kelime/a%C4%9F%C4%B1l"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ağıl maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ağu",
+    "word": "ağu",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "aġu", "meaning": "zehir", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ağu", "meaning": "zehir", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Zehir.",
+    "currentMeaning": "Canlıya zarar veren veya ölümüne yol açabilen madde; zehir.",
+    "story": "Eski Türkçedeki aġu, canlıya zarar veren zehirli maddeyi adlandırıyordu. Türkçede ağu biçimiyle yaşamayı sürdüren sözcükte sesler değişse de zehirle kurulan bağ korunmuştur.",
+    "firstAttestation": null,
+    "relatives": [{"word": "ağı", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "ağu maddesi", "url": "https://lugatim.com/s/a%C4%9Fu"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "alaz",
+    "word": "alaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "tr", "form": "alaz", "meaning": "ateşten yükselen alev", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Ateşten yükselen alev.",
+    "currentMeaning": "Yanan maddelerden yükselen ışıklı ve sıcak dil; alev.",
+    "story": "Alaz, ateşin yükselen ışıklı dilini adlandırır; yalaz ve yalabız biçimleriyle aynı kökeni paylaşır. Ateş görüntüsü şiirde başka nesnelere de taşınmış, dağların karı bile alazla anlatılmıştır. Böylece sözcük, gerçek alevin yanında alevi andıran görünüşü de taşıyabilmiştir.",
+    "firstAttestation": {"source": "Karacaoğlan", "period": "1700 öncesi", "form": "alaz"},
+    "relatives": [
+      {"word": "yalaz", "relation": "eş köken"},
+      {"word": "yalabız", "relation": "eş köken"},
+      {"word": "alazlamak", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "alaz maddesi", "url": "https://www.nisanyansozluk.com/kelime/alaz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "alaz maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "alkım",
+    "word": "alkım",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "tr", "form": "alkım", "meaning": "gökte beliren renkli ışık yayı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gökkuşağı.",
+    "currentMeaning": "Güneş ışığının su damlalarında oluşturduğu, gökyüzünde renkli bir yay biçiminde görülen olay.",
+    "story": "Alkım, yağmurla güneşin buluştuğu gökte beliren renkli yayı adlandırır. Bugünkü kullanımında da gökkuşağıyla aynı görüntüyü taşır; farklı bir nesneyi değil, aynı doğa olayını başka bir adla görünür kılar.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "alkım maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "arı",
+    "word": "arı",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "otk",
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "arı-", "meaning": "temizlemek", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "arıġ", "meaning": "kirden arınmış, saf", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "arı", "meaning": "yabancı unsurlardan arınmış, saf", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yabancı unsurlardan arınmış, saf.",
+    "currentMeaning": "İçine başka unsurlar karışmamış veya bunlardan temizlenmiş olan.",
+    "story": "Eski Türkçedeki arı- eylemi temizlemeyi anlatıyor, ondan türeyen arıġ ise temizlenmiş şeyin niteliğini belirtiyordu. Sözcük sonundaki ġ sesi kaybolunca bugünkü arı biçimi ortaya çıktı. Temizlik düşüncesi böylece yalnız kirden kurtulmayı değil, bir şeyin yabancı unsurlardan uzak kalmasını da anlatmayı sürdürdü.",
+    "firstAttestation": {"source": "Türkische Turfantexte 1-9", "period": "900 öncesi", "form": "arığ"},
+    "relatives": [
+      {"word": "arınmak", "relation": "akraba"},
+      {"word": "arıtmak", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": "Bal yapan arının adı, saf ve temiz olanı anlatan arıyla aynı kökten değildir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "arı2 maddesi", "url": "https://www.nisanyansozluk.com/kelime/ar%C4%B12"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "arı, saflık bildiren sıfat maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ark",
+    "word": "ark",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": "otk",
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "yar-/yır-", "meaning": "yararak suya geçit açmak", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "arık", "meaning": "su yatağı veya kazılmış hendek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ark", "meaning": "suyu iletmek için açılan oluk", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Suyu taşımak için toprakta açılan oluk.",
+    "currentMeaning": "Suyu bir yere ulaştırmak amacıyla zeminde kazılarak oluşturulan açık kanal.",
+    "story": "Arkın gerisinde toprağı yarmak ve suya yol açmak vardır. Eski Türkçedeki yar-/yır- eylemine bağlanan arık, hem kazılmış hendeği hem suyun aktığı yatağı anlatıyordu. Biçim ark diye kısalırken kullanım da tarlaya veya bostana su götüren açık kanalda yoğunlaştı.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "arıḳ"},
+    "relatives": [{"word": "arık", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": "Elektrikte kullanılan ark adı, su kanalından bağımsız olarak Fransızcadaki yay ve kavis adından alınmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ark ve ark2 maddeleri", "url": "https://www.nisanyansozluk.com/kelime/ark"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ark, su kanalı maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ayaz",
+    "word": "ayaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": "otk",
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "aya-", "meaning": "aydınlık, duru veya ay ışıklı olmak", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "ayās", "meaning": "duru ve ışıklı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ayaz", "meaning": "açık havada hissedilen kuru soğuk", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Açık ve dingin havada hissedilen kuru soğuk.",
+    "currentMeaning": "Gökyüzünün açık, havanın sakin olduğu zamanlarda duyulan keskin ve kuru soğuk.",
+    "story": "Ayazın eski anlamında soğuktan önce açıklık ve ışık vardı. Eski Türkçe aya- aydınlık veya ay ışıklı olmayı, ayās ise göğün duruluğunu anlatıyordu. Sözcük bir dönem yıldızlı gecenin açıklığını ve ay ışığını da taşıdı. Bugünkü kullanımda o açık gecenin görünüşü geri çekilmiş, insanın teninde bıraktığı kuru soğuk öne çıkmıştır.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "ayās"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ayaz maddesi", "url": "https://www.nisanyansozluk.com/kelime/ayaz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ayaz maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "aylak",
+    "word": "aylak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "aylan-", "meaning": "dönerek dolaşmak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "aylak", "meaning": "bir işle uğraşmadan duran", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir işle uğraşmadan boş duran.",
+    "currentMeaning": "Yapacak işi bulunmayan veya zamanını herhangi bir işle uğraşmadan geçiren kişi için kullanılan sıfat.",
+    "story": "Aylak, Orta Türkçedeki aylan- eyleminin dönme ve dolanma hareketine bağlanır. Bu hareketin çevresinde gelişen sözcük, bir işle meşgul olmayan kişiyi anlatmaya yerleşmiştir. Bugün aylaklık denince hareketin kendisinden çok zamanı dolduran bir uğraşın yokluğu öne çıkar.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "aylaḳ"},
+    "relatives": [{"word": "aylaklık", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "aylak maddesi", "url": "https://www.nisanyansozluk.com/kelime/aylak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "aylak maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ayrıksı",
+    "word": "ayrıksı",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "ayrık", "meaning": "diğerlerinden ayrı duran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ayrıksı", "meaning": "alışılanın dışında özellikler taşıyan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Alışılmış davranış ve özelliklerin dışında kalan.",
+    "currentMeaning": "Yerleşmiş davranışlardan, alışkanlıklardan veya beklentilerden farklılık gösteren.",
+    "story": "Ayrıksının tabanındaki ayrık, diğerlerinden ayrı durmayı anlatır. Bu ayrılık düşüncesi ayrıksıda davranışa ve görünüme taşınır; kişi alışılan çizginin dışında kalır. Eski metinlerde yaşayan sözcük, Dil Devrimi döneminde yeniden yazı diline alınarak bugünkü kullanımına kavuşmuştur.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ayruksıdır"},
+    "relatives": [
+      {"word": "ayrık", "relation": "akraba"},
+      {"word": "ayrıksılık", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ayrıksı maddesi", "url": "https://www.nisanyansozluk.com/kelime/ayr%C4%B1ks%C4%B1"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ayrıksı maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bayındır",
+    "word": "bayındır",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "otk",
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "bay", "meaning": "varlıklı", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "bayu-", "meaning": "varlığı ve refahı artmak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bayındır", "meaning": "imar edilerek yaşama elverişli kılınmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İmar edilip bakımlı ve yaşanabilir duruma getirilmiş.",
+    "currentMeaning": "Yapıları, olanakları ve bakımı geliştirilerek yaşam koşulları iyileştirilmiş yer.",
+    "story": "Eski Türkçedeki bay varlıklı kişiyi, bayu- ise varlığın ve refahın artmasını anlatıyordu. Bayındır bu refah düşüncesini bir yerin durumuna taşır. Bugün sözcük, insanların emeğiyle yapıları ve yaşam olanakları gelişmiş bir yerleşimi göz önüne getirir.",
+    "firstAttestation": {"source": "Osmanlıcadan Türkçeye Cep Kılavuzu", "period": "1935", "form": "bayındır"},
+    "relatives": [
+      {"word": "bayındırlık", "relation": "türev"},
+      {"word": "Bayundır", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bayındır maddesi", "url": "https://www.nisanyansozluk.com/kelime/bay%C4%B1nd%C4%B1r"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bayındır maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "belgi",
+    "word": "belgi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "tr", "form": "belgi", "meaning": "ayırt etmeyi sağlayan nitelik", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyi tanımayı sağlayan ayırt edici nitelik.",
+    "currentMeaning": "Bir varlığın benzerleri arasında seçilmesini ve tanınmasını sağlayan özellik.",
+    "story": "Belgi, benzer şeylerin arasından birini seçtiren özelliğe verilen addır. Bir nesneyi tanırken dikkat edilen bu özellik, sözcüğün bugünkü kullanımında ayırt etmenin dayanağı olarak öne çıkar.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "belgi maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "beniz",
+    "word": "beniz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "trk",
+    "chain": [
+      {"language": "trk", "form": "beŋiŕ", "meaning": "yüz", "period": null, "reconstructed": true},
+      {"language": "otk", "form": "meŋiz", "meaning": "yüzün görünüşü ve rengi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "beniz", "meaning": "yüz, özellikle yüzün rengi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüz, özellikle yüzün rengi ve görünüşü.",
+    "currentMeaning": "İnsanın yüzü; özellikle yüzün renk ve görünüş bakımından durumu.",
+    "story": "Ana Türkçe için yeniden kurulan beŋiŕ biçimi yüzü adlandırır. Eski Türkçedeki meŋiz de kişinin çehresini, görünüşünü ve yüz rengini taşıyordu. Türkçede beniz, yüzün özellikle solgunluk veya kızarıklık gibi gözle görülen durumlarını anlatmayı sürdürür.",
+    "firstAttestation": {"source": "Türkische Manichäica aus Chotscho 1-3", "period": "900 öncesi", "form": "meŋzin"},
+    "relatives": [{"word": "benizli", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "beniz maddesi", "url": "https://www.nisanyansozluk.com/kelime/beniz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "beniz maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bet",
+    "word": "bet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "bét", "meaning": "insanın yüzü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bet", "meaning": "insanın yüzü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüz, çehre.",
+    "currentMeaning": "İnsanın yüzü; bugün çoğunlukla bet beniz ikilemesinde kullanılan ad.",
+    "story": "Eski Türkçedeki bét, insanın yüzünü doğrudan adlandırıyordu. Zamanla tek başına kullanımı seyrekleşti, fakat benizle yan yana gelerek dilde tutundu. Bugün bet beniz ifadesi, aynı yüzü anlatan iki eski adı bir arada yaşatır.",
+    "firstAttestation": {"source": "Türkische Turfantexte 1-9", "period": "1000 öncesi", "form": "béti"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "Bet ses ifadesindeki kötü nitelemesi Farsçadan alınmıştır ve yüzü anlatan betten ayrı bir kelimedir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bet2 ve bet maddeleri", "url": "https://www.nisanyansozluk.com/kelime/bet2"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bet, yüz anlamındaki madde", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bengi",
+    "word": "bengi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "beŋgü/meŋgü", "meaning": "son bulmayan, ölüme yenilmeyen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bengi", "meaning": "sonsuza dek süren", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sonsuza dek süren.",
+    "currentMeaning": "Bir sonu bulunmayan, varlığını veya geçerliliğini sonsuza kadar sürdüren.",
+    "story": "Eski Türkçe beŋgü ve meŋgü, ölüme ve sona bağlı olmayan sürekliliği anlatıyordu. Taşın üzerine kalıcı bir söz bırakma düşüncesinde bu sonsuzluk isteği somut bir karşılık buldu. Türkçede bengi, aynı süreklilik düşüncesini koruyarak sonu olmayanı nitelemeyi sürdürür.",
+    "firstAttestation": {"source": "Orhun Yazıtları", "period": "735", "form": "bengü"},
+    "relatives": [{"word": "bengilik", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bengi maddesi", "url": "https://www.nisanyansozluk.com/kelime/bengi"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bengi, sonsuzluk bildiren madde", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+tokens used
+29,744

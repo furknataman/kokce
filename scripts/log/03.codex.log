@@ -1,0 +1,1815 @@
+[
+  {
+    "id": "akıl",
+    "word": "akıl",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁaḳala", "meaning": "dizginlemek; düşünerek değerlendirmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ˁaḳl", "meaning": "ölçülü düşünme ve yargılama gücü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "akıl", "meaning": "düşünme ve kavrama yetisi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Düşünme, kavrama ve yargılama yetisi.",
+    "currentMeaning": "İnsanın düşünmesini, ilişkileri kavramasını ve değerlendirme yapmasını sağlayan yeti.",
+    "story": "Akıl sözünün ardında, hareketi sınırlayan bir bağ ve dizgin resmi vardır. Arapçada ˁaḳala, hem dizginlemeyi hem de bir şeyi düşünerek değerlendirmeyi anlatıyordu. Bu fiilden doğan ˁaḳl, insanın düşüncesine ölçü koyan yetinin adı oldu. Türkçede akıl, bu denetleme fikrini de taşıyarak düşünme ve kavrama gücünü anlatır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "aḫel"},
+    "relatives": [
+      {"word": "akıllı", "relation": "türev"},
+      {"word": "akılsız", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "akıl maddesi", "url": "https://www.nisanyansozluk.com/kelime/ak%C4%B1l"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "akıl maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "fikir",
+    "word": "fikir",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "fakara", "meaning": "düşünmek ve akıl işletmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "fikr", "meaning": "düşünme yoluyla oluşan düşünce", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fikir", "meaning": "düşünce veya görüş", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir konuda oluşan düşünce veya görüş.",
+    "currentMeaning": "Zihinde oluşan düşünce, bir konuya ilişkin görüş ya da tasarı.",
+    "story": "Fikir, Arapçada düşünme eylemini anlatan fakara ile aynı ailede doğdu. Bu eylemden türeyen fikr, zihnin çalışmasıyla ortaya çıkan düşünceyi adlandırdı. Türkçeye geçerken fikr biçiminin iki son ünsüzü arasına bir ünlü yerleşti; düşünmenin ürünü olan fikir böylece bugünkü ses yapısına kavuştu.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "fikr"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fikir maddesi", "url": "https://www.nisanyansozluk.com/kelime/fikir"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "fikir maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zihin",
+    "word": "zihin",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ẕihn", "meaning": "kavrama ve düşünme yetisi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "zihin", "meaning": "düşünme ve anlama süreçlerinin bütünü", "period": "14. yy veya öncesi", "reconstructed": false}
+    ],
+    "shortMeaning": "Düşünme, anlama ve hatırlama süreçlerinin bütünü.",
+    "currentMeaning": "Duygu ve davranışların dışında kalan düşünme, anlama ve hatırlama gibi ruhsal süreçlerin bütünü.",
+    "story": "Arapçadaki ẕihn, insanın karşısındaki şeyi anlayıp kavrayabilmesini adlandırıyordu. Türkçedeki eski kullanımlarda zihnin açılmasından ya da bozulmasından söz edilmesi, bu yetinin işleyişine odaklanıldığını gösterir. Bugün zihin, düşüncelerin oluştuğu ve işlendiği süreçlerin bütünü için kullanılır.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1400 öncesi", "form": "ẕihni"},
+    "relatives": [
+      {"word": "zihinsel", "relation": "türev"},
+      {"word": "zihniyet", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "zihin maddesi", "url": "https://www.nisanyansozluk.com/kelime/zihin"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "zihin maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hafıza",
+    "word": "hafıza",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥafaẓa", "meaning": "koruyup saklamak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥāfiẓa(t)", "meaning": "koruyan, saklayan dişil varlık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hafıza", "meaning": "bilgi ve yaşantıları bellekte tutma yetisi", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bilgi ve yaşantıları saklayıp hatırlama yetisi.",
+    "currentMeaning": "Öğrenilenleri ve yaşananları zihinde tutmayı, gerektiğinde yeniden hatırlamayı sağlayan bellek.",
+    "story": "Hafızanın geçmişinde bir şeyi kaybolmasın diye koruyup saklama işi vardır. Arapça ḥafaẓa fiilinden türeyen ḥāfiẓa, saklayan varlığı anlatıyordu. Türkçede önce kuvvet-i hafıza ifadesinde görülen bu koruyucu görev, bilginin zihinde tutulmasına uygulandı. Hafıza böylece yaşananları ve öğrenilenleri saklayan yetinin adı oldu.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "hāfıza"},
+    "relatives": [
+      {"word": "muhafaza", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hafıza maddesi", "url": "https://www.nisanyansozluk.com/kelime/haf%C4%B1za"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hafıza maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hayal",
+    "word": "hayal",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫāla", "meaning": "öyle olduğunu sanmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḫayāl", "meaning": "düşte beliren görüntü; korkuluk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hayal", "meaning": "zihinde canlandırılan görüntü veya tasarı", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Zihinde canlandırılan görüntü, istek veya tasarı.",
+    "currentMeaning": "Gerçekte bulunmasa da zihinde canlandırılan görüntü ya da gerçekleşmesi arzulanan tasarı.",
+    "story": "Hayalin gerisindeki Arapça ḫāla fiili, bir şeyi öyle sanmayı anlatıyordu. Ondan türeyen ḫayāl, uykuda beliren görüntüyü adlandırdı; görünen şey ile gerçek arasındaki mesafe kelimenin merkezindeydi. Türkçede hayal, bu görüntü alanından zihinde kurulan tasarılara ve gerçekleşmesi özlenen şeylere uzandı.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ḫayālden"},
+    "relatives": [
+      {"word": "hayalperest", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": "Hayalin Arapçadaki eski karşılıklarından biri, tarlaya dikilen korkuluktur.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hayal maddesi", "url": "https://www.nisanyansozluk.com/kelime/hayal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hayal maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "rüya",
+    "word": "rüya",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "raˀā", "meaning": "görmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ruˀyā", "meaning": "düşte görülen görüntü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rüya", "meaning": "uykuda yaşanan düş", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Uykuda görülen görüntü ve yaşantılar.",
+    "currentMeaning": "Uyku sırasında zihinde beliren görüntülerin, olayların ve yaşantıların oluşturduğu düş.",
+    "story": "Rüyanın başlangıcında Arapça raˀā, yani görme eylemi bulunur. Bu eylemden doğan ruˀyā, göz önünde beliren bir görüngüyü ve uykudaki düşü adlandırdı. Türkçede rüya, uyurken yaşanan bu görme deneyimini anlatmayı sürdürür; rüya görmek ifadesi de kelimenin kökündeki eylemi yeniden söyler.",
+    "firstAttestation": {"source": "Evliya Çelebi — Seyahatname", "period": "1665", "form": "rüyā"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "rüya maddesi", "url": "https://www.nisanyansozluk.com/kelime/r%C3%BCya"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rüya maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "niyet",
+    "word": "niyet",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nawā", "meaning": "bir işi yapmayı tasarlamak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "niyya(t)", "meaning": "yapılması düşünülen iş, tasarı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "niyet", "meaning": "bir şeyi yapmaya yönelik düşünce", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyi yapmaya yönelik önceden oluşmuş düşünce.",
+    "currentMeaning": "Henüz eyleme geçmeden bir işi yapmaya yönelme ve onu gerçekleştirmeyi düşünme durumu.",
+    "story": "Arapça nawā, henüz yapılmamış bir işi zihinde tasarlamayı anlatıyordu. Bu fiilden türeyen niyya, eylemin kendisinden önce gelen planı adlandırdı. Türkçedeki erken kullanımında da insanın gönlünde taşıdığı yöneliş öne çıkar; niyet bugün aynı biçimde yapılacak işin düşüncedeki başlangıcını anlatır.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "niyat"},
+    "relatives": [
+      {"word": "niyetlenmek", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "niyet maddesi", "url": "https://www.nisanyansozluk.com/kelime/niyet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "niyet maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "karar",
+    "word": "karar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḳarra", "meaning": "durmak, yerinde kalmak; bir seçime varmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḳarār", "meaning": "sabitlik; kesinleşmiş hüküm veya seçim", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "karar", "meaning": "düşünme sonunda kesinleşen yargı", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Düşünme sonunda varılan kesin yargı veya seçim.",
+    "currentMeaning": "Bir konu ya da sorun üzerine düşünüldükten sonra benimsenen kesin yargı veya tercih.",
+    "story": "Kararın Arapçadaki geçmişi, durmak ve bir yerde kalmakla başlar. Ḳarār, hem yerinden oynamayan bir durumu hem de tereddüdün sona erdiği kesin seçimi anlatıyordu. Türkçedeki erken tanıklığında dünyanın kalıcı olmayışı bu kelimeyle dile getirilir. Bugünkü karar vermekte de düşüncenin seçenekler arasında dolaşıp birinde durması fikri yaşar.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "ḳarārı"},
+    "relatives": [
+      {"word": "kararsız", "relation": "türev"},
+      {"word": "kararname", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "karar maddesi", "url": "https://www.nisanyansozluk.com/kelime/karar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "karar maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sebep",
+    "word": "sebep",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sabab", "meaning": "ip; bir yere ulaştıran yol veya araç; gerekçe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sebep", "meaning": "bir durumu ortaya çıkaran etken", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir olayın veya durumun ortaya çıkmasına yol açan şey.",
+    "currentMeaning": "Bir olayın gerçekleşmesini ya da bir durumun oluşmasını sağlayan etken veya neden.",
+    "story": "Arapça sabab, ip gibi somut bir nesneyi de bir yere ulaştıran yolu ve aracı da adlandırıyordu. Bu anlam alanında öne çıkan ortak düşünce, bir şeye ulaşmayı sağlamaktı. Mantık dilinde kelime, bir sonuca götüren gerekçeye uygulandı. Türkçedeki sebep de bir olayın hangi yoldan ortaya çıktığını anlatan neden sözüne dönüştü.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "säbäb"},
+    "relatives": [
+      {"word": "sebeplenmek", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sebep maddesi", "url": "https://www.nisanyansozluk.com/kelime/sebep"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sebep maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "netice",
+    "word": "netice",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nataca", "meaning": "hayvanın yavru doğurması", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "natīca(t)", "meaning": "doğan yavru; ortaya çıkan ürün", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "netice", "meaning": "bir süreçten doğan sonuç", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir işin, olayın veya düşünme sürecinin sonucu.",
+    "currentMeaning": "Bir olay, işlem ya da düşünme süreci sonunda ortaya çıkan durum veya ürün.",
+    "story": "Neticenin başlangıcında hayvanın yavru doğurması vardır. Arapça nataca fiilinden türeyen natīca, doğan yavruyu, ardından bir şeyden elde edilen ürünü adlandırdı. Mantıkçılar iki öncülden çıkan yargıyı da bu doğum resmiyle anlattılar. Türkçede netice, bir işten veya düşünceden doğan sonuç olarak yerleşti.",
+    "firstAttestation": {"source": "Ferec ba'd eş-şidde", "period": "1451", "form": "netiycesi"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "netice maddesi", "url": "https://www.nisanyansozluk.com/kelime/netice"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "netice maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hayat",
+    "word": "hayat",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥayya", "meaning": "yaşamak, canlı bulunmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥayā(t)", "meaning": "canlılık ve yaşama durumu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hayat", "meaning": "yaşam, canlı olma durumu", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Canlı olma durumu ve sürdürülen yaşam.",
+    "currentMeaning": "Bir varlığın canlı olması ve yaşamını sürdürmesi durumu.",
+    "story": "Hayat, Arapçada canlı bulunmayı anlatan ḥayya fiilinden doğdu. Bu fiilin adı olan ḥayā, yaşayan varlığın durumunu dile getiriyordu. Türkçede de önce canlılığı anlatan kelime, gece hayatı gibi ifadelerde yaşamanın belirli alanlarını adlandıracak biçimde genişledi.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "hayāt"},
+    "relatives": [
+      {"word": "ḥay/ḥayah", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "1930-1955 arasında hayat kadını ifadesi, meslek sahibi kadınlar için de kullanılıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hayat maddesi, yaşam anlamı", "url": "https://www.nisanyansozluk.com/kelime/hayat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hayat maddesi, canlı olma anlamı", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ömür",
+    "word": "ömür",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁamara", "meaning": "canlılık kazandırmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ˁumr", "meaning": "yaşama, yaşam", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ömür", "meaning": "bir canlının yaşadığı süre", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir canlının yaşadığı süre.",
+    "currentMeaning": "Bir canlının doğumundan ölümüne kadar sürdürdüğü yaşam ve bu yaşamın süresi.",
+    "story": "Ömrün Arapçadaki kökü ˁamara, bir şeye canlılık kazandırmayı anlatıyordu. Aynı kökten türeyen ˁumr, yaşamın adı oldu. Türkçede ömür, bu canlılığı zaman boyutuyla anlatır; geçirilen, uzayan veya sona eren yaşam süresini öne çıkarır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ömür maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%B6m%C3%BCr"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ömür maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nefes",
+    "word": "nefes",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nafas", "meaning": "alınıp verilen soluk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nefes", "meaning": "solunum sırasında alınan veya verilen hava", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Solunum sırasında alınan veya verilen soluk.",
+    "currentMeaning": "Solunumla içeri alınan ya da dışarı verilen hava ve bu alıp verme hareketi.",
+    "story": "Nefes, Arapça nafas biçiminde göğse girip çıkan soluğu adlandırıyordu. Akkadca ve Aramice-Süryanicedeki akrabaları da soluk alma çevresinde toplanır. Türkçeye geçtiğinde kelime bu bedensel anlamını korudu; eski kullanımında insanın yaşamı, alacağı solukların sayısıyla anlatılır.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "nafas"},
+    "relatives": [
+      {"word": "napāşu", "relation": "eş köken"},
+      {"word": "naphşā/npheşā", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nefes maddesi", "url": "https://www.nisanyansozluk.com/kelime/nefes"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nefes maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ruh",
+    "word": "ruh",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "rūḥ", "meaning": "soluk, hafif rüzgâr; can; mecazen hoş koku", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ruh", "meaning": "can, varlığın manevi yönü", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Can veya insanın manevi varlığı.",
+    "currentMeaning": "Canlılığı sağlayan manevi varlık olarak düşünülen can; insanın bedensel olmayan yönü.",
+    "story": "Ruhun Arapçadaki karşılığı rūḥ, hem soluğu ve esintiyi hem de canı adlandırıyordu. Böylece hissedilen hava hareketi ile bedene yaşam veren görünmez varlık aynı kelimede buluştu. Türkçeye taşınan ruhun manevi anlamının arkasında bu nefes resmi vardır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "rūḥ"},
+    "relatives": [
+      {"word": "ruhani", "relation": "akraba"},
+      {"word": "ruhaniyet", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": "Eski Yunanca pneûma ve Latince spiritus da hem nefesi hem ruhu anlatır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ruh maddesi", "url": "https://www.nisanyansozluk.com/kelime/ruh"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ruh maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "beden",
+    "word": "beden",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "badan", "meaning": "insanın gövdesi; kısa kolsuz giysi veya zırh", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "beden", "meaning": "gövde; vücudun bütünü", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Gövde veya vücudun bütünü.",
+    "currentMeaning": "Baş, kol ve bacakların bağlandığı gövde; geniş kullanımda insanın veya hayvanın bütün vücudu.",
+    "story": "Arapça badan, vücudun baş ve uzuvlar dışında kalan orta bölümünü adlandırıyordu. Aynı kelime kısa, kolsuz bir giysi veya zırh için de kullanılıyor; gövde ile onu örten parça aynı ad altında buluşuyordu. Türkçede beden, gövde anlamını korurken vücudun tamamını da anlatacak biçimde kullanılır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "beden"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "beden maddesi", "url": "https://www.nisanyansozluk.com/kelime/beden"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "beden maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sıhhat",
+    "word": "sıhhat",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ṣaḥḥa", "meaning": "sağlıklı veya doğru olmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ṣiḥḥa(t)", "meaning": "sağlıklı bulunma durumu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sıhhat", "meaning": "sağlık", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Sağlıklı olma durumu.",
+    "currentMeaning": "Vücudun sağlıklı olması, hastalık veya rahatsızlık bulunmaması durumu.",
+    "story": "Sıhhatin dayandığı Arapça ṣaḥḥa fiili, hem sağlıklı olmayı hem de doğru olmayı anlatıyordu. Bedenin iyi durumda olması ile bir şeyin doğru çıkması aynı kökte buluştu. Bu kökten doğan ṣiḥḥa, Türkçede sağlık adı olarak yerleşti ve sıhhatler olsun dileğinde yaşamayı sürdürdü.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ṣıḥḥat"},
+    "relatives": [
+      {"word": "sıhhiye", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sıhhat maddesi", "url": "https://www.nisanyansozluk.com/kelime/s%C4%B1hhat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sıhhat maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "maraz",
+    "word": "maraz",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mariża", "meaning": "hastalık hâlinde bulunmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maraż", "meaning": "hastalık durumu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "maraz", "meaning": "hastalık, rahatsızlık", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Hastalık veya rahatsızlık.",
+    "currentMeaning": "Sağlığın bozulmasıyla ortaya çıkan hastalık veya rahatsızlık.",
+    "story": "Maraz, Arapçada hasta durumda bulunmayı anlatan mariża fiilinin adlaşmış karşılığıyla bağlantılıdır. Maraż, bedenin bu durumunu hastalık adı altında topladı; Akkadcadaki akrabası da hasta olmayı anlatır. Türkçeye maraz olarak geçen kelime, erken kullanımında tedavisi bulunmayan bir dert için de kullanılmıştır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "marażdur"},
+    "relatives": [
+      {"word": "marāṣu", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "maraz maddesi", "url": "https://www.nisanyansozluk.com/kelime/maraz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "maraz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ilaç",
+    "word": "ilaç",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁilāc", "meaning": "iyileştirici madde veya çare", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ilaç", "meaning": "hastalığı önlemek veya gidermek için kullanılan madde", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Hastalığı önlemek veya iyileştirmek için kullanılan madde.",
+    "currentMeaning": "Bir hastalığı önlemek, tedavi etmek veya etkilerini hafifletmek amacıyla kullanılan madde.",
+    "story": "Arapça ˁilāc, hastalığa karşı kullanılan dermanı ve çareyi adlandırıyordu. Türkçedeki erken bir kullanımda sabır da ilaç olarak sunulur; böylece kelime maddi bir tedavinin ötesinde sıkıntıyı giderecek yolu da anlatır. Bugün ilaç denince öncelikle tedavide kullanılan madde düşünülür, fakat çare olma fikri kelimenin içinde yaşamayı sürdürür.",
+    "firstAttestation": {"source": "Rabguzi — Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "ˁilācı"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ilaç maddesi", "url": "https://www.nisanyansozluk.com/kelime/ila%C3%A7"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ilaç maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "merhem",
+    "word": "merhem",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "mel-", "meaning": "yumuşama, gevşeme", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "mel-ag-", "meaning": "yumuşama, gevşeme", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "malássō, malag-", "meaning": "bir şeyi yumuşatmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "málagma(t)", "meaning": "yumuşatıcı karışım, özellikle deri işlemede kullanılan bileşim", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "marham/malham", "meaning": "sürülerek kullanılan iyileştirici karışım", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "merhem", "meaning": "deriye sürülen koyu kıvamlı ilaç", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Deriye sürülerek kullanılan koyu kıvamlı ilaç.",
+    "currentMeaning": "Etken maddeler içeren, deriye sürülen, yumuşak ve yoğun kıvamlı yağlı ilaç.",
+    "story": "Merhemin uzak geçmişinde yumuşatma işi vardır: Eski Yunanca málagma, özellikle deri işlemede kullanılan yumuşatıcı karışımı adlandırıyordu. Bu adın ardındaki fiil de yumuşatmayı anlatır ve daha eski Hint-Avrupa biçimlerine bağlanır. Türkçeye gelişinde Farsça marham ile Arapça malġam/malham biçimlerinin rolü konusunda kaynaklar farklı açıklamalar verir. Bugünkü merhem, bu karışım fikrini deriye sürülen koyu kıvamlı ilaçta sürdürür.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "malahan"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Eski Yunanca geçmişi açıklar ve Türkçeye aktarımda Farsça marham/malham ile Arapça malġam/malham seçeneklerini verir; zincirde Farsça seçenek gösterilmiştir.",
+      "TDK Güncel Türkçe Sözlük, Türkçedeki merhemin doğrudan kaynağını Arapça merhem olarak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "merhem maddesi", "url": "https://www.nisanyansozluk.com/kelime/merhem"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "merhem maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mide",
+    "word": "mide",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁadā", "meaning": "bir yerden ötekine geçmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maˁida(t)/maˁda(t)", "meaning": "besinin toplandığı kursak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mide", "meaning": "yemek borusundan gelen besini işleyen sindirim organı", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yemek borusu ile ince bağırsak arasındaki sindirim organı.",
+    "currentMeaning": "Omurgalılarda yemek borusuyla onikiparmak bağırsağı arasında bulunan ve besinleri işleyen organ; omurgasızlarda sindirim kanalının buna karşılık gelen bölümü.",
+    "story": "Mide, Arapça maˁida veya maˁda biçiminde besinin toplandığı kursağı adlandırıyordu. Bu adın bir yerden ötekine geçmeyi anlatan ˁadā fiiliyle bağlantısı muhtemeldir; böyle bir bağlantı organı besinin geçişi üzerinden açıklar. Türkçenin erken metinlerinde maˁde ve maˁıde biçimleri görülür, daha sonra mide biçimi yerleşir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "maˁdeye"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, maˁida(t)/maˁda(t) biçimini ˁadā fiiline muhtemel bir türeme ilişkisiyle bağlar; zincirin ilk iki halkası arasındaki ilişki kesin değildir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mide maddesi", "url": "https://www.nisanyansozluk.com/kelime/mide"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mide maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a37-853f-7342-a318-859987286f64
+--------
+user
+# Köken — Üretim Prompt'u (v6)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. akıl — ipucu: ar — rarity: gündelik
+2. fikir — ipucu: ar — rarity: gündelik
+3. zihin — ipucu: ar — rarity: gündelik
+4. hafıza — ipucu: ar — rarity: gündelik
+5. hayal — ipucu: ar — rarity: gündelik
+6. rüya — ipucu: ar — rarity: gündelik
+7. niyet — ipucu: ar — rarity: gündelik
+8. karar — ipucu: ar — rarity: gündelik
+9. sebep — ipucu: ar — rarity: gündelik
+10. netice — ipucu: ar — rarity: gündelik
+11. hayat — ipucu: ar — rarity: gündelik
+12. ömür — ipucu: ar — rarity: gündelik
+13. nefes — ipucu: ar — rarity: gündelik
+14. ruh — ipucu: ar — rarity: gündelik
+15. beden — ipucu: ar — rarity: gündelik
+16. sıhhat — ipucu: ar — rarity: gündelik
+17. maraz — ipucu: ar — rarity: gündelik
+18. ilaç — ipucu: ar — rarity: gündelik
+19. merhem — ipucu: ar — rarity: gündelik
+20. mide — ipucu: ar<grc — rarity: gündelik
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### akıl
+
+**Nişanyan — akıl**
+
+Zincir (eskiden yeniye):
+- Arapça › ˁaḳala › 1. dizginledi, gem vurdu, 2. akıl süzgecinden geçirdi, akıl yürüttü  [türeme]
+- Arapça › ˁaḳl › kontrollü düşünme yeteneği, sağduyu, itidal  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > sapientia - Fa & Tr: aḫel
+- 1546, Latifî — Tezkîretü'ş-Şuarâ
+  > Her biri zuʿm-ı fâsidince ˁaḳl-ı evvel geçinüp
+- 1680, Meninski — Thesaurus
+  > ˁaḳlı başinde, ˁaḳli başine gelmek (...) ˁaḳıllü, ˁaḳılsız (...) ˁaḳlī
+
+Not: Aynı kökten Ar ˁiḳāl, ˁuḳla(t) "bukağı, hayvanlara vurulan ayak bağı". Akıl, frenleyici ve dizginleyici bir şey olarak düşünülmüştür. • Aynı Sami kökünden İbr ˁāḳal ve ˁāgal "burmak, kıvırmak, halka yapmak".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ak%C4%B1l
+
+**TDK** — köken kaydı: Arapça ʿaḳl · anlam: Düşünme, anlama ve kavrama gücü; us
+
+### fikir
+
+**Nişanyan — fikir**
+
+Zincir (eskiden yeniye):
+- Arapça › fakara › düşündü, akıl yürüttü  [türeme]
+- Arapça › fikr › düşünce  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > fikr ü ˁaḳlın iremez ol menzile
+- 1971, Milliyet - gazete
+  > Akbank sunar: Fikir Jimnasiği. Yarışmalı radyo programı.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/fikir
+
+**TDK** — köken kaydı: Arapça fikr · anlam: ► düşünce
+
+### zihin
+
+**Nişanyan — zihin**
+
+Zincir (eskiden yeniye):
+- Arapça › ḏihn › akıl, anlama yeteneği  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1400, Hızır Paşa — Müntehab-ı Şifa
+  > ẕihni açmak ... ẕihni ifsāda vérmek
+- 1919, Hüseyin Rahmi Gürpınar — Cehennemlik
+  > zihniyet ‘mantalite’nin, mefkure ‘ideal’in, recül-i siyasi ‘omdeta’nın, maceraperest ‘avantüriye’nin ve ila-ahirihi tercümeleridir. Frenk kelimelerine yaraşır yaraşmaz, salta şalvar giydiriyorlar.
+- 1967, Cumhuriyet - gazete
+  > Uzun bir öğrenimin zorunlu kıldığı zihinsel faaliyet
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/zihin
+
+**TDK** — köken kaydı: Arapça ẕihn · anlam: Canlının duygu ve davranışlar dışındaki ruhsal süreç ve etkinliklerinin bütünü
+
+### hafıza
+
+**Nişanyan — hafıza**
+
+Zincir (eskiden yeniye):
+- Arapça › ḥafaẓa › sakladı, muhafaza etti  [türeme]
+- Arapça › ḥāfiẓa(t) › saklayan, muhafaza eden (şey veya kadın)  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > kuvveti hāfıza: Virtus retentiva, h. e. Memoria [saklama yeteneği, yani bellek].
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/haf%C4%B1za
+
+**TDK** — köken kaydı: Arapça ḥāfiẓa · anlam: ► bellek
+
+### hayal
+
+**Nişanyan — hayal**
+
+Zincir (eskiden yeniye):
+- Arapça › χāla › zannetti  [türeme]
+- Arapça › χayāl › 1. rüyada görülen, 2. korkuluk  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > o ḫayālden geç bu gerçek cāna gel
+- 1874
+  > etrafa istila eden hafif zulmet içinde hayal meyal yelkenlerini görür
+- 1883, Tercüman-ı Hakikat - gazete
+  > hayal perest şairler gibi
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/hayal
+
+**TDK** — köken kaydı: Arapça ḫayāl · anlam: Zihinde tasarlanan, canlandırılan ve gerçekleşmesi özlenen şey; imge, hülya
+
+### rüya
+
+**Nişanyan — rüya**
+
+Zincir (eskiden yeniye):
+- Arapça › raˀā › gördü  [türeme]
+- Arapça › ruˀyā › görüngü, düş  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1665, Evliya Çelebi — Seyahatname
+  > rüyâ-yı sâliha-i hakîr Evliyâ-yı bî-riyâ
+- 1680, Meninski — Thesaurus
+  > rūyāde görmek ... taˁbīri rūyā
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/r%C3%BCya
+
+**TDK** — köken kaydı: Arapça ruʾyā · anlam: ► düş
+
+### niyet
+
+**Nişanyan — niyet**
+
+Zincir (eskiden yeniye):
+- Arapça › nawā › niyet etti, tasarladı  [türeme]
+- Arapça › niyya(t) › plan, tasarı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1069, Yusuf Hacib — Kutadgu Bilig
+  > niyat eḏgü kılsa köŋülde kişi [gönülde iyi niyet kılsa]
+- 1873, Teodor Kasap — Diyojen / Çıngıraklı Tatar/ Hayal - dergi
+  > tebrike niyetlendim ise de
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > sū-i niyet
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/niyet
+
+**TDK** — köken kaydı: Arapça niyyet · anlam: Bir şeyi yapmaya önceden karar verme; düşünce, endişe
+
+### karar
+
+**Nişanyan — karar**
+
+Zincir (eskiden yeniye):
+- Arapça › ḳarra › durdu, kaldı, karar kıldı, karar verdi  [türeme]
+- Arapça › ḳarār › 1. durma, sabit olma, istikrar, 2. tereddüd zıddı, kesin hüküm veya tercih  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1069, Yusuf Hacib — Kutadgu Bilig
+  > tüpi yil turur bu ajun (...) kölike turur ḳarārı yok [bu dünyanın esası yeldir, gölgedir kararı/istikrarı yoktur]
+- 1300, anon. — Mukaddimetü'l-Edeb terc.
+  > ḳarārsız ḳıldı anı ḳorḳunc [korku onu kararsız kıldı]
+- 1870, Düstur Tertip I.-IV.
+  > īcār olunan emlāk ve arazi vergüsünüŋ tahsiline dair ḳarārnāme
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/karar
+
+**TDK** — köken kaydı: Arapça ḳarār · anlam: Bir iş veya sorun hakkında düşünülerek verilen kesin yargı
+
+### sebep
+
+**Nişanyan — sebep**
+
+Zincir (eskiden yeniye):
+- Arapça › sabab › 1. ip, urgan, 2. yol, rota, vasıta, araç, 3. gerekçe  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1069, Yusuf Hacib — Kutadgu Bilig
+  > taḳı bir säbäb kör bu eḏgü isiz [iyiliğe ve kötülüğe götüren, gör, bir başka sebep/yol]
+- 1437, Ömer b. Mezîd — Mecmuatü'n-nezâir
+  > ki ol sebebden anıŋula olmışam adaşlar
+- 1530, Bergamalı Kadri Ef. — Müyessiretü'l-Ulûm
+  > kalem bir nesnedür ki bunuŋ sebebi ile kişi yazmasın kitāba ulaşdurur.
+
+Not: Orijinal anlamı "yol" olup, bugünkü yaygın anlamı mantıkçıların ıstılahıdır. İlk anlamı sebeplenmek "yolunu bulmak" deyiminde korunur. • Arapça sözcüğün sabba "sövdü, tahrik etti" fiiliyle anlam bağı kurulamaz.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sebep
+
+**TDK** — köken kaydı: Arapça sebeb · anlam: Bir şeyin olmasına veya belli bir hâlde bulunmasına yol açan şey; neden, saik, saika, vesile
+
+### netice
+
+**Nişanyan — netice**
+
+Zincir (eskiden yeniye):
+- Arapça › nataca › (hayvan) doğurdu  [türeme]
+- Arapça › natīca(t) › hayvan yavrusu, semere, ürün  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1451, anon. — Ferec ba'd eş-şidde
+  > Siz ol güher-dar ağaclaruŋ kerametini ḫah [ister] padeşahuŋ ˀadli, inṣafı ṣemeresi dut, ḫah raˁiyyetüŋ helalḫorlığunuŋ netiycesi dut
+- 1665, Evliya Çelebi — Seyahatname
+  > Netîce-i kelâm esîrlerimizden bin altmış kadar mümtâz gılmân u bintânları [seçme oğlan ve kısları] serhadlilere ucuz bahâ ile verüp
+
+Not: Kamus-ı Muhit: "en-netîcet: Döle denir. Cemˁi netâˀic gelir. Mantıkîyyûnun sugrâ ve kübrâ iktirânından hâsıl olan kaziyyeye netîcet ıtlâk eylemeleri [mantıkçıların büyük ve küçük öncül çiftleşmesinden doğan önermeye netice demeleri] bu maˁnâdandır."
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/netice
+
+**TDK** — köken kaydı: Arapça netīce · anlam: ► sonuç
+
+### hayat
+
+**Nişanyan — hayat**
+
+Zincir (eskiden yeniye):
+- Ugarit dili › ḥyt › yaşam  [eşkökenlilik]
+- İbranice › ḥay/ḥayah › canlı (sıfat), canlı varlık, hayvan (ad)  [eşkökenlilik]
+- Arapça › ḥayya › canlı idi, yaşar idi  [türeme]
+- Arapça › ḥayā(t) › 1. canlı olma, yaşama, 2. yaşam  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > Öldi maˁdinde yine buldı hayât / Ol hayâtdan bitdi bu cümle nebât
+- 1665, Evliya Çelebi — Seyahatname
+  > Muş sahrāsı ḫaracı ḫānın ḳayd-ı ḥayātiyle ocaklık ḫāssıdır
+- 1914, Servet-i Fünun - dergi
+  > Ben kendimi bildim bileli bizde gece hayatı donanma gecesidir
+
+Not: 1930-1955 döneminde hayat kadını deyimi "kariyer sahibi kadın, ev kadını zıddı" anlamında kullanılmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/hayat
+
+**Nişanyan — hayat2**
+
+Zincir (eskiden yeniye):
+- Arapça › ḥāṭa › çitle çevirdi, kuşattı  [türeme]
+- Arapça › ḥāˀiṭ › çevre duvarı, çit  [türeme]
+- Arapça › ḥayāṭ › 1. duvarlar, çitler, 2. çitle çevrili avlu, dış duvar içinde fakat ev kapısı dışında olan alan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1377, Erzurumlu Darir — Kıssa-i Yusuf terc.
+  > sürüp ol nābekār çün köşke geldi / ḥayāṭuŋ [avlunun] kapusin çünki buldu
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/hayat2
+
+**TDK** — köken kaydı: Arapça ḥayāt · anlam: Canlı, sağ olma durumu
+
+### ömür
+
+**Nişanyan — ömür**
+
+Zincir (eskiden yeniye):
+- Arapça › ˁamara › canlandırdı, can verdi  [türeme]
+- Arapça › ˁumr › yaşam  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1250?, Edib Ahmed — Atebet-ül Hakayık
+  > keçir sen me ˁumruŋ könilik öze [sen de ömrünü doğrulukla geçir]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%B6m%C3%BCr
+
+**TDK** — köken kaydı: Arapça ʿumr · anlam: ► yaşam
+
+### nefes
+
+**Nişanyan — nefes**
+
+Zincir (eskiden yeniye):
+- Akatça › napāşu › soluk alma  [eşkökenlilik]
+- Aramice-Süryanice › naphşā/npheşā › a.a.  [eşkökenlilik]
+- Arapça › nafas › soluk  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1069, Yusuf Hacib — Kutadgu Bilig
+  > nafas tın toḳurḳa sanı belgülüg [soluyacak soluğun sayısı belli]
+- 1303, Codex Cumanicus
+  > flatus - Tr: nafas
+- 1680, Meninski — Thesaurus
+  > nefes darlığı: tenk nefes, pro quo vul. usit. tek nefes
+
+Not: Tıknefes deyimi Ar ḍıyḳu nafas ضيق النفس veya Fa tang nafas تنگ نفس "nefes darlığı" ifadesinden dönüşmüştür.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/nefes
+
+**TDK** — köken kaydı: Arapça nefes · anlam: ► soluk
+
+### ruh
+
+**Nişanyan — ruh**
+
+Zincir (eskiden yeniye):
+- İbranice › raoḥ › a.a.  [eşkökenlilik]
+- Aramice-Süryanice › rūḥ › nefes, soluk, esinti, ruh, esin, vahiy  [eşkökenlilik]
+- Arapça › rūḥ › nefes, soluk, esinti, ruh, (mec.) güzel koku  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > baˁżı ḫalḳuŋ rūḥ-ı ḳudsī cānıdur
+- 1330, Aşık Paşa — Garib-name
+  > zīrā ki gök ˁālemi rūḥānīdür
+- 1546, Latifî — Tezkîretü'ş-Şuarâ
+  > ol ḥażretüŋ rûhâniyyetlerinden ˁâlem-i velâyete yetişmişler
+
+Not: Felsefede EYun pneûma ve Lat spiritus "nefes, ruh" karşılığıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ruh
+
+**TDK** — köken kaydı: Arapça rūḥ · anlam: ► can
+
+### beden
+
+**Nişanyan — beden**
+
+Zincir (eskiden yeniye):
+- Arapça › badan › 1. (uzuvlar ve baş hariç) insan gövdesi, torso, 2. kolsuz kısa gömlek veya zırh  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > maˁlūm oldu bu beden birin birin/eytdük ol cevherlerüŋ yérlü yérin
+- 1423, Yazıcızade Ali — Tarih-i Âl-i Selçuk
+  > her burc ve bedenden, ki her birisi bir pulad dağ gibi-y-idi, kemendler atup çıkdılar
+- 1928, Son Saat - gazete
+  > şehrimizde yüksek bir bedii beden terbiyesi mektebi açmaya karar vermiştir
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/beden
+
+**TDK** — köken kaydı: Arapça beden · anlam: İnsan ve hayvan vücudunda baş, kol ve bacaklar dışında kalan bölüm; gövde
+
+### sıhhat
+
+**Nişanyan — sıhhat**
+
+Zincir (eskiden yeniye):
+- Arapça › ṣaḥḥa › sağ idi, doğru idi  [türeme]
+- Arapça › ṣiḥḥa(t) › sağ olma, sağlık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > ol tiryāḳa beŋzer bilene / kim Çalap'tan ṣıḥḥat irer kılana
+- 1680, Meninski — Thesaurus
+  > Sahhatler ola: Sit saluti, prosit
+- 1840, Ceride-i Havadis - gazete
+  > bu tezkire yol tezkiresinden başka olub ismine tezkire-i sıhhiye ıtlak olunur.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/s%C4%B1hhat
+
+**TDK** — köken kaydı: Arapça ṣiḥḥat · anlam: ► sağlık
+
+### maraz
+
+**Nişanyan — maraz**
+
+Zincir (eskiden yeniye):
+- Akatça › marāṣu › hasta olmak  [eşkökenlilik]
+- Arapça › mariḍa › hasta idi  [türeme]
+- Arapça › maraḍ › hastalık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > bir marażdur kim anuŋ tīmārı [tedavisi] yok
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/maraz
+
+**TDK** — köken kaydı: Arapça maraż · anlam: ► hastalık
+
+### ilaç
+
+**Nişanyan — ilaç**
+
+Zincir (eskiden yeniye):
+- Arapça › ˁilāc › ilaç, derman  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1310, Rabguzi — Kısasü'l-Enbiya terc.
+  > Yūsuf aydı: anıŋ ˁilācı ṣabr turur ṣabr kılğıl.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ila%C3%A7
+
+**TDK** — köken kaydı: Arapça ʿilāc · anlam: Bir hastalığı iyi etmek veya önlemek için türlü yollarla kullanılan madde; daru, em, ot
+
+### merhem
+
+**Nişanyan — merhem**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *mel-1 › gevşemek, yumuşamak  [türeme]
+- Hintavrupa Anadili › *mel-ag- › a.a.  [ses evrimi]
+- Eski Yunanca › malássō, malag- › yumuşatmak  [türeme]
+- Eski Yunanca › málagma(t) › a.a., özellikle sepicilikte kullanılan yumuşatıcı bileşim  [alıntı]
+- Arapça › malġam/malham › alaşım, bulamaç, krem  [veya]
+- Farsça › marham/malham  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > unguentum - Fa & Tr: malahan
+- 1330, Aşık Paşa — Garib-name
+  > merhemi bir yirde idi derdinüŋ
+- 1580, Deşişî Mehmed Ef. — Et-Tuhfetu's-Seniyye
+  > merhem [Fa.]: Cerāhāt üzere urdukları. Avām tahrīf idüp melhem dir.
+
+Not: Ar sözcük en erken Binbir Gece Masallarında (9. yy) kaydedilmiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/merhem
+
+**TDK** — köken kaydı: Arapça merhem · anlam: Deriye sürülerek kullanılan, içinde birçok etken madde bulunan, yumuşak ve koyu kıvamda, yağlı ilaç
+
+### mide
+
+**Nişanyan — mide**
+
+Zincir (eskiden yeniye):
+- Arapça › ˁadā › (öteye, başka yere) geçti  [muhtemel türeme]
+- Arapça › maˁida(t)/maˁda(t) › kursak  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > stomacus - Fa: made - Tr: kursak
+- 1330, Aşık Paşa — Garib-name
+  > iltür anı maˁdeye pes cāẕibe [yer çekimi onu mideye iletir]
+- 1680, Meninski — Thesaurus
+  > miˁdet & maˁıdet seu usit. miˁde: Ventriculus, stomachus.
+
+Not: Erken Türkçe metinlerde çoğu zaman maˁde veya maˁıde kullanılır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/mide
+
+**TDK** — köken kaydı: Arapça miʿde · anlam: Omurgalılarda, sindirim sisteminin, yemek borusu ile onikiparmak bağırsağı arasında besinlerin sindirime hazır duruma getirildiği; omurgasız hayvanlarda ise sindirim kanalının bu bölgeye karşılık olan parçası; karın
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - Nişanyan ilişki alanında **"tahmine dayalı"**, **"tartışmalı"**,
+     **"belirsiz"** veya benzeri bir kayıt varsa `formationType` değerini
+     `"tartışmalı"` yap ve `alternatives` dizisini doldur.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `en` İngilizce · `la` Latince · `de` Almanca · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "akıl",
+    "word": "akıl",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁaḳala", "meaning": "dizginlemek; düşünerek değerlendirmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ˁaḳl", "meaning": "ölçülü düşünme ve yargılama gücü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "akıl", "meaning": "düşünme ve kavrama yetisi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Düşünme, kavrama ve yargılama yetisi.",
+    "currentMeaning": "İnsanın düşünmesini, ilişkileri kavramasını ve değerlendirme yapmasını sağlayan yeti.",
+    "story": "Akıl sözünün ardında, hareketi sınırlayan bir bağ ve dizgin resmi vardır. Arapçada ˁaḳala, hem dizginlemeyi hem de bir şeyi düşünerek değerlendirmeyi anlatıyordu. Bu fiilden doğan ˁaḳl, insanın düşüncesine ölçü koyan yetinin adı oldu. Türkçede akıl, bu denetleme fikrini de taşıyarak düşünme ve kavrama gücünü anlatır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "aḫel"},
+    "relatives": [
+      {"word": "akıllı", "relation": "türev"},
+      {"word": "akılsız", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "akıl maddesi", "url": "https://www.nisanyansozluk.com/kelime/ak%C4%B1l"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "akıl maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "fikir",
+    "word": "fikir",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "fakara", "meaning": "düşünmek ve akıl işletmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "fikr", "meaning": "düşünme yoluyla oluşan düşünce", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fikir", "meaning": "düşünce veya görüş", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir konuda oluşan düşünce veya görüş.",
+    "currentMeaning": "Zihinde oluşan düşünce, bir konuya ilişkin görüş ya da tasarı.",
+    "story": "Fikir, Arapçada düşünme eylemini anlatan fakara ile aynı ailede doğdu. Bu eylemden türeyen fikr, zihnin çalışmasıyla ortaya çıkan düşünceyi adlandırdı. Türkçeye geçerken fikr biçiminin iki son ünsüzü arasına bir ünlü yerleşti; düşünmenin ürünü olan fikir böylece bugünkü ses yapısına kavuştu.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "fikr"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fikir maddesi", "url": "https://www.nisanyansozluk.com/kelime/fikir"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "fikir maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zihin",
+    "word": "zihin",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ẕihn", "meaning": "kavrama ve düşünme yetisi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "zihin", "meaning": "düşünme ve anlama süreçlerinin bütünü", "period": "14. yy veya öncesi", "reconstructed": false}
+    ],
+    "shortMeaning": "Düşünme, anlama ve hatırlama süreçlerinin bütünü.",
+    "currentMeaning": "Duygu ve davranışların dışında kalan düşünme, anlama ve hatırlama gibi ruhsal süreçlerin bütünü.",
+    "story": "Arapçadaki ẕihn, insanın karşısındaki şeyi anlayıp kavrayabilmesini adlandırıyordu. Türkçedeki eski kullanımlarda zihnin açılmasından ya da bozulmasından söz edilmesi, bu yetinin işleyişine odaklanıldığını gösterir. Bugün zihin, düşüncelerin oluştuğu ve işlendiği süreçlerin bütünü için kullanılır.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1400 öncesi", "form": "ẕihni"},
+    "relatives": [
+      {"word": "zihinsel", "relation": "türev"},
+      {"word": "zihniyet", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "zihin maddesi", "url": "https://www.nisanyansozluk.com/kelime/zihin"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "zihin maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hafıza",
+    "word": "hafıza",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥafaẓa", "meaning": "koruyup saklamak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥāfiẓa(t)", "meaning": "koruyan, saklayan dişil varlık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hafıza", "meaning": "bilgi ve yaşantıları bellekte tutma yetisi", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bilgi ve yaşantıları saklayıp hatırlama yetisi.",
+    "currentMeaning": "Öğrenilenleri ve yaşananları zihinde tutmayı, gerektiğinde yeniden hatırlamayı sağlayan bellek.",
+    "story": "Hafızanın geçmişinde bir şeyi kaybolmasın diye koruyup saklama işi vardır. Arapça ḥafaẓa fiilinden türeyen ḥāfiẓa, saklayan varlığı anlatıyordu. Türkçede önce kuvvet-i hafıza ifadesinde görülen bu koruyucu görev, bilginin zihinde tutulmasına uygulandı. Hafıza böylece yaşananları ve öğrenilenleri saklayan yetinin adı oldu.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "hāfıza"},
+    "relatives": [
+      {"word": "muhafaza", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hafıza maddesi", "url": "https://www.nisanyansozluk.com/kelime/haf%C4%B1za"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hafıza maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hayal",
+    "word": "hayal",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫāla", "meaning": "öyle olduğunu sanmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḫayāl", "meaning": "düşte beliren görüntü; korkuluk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hayal", "meaning": "zihinde canlandırılan görüntü veya tasarı", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Zihinde canlandırılan görüntü, istek veya tasarı.",
+    "currentMeaning": "Gerçekte bulunmasa da zihinde canlandırılan görüntü ya da gerçekleşmesi arzulanan tasarı.",
+    "story": "Hayalin gerisindeki Arapça ḫāla fiili, bir şeyi öyle sanmayı anlatıyordu. Ondan türeyen ḫayāl, uykuda beliren görüntüyü adlandırdı; görünen şey ile gerçek arasındaki mesafe kelimenin merkezindeydi. Türkçede hayal, bu görüntü alanından zihinde kurulan tasarılara ve gerçekleşmesi özlenen şeylere uzandı.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ḫayālden"},
+    "relatives": [
+      {"word": "hayalperest", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": "Hayalin Arapçadaki eski karşılıklarından biri, tarlaya dikilen korkuluktur.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hayal maddesi", "url": "https://www.nisanyansozluk.com/kelime/hayal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hayal maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "rüya",
+    "word": "rüya",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "raˀā", "meaning": "görmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ruˀyā", "meaning": "düşte görülen görüntü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rüya", "meaning": "uykuda yaşanan düş", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Uykuda görülen görüntü ve yaşantılar.",
+    "currentMeaning": "Uyku sırasında zihinde beliren görüntülerin, olayların ve yaşantıların oluşturduğu düş.",
+    "story": "Rüyanın başlangıcında Arapça raˀā, yani görme eylemi bulunur. Bu eylemden doğan ruˀyā, göz önünde beliren bir görüngüyü ve uykudaki düşü adlandırdı. Türkçede rüya, uyurken yaşanan bu görme deneyimini anlatmayı sürdürür; rüya görmek ifadesi de kelimenin kökündeki eylemi yeniden söyler.",
+    "firstAttestation": {"source": "Evliya Çelebi — Seyahatname", "period": "1665", "form": "rüyā"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "rüya maddesi", "url": "https://www.nisanyansozluk.com/kelime/r%C3%BCya"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rüya maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "niyet",
+    "word": "niyet",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nawā", "meaning": "bir işi yapmayı tasarlamak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "niyya(t)", "meaning": "yapılması düşünülen iş, tasarı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "niyet", "meaning": "bir şeyi yapmaya yönelik düşünce", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyi yapmaya yönelik önceden oluşmuş düşünce.",
+    "currentMeaning": "Henüz eyleme geçmeden bir işi yapmaya yönelme ve onu gerçekleştirmeyi düşünme durumu.",
+    "story": "Arapça nawā, henüz yapılmamış bir işi zihinde tasarlamayı anlatıyordu. Bu fiilden türeyen niyya, eylemin kendisinden önce gelen planı adlandırdı. Türkçedeki erken kullanımında da insanın gönlünde taşıdığı yöneliş öne çıkar; niyet bugün aynı biçimde yapılacak işin düşüncedeki başlangıcını anlatır.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "niyat"},
+    "relatives": [
+      {"word": "niyetlenmek", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "niyet maddesi", "url": "https://www.nisanyansozluk.com/kelime/niyet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "niyet maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "karar",
+    "word": "karar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḳarra", "meaning": "durmak, yerinde kalmak; bir seçime varmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḳarār", "meaning": "sabitlik; kesinleşmiş hüküm veya seçim", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "karar", "meaning": "düşünme sonunda kesinleşen yargı", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Düşünme sonunda varılan kesin yargı veya seçim.",
+    "currentMeaning": "Bir konu ya da sorun üzerine düşünüldükten sonra benimsenen kesin yargı veya tercih.",
+    "story": "Kararın Arapçadaki geçmişi, durmak ve bir yerde kalmakla başlar. Ḳarār, hem yerinden oynamayan bir durumu hem de tereddüdün sona erdiği kesin seçimi anlatıyordu. Türkçedeki erken tanıklığında dünyanın kalıcı olmayışı bu kelimeyle dile getirilir. Bugünkü karar vermekte de düşüncenin seçenekler arasında dolaşıp birinde durması fikri yaşar.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "ḳarārı"},
+    "relatives": [
+      {"word": "kararsız", "relation": "türev"},
+      {"word": "kararname", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "karar maddesi", "url": "https://www.nisanyansozluk.com/kelime/karar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "karar maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sebep",
+    "word": "sebep",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sabab", "meaning": "ip; bir yere ulaştıran yol veya araç; gerekçe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sebep", "meaning": "bir durumu ortaya çıkaran etken", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir olayın veya durumun ortaya çıkmasına yol açan şey.",
+    "currentMeaning": "Bir olayın gerçekleşmesini ya da bir durumun oluşmasını sağlayan etken veya neden.",
+    "story": "Arapça sabab, ip gibi somut bir nesneyi de bir yere ulaştıran yolu ve aracı da adlandırıyordu. Bu anlam alanında öne çıkan ortak düşünce, bir şeye ulaşmayı sağlamaktı. Mantık dilinde kelime, bir sonuca götüren gerekçeye uygulandı. Türkçedeki sebep de bir olayın hangi yoldan ortaya çıktığını anlatan neden sözüne dönüştü.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "säbäb"},
+    "relatives": [
+      {"word": "sebeplenmek", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sebep maddesi", "url": "https://www.nisanyansozluk.com/kelime/sebep"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sebep maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "netice",
+    "word": "netice",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nataca", "meaning": "hayvanın yavru doğurması", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "natīca(t)", "meaning": "doğan yavru; ortaya çıkan ürün", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "netice", "meaning": "bir süreçten doğan sonuç", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir işin, olayın veya düşünme sürecinin sonucu.",
+    "currentMeaning": "Bir olay, işlem ya da düşünme süreci sonunda ortaya çıkan durum veya ürün.",
+    "story": "Neticenin başlangıcında hayvanın yavru doğurması vardır. Arapça nataca fiilinden türeyen natīca, doğan yavruyu, ardından bir şeyden elde edilen ürünü adlandırdı. Mantıkçılar iki öncülden çıkan yargıyı da bu doğum resmiyle anlattılar. Türkçede netice, bir işten veya düşünceden doğan sonuç olarak yerleşti.",
+    "firstAttestation": {"source": "Ferec ba'd eş-şidde", "period": "1451", "form": "netiycesi"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "netice maddesi", "url": "https://www.nisanyansozluk.com/kelime/netice"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "netice maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hayat",
+    "word": "hayat",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥayya", "meaning": "yaşamak, canlı bulunmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥayā(t)", "meaning": "canlılık ve yaşama durumu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hayat", "meaning": "yaşam, canlı olma durumu", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Canlı olma durumu ve sürdürülen yaşam.",
+    "currentMeaning": "Bir varlığın canlı olması ve yaşamını sürdürmesi durumu.",
+    "story": "Hayat, Arapçada canlı bulunmayı anlatan ḥayya fiilinden doğdu. Bu fiilin adı olan ḥayā, yaşayan varlığın durumunu dile getiriyordu. Türkçede de önce canlılığı anlatan kelime, gece hayatı gibi ifadelerde yaşamanın belirli alanlarını adlandıracak biçimde genişledi.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "hayāt"},
+    "relatives": [
+      {"word": "ḥay/ḥayah", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "1930-1955 arasında hayat kadını ifadesi, meslek sahibi kadınlar için de kullanılıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hayat maddesi, yaşam anlamı", "url": "https://www.nisanyansozluk.com/kelime/hayat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hayat maddesi, canlı olma anlamı", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ömür",
+    "word": "ömür",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁamara", "meaning": "canlılık kazandırmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ˁumr", "meaning": "yaşama, yaşam", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ömür", "meaning": "bir canlının yaşadığı süre", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir canlının yaşadığı süre.",
+    "currentMeaning": "Bir canlının doğumundan ölümüne kadar sürdürdüğü yaşam ve bu yaşamın süresi.",
+    "story": "Ömrün Arapçadaki kökü ˁamara, bir şeye canlılık kazandırmayı anlatıyordu. Aynı kökten türeyen ˁumr, yaşamın adı oldu. Türkçede ömür, bu canlılığı zaman boyutuyla anlatır; geçirilen, uzayan veya sona eren yaşam süresini öne çıkarır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ömür maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%B6m%C3%BCr"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ömür maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nefes",
+    "word": "nefes",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nafas", "meaning": "alınıp verilen soluk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nefes", "meaning": "solunum sırasında alınan veya verilen hava", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Solunum sırasında alınan veya verilen soluk.",
+    "currentMeaning": "Solunumla içeri alınan ya da dışarı verilen hava ve bu alıp verme hareketi.",
+    "story": "Nefes, Arapça nafas biçiminde göğse girip çıkan soluğu adlandırıyordu. Akkadca ve Aramice-Süryanicedeki akrabaları da soluk alma çevresinde toplanır. Türkçeye geçtiğinde kelime bu bedensel anlamını korudu; eski kullanımında insanın yaşamı, alacağı solukların sayısıyla anlatılır.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "nafas"},
+    "relatives": [
+      {"word": "napāşu", "relation": "eş köken"},
+      {"word": "naphşā/npheşā", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nefes maddesi", "url": "https://www.nisanyansozluk.com/kelime/nefes"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nefes maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ruh",
+    "word": "ruh",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "rūḥ", "meaning": "soluk, hafif rüzgâr; can; mecazen hoş koku", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ruh", "meaning": "can, varlığın manevi yönü", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Can veya insanın manevi varlığı.",
+    "currentMeaning": "Canlılığı sağlayan manevi varlık olarak düşünülen can; insanın bedensel olmayan yönü.",
+    "story": "Ruhun Arapçadaki karşılığı rūḥ, hem soluğu ve esintiyi hem de canı adlandırıyordu. Böylece hissedilen hava hareketi ile bedene yaşam veren görünmez varlık aynı kelimede buluştu. Türkçeye taşınan ruhun manevi anlamının arkasında bu nefes resmi vardır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "rūḥ"},
+    "relatives": [
+      {"word": "ruhani", "relation": "akraba"},
+      {"word": "ruhaniyet", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": "Eski Yunanca pneûma ve Latince spiritus da hem nefesi hem ruhu anlatır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ruh maddesi", "url": "https://www.nisanyansozluk.com/kelime/ruh"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ruh maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "beden",
+    "word": "beden",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "badan", "meaning": "insanın gövdesi; kısa kolsuz giysi veya zırh", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "beden", "meaning": "gövde; vücudun bütünü", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Gövde veya vücudun bütünü.",
+    "currentMeaning": "Baş, kol ve bacakların bağlandığı gövde; geniş kullanımda insanın veya hayvanın bütün vücudu.",
+    "story": "Arapça badan, vücudun baş ve uzuvlar dışında kalan orta bölümünü adlandırıyordu. Aynı kelime kısa, kolsuz bir giysi veya zırh için de kullanılıyor; gövde ile onu örten parça aynı ad altında buluşuyordu. Türkçede beden, gövde anlamını korurken vücudun tamamını da anlatacak biçimde kullanılır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "beden"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "beden maddesi", "url": "https://www.nisanyansozluk.com/kelime/beden"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "beden maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sıhhat",
+    "word": "sıhhat",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ṣaḥḥa", "meaning": "sağlıklı veya doğru olmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ṣiḥḥa(t)", "meaning": "sağlıklı bulunma durumu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sıhhat", "meaning": "sağlık", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Sağlıklı olma durumu.",
+    "currentMeaning": "Vücudun sağlıklı olması, hastalık veya rahatsızlık bulunmaması durumu.",
+    "story": "Sıhhatin dayandığı Arapça ṣaḥḥa fiili, hem sağlıklı olmayı hem de doğru olmayı anlatıyordu. Bedenin iyi durumda olması ile bir şeyin doğru çıkması aynı kökte buluştu. Bu kökten doğan ṣiḥḥa, Türkçede sağlık adı olarak yerleşti ve sıhhatler olsun dileğinde yaşamayı sürdürdü.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ṣıḥḥat"},
+    "relatives": [
+      {"word": "sıhhiye", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sıhhat maddesi", "url": "https://www.nisanyansozluk.com/kelime/s%C4%B1hhat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sıhhat maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "maraz",
+    "word": "maraz",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mariża", "meaning": "hastalık hâlinde bulunmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maraż", "meaning": "hastalık durumu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "maraz", "meaning": "hastalık, rahatsızlık", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Hastalık veya rahatsızlık.",
+    "currentMeaning": "Sağlığın bozulmasıyla ortaya çıkan hastalık veya rahatsızlık.",
+    "story": "Maraz, Arapçada hasta durumda bulunmayı anlatan mariża fiilinin adlaşmış karşılığıyla bağlantılıdır. Maraż, bedenin bu durumunu hastalık adı altında topladı; Akkadcadaki akrabası da hasta olmayı anlatır. Türkçeye maraz olarak geçen kelime, erken kullanımında tedavisi bulunmayan bir dert için de kullanılmıştır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "marażdur"},
+    "relatives": [
+      {"word": "marāṣu", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "maraz maddesi", "url": "https://www.nisanyansozluk.com/kelime/maraz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "maraz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ilaç",
+    "word": "ilaç",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁilāc", "meaning": "iyileştirici madde veya çare", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ilaç", "meaning": "hastalığı önlemek veya gidermek için kullanılan madde", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Hastalığı önlemek veya iyileştirmek için kullanılan madde.",
+    "currentMeaning": "Bir hastalığı önlemek, tedavi etmek veya etkilerini hafifletmek amacıyla kullanılan madde.",
+    "story": "Arapça ˁilāc, hastalığa karşı kullanılan dermanı ve çareyi adlandırıyordu. Türkçedeki erken bir kullanımda sabır da ilaç olarak sunulur; böylece kelime maddi bir tedavinin ötesinde sıkıntıyı giderecek yolu da anlatır. Bugün ilaç denince öncelikle tedavide kullanılan madde düşünülür, fakat çare olma fikri kelimenin içinde yaşamayı sürdürür.",
+    "firstAttestation": {"source": "Rabguzi — Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "ˁilācı"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ilaç maddesi", "url": "https://www.nisanyansozluk.com/kelime/ila%C3%A7"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ilaç maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "merhem",
+    "word": "merhem",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "mel-", "meaning": "yumuşama, gevşeme", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "mel-ag-", "meaning": "yumuşama, gevşeme", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "malássō, malag-", "meaning": "bir şeyi yumuşatmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "málagma(t)", "meaning": "yumuşatıcı karışım, özellikle deri işlemede kullanılan bileşim", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "marham/malham", "meaning": "sürülerek kullanılan iyileştirici karışım", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "merhem", "meaning": "deriye sürülen koyu kıvamlı ilaç", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Deriye sürülerek kullanılan koyu kıvamlı ilaç.",
+    "currentMeaning": "Etken maddeler içeren, deriye sürülen, yumuşak ve yoğun kıvamlı yağlı ilaç.",
+    "story": "Merhemin uzak geçmişinde yumuşatma işi vardır: Eski Yunanca málagma, özellikle deri işlemede kullanılan yumuşatıcı karışımı adlandırıyordu. Bu adın ardındaki fiil de yumuşatmayı anlatır ve daha eski Hint-Avrupa biçimlerine bağlanır. Türkçeye gelişinde Farsça marham ile Arapça malġam/malham biçimlerinin rolü konusunda kaynaklar farklı açıklamalar verir. Bugünkü merhem, bu karışım fikrini deriye sürülen koyu kıvamlı ilaçta sürdürür.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "malahan"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Eski Yunanca geçmişi açıklar ve Türkçeye aktarımda Farsça marham/malham ile Arapça malġam/malham seçeneklerini verir; zincirde Farsça seçenek gösterilmiştir.",
+      "TDK Güncel Türkçe Sözlük, Türkçedeki merhemin doğrudan kaynağını Arapça merhem olarak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "merhem maddesi", "url": "https://www.nisanyansozluk.com/kelime/merhem"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "merhem maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mide",
+    "word": "mide",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ˁadā", "meaning": "bir yerden ötekine geçmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maˁida(t)/maˁda(t)", "meaning": "besinin toplandığı kursak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mide", "meaning": "yemek borusundan gelen besini işleyen sindirim organı", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yemek borusu ile ince bağırsak arasındaki sindirim organı.",
+    "currentMeaning": "Omurgalılarda yemek borusuyla onikiparmak bağırsağı arasında bulunan ve besinleri işleyen organ; omurgasızlarda sindirim kanalının buna karşılık gelen bölümü.",
+    "story": "Mide, Arapça maˁida veya maˁda biçiminde besinin toplandığı kursağı adlandırıyordu. Bu adın bir yerden ötekine geçmeyi anlatan ˁadā fiiliyle bağlantısı muhtemeldir; böyle bir bağlantı organı besinin geçişi üzerinden açıklar. Türkçenin erken metinlerinde maˁde ve maˁıde biçimleri görülür, daha sonra mide biçimi yerleşir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "maˁdeye"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, maˁida(t)/maˁda(t) biçimini ˁadā fiiline muhtemel bir türeme ilişkisiyle bağlar; zincirin ilk iki halkası arasındaki ilişki kesin değildir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mide maddesi", "url": "https://www.nisanyansozluk.com/kelime/mide"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mide maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+26,251

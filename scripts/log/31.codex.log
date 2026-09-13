@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "şeamet",
+    "word": "şeamet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şiˀāma(t)", "meaning": "sol yan; talihin kötü gitmesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şeamet", "meaning": "kötü talih, uğursuzluk", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Uğursuz olma durumu.",
+    "currentMeaning": "Uğursuzluk, kötü talih.",
+    "story": "Arapça şiˀāma(t), sol yanı ve kötü talihi aynı kelimede buluşturuyordu. Böylece bir yönü gösteren somut anlamın yanında, işlerin ters gitmesini anlatan bir anlam da taşıyordu. Türkçede şeamet denildiğinde bu ikinci anlam, yani uğursuzluk öne çıktı.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "şeemet"},
+    "relatives": [{"word": "şuˀm", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şeamet maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Feamet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şeamet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "vesamet",
+    "word": "vesamet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "wasāma(t)", "meaning": "güzel yüzlü olma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "vesamet", "meaning": "yüzün güzel olması", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüzün güzel olması.",
+    "currentMeaning": "Güzel yüzlü olma, yüz güzelliği.",
+    "story": "Arapça wasāma(t), insan yüzünün güzel görünüşünü adlandırır. Türkçeye vesamet biçiminde taşınan kelimede de güzelliğin odağında yüz bulunur; anlamın merkezinde bir insanın görünüşünün uyandırdığı beğeni vardır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [],
+    "confidence": null,
+    "reviewed": false
+  },
+  {
+    "id": "fecaat",
+    "word": "fecaat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "facīˁa(t)", "meaning": "derin acıya yol açan felaket", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fecaat", "meaning": "insana büyük acı veren durum", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Derin acı ve üzüntü uyandıran durum.",
+    "currentMeaning": "İnsanda çok büyük acı ve üzüntü uyandıran, yürek burkan durum.",
+    "story": "Arapça facīˁa(t), insanın başına gelen bir felaketi yaşattığı acıyla birlikte adlandırıyordu. Türkçedeki fecaat de olayın yalnızca kötü oluşunu değil, yürek burkan ağırlığını taşır. Anlamın merkezinde, yaşanan durumun insanda bıraktığı derin acı bulunur.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "fecīˁat"},
+    "relatives": [{"word": "facia", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fecaat maddesi", "url": "https://www.nisanyansozluk.com/kelime/fecaat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "fecaat", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müstetir",
+    "word": "müstetir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "istitār", "meaning": "kendini gizleme", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mustetir", "meaning": "gözden gizlenen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müstetir", "meaning": "gizlenen veya saklı duran", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gizlenen veya saklı duran.",
+    "currentMeaning": "Göz önünde bulunmayan, gizlenen ya da saklı duran.",
+    "story": "Kelimenin arkasında Arapçadaki istitār, yani kendini gizleme eylemi vardır. Bu eylemi gerçekleştiren için kullanılan mustetir, Türkçede müstetir biçimini aldı. Gizlenme hareketinden geriye, göz önünde olmayanı niteleyen bir sıfat kaldı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "müstetir maddesi", "url": "https://lugatim.com/s/m%C3%BCstetir"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hacalet",
+    "word": "hacalet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫacālet", "meaning": "utanç duyma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hacalet", "meaning": "utanma duygusu", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Utanma ve mahcup olma duygusu.",
+    "currentMeaning": "Bir durum karşısında duyulan utanç ve mahcubiyet.",
+    "story": "Arapça ḫacālet, insanın mahcup olduğu anda yaşadığı duyguyu adlandırır. Türkçeye geçerken bu duygu odağını korudu; hacalet, utanmanın ve mahcup hissetmenin adı olarak kullanıldı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "hacalet maddesi", "url": "https://lugatim.com/s/hacalet"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hafakan",
+    "word": "hafakan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫafaḳa", "meaning": "titredi, yüreği hızla çarptı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḫafaḳān", "meaning": "titreme ve hızlı kalp atışı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hafakan", "meaning": "iç daralması, kalp çarpıntısı", "period": "15. yy başlarından önce", "reconstructed": false}
+    ],
+    "shortMeaning": "İç daralması veya kalp çarpıntısı.",
+    "currentMeaning": "Sıkıntı ve iç daralması; kalbin hızlı çarpması.",
+    "story": "Arapça ḫafaḳa, titreyen bir bedeni ya da hızla atan bir kalbi anlatıyordu. Bu hareketin adı olan ḫafaḳān, Türkçeye hafakan olarak geçti. Türkçede bedensel çarpıntının yanında insanın içini daraltan sıkıntıyı da anlatmaya başladı; yüreğin hareketiyle bunaltı aynı kelimede buluştu.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1410'dan önce", "form": "hafakan"},
+    "relatives": [{"word": "afakan", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hafakan maddesi", "url": "https://www.nisanyansozluk.com/kelime/hafakan"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hafakan", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "halavet",
+    "word": "halavet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥalā", "meaning": "tadı tatlı oldu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥalāwa(t)", "meaning": "tatlı ve şirin olma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "halavet", "meaning": "tatlılık ve sevimli olma niteliği", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Tatlılık ve sevimli olma niteliği.",
+    "currentMeaning": "Tatlı, şirin ve sevimli olma özelliği.",
+    "story": "Halavetin başlangıcında, Arapçada tatlı olmayı anlatan ḥalā vardır. Buradan oluşan ḥalāwa(t), damaktaki tatlılıkla şirinliği bir arada taşır. Türkçede de kelimenin alanı yiyecekle sınırlı kalmaz; insana hoş gelen bir nitelik, tatlılık üzerinden anlatılır.",
+    "firstAttestation": {"source": "Anonim — Nehcü'l-Feradis", "period": "1358", "form": "ḥalāvatı"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "halavet maddesi", "url": "https://www.nisanyansozluk.com/kelime/halavet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "halavet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "halecan",
+    "word": "halecan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫalecān", "meaning": "yüreğin çarpması", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "halecan", "meaning": "yüreğin çarpması", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüreğin çarpması.",
+    "currentMeaning": "Kalpte hissedilen çarpıntı.",
+    "story": "Arapça ḫalecān, kalbin çarpmasını adlandıran bir kelimedir. Türkçeye halecan biçiminde taşındığında da bu bedensel hareketi anlatmayı sürdürdü; kelimenin odağında yürekte hissedilen çarpıntı bulunur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "halecan", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "haşyet",
+    "word": "haşyet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥaşiya", "meaning": "soluğu tıkandı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥaşya(t)", "meaning": "soluğun kesilmesi olduğu varsayılan anlam", "period": null, "reconstructed": true},
+      {"language": "tr", "form": "haşyet", "meaning": "korkuya kapılma", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Korkuya kapılma durumu.",
+    "currentMeaning": "Korku duyma, korkma hâli.",
+    "story": "Haşyetin geçmişi için önerilen açıklamalardan biri, Arapçada soluğun tıkanmasını anlatan ḥaşiya fiiline uzanır. Bu açıklamada korkunun bedende yarattığı nefes kesilmesi, duygunun adına dönüşmüş olabilir. Ancak ara biçim varsayımsaldır ve kelimenin Osmanlı kullanımında oluşmuş olması da mümkündür. Türkçedeki kullanımı korku ve dehşet çevresinde yerleşmiştir.",
+    "firstAttestation": {"source": "Latifî — Tezkîretü'ş-Şuarâ", "period": "1546", "form": "ḥaşyetden"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, ḥaşiya fiiliyle bağlantıyı ve varsayımsal ḥaşya(t) biçimini gösterirken kelimenin Osmanlı kullanımında oluşmuş olabileceğini belirtir.",
+      "TDK Güncel Türkçe Sözlük, kelimeyi Arapça ḫaşyet biçimine bağlar; böylece doğrudan alıntı açıklaması ile Osmanlı kullanımında oluşum varsayımı ayrışır."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "haşyet maddesi", "url": "https://www.nisanyansozluk.com/kelime/ha%C5%9Fyet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "haşyet", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "huşunet",
+    "word": "huşunet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫaşuna", "meaning": "kaba ve iri oldu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḫuşūna(t)", "meaning": "kaba ve iri olma niteliği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "huşunet", "meaning": "sert olma niteliği", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sert olma niteliği.",
+    "currentMeaning": "Sertlik, kaba olma hâli.",
+    "story": "Arapça ḫaşuna, iri ve kaba olmayı anlatırken ḫuşūna(t) bu niteliğin adını koyuyordu. Türkçeye huşunet olarak geçen kelime, sertlik çevresinde yerleşti. Anlam yolculuğunda kaba oluş ile sert oluş arasındaki yakınlık korundu.",
+    "firstAttestation": {"source": "Yadigâr-ı İbni Şerif", "period": "1421'den önce?", "form": "ḫuşūnet"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "huşunet maddesi", "url": "https://www.nisanyansozluk.com/kelime/hu%C5%9Funet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "huşunet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mündemiç",
+    "word": "mündemiç",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "damaca", "meaning": "bir şeyin içine sokuldu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mundamic", "meaning": "birbirinin içine geçmiş, sıkı yapılı, şişman", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mündemiç", "meaning": "bir şeyin içinde bulunan, içkin", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyin içinde bulunan, içkin.",
+    "currentMeaning": "Bir şeyin içinde, onun bünyesinde bulunan; içkin.",
+    "story": "Arapça damaca, bir şeyin içine girme hareketini anlatıyordu; mundamic ise birbirinin içine geçmiş veya sıkıca bir arada bulunan şeyleri niteliyordu. Türkçede mündemiç, bu somut iç içeliği bir düşüncenin ya da ifadenin içinde bulunan unsurlara da taşıdı. Böylece bir şeyin içine sokulmuş olma resmi, onun bünyesinde bulunma anlamına dönüştü.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "mündemic"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Mündemiç, eski kullanımında bir insanı şişman diye nitelemek için de kullanılıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mündemiç maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCndemi%C3%A7"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mündemiç", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müstenkif",
+    "word": "müstenkif",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mustenkif", "meaning": "katılmaktan geri duran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müstenkif", "meaning": "katılmaktan geri duran, çekimser", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Katılmaktan geri duran, çekimser.",
+    "currentMeaning": "Bir konuda katılma veya taraf olma yönünde tutum göstermeyen; çekimser.",
+    "story": "Arapça mustenkif, bir işe katılmaktan geri duran kişiyi anlatır. Türkçedeki müstenkif de bu geri duruşu korur; bir konuda katılma ya da taraf olma yönünde adım atmayan kişinin tutumunu niteler.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müstenkif", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "letafet",
+    "word": "letafet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "laṭafa", "meaning": "cömert davrandı, iyilikte bulundu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "laṭāfa(t)", "meaning": "güzellik ve zarif olma niteliği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "letafet", "meaning": "hoş olma niteliği", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Hoş olma niteliği.",
+    "currentMeaning": "Hoşa gitme, hoş bir etki uyandırma niteliği.",
+    "story": "Letafetin bağlı olduğu Arapça laṭafa fiilinde cömertçe davranma ve iyilikte bulunma vardır. Aynı kökün laṭāfa(t) biçiminde güzellik ve zarafet öne çıkar. Türkçedeki letafet, bu olumlu anlam alanını koruyarak bir şeyin insanda uyandırdığı hoşluğu adlandırır.",
+    "firstAttestation": {"source": "Ahmed-i Daî — Çengname", "period": "1406", "form": "letāfet"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "letafet maddesi", "url": "https://www.nisanyansozluk.com/kelime/letafet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "letafet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "menhus",
+    "word": "menhus",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "naḥasa", "meaning": "kötü talih getirdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "manḥūs", "meaning": "uğursuz sayılan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "menhus", "meaning": "uğursuz sayılan", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Uğursuz sayılan.",
+    "currentMeaning": "Uğursuzluk getirdiği düşünülen.",
+    "story": "Arapça naḥasa, kötü talih getirmeyi anlatıyordu. Bu kökten oluşan manḥūs, uğursuzlukla ilişkilendirilen kişiye ya da şeye yöneltilen bir nitelemeydi. Türkçeye menhus olarak geçtiğinde de kötü talih getirme düşüncesini korudu.",
+    "firstAttestation": {"source": "Latifî — Tezkîretü'ş-Şuarâ", "period": "1546", "form": "menḥūsını"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "menhus maddesi", "url": "https://www.nisanyansozluk.com/kelime/menhus"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "menhus", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mütereddit",
+    "word": "mütereddit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "radda", "meaning": "geriye çevirdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mutaraddid", "meaning": "gidip dönen, karar vermekte duraksayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mütereddit", "meaning": "kararını kesinleştiremeyen", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kararını kesinleştiremeyen.",
+    "currentMeaning": "Bir konuda karar veremeyen, seçenekler arasında duraksayan.",
+    "story": "Arapça radda fiilinde bir şeyi geriye döndürme hareketi vardır. Mutaraddid biçiminde bu hareket, gidip geri dönen kişinin duraksamasıyla birleşir. Türkçedeki mütereddit, düşüncesi seçenekler arasında gidip gelen ve bir kararda duramayan kişiyi anlatır.",
+    "firstAttestation": {"source": "Şeyhoğlu — Marzubânnâme tercümesi", "period": "1380", "form": "mütereddidsin"},
+    "relatives": [{"word": "tereddüt", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mütereddit maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCtereddit"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mütereddit", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mütelezziz",
+    "word": "mütelezziz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "laẕẕa", "meaning": "tadı tatlıydı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mutalaẕẕiẕ", "meaning": "bir şeyden tat duyan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mütelezziz", "meaning": "tat ve haz duyan, hoşnut olan", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyden tat ve haz duyan.",
+    "currentMeaning": "Bir şeyden lezzet veya haz duyan, hoşlanan ve mutlu olan.",
+    "story": "Arapça laẕẕa, tatlı olmayı anlatan bir fiildi. Ondan oluşan mutalaẕẕiẕ, bu tatlılığı deneyimleyen, bir şeyden tat alan kişiyi öne çıkarır. Türkçedeki mütelezziz de damak tadının ötesinde, bir yaşantıdan duyulan hoşnutluğu ve mutluluğu anlatır.",
+    "firstAttestation": {"source": "Sudi Bosnevî — Şerh-i Divan-ı Hafız", "period": "1590", "form": "müteleẕẕiẕ"},
+    "relatives": [{"word": "lezzet", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mütelezziz maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCtelezziz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mütelezziz", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mağmum",
+    "word": "mağmum",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġamma", "meaning": "keder duydu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maġmūm", "meaning": "üzüntü içindeki", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mağmum", "meaning": "kaygı duyan", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kaygı duyan.",
+    "currentMeaning": "İçinde kaygı taşıyan, kaygılı.",
+    "story": "Arapça ġamma, keder içinde olmayı anlatıyordu; maġmūm ise bu duyguyu yaşayan kişiyi niteliyordu. Türkçeye mağmum olarak geçen kelime, üzüntüyle kaygının birbirine yaklaştığı duygu alanında kaldı. Bugünkü anlamında kişinin içini meşgul eden kaygı öne çıkar.",
+    "firstAttestation": {"source": "Anonim — Ferec ba'd eş-şidde", "period": "1451", "form": "mağmūm"},
+    "relatives": [{"word": "gam", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mağmum maddesi", "url": "https://www.nisanyansozluk.com/kelime/ma%C4%9Fmum"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mağmum", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "firkat",
+    "word": "firkat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "faraḳa", "meaning": "birbirinden ayırdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "furḳa(t)", "meaning": "ayrı düşme durumu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "firkat", "meaning": "ayrı düşme durumu", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Birbirinden ayrı düşme durumu.",
+    "currentMeaning": "Birlikte olanların birbirinden ayrılması, ayrı kalması.",
+    "story": "Arapça faraḳa, bir arada bulunanları birbirinden ayırma eylemini anlatır. Furḳa(t), bu eylemin ortaya çıkardığı ayrı kalma durumunun adıdır. Türkçeye firkat olarak taşınan kelime, birlikteliğin sona ermesini ve ayrı düşmeyi anlatmayı sürdürür.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "fürḳat"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "firkat maddesi", "url": "https://www.nisanyansozluk.com/kelime/firkat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "firkat", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "visal",
+    "word": "visal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "waṣala", "meaning": "varmak istediği yere erişti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "wiṣāl", "meaning": "birbirine ulaşma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "visal", "meaning": "ayrılığın sona ermesiyle bir araya gelme", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Ayrılığın ardından bir araya gelme.",
+    "currentMeaning": "Ayrı olanların birbirine ulaşması, kavuşması.",
+    "story": "Arapça waṣala, bir yere ya da birine ulaşma hareketini anlatıyordu. Wiṣāl biçiminde bu hareket, birbirine varanların kavuşmasına dönüştü. Türkçedeki visal de aradaki uzaklığın aşılmasını ve ayrı olanların bir araya gelmesini adlandırır.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "wiṣāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "visal maddesi", "url": "https://www.nisanyansozluk.com/kelime/visal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "visal", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gubar",
+    "word": "gubar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġabira", "meaning": "bozuldu, kırgınlık duydu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ġubār", "meaning": "ince toz zerreleri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gubar", "meaning": "ince toz zerreleri", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnce toz zerreleri.",
+    "currentMeaning": "Havaya karışabilen veya yüzeylerde biriken ince zerreler; toz.",
+    "story": "Arapça ġubār, tozu adlandırırken bağlı olduğu ġabira fiili bozulmayı ve gücenmeyi anlatır. Aynı kelime ailesinde boz renk de bulunur; tozun rengiyle bozulma düşüncesi böylece birbirine bağlanır. Türkçeye gubar olarak geçen kelime, bu ailenin somut toz anlamını taşır.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "ġubār"},
+    "relatives": [{"word": "ġubra(t)", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "gubar maddesi", "url": "https://www.nisanyansozluk.com/kelime/gubar"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09ad8-8ef8-7691-9667-160140abd2f7
+--------
+user
+# Köken — Üretim Prompt'u (v13)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. Bazı satırlarda ayrıca `ipucu anlam` bulunur; o da
+hangi sözcüğün kastedildiğini göstermek içindir, **kanıt değildir**: kaynakla
+çelişirse kaynağı esas al, `currentMeaning` ve `shortMeaning` alanlarını
+kaynaktan yaz, ipucu anlamı kopyalama. `rarity` ise kesin veridir: satırda ne
+yazıyorsa `rarity` alanına **aynen** onu yaz.
+
+1. şeamet — ipucu: ar — rarity: az-bilinen — ipucu anlam: uğursuzluk
+2. vesamet — ipucu: ar — rarity: az-bilinen — ipucu anlam: yüz güzelliği
+3. fecaat — ipucu: ar — rarity: az-bilinen — ipucu anlam: çok acıklı durum
+4. müstetir — ipucu: ar — rarity: az-bilinen — ipucu anlam: gizlenmiş, örtülü
+5. hacalet — ipucu: ar — rarity: az-bilinen — ipucu anlam: utanma, mahcupluk
+6. hafakan — ipucu: ar — rarity: az-bilinen — ipucu anlam: iç sıkıntısı
+7. halavet — ipucu: ar — rarity: az-bilinen — ipucu anlam: tatlılık, hoşluk
+8. halecan — ipucu: ar — rarity: az-bilinen — ipucu anlam: yürek çarpıntısı
+9. haşyet — ipucu: ar — rarity: az-bilinen — ipucu anlam: saygıyla karışık korku
+10. huşunet — ipucu: ar — rarity: az-bilinen — ipucu anlam: sertlik, kabalık
+11. mündemiç — ipucu: ar — rarity: az-bilinen — ipucu anlam: içinde saklı bulunan
+12. müstenkif — ipucu: ar — rarity: az-bilinen — ipucu anlam: çekinen, geri duran
+13. letafet — ipucu: ar — rarity: az-bilinen — ipucu anlam: hoşluk, incelik
+14. menhus — ipucu: ar — rarity: az-bilinen — ipucu anlam: uğursuz
+15. mütereddit — ipucu: ar — rarity: az-bilinen — ipucu anlam: kararsız, duraksayan
+16. mütelezziz — ipucu: ar — rarity: az-bilinen — ipucu anlam: tat alan, hoşlanan
+17. mağmum — ipucu: ar — rarity: az-bilinen — ipucu anlam: tasalı, kederli
+18. firkat — ipucu: ar — rarity: az-bilinen — ipucu anlam: ayrılık
+19. visal — ipucu: ar — rarity: az-bilinen — ipucu anlam: sevgiliye kavuşma
+20. gubar — ipucu: ar — rarity: az-bilinen — ipucu anlam: toz
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve
+gerektiğinde Kubbealtı Lugatı kayıtlarının özeti verilmiştir. **Bu özetler
+esastır.** Kubbealtı bölümü varsa (ilk iki kaynakta madde yoksa gelir) köken
+satırındaki dil kısaltması (`Fars.`, `Ar.`) `donorLanguage` için esastır ve
+kaynak şöyle yazılır:
+`{"name": "Kubbealtı Lugatı", "ref": "<kelime> maddesi", "url": "<verilen bağlantı>"}`.
+
+### şeamet
+
+**Nişanyan — şeamet**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › şiˀāma(t) › 1. sol taraf, 2. uğursuz ve meymenetsiz olma  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Arapça › şuˀm › a.a.  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > şeemet & şiāmet: Pars sinistra & adversitas sortis, infelicitas.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C5%9Feamet
+
+**TDK** — köken kaydı: Arapça şeʾāmet · anlam: ► uğursuzluk
+
+### vesamet
+
+Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: bildiğini yaz, bilmediğine `null` koy, uydurma.
+
+### fecaat
+
+**Nişanyan — fecaat**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › facīˁa(t) › acı veren olay, musibet, trajedi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > fecīˁat: Adversitas dolorem augens [talihsizlik, trajedi].
+
+Not: Arapça aynı kökten facia sözcüğünün eşdeğeridir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/fecaat
+
+**TDK** — köken kaydı: Arapça fecāʿat · anlam: Çok acıklı, yürekler acısı durum
+
+### müstetir
+
+**Kubbealtı Lugatı — MÜSTETİR**
+
+Köken satırı: Ar. istitār “gizlenmek”ten mustetir
+
+İlk anlam: Gizlenen, gizli, saklı
+
+Bağlantı: https://lugatim.com/s/m%C3%BCstetir
+
+### hacalet
+
+**Kubbealtı Lugatı — HACÂLET**
+
+Köken satırı: Ar. ḫacālet
+
+İlk anlam: Utanma, mahçup olma, utanç
+
+Bağlantı: https://lugatim.com/s/hacalet
+
+### hafakan
+
+**Nişanyan — hafakan**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › χafaḳa › titredi, kalbi hızlı attı  [türeme]
+- Arapça › χafaḳān › kalbin hızlı atması, palpitasyon, titreme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1410, Hızır Paşa — Müntehab-ı Şifa
+  > hammâmda çok oturmak hafakan eyler göŋli ğuṣṣalandurur
+- 1665, Ali Ufki Bey — Kitab-ı Mukaddes terc.
+  > yüreḡim hafakân ėder, kuvvetim ve gözlerimiŋ nûru beni bırakdı
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/hafakan
+
+**TDK** — köken kaydı: Arapça ḫafaḳān · anlam: Sıkıntı, çarpıntı; afakan
+
+### halavet
+
+**Nişanyan — halavet**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ḥalā › tatlı idi, tatlandı  [türeme]
+- Arapça › ḥalāwa(t) › tatlılık, şirinlik  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1358, anon. — Nehcü'l-Feradis
+  > bu tesbiḥniŋ ḥalāvatı yaˁnI tatlıġlıġı
+- <1451, anon. — Ferec ba'd eş-şidde
+  > İki göŋleklü iymân ḥalâvetin bulmaz
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/halavet
+
+**TDK** — köken kaydı: Arapça ḥalāvet · anlam: Sevimlilik, şirinlik, tatlılık
+
+### halecan
+
+**TDK** — köken kaydı: Arapça ḫalecān · anlam: ► kalp çarpıntısı
+
+### haşyet
+
+**Nişanyan — haşyet**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ḥaşiya › nefesi tıkandı  [türeme]
+- Arapça › *ḥaşya(t) › nefes kesilmesi?  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1546, Latifî — Tezkîretü'ş-Şuarâ
+  > vaḳıʿasında [rüyasında] bu ḫavf u ḥaşyetden ṭurmaz ḳaçar, anlar ardına düşüp ḳovarlar.
+- 1665, Evliya Çelebi — Seyahatname
+  > Yahûd tâ’ifesi bu keferelerden dâ’imâ havf u haşyet üzredirler.
+
+Not: Arapça ve Osmanlıca sözlüklerde mevcut olmayan kelimenin Osmanlı pratiğinde türediği varsayılabilir. Türkçede öteden beri "korku, dehşet" anlamında kullanılır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ha%C5%9Fyet
+
+**TDK** — köken kaydı: Arapça ḫaşyet · anlam: Korku, korkma
+
+### huşunet
+
+**Nişanyan — huşunet**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › χaşuna › iri ve kaba idi  [türeme]
+- Arapça › χuşūna(t) › irilik, kabalık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1421?, Yadigâr-ı İbni Şerif
+  > eğer boğazda ḫuşūnet yani irilcek ve öksürük olursa
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/hu%C5%9Funet
+
+**TDK** — köken kaydı: Arapça ḫuşūnet · anlam: ► sertlik
+
+### mündemiç
+
+**Nişanyan — mündemiç**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › damaca › içine girdi, sokuldu  [türeme]
+- Arapça › mundamic › iç içe geçmiş, kompakt, şişman  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > mündemic [1. şişman, 2. iç içe geçmiş, içine sokulmuş]
+- 1900, Şemseddin Sami — Kamus-ı Türki
+  > mündemic: (...) derc ve idhal olunmuş: Bu taˁbirde mündemic nukat.
+
+Not: Geç devir Osmanlıcada Fr impliqué ve implicite karşılığı olarak sıklıkla kullanılmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BCndemi%C3%A7
+
+**TDK** — köken kaydı: Arapça mundemic · anlam: ► içkin
+
+### müstenkif
+
+**TDK** — köken kaydı: Arapça mustenkif · anlam: ► çekimser
+
+### letafet
+
+**Nişanyan — letafet**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › laṭafa › cömertlik etti, lütfetti  [türeme]
+- Arapça › laṭāfa(t) › güzel olma, zarafet  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1406, Ahmed-i Daî — Çengname
+  > Letāfet gevherinüŋ kānı [pınarı] sensin
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/letafet
+
+**TDK** — köken kaydı: Arapça leṭāfet · anlam: ► hoşluk
+
+### menhus
+
+**Nişanyan — menhus**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › naḥasa › uğursuzluk getirdi  [türeme]
+- Arapça › manḥūs › uğursuz  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1546, Latifî — Tezkîretü'ş-Şuarâ
+  > ḳużât-ı ṭuġâtuñ rüʿûs-ı menḥûsını dâne-i gendüm gibi ol âsiyâblarda ögütmekde [zalim kadıların menhus kellelerini buğday tanesi gibi o değirmenlerde öğütmekte]
+- 1596, Selanikî Mustafa Ef. — Tarih-i Selanikî
+  > Kıral-ı Üngürus-i menhûs tarafından Âsitâne-i sa'âdet âşiyânda duran ilçilere mühriyle mektûbları gelüp
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/menhus
+
+**TDK** — köken kaydı: Arapça menḥūs · anlam: ► uğursuz
+
+### mütereddit
+
+**Nişanyan — mütereddit**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › radda › geri döndürdü  [türeme]
+- Arapça › mutaraddid › tereddüt eden, gidip geri dönen  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1380, Şeyhoğlu — Marzubânnâme terc.
+  > sen her nesnede mütevaḳḳıf ve mütereddidsin [duraksayıcı ve tereddüt edicisin]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BCtereddit
+
+**TDK** — köken kaydı: Arapça mutereddid · anlam: ► kararsız
+
+### mütelezziz
+
+**Nişanyan — mütelezziz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › laḏḏa › tatlı idi  [türeme]
+- Arapça › mutalaḏḏiḏ › lezzet alan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1590, Sudi Bosnevî — Şerh-i Divan-ı Hafız
+  > ḥāṣılı, dilberler viṣāliden müteleẕẕiẕ ol
+- 1680, Meninski — Thesaurus
+  > mütelezziz
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BCtelezziz
+
+**TDK** — köken kaydı: Arapça muteleẕẕiẕ · anlam: Lezzet bulan, tat alan, mutlu olan, hoşlanan
+
+### mağmum
+
+**Nişanyan — mağmum**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ġamma › kederli idi  [türeme]
+- Arapça › maġmūm › gamlı, üzgün  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1451, anon. — Ferec ba'd eş-şidde
+  > Atını ota kodı, gendü mağmūm u mehmūm oturdı.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ma%C4%9Fmum
+
+**TDK** — köken kaydı: Arapça maġmūm · anlam: ► kaygılı
+
+### firkat
+
+**Nişanyan — firkat**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › faraḳa › ayırdı  [türeme]
+- Arapça › furḳa(t) › ayrılık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > fürḳat odından [ayrılık ateşinden] yüregi baş [yara] ola
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/firkat
+
+**TDK** — köken kaydı: Arapça firḳat · anlam: ► ayrılık
+
+### visal
+
+**Nişanyan — visal**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › waṣala › ulaştı, kavuştu  [türeme]
+- Arapça › wiṣāl › birbirine varma, kavuşma  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1069, Yusuf Hacib — Kutadgu Bilig
+  > tirigle firāḳḳa wiṣāl bar umınç [sağken ayrılığa kavuşma umudu var]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/visal
+
+**TDK** — köken kaydı: Arapça viṣāl · anlam: ► kavuşma
+
+### gubar
+
+**Nişanyan — gubar**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ġabira › bozuldu, gücendi  [türeme]
+- Arapça › ġubār › toz  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Arapça › ġubra(t) › boz, gri-bej renk  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1317, Gülşehri — Mantıku't-Tayr
+  > taşrağı Leylā olıcağın ġubār / içregi Leylā kala pāyidār
+- 1523, Vahidî — Hâce-i Cihân ve Netîce-i Cân
+  > bellerinde ikişer curˁadān birinde ḫav u çaķmaķ ve birinde ġubārdur muḥaḳḳaḳ
+- 1929, Mikhailov — Matériaux sur l'argot et les locutions...
+  > gübür: Balayures, ordures [dışkı, döküntü].
+
+Not: Arapça sözcükte "boz" ve "bozma, bozulma" eylemi arasında kurulan semantik ilişki Türkçede aynen mevcuttur.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/gubar
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives` **her zaman dizidir**. Akraba kelime yoksa `null` değil `[]`
+  yaz. `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+Vesamet için eksik kaynak kaydını kontrol edeceğim; diğer maddelerde verdiğiniz özetleri esas alacağım.
+
+web search: 
+web search: site.lugatim.com vesamet
+web search: 
+web search: "vesâmet" "güzellik"
+web search: 
+web search: https://www.lugatim.com/s/VES%C3%82MET
+web search: 
+web search: "vesâmet" "Kubbealtı" ...
+codex
+[
+  {
+    "id": "şeamet",
+    "word": "şeamet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şiˀāma(t)", "meaning": "sol yan; talihin kötü gitmesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şeamet", "meaning": "kötü talih, uğursuzluk", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Uğursuz olma durumu.",
+    "currentMeaning": "Uğursuzluk, kötü talih.",
+    "story": "Arapça şiˀāma(t), sol yanı ve kötü talihi aynı kelimede buluşturuyordu. Böylece bir yönü gösteren somut anlamın yanında, işlerin ters gitmesini anlatan bir anlam da taşıyordu. Türkçede şeamet denildiğinde bu ikinci anlam, yani uğursuzluk öne çıktı.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "şeemet"},
+    "relatives": [{"word": "şuˀm", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şeamet maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Feamet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şeamet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "vesamet",
+    "word": "vesamet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "wasāma(t)", "meaning": "güzel yüzlü olma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "vesamet", "meaning": "yüzün güzel olması", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüzün güzel olması.",
+    "currentMeaning": "Güzel yüzlü olma, yüz güzelliği.",
+    "story": "Arapça wasāma(t), insan yüzünün güzel görünüşünü adlandırır. Türkçeye vesamet biçiminde taşınan kelimede de güzelliğin odağında yüz bulunur; anlamın merkezinde bir insanın görünüşünün uyandırdığı beğeni vardır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [],
+    "confidence": null,
+    "reviewed": false
+  },
+  {
+    "id": "fecaat",
+    "word": "fecaat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "facīˁa(t)", "meaning": "derin acıya yol açan felaket", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fecaat", "meaning": "insana büyük acı veren durum", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Derin acı ve üzüntü uyandıran durum.",
+    "currentMeaning": "İnsanda çok büyük acı ve üzüntü uyandıran, yürek burkan durum.",
+    "story": "Arapça facīˁa(t), insanın başına gelen bir felaketi yaşattığı acıyla birlikte adlandırıyordu. Türkçedeki fecaat de olayın yalnızca kötü oluşunu değil, yürek burkan ağırlığını taşır. Anlamın merkezinde, yaşanan durumun insanda bıraktığı derin acı bulunur.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "fecīˁat"},
+    "relatives": [{"word": "facia", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fecaat maddesi", "url": "https://www.nisanyansozluk.com/kelime/fecaat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "fecaat", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müstetir",
+    "word": "müstetir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "istitār", "meaning": "kendini gizleme", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mustetir", "meaning": "gözden gizlenen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müstetir", "meaning": "gizlenen veya saklı duran", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gizlenen veya saklı duran.",
+    "currentMeaning": "Göz önünde bulunmayan, gizlenen ya da saklı duran.",
+    "story": "Kelimenin arkasında Arapçadaki istitār, yani kendini gizleme eylemi vardır. Bu eylemi gerçekleştiren için kullanılan mustetir, Türkçede müstetir biçimini aldı. Gizlenme hareketinden geriye, göz önünde olmayanı niteleyen bir sıfat kaldı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "müstetir maddesi", "url": "https://lugatim.com/s/m%C3%BCstetir"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hacalet",
+    "word": "hacalet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫacālet", "meaning": "utanç duyma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hacalet", "meaning": "utanma duygusu", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Utanma ve mahcup olma duygusu.",
+    "currentMeaning": "Bir durum karşısında duyulan utanç ve mahcubiyet.",
+    "story": "Arapça ḫacālet, insanın mahcup olduğu anda yaşadığı duyguyu adlandırır. Türkçeye geçerken bu duygu odağını korudu; hacalet, utanmanın ve mahcup hissetmenin adı olarak kullanıldı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "hacalet maddesi", "url": "https://lugatim.com/s/hacalet"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hafakan",
+    "word": "hafakan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫafaḳa", "meaning": "titredi, yüreği hızla çarptı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḫafaḳān", "meaning": "titreme ve hızlı kalp atışı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hafakan", "meaning": "iç daralması, kalp çarpıntısı", "period": "15. yy başlarından önce", "reconstructed": false}
+    ],
+    "shortMeaning": "İç daralması veya kalp çarpıntısı.",
+    "currentMeaning": "Sıkıntı ve iç daralması; kalbin hızlı çarpması.",
+    "story": "Arapça ḫafaḳa, titreyen bir bedeni ya da hızla atan bir kalbi anlatıyordu. Bu hareketin adı olan ḫafaḳān, Türkçeye hafakan olarak geçti. Türkçede bedensel çarpıntının yanında insanın içini daraltan sıkıntıyı da anlatmaya başladı; yüreğin hareketiyle bunaltı aynı kelimede buluştu.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1410'dan önce", "form": "hafakan"},
+    "relatives": [{"word": "afakan", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hafakan maddesi", "url": "https://www.nisanyansozluk.com/kelime/hafakan"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hafakan", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "halavet",
+    "word": "halavet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥalā", "meaning": "tadı tatlı oldu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥalāwa(t)", "meaning": "tatlı ve şirin olma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "halavet", "meaning": "tatlılık ve sevimli olma niteliği", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Tatlılık ve sevimli olma niteliği.",
+    "currentMeaning": "Tatlı, şirin ve sevimli olma özelliği.",
+    "story": "Halavetin başlangıcında, Arapçada tatlı olmayı anlatan ḥalā vardır. Buradan oluşan ḥalāwa(t), damaktaki tatlılıkla şirinliği bir arada taşır. Türkçede de kelimenin alanı yiyecekle sınırlı kalmaz; insana hoş gelen bir nitelik, tatlılık üzerinden anlatılır.",
+    "firstAttestation": {"source": "Anonim — Nehcü'l-Feradis", "period": "1358", "form": "ḥalāvatı"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "halavet maddesi", "url": "https://www.nisanyansozluk.com/kelime/halavet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "halavet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "halecan",
+    "word": "halecan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫalecān", "meaning": "yüreğin çarpması", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "halecan", "meaning": "yüreğin çarpması", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüreğin çarpması.",
+    "currentMeaning": "Kalpte hissedilen çarpıntı.",
+    "story": "Arapça ḫalecān, kalbin çarpmasını adlandıran bir kelimedir. Türkçeye halecan biçiminde taşındığında da bu bedensel hareketi anlatmayı sürdürdü; kelimenin odağında yürekte hissedilen çarpıntı bulunur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "halecan", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "haşyet",
+    "word": "haşyet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥaşiya", "meaning": "soluğu tıkandı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥaşya(t)", "meaning": "soluğun kesilmesi olduğu varsayılan anlam", "period": null, "reconstructed": true},
+      {"language": "tr", "form": "haşyet", "meaning": "korkuya kapılma", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Korkuya kapılma durumu.",
+    "currentMeaning": "Korku duyma, korkma hâli.",
+    "story": "Haşyetin geçmişi için önerilen açıklamalardan biri, Arapçada soluğun tıkanmasını anlatan ḥaşiya fiiline uzanır. Bu açıklamada korkunun bedende yarattığı nefes kesilmesi, duygunun adına dönüşmüş olabilir. Ancak ara biçim varsayımsaldır ve kelimenin Osmanlı kullanımında oluşmuş olması da mümkündür. Türkçedeki kullanımı korku ve dehşet çevresinde yerleşmiştir.",
+    "firstAttestation": {"source": "Latifî — Tezkîretü'ş-Şuarâ", "period": "1546", "form": "ḥaşyetden"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, ḥaşiya fiiliyle bağlantıyı ve varsayımsal ḥaşya(t) biçimini gösterirken kelimenin Osmanlı kullanımında oluşmuş olabileceğini belirtir.",
+      "TDK Güncel Türkçe Sözlük, kelimeyi Arapça ḫaşyet biçimine bağlar; böylece doğrudan alıntı açıklaması ile Osmanlı kullanımında oluşum varsayımı ayrışır."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "haşyet maddesi", "url": "https://www.nisanyansozluk.com/kelime/ha%C5%9Fyet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "haşyet", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "huşunet",
+    "word": "huşunet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫaşuna", "meaning": "kaba ve iri oldu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḫuşūna(t)", "meaning": "kaba ve iri olma niteliği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "huşunet", "meaning": "sert olma niteliği", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sert olma niteliği.",
+    "currentMeaning": "Sertlik, kaba olma hâli.",
+    "story": "Arapça ḫaşuna, iri ve kaba olmayı anlatırken ḫuşūna(t) bu niteliğin adını koyuyordu. Türkçeye huşunet olarak geçen kelime, sertlik çevresinde yerleşti. Anlam yolculuğunda kaba oluş ile sert oluş arasındaki yakınlık korundu.",
+    "firstAttestation": {"source": "Yadigâr-ı İbni Şerif", "period": "1421'den önce?", "form": "ḫuşūnet"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "huşunet maddesi", "url": "https://www.nisanyansozluk.com/kelime/hu%C5%9Funet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "huşunet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mündemiç",
+    "word": "mündemiç",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "damaca", "meaning": "bir şeyin içine sokuldu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mundamic", "meaning": "birbirinin içine geçmiş, sıkı yapılı, şişman", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mündemiç", "meaning": "bir şeyin içinde bulunan, içkin", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyin içinde bulunan, içkin.",
+    "currentMeaning": "Bir şeyin içinde, onun bünyesinde bulunan; içkin.",
+    "story": "Arapça damaca, bir şeyin içine girme hareketini anlatıyordu; mundamic ise birbirinin içine geçmiş veya sıkıca bir arada bulunan şeyleri niteliyordu. Türkçede mündemiç, bu somut iç içeliği bir düşüncenin ya da ifadenin içinde bulunan unsurlara da taşıdı. Böylece bir şeyin içine sokulmuş olma resmi, onun bünyesinde bulunma anlamına dönüştü.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "mündemic"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Mündemiç, eski kullanımında bir insanı şişman diye nitelemek için de kullanılıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mündemiç maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCndemi%C3%A7"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mündemiç", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müstenkif",
+    "word": "müstenkif",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mustenkif", "meaning": "katılmaktan geri duran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müstenkif", "meaning": "katılmaktan geri duran, çekimser", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Katılmaktan geri duran, çekimser.",
+    "currentMeaning": "Bir konuda katılma veya taraf olma yönünde tutum göstermeyen; çekimser.",
+    "story": "Arapça mustenkif, bir işe katılmaktan geri duran kişiyi anlatır. Türkçedeki müstenkif de bu geri duruşu korur; bir konuda katılma ya da taraf olma yönünde adım atmayan kişinin tutumunu niteler.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müstenkif", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "letafet",
+    "word": "letafet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "laṭafa", "meaning": "cömert davrandı, iyilikte bulundu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "laṭāfa(t)", "meaning": "güzellik ve zarif olma niteliği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "letafet", "meaning": "hoş olma niteliği", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Hoş olma niteliği.",
+    "currentMeaning": "Hoşa gitme, hoş bir etki uyandırma niteliği.",
+    "story": "Letafetin bağlı olduğu Arapça laṭafa fiilinde cömertçe davranma ve iyilikte bulunma vardır. Aynı kökün laṭāfa(t) biçiminde güzellik ve zarafet öne çıkar. Türkçedeki letafet, bu olumlu anlam alanını koruyarak bir şeyin insanda uyandırdığı hoşluğu adlandırır.",
+    "firstAttestation": {"source": "Ahmed-i Daî — Çengname", "period": "1406", "form": "letāfet"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "letafet maddesi", "url": "https://www.nisanyansozluk.com/kelime/letafet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "letafet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "menhus",
+    "word": "menhus",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "naḥasa", "meaning": "kötü talih getirdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "manḥūs", "meaning": "uğursuz sayılan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "menhus", "meaning": "uğursuz sayılan", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Uğursuz sayılan.",
+    "currentMeaning": "Uğursuzluk getirdiği düşünülen.",
+    "story": "Arapça naḥasa, kötü talih getirmeyi anlatıyordu. Bu kökten oluşan manḥūs, uğursuzlukla ilişkilendirilen kişiye ya da şeye yöneltilen bir nitelemeydi. Türkçeye menhus olarak geçtiğinde de kötü talih getirme düşüncesini korudu.",
+    "firstAttestation": {"source": "Latifî — Tezkîretü'ş-Şuarâ", "period": "1546", "form": "menḥūsını"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "menhus maddesi", "url": "https://www.nisanyansozluk.com/kelime/menhus"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "menhus", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mütereddit",
+    "word": "mütereddit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "radda", "meaning": "geriye çevirdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mutaraddid", "meaning": "gidip dönen, karar vermekte duraksayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mütereddit", "meaning": "kararını kesinleştiremeyen", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kararını kesinleştiremeyen.",
+    "currentMeaning": "Bir konuda karar veremeyen, seçenekler arasında duraksayan.",
+    "story": "Arapça radda fiilinde bir şeyi geriye döndürme hareketi vardır. Mutaraddid biçiminde bu hareket, gidip geri dönen kişinin duraksamasıyla birleşir. Türkçedeki mütereddit, düşüncesi seçenekler arasında gidip gelen ve bir kararda duramayan kişiyi anlatır.",
+    "firstAttestation": {"source": "Şeyhoğlu — Marzubânnâme tercümesi", "period": "1380", "form": "mütereddidsin"},
+    "relatives": [{"word": "tereddüt", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mütereddit maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCtereddit"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mütereddit", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mütelezziz",
+    "word": "mütelezziz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "laẕẕa", "meaning": "tadı tatlıydı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mutalaẕẕiẕ", "meaning": "bir şeyden tat duyan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mütelezziz", "meaning": "tat ve haz duyan, hoşnut olan", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyden tat ve haz duyan.",
+    "currentMeaning": "Bir şeyden lezzet veya haz duyan, hoşlanan ve mutlu olan.",
+    "story": "Arapça laẕẕa, tatlı olmayı anlatan bir fiildi. Ondan oluşan mutalaẕẕiẕ, bu tatlılığı deneyimleyen, bir şeyden tat alan kişiyi öne çıkarır. Türkçedeki mütelezziz de damak tadının ötesinde, bir yaşantıdan duyulan hoşnutluğu ve mutluluğu anlatır.",
+    "firstAttestation": {"source": "Sudi Bosnevî — Şerh-i Divan-ı Hafız", "period": "1590", "form": "müteleẕẕiẕ"},
+    "relatives": [{"word": "lezzet", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mütelezziz maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCtelezziz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mütelezziz", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mağmum",
+    "word": "mağmum",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġamma", "meaning": "keder duydu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maġmūm", "meaning": "üzüntü içindeki", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mağmum", "meaning": "kaygı duyan", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kaygı duyan.",
+    "currentMeaning": "İçinde kaygı taşıyan, kaygılı.",
+    "story": "Arapça ġamma, keder içinde olmayı anlatıyordu; maġmūm ise bu duyguyu yaşayan kişiyi niteliyordu. Türkçeye mağmum olarak geçen kelime, üzüntüyle kaygının birbirine yaklaştığı duygu alanında kaldı. Bugünkü anlamında kişinin içini meşgul eden kaygı öne çıkar.",
+    "firstAttestation": {"source": "Anonim — Ferec ba'd eş-şidde", "period": "1451", "form": "mağmūm"},
+    "relatives": [{"word": "gam", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mağmum maddesi", "url": "https://www.nisanyansozluk.com/kelime/ma%C4%9Fmum"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mağmum", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "firkat",
+    "word": "firkat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "faraḳa", "meaning": "birbirinden ayırdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "furḳa(t)", "meaning": "ayrı düşme durumu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "firkat", "meaning": "ayrı düşme durumu", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Birbirinden ayrı düşme durumu.",
+    "currentMeaning": "Birlikte olanların birbirinden ayrılması, ayrı kalması.",
+    "story": "Arapça faraḳa, bir arada bulunanları birbirinden ayırma eylemini anlatır. Furḳa(t), bu eylemin ortaya çıkardığı ayrı kalma durumunun adıdır. Türkçeye firkat olarak taşınan kelime, birlikteliğin sona ermesini ve ayrı düşmeyi anlatmayı sürdürür.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "fürḳat"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "firkat maddesi", "url": "https://www.nisanyansozluk.com/kelime/firkat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "firkat", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "visal",
+    "word": "visal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "waṣala", "meaning": "varmak istediği yere erişti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "wiṣāl", "meaning": "birbirine ulaşma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "visal", "meaning": "ayrılığın sona ermesiyle bir araya gelme", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Ayrılığın ardından bir araya gelme.",
+    "currentMeaning": "Ayrı olanların birbirine ulaşması, kavuşması.",
+    "story": "Arapça waṣala, bir yere ya da birine ulaşma hareketini anlatıyordu. Wiṣāl biçiminde bu hareket, birbirine varanların kavuşmasına dönüştü. Türkçedeki visal de aradaki uzaklığın aşılmasını ve ayrı olanların bir araya gelmesini adlandırır.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "wiṣāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "visal maddesi", "url": "https://www.nisanyansozluk.com/kelime/visal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "visal", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gubar",
+    "word": "gubar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġabira", "meaning": "bozuldu, kırgınlık duydu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ġubār", "meaning": "ince toz zerreleri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gubar", "meaning": "ince toz zerreleri", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnce toz zerreleri.",
+    "currentMeaning": "Havaya karışabilen veya yüzeylerde biriken ince zerreler; toz.",
+    "story": "Arapça ġubār, tozu adlandırırken bağlı olduğu ġabira fiili bozulmayı ve gücenmeyi anlatır. Aynı kelime ailesinde boz renk de bulunur; tozun rengiyle bozulma düşüncesi böylece birbirine bağlanır. Türkçeye gubar olarak geçen kelime, bu ailenin somut toz anlamını taşır.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "ġubār"},
+    "relatives": [{"word": "ġubra(t)", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "gubar maddesi", "url": "https://www.nisanyansozluk.com/kelime/gubar"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+tokens used
+37,267

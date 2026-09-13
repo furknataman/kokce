@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "dirin",
+    "word": "dirin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dīrīn", "meaning": "eski, kadim", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dirin", "meaning": "çok eskiden kalmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çok eskiden kalmış olan.",
+    "currentMeaning": "Geçmişi çok eskiye uzanan, kadim olan.",
+    "story": "Farsçada dīrīn, geçmişi çok gerilere uzanan şeyleri niteliyordu. Türkçeye taşındığında da zamanla eskimiş, uzun bir geçmiş biriktirmiş olma düşüncesini korudu.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "dirin maddesi", "url": "https://lugatim.com/s/dirin"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şebçerağ",
+    "word": "şebçerağ",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "şeb-çerāğ", "meaning": "gece ışıldayan değerli taş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şebçerağ", "meaning": "gece ışıldayan değerli taş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gece ışıldadığı düşünülen değerli taş.",
+    "currentMeaning": "Karanlıkta parladığına inanılan kıymetli taş.",
+    "story": "Farsçada geceyi anlatan şeb ile mumu anlatan çerāğ, karanlıkta ışık veren bir taşın adında buluştu. Taşın parıltısı bir gece mumuna benzetilerek adlandırıldı. Türkçe de bu adı, gece ışıldadığı düşünülen değerli taş için aldı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "şebçerağ maddesi", "url": "https://lugatim.com/s/%C5%9Feb%C3%A7era%C4%9F"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şikâr",
+    "word": "şikâr",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "şikār/şikar", "meaning": "avlanma ve avlanan hayvan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şikâr", "meaning": "av", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Avlanma işi veya avlanan hayvan.",
+    "currentMeaning": "Av; avlanma eylemi ya da bu eylemle ele geçirilen hayvan.",
+    "story": "Farsçada şikār, hem av peşinde koşmayı hem de ele geçirilen hayvanı adlandırıyordu. Türkçeye bu av dünyasıyla birlikte geçti. Bir gönlü şikâr etmek gibi eski kullanımlarda ise ele geçirilen şey hayvan değil, kişinin ilgisi ve sevgisiydi.",
+    "firstAttestation": {"source": "Danişmend-Name", "period": "1360", "form": "şikār"},
+    "relatives": [
+      {"word": "əşkar-/şkar-", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şikâr maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fik%C3%A2r"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şikâr", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dürüşt",
+    "word": "dürüşt",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "duruşt", "meaning": "sert, kaba", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dürüşt", "meaning": "sert ve incitici", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sertliğiyle karşısındakini inciten.",
+    "currentMeaning": "Sert, insanı gücendiren veya kıran nitelikte olan.",
+    "story": "Farsça duruşt, sertlik ve kabalık düşüncesini taşıyordu. Türkçede bu sertlik, bir sözün ya da davranışın karşısındakini incitmesini anlatır. Böylece dürüşt, insan ilişkilerinde hissedilen kırıcı sertliğin adı olarak yaşar.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dürüşt", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sühan",
+    "word": "sühan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "saḫʷan", "meaning": "söz, kelam", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "saḫun/suḫan", "meaning": "söz, kelam", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sühan", "meaning": "söz, kelam", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Söylenen söz, kelam.",
+    "currentMeaning": "Düşünceyi dile getiren söz veya kelam.",
+    "story": "Orta Farsçadaki saḫʷan, insanın ağzından çıkan sözü adlandırıyordu. Farsçada saḫun ve suḫan biçimlerini alırken taşıdığı söz kavramı değişmedi. Türkçedeki sühan da bu uzun ses yolculuğunun sonunda aynı konuşma ve anlatma dünyasını korudu.",
+    "firstAttestation": {"source": "Meninski, Thesaurus", "period": "1680", "form": "suḫan"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sühan maddesi", "url": "https://www.nisanyansozluk.com/kelime/s%C3%BChan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "encam",
+    "word": "encam",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {"language": "ae", "form": "cāma-", "meaning": "sona eriş", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "hancāftan, hancām-", "meaning": "sona erdirmek, bitirmek, tamamlamak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "hancām", "meaning": "son, bitim", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ancām", "meaning": "son, bitim", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "encam", "meaning": "son, sonuç", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir işin veya olayın vardığı son.",
+    "currentMeaning": "Bir işin, olayın ya da sürecin bitimi ve ulaştığı sonuç.",
+    "story": "Encamın geçmişinde bir işi tamamlayıp sona erdirme eylemi bulunur. Orta Farsçada bu eylemi anlatan fiilden, ulaşılan sonu adlandıran hancām doğdu. Farsçada ancām biçimini alan kelime, Türkçeye bir olayın varıp dayandığı sonucu anlatmak üzere geçti.",
+    "firstAttestation": {"source": "Gülşehri, Mantıku't-Tayr", "period": "1317", "form": "encām"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "encam maddesi", "url": "https://www.nisanyansozluk.com/kelime/encam"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "encam", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ziver",
+    "word": "ziver",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "zīver", "meaning": "süs, bezek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ziver", "meaning": "süs, bezek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyi güzelleştiren süs.",
+    "currentMeaning": "Güzellik katmak için kullanılan süs veya bezek.",
+    "story": "Farsçada zīver, bir şeyi güzelleştiren süsü adlandırıyordu. Türkçeye geçerken de bu bezeme düşüncesini korudu; kelimenin merkezinde, görünüşe güzellik katan şey bulunur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "ziver maddesi", "url": "https://lugatim.com/s/ziver"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şikeste",
+    "word": "şikeste",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "şkastan, şkēn-", "meaning": "kırmak, ezmek, parçalamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şikastan, şikan-", "meaning": "kırmak, ezmek, parçalamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şikasta", "meaning": "kırık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şikeste", "meaning": "kırılmış", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kırılıp bütünlüğünü yitirmiş olan.",
+    "currentMeaning": "Kırılma sonucunda bütünlüğü bozulmuş olan.",
+    "story": "Şikestenin geçmişinde bir şeyi kırma, ezme ve parçalama eylemi vardır. Farsçada bu eylemin sonucunu anlatan şikasta, artık kırılmış olanı niteledi. Türkçeye şikeste biçiminde geçerken de eylemden geriye kalan bu kırıklık durumunu taşıdı.",
+    "firstAttestation": {"source": "Ömer b. Mezîd, Mecmuatü'n-nezâir", "period": "1437", "form": "şikeste"},
+    "relatives": [
+      {"word": "skand-", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şikeste maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fikeste"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şikeste", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "puşide",
+    "word": "puşide",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "pūşīden", "meaning": "örtmek, örtünmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pūşīde", "meaning": "örtülü, örtünmüş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "puşide", "meaning": "örtülü, örtünmüş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Üzeri örtülmüş veya örtünmüş olan.",
+    "currentMeaning": "Bir örtüyle kapanmış ya da kendisini örtmüş olan.",
+    "story": "Farsçada pūşīden, bir şeyin üzerini örtme veya insanın örtünme eylemini anlatıyordu. Bu fiilden oluşan pūşīde, örtme işinin ardından ortaya çıkan durumu adlandırdı. Türkçedeki puşide de üzeri kapanmış, örtünmüş olma hâlini taşır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "puşide maddesi", "url": "https://lugatim.com/s/pu%C5%9Fide"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "eşk",
+    "word": "eşk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "eşk", "meaning": "gözyaşı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "eşk", "meaning": "gözyaşı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gözden akan yaş.",
+    "currentMeaning": "Gözden süzülen yaş, gözyaşı.",
+    "story": "Farsçada eşk, gözde birikip dışarı süzülen yaşı adlandırıyordu. Türkçeye aynı somut görüntüyü taşıyarak geçti; kelimenin anlam yolculuğunda gözyaşı başka bir nesnenin adına dönüşmedi.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "eşk maddesi", "url": "https://lugatim.com/s/e%C5%9Fk"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sitare",
+    "word": "sitare",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "h₂stḗr", "meaning": "yıldız", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "star/stārag", "meaning": "yıldız", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sitāra", "meaning": "yıldız", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sitare", "meaning": "yıldız", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Gökte görülen yıldız.",
+    "currentMeaning": "Yıldız; gökyüzündeki ışıklı gök cismi.",
+    "story": "Sitare, gökte görülen yıldızın çok eski bir adını taşır. Hint-Avrupa ana diline uzanan biçim, Orta Farsçada star ve stārag, Farsçada sitāra olarak sürdü. Sesler değişirken gökteki karşılığı aynı kaldı ve Türkçe kelimeyi yıldız için aldı.",
+    "firstAttestation": {"source": "Aşık Paşa, Garib-name", "period": "1330", "form": "sitāre"},
+    "relatives": [
+      {"word": "str̥", "relation": "eş köken"},
+      {"word": "star-", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sitare maddesi", "url": "https://www.nisanyansozluk.com/kelime/sitare"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şehrayin",
+    "word": "şehrayin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "birleşik",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "āyīn", "meaning": "donatma", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şahr", "meaning": "şehir, ülke", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şehrayin", "meaning": "şehir donatılarak yapılan genel şenlik", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Şehir süslenerek yapılan toplu şenlik.",
+    "currentMeaning": "Şehrin donatılıp süslenmesiyle gerçekleştirilen genel eğlence ve kutlama.",
+    "story": "Şehrayinde Farsçanın şehir bildiren şahr sözüyle donatmayı anlatan āyīn bir araya gelir. Birlikte, süslenerek kutlamaya hazırlanan şehri göz önüne getirirler. Türkçede ad, bu hazırlığın eşlik ettiği toplu eğlenceyi ve şenliği anlatır.",
+    "firstAttestation": {"source": "Şemseddin Sami, Kamus-ı Türki", "period": "1900", "form": "şehrāyīn"},
+    "relatives": [
+      {"word": "şehir", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şehrayin maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fehrayin"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ferda",
+    "word": "ferda",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "fratāg", "meaning": "gün doğumu, şafak; yarın", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "fardā", "meaning": "gün doğumu, şafak; yarın", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ferda", "meaning": "yarın", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bugünü izleyen gün.",
+    "currentMeaning": "İçinde bulunulan günden sonra gelecek gün, yarın.",
+    "story": "Farsçada fardā, hem günün doğuşunu hem de yarını anlatıyordu. Bu iki anlamda, gecenin ardından başlayacak yeni gün aynı kelimede buluşur. Orta Farsça fratāg biçiminin devamı olan söz, Türkçeye ferda olarak geçerken yarın anlamını taşıdı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ferda maddesi", "url": "https://www.nisanyansozluk.com/kelime/ferda"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ferda", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "feriştah",
+    "word": "feriştah",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {"language": "ae", "form": "fraēşta-", "meaning": "elçi", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "frēştag/hrēştag", "meaning": "elçi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "firişta", "meaning": "elçi, melek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "feriştah", "meaning": "en iyi, en üstün", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hepsinden üstün veya en iyi olan.",
+    "currentMeaning": "Bir işte ya da nitelikte başkalarının hepsini geride bırakan, en üstün olan.",
+    "story": "Feriştahın yolculuğu, Avestacada elçiyi adlandıran fraēşta- ile başlar. Elçilik düşüncesi Farsçada tanrısal haberciyi de kapsayarak melek anlamını kazandı. Türkçeye İslam öncesindeki dinî kullanım içinde de giren bu söz, zamanla üstünlük bildiren bir mecaza dönüştü. Bugünkü feriştah, birinin ya da bir şeyin en üstününü belirtir.",
+    "firstAttestation": {"source": "Chuastuanift: Ein Sündenbekenntnis der manichäisch", "period": "900'den önce", "form": "firişteler"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Ermenicedeki hreşdag, yani melek sözü de Orta Farsçadan alınmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "feriştah maddesi", "url": "https://www.nisanyansozluk.com/kelime/feri%C5%9Ftah"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "feriştah", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "figan",
+    "word": "figan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "fiġān", "meaning": "feryat, inleme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "figan", "meaning": "yüksek sesle ağlama, inleme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüksek sesle ağlayıp inleme.",
+    "currentMeaning": "Ağlamanın bağırış ve iniltiyle dışa vurulması.",
+    "story": "Farsça fiġān, acının sesle dışarı taşmasını, feryadı ve inlemeyi anlatıyordu. Türkçede figan da ağlamanın duyulur hâlini korudu; kelime, gözyaşına eşlik eden bağırışı ve iniltiyi öne çıkarır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "figan", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "rahşan",
+    "word": "rahşan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "raḫşīden", "meaning": "parlamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "raḫşān", "meaning": "parlayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rahşan", "meaning": "parlak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Işıldayan, parlak olan.",
+    "currentMeaning": "Parıltısıyla göze çarpan, ışıldayan.",
+    "story": "Farsçada raḫşīden, bir şeyin parlamasını anlatan fiildi. Ondan oluşan raḫşān, bu ışıldamayı taşıyan varlığı niteledi. Türkçeye rahşan olarak geçen kelime, parlamak eylemini bir parlaklık özelliği olarak korudu.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "rahşan maddesi", "url": "https://lugatim.com/s/rah%C5%9Fan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "seraser",
+    "word": "seraser",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "zarf",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ser-ā-ser", "meaning": "baştan başa, bütünüyle", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "seraser", "meaning": "baştan başa, bütünüyle", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir ucundan öbürüne, bütünüyle.",
+    "currentMeaning": "Hiçbir bölümünü dışarıda bırakmadan, baştan sona ve tamamıyla.",
+    "story": "Farsçada baş bildiren ser, araya pekiştirici ā getirilerek tekrarlandı. Ser-ā-ser biçimi böylece bir baştan ötekine uzanan bütünlüğü anlattı. Türkçedeki seraser de bir alanın veya şeyin tamamını kapsayan bu düşünceyi taşır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "seraser maddesi", "url": "https://lugatim.com/s/seraser"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "guşe",
+    "word": "guşe",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "gūşe", "meaning": "köşe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "guşe", "meaning": "köşe", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yerin köşesi.",
+    "currentMeaning": "Köşe; bir alanın kenarda kalan bölümü.",
+    "story": "Farsça gūşe, bir yerin köşesini adlandırıyordu. Türkçede guşe ve kûşe biçimleriyle karşılanan bu söz, mekânın kenarda kalan bölümünü anlatmayı sürdürdü.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "kûşe", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "guşe maddesi", "url": "https://lugatim.com/s/gu%C5%9Fe"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "guş",
+    "word": "guş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "gūş", "meaning": "kulak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "guş", "meaning": "kulak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İşitme organı, kulak.",
+    "currentMeaning": "Sesleri duymayı sağlayan organ, kulak.",
+    "story": "Farsçada gūş, sesleri duyduğumuz kulağın adıydı. Türkçeye guş biçiminde geçerken de aynı beden bölümünü anlattı; kelimenin anlamı işitme organına bağlı kaldı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "guş maddesi", "url": "https://lugatim.com/s/gu%C5%9F"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "serfiraz",
+    "word": "serfiraz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ser-efrāz", "meaning": "başını yükselten", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "serfiraz", "meaning": "başını yükselten, seçkin", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Başını yükselten; üstün ve seçkin olan.",
+    "currentMeaning": "Başını yukarı kaldıran, yükseğe uzanan; mecazen benzerlerinden üstün ve seçkin olan.",
+    "story": "Farsça ser-efrāz, başın yukarı kaldırılması görüntüsünü taşır. Bu yükselme, insanın değer ve konum bakımından öne çıkmasını da anlatır. Türkçedeki serfiraz, serefraz biçimiyle birlikte bu başı yüksek ve seçkin olma düşüncesini sürdürür.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "serefraz", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "serfiraz maddesi", "url": "https://lugatim.com/s/serfiraz"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09ae2-8f42-76a0-a0b0-34f4f35d4a5e
+--------
+user
+# Köken — Üretim Prompt'u (v13)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. Bazı satırlarda ayrıca `ipucu anlam` bulunur; o da
+hangi sözcüğün kastedildiğini göstermek içindir, **kanıt değildir**: kaynakla
+çelişirse kaynağı esas al, `currentMeaning` ve `shortMeaning` alanlarını
+kaynaktan yaz, ipucu anlamı kopyalama. `rarity` ise kesin veridir: satırda ne
+yazıyorsa `rarity` alanına **aynen** onu yaz.
+
+1. dirin — ipucu: fa — rarity: az-bilinen — ipucu anlam: eski, kadim
+2. şebçerağ — ipucu: fa — rarity: az-bilinen — ipucu anlam: gece parladığına inanılan değerli taş
+3. şikâr — ipucu: fa — rarity: az-bilinen — ipucu anlam: av
+4. dürüşt — ipucu: fa — rarity: az-bilinen — ipucu anlam: sert, kaba
+5. sühan — ipucu: fa — rarity: az-bilinen — ipucu anlam: söz
+6. encam — ipucu: fa — rarity: az-bilinen — ipucu anlam: son, akıbet
+7. ziver — ipucu: fa — rarity: az-bilinen — ipucu anlam: süs, bezek
+8. şikeste — ipucu: fa — rarity: az-bilinen — ipucu anlam: kırık, kırılmış
+9. puşide — ipucu: fa — rarity: az-bilinen — ipucu anlam: örtü; örtülmüş
+10. eşk — ipucu: fa — rarity: az-bilinen — ipucu anlam: gözyaşı
+11. sitare — ipucu: fa — rarity: az-bilinen — ipucu anlam: yıldız
+12. şehrayin — ipucu: fa — rarity: az-bilinen — ipucu anlam: ışıklarla yapılan şehir şenliği
+13. ferda — ipucu: fa — rarity: az-bilinen — ipucu anlam: yarın, gelecek
+14. feriştah — ipucu: fa — rarity: az-bilinen — ipucu anlam: melek
+15. figan — ipucu: fa — rarity: az-bilinen — ipucu anlam: acıyla bağırma, inleme
+16. rahşan — ipucu: fa — rarity: az-bilinen — ipucu anlam: parlak, ışıldayan
+17. seraser — ipucu: fa — rarity: az-bilinen — ipucu anlam: baştan başa
+18. guşe — ipucu: fa — rarity: az-bilinen — ipucu anlam: köşe, kuytu
+19. guş — ipucu: fa — rarity: az-bilinen — ipucu anlam: kulak
+20. serfiraz — ipucu: fa — rarity: az-bilinen — ipucu anlam: yücelmiş, başı dik
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve
+gerektiğinde Kubbealtı Lugatı kayıtlarının özeti verilmiştir. **Bu özetler
+esastır.** Kubbealtı bölümü varsa (ilk iki kaynakta madde yoksa gelir) köken
+satırındaki dil kısaltması (`Fars.`, `Ar.`) `donorLanguage` için esastır ve
+kaynak şöyle yazılır:
+`{"name": "Kubbealtı Lugatı", "ref": "<kelime> maddesi", "url": "<verilen bağlantı>"}`.
+
+### dirin
+
+**Kubbealtı Lugatı — DÎRİN – DÎRÎNE**
+
+Köken satırı: Fars. dіrіn – dіrіne
+
+İlk anlam: Eski, kadim
+
+Bağlantı: https://lugatim.com/s/dirin
+
+### şebçerağ
+
+**Kubbealtı Lugatı — ŞEBÇERAĞ**
+
+Köken satırı: Fars. şeb “gece” ve çerāğ “mum” ile şeb-çerāğ
+
+İlk anlam: Gece parlayan kıymetli taş
+
+Bağlantı: https://lugatim.com/s/%C5%9Feb%C3%A7era%C4%9F
+
+### şikâr
+
+**Nişanyan — şikâr**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › şikār/şikar › av (av eylemi ve avlanan hayvan)  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Soğdca › əşkar-/şkar- › takip etmek, peşinden gitmek  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1360, anon. — Danişmend-Name
+  > Ol gün çok şikār ele getürdiler.
+- 1429, Ahmed b. Kadı-i Manyas — Gülistan terc.
+  > bu fażīlet vesīlesi-ile müştāḳlaruŋ göŋlini şikār iderler [avlarlar]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C5%9Fik%C3%A2r
+
+**TDK** — köken kaydı: Farsça şikār · anlam: ► av
+
+### dürüşt
+
+**TDK** — köken kaydı: Farsça duruşt · anlam: Sert, gücendirici, kırıcı olan
+
+### sühan
+
+**Nişanyan — sühan**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › saχʷan › a.a.  [ses evrimi]
+- Farsça › saχun/suχan › söz, kelam  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > saḫun, saḫan & usit. suḫan (p.): Söz.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/s%C3%BChan
+
+### encam
+
+**Nişanyan — encam**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Avestaca › cāma-  [türeme]
+- Orta Farsça › hancāftan, hancām- › sona erdirmek, bitirmek, tamamlamak  [türeme]
+- Orta Farsça › hancām › a.a.  [ses evrimi]
+- Farsça › ancām › son, bitim, nihayet  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Avestaca › han-cāma- › bir araya geliş, sona eriş  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1317, Gülşehri — Mantıku't-Tayr
+  > bir nefes nefsüme ārām irmedi / hırşum āġāzına encām irmedi [sona ermedi]
+- 1574, Hoca Sadeddin Ef. — Tacü't-Tevârih
+  > eyyām-i sefer zafer-i encām bulup [sefer günleri zafer ile sonuçlanıp]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/encam
+
+**TDK** — köken kaydı: Farsça encām · anlam: ► son
+
+### ziver
+
+**Kubbealtı Lugatı — ZÎVER**
+
+Köken satırı: Fars. zіver
+
+İlk anlam: Süs
+
+Bağlantı: https://lugatim.com/s/ziver
+
+### şikeste
+
+**Nişanyan — şikeste**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › şkastan, şkēn- › a.a.  [ses evrimi]
+- Farsça › şikastan, şikan- › kırmak, ezmek, parçalamak  [türeme]
+- Farsça › şikasta › kırık  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Avestaca › skand- › kırmak  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1437, Ömer b. Mezîd — Mecmuatü'n-nezâir
+  > şikeste Kanber-oğlına buyursalar ki tecrīd ol
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C5%9Fikeste
+
+**TDK** — köken kaydı: Farsça şikeste · anlam: Kırılmış
+
+### puşide
+
+**Kubbealtı Lugatı — PÛŞÎDE**
+
+Köken satırı: Fars. pūşіden “örtmek, örtünmek”ten pūşіde
+
+İlk anlam: Örtülü, örtünmüş
+
+Bağlantı: https://lugatim.com/s/pu%C5%9Fide
+
+### eşk
+
+**Kubbealtı Lugatı — EŞK**
+
+Köken satırı: Fars. eşk
+
+İlk anlam: Göz yaşı
+
+Bağlantı: https://lugatim.com/s/e%C5%9Fk
+
+### sitare
+
+**Nişanyan — sitare**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *h₂stḗr (*astḗr) › a.a.  [ses evrimi]
+- Orta Farsça › star/stārag › a.a.  [ses evrimi]
+- Farsça › sitāra › yıldız  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Sanskritçe › str̥ › a.a.  [eşkökenlilik]
+- Avestaca › star- › a.a.  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > stella - Fa: stara - Tr: juldus [yulduz]
+- 1330, Aşık Paşa — Garib-name
+  > toğmadıġdı nüh felek heft āsumān [doğmamıştı dokuz felek ve yedi gök] / ne sitāre var-ıdı ne ins ü cān
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sitare
+
+### şehrayin
+
+**Nişanyan — şehrayin**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › āyīn › donatma  [bileşik sözcüğün devamı]
+- Farsça › şahr › şehir, ülke  [bileşik sözcük]
+
+Tanıklıklar (eskiden yeniye):
+- 1900, Şemseddin Sami — Kamus-ı Türki
+  > şehrāyīn: Şehrin donatılmasiyle icra olunan umumi cümbüş, şenlik.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C5%9Fehrayin
+
+### ferda
+
+**Nişanyan — ferda**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › fratāg › a.a.  [ses evrimi]
+- Farsça › fardā › 1. gün doğumu, şafak, 2. yarın  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > cras [yarın] - Fa: farda - Tr: tangda [taŋda = sabahleyin]
+
+Not: Karş. Sans prātár प्रातर् "erken, sabah".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ferda
+
+**TDK** — köken kaydı: Farsça ferdā · anlam: ► yarın
+
+### feriştah
+
+**Nişanyan — feriştah**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Avestaca › fraēşta- › elçi  [alıntı]
+- Orta Farsça › frēştag/hrēştag › a.a.  [ses evrimi]
+- Farsça › firişta › elçi, melek  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <900, Chuastuanift: Ein Sündenbekenntnis der manichäisch
+  > béş teŋrii yarukın kuvratıġlıı firişteler [beş tanrı ışığını toplayan elçiler/melekler]
+- 1069, Yusuf Hacib — Kutadgu Bilig
+  > färişte bitir ḳul negü ḳılmışın [melek yazar kulun neler kıldığını]
+- 1303, Codex Cumanicus
+  > missus [elçi] - Fa: frista - Tr: elǵi [elci]
+
+Not: Türkçede İslamöncesi dönemde, Ortadoğu kökenli olan Mani dini çerçevesinde yaygın kullanım bulmuş bir kavramdır. İslami dönemde de aynı sıklıkla kullanılır. • Erm hreşdag հրեշտակ "melek" Orta Farsçadan alınmıştır. • İbr malak ve EYun ángelos "elçi, tanrı elçisi" kavramları MÖ 6. yy'dan itibaren İran kültüründen aktarılmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/feri%C5%9Ftah
+
+**TDK** — köken kaydı: Farsça firişte · anlam: En iyi, en üstün
+
+### figan
+
+**TDK** — köken kaydı: Farsça fiġān · anlam: Bağırarak ağlama, inleme
+
+### rahşan
+
+**Kubbealtı Lugatı — RAHŞAN**
+
+Köken satırı: Fars. raḫşіden “parlamak”tan raḫşān
+
+İlk anlam: Parlak
+
+Bağlantı: https://lugatim.com/s/rah%C5%9Fan
+
+### seraser
+
+**Kubbealtı Lugatı — SERÂSER**
+
+Köken satırı: Fars. ser “baş” ve pekiştirme elifi -ā- ile ser-ā-ser
+
+İlk anlam: Baştan başa, tamâmıyle
+
+Bağlantı: https://lugatim.com/s/seraser
+
+**Kubbealtı Lugatı — SERÂSER**
+
+İlk anlam: [Kumaşa baştan başa tel konularak dokunduğu için bu isim verilmiş olabilir] İpek, altın ve gümüşle dokunan çok kıymetli eski bir kumaş çeşidi
+
+Bağlantı: https://lugatim.com/s/seraser
+
+### guşe
+
+**Kubbealtı Lugatı — GÛŞE**
+
+İlk anlam: Bk. KÛŞE
+
+Bağlantı: https://lugatim.com/s/gu%C5%9Fe
+
+### guş
+
+**Kubbealtı Lugatı — GÛŞ**
+
+Köken satırı: Fars. gūş
+
+İlk anlam: Kulak
+
+Bağlantı: https://lugatim.com/s/gu%C5%9F
+
+### serfiraz
+
+**Kubbealtı Lugatı — SERFİRAZ**
+
+İlk anlam: Bk. SEREFRAZ
+
+Bağlantı: https://lugatim.com/s/serfiraz
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives` **her zaman dizidir**. Akraba kelime yoksa `null` değil `[]`
+  yaz. `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+Eksik yönlendirme maddelerini kontrol edip veri setini verilen şemaya göre hazırlıyorum.
+
+web search: 
+web search: https://lugatim.com/s/kuşe
+web search: 
+web search: site.lugatim.com "SEREFRAZ" "Fars" ...
+web search: 
+web search: https://www.lugatim.com/s/SEREFRAZ
+codex
+[
+  {
+    "id": "dirin",
+    "word": "dirin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dīrīn", "meaning": "eski, kadim", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dirin", "meaning": "çok eskiden kalmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çok eskiden kalmış olan.",
+    "currentMeaning": "Geçmişi çok eskiye uzanan, kadim olan.",
+    "story": "Farsçada dīrīn, geçmişi çok gerilere uzanan şeyleri niteliyordu. Türkçeye taşındığında da zamanla eskimiş, uzun bir geçmiş biriktirmiş olma düşüncesini korudu.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "dirin maddesi", "url": "https://lugatim.com/s/dirin"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şebçerağ",
+    "word": "şebçerağ",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "şeb-çerāğ", "meaning": "gece ışıldayan değerli taş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şebçerağ", "meaning": "gece ışıldayan değerli taş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gece ışıldadığı düşünülen değerli taş.",
+    "currentMeaning": "Karanlıkta parladığına inanılan kıymetli taş.",
+    "story": "Farsçada geceyi anlatan şeb ile mumu anlatan çerāğ, karanlıkta ışık veren bir taşın adında buluştu. Taşın parıltısı bir gece mumuna benzetilerek adlandırıldı. Türkçe de bu adı, gece ışıldadığı düşünülen değerli taş için aldı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "şebçerağ maddesi", "url": "https://lugatim.com/s/%C5%9Feb%C3%A7era%C4%9F"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şikâr",
+    "word": "şikâr",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "şikār/şikar", "meaning": "avlanma ve avlanan hayvan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şikâr", "meaning": "av", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Avlanma işi veya avlanan hayvan.",
+    "currentMeaning": "Av; avlanma eylemi ya da bu eylemle ele geçirilen hayvan.",
+    "story": "Farsçada şikār, hem av peşinde koşmayı hem de ele geçirilen hayvanı adlandırıyordu. Türkçeye bu av dünyasıyla birlikte geçti. Bir gönlü şikâr etmek gibi eski kullanımlarda ise ele geçirilen şey hayvan değil, kişinin ilgisi ve sevgisiydi.",
+    "firstAttestation": {"source": "Danişmend-Name", "period": "1360", "form": "şikār"},
+    "relatives": [
+      {"word": "əşkar-/şkar-", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şikâr maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fik%C3%A2r"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şikâr", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dürüşt",
+    "word": "dürüşt",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "duruşt", "meaning": "sert, kaba", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dürüşt", "meaning": "sert ve incitici", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sertliğiyle karşısındakini inciten.",
+    "currentMeaning": "Sert, insanı gücendiren veya kıran nitelikte olan.",
+    "story": "Farsça duruşt, sertlik ve kabalık düşüncesini taşıyordu. Türkçede bu sertlik, bir sözün ya da davranışın karşısındakini incitmesini anlatır. Böylece dürüşt, insan ilişkilerinde hissedilen kırıcı sertliğin adı olarak yaşar.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dürüşt", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sühan",
+    "word": "sühan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "saḫʷan", "meaning": "söz, kelam", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "saḫun/suḫan", "meaning": "söz, kelam", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sühan", "meaning": "söz, kelam", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Söylenen söz, kelam.",
+    "currentMeaning": "Düşünceyi dile getiren söz veya kelam.",
+    "story": "Orta Farsçadaki saḫʷan, insanın ağzından çıkan sözü adlandırıyordu. Farsçada saḫun ve suḫan biçimlerini alırken taşıdığı söz kavramı değişmedi. Türkçedeki sühan da bu uzun ses yolculuğunun sonunda aynı konuşma ve anlatma dünyasını korudu.",
+    "firstAttestation": {"source": "Meninski, Thesaurus", "period": "1680", "form": "suḫan"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sühan maddesi", "url": "https://www.nisanyansozluk.com/kelime/s%C3%BChan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "encam",
+    "word": "encam",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {"language": "ae", "form": "cāma-", "meaning": "sona eriş", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "hancāftan, hancām-", "meaning": "sona erdirmek, bitirmek, tamamlamak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "hancām", "meaning": "son, bitim", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "ancām", "meaning": "son, bitim", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "encam", "meaning": "son, sonuç", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir işin veya olayın vardığı son.",
+    "currentMeaning": "Bir işin, olayın ya da sürecin bitimi ve ulaştığı sonuç.",
+    "story": "Encamın geçmişinde bir işi tamamlayıp sona erdirme eylemi bulunur. Orta Farsçada bu eylemi anlatan fiilden, ulaşılan sonu adlandıran hancām doğdu. Farsçada ancām biçimini alan kelime, Türkçeye bir olayın varıp dayandığı sonucu anlatmak üzere geçti.",
+    "firstAttestation": {"source": "Gülşehri, Mantıku't-Tayr", "period": "1317", "form": "encām"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "encam maddesi", "url": "https://www.nisanyansozluk.com/kelime/encam"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "encam", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ziver",
+    "word": "ziver",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "zīver", "meaning": "süs, bezek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ziver", "meaning": "süs, bezek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyi güzelleştiren süs.",
+    "currentMeaning": "Güzellik katmak için kullanılan süs veya bezek.",
+    "story": "Farsçada zīver, bir şeyi güzelleştiren süsü adlandırıyordu. Türkçeye geçerken de bu bezeme düşüncesini korudu; kelimenin merkezinde, görünüşe güzellik katan şey bulunur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "ziver maddesi", "url": "https://lugatim.com/s/ziver"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şikeste",
+    "word": "şikeste",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "şkastan, şkēn-", "meaning": "kırmak, ezmek, parçalamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şikastan, şikan-", "meaning": "kırmak, ezmek, parçalamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şikasta", "meaning": "kırık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şikeste", "meaning": "kırılmış", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kırılıp bütünlüğünü yitirmiş olan.",
+    "currentMeaning": "Kırılma sonucunda bütünlüğü bozulmuş olan.",
+    "story": "Şikestenin geçmişinde bir şeyi kırma, ezme ve parçalama eylemi vardır. Farsçada bu eylemin sonucunu anlatan şikasta, artık kırılmış olanı niteledi. Türkçeye şikeste biçiminde geçerken de eylemden geriye kalan bu kırıklık durumunu taşıdı.",
+    "firstAttestation": {"source": "Ömer b. Mezîd, Mecmuatü'n-nezâir", "period": "1437", "form": "şikeste"},
+    "relatives": [
+      {"word": "skand-", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şikeste maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fikeste"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şikeste", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "puşide",
+    "word": "puşide",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "pūşīden", "meaning": "örtmek, örtünmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pūşīde", "meaning": "örtülü, örtünmüş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "puşide", "meaning": "örtülü, örtünmüş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Üzeri örtülmüş veya örtünmüş olan.",
+    "currentMeaning": "Bir örtüyle kapanmış ya da kendisini örtmüş olan.",
+    "story": "Farsçada pūşīden, bir şeyin üzerini örtme veya insanın örtünme eylemini anlatıyordu. Bu fiilden oluşan pūşīde, örtme işinin ardından ortaya çıkan durumu adlandırdı. Türkçedeki puşide de üzeri kapanmış, örtünmüş olma hâlini taşır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "puşide maddesi", "url": "https://lugatim.com/s/pu%C5%9Fide"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "eşk",
+    "word": "eşk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "eşk", "meaning": "gözyaşı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "eşk", "meaning": "gözyaşı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gözden akan yaş.",
+    "currentMeaning": "Gözden süzülen yaş, gözyaşı.",
+    "story": "Farsçada eşk, gözde birikip dışarı süzülen yaşı adlandırıyordu. Türkçeye aynı somut görüntüyü taşıyarak geçti; kelimenin anlam yolculuğunda gözyaşı başka bir nesnenin adına dönüşmedi.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "eşk maddesi", "url": "https://lugatim.com/s/e%C5%9Fk"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sitare",
+    "word": "sitare",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "h₂stḗr", "meaning": "yıldız", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "star/stārag", "meaning": "yıldız", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sitāra", "meaning": "yıldız", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sitare", "meaning": "yıldız", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Gökte görülen yıldız.",
+    "currentMeaning": "Yıldız; gökyüzündeki ışıklı gök cismi.",
+    "story": "Sitare, gökte görülen yıldızın çok eski bir adını taşır. Hint-Avrupa ana diline uzanan biçim, Orta Farsçada star ve stārag, Farsçada sitāra olarak sürdü. Sesler değişirken gökteki karşılığı aynı kaldı ve Türkçe kelimeyi yıldız için aldı.",
+    "firstAttestation": {"source": "Aşık Paşa, Garib-name", "period": "1330", "form": "sitāre"},
+    "relatives": [
+      {"word": "str̥", "relation": "eş köken"},
+      {"word": "star-", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sitare maddesi", "url": "https://www.nisanyansozluk.com/kelime/sitare"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şehrayin",
+    "word": "şehrayin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "birleşik",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "āyīn", "meaning": "donatma", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şahr", "meaning": "şehir, ülke", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şehrayin", "meaning": "şehir donatılarak yapılan genel şenlik", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Şehir süslenerek yapılan toplu şenlik.",
+    "currentMeaning": "Şehrin donatılıp süslenmesiyle gerçekleştirilen genel eğlence ve kutlama.",
+    "story": "Şehrayinde Farsçanın şehir bildiren şahr sözüyle donatmayı anlatan āyīn bir araya gelir. Birlikte, süslenerek kutlamaya hazırlanan şehri göz önüne getirirler. Türkçede ad, bu hazırlığın eşlik ettiği toplu eğlenceyi ve şenliği anlatır.",
+    "firstAttestation": {"source": "Şemseddin Sami, Kamus-ı Türki", "period": "1900", "form": "şehrāyīn"},
+    "relatives": [
+      {"word": "şehir", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şehrayin maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fehrayin"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ferda",
+    "word": "ferda",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "fratāg", "meaning": "gün doğumu, şafak; yarın", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "fardā", "meaning": "gün doğumu, şafak; yarın", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ferda", "meaning": "yarın", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bugünü izleyen gün.",
+    "currentMeaning": "İçinde bulunulan günden sonra gelecek gün, yarın.",
+    "story": "Farsçada fardā, hem günün doğuşunu hem de yarını anlatıyordu. Bu iki anlamda, gecenin ardından başlayacak yeni gün aynı kelimede buluşur. Orta Farsça fratāg biçiminin devamı olan söz, Türkçeye ferda olarak geçerken yarın anlamını taşıdı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ferda maddesi", "url": "https://www.nisanyansozluk.com/kelime/ferda"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ferda", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "feriştah",
+    "word": "feriştah",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {"language": "ae", "form": "fraēşta-", "meaning": "elçi", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "frēştag/hrēştag", "meaning": "elçi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "firişta", "meaning": "elçi, melek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "feriştah", "meaning": "en iyi, en üstün", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hepsinden üstün veya en iyi olan.",
+    "currentMeaning": "Bir işte ya da nitelikte başkalarının hepsini geride bırakan, en üstün olan.",
+    "story": "Feriştahın yolculuğu, Avestacada elçiyi adlandıran fraēşta- ile başlar. Elçilik düşüncesi Farsçada tanrısal haberciyi de kapsayarak melek anlamını kazandı. Türkçeye İslam öncesindeki dinî kullanım içinde de giren bu söz, zamanla üstünlük bildiren bir mecaza dönüştü. Bugünkü feriştah, birinin ya da bir şeyin en üstününü belirtir.",
+    "firstAttestation": {"source": "Chuastuanift: Ein Sündenbekenntnis der manichäisch", "period": "900'den önce", "form": "firişteler"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Ermenicedeki hreşdag, yani melek sözü de Orta Farsçadan alınmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "feriştah maddesi", "url": "https://www.nisanyansozluk.com/kelime/feri%C5%9Ftah"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "feriştah", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "figan",
+    "word": "figan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "fiġān", "meaning": "feryat, inleme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "figan", "meaning": "yüksek sesle ağlama, inleme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüksek sesle ağlayıp inleme.",
+    "currentMeaning": "Ağlamanın bağırış ve iniltiyle dışa vurulması.",
+    "story": "Farsça fiġān, acının sesle dışarı taşmasını, feryadı ve inlemeyi anlatıyordu. Türkçede figan da ağlamanın duyulur hâlini korudu; kelime, gözyaşına eşlik eden bağırışı ve iniltiyi öne çıkarır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "figan", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "rahşan",
+    "word": "rahşan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "raḫşīden", "meaning": "parlamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "raḫşān", "meaning": "parlayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rahşan", "meaning": "parlak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Işıldayan, parlak olan.",
+    "currentMeaning": "Parıltısıyla göze çarpan, ışıldayan.",
+    "story": "Farsçada raḫşīden, bir şeyin parlamasını anlatan fiildi. Ondan oluşan raḫşān, bu ışıldamayı taşıyan varlığı niteledi. Türkçeye rahşan olarak geçen kelime, parlamak eylemini bir parlaklık özelliği olarak korudu.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "rahşan maddesi", "url": "https://lugatim.com/s/rah%C5%9Fan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "seraser",
+    "word": "seraser",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "zarf",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ser-ā-ser", "meaning": "baştan başa, bütünüyle", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "seraser", "meaning": "baştan başa, bütünüyle", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir ucundan öbürüne, bütünüyle.",
+    "currentMeaning": "Hiçbir bölümünü dışarıda bırakmadan, baştan sona ve tamamıyla.",
+    "story": "Farsçada baş bildiren ser, araya pekiştirici ā getirilerek tekrarlandı. Ser-ā-ser biçimi böylece bir baştan ötekine uzanan bütünlüğü anlattı. Türkçedeki seraser de bir alanın veya şeyin tamamını kapsayan bu düşünceyi taşır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "seraser maddesi", "url": "https://lugatim.com/s/seraser"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "guşe",
+    "word": "guşe",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "gūşe", "meaning": "köşe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "guşe", "meaning": "köşe", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yerin köşesi.",
+    "currentMeaning": "Köşe; bir alanın kenarda kalan bölümü.",
+    "story": "Farsça gūşe, bir yerin köşesini adlandırıyordu. Türkçede guşe ve kûşe biçimleriyle karşılanan bu söz, mekânın kenarda kalan bölümünü anlatmayı sürdürdü.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "kûşe", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "guşe maddesi", "url": "https://lugatim.com/s/gu%C5%9Fe"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "guş",
+    "word": "guş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "gūş", "meaning": "kulak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "guş", "meaning": "kulak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İşitme organı, kulak.",
+    "currentMeaning": "Sesleri duymayı sağlayan organ, kulak.",
+    "story": "Farsçada gūş, sesleri duyduğumuz kulağın adıydı. Türkçeye guş biçiminde geçerken de aynı beden bölümünü anlattı; kelimenin anlamı işitme organına bağlı kaldı.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "guş maddesi", "url": "https://lugatim.com/s/gu%C5%9F"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "serfiraz",
+    "word": "serfiraz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ser-efrāz", "meaning": "başını yükselten", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "serfiraz", "meaning": "başını yükselten, seçkin", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Başını yükselten; üstün ve seçkin olan.",
+    "currentMeaning": "Başını yukarı kaldıran, yükseğe uzanan; mecazen benzerlerinden üstün ve seçkin olan.",
+    "story": "Farsça ser-efrāz, başın yukarı kaldırılması görüntüsünü taşır. Bu yükselme, insanın değer ve konum bakımından öne çıkmasını da anlatır. Türkçedeki serfiraz, serefraz biçimiyle birlikte bu başı yüksek ve seçkin olma düşüncesini sürdürür.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "serefraz", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "serfiraz maddesi", "url": "https://lugatim.com/s/serfiraz"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+tokens used
+32,446

@@ -1,0 +1,1696 @@
+[
+  {
+    "id": "arketip",
+    "word": "arketip",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "arχétypos", "meaning": "ilk örnek, model", "period": null, "reconstructed": false},
+      {"language": "en", "form": "archetype", "meaning": "ilk örnek; Jung psikolojisinde temel örüntü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "arketip", "meaning": "kök örnek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Başka örneklerin temelinde bulunan ilk model.",
+    "currentMeaning": "Sonraki örneklere temel oluşturan model; Jung psikolojisinde ortak ruhsal örüntü.",
+    "story": "Eski Yunancadaki arχétypos, başka örneklerin kendisine bakılarak kurulacağı başlangıç modelini adlandırıyordu. Bu ilk örnek düşüncesi, İngilizcede Jung psikolojisinin temel ruhsal örüntülerini de anlatmaya başladı. Türkçeye doğrudan hangi dilden geçtiği konusunda İngilizce ve Fransızca açıklamaları ayrışsa da kelime bugün görünen örneklerin ardındaki ortak modeli düşündürür.",
+    "firstAttestation": {"source": "Orta Öğretim Psikoloji, Sosyoloji, Mantık, Felsefe ve Pedagoji Terimleri", "period": "1952", "form": "Arketip"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük doğrudan veren dili İngilizce olarak gösterirken TDK Güncel Türkçe Sözlük Fransızca archétype biçimini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "arketip maddesi", "url": "https://www.nisanyansozluk.com/kelime/arketip"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "arketip maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "avangart",
+    "word": "avangart",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "avant-garde", "meaning": "öncü birlik; yeniliklere öncülük eden", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "avangart", "meaning": "sanatta ve düşüncede yeniliklere öncülük eden", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sanatta ve düşüncede alışılmışın önüne geçen, öncü.",
+    "currentMeaning": "Yerleşmiş anlayışları aşarak yeni ifade biçimleri deneyen ve yeniliklere öncülük eden.",
+    "story": "Fransızca avant-garde, ordunun önünde ilerleyen birliği adlandırır. Bu önden gitme görüntüsü sanat ve düşünce alanına taşındığında, başkalarının henüz denemediği yolları açanların niteliği oldu. Türkçede avangart da yeniliği ilk deneyen eserleri ve yaklaşımları anlatır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "avangart maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "banal",
+    "word": "banal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fro",
+    "chain": [
+      {"language": "fro", "form": "ban/bandon", "meaning": "yargılama yetkisi, yasak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "banal", "meaning": "feodal yetkiye bağlı; sıradan halktan, bayağı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "banal", "meaning": "yaygın ve alışılmış, özgünlüğü olmayan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çok kullanıldığı için özgünlüğünü yitirmiş, sıradan.",
+    "currentMeaning": "Herkesin bildiği veya kullandığı, alışılmışlığı yüzünden özgün görünmeyen.",
+    "story": "Banalin geçmişinde, Eski Fransızcada yasak koyma ve yargılama yetkisini anlatan ban/bandon bulunur. Fransızca banal önce feodal yetkiye bağlı olanı, ardından soylu sayılmayan halk tabakasını niteledi. Toplumsal konum bildiren bu değerlendirme zamanla sıradanlık yargısına dönüştü; Türkçede de özgün görünmeyen sözlere ve düşüncelere uygulanır.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar", "period": "<1930", "form": "banal"},
+    "relatives": [{"word": "banalite", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "banal maddesi", "url": "https://www.nisanyansozluk.com/kelime/banal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "banal maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bohem",
+    "word": "bohem",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "Boiohaemum", "meaning": "Boii adlı Kelt topluluğunun ülkesi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "Bohême", "meaning": "Bohemya adlı Orta Avrupa bölgesi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "bohème", "meaning": "Bohemyalı; Roman; düzensiz yaşayan sanatçı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bohem", "meaning": "geleceği düşünmeden, düzensiz ve tasasız yaşayan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Geleceği dert etmeden, düzensiz ve tasasız yaşayan.",
+    "currentMeaning": "Geçim ve gelecek kaygısını geri plana atarak günübirlik, serbest ve düzensiz bir hayat süren kişi veya topluluğu niteleyen.",
+    "story": "Bohemin yolculuğu, Boii adlı Kelt topluluğunun yurdunu adlandıran Latince Boiohaemum ile başlar. Bu yer adı Fransızcada Bohême biçimini aldı; bohème de önce o ülkeyle ilişkilendirilen insanları, sonra Romanları adlandırdı. Kelime daha sonra yerleşik hayatın düzenine uymayan sanatçılara yöneldi. Türkçede ülke bağlantısı silikleşerek tasasız ve düzensiz bir yaşayışın niteliği öne çıktı.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1931", "form": "bohem"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bohem maddesi", "url": "https://www.nisanyansozluk.com/kelime/bohem"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bohem maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "burlesk",
+    "word": "burlesk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "burla", "meaning": "şaka, alay", "period": null, "reconstructed": false},
+      {"language": "it", "form": "burlesco", "meaning": "şaka, alay", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "burlesque", "meaning": "kaba komedi, alaycı taklit", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "burlesk", "meaning": "abartılı komikliğe ve alaya dayanan sanat türü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Abartılı komiklik ve alay üzerine kurulan sanat türü.",
+    "currentMeaning": "Özellikle edebiyat ve gösteri sanatlarında abartı, alay ve gülünçleştirmeye dayanan tür.",
+    "story": "İtalyanca burla, bir şakanın veya alayın çevresinde dolaşan kelimeydi. Burlesco üzerinden İngilizce ve Fransızcadaki burlesque biçimine ulaştığında, komik taklitleri ve kaba güldürüyü adlandırmaya başladı. Türkçeye aktarımında Fransızca öne çıkmakla birlikte İngilizce yolu da verilir. Bugünkü kullanımında şaka, tek bir davranıştan çıkarak eserin bütününü kuran bir sanat anlayışına dönüşmüştür.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1949", "form": "burlesk"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük veren dil halkasını İngilizce / Fransızca olarak sunarken TDK Güncel Türkçe Sözlük Fransızca burlesque biçimini gösterir."
+    ],
+    "funFact": "Amerikan İngilizcesinde burlesque, 1870'lerden itibaren striptiz gösterilerini de adlandırmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "burlesk maddesi", "url": "https://www.nisanyansozluk.com/kelime/burlesk"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "burlesk maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dekadan",
+    "word": "dekadan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "cadere, cas-", "meaning": "düşmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "decadere", "meaning": "gerilemek, yozlaşmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "decadens", "meaning": "gerilemek, yozlaşmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "décadent", "meaning": "yozlaşmış, sefahate düşkün; bohem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dekadan", "meaning": "natüralizme karşı çıkarak sembolizme öncülük eden sanatçı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Fransa'da sembolizme öncülük eden sanatçılara verilen ad.",
+    "currentMeaning": "19. yüzyılın sonlarında Fransa'da natüralizme karşı çıkan ve sembolizmin gelişmesine öncülük eden sanatçı.",
+    "story": "Latince cadere, bir şeyin bulunduğu yerden düşmesini anlatıyordu. Geç Latincede bu düşüş, decadere ile bozulma ve gerilemenin resmi hâline geldi. Fransızca décadent aynı olumsuz değerlendirmeyi kişilere ve yaşayışlara taşıdı. Edebiyatta ise kelime, natüralizme karşı çıkan ve sembolizme yönelen sanatçıların adı olarak özelleşti; Türkçeye de bu sanat tartışmalarının terimi olarak yerleşti.",
+    "firstAttestation": {"source": "Ahmed Rasim — Şehir Mektupları", "period": "1897", "form": "dekadanlar"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "dekadan maddesi", "url": "https://www.nisanyansozluk.com/kelime/dekadan"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dekadan maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "determinist",
+    "word": "determinist",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "déterministe", "meaning": "olayların nedenlerle belirlendiğini savunan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "determinist", "meaning": "belirlenimcilik görüşünü benimseyen kişi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Olayların nedenlerle belirlendiğini savunan kişi.",
+    "currentMeaning": "Olayların ve eylemlerin önceki nedenler ve koşullar tarafından belirlendiği görüşünü benimseyen kişi.",
+    "story": "Fransızca déterministe, bir olayın ortaya çıkışını onu hazırlayan nedenlere bağlayan düşüncenin savunucusunu adlandırır. Bu bakışta her sonuç, kendinden önceki koşulların devamı olarak ele alınır. Türkçeye alınan determinist de aynı düşünsel tutumu benimseyen kişiyi belirtir.",
+    "firstAttestation": null,
+    "relatives": [{"word": "determinizm", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "determinist maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "diyalektik",
+    "word": "diyalektik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "légō, log-", "meaning": "söz söylemek", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "dialégō", "meaning": "karşılıklı konuşmak, tartışmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "dialektikḗ téχnē", "meaning": "karşılıklı konuşmak, tartışmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "dialectique", "meaning": "karşıt savlarla düşünme ve tartışma yöntemi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "diyalektik", "meaning": "çelişkileri inceleyerek ilerleyen düşünme yöntemi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çelişkileri inceleyip aşmaya yönelen düşünme yöntemi.",
+    "currentMeaning": "Gerçeklikteki karşıtlıkları ve çelişkileri inceleyerek bunların aşılma yollarını araştıran akıl yürütme yöntemi.",
+    "story": "Eski Yunancada légō ile başlayan söz söyleme eylemi, dialégō biçiminde karşılıklı konuşmaya ve tartışmaya açıldı. Dialektikḗ téχnē bu karşılaşmayı bir düşünme becerisi olarak adlandırdı. Fransızca dialectique içinde karşı karşıya gelen savlar, akıl yürütmenin araçlarına dönüştü. Türkçedeki diyalektik de çelişkileri düşüncenin ilerleyişine katan bu yöntemi sürdürür.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1932", "form": "diyalektik"},
+    "relatives": [{"word": "diyalog", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "diyalektik maddesi", "url": "https://www.nisanyansozluk.com/kelime/diyalektik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "diyalektik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "diksiyon",
+    "word": "diksiyon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "dicere, dict-", "meaning": "söz söylemek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "dictio", "meaning": "söz söylemek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "diction", "meaning": "sözleri ifade ediş tarzı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "diksiyon", "meaning": "ses, vurgu ve durakları düzenleyerek konuşma biçimi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sesleri, vurguları ve durakları düzenleyerek söyleme biçimi.",
+    "currentMeaning": "Konuşurken sesleri açıkça çıkarma, vurguları yerleştirme ve anlamın gerektirdiği durakları kullanma biçimi.",
+    "story": "Latince dicere, insanın söz söyleme eylemini adlandırıyordu; dictio da aynı eylemi bir ad altında topladı. Fransızca diction ile dikkat, sözün söylenmesinden nasıl söylendiğine yöneldi. Türkçede diksiyon denince seslerin açıklığı, vurgunun yeri ve konuşmanın durakları birlikte düşünülür.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1938", "form": "diksiyon"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "diksiyon maddesi", "url": "https://www.nisanyansozluk.com/kelime/diksiyon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "diksiyon maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "diletant",
+    "word": "diletant",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "lacere, lect-", "meaning": "cezbetmek, kendine çekmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "delacere, delect-", "meaning": "cezbetmek, kendine çekmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "dilettere", "meaning": "haz duymak", "period": null, "reconstructed": false},
+      {"language": "it", "form": "dilettante", "meaning": "haz duyan kişi, sanatla ilgilenen meraklı", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "dilettante", "meaning": "bir alanla amatörce ilgilenen kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "diletant", "meaning": "sanatla zevk için, amatörce uğraşan kişi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sanatla uzmanlık iddiasından çok zevk için uğraşan kişi.",
+    "currentMeaning": "Sanata veya bir bilgi alanına profesyonel uzmanlık düzeyinde olmadan, kişisel merak ve zevkle yönelen kişi.",
+    "story": "Diletantın geçmişinde bir şeyin insana çekici gelmesi ve haz vermesi bulunur. Latince kökten gelişen İtalyanca dilettere, ilgiyi zevk alma eylemine taşır. Dilettante bu zevkin peşinden sanata yönelen kişiyi adlandırırken Fransızcada amatörlük yönü öne çıktı. Türkçedeki diletant da sanatla uğraşının merkezine kişisel merakı ve zevki koyan kişiyi anlatır.",
+    "firstAttestation": {"source": "Milliyet gazetesi", "period": "1929", "form": "dilentantelerimiz"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "İngilizcede sevinç ve zevki anlatan delight, diletant ile aynı Latince kökü paylaşır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "diletant maddesi", "url": "https://www.nisanyansozluk.com/kelime/diletant"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "diskur",
+    "word": "diskur",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "currere, curs-", "meaning": "koşmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "discurrere, discurs-", "meaning": "ayrı yönlere koşmak, tartışmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "discursus", "meaning": "koşuşturma; tartışma; tartışılan konuda söylev", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "discours", "meaning": "söylev, söylem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "diskur", "meaning": "nutuk, uzun ve iddialı konuşma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Nutuk veya uzun ve iddialı konuşma.",
+    "currentMeaning": "Bir konuda nutuk verircesine yapılan uzun, iddialı konuşma.",
+    "story": "Diskurun en eski halkasında Latince currere, yani koşma eylemi vardır. Discurrere ile farklı yönlere dağılan bu hareket, tartışmanın karşılıklı ilerleyişini de anlatmaya başladı. Discursus artık hem koşuşturmayı hem tartışmayı ve söylevi adlandırıyordu. Fransızca discours üzerinden Türkçeye geçen diskurda bedensel hareket kayboldu, uzun konuşma kaldı.",
+    "firstAttestation": {"source": "Ali Seydi — Lisan-ı Osmanide Müstamel Lugat-i Ecnebiye", "period": "1911", "form": "diskur"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "diskur maddesi", "url": "https://www.nisanyansozluk.com/kelime/diskur"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "diskur maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "eklektik",
+    "word": "eklektik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "légō, log-", "meaning": "seçmek, bir araya toplamak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "eklégō", "meaning": "içinden seçerek ayırmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "eklektikós", "meaning": "seçim yapan, seçmeci", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "éclectique", "meaning": "farklı kaynaklardan seçerek oluşturan, karma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "eklektik", "meaning": "çeşitli anlayışlardan seçilen unsurları birleştiren", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Farklı anlayışlardan seçilen unsurları bir araya getiren.",
+    "currentMeaning": "Tek bir sisteme bağlı kalmadan çeşitli düşünce, yöntem veya üsluplardan seçilen öğeleri birleştiren.",
+    "story": "Eski Yunancada légō, seçip toplama işini anlatıyordu. Eklégō biçiminde bir yığının içinden belirli parçaları ayırma hareketi belirginleşti; eklektikós da böyle seçim yapanı niteledi. Fransızca éclectique, farklı düşünce ve üsluplardan parçalar seçme anlayışını taşıdı. Türkçedeki eklektik, bu parçalarla kurulan karma bütünleri anlatır.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1937", "form": "eklektik"},
+    "relatives": [{"word": "eklektizm", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "eklektik maddesi", "url": "https://www.nisanyansozluk.com/kelime/eklektik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "eklektik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "elips",
+    "word": "elips",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "leípō, lip-", "meaning": "eksik olmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "elleípō", "meaning": "bir bölümünü eksik bırakmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "éllipsis", "meaning": "bir bölümünü eksik bırakmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ellipse, ellipt-", "meaning": "eksilme; belirli bir kapalı geometrik eğri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "elips", "meaning": "iki odağa uzaklıkları toplamı sabit olan kapalı eğri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İki odağa uzaklıkları toplamı sabit olan noktaların kapalı eğrisi.",
+    "currentMeaning": "Düzlemde, iki ayrı sabit noktaya uzaklıklarının toplamı değişmeyen noktaların oluşturduğu kapalı eğri.",
+    "story": "Elipsin geçmişindeki Eski Yunanca leípō, bir şeyin eksik oluşunu anlatır. Elleípō ve éllipsis biçimleri de eksik bırakma düşüncesini sürdürür. Eksiklik bildiren bu ad, Yunancada bir geometrik eğriyi de adlandırmış; Fransızca ellipse üzerinden Türkçeye taşınmıştır. Türkçede elips denince bu eski eksiklik düşüncesinden çok, iki odağı bulunan kapalı şekil öne çıkar.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1936", "form": "elips"},
+    "relatives": [
+      {"word": "eliptik", "relation": "akraba"},
+      {"word": "elipsoit", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "elips maddesi", "url": "https://www.nisanyansozluk.com/kelime/elips"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "elips maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "empresyonizm",
+    "word": "empresyonizm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "impressionnisme", "meaning": "izlenimleri öne çıkaran sanat akımı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "empresyonizm", "meaning": "sanatta izlenimcilik", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Duyusal izlenimleri öne çıkaran sanat akımı, izlenimcilik.",
+    "currentMeaning": "Özellikle resimde ışık, renk ve anlık algının uyandırdığı izlenimleri öne çıkaran sanat anlayışı.",
+    "story": "Fransızca impressionnisme adının merkezinde, görülen şeyin kişide bıraktığı izlenim bulunur. Bu anlayışta bir manzaranın değişen ışığı ve renkleri, o anki algının parçaları olarak resme taşınır. Türkçeye empresyonizm biçiminde geçen ad, bu izlenimi öne çıkaran sanat yaklaşımını anlatır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "empresyonist", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "empresyonizm maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "enstantane",
+    "word": "enstantane",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "stāre, stat-", "meaning": "durmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "instāre", "meaning": "durmak, mevcut ve hazır bulunmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "instans", "meaning": "hazır bulunan, şimdiki", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "instant", "meaning": "çok kısa zaman parçası", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "instantané", "meaning": "bir anda gerçekleşen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "enstantane", "meaning": "çok kısa pozlamayla fotoğraf çekme yöntemi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hareketi çok kısa pozlamayla fotoğraflama yöntemi.",
+    "currentMeaning": "Hızlı hareketi yakalamak için saniyenin 1/25'i veya daha kısa bir ışıklama süresiyle fotoğraf çekme yöntemi.",
+    "story": "Enstantanenin başlangıcında Latince stāre ile anlatılan durma eylemi vardır. Instāre ve instans biçimlerinde bu düşünce, hazır bulunmaya ve şimdi elde olana yöneldi. Fransızca instant, şimdiki zamanı küçücük bir an olarak adlandırırken instantané bir anda gerçekleşeni niteledi. Türkçede kelime fotoğrafçılığa yerleşerek hareketin çok kısa bir ışıklamayla yakalanmasını anlatır oldu.",
+    "firstAttestation": {"source": "Ahmed Midhat Ef. — çeşitli yazıları", "period": "<1900", "form": "Enstantane"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "enstantane maddesi", "url": "https://www.nisanyansozluk.com/kelime/enstantane"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "enstantane maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "epigraf",
+    "word": "epigraf",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "epigraphḗ", "meaning": "bir yüzeye yazılmış yazı, yazıt", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "épigraphe", "meaning": "yazıt; eserin başına yerleştirilen kısa söz", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "epigraf", "meaning": "eserin başında yer alan, içeriğiyle ilişkili kısa alıntı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir eserin başına yerleştirilen, içeriğiyle ilişkili kısa alıntı.",
+    "currentMeaning": "Bir kitabın veya bölümün başında yer alan, metnin konusu ya da duygusuyla ilişki kuran kısa alıntı veya söz.",
+    "story": "Eski Yunanca epigraphḗ, bir yüzeyin üzerine yazılan yazıyı adlandırıyordu. Fransızca épigraphe, yazıtın yanında bir eserin başına yerleştirilen kısa sözü de kapsadı. Türkçedeki edebî kullanımda bu söz, asıl metin başlamadan önce onun konusuna veya duygusuna bir giriş açar.",
+    "firstAttestation": null,
+    "relatives": [{"word": "epigrafi", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": null,
+    "confidence": null,
+    "reviewed": false
+  },
+  {
+    "id": "epilog",
+    "word": "epilog",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "lógos", "meaning": "söz", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "epílogos", "meaning": "söz", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "épilogue", "meaning": "anlatıyı kapatan son söz", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "epilog", "meaning": "eserin sonundaki tamamlayıcı bölüm", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir eserin sonunda yer alan tamamlayıcı bölüm, son söz.",
+    "currentMeaning": "Ana anlatının ardından gelerek eseri tamamlayan, sonuçlandıran veya sonrasını açıklayan bölüm.",
+    "story": "Eski Yunanca lógos, sözü adlandıran temel kelimelerden biriydi. Ondan kurulan epílogos ile söz, konuşmanın veya anlatının kapanışında özel bir yer edindi. Fransızca épilogue üzerinden Türkçeye geçen epilog, ana anlatı bittikten sonra eseri tamamlayan son bölümü adlandırır.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1951", "form": "epilog"},
+    "relatives": [{"word": "prolog", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "epilog maddesi", "url": "https://www.nisanyansozluk.com/kelime/epilog"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "epilog maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "erüdisyon",
+    "word": "erüdisyon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "eruditio", "meaning": "öğretim, öğrenimle edinilmiş bilgi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "érudition", "meaning": "öğrenim ve araştırmayla kazanılmış geniş bilgi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "erüdisyon", "meaning": "okuma ve araştırmayla edinilmiş derin bilgi birikimi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Okuma ve araştırmayla edinilmiş geniş ve derin bilgi birikimi.",
+    "currentMeaning": "Uzun süreli okuma, öğrenme ve araştırma sonucunda kazanılan kapsamlı bilgi ve kültür birikimi.",
+    "story": "Latince eruditio, öğretimle ve öğrenerek kazanılan bilgiyle ilgiliydi. Fransızca érudition içinde vurgu, öğrenme sürecinin insanda biriktirdiği geniş bilgiye yerleşti. Türkçedeki erüdisyon da uzun okumaların ve araştırmaların oluşturduğu derin birikimi anlatır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": null,
+    "confidence": null,
+    "reviewed": false
+  },
+  {
+    "id": "estet",
+    "word": "estet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "esthète", "meaning": "sanatta güzelliği başlıca değer sayan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "estet", "meaning": "sanat eserlerini değerlendirirken güzelliği üstün tutan kişi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sanatta güzelliği en üstün değer olarak gören kişi.",
+    "currentMeaning": "Sanat eserlerine yaklaşımında güzelliği temel ve en yüksek ölçüt kabul eden kişi.",
+    "story": "Fransızca esthète, sanat karşısında güzelliğe öncelik veren kişiyi adlandırır. Bu kişinin değerlendirmesinde bir eserin biçimi, uyumu ve duyusal etkisi belirleyici yer tutar. Türkçeye estet olarak alınan kelime, güzelliği en yüksek ölçüt sayan bu tutumu taşıyan kişiyi anlatmayı sürdürür.",
+    "firstAttestation": null,
+    "relatives": [{"word": "estetik", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "estet maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ezoterik",
+    "word": "ezoterik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "ésō", "meaning": "iç taraf, içeri", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "esōtéron", "meaning": "iç tarafta bulunan", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "esōterikós", "meaning": "içe ait, batıni", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ésotérique", "meaning": "içe ait, batıni", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ezoterik", "meaning": "yalnızca belirli bir çevrenin erişebildiği bilgiye ilişkin", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yalnızca belirli bir çevrenin erişebildiği bilgiye ilişkin, içrek.",
+    "currentMeaning": "Öğretisi veya anlamı herkese açık olmayan, anlaşılması belirli bir topluluğa katılmayı ya da özel bilgi edinmeyi gerektiren.",
+    "story": "Eski Yunanca ésō, içeriye doğru yönü gösteriyordu. Esōtéron ve esōterikós ile bu mekânsal iç taraf düşüncesi, bir çevrenin kendi içinde tuttuğu bilgiye taşındı. Türkçeye gelişinde Fransızca ve İngilizce yolları verilir. Ezoterik bugün bu iç sınırı koruyarak yalnızca belirli kişilere açılan öğretileri ve bilgileri niteler.",
+    "firstAttestation": {"source": "Milliyet gazetesi", "period": "1963", "form": "Ezoterik"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük İngilizce esoteric veya Fransızca ésotérique yollarını verirken TDK Güncel Türkçe Sözlük doğrudan Fransızcayı gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ezoterik maddesi", "url": "https://www.nisanyansozluk.com/kelime/ezoterik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ezoterik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a5d-a18c-7da3-a0e3-e50ac1b93e0a
+--------
+user
+# Köken — Üretim Prompt'u (v10)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. arketip — ipucu: fr — rarity: az-bilinen
+2. avangart — ipucu: fr — rarity: az-bilinen
+3. banal — ipucu: fr — rarity: az-bilinen
+4. bohem — ipucu: fr — rarity: az-bilinen
+5. burlesk — ipucu: fr — rarity: az-bilinen
+6. dekadan — ipucu: fr — rarity: az-bilinen
+7. determinist — ipucu: fr — rarity: az-bilinen
+8. diyalektik — ipucu: fr — rarity: az-bilinen
+9. diksiyon — ipucu: fr — rarity: az-bilinen
+10. diletant — ipucu: fr — rarity: az-bilinen
+11. diskur — ipucu: fr — rarity: az-bilinen
+12. eklektik — ipucu: fr — rarity: az-bilinen
+13. elips — ipucu: fr — rarity: az-bilinen
+14. empresyonizm — ipucu: fr — rarity: az-bilinen
+15. enstantane — ipucu: fr — rarity: az-bilinen
+16. epigraf — ipucu: fr — rarity: az-bilinen
+17. epilog — ipucu: fr — rarity: az-bilinen
+18. erüdisyon — ipucu: fr — rarity: az-bilinen
+19. estet — ipucu: fr — rarity: az-bilinen
+20. ezoterik — ipucu: fr — rarity: az-bilinen
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### arketip
+
+**Nişanyan — arketip**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › arχétypos › model, ilk nümune  [alıntı]
+- İngilizce › archetype › prototip, Jung psikolojisinde bir kavram  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1952, Orta Öğretim Psikoloji, Sosyoloji, Mantık, Felsefe ve Pedagoji Terimleri
+  > Fransızca: Archétype - Eski şekil: İlkörnek - Yeni kabul edilen şekil: Arketip
+- 1987, Milliyet - gazete
+  > 'Bedrettin Üzerine Şiirler'in, deyim yerindeyse, arketipsel bir konumu vardır
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/arketip
+
+**TDK** — köken kaydı: Fransızca archétype · anlam: ► kök örnek
+
+### avangart
+
+**TDK** — köken kaydı: Fransızca avant-garde · anlam: ► öncü
+
+### banal
+
+**Nişanyan — banal**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Fransızca › ban/bandon › yargı, yasak  [türeme]
+- Fransızca › banal › 1. feodal yargı altında olan, köylü [esk.], 2. soylu olmayan, adi, avam  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1930, Hüseyin Rahmi Gürpınar
+  > Ben bir peri kızına aşık olmuşum. İşte bu banal bir sevda değil. (...) Şimdi bu banaliteleri bırakalım.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/banal
+
+**TDK** — köken kaydı: Fransızca banal · anlam: Herkesçe kullanılan, anlaşılan
+
+### bohem
+
+**Nişanyan — bohem**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › Boiohaemum › Boii Kelt kavminin yurdu  [ses evrimi]
+- özel isim › Bohême › Bohemya, Orta Avrupa'da bir ülke  [türeme]
+- Fransızca › bohème › Bohemyalı, çingene (17. yy), berduş, sanatçı (19. yy)  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1930, Cumhuriyet - gazete
+  > Bohem şamdanlar, bronzlu sigara masaları, döner etajer
+- 1931, Cumhuriyet - gazete
+  > sinema, tiyatro, dans, çalgı, eğlence, bir bohem hayatı yaşadıklarını bilirdim
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bohem
+
+**TDK** — köken kaydı: Fransızca bohème · anlam: Yarınını düşünmeden günü gününe tasasız, derbeder bir yaşayışı olan (kimse veya topluluk)
+
+### burlesk
+
+**Nişanyan — burlesk**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- İtalyanca › burla › şaka  [türeme]
+- İtalyanca › burlesco › a.a.  [alıntı]
+- İngilizce / Fransızca › burlesque › kaba güldürü, parodi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1949, Cumhuriyet - gazete
+  > Amerika'nın en güzel burlesk yıldızı Ann Carlo
+
+Not: Amerikan İngilizcesinde 1870'lerden bu yana "striptiz gösterisi" anlamında kullanılır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/burlesk
+
+**TDK** — köken kaydı: Fransızca burlesque · anlam: Sanat alanında ve özellikle edebiyatta rastlanan, komikliğe dayanan bir tür
+
+### dekadan
+
+**Nişanyan — dekadan**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › cadere, cas- › düşmek  [türeme]
+- Geç Latince › decadere › bozulmak, geri düşmek, yozlaşmak  [türeme]
+- Geç Latince › decadens  [ses evrimi]
+- Fransızca › décadent › 1. yoz, sefih, 2. bohem  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1897, Ahmed Rasim — Şehir Mektupları
+  > İkdam'da dekadanlar aleyhine yürüyen zevatın...
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/dekadan
+
+**TDK** — köken kaydı: Fransızca décadent · anlam: XIX. yüzyıl sonlarında Fransa'da natüralistlere karşı çıkan sembolizm akımına öncülük etmiş olan sanatçı
+
+### determinist
+
+**TDK** — köken kaydı: Fransızca déterministe · anlam: ► belirlenimci
+
+### diyalektik
+
+**Nişanyan — diyalektik**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › légō, log- › söylemek  [türeme]
+- Eski Yunanca › dialégō › karşılıklı söylemek, münazara etmek  [türeme]
+- Eski Yunanca › dialektikḗ téχnē › a.a.  [alıntı]
+- Fransızca › dialectique › tez ve antitezle akıl yürütme yöntemi, münazara  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1932, Cumhuriyet - gazete
+  > Demek ki meselenin 'tavuk mu yumurtadan çıktı, yumurta mı tavuktan?' gibi adi bir diyalektik oyununa (...)
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/diyalektik
+
+**TDK** — köken kaydı: Fransızca dialectique · anlam: Gerçekliği ve onun çelişmelerini incelemeye yarayan ve bu çelişmeleri aşmayı sağlayan yolları aramayı öngören akıl yürütme yöntemi; eytişim, cedel
+
+### diksiyon
+
+**Nişanyan — diksiyon**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › dicere, dict- › söylemek  [türeme]
+- Latince › dictio › a.a.  [alıntı]
+- Fransızca › diction › söyleyiş biçimi, ifade  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1938, Cumhuriyet - gazete
+  > Fransızca literatür ve diksiyon
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/diksiyon
+
+**TDK** — köken kaydı: Fransızca diction · anlam: Seslerin, sözlerin, vurguların, anlam ve heyecan duraklarını kurallarına uygun olarak söyleme biçimi
+
+### diletant
+
+**Nişanyan — diletant**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › lacere, lect-  [türeme]
+- Latince › delacere, delect- › a.a.  [ses evrimi]
+- İtalyanca › dilettere › zevk almak  [türeme]
+- İtalyanca › dilettante › bir şeyden zevk alan, sanat meraklısı  [alıntı]
+- Fransızca › dilettante › meraklı, amatör  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1929, Milliyet - gazete
+  > ancak o zaman bu gibi piyesler dilentantelerimiz için oynanabilir
+
+Not: Aynı Latince kökten İng delight "zevk almak".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/diletant
+
+### diskur
+
+**Nişanyan — diskur**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › currere, curs- › koşmak  [türeme]
+- Latince › discurrere, discurs- › zıt yönlere koşmak, münakaşa etmek  [türeme]
+- Latince › discursus › 1. koşuşma, 2. münakaşa, 3. tartışmalı bir konuda verilen söylev  [alıntı]
+- Fransızca › discours › nutuk, söylev, söylem  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1911, Ali Seydi — Lisan-ı Osmanide Müstamel Lugat-i Ecnebiye
+  > diskur: söz, nutuk, hitabe
+- 1919, Hüseyin Rahmi Gürpınar — Cehennemlik
+  > şimdi bu ‘diskurun sırası mı? Ateşler içindeyim diyorum size...
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/diskur
+
+**TDK** — köken kaydı: Fransızca discours · anlam: Nutuk verme
+
+### eklektik
+
+**Nişanyan — eklektik**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › légō, log- › seçmek, derlemek  [türeme]
+- Eski Yunanca › eklégō › seçip ayırmak  [türeme]
+- Eski Yunanca › eklektikós › seçici, seçmeci  [alıntı]
+- Fransızca › éclectique › seçmeci, karışık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1932, Kadro - aylık dergi
+  > bu garip eklektizme bir ad aramak lazım gelmiş.
+- 1937, Cumhuriyet - gazete
+  > İsveç metodiyle Alman sistemini karıştırarak eklektik bir mektep meydana getirmişlerdi
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/eklektik
+
+**TDK** — köken kaydı: Fransızca éclectique · anlam: ► seçmeci
+
+### elips
+
+**Nişanyan — elips**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › leípō, lip- › eksik olmak  [türeme]
+- Eski Yunanca › elleípō › eksik bırakmak  [türeme]
+- Eski Yunanca › éllipsis › a.a.  [alıntı]
+- Fransızca › ellipse, ellipt- › 1. eksiklik, eksilme, 2. geometride bir şekil  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1936, Cumhuriyet - gazete
+  > Bu ilk safhalarında daire veya elips şeklindedir, bazen de iki ucu
+- 1937, İlk ve Orta Öğrenim Matematik Terimleri
+  > eliptik ... elipsoit ... elipsoidal
+
+Not: Daire "tam, kusursuz" olduğu için elips "eksik"tir. Geometrideki anlamı ilk kez MÖ 2. yy'da Pergeli Apollonios tarafından tanımlanmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/elips
+
+**TDK** — köken kaydı: Fransızca ellipse · anlam: Bütün noktalarının belirli iki ayrı noktaya olan uzaklıklarının toplamı birbirine eşit olan kapalı eğri
+
+### empresyonizm
+
+**TDK** — köken kaydı: Fransızca impressionnisme · anlam: ► izlenimcilik
+
+### enstantane
+
+**Nişanyan — enstantane**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › stāre, stat- › durmak  [türeme]
+- Latince › instāre › durmak, varolmak, hazır olmak  [türeme]
+- Latince › instans › elde olan, hazır, şimdiki  [alıntı]
+- Fransızca › instant › an  [türeme]
+- Fransızca › instantané › anlık, göz açıp kapayıncaya kadar olan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1900, Ahmed Midhat Ef. — çeşitli yazıları
+  > Enstantane (bir anda) ha? Biz bu sürati yalnız fotoğrafyada var zannediyorduk.
+- 1924, Mehmed Bahaeddin [Toven] — Yeni Türkçe Lugat
+  > enstantane: Bir an devam eden, bir anda vukua gelen. Saniyenin kesri içinde alınan resim.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/enstantane
+
+**TDK** — köken kaydı: Fransızca instantané · anlam: Işıklama süresi saniyenin 1/25'i veya daha kısa olan hızlı bir hareketi çekme yöntemi
+
+### epigraf
+
+Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: bildiğini yaz, bilmediğine `null` koy, uydurma.
+
+### epilog
+
+**Nişanyan — epilog**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › lógos › söz  [türeme]
+- Eski Yunanca › epílogos › a.a.  [alıntı]
+- Fransızca › épilogue › son söz  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1951, Cumhuriyet - gazete
+  > Burada muharebe tafsilatını değil memnun olacağınız bir 'epilog - hatime - bitiş' dinleyeceksiniz.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/epilog
+
+**TDK** — köken kaydı: Fransızca épilogue · anlam: ► son söz
+
+### erüdisyon
+
+Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: bildiğini yaz, bilmediğine `null` koy, uydurma.
+
+### estet
+
+**TDK** — köken kaydı: Fransızca esthète · anlam: Sanatsal ürünler arasında güzeli en üstün, en yüce değer sayan kişi
+
+### ezoterik
+
+**Nişanyan — ezoterik**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › ésō › iç, içeri  [türeme]
+- Eski Yunanca › esōtéron › içeride olan  [türeme]
+- Eski Yunanca › esōterikós › içsel, batıni  [alıntı]
+- İngilizce › esoteric › batıni, gizli ilimlere ait  [veya]
+- Fransızca › ésotérique  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1963, Milliyet - gazete
+  > Ezoterik Birliği başkanı Baron Lui dö Sen Kleri
+- 1972, Milliyet - gazete
+  > Baudelaire mistik bir tecessüsle hafi ilimleri, esoterik felsefeleri ve bunların dayandığı sembolizmi (...)
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ezoterik
+
+**TDK** — köken kaydı: Fransızca ésotérique · anlam: ► içrek
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+Kaydı eksik iki kelime için kabul edilen sözlüklerde kaynak kontrolü yapacağım; diğer maddelerde verdiğiniz özetleri esas alacağım.
+
+web search: 
+web search: site.lugatim.com epigraf ...
+web search: 
+web search: "erüdisyon" sözlük ...
+web search: 
+web search: https://lugatim.com/s/erüdisyon
+web search: 
+web search: "epigraf" "Fransızca" sözlük ...
+web search: 
+web search: https://www.lugatim.com/s/ERÜDİSYON
+codex
+[
+  {
+    "id": "arketip",
+    "word": "arketip",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "arχétypos", "meaning": "ilk örnek, model", "period": null, "reconstructed": false},
+      {"language": "en", "form": "archetype", "meaning": "ilk örnek; Jung psikolojisinde temel örüntü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "arketip", "meaning": "kök örnek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Başka örneklerin temelinde bulunan ilk model.",
+    "currentMeaning": "Sonraki örneklere temel oluşturan model; Jung psikolojisinde ortak ruhsal örüntü.",
+    "story": "Eski Yunancadaki arχétypos, başka örneklerin kendisine bakılarak kurulacağı başlangıç modelini adlandırıyordu. Bu ilk örnek düşüncesi, İngilizcede Jung psikolojisinin temel ruhsal örüntülerini de anlatmaya başladı. Türkçeye doğrudan hangi dilden geçtiği konusunda İngilizce ve Fransızca açıklamaları ayrışsa da kelime bugün görünen örneklerin ardındaki ortak modeli düşündürür.",
+    "firstAttestation": {"source": "Orta Öğretim Psikoloji, Sosyoloji, Mantık, Felsefe ve Pedagoji Terimleri", "period": "1952", "form": "Arketip"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük doğrudan veren dili İngilizce olarak gösterirken TDK Güncel Türkçe Sözlük Fransızca archétype biçimini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "arketip maddesi", "url": "https://www.nisanyansozluk.com/kelime/arketip"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "arketip maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "avangart",
+    "word": "avangart",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "avant-garde", "meaning": "öncü birlik; yeniliklere öncülük eden", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "avangart", "meaning": "sanatta ve düşüncede yeniliklere öncülük eden", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sanatta ve düşüncede alışılmışın önüne geçen, öncü.",
+    "currentMeaning": "Yerleşmiş anlayışları aşarak yeni ifade biçimleri deneyen ve yeniliklere öncülük eden.",
+    "story": "Fransızca avant-garde, ordunun önünde ilerleyen birliği adlandırır. Bu önden gitme görüntüsü sanat ve düşünce alanına taşındığında, başkalarının henüz denemediği yolları açanların niteliği oldu. Türkçede avangart da yeniliği ilk deneyen eserleri ve yaklaşımları anlatır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "avangart maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "banal",
+    "word": "banal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fro",
+    "chain": [
+      {"language": "fro", "form": "ban/bandon", "meaning": "yargılama yetkisi, yasak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "banal", "meaning": "feodal yetkiye bağlı; sıradan halktan, bayağı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "banal", "meaning": "yaygın ve alışılmış, özgünlüğü olmayan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çok kullanıldığı için özgünlüğünü yitirmiş, sıradan.",
+    "currentMeaning": "Herkesin bildiği veya kullandığı, alışılmışlığı yüzünden özgün görünmeyen.",
+    "story": "Banalin geçmişinde, Eski Fransızcada yasak koyma ve yargılama yetkisini anlatan ban/bandon bulunur. Fransızca banal önce feodal yetkiye bağlı olanı, ardından soylu sayılmayan halk tabakasını niteledi. Toplumsal konum bildiren bu değerlendirme zamanla sıradanlık yargısına dönüştü; Türkçede de özgün görünmeyen sözlere ve düşüncelere uygulanır.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar", "period": "<1930", "form": "banal"},
+    "relatives": [{"word": "banalite", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "banal maddesi", "url": "https://www.nisanyansozluk.com/kelime/banal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "banal maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bohem",
+    "word": "bohem",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "Boiohaemum", "meaning": "Boii adlı Kelt topluluğunun ülkesi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "Bohême", "meaning": "Bohemya adlı Orta Avrupa bölgesi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "bohème", "meaning": "Bohemyalı; Roman; düzensiz yaşayan sanatçı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bohem", "meaning": "geleceği düşünmeden, düzensiz ve tasasız yaşayan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Geleceği dert etmeden, düzensiz ve tasasız yaşayan.",
+    "currentMeaning": "Geçim ve gelecek kaygısını geri plana atarak günübirlik, serbest ve düzensiz bir hayat süren kişi veya topluluğu niteleyen.",
+    "story": "Bohemin yolculuğu, Boii adlı Kelt topluluğunun yurdunu adlandıran Latince Boiohaemum ile başlar. Bu yer adı Fransızcada Bohême biçimini aldı; bohème de önce o ülkeyle ilişkilendirilen insanları, sonra Romanları adlandırdı. Kelime daha sonra yerleşik hayatın düzenine uymayan sanatçılara yöneldi. Türkçede ülke bağlantısı silikleşerek tasasız ve düzensiz bir yaşayışın niteliği öne çıktı.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1931", "form": "bohem"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bohem maddesi", "url": "https://www.nisanyansozluk.com/kelime/bohem"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bohem maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "burlesk",
+    "word": "burlesk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "burla", "meaning": "şaka, alay", "period": null, "reconstructed": false},
+      {"language": "it", "form": "burlesco", "meaning": "şaka, alay", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "burlesque", "meaning": "kaba komedi, alaycı taklit", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "burlesk", "meaning": "abartılı komikliğe ve alaya dayanan sanat türü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Abartılı komiklik ve alay üzerine kurulan sanat türü.",
+    "currentMeaning": "Özellikle edebiyat ve gösteri sanatlarında abartı, alay ve gülünçleştirmeye dayanan tür.",
+    "story": "İtalyanca burla, bir şakanın veya alayın çevresinde dolaşan kelimeydi. Burlesco üzerinden İngilizce ve Fransızcadaki burlesque biçimine ulaştığında, komik taklitleri ve kaba güldürüyü adlandırmaya başladı. Türkçeye aktarımında Fransızca öne çıkmakla birlikte İngilizce yolu da verilir. Bugünkü kullanımında şaka, tek bir davranıştan çıkarak eserin bütününü kuran bir sanat anlayışına dönüşmüştür.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1949", "form": "burlesk"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük veren dil halkasını İngilizce / Fransızca olarak sunarken TDK Güncel Türkçe Sözlük Fransızca burlesque biçimini gösterir."
+    ],
+    "funFact": "Amerikan İngilizcesinde burlesque, 1870'lerden itibaren striptiz gösterilerini de adlandırmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "burlesk maddesi", "url": "https://www.nisanyansozluk.com/kelime/burlesk"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "burlesk maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dekadan",
+    "word": "dekadan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "cadere, cas-", "meaning": "düşmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "decadere", "meaning": "gerilemek, yozlaşmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "decadens", "meaning": "gerilemek, yozlaşmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "décadent", "meaning": "yozlaşmış, sefahate düşkün; bohem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dekadan", "meaning": "natüralizme karşı çıkarak sembolizme öncülük eden sanatçı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Fransa'da sembolizme öncülük eden sanatçılara verilen ad.",
+    "currentMeaning": "19. yüzyılın sonlarında Fransa'da natüralizme karşı çıkan ve sembolizmin gelişmesine öncülük eden sanatçı.",
+    "story": "Latince cadere, bir şeyin bulunduğu yerden düşmesini anlatıyordu. Geç Latincede bu düşüş, decadere ile bozulma ve gerilemenin resmi hâline geldi. Fransızca décadent aynı olumsuz değerlendirmeyi kişilere ve yaşayışlara taşıdı. Edebiyatta ise kelime, natüralizme karşı çıkan ve sembolizme yönelen sanatçıların adı olarak özelleşti; Türkçeye de bu sanat tartışmalarının terimi olarak yerleşti.",
+    "firstAttestation": {"source": "Ahmed Rasim — Şehir Mektupları", "period": "1897", "form": "dekadanlar"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "dekadan maddesi", "url": "https://www.nisanyansozluk.com/kelime/dekadan"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dekadan maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "determinist",
+    "word": "determinist",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "déterministe", "meaning": "olayların nedenlerle belirlendiğini savunan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "determinist", "meaning": "belirlenimcilik görüşünü benimseyen kişi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Olayların nedenlerle belirlendiğini savunan kişi.",
+    "currentMeaning": "Olayların ve eylemlerin önceki nedenler ve koşullar tarafından belirlendiği görüşünü benimseyen kişi.",
+    "story": "Fransızca déterministe, bir olayın ortaya çıkışını onu hazırlayan nedenlere bağlayan düşüncenin savunucusunu adlandırır. Bu bakışta her sonuç, kendinden önceki koşulların devamı olarak ele alınır. Türkçeye alınan determinist de aynı düşünsel tutumu benimseyen kişiyi belirtir.",
+    "firstAttestation": null,
+    "relatives": [{"word": "determinizm", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "determinist maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "diyalektik",
+    "word": "diyalektik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "légō, log-", "meaning": "söz söylemek", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "dialégō", "meaning": "karşılıklı konuşmak, tartışmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "dialektikḗ téχnē", "meaning": "karşılıklı konuşmak, tartışmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "dialectique", "meaning": "karşıt savlarla düşünme ve tartışma yöntemi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "diyalektik", "meaning": "çelişkileri inceleyerek ilerleyen düşünme yöntemi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çelişkileri inceleyip aşmaya yönelen düşünme yöntemi.",
+    "currentMeaning": "Gerçeklikteki karşıtlıkları ve çelişkileri inceleyerek bunların aşılma yollarını araştıran akıl yürütme yöntemi.",
+    "story": "Eski Yunancada légō ile başlayan söz söyleme eylemi, dialégō biçiminde karşılıklı konuşmaya ve tartışmaya açıldı. Dialektikḗ téχnē bu karşılaşmayı bir düşünme becerisi olarak adlandırdı. Fransızca dialectique içinde karşı karşıya gelen savlar, akıl yürütmenin araçlarına dönüştü. Türkçedeki diyalektik de çelişkileri düşüncenin ilerleyişine katan bu yöntemi sürdürür.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1932", "form": "diyalektik"},
+    "relatives": [{"word": "diyalog", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "diyalektik maddesi", "url": "https://www.nisanyansozluk.com/kelime/diyalektik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "diyalektik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "diksiyon",
+    "word": "diksiyon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "dicere, dict-", "meaning": "söz söylemek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "dictio", "meaning": "söz söylemek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "diction", "meaning": "sözleri ifade ediş tarzı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "diksiyon", "meaning": "ses, vurgu ve durakları düzenleyerek konuşma biçimi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sesleri, vurguları ve durakları düzenleyerek söyleme biçimi.",
+    "currentMeaning": "Konuşurken sesleri açıkça çıkarma, vurguları yerleştirme ve anlamın gerektirdiği durakları kullanma biçimi.",
+    "story": "Latince dicere, insanın söz söyleme eylemini adlandırıyordu; dictio da aynı eylemi bir ad altında topladı. Fransızca diction ile dikkat, sözün söylenmesinden nasıl söylendiğine yöneldi. Türkçede diksiyon denince seslerin açıklığı, vurgunun yeri ve konuşmanın durakları birlikte düşünülür.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1938", "form": "diksiyon"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "diksiyon maddesi", "url": "https://www.nisanyansozluk.com/kelime/diksiyon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "diksiyon maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "diletant",
+    "word": "diletant",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "lacere, lect-", "meaning": "cezbetmek, kendine çekmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "delacere, delect-", "meaning": "cezbetmek, kendine çekmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "dilettere", "meaning": "haz duymak", "period": null, "reconstructed": false},
+      {"language": "it", "form": "dilettante", "meaning": "haz duyan kişi, sanatla ilgilenen meraklı", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "dilettante", "meaning": "bir alanla amatörce ilgilenen kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "diletant", "meaning": "sanatla zevk için, amatörce uğraşan kişi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sanatla uzmanlık iddiasından çok zevk için uğraşan kişi.",
+    "currentMeaning": "Sanata veya bir bilgi alanına profesyonel uzmanlık düzeyinde olmadan, kişisel merak ve zevkle yönelen kişi.",
+    "story": "Diletantın geçmişinde bir şeyin insana çekici gelmesi ve haz vermesi bulunur. Latince kökten gelişen İtalyanca dilettere, ilgiyi zevk alma eylemine taşır. Dilettante bu zevkin peşinden sanata yönelen kişiyi adlandırırken Fransızcada amatörlük yönü öne çıktı. Türkçedeki diletant da sanatla uğraşının merkezine kişisel merakı ve zevki koyan kişiyi anlatır.",
+    "firstAttestation": {"source": "Milliyet gazetesi", "period": "1929", "form": "dilentantelerimiz"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "İngilizcede sevinç ve zevki anlatan delight, diletant ile aynı Latince kökü paylaşır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "diletant maddesi", "url": "https://www.nisanyansozluk.com/kelime/diletant"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "diskur",
+    "word": "diskur",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "currere, curs-", "meaning": "koşmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "discurrere, discurs-", "meaning": "ayrı yönlere koşmak, tartışmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "discursus", "meaning": "koşuşturma; tartışma; tartışılan konuda söylev", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "discours", "meaning": "söylev, söylem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "diskur", "meaning": "nutuk, uzun ve iddialı konuşma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Nutuk veya uzun ve iddialı konuşma.",
+    "currentMeaning": "Bir konuda nutuk verircesine yapılan uzun, iddialı konuşma.",
+    "story": "Diskurun en eski halkasında Latince currere, yani koşma eylemi vardır. Discurrere ile farklı yönlere dağılan bu hareket, tartışmanın karşılıklı ilerleyişini de anlatmaya başladı. Discursus artık hem koşuşturmayı hem tartışmayı ve söylevi adlandırıyordu. Fransızca discours üzerinden Türkçeye geçen diskurda bedensel hareket kayboldu, uzun konuşma kaldı.",
+    "firstAttestation": {"source": "Ali Seydi — Lisan-ı Osmanide Müstamel Lugat-i Ecnebiye", "period": "1911", "form": "diskur"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "diskur maddesi", "url": "https://www.nisanyansozluk.com/kelime/diskur"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "diskur maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "eklektik",
+    "word": "eklektik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "légō, log-", "meaning": "seçmek, bir araya toplamak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "eklégō", "meaning": "içinden seçerek ayırmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "eklektikós", "meaning": "seçim yapan, seçmeci", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "éclectique", "meaning": "farklı kaynaklardan seçerek oluşturan, karma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "eklektik", "meaning": "çeşitli anlayışlardan seçilen unsurları birleştiren", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Farklı anlayışlardan seçilen unsurları bir araya getiren.",
+    "currentMeaning": "Tek bir sisteme bağlı kalmadan çeşitli düşünce, yöntem veya üsluplardan seçilen öğeleri birleştiren.",
+    "story": "Eski Yunancada légō, seçip toplama işini anlatıyordu. Eklégō biçiminde bir yığının içinden belirli parçaları ayırma hareketi belirginleşti; eklektikós da böyle seçim yapanı niteledi. Fransızca éclectique, farklı düşünce ve üsluplardan parçalar seçme anlayışını taşıdı. Türkçedeki eklektik, bu parçalarla kurulan karma bütünleri anlatır.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1937", "form": "eklektik"},
+    "relatives": [{"word": "eklektizm", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "eklektik maddesi", "url": "https://www.nisanyansozluk.com/kelime/eklektik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "eklektik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "elips",
+    "word": "elips",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "leípō, lip-", "meaning": "eksik olmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "elleípō", "meaning": "bir bölümünü eksik bırakmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "éllipsis", "meaning": "bir bölümünü eksik bırakmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ellipse, ellipt-", "meaning": "eksilme; belirli bir kapalı geometrik eğri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "elips", "meaning": "iki odağa uzaklıkları toplamı sabit olan kapalı eğri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İki odağa uzaklıkları toplamı sabit olan noktaların kapalı eğrisi.",
+    "currentMeaning": "Düzlemde, iki ayrı sabit noktaya uzaklıklarının toplamı değişmeyen noktaların oluşturduğu kapalı eğri.",
+    "story": "Elipsin geçmişindeki Eski Yunanca leípō, bir şeyin eksik oluşunu anlatır. Elleípō ve éllipsis biçimleri de eksik bırakma düşüncesini sürdürür. Eksiklik bildiren bu ad, Yunancada bir geometrik eğriyi de adlandırmış; Fransızca ellipse üzerinden Türkçeye taşınmıştır. Türkçede elips denince bu eski eksiklik düşüncesinden çok, iki odağı bulunan kapalı şekil öne çıkar.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1936", "form": "elips"},
+    "relatives": [
+      {"word": "eliptik", "relation": "akraba"},
+      {"word": "elipsoit", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "elips maddesi", "url": "https://www.nisanyansozluk.com/kelime/elips"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "elips maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "empresyonizm",
+    "word": "empresyonizm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "impressionnisme", "meaning": "izlenimleri öne çıkaran sanat akımı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "empresyonizm", "meaning": "sanatta izlenimcilik", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Duyusal izlenimleri öne çıkaran sanat akımı, izlenimcilik.",
+    "currentMeaning": "Özellikle resimde ışık, renk ve anlık algının uyandırdığı izlenimleri öne çıkaran sanat anlayışı.",
+    "story": "Fransızca impressionnisme adının merkezinde, görülen şeyin kişide bıraktığı izlenim bulunur. Bu anlayışta bir manzaranın değişen ışığı ve renkleri, o anki algının parçaları olarak resme taşınır. Türkçeye empresyonizm biçiminde geçen ad, bu izlenimi öne çıkaran sanat yaklaşımını anlatır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "empresyonist", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "empresyonizm maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "enstantane",
+    "word": "enstantane",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "stāre, stat-", "meaning": "durmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "instāre", "meaning": "durmak, mevcut ve hazır bulunmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "instans", "meaning": "hazır bulunan, şimdiki", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "instant", "meaning": "çok kısa zaman parçası", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "instantané", "meaning": "bir anda gerçekleşen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "enstantane", "meaning": "çok kısa pozlamayla fotoğraf çekme yöntemi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hareketi çok kısa pozlamayla fotoğraflama yöntemi.",
+    "currentMeaning": "Hızlı hareketi yakalamak için saniyenin 1/25'i veya daha kısa bir ışıklama süresiyle fotoğraf çekme yöntemi.",
+    "story": "Enstantanenin başlangıcında Latince stāre ile anlatılan durma eylemi vardır. Instāre ve instans biçimlerinde bu düşünce, hazır bulunmaya ve şimdi elde olana yöneldi. Fransızca instant, şimdiki zamanı küçücük bir an olarak adlandırırken instantané bir anda gerçekleşeni niteledi. Türkçede kelime fotoğrafçılığa yerleşerek hareketin çok kısa bir ışıklamayla yakalanmasını anlatır oldu.",
+    "firstAttestation": {"source": "Ahmed Midhat Ef. — çeşitli yazıları", "period": "<1900", "form": "Enstantane"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "enstantane maddesi", "url": "https://www.nisanyansozluk.com/kelime/enstantane"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "enstantane maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "epigraf",
+    "word": "epigraf",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "epigraphḗ", "meaning": "bir yüzeye yazılmış yazı, yazıt", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "épigraphe", "meaning": "yazıt; eserin başına yerleştirilen kısa söz", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "epigraf", "meaning": "eserin başında yer alan, içeriğiyle ilişkili kısa alıntı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir eserin başına yerleştirilen, içeriğiyle ilişkili kısa alıntı.",
+    "currentMeaning": "Bir kitabın veya bölümün başında yer alan, metnin konusu ya da duygusuyla ilişki kuran kısa alıntı veya söz.",
+    "story": "Eski Yunanca epigraphḗ, bir yüzeyin üzerine yazılan yazıyı adlandırıyordu. Fransızca épigraphe, yazıtın yanında bir eserin başına yerleştirilen kısa sözü de kapsadı. Türkçedeki edebî kullanımda bu söz, asıl metin başlamadan önce onun konusuna veya duygusuna bir giriş açar.",
+    "firstAttestation": null,
+    "relatives": [{"word": "epigrafi", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": null,
+    "confidence": null,
+    "reviewed": false
+  },
+  {
+    "id": "epilog",
+    "word": "epilog",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "lógos", "meaning": "söz", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "epílogos", "meaning": "söz", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "épilogue", "meaning": "anlatıyı kapatan son söz", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "epilog", "meaning": "eserin sonundaki tamamlayıcı bölüm", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir eserin sonunda yer alan tamamlayıcı bölüm, son söz.",
+    "currentMeaning": "Ana anlatının ardından gelerek eseri tamamlayan, sonuçlandıran veya sonrasını açıklayan bölüm.",
+    "story": "Eski Yunanca lógos, sözü adlandıran temel kelimelerden biriydi. Ondan kurulan epílogos ile söz, konuşmanın veya anlatının kapanışında özel bir yer edindi. Fransızca épilogue üzerinden Türkçeye geçen epilog, ana anlatı bittikten sonra eseri tamamlayan son bölümü adlandırır.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1951", "form": "epilog"},
+    "relatives": [{"word": "prolog", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "epilog maddesi", "url": "https://www.nisanyansozluk.com/kelime/epilog"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "epilog maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "erüdisyon",
+    "word": "erüdisyon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "eruditio", "meaning": "öğretim, öğrenimle edinilmiş bilgi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "érudition", "meaning": "öğrenim ve araştırmayla kazanılmış geniş bilgi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "erüdisyon", "meaning": "okuma ve araştırmayla edinilmiş derin bilgi birikimi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Okuma ve araştırmayla edinilmiş geniş ve derin bilgi birikimi.",
+    "currentMeaning": "Uzun süreli okuma, öğrenme ve araştırma sonucunda kazanılan kapsamlı bilgi ve kültür birikimi.",
+    "story": "Latince eruditio, öğretimle ve öğrenerek kazanılan bilgiyle ilgiliydi. Fransızca érudition içinde vurgu, öğrenme sürecinin insanda biriktirdiği geniş bilgiye yerleşti. Türkçedeki erüdisyon da uzun okumaların ve araştırmaların oluşturduğu derin birikimi anlatır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": null,
+    "confidence": null,
+    "reviewed": false
+  },
+  {
+    "id": "estet",
+    "word": "estet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "esthète", "meaning": "sanatta güzelliği başlıca değer sayan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "estet", "meaning": "sanat eserlerini değerlendirirken güzelliği üstün tutan kişi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sanatta güzelliği en üstün değer olarak gören kişi.",
+    "currentMeaning": "Sanat eserlerine yaklaşımında güzelliği temel ve en yüksek ölçüt kabul eden kişi.",
+    "story": "Fransızca esthète, sanat karşısında güzelliğe öncelik veren kişiyi adlandırır. Bu kişinin değerlendirmesinde bir eserin biçimi, uyumu ve duyusal etkisi belirleyici yer tutar. Türkçeye estet olarak alınan kelime, güzelliği en yüksek ölçüt sayan bu tutumu taşıyan kişiyi anlatmayı sürdürür.",
+    "firstAttestation": null,
+    "relatives": [{"word": "estetik", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "estet maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ezoterik",
+    "word": "ezoterik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "ésō", "meaning": "iç taraf, içeri", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "esōtéron", "meaning": "iç tarafta bulunan", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "esōterikós", "meaning": "içe ait, batıni", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ésotérique", "meaning": "içe ait, batıni", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ezoterik", "meaning": "yalnızca belirli bir çevrenin erişebildiği bilgiye ilişkin", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yalnızca belirli bir çevrenin erişebildiği bilgiye ilişkin, içrek.",
+    "currentMeaning": "Öğretisi veya anlamı herkese açık olmayan, anlaşılması belirli bir topluluğa katılmayı ya da özel bilgi edinmeyi gerektiren.",
+    "story": "Eski Yunanca ésō, içeriye doğru yönü gösteriyordu. Esōtéron ve esōterikós ile bu mekânsal iç taraf düşüncesi, bir çevrenin kendi içinde tuttuğu bilgiye taşındı. Türkçeye gelişinde Fransızca ve İngilizce yolları verilir. Ezoterik bugün bu iç sınırı koruyarak yalnızca belirli kişilere açılan öğretileri ve bilgileri niteler.",
+    "firstAttestation": {"source": "Milliyet gazetesi", "period": "1963", "form": "Ezoterik"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük İngilizce esoteric veya Fransızca ésotérique yollarını verirken TDK Güncel Türkçe Sözlük doğrudan Fransızcayı gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ezoterik maddesi", "url": "https://www.nisanyansozluk.com/kelime/ezoterik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ezoterik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+47,310

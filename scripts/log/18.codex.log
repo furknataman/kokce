@@ -1,0 +1,1835 @@
+[
+  {
+    "id": "figüratif",
+    "word": "figüratif",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "figurer", "meaning": "biçim vermek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "figuratif", "meaning": "figür barındıran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "figüratif", "meaning": "tanınabilir varlıkları betimleyen", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sanatta tanınabilir varlıkları betimleyen.",
+    "currentMeaning": "Resim ve heykelde insan, hayvan, nesne veya doğa biçimlerini tanınabilir biçimde temsil eden.",
+    "story": "Fransızca figurer fiilinin merkezinde bir şeye biçim verme düşüncesi bulunur. Bu fiilden oluşan figuratif, sanat eserinde seçilebilir figürlerin bulunmasını öne çıkarır. Türkçeye sanat tartışmaları içinde taşınan kelime, görünen dünyayla bağını koruyan resim ve heykelleri nitelemeye yerleşmiştir.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1950", "form": "non figüratif"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "figüratif maddesi", "url": "https://www.nisanyansozluk.com/kelime/fig%C3%BCratif"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "figüratif maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "fragman",
+    "word": "fragman",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "bʰreg-", "meaning": "kırmak", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "bʰr̥-n-g-", "meaning": "kırmak", "period": null, "reconstructed": true},
+      {"language": "la", "form": "frangere, fract-", "meaning": "kırmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "fragmentum", "meaning": "kırmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "fragment", "meaning": "bir bütünden kopmuş parça", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fragman", "meaning": "bir filmi tanıtan kısa görüntü derlemesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir filmi tanıtmak için hazırlanan kısa görüntü derlemesi.",
+    "currentMeaning": "Bir filmin seçilmiş sahnelerini bir araya getirerek konusunu ve havasını tanıtan kısa film.",
+    "story": "Kelimenin en eski katmanında bir bütünü kırma eylemi vardır. Bu kök Latince frangere üzerinden ilerler; Fransızca fragment aşamasında öne çıkan şey bütünden ayrılmış parçadır. Türkçede sinema alanına yerleşince bu parça, seyircinin henüz tamamını görmediği filmden sunulan kısa görüntülere dönüşmüştür.",
+    "firstAttestation": {"source": "Milliyet", "period": "1954", "form": "fragmanları"},
+    "relatives": [{"word": "break", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": "İngilizcede kırmayı anlatan break ile sinema fragmanı aynı eski kökte buluşur.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fragman maddesi", "url": "https://www.nisanyansozluk.com/kelime/fragman"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "fragman maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "grotesk",
+    "word": "grotesk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "kryptḗ", "meaning": "gözden saklı, yer altında kalmış", "period": null, "reconstructed": false},
+      {"language": "la", "form": "crypta", "meaning": "yer altı geçidi veya mahzen", "period": null, "reconstructed": false},
+      {"language": "it", "form": "grotta", "meaning": "mağara veya yer altı geçidi", "period": null, "reconstructed": false},
+      {"language": "it", "form": "grottesca", "meaning": "eski Roma yapılarının yer altı bölümlerini andıran", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "grotesque", "meaning": "acayip, korkutucu veya aşırı çirkin", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "grotesk", "meaning": "tuhaf ve gülünç figürlere dayanan süsleme üslubu", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Tuhaf ve gülünç figürleri birleştiren süsleme üslubu.",
+    "currentMeaning": "Eski Roma yapılarındaki örnekleriyle tanınan, alışılmadık ve gülünç figürleri bir araya getiren bezeme üslubu.",
+    "story": "Groteskin geçmişinde önce saklı bir yer, ardından mahzen ve mağara vardır. Yunancadan Latinceye uzanan bu mekân adı, İtalyanca grotta ile eski Roma yapılarının yer altı bölümlerine bağlanır. Bu yerlerle ilişkilendirilen süslemelerin tuhaf figürleri, Fransızcada kelimeye acayiplik ve ürperticilik yüklemiştir. Türkçede de bu görsel dünyanın adı olarak kullanılır.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1939", "form": "grotesk"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "grotesk maddesi", "url": "https://www.nisanyansozluk.com/kelime/grotesk"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "grotesk maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "illüzyon",
+    "word": "illüzyon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "ludus", "meaning": "oyun", "period": null, "reconstructed": false},
+      {"language": "la", "form": "ludere, lus-", "meaning": "oynamak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "illudere", "meaning": "oyunla yanıltmak, alaya almak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "illusio", "meaning": "oyunla yanıltmak, alaya almak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "illusion", "meaning": "gerçeği yansıtmayan görünüş veya hayal", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "illüzyon", "meaning": "görme duyusunu yanıltan gösteri veya görüntü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Görme duyusunu yanıltmaya dayanan gösteri veya görüntü.",
+    "currentMeaning": "Bir şeyi olduğundan başka türlü göstererek gözde yanılsama yaratan düzenleme veya gösteri.",
+    "story": "İllüzyonun başlangıcında Latincedeki oyun dünyası vardır. Oynamayı anlatan ludere, illudere biçiminde birini alaya alma ve yanıltma yönüne açılır. Fransızca illusion, bu oyunu gerçeğe benzeyen aldatıcı bir görüntüye taşır. Türkçede kelime, özellikle gözün gördüğüyle gerçekte olanın ayrıldığı gösterilerle yerleşmiştir.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1936", "form": "illüzyonist"},
+    "relatives": [{"word": "illüzyonist", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "illüzyon maddesi", "url": "https://www.nisanyansozluk.com/kelime/ill%C3%BCzyon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "illüzyon maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ironi",
+    "word": "ironi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "werh₁- (wer-)", "meaning": "söylemek", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "wér-i̯e-", "meaning": "söylemek", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "eírō", "meaning": "konuşturmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "eirōnía", "meaning": "bildiğini veya gerçek niyetini saklayarak davranma", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ironie", "meaning": "örtülü ve alaylı söyleyiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ironi", "meaning": "söylenenle kastedilen arasındaki ayrılıktan doğan alay", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Söylenenle kastedilen arasındaki ayrılıktan doğan alay.",
+    "currentMeaning": "Asıl düşünceyi doğrudan söylemek yerine farklı veya karşıt bir ifade kullanarak oluşturulan ince alay ve gülmece.",
+    "story": "Eski Yunanca eirōnía, kişinin bildiğini saklayıp başka bir tavır takınmasını anlatıyordu. Bu adın, karşısındakini konuşturmayı anlatan eírō ile bağlantısı muhtemel görülür. Fransızcada ironie, niyeti gizleyen tavrı alaylı bir anlatım aracına dönüştürür. Türkçedeki kullanımda da sözün yüzeyde söylediğiyle gerçekte hedeflediği arasındaki mesafe belirleyicidir.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1937", "form": "ironi"},
+    "relatives": [{"word": "retorik", "relation": "eş köken"}],
+    "alternatives": [
+      "Nişanyan Sözlük, Yunanca eirōnía biçiminin eírō fiilinden türeyişini kesin değil, muhtemel olarak değerlendirir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ironi maddesi", "url": "https://www.nisanyansozluk.com/kelime/ironi"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ironi maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "jargon",
+    "word": "jargon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "jargon", "meaning": "kuş ötüşü, anlaşılması güç konuşma veya bir grubun özel dili", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "jargon", "meaning": "bir meslek veya çevrenin kendine özgü söz varlığı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir meslek veya çevrenin kendine özgü söz varlığı.",
+    "currentMeaning": "Belirli bir işi yapanların veya aynı topluluğa bağlı kişilerin kendi aralarında kullandıkları özel kelime ve ifadeler bütünü.",
+    "story": "Fransızca jargonun anlam dünyasında kuşların sesiyle insanların anlaşılması güç konuşması yan yana durur. Dışarıdan dinleyene çözülemeyen bu sesler, bir grubun yalnız kendi üyelerine açık dili için de uygun bir benzetme oluşturur. Türkçe, kelimeyi özellikle mesleklerin ve toplulukların kendilerine özgü sözlerini anlatmak için almıştır.",
+    "firstAttestation": {"source": "Türk Tarihinin Ana Hatları", "period": "1930", "form": "jargonile"},
+    "relatives": [
+      {"word": "gergo", "relation": "eş köken"},
+      {"word": "geringonça", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "jargon maddesi", "url": "https://www.nisanyansozluk.com/kelime/jargon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "jargon maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kadans",
+    "word": "kadans",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ḱh₂d- (ḱad-)", "meaning": "düşmek", "period": null, "reconstructed": true},
+      {"language": "la", "form": "cadere, cas-", "meaning": "düşmek, yaşamını yitirmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "cadere", "meaning": "düşmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "cadenza", "meaning": "aşağıya düşüş", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "cadence", "meaning": "müzikal gerilimin azalması", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kadans", "meaning": "müzikte bir cümleyi durak veya sonuca bağlayan ilerleyiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Müzikte bir cümleyi durak veya sonuca bağlayan ilerleyiş.",
+    "currentMeaning": "Müzikal bir cümlenin sonunda duraklama veya tamamlanma duygusu oluşturan ses ve akor ilerleyişi.",
+    "story": "Kadansın kökündeki hareket aşağıya doğrudur: eski kök düşmeyi anlatır. Latince cadere ve İtalyanca cadenza üzerinden ilerleyen bu düşüş, Fransızcada müziğin gerilimine uygulanır. Seslerin bir durağa yaklaşırken yarattığı çözülme, böylece fiziksel düşüşün işitsel karşılığı olur. Türkçedeki müzik terimi de bu durulma ve tamamlanma duygusunu taşır.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar — Gulyabani", "period": "1911", "form": "kadans"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kadans maddesi", "url": "https://www.nisanyansozluk.com/kelime/kadans"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "karizma",
+    "word": "karizma",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ǵʰer-³", "meaning": "sevmek", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "χaírō", "meaning": "sevgi veya sevinç duymak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "χárisma(t)", "meaning": "incelik, bağışlanan iyilik ve hoş davranış", "period": null, "reconstructed": false},
+      {"language": "de", "form": "Charisma", "meaning": "incelik, bağışlanan iyilik ve hoş davranış", "period": null, "reconstructed": false},
+      {"language": "en", "form": "charisma", "meaning": "başkalarında sevgi ve hayranlık uyandırma gücü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "karizma", "meaning": "kişinin başkalarını etkileyen çekim gücü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kişinin başkalarında hayranlık uyandıran çekim gücü.",
+    "currentMeaning": "Bir kişinin davranışları ve kişiliğiyle çevresindekileri etkilemesini, ilgi ve hayranlık toplamasını sağlayan özellik.",
+    "story": "Karizmanın eski kökü sevme ve sevinme çevresinde şekillenir. Yunanca χárisma, bu duygusal alandan inceliğe ve lütfa uzanır. Almanca üzerinden İngilizceye uzanan aktarımda kelime, başkalarının sevgisini ve hayranlığını kazanabilen kişinin özelliğini anlatır. Türkçeye doğrudan hangi Batı dilinden geçtiği konusunda kaynaklar ayrışsa da bugünkü kullanımın odağında insanın çevresinde yarattığı etki vardır.",
+    "firstAttestation": {"source": "Milliyet", "period": "1965", "form": "karizmatik"},
+    "relatives": [{"word": "karizmatik", "relation": "türev"}],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye aktarımı Almanca üzerinden İngilizce charisma ile açıklar; TDK Güncel Türkçe Sözlük doğrudan kaynak olarak Fransızca charisme biçimini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "karizma maddesi", "url": "https://www.nisanyansozluk.com/kelime/karizma"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "karizma maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "klişe",
+    "word": "klişe",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "fr", "form": "clicher", "meaning": "bir kalıp içinde dökmek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "cliché", "meaning": "baskı kalıbı; sürekli yinelenen söz veya düşünce", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "klişe", "meaning": "baskı levhası; özgünlüğünü yitirmiş söz veya düşünce", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Baskı kalıbı; çok yinelenerek özgünlüğünü yitirmiş söz veya düşünce.",
+    "currentMeaning": "Baskı için hazırlanan kabartmalı levha; mecazen sürekli tekrarlandığı için etkisini ve özgünlüğünü kaybetmiş ifade veya düşünce.",
+    "story": "Fransızca clicher, malzemeyi kalıba dökme işini anlatır; fiilin başlangıcında bir ses taklidi bulunur. Buradan doğan cliché, aynı görüntünün tekrar tekrar basılmasını sağlayan kalıbın adı olur. Kalıbın hep aynı izi üretmesi, söz ve düşünce dünyasına da taşınır. Türkçede klişe, hem baskı aracını hem de hazır bir kalıptan çıkmış gibi yinelenen ifadeyi anlatır.",
+    "firstAttestation": {"source": "Basiretçi Ali Bey — İstanbul Mektupları", "period": "1870", "form": "klişe"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "klişe maddesi", "url": "https://www.nisanyansozluk.com/kelime/kli%C5%9Fe"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "klişe maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kolaj",
+    "word": "kolaj",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "colla", "meaning": "tutkal", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "colle", "meaning": "tutkal", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "coller", "meaning": "bir yüzeye yapıştırmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "collage", "meaning": "yapıştırma işlemi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kolaj", "meaning": "çeşitli parçaları yapıştırarak oluşturulan kompozisyon", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çeşitli parçaları yapıştırarak oluşturulan kompozisyon.",
+    "currentMeaning": "Kâğıt, fotoğraf, kumaş gibi farklı malzemelerden alınan parçaları bir yüzey üzerinde birleştirme tekniği ve bu teknikle oluşturulan eser.",
+    "story": "Kolajın geçmişinde sanat eserinden önce tutkal vardır. Latince colla, Fransızcada colle olarak yaşar; buradan yapıştırma eylemini anlatan coller ve işlemin adı collage oluşur. Sanatta farklı parçalar aynı yüzeye tutturulunca işlemin adı eserin de adı hâline gelir. Türkçeye geçen kolaj, parçaların bir araya gelişini adında korur.",
+    "firstAttestation": {"source": "Milliyet", "period": "1964", "form": "kolaj"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kolaj maddesi", "url": "https://www.nisanyansozluk.com/kelime/kolaj"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kolaj maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "lirik",
+    "word": "lirik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "lýra", "meaning": "lir adlı telli çalgı", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "lyrikós", "meaning": "lirle seslendirilmek için hazırlanan şiire ilişkin", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "lyrique", "meaning": "aşk şiirini andıran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lirik", "meaning": "duyguyu coşkuyla dile getiren", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Duyguları yoğun ve coşkulu biçimde dile getiren.",
+    "currentMeaning": "Şiirde ve başka sanat eserlerinde kişisel duyguları coşkulu, içten ve esinli bir söyleyişle yansıtan.",
+    "story": "Lirik anlatımın arkasında Eski Yunan dünyasının telli çalgısı lir bulunur. Lyrikós, bu çalgının eşliğinde seslendirilecek şiiri anlatırken müzikle söz aynı sahnede buluşur. Fransızca lyrique aşamasında aşk şiirinin duygu yüklü söyleyişi öne çıkar. Türkçede kelime, yanında bir çalgı bulunmasa da duyguyu coşkuyla aktaran anlatımları niteler.",
+    "firstAttestation": {"source": "Ahmed Rasim — Şehir Mektupları", "period": "1898", "form": "lirik"},
+    "relatives": [{"word": "lir", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "lirik maddesi", "url": "https://www.nisanyansozluk.com/kelime/lirik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lirik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "marjinal",
+    "word": "marjinal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "margo, margin-", "meaning": "kenar", "period": null, "reconstructed": false},
+      {"language": "la", "form": "marginalis", "meaning": "kenar", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "marginal", "meaning": "sayfa kenarına ilişkin; ana konunun veya toplum düzeninin dışında kalan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "marjinal", "meaning": "yerleşik anlayışın dışında kalan, aykırı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yerleşik anlayışın dışında kalan, aykırı.",
+    "currentMeaning": "Bir toplumda veya çevrede yaygın biçimde benimsenen düşünce, davranış ve yaşam biçimlerinden ayrılan.",
+    "story": "Latince margo, bir şeyin kenarını gösterir. Fransızca marginal içinde bu kenar, kitabın ana metninin dışında kalan not ve süslemelerin yeridir. Ana metnin dışında durma düşüncesi toplum hayatına taşınınca yerleşik düzenin dışında kalan kişi ve tutumları da kapsar. Türkçedeki aykırılık anlamı, bu merkez ile kenar ayrımını sürdürür.",
+    "firstAttestation": {"source": "Milliyet", "period": "1964", "form": "marjinal"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "marjinal maddesi", "url": "https://www.nisanyansozluk.com/kelime/marjinal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "marjinal maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "melankoli",
+    "word": "melankoli",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "χolḗ", "meaning": "safra sıvısı", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "mélas, melan-", "meaning": "siyah", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "melanχolḗ", "meaning": "siyah safra", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "melanχolía", "meaning": "eski hekimlikte siyah safra fazlalığına bağlanan ruhsal rahatsızlık", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "mélancholie", "meaning": "derin keder ve kara sevda", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "melankoli", "meaning": "içe işleyen hüzün ve karasevda hâli", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İçe işleyen hüzün ve karasevda hâli.",
+    "currentMeaning": "Kişinin duygu dünyasına hâkim olan derin keder, durgunluk ve karasevda hâli.",
+    "story": "Melankoli, Yunancada siyahı anlatan mélas ile safrayı anlatan χolḗ öğelerinin birleşmesine dayanır. Eski hekimlik, bazı ruhsal sıkıntıları bedende kara safranın fazlalaşmasıyla açıklıyordu. Böylece varsayılan bir beden sıvısının adı, insanın iç dünyasındaki kederin adına dönüştü. Fransızca aracılığıyla Türkçeye geçen kelime, bugün bu eski açıklamayı benimsemeksizin derin hüznü anlatır.",
+    "firstAttestation": {"source": "Tıngır & Sinapian — Istılahat Lugati", "period": "1892", "form": "melankoliya"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "melankoli maddesi", "url": "https://www.nisanyansozluk.com/kelime/melankoli"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "melankoli maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "metafor",
+    "word": "metafor",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "phérō", "meaning": "bir şeyi taşımak veya götürmek", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "metaphérō", "meaning": "yerini veya biçimini değiştirmek, aktarmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "metaphorá", "meaning": "aktarma ve dönüşüm; bir sözü alışılmış anlamının dışında kullanma", "period": null, "reconstructed": false},
+      {"language": "en", "form": "metaphor", "meaning": "simgelerle anlatma", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "métaphore", "meaning": "simgelerle anlatma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "metafor", "meaning": "bir kavramı başka bir kavram üzerinden anlatan anlam aktarımı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir kavramı başka bir kavram üzerinden anlatan anlam aktarımı.",
+    "currentMeaning": "Bir varlık veya düşünceyi başka bir varlık ya da düşüncenin özellikleriyle anlatarak kurulan eğretileme.",
+    "story": "Yunanca phérō, bir şeyi bir yerden başka bir yere taşımayı anlatır. Metaphérō ve metaphorá ile bu hareket, kelimenin kendi anlam alanından başka bir alana aktarılmasını da kapsar. Bir insana taş demek, fiziksel bir nesneyi taşımadan onun çağrışımlarını insana yükler. Türkçeye aktarımda Fransızca ve İngilizce alternatif yollar olarak gösterilir; her iki biçim de bu anlam taşıma düşüncesini sürdürür.",
+    "firstAttestation": {"source": "Hakimiyet-i Milliye", "period": "1934", "form": "metafor"},
+    "relatives": [{"word": "metaforik", "relation": "türev"}],
+    "alternatives": [
+      "Nişanyan Sözlük, Fransızca métaphore ile İngilizce metaphor biçimlerini Türkçeye aktarım için alternatif olarak verir; bu iki halka birbirinden ardışık alıntıyı göstermez."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "metafor maddesi", "url": "https://www.nisanyansozluk.com/kelime/metafor"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nüans",
+    "word": "nüans",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "(s)newdʰ-", "meaning": "sis veya bulut", "period": null, "reconstructed": true},
+      {"language": "la", "form": "nubes", "meaning": "sis veya bulut", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "nue", "meaning": "bulut", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "nuance", "meaning": "renkler arasındaki ince ton farkı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nüans", "meaning": "benzer şeyleri ayıran ince fark", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birbirine benzeyen şeyler arasındaki ince fark.",
+    "currentMeaning": "Renk, ses, anlam veya davranış gibi alanlarda birbirine yakın özellikleri ayırt etmeyi sağlayan küçük fark.",
+    "story": "Nüansın kökündeki görüntü sis ve buluttur; Latince nubes ile Fransızca nue bu bağı taşır. Fransızcada nuance, bulutlardaki yumuşak geçişleri andıran ince renk ayrımlarına ad olur. Resim dilindeki bu kullanım, belirgin sınırları olmayan küçük farkları anlatmaya elverişlidir. Türkçede kelime renklerin ötesine geçerek ses, düşünce ve davranıştaki incelikleri de kapsar.",
+    "firstAttestation": {"source": "Ahmed Rasim — Şehir Mektupları", "period": "1897", "form": "nüansı"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nüans maddesi", "url": "https://www.nisanyansozluk.com/kelime/n%C3%BCans"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nüans maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "palimpsest",
+    "word": "palimpsest",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "psēχō", "meaning": "yüzeyi kazımak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "psēstós", "meaning": "kazınarak temizlenmiş", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "pálin", "meaning": "yeniden, geriye doğru", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "palímpsēstos", "meaning": "yeniden kazınıp silinmiş", "period": null, "reconstructed": false},
+      {"language": "en", "form": "palimpsest", "meaning": "önceki yazısı silinerek yeniden kullanılmış el yazması", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "palimpsest", "meaning": "silinen eski yazının üzerine yeni yazı yazılmış el yazması", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Eski yazısı silinip üzerine yeniden yazılmış el yazması.",
+    "currentMeaning": "Önceki metni kazınarak veya silinerek yazı yüzeyi yeniden kullanılmış el yazması; mecazen eski izler üzerinde oluşan yeni katmanlar bütünü.",
+    "story": "Palimpsestin arkasında yazılı bir yüzeyi kazıyıp yeniden kullanma işi bulunur. Yunancada kazınmış olmayı anlatan psēstós ile yeniden düşüncesini taşıyan pálin birleşerek bu işlemi adlandırır. İngilizce palimpsest, eski metni silinmiş ve yeniden yazılmış el yazmasını belirtir. Türkçede kelime, bu somut nesnenin yanında geçmişin izleri üzerine eklenen yeni katmanları anlatmak için de kullanılır.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1990", "form": "Palimpsestler"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "George Orwell'in 1984 romanındaki kullanımı, el yazmalarına ilişkin bu teknik terimin mecaz olarak yayılmasına katkı sağlamıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "palimpsest maddesi", "url": "https://www.nisanyansozluk.com/kelime/palimpsest"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "pastiş",
+    "word": "pastiş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "pasta", "meaning": "hamur kıvamında karışım", "period": null, "reconstructed": false},
+      {"language": "it", "form": "pasticcio", "meaning": "hamur kıvamında karışım", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "pastiche", "meaning": "karışım; değişik sanat üsluplarını birleştiren eser", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pastiş", "meaning": "başka sanatçıların üslubunu taklit ederek oluşturulan eser", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Başka sanatçıların üslubunu taklit ederek oluşturulan eser.",
+    "currentMeaning": "Bir veya birden çok sanatçının anlatım ve biçim özelliklerini taklit ederek meydana getirilen sanat eseri.",
+    "story": "Pastişin başlangıcında İtalyancanın hamur ve karışım dünyası bulunur. Pasticcio ile anlatılan bulamaç, Fransızca pastiche içinde farklı üslupların birbirine katıldığı sanat eserine dönüşür. Malzemelerin karışması artık renklerin, anlatım biçimlerinin ve sanatçı üsluplarının karışmasıdır. Türkçedeki pastiş, özellikle başka eserlerin üslubunu taklit ederek üretmeyi öne çıkarır.",
+    "firstAttestation": {"source": "Kadro", "period": "1932", "form": "pastişlerine"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pastiş maddesi", "url": "https://www.nisanyansozluk.com/kelime/pasti%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pastiş maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "patetik",
+    "word": "patetik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "páthos", "meaning": "duygu; özellikle acı çekme veya acıma", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "pathētikós", "meaning": "duygu; özellikle acı çekme veya acıma", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "pathétique", "meaning": "yoğun duygu uyandıran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "patetik", "meaning": "duygular üzerinde güçlü etki bırakan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yoğun duygu uyandıran, dokunaklı.",
+    "currentMeaning": "Özellikle acı ve acıma duygularını harekete geçirerek güçlü bir duygusal etki bırakan.",
+    "story": "Yunanca páthos, duyguyu özellikle acı çekme ve acıma yönleriyle ele alır. Bu kökten gelişen pathētikós, Fransızca pathétique aşamasında karşısındakinin duygularını harekete geçiren niteliği öne çıkarır. Türkçeye geçen patetik de bir olayın veya anlatımın insanda bıraktığı güçlü duygusal etkiyi niteler.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1934", "form": "patetik"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "patetik maddesi", "url": "https://www.nisanyansozluk.com/kelime/patetik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "patetik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pitoresk",
+    "word": "pitoresk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "pingere, pig-", "meaning": "boyamak veya resmetmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "pictor", "meaning": "boyamak veya resmetmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "pittore", "meaning": "resim yapan sanatçı", "period": null, "reconstructed": false},
+      {"language": "it", "form": "pittoresco", "meaning": "resim yapan sanatçı", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "pittoresque", "meaning": "ressamın bakışına uygun, resmi yapılmaya değer", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pitoresk", "meaning": "bir tabloyu andıran, resmedilmeye elverişli", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir tabloyu andıran, resmedilmeye değer.",
+    "currentMeaning": "Görünüşü, renkleri ve düzeniyle bir resim izlenimi veren; resme konu olmaya elverişli bulunan.",
+    "story": "Pitoreskin çıkış noktası Latincede boyama ve resim yapma eylemidir. İtalyanca pittore ile bu işi yapan ressam öne çıkar; pittoresco üzerinden Fransızcaya geçen kelime ressamın bakışını manzaraya taşır. Bir yerin pitoresk bulunması, onun resme dönüşmeye hazır görülmesidir. Türkçede de kelime, görünüşüyle tablo izlenimi veren yerleri ve sahneleri niteler.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1929", "form": "Pitoresk"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pitoresk maddesi", "url": "https://www.nisanyansozluk.com/kelime/pitoresk"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pitoresk maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "retorik",
+    "word": "retorik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "werh₁- (wer-)", "meaning": "söz söylemek", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "wr-ē-tor-", "meaning": "konuşan kişi", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "ʰrétōr", "meaning": "topluluk önünde konuşan kişi", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "ʰretōrikḗ téχnē", "meaning": "topluluk önünde konuşan kişi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "rhétorique", "meaning": "sözü güzel ve sanatlı biçimde kullanma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "retorik", "meaning": "güzel ve etkili konuşma sanatı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Güzel ve etkili konuşma sanatı.",
+    "currentMeaning": "Düşünceleri dinleyici üzerinde etki bırakacak biçimde düzenleme ve güzel bir söyleyişle ifade etme sanatı.",
+    "story": "Retoriğin en eski kökü söz söyleme eylemine uzanır. Bu kökten gelişen Yunanca ʰrétōr, topluluk karşısında söz alan kişiyi öne çıkarır. Hatibin yaptığı iş bir sanat olarak ele alındığında konuşmanın nasıl düzenleneceği ve nasıl etki yaratacağı önem kazanır. Fransızca rhétorique üzerinden Türkçeye geçen kelime, bu özenli söz söyleme sanatının adı olmuştur.",
+    "firstAttestation": {"source": "Horatius — Yakup Kadri çevirisi", "period": "1931", "form": "retor"},
+    "relatives": [{"word": "ironi", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "retorik maddesi", "url": "https://www.nisanyansozluk.com/kelime/retorik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "retorik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a5d-a18f-7643-af53-fe0cbec69bc5
+--------
+user
+# Köken — Üretim Prompt'u (v10)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. figüratif — ipucu: fr — rarity: az-bilinen
+2. fragman — ipucu: fr — rarity: az-bilinen
+3. grotesk — ipucu: fr — rarity: az-bilinen
+4. illüzyon — ipucu: fr — rarity: az-bilinen
+5. ironi — ipucu: fr — rarity: az-bilinen
+6. jargon — ipucu: fr — rarity: az-bilinen
+7. kadans — ipucu: fr — rarity: az-bilinen
+8. karizma — ipucu: fr — rarity: az-bilinen
+9. klişe — ipucu: fr — rarity: az-bilinen
+10. kolaj — ipucu: fr — rarity: az-bilinen
+11. lirik — ipucu: fr — rarity: az-bilinen
+12. marjinal — ipucu: fr — rarity: az-bilinen
+13. melankoli — ipucu: fr — rarity: az-bilinen
+14. metafor — ipucu: fr — rarity: az-bilinen
+15. nüans — ipucu: fr — rarity: az-bilinen
+16. palimpsest — ipucu: fr — rarity: az-bilinen
+17. pastiş — ipucu: fr — rarity: az-bilinen
+18. patetik — ipucu: fr — rarity: az-bilinen
+19. pitoresk — ipucu: fr — rarity: az-bilinen
+20. retorik — ipucu: fr — rarity: az-bilinen
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### figüratif
+
+**Nişanyan — figüratif**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Fransızca › figurer › şekil vermek  [türeme]
+- Fransızca › figuratif › figür içeren, figürlü  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1950, Cumhuriyet - gazete
+  > Mücerred resim, daha yeni bir tabirle 'non figüratif' resimdir
+- 1952, Vatan - gazete
+  > Non-figüratif resim Nuri İyem'de tabiattan ve eşyadan uzaklığını kaybediyor
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/fig%C3%BCratif
+
+**TDK** — köken kaydı: Fransızca figuratif · anlam: Dış gerçeği somut biçimde yansıtan, içinde insan, hayvan ve doğa ögeleri bulunan (resim veya heykel); betili
+
+### fragman
+
+**Nişanyan — fragman**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *bʰreg- › kırmak  [türeme]
+- Hintavrupa Anadili › *bʰr̥-n-g-  [ses evrimi]
+- Latince › frangere, fract- › kırmak  [türeme]
+- Latince › fragmentum › a.a.  [alıntı]
+- Fransızca › fragment › kırık şey, parça  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1954, Milliyet - gazete
+  > Payne'in başrolde oynaması, fragmanları gören bir çok seyircinin
+- 1968, Agop Dilâçar — Dil, Diller ve Dilcilik
+  > En eski yazılı metni, X. yüzyıldan kalma Freising fragmanıdır.
+
+Not: Aynı HAvr kökünden İng break < Ger *brekan "kırmak".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/fragman
+
+**TDK** — köken kaydı: Fransızca fragment · anlam: ► tanıtma filmi
+
+### grotesk
+
+**Nişanyan — grotesk**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › kryptḗ › gizli, saklı, gömülü  [alıntı]
+- Latince › crypta › dehliz, mahzen  [ses evrimi]
+- İtalyanca › grotta › mağara, dehliz  [türeme]
+- İtalyanca › grottesca › mağaramsı, eski Roma binalarının yeraltı dehlizleri gibi  [alıntı]
+- Fransızca › grotesque › fantastik, ürpertici, çok çirkin  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1939, Cumhuriyet - gazete
+  > evlenme hususu da, grotesk bir şekilde, ta eski zamanlarda olduğu gibi kalmıştır
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/grotesk
+
+**TDK** — köken kaydı: Fransızca grotesque · anlam: Eski Çağ Roma yapılarında bulunan tuhaf, gülünç figürlerden oluşmuş süsleme üslubu
+
+### illüzyon
+
+**Nişanyan — illüzyon**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › ludus › oyun  [türeme]
+- Latince › ludere, lus- › oynamak  [türeme]
+- Latince › illudere › alay etmek, oyun oynamak, aldatmak  [türeme]
+- Latince › illusio  [alıntı]
+- Fransızca › illusion › aldatıcı görüntü, hayal  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1936, Cumhuriyet - gazete
+  > Amerikada kazandığı büyük zaferle şehrimize avdet eden asrımızın en kuvvetli TÜRK illüzyonist ve manyetizörü Zati Sungur
+- 1938, Cumhuriyet - gazete
+  > Zati Sungur'un sabırsızlıkla beklenmekte olan yeni programı (...) ve ayrıca yepyeni 10 illüzyon
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ill%C3%BCzyon
+
+**TDK** — köken kaydı: Fransızca illusion · anlam: ► göz bağı
+
+### ironi
+
+**Nişanyan — ironi**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *werh₁- (*wer-) › söylemek  [türeme]
+- Hintavrupa Anadili › *wér-i̯e-  [ses evrimi]
+- Eski Yunanca › eírō › söyletmek  [muhtemel türeme]
+- Eski Yunanca › eirōnía › bilmezden gelme, ikiyüzlülük etme, asıl maksadını gizleme  [alıntı]
+- Fransızca › ironie › kinaye, alaylı anlatım  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1937, Cumhuriyet - gazete
+  > Gurur ve ironi sembolü, şehvetli ve fatal, inkılabçı ruhlu ve melek şekilli bir tip
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ironi
+
+**TDK** — köken kaydı: Fransızca ironie · anlam: ► gülmece
+
+### jargon
+
+**Nişanyan — jargon**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Fransızca › jargon › 1. kuş dili, 2. anlaşılmaz dil, çatra patra, 3. bir meslek zümresine ait özel dil, argo  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- İtalyanca › gergo, gergone › a.a.  [eşkökenlilik]
+- Provansal › geringonça › kuş dili, cıvıltı  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1930, Türk Tarihinin Ana Hatları
+  > Nihayet her tarafa dağılmış, İspanyol jargonile konuşan yahudiler de vardı.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/jargon
+
+**TDK** — köken kaydı: Fransızca jargon · anlam: Aynı meslek veya topluluktaki insanların ortak dilden ayrı olarak kullandıkları özel dil veya söz dağarcığı
+
+### kadans
+
+**Nişanyan — kadans**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *ḱh₂d- (*ḱad-) › düşmek  [ses evrimi]
+- Latince › cadere, cas- › düşmek, ölmek  [türeme]
+- İtalyanca › cadere › düşmek  [türeme]
+- İtalyanca › cadenza › düşüş  [alıntı]
+- Fransızca › cadence › müzikte gerilim düşmesi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1911, Hüseyin Rahmi Gürpınar — Gulyabani
+  > Bir musıki-i mevhumun ağır temposuna ayak uydurur gibi bir nevˁ-i acīb kadans ile gidiyorduk.
+- 1924, Akşam - gazete
+  > En pianissimo ve ağır kadansların akorlarında bile behemehal pürüzlü sesler vardı.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/kadans
+
+### karizma
+
+**Nişanyan — karizma**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *ǵʰer-³ › sevmek  [ses evrimi]
+- Eski Yunanca › χaírō › sevmek, sevinmek, sevinç duymak  [türeme]
+- Eski Yunanca › χárisma(t) › zarafet, lütuf, güzel davranış  [alıntı]
+- Almanca › Charisma › a.a.  [alıntı]
+- İngilizce › charisma › sevgi ve hayranlık kazanma yeteneği  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1965, Milliyet - gazete
+  > bu tip yönetimlere Max Weber 'karizmatik otorite' demektedir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/karizma
+
+**TDK** — köken kaydı: Fransızca charisme · anlam: ► etkileyicilik
+
+### klişe
+
+**Nişanyan — klişe**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- yansıma (onomatope) › ?  [türeme]
+- Fransızca › clicher › kalıba dökmek  [türeme]
+- Fransızca › cliché › 1. matbaacılıkta resim kalıbı, 2. (mec.) kalıplaşmış söz veya düşünce  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1870, Basiretçi Ali Bey — İstanbul Mektupları
+  > fotoğrafın 'klişe' denilen camından lüzumu kadar istinsah edildikten sonra
+- 1919, Hüseyin Rahmi Gürpınar — Cehennemlik
+  > Bu 'zıyā-ı azīm' bir klişedir
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/kli%C5%9Fe
+
+**TDK** — köken kaydı: Fransızca cliché · anlam: Baskıda kullanılmak amacıyla, üzerine kabartma resim, şekil, yazı çıkarılmış metal levha
+
+### kolaj
+
+**Nişanyan — kolaj**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › colla › a.a.  [ses evrimi]
+- Fransızca › colle › tutkal  [türeme]
+- Fransızca › coller › yapıştırmak  [türeme]
+- Fransızca › collage › yapıştırma  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1964, Milliyet - gazete
+  > eski kilimlerden kolaj şeklinde kullanılmış
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/kolaj
+
+**TDK** — köken kaydı: Fransızca collage · anlam: ► kesyap
+
+### lirik
+
+**Nişanyan — lirik**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › lýra › lir  [türeme]
+- Eski Yunanca › lyrikós › lir eşliğinde söylenmek üzere yazılan şiir  [alıntı]
+- Fransızca › lyrique › aşk şiiri tarzında  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1898, Ahmed Rasim — Şehir Mektupları
+  > saz şuarasınca yani lirik şairlerce makbul olan
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/lirik
+
+**TDK** — köken kaydı: Fransızca lyrique · anlam: Coşkun, ilhamla dolu
+
+### marjinal
+
+**Nişanyan — marjinal**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › margo, margin- › kenar  [türeme]
+- Latince › marginalis › a.a.  [alıntı]
+- Fransızca › marginal › 1. kenara ait, asıl konuya dahil olmayan, bir kitabın dış kenarına yazılan notlar veya süsleme, 2. toplum düzeninin dışında kalan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1964, Milliyet - gazete
+  > Millet meclisinde bir ekseriyeti sağladığı (...) bu ekseriyet fevkalade küçük, marjinal bir ekseriyet olacaktır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/marjinal
+
+**TDK** — köken kaydı: Fransızca marginal · anlam: ► aykırı
+
+### melankoli
+
+**Nişanyan — melankoli**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › χolḗ › safra  [bileşik sözcüğün devamı]
+- Eski Yunanca › mélas, melan- › kara  [bileşik sözcük]
+- Eski Yunanca › melanχolḗ › kara safra  [alıntı]
+- Eski Yunanca › melanχolía › eski tıpta kara safranın artmasından ileri geldiği düşünülen hastalık, kara sevda  [alıntı]
+- Fransızca › mélancholie › kara sevda  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1892, Tıngır & Sinapian — Istılahat Lugati
+  > Mélancolie [Fr.]: melankoliya, kara sevda.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/melankoli
+
+**TDK** — köken kaydı: Fransızca mélancolie · anlam: ► kara sevda
+
+### metafor
+
+**Nişanyan — metafor**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › phérō › taşımak, götürmek  [türeme]
+- Eski Yunanca › metaphérō › değiştirme, taşıma, başkalaştırma  [türeme]
+- Eski Yunanca › metaphorá › 1. transfer, başkalaşım, 2. retorikte bir sözcüğü doğal anlamı dışında kullanma, anlam kaydırması  [alıntı]
+- İngilizce › metaphor › simgesel anlatım  [veya]
+- Fransızca › métaphore  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1934, Hakimiyet-i Milliye - gazete
+  > bu sözün metafor yolu ile komşu medlûle göçürülmesinden ileri gelmiştir.
+- 1984, Milliyet - gazete
+  > Gerçeküstücülüğe yakın eğretilemeli (metaforik) resim
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/metafor
+
+### nüans
+
+**Nişanyan — nüans**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *(s)newdʰ- › sis, bulut  [ses evrimi]
+- Latince › nubes › a.a.  [ses evrimi]
+- Fransızca › nue › bulut  [türeme]
+- Fransızca › nuance › hassas renk ayrımı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1897, Ahmed Rasim — Şehir Mektupları
+  > güvezî, billurî, kâfurî, toz pembesi, lâl ve bunlar arasındaki kâffe-i nüansı
+- 1918, Atî - dergi
+  > Nüans mukabili öteden beri 'furûk' kelimesi müstamel iken 'halfe' tabir-i gayr-i menusunu kabul ve istimal edecek musiki müellifi güç bulunur zannediyoruz.
+
+Not: 18. yy resim sanatında bulut gibi hassas renk tonlamalarını belirtmek için kullanılmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/n%C3%BCans
+
+**TDK** — köken kaydı: Fransızca nuance · anlam: ► ayırtı
+
+### palimpsest
+
+**Nişanyan — palimpsest**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › psēχō › kazımak  [türeme]
+- Eski Yunanca › psēstós › kazınmış, silinmiş  [bileşik sözcüğün devamı]
+- Eski Yunanca › pálin › tekrar, gerisin geri  [bileşik sözcük]
+- Eski Yunanca › palímpsēstos › geri silinmiş, a.a.  [alıntı]
+- İngilizce › palimpsest › «yeniden yazma», silinip yeniden yazılmış yazma kitap  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1990, Cumhuriyet - gazete
+  > Selda Asal'ın «Palimpsestler» adını taşıyan resim sergisi
+
+Not: Paleografi disiplinine ait teknik terim George Orwell'in 1984 romanında geçen bir ifade sayesinde yaygın mecazi kullanım alanına kavuştu.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/palimpsest
+
+### pastiş
+
+**Nişanyan — pastiş**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- İtalyanca › pasta › a.a.  [türeme]
+- İtalyanca › pasticcio › bulamaç  [alıntı]
+- Fransızca › pastiche › bulamaç, farklı stilleri karıştırarak yapılan sanat eseri  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1932, Kadro - aylık dergi
+  > santimantal şark dostlarının ilim ve sanat pastişlerine mevzu oldu.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pasti%C5%9F
+
+**TDK** — köken kaydı: Fransızca pastiche · anlam: Başka sanatçıların eserlerini taklit yoluyla meydana getirilen sanat eseri
+
+### patetik
+
+**Nişanyan — patetik**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › páthos › duygu, özellikle acı veya acıma duygusu  [türeme]
+- Eski Yunanca › pathētikós › a.a.  [alıntı]
+- Fransızca › pathétique › duyguları harekete geçiren, duygusal  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1934, Cumhuriyet - gazete
+  > o patetik macera bilmem şimdiki seyircilerin hoşuna gidecek midir?
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/patetik
+
+**TDK** — köken kaydı: Fransızca pathétique · anlam: ► etkili
+
+### pitoresk
+
+**Nişanyan — pitoresk**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › pingere, pig- › resim yapmak, boyamak  [türeme]
+- Latince › pictor › a.a.  [ses evrimi]
+- İtalyanca › pittore › ressam  [türeme]
+- İtalyanca › pittoresco › a.a.  [alıntı]
+- Fransızca › pittoresque › ressamca, resmedilmeye değer  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1929, Cumhuriyet - gazete
+  > Cenevre gazeteleri bu manzarayı pek 'Pitoresk' buluyorlar
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pitoresk
+
+**TDK** — köken kaydı: Fransızca pittoresque · anlam: ► resimsi
+
+### retorik
+
+**Nişanyan — retorik**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *werh₁- (*wer-) › konuşmak, söylemek  [türeme]
+- Hintavrupa Anadili › *wr-ē-tor- › konuşan  [ses evrimi]
+- Eski Yunanca › ʰrétōr › hatip  [türeme]
+- Eski Yunanca › ʰretōrikḗ téχnē › a.a.  [alıntı]
+- Fransızca › rhétorique › belagat, güzel ve sanatlı konuşma  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1931, Horatius (çev. Yakup Kadri)
+  > Roma'da, biri retor, öbürü hukukçu iki kardeş vardı ki, nutuklarında biribirini methederler ...
+- 1936, Cumhuriyet - gazete
+  > sembolizm, bugün halk şiirlerinin lirizmile eski retorik hayalleri arasında sıkışmış ...
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/retorik
+
+**TDK** — köken kaydı: Fransızca rhétorique · anlam: Güzel söz söyleme
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "figüratif",
+    "word": "figüratif",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "figurer", "meaning": "biçim vermek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "figuratif", "meaning": "figür barındıran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "figüratif", "meaning": "tanınabilir varlıkları betimleyen", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sanatta tanınabilir varlıkları betimleyen.",
+    "currentMeaning": "Resim ve heykelde insan, hayvan, nesne veya doğa biçimlerini tanınabilir biçimde temsil eden.",
+    "story": "Fransızca figurer fiilinin merkezinde bir şeye biçim verme düşüncesi bulunur. Bu fiilden oluşan figuratif, sanat eserinde seçilebilir figürlerin bulunmasını öne çıkarır. Türkçeye sanat tartışmaları içinde taşınan kelime, görünen dünyayla bağını koruyan resim ve heykelleri nitelemeye yerleşmiştir.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1950", "form": "non figüratif"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "figüratif maddesi", "url": "https://www.nisanyansozluk.com/kelime/fig%C3%BCratif"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "figüratif maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "fragman",
+    "word": "fragman",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "bʰreg-", "meaning": "kırmak", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "bʰr̥-n-g-", "meaning": "kırmak", "period": null, "reconstructed": true},
+      {"language": "la", "form": "frangere, fract-", "meaning": "kırmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "fragmentum", "meaning": "kırmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "fragment", "meaning": "bir bütünden kopmuş parça", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fragman", "meaning": "bir filmi tanıtan kısa görüntü derlemesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir filmi tanıtmak için hazırlanan kısa görüntü derlemesi.",
+    "currentMeaning": "Bir filmin seçilmiş sahnelerini bir araya getirerek konusunu ve havasını tanıtan kısa film.",
+    "story": "Kelimenin en eski katmanında bir bütünü kırma eylemi vardır. Bu kök Latince frangere üzerinden ilerler; Fransızca fragment aşamasında öne çıkan şey bütünden ayrılmış parçadır. Türkçede sinema alanına yerleşince bu parça, seyircinin henüz tamamını görmediği filmden sunulan kısa görüntülere dönüşmüştür.",
+    "firstAttestation": {"source": "Milliyet", "period": "1954", "form": "fragmanları"},
+    "relatives": [{"word": "break", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": "İngilizcede kırmayı anlatan break ile sinema fragmanı aynı eski kökte buluşur.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fragman maddesi", "url": "https://www.nisanyansozluk.com/kelime/fragman"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "fragman maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "grotesk",
+    "word": "grotesk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "kryptḗ", "meaning": "gözden saklı, yer altında kalmış", "period": null, "reconstructed": false},
+      {"language": "la", "form": "crypta", "meaning": "yer altı geçidi veya mahzen", "period": null, "reconstructed": false},
+      {"language": "it", "form": "grotta", "meaning": "mağara veya yer altı geçidi", "period": null, "reconstructed": false},
+      {"language": "it", "form": "grottesca", "meaning": "eski Roma yapılarının yer altı bölümlerini andıran", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "grotesque", "meaning": "acayip, korkutucu veya aşırı çirkin", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "grotesk", "meaning": "tuhaf ve gülünç figürlere dayanan süsleme üslubu", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Tuhaf ve gülünç figürleri birleştiren süsleme üslubu.",
+    "currentMeaning": "Eski Roma yapılarındaki örnekleriyle tanınan, alışılmadık ve gülünç figürleri bir araya getiren bezeme üslubu.",
+    "story": "Groteskin geçmişinde önce saklı bir yer, ardından mahzen ve mağara vardır. Yunancadan Latinceye uzanan bu mekân adı, İtalyanca grotta ile eski Roma yapılarının yer altı bölümlerine bağlanır. Bu yerlerle ilişkilendirilen süslemelerin tuhaf figürleri, Fransızcada kelimeye acayiplik ve ürperticilik yüklemiştir. Türkçede de bu görsel dünyanın adı olarak kullanılır.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1939", "form": "grotesk"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "grotesk maddesi", "url": "https://www.nisanyansozluk.com/kelime/grotesk"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "grotesk maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "illüzyon",
+    "word": "illüzyon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "ludus", "meaning": "oyun", "period": null, "reconstructed": false},
+      {"language": "la", "form": "ludere, lus-", "meaning": "oynamak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "illudere", "meaning": "oyunla yanıltmak, alaya almak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "illusio", "meaning": "oyunla yanıltmak, alaya almak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "illusion", "meaning": "gerçeği yansıtmayan görünüş veya hayal", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "illüzyon", "meaning": "görme duyusunu yanıltan gösteri veya görüntü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Görme duyusunu yanıltmaya dayanan gösteri veya görüntü.",
+    "currentMeaning": "Bir şeyi olduğundan başka türlü göstererek gözde yanılsama yaratan düzenleme veya gösteri.",
+    "story": "İllüzyonun başlangıcında Latincedeki oyun dünyası vardır. Oynamayı anlatan ludere, illudere biçiminde birini alaya alma ve yanıltma yönüne açılır. Fransızca illusion, bu oyunu gerçeğe benzeyen aldatıcı bir görüntüye taşır. Türkçede kelime, özellikle gözün gördüğüyle gerçekte olanın ayrıldığı gösterilerle yerleşmiştir.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1936", "form": "illüzyonist"},
+    "relatives": [{"word": "illüzyonist", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "illüzyon maddesi", "url": "https://www.nisanyansozluk.com/kelime/ill%C3%BCzyon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "illüzyon maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ironi",
+    "word": "ironi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "werh₁- (wer-)", "meaning": "söylemek", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "wér-i̯e-", "meaning": "söylemek", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "eírō", "meaning": "konuşturmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "eirōnía", "meaning": "bildiğini veya gerçek niyetini saklayarak davranma", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ironie", "meaning": "örtülü ve alaylı söyleyiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ironi", "meaning": "söylenenle kastedilen arasındaki ayrılıktan doğan alay", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Söylenenle kastedilen arasındaki ayrılıktan doğan alay.",
+    "currentMeaning": "Asıl düşünceyi doğrudan söylemek yerine farklı veya karşıt bir ifade kullanarak oluşturulan ince alay ve gülmece.",
+    "story": "Eski Yunanca eirōnía, kişinin bildiğini saklayıp başka bir tavır takınmasını anlatıyordu. Bu adın, karşısındakini konuşturmayı anlatan eírō ile bağlantısı muhtemel görülür. Fransızcada ironie, niyeti gizleyen tavrı alaylı bir anlatım aracına dönüştürür. Türkçedeki kullanımda da sözün yüzeyde söylediğiyle gerçekte hedeflediği arasındaki mesafe belirleyicidir.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1937", "form": "ironi"},
+    "relatives": [{"word": "retorik", "relation": "eş köken"}],
+    "alternatives": [
+      "Nişanyan Sözlük, Yunanca eirōnía biçiminin eírō fiilinden türeyişini kesin değil, muhtemel olarak değerlendirir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ironi maddesi", "url": "https://www.nisanyansozluk.com/kelime/ironi"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ironi maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "jargon",
+    "word": "jargon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "jargon", "meaning": "kuş ötüşü, anlaşılması güç konuşma veya bir grubun özel dili", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "jargon", "meaning": "bir meslek veya çevrenin kendine özgü söz varlığı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir meslek veya çevrenin kendine özgü söz varlığı.",
+    "currentMeaning": "Belirli bir işi yapanların veya aynı topluluğa bağlı kişilerin kendi aralarında kullandıkları özel kelime ve ifadeler bütünü.",
+    "story": "Fransızca jargonun anlam dünyasında kuşların sesiyle insanların anlaşılması güç konuşması yan yana durur. Dışarıdan dinleyene çözülemeyen bu sesler, bir grubun yalnız kendi üyelerine açık dili için de uygun bir benzetme oluşturur. Türkçe, kelimeyi özellikle mesleklerin ve toplulukların kendilerine özgü sözlerini anlatmak için almıştır.",
+    "firstAttestation": {"source": "Türk Tarihinin Ana Hatları", "period": "1930", "form": "jargonile"},
+    "relatives": [
+      {"word": "gergo", "relation": "eş köken"},
+      {"word": "geringonça", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "jargon maddesi", "url": "https://www.nisanyansozluk.com/kelime/jargon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "jargon maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kadans",
+    "word": "kadans",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ḱh₂d- (ḱad-)", "meaning": "düşmek", "period": null, "reconstructed": true},
+      {"language": "la", "form": "cadere, cas-", "meaning": "düşmek, yaşamını yitirmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "cadere", "meaning": "düşmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "cadenza", "meaning": "aşağıya düşüş", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "cadence", "meaning": "müzikal gerilimin azalması", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kadans", "meaning": "müzikte bir cümleyi durak veya sonuca bağlayan ilerleyiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Müzikte bir cümleyi durak veya sonuca bağlayan ilerleyiş.",
+    "currentMeaning": "Müzikal bir cümlenin sonunda duraklama veya tamamlanma duygusu oluşturan ses ve akor ilerleyişi.",
+    "story": "Kadansın kökündeki hareket aşağıya doğrudur: eski kök düşmeyi anlatır. Latince cadere ve İtalyanca cadenza üzerinden ilerleyen bu düşüş, Fransızcada müziğin gerilimine uygulanır. Seslerin bir durağa yaklaşırken yarattığı çözülme, böylece fiziksel düşüşün işitsel karşılığı olur. Türkçedeki müzik terimi de bu durulma ve tamamlanma duygusunu taşır.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar — Gulyabani", "period": "1911", "form": "kadans"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kadans maddesi", "url": "https://www.nisanyansozluk.com/kelime/kadans"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "karizma",
+    "word": "karizma",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ǵʰer-³", "meaning": "sevmek", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "χaírō", "meaning": "sevgi veya sevinç duymak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "χárisma(t)", "meaning": "incelik, bağışlanan iyilik ve hoş davranış", "period": null, "reconstructed": false},
+      {"language": "de", "form": "Charisma", "meaning": "incelik, bağışlanan iyilik ve hoş davranış", "period": null, "reconstructed": false},
+      {"language": "en", "form": "charisma", "meaning": "başkalarında sevgi ve hayranlık uyandırma gücü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "karizma", "meaning": "kişinin başkalarını etkileyen çekim gücü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kişinin başkalarında hayranlık uyandıran çekim gücü.",
+    "currentMeaning": "Bir kişinin davranışları ve kişiliğiyle çevresindekileri etkilemesini, ilgi ve hayranlık toplamasını sağlayan özellik.",
+    "story": "Karizmanın eski kökü sevme ve sevinme çevresinde şekillenir. Yunanca χárisma, bu duygusal alandan inceliğe ve lütfa uzanır. Almanca üzerinden İngilizceye uzanan aktarımda kelime, başkalarının sevgisini ve hayranlığını kazanabilen kişinin özelliğini anlatır. Türkçeye doğrudan hangi Batı dilinden geçtiği konusunda kaynaklar ayrışsa da bugünkü kullanımın odağında insanın çevresinde yarattığı etki vardır.",
+    "firstAttestation": {"source": "Milliyet", "period": "1965", "form": "karizmatik"},
+    "relatives": [{"word": "karizmatik", "relation": "türev"}],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye aktarımı Almanca üzerinden İngilizce charisma ile açıklar; TDK Güncel Türkçe Sözlük doğrudan kaynak olarak Fransızca charisme biçimini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "karizma maddesi", "url": "https://www.nisanyansozluk.com/kelime/karizma"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "karizma maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "klişe",
+    "word": "klişe",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "fr", "form": "clicher", "meaning": "bir kalıp içinde dökmek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "cliché", "meaning": "baskı kalıbı; sürekli yinelenen söz veya düşünce", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "klişe", "meaning": "baskı levhası; özgünlüğünü yitirmiş söz veya düşünce", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Baskı kalıbı; çok yinelenerek özgünlüğünü yitirmiş söz veya düşünce.",
+    "currentMeaning": "Baskı için hazırlanan kabartmalı levha; mecazen sürekli tekrarlandığı için etkisini ve özgünlüğünü kaybetmiş ifade veya düşünce.",
+    "story": "Fransızca clicher, malzemeyi kalıba dökme işini anlatır; fiilin başlangıcında bir ses taklidi bulunur. Buradan doğan cliché, aynı görüntünün tekrar tekrar basılmasını sağlayan kalıbın adı olur. Kalıbın hep aynı izi üretmesi, söz ve düşünce dünyasına da taşınır. Türkçede klişe, hem baskı aracını hem de hazır bir kalıptan çıkmış gibi yinelenen ifadeyi anlatır.",
+    "firstAttestation": {"source": "Basiretçi Ali Bey — İstanbul Mektupları", "period": "1870", "form": "klişe"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "klişe maddesi", "url": "https://www.nisanyansozluk.com/kelime/kli%C5%9Fe"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "klişe maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kolaj",
+    "word": "kolaj",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "colla", "meaning": "tutkal", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "colle", "meaning": "tutkal", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "coller", "meaning": "bir yüzeye yapıştırmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "collage", "meaning": "yapıştırma işlemi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kolaj", "meaning": "çeşitli parçaları yapıştırarak oluşturulan kompozisyon", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çeşitli parçaları yapıştırarak oluşturulan kompozisyon.",
+    "currentMeaning": "Kâğıt, fotoğraf, kumaş gibi farklı malzemelerden alınan parçaları bir yüzey üzerinde birleştirme tekniği ve bu teknikle oluşturulan eser.",
+    "story": "Kolajın geçmişinde sanat eserinden önce tutkal vardır. Latince colla, Fransızcada colle olarak yaşar; buradan yapıştırma eylemini anlatan coller ve işlemin adı collage oluşur. Sanatta farklı parçalar aynı yüzeye tutturulunca işlemin adı eserin de adı hâline gelir. Türkçeye geçen kolaj, parçaların bir araya gelişini adında korur.",
+    "firstAttestation": {"source": "Milliyet", "period": "1964", "form": "kolaj"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kolaj maddesi", "url": "https://www.nisanyansozluk.com/kelime/kolaj"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kolaj maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "lirik",
+    "word": "lirik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "lýra", "meaning": "lir adlı telli çalgı", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "lyrikós", "meaning": "lirle seslendirilmek için hazırlanan şiire ilişkin", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "lyrique", "meaning": "aşk şiirini andıran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lirik", "meaning": "duyguyu coşkuyla dile getiren", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Duyguları yoğun ve coşkulu biçimde dile getiren.",
+    "currentMeaning": "Şiirde ve başka sanat eserlerinde kişisel duyguları coşkulu, içten ve esinli bir söyleyişle yansıtan.",
+    "story": "Lirik anlatımın arkasında Eski Yunan dünyasının telli çalgısı lir bulunur. Lyrikós, bu çalgının eşliğinde seslendirilecek şiiri anlatırken müzikle söz aynı sahnede buluşur. Fransızca lyrique aşamasında aşk şiirinin duygu yüklü söyleyişi öne çıkar. Türkçede kelime, yanında bir çalgı bulunmasa da duyguyu coşkuyla aktaran anlatımları niteler.",
+    "firstAttestation": {"source": "Ahmed Rasim — Şehir Mektupları", "period": "1898", "form": "lirik"},
+    "relatives": [{"word": "lir", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "lirik maddesi", "url": "https://www.nisanyansozluk.com/kelime/lirik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lirik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "marjinal",
+    "word": "marjinal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "margo, margin-", "meaning": "kenar", "period": null, "reconstructed": false},
+      {"language": "la", "form": "marginalis", "meaning": "kenar", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "marginal", "meaning": "sayfa kenarına ilişkin; ana konunun veya toplum düzeninin dışında kalan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "marjinal", "meaning": "yerleşik anlayışın dışında kalan, aykırı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yerleşik anlayışın dışında kalan, aykırı.",
+    "currentMeaning": "Bir toplumda veya çevrede yaygın biçimde benimsenen düşünce, davranış ve yaşam biçimlerinden ayrılan.",
+    "story": "Latince margo, bir şeyin kenarını gösterir. Fransızca marginal içinde bu kenar, kitabın ana metninin dışında kalan not ve süslemelerin yeridir. Ana metnin dışında durma düşüncesi toplum hayatına taşınınca yerleşik düzenin dışında kalan kişi ve tutumları da kapsar. Türkçedeki aykırılık anlamı, bu merkez ile kenar ayrımını sürdürür.",
+    "firstAttestation": {"source": "Milliyet", "period": "1964", "form": "marjinal"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "marjinal maddesi", "url": "https://www.nisanyansozluk.com/kelime/marjinal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "marjinal maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "melankoli",
+    "word": "melankoli",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "χolḗ", "meaning": "safra sıvısı", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "mélas, melan-", "meaning": "siyah", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "melanχolḗ", "meaning": "siyah safra", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "melanχolía", "meaning": "eski hekimlikte siyah safra fazlalığına bağlanan ruhsal rahatsızlık", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "mélancholie", "meaning": "derin keder ve kara sevda", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "melankoli", "meaning": "içe işleyen hüzün ve karasevda hâli", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İçe işleyen hüzün ve karasevda hâli.",
+    "currentMeaning": "Kişinin duygu dünyasına hâkim olan derin keder, durgunluk ve karasevda hâli.",
+    "story": "Melankoli, Yunancada siyahı anlatan mélas ile safrayı anlatan χolḗ öğelerinin birleşmesine dayanır. Eski hekimlik, bazı ruhsal sıkıntıları bedende kara safranın fazlalaşmasıyla açıklıyordu. Böylece varsayılan bir beden sıvısının adı, insanın iç dünyasındaki kederin adına dönüştü. Fransızca aracılığıyla Türkçeye geçen kelime, bugün bu eski açıklamayı benimsemeksizin derin hüznü anlatır.",
+    "firstAttestation": {"source": "Tıngır & Sinapian — Istılahat Lugati", "period": "1892", "form": "melankoliya"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "melankoli maddesi", "url": "https://www.nisanyansozluk.com/kelime/melankoli"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "melankoli maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "metafor",
+    "word": "metafor",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "phérō", "meaning": "bir şeyi taşımak veya götürmek", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "metaphérō", "meaning": "yerini veya biçimini değiştirmek, aktarmak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "metaphorá", "meaning": "aktarma ve dönüşüm; bir sözü alışılmış anlamının dışında kullanma", "period": null, "reconstructed": false},
+      {"language": "en", "form": "metaphor", "meaning": "simgelerle anlatma", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "métaphore", "meaning": "simgelerle anlatma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "metafor", "meaning": "bir kavramı başka bir kavram üzerinden anlatan anlam aktarımı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir kavramı başka bir kavram üzerinden anlatan anlam aktarımı.",
+    "currentMeaning": "Bir varlık veya düşünceyi başka bir varlık ya da düşüncenin özellikleriyle anlatarak kurulan eğretileme.",
+    "story": "Yunanca phérō, bir şeyi bir yerden başka bir yere taşımayı anlatır. Metaphérō ve metaphorá ile bu hareket, kelimenin kendi anlam alanından başka bir alana aktarılmasını da kapsar. Bir insana taş demek, fiziksel bir nesneyi taşımadan onun çağrışımlarını insana yükler. Türkçeye aktarımda Fransızca ve İngilizce alternatif yollar olarak gösterilir; her iki biçim de bu anlam taşıma düşüncesini sürdürür.",
+    "firstAttestation": {"source": "Hakimiyet-i Milliye", "period": "1934", "form": "metafor"},
+    "relatives": [{"word": "metaforik", "relation": "türev"}],
+    "alternatives": [
+      "Nişanyan Sözlük, Fransızca métaphore ile İngilizce metaphor biçimlerini Türkçeye aktarım için alternatif olarak verir; bu iki halka birbirinden ardışık alıntıyı göstermez."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "metafor maddesi", "url": "https://www.nisanyansozluk.com/kelime/metafor"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nüans",
+    "word": "nüans",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "(s)newdʰ-", "meaning": "sis veya bulut", "period": null, "reconstructed": true},
+      {"language": "la", "form": "nubes", "meaning": "sis veya bulut", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "nue", "meaning": "bulut", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "nuance", "meaning": "renkler arasındaki ince ton farkı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nüans", "meaning": "benzer şeyleri ayıran ince fark", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birbirine benzeyen şeyler arasındaki ince fark.",
+    "currentMeaning": "Renk, ses, anlam veya davranış gibi alanlarda birbirine yakın özellikleri ayırt etmeyi sağlayan küçük fark.",
+    "story": "Nüansın kökündeki görüntü sis ve buluttur; Latince nubes ile Fransızca nue bu bağı taşır. Fransızcada nuance, bulutlardaki yumuşak geçişleri andıran ince renk ayrımlarına ad olur. Resim dilindeki bu kullanım, belirgin sınırları olmayan küçük farkları anlatmaya elverişlidir. Türkçede kelime renklerin ötesine geçerek ses, düşünce ve davranıştaki incelikleri de kapsar.",
+    "firstAttestation": {"source": "Ahmed Rasim — Şehir Mektupları", "period": "1897", "form": "nüansı"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nüans maddesi", "url": "https://www.nisanyansozluk.com/kelime/n%C3%BCans"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nüans maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "palimpsest",
+    "word": "palimpsest",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "psēχō", "meaning": "yüzeyi kazımak", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "psēstós", "meaning": "kazınarak temizlenmiş", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "pálin", "meaning": "yeniden, geriye doğru", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "palímpsēstos", "meaning": "yeniden kazınıp silinmiş", "period": null, "reconstructed": false},
+      {"language": "en", "form": "palimpsest", "meaning": "önceki yazısı silinerek yeniden kullanılmış el yazması", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "palimpsest", "meaning": "silinen eski yazının üzerine yeni yazı yazılmış el yazması", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Eski yazısı silinip üzerine yeniden yazılmış el yazması.",
+    "currentMeaning": "Önceki metni kazınarak veya silinerek yazı yüzeyi yeniden kullanılmış el yazması; mecazen eski izler üzerinde oluşan yeni katmanlar bütünü.",
+    "story": "Palimpsestin arkasında yazılı bir yüzeyi kazıyıp yeniden kullanma işi bulunur. Yunancada kazınmış olmayı anlatan psēstós ile yeniden düşüncesini taşıyan pálin birleşerek bu işlemi adlandırır. İngilizce palimpsest, eski metni silinmiş ve yeniden yazılmış el yazmasını belirtir. Türkçede kelime, bu somut nesnenin yanında geçmişin izleri üzerine eklenen yeni katmanları anlatmak için de kullanılır.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1990", "form": "Palimpsestler"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "George Orwell'in 1984 romanındaki kullanımı, el yazmalarına ilişkin bu teknik terimin mecaz olarak yayılmasına katkı sağlamıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "palimpsest maddesi", "url": "https://www.nisanyansozluk.com/kelime/palimpsest"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "pastiş",
+    "word": "pastiş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "pasta", "meaning": "hamur kıvamında karışım", "period": null, "reconstructed": false},
+      {"language": "it", "form": "pasticcio", "meaning": "hamur kıvamında karışım", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "pastiche", "meaning": "karışım; değişik sanat üsluplarını birleştiren eser", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pastiş", "meaning": "başka sanatçıların üslubunu taklit ederek oluşturulan eser", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Başka sanatçıların üslubunu taklit ederek oluşturulan eser.",
+    "currentMeaning": "Bir veya birden çok sanatçının anlatım ve biçim özelliklerini taklit ederek meydana getirilen sanat eseri.",
+    "story": "Pastişin başlangıcında İtalyancanın hamur ve karışım dünyası bulunur. Pasticcio ile anlatılan bulamaç, Fransızca pastiche içinde farklı üslupların birbirine katıldığı sanat eserine dönüşür. Malzemelerin karışması artık renklerin, anlatım biçimlerinin ve sanatçı üsluplarının karışmasıdır. Türkçedeki pastiş, özellikle başka eserlerin üslubunu taklit ederek üretmeyi öne çıkarır.",
+    "firstAttestation": {"source": "Kadro", "period": "1932", "form": "pastişlerine"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pastiş maddesi", "url": "https://www.nisanyansozluk.com/kelime/pasti%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pastiş maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "patetik",
+    "word": "patetik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "páthos", "meaning": "duygu; özellikle acı çekme veya acıma", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "pathētikós", "meaning": "duygu; özellikle acı çekme veya acıma", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "pathétique", "meaning": "yoğun duygu uyandıran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "patetik", "meaning": "duygular üzerinde güçlü etki bırakan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yoğun duygu uyandıran, dokunaklı.",
+    "currentMeaning": "Özellikle acı ve acıma duygularını harekete geçirerek güçlü bir duygusal etki bırakan.",
+    "story": "Yunanca páthos, duyguyu özellikle acı çekme ve acıma yönleriyle ele alır. Bu kökten gelişen pathētikós, Fransızca pathétique aşamasında karşısındakinin duygularını harekete geçiren niteliği öne çıkarır. Türkçeye geçen patetik de bir olayın veya anlatımın insanda bıraktığı güçlü duygusal etkiyi niteler.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1934", "form": "patetik"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "patetik maddesi", "url": "https://www.nisanyansozluk.com/kelime/patetik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "patetik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pitoresk",
+    "word": "pitoresk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "pingere, pig-", "meaning": "boyamak veya resmetmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "pictor", "meaning": "boyamak veya resmetmek", "period": null, "reconstructed": false},
+      {"language": "it", "form": "pittore", "meaning": "resim yapan sanatçı", "period": null, "reconstructed": false},
+      {"language": "it", "form": "pittoresco", "meaning": "resim yapan sanatçı", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "pittoresque", "meaning": "ressamın bakışına uygun, resmi yapılmaya değer", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pitoresk", "meaning": "bir tabloyu andıran, resmedilmeye elverişli", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir tabloyu andıran, resmedilmeye değer.",
+    "currentMeaning": "Görünüşü, renkleri ve düzeniyle bir resim izlenimi veren; resme konu olmaya elverişli bulunan.",
+    "story": "Pitoreskin çıkış noktası Latincede boyama ve resim yapma eylemidir. İtalyanca pittore ile bu işi yapan ressam öne çıkar; pittoresco üzerinden Fransızcaya geçen kelime ressamın bakışını manzaraya taşır. Bir yerin pitoresk bulunması, onun resme dönüşmeye hazır görülmesidir. Türkçede de kelime, görünüşüyle tablo izlenimi veren yerleri ve sahneleri niteler.",
+    "firstAttestation": {"source": "Cumhuriyet", "period": "1929", "form": "Pitoresk"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pitoresk maddesi", "url": "https://www.nisanyansozluk.com/kelime/pitoresk"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pitoresk maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "retorik",
+    "word": "retorik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "werh₁- (wer-)", "meaning": "söz söylemek", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "wr-ē-tor-", "meaning": "konuşan kişi", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "ʰrétōr", "meaning": "topluluk önünde konuşan kişi", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "ʰretōrikḗ téχnē", "meaning": "topluluk önünde konuşan kişi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "rhétorique", "meaning": "sözü güzel ve sanatlı biçimde kullanma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "retorik", "meaning": "güzel ve etkili konuşma sanatı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Güzel ve etkili konuşma sanatı.",
+    "currentMeaning": "Düşünceleri dinleyici üzerinde etki bırakacak biçimde düzenleme ve güzel bir söyleyişle ifade etme sanatı.",
+    "story": "Retoriğin en eski kökü söz söyleme eylemine uzanır. Bu kökten gelişen Yunanca ʰrétōr, topluluk karşısında söz alan kişiyi öne çıkarır. Hatibin yaptığı iş bir sanat olarak ele alındığında konuşmanın nasıl düzenleneceği ve nasıl etki yaratacağı önem kazanır. Fransızca rhétorique üzerinden Türkçeye geçen kelime, bu özenli söz söyleme sanatının adı olmuştur.",
+    "firstAttestation": {"source": "Horatius — Yakup Kadri çevirisi", "period": "1931", "form": "retor"},
+    "relatives": [{"word": "ironi", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "retorik maddesi", "url": "https://www.nisanyansozluk.com/kelime/retorik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "retorik maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+28,267

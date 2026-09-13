@@ -9,10 +9,10 @@
   },
   {
     "id": "nevnihal",
-    "verdict": "drop",
+    "verdict": "fix",
     "objections": [
-      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor; düşürmeden önce ayrı yazım denemeye değer.",
-      "Tek kaynak olarak Kubbealtı Lugatı gösteriliyor; bu sözlük doğrulama hattında hiç çekilmediği için madde bağımsız olarak teyit edilemiyor."
+      "Önceki turda düşürmüştüm; gerekçem Kubbealtı Lugatı'nın doğrulama hattında çekilmemesiydi. Kubbealtı artık çekiliyor ve maddeyi doğruluyor, karar geri alındı.",
+      "Kubbealtı kaydındaki url eklendi."
     ]
   }
 ]

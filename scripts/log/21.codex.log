@@ -1,0 +1,1658 @@
+[
+  {
+    "id": "kıvanç",
+    "word": "kıvanç",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "kıvan-", "meaning": "övünmek, gururlanmak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kıvanç", "meaning": "övünç, gurur", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir başarı veya değer karşısında duyulan gurur.",
+    "currentMeaning": "Kişinin kendisiyle veya değer verdiği biriyle övünmesinden doğan duygu.",
+    "story": "Kıvanç, Türkçedeki kıvanmak eylemini bir duygunun adına dönüştürür. Eski kullanımında şan ve yücelik çevresinde dolaşan sözcük, bugün bir başarıyla göğsün kabarmasını anlatır. Kullanımı geriledikten sonra Dil Devrimi döneminde yeniden yaygınlaşmıştır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "koançi"},
+    "relatives": [{"word": "kıvanmak", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kıvanç maddesi", "url": "https://www.nisanyansozluk.com/kelime/k%C4%B1van%C3%A7"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kıvanç maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kırağı",
+    "word": "kırağı",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "kıraġu", "meaning": "yüzeylerde oluşan ince buz örtüsü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kırağı", "meaning": "yüzeylerde oluşan ince buz örtüsü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Soğukta yüzeyleri kaplayan ince buz örtüsü.",
+    "currentMeaning": "Havadaki su buharının soğuk yüzeylerde donarak meydana getirdiği ince buz örtüsü.",
+    "story": "Eski Türkçedeki kıraġu, soğukta yaprakların ve başka yüzeylerin üstünü örten ince buzu adlandırıyordu. Sözcüğün sesleri zamanla kırağı biçimine dönüşürken anlattığı manzara değişmedi. Bugünkü kırağı da sabah otların üzerinde görülen o ince don örtüsüdür.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "kırāġu"},
+    "relatives": [{"word": "kiragu", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kırağı maddesi", "url": "https://www.nisanyansozluk.com/kelime/k%C4%B1ra%C4%9F%C4%B1"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kırağı maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "koyak",
+    "word": "koyak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "koy", "meaning": "çukur arazi, vadi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "koyak", "meaning": "dağlar arasındaki alçak arazi, vadi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dağlar arasında uzanan çukur arazi.",
+    "currentMeaning": "Çevresindeki yükseltiler arasında kalan uzun çukur alan; vadi.",
+    "story": "Koyak adının temelinde, Türkçede çukur araziyi ve vadiyi anlatan koy bulunur. Bu tabandan türeyen sözcük, dağların arasında aşağıda kalan yeri adlandırır. Ağızlardaki kuytu ve basık yer kullanımları da aynı arazi biçiminin farklı görünümlerini taşır.",
+    "firstAttestation": {"source": "Evliya Çelebi — Seyahatname", "period": "1665", "form": "koyaḫ"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "koyak maddesi", "url": "https://www.nisanyansozluk.com/kelime/koyak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "koyak maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kut",
+    "word": "kut",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "ḳut", "meaning": "iyi talih, ilahi lütuf ve mutluluk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kut", "meaning": "yönetme yetkisi sağlayan üstün güç", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yöneticiye hükmetme yetkisi kazandıran üstün güç.",
+    "currentMeaning": "Devlet yönetiminde kişinin yetkisini ve üstün konumunu dayandırdığı yüce güç.",
+    "story": "Eski Türkçede kut, insanın bahtının açıklığını ilahi bir destekle birlikte düşünüyordu. Bir hükümdarın ya da ailesinin kutu, yalnızca kişisel mutluluğunu değil, gücünün dayanağını da anlatıyordu. Bugünkü tarihsel kullanımda bu geniş anlam alanının yönetme yetkisiyle ilgili yanı öne çıkar.",
+    "firstAttestation": {"source": "Orhun Yazıtları", "period": "735", "form": "ḳutıŋa"},
+    "relatives": [{"word": "kutlu", "relation": "türev"}, {"word": "kutsuz", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kut maddesi", "url": "https://www.nisanyansozluk.com/kelime/kut"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kut maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "öykünmek",
+    "word": "öykünmek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "ötgün-", "meaning": "birinin yaptığını örnek alarak tekrarlamak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "öykünmek", "meaning": "birinin yaptığını örnek alarak tekrarlamak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birinin davranışını veya anlatımını örnek alıp tekrarlamak.",
+    "currentMeaning": "Bir kişiyi ya da örneği taklit ederek onun yaptığına benzer bir şey yapmak.",
+    "story": "Öykünmek, eski Türkçedeki ötgünmek biçiminin taşıdığı taklit etme eylemini sürdürür. Birinin sesini veya hareketlerini yeniden yapmak, bu eylemin somut görünümüdür. Bugün bir yazarın başka bir yazarın anlatımını örnek alması da aynı sözcükle anlatılır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "öykünmek maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sağaltmak",
+    "word": "sağaltmak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "sağ", "meaning": "sağlıklı, esen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sağal-", "meaning": "sağlığına kavuşmak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sağaltmak", "meaning": "sağlığına kavuşturmak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birini iyileştirip sağlığına kavuşturmak.",
+    "currentMeaning": "Bir hastalığı gidererek kişinin yeniden sağlıklı olmasını sağlamak.",
+    "story": "Sağaltmak, sağ sözünün sağlık ve esenlik bildiren yanını taşır. Sağalmak hasta kişinin iyileşmesini anlatırken sağaltmak, bu iyileşmeyi bir başkasının sağlamasını öne çıkarır. Böylece sağlıklı olma durumu, hastayı yeniden o duruma getiren eylemin adına dönüşür.",
+    "firstAttestation": null,
+    "relatives": [{"word": "sağalmak", "relation": "akraba"}, {"word": "sağlık", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sağaltmak maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "seğirtmek",
+    "word": "seğirtmek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "seğir-", "meaning": "sıçramak, hızlı hareket etmek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "seğirtmek", "meaning": "yakın bir yere sıçrarcasına koşmak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yakındaki bir yere sıçrarcasına koşmak.",
+    "currentMeaning": "Kısa bir uzaklığı hızlı ve sıçramalı adımlarla koşarak almak.",
+    "story": "Seğirtmek, seğirmek fiilindeki ani ve sıçramalı hareketi taşır. Bu hareket, sözcükte bir yere doğru hızla yönelen koşuya dönüşür. Kapıya ya da sesin geldiği yere seğirten kişi, kısa mesafeyi atılır gibi geçer.",
+    "firstAttestation": null,
+    "relatives": [{"word": "seğirmek", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "seğirtmek maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sezinlemek",
+    "word": "sezinlemek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "sez-", "meaning": "açıkça belli olmayan bir şeyi hissetmek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sezinlemek", "meaning": "bir şeyi belli belirsiz hissetmek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Henüz açıkça anlaşılmayan bir şeyi belli belirsiz hissetmek.",
+    "currentMeaning": "Bir durumun varlığını tam olarak kavramadan, ipuçlarından hareketle hisseder gibi olmak.",
+    "story": "Sezinlemek, Türkçedeki sezmek eyleminin çevresinde kurulmuştur. Sezmede açıkça söylenmeyeni kavrama öne çıkarken sezinlemede bu kavrayış henüz belirginleşmemiştir. Bir sesteki değişiklikten bir sıkıntıyı hissetmek, sözcüğün anlattığı bu ara durumu somutlaştırır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "sezmek", "relation": "akraba"}, {"word": "sezgi", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sezinlemek maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tansık",
+    "word": "tansık",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "taŋsuk", "meaning": "şaşırtıcı şey, olağanüstü ve güzel olan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tansık", "meaning": "doğaüstü sayılan olağanüstü olay", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Doğaüstü sayılan olağanüstü olay.",
+    "currentMeaning": "Olağan açıklamaların dışında görülen ve doğaüstü bir güce bağlanan olay; mucize.",
+    "story": "Eski Türkçedeki taŋsuk, insanı şaşırtan veya hayran bırakan şeyleri kapsıyordu. Güzel bir tat da alışılmadık bir nesne de bu adla nitelenebiliyordu. Bugünkü tansık kullanımında bu geniş hayret alanı, mucize sayılan olaylar üzerinde yoğunlaşmıştır.",
+    "firstAttestation": {"source": "Uygurca Altun Yaruk", "period": "1000 öncesi", "form": "taŋsuk"},
+    "relatives": [{"word": "tangsug", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tansık maddesi", "url": "https://www.nisanyansozluk.com/kelime/tans%C4%B1k"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tansık maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "umarsız",
+    "word": "umarsız",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "umar", "meaning": "çözüm yolu, çare", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "umarsız", "meaning": "çözüm yolu bulunmayan, çaresiz", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir çıkış yolu veya çare bulamayan.",
+    "currentMeaning": "İçinde bulunduğu güçlüğü aşacak bir çözümden yoksun olan.",
+    "story": "Umar, bir güçlükten çıkmayı sağlayacak çareyi adlandırır. Umarsız, bu çıkış yolunun yokluğunu kişinin ya da durumun özelliğine dönüştürür. Sözcüğün merkezinde, çözüm arayıp başvuracak yol bulamama hâli vardır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "umar", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "umarsız maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "yılkı",
+    "word": "yılkı",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "yılkı", "meaning": "at veya at topluluğu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "yılkı", "meaning": "doğada serbest yaşayan at topluluğu", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Doğada serbestçe dolaşan at topluluğu.",
+    "currentMeaning": "Doğal ortamda insan denetimi dışında sürü hâlinde yaşayan yabani atlar.",
+    "story": "Yılkı, Eski Türkçede atı ve at topluluğunu adlandırıyordu. Tarih boyunca yük hayvanları ve başka dört ayaklılar için de kullanılarak daha geniş bir alanı kapsadı. Bugünkü kullanımında yeniden atlara odaklanır; bu kez sürünün doğada serbest dolaşması öne çıkar.",
+    "firstAttestation": {"source": "Orhun Yazıtları", "period": "735", "form": "yılkıg"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "yılkı maddesi", "url": "https://www.nisanyansozluk.com/kelime/y%C4%B1lk%C4%B1"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "yılkı maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "yakamoz",
+    "word": "yakamoz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "kaíō", "meaning": "yanmak", "period": null, "reconstructed": false},
+      {"language": "el", "form": "diakéō", "meaning": "içten tutuşmak, ışıldamak", "period": null, "reconstructed": false},
+      {"language": "el", "form": "diakamós", "meaning": "denizin yüzeyinde beliren parıltı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "yakamoz", "meaning": "sudaki hareketle ortaya çıkan deniz parıltısı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Denizde balık veya kürek hareketiyle beliren parıltı.",
+    "currentMeaning": "Balıkların ya da küreklerin suyu hareketlendirmesiyle denizde görülen ışıldama.",
+    "story": "Yakamozun Yunancadaki yolculuğu yanma eylemiyle başlar. Bu eylemden gelişen diakéō, tutuşma görüntüsünü parıldamaya taşır; diakamós ise denizin üzerindeki ışıldamanın adı olur. Türkçeye geçen yakamoz, karanlık suda balığın veya küreğin ardında beliren ışıklı izi anlatır.",
+    "firstAttestation": {"source": "Ahmed Vefik Paşa — Lehce-i Osmani", "period": "1876", "form": "yakamoz"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "yakamoz maddesi", "url": "https://www.nisanyansozluk.com/kelime/yakamoz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "yakamoz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "lodos",
+    "word": "lodos",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "notéō", "meaning": "ıslatmak, yağmur yağdırmak", "period": null, "reconstructed": false},
+      {"language": "el", "form": "nótos", "meaning": "güney yönü", "period": null, "reconstructed": false},
+      {"language": "el", "form": "nótios", "meaning": "güneyden gelen, yağış taşıyan rüzgâr", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lodos", "meaning": "güney veya güneybatı yönünden esen rüzgâr", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Güneyden veya güneybatıdan esen, bazen yağış getiren rüzgâr.",
+    "currentMeaning": "Güney ve güneybatı yönlerinden gelen, kimi zaman yağış taşıyan yerel rüzgâr.",
+    "story": "Lodosun eski Yunancadaki kökünde ıslanma ve yağmur vardır. Güney yönünü bildiren nótos ile ondan türeyen nótios, bu yağışlı hava tablosunu güneyden gelen rüzgâra bağlar. Türkçede lodos adı, güney ve güneybatıdan esen rüzgârda yaşamayı sürdürür.",
+    "firstAttestation": {"source": "Piri Reis — Kitab-ı Bahriye", "period": "1521", "form": "lodos"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "lodos maddesi", "url": "https://www.nisanyansozluk.com/kelime/lodos"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lodos maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "poyraz",
+    "word": "poyraz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "boréas/boreás", "meaning": "kuzeyle ilgili olan, kuzeyden esen rüzgâr", "period": null, "reconstructed": false},
+      {"language": "el", "form": "boreás/voreás", "meaning": "kuzeyden esen rüzgâr", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "poyraz", "meaning": "kuzeydoğu yönünden gelen soğuk rüzgâr", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kuzeydoğudan esen soğuk rüzgâr.",
+    "currentMeaning": "Kuzeydoğu yönünden gelen ve soğuk hava taşıyan rüzgâr.",
+    "story": "Eski Yunancada boréas, kuzeyle ve o yönden esen rüzgârla ilişkiliydi. Yunancadaki boreás ve voreás biçimleri üzerinden Türkçeye taşınırken sözcüğün sesleri poyraza dönüştü. Türkçedeki yön adı daha belirginleşerek pusulanın kuzeydoğusundan gelen soğuk rüzgâra yerleşti.",
+    "firstAttestation": {"source": "Yadigâr-ı İbni Şerif", "period": "1421 öncesi?", "form": "foryāz"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "poyraz maddesi", "url": "https://www.nisanyansozluk.com/kelime/poyraz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "poyraz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "aforoz",
+    "word": "aforoz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "ʰóros", "meaning": "ayırıcı sınır", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "aphorízō", "meaning": "sınırın dışına çıkarmak, sürmek", "period": null, "reconstructed": false},
+      {"language": "el", "form": "aforismós", "meaning": "kişiyi kilisenin komünyonuna katılmaktan men etme cezası", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "aforoz", "meaning": "kilise cemaatinden çıkarma cezası", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kilisede bir kişiyi cemaatten çıkarma cezası.",
+    "currentMeaning": "Hristiyanlıkta kilisenin bir kişiyi dinî cemaatin dışında bırakmak üzere verdiği ceza.",
+    "story": "Aforozun uzak başlangıcında, Eski Yunancada sınırı gösteren ʰóros vardır. Bu sınırın dışına çıkarma eylemi, aphorízō biçiminde sürgün etmeyi anlatır. Orta Yunancada aforismós ile sınır dinî topluluğun çevresine çekilir ve dışarıda bırakılan kişi komünyondan men edilir. Türkçe aforoz, bu topluluktan çıkarma cezasının adını taşır.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "āforos"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "aforoz maddesi", "url": "https://www.nisanyansozluk.com/kelime/aforoz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "aforoz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "anason",
+    "word": "anason",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "ánēthon/ánnēthon", "meaning": "dereotu veya rezene olarak yorumlanan bitki", "period": null, "reconstructed": false},
+      {"language": "el", "form": "ánison", "meaning": "anason bitkisi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "anason", "meaning": "kokulu tohumlarından yararlanılan bir bitki", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Tohumları yiyecek ve içeceklere koku veren bir bitki.",
+    "currentMeaning": "Maydanozgillerden, aromalı tohumları hamur işlerinde ve rakı üretiminde kullanılan Pimpinella anisum türü.",
+    "story": "Anason adının eski Yunancadaki başlangıcında, dereotu mu yoksa rezene mi olduğu kesinleşmeyen bir bitki adı bulunur. Yunancadaki ánison aşamasında ad, bugün anason dediğimiz bitkiye bağlanır. Türkçeye doğrudan Yunancadan mı yoksa Arapça aracılığıyla mı ulaştığı konusunda iki ayrı açıklama vardır. Bugünkü ad, hamura ve içeceğe belirgin kokusunu veren tohumların bitkisini gösterir.",
+    "firstAttestation": {"source": "Yadigâr-ı İbni Şerif", "period": "1421 öncesi?", "form": "anīson"},
+    "relatives": [{"word": "anise", "relation": "eş köken"}, {"word": "anis", "relation": "eş köken"}],
+    "alternatives": [
+      "Nişanyan Sözlük, eski Yunancadaki ánēthon/ánnēthon biçiminin hangi bitkiyi gösterdiğini dereotu ve rezene seçenekleriyle belirsiz bırakır.",
+      "Nişanyan Sözlük Türkçeye geçişi Yunanca ánison üzerinden açıklarken TDK Güncel Türkçe Sözlük doğrudan veren dil olarak Arapçayı gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "anason maddesi", "url": "https://www.nisanyansozluk.com/kelime/anason"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "anason maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "funda",
+    "word": "funda",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "fundere, fus-", "meaning": "dökmek, yaymak; bitkide bolca gelişmek ve dallanmak", "period": null, "reconstructed": false},
+      {"language": "el", "form": "fúndonō", "meaning": "sıklaşarak büyümek, birbirine giren dallar oluşturmak", "period": null, "reconstructed": false},
+      {"language": "el", "form": "fúnda", "meaning": "püskül, baş süsü, kabarık nesne ve çalı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "funda", "meaning": "süpürge otu adıyla da bilinen çalı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Süpürge otu olarak da adlandırılan çalı.",
+    "currentMeaning": "Süpürge otu adıyla tanınan, çalı biçiminde gelişen bitki.",
+    "story": "Funda adının gerisindeki Latince eylem, dökülüp yayılmanın yanında bitkinin bolca dallanmasını da anlatıyordu. Yunancada bu hareket, sık ve iç içe büyümeyi anlatan fúndonō biçimine taşındı. Püskül gibi kabarık şeyleri ve çalıyı adlandıran fúnda, Türkçede süpürge otunun adı olarak yerleşti.",
+    "firstAttestation": {"source": "Filippo Argenti — Regola del Parlare Turco", "period": "1533", "form": "fundā"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "funda maddesi, bitki anlamı", "url": "https://www.nisanyansozluk.com/kelime/funda"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "funda maddesi, bitki anlamı", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "iskarmoz",
+    "word": "iskarmoz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "skalmós", "meaning": "küreğin bağlandığı çubuk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "iskarmoz", "meaning": "kayığın kenarında küreğe dayanak olan çubuk", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kayıkta küreği tutmaya ve dayamaya yarayan çubuk.",
+    "currentMeaning": "Kayık veya sandalın yanına dik yerleştirilen, küreğin bağlanıp dayanmasını sağlayan ağaç parça.",
+    "story": "Yunancadaki skalmós, küreğin kayığa bağlandığı çubuğu adlandırıyordu. Türkçeye taşınan ad, suyu iten küreğin teknenin kenarında dayandığı bu küçük parçayı anlatmayı sürdürür. Hareketli kürek ile tekne arasındaki bağlantı, sözcüğün anlamının merkezinde kalır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ıskarmoz maddesi, denizcilik anlamı", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "izmarit",
+    "word": "izmarit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "smáragdos", "meaning": "zümrüt taşı", "period": null, "reconstructed": false},
+      {"language": "el", "form": "smarída/smaragdinós", "meaning": "zümrüt adıyla ilişkilendirilen küçük deniz balığı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "izmarit", "meaning": "pullu ve bol kılçıklı küçük deniz balığı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Pullu ve bol kılçıklı küçük bir deniz balığı.",
+    "currentMeaning": "İzmaritgiller ailesinden, küçük gövdeli, pullu ve çok kılçıklı Maena smaris adlı balık.",
+    "story": "Balık adı olan izmaritin eski Yunancadaki başlangıcında zümrüt taşı vardır. Smáragdos adı, Yunancadaki smarída ve smaragdinós biçimlerinde bir deniz balığına bağlanır. Türkçe, bu adlandırmayı izmarit biçiminde alarak küçük ve kılçıklı balığın adı olarak sürdürür.",
+    "firstAttestation": {"source": "Gio. Molino — Dittionario della lingua italiana e turchesca", "period": "1641", "form": "izmarit"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "izmarit2 maddesi, balık anlamı", "url": "https://www.nisanyansozluk.com/kelime/izmarit2"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "izmarit maddesi, balık anlamı", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kikla",
+    "word": "kikla",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "kíkla", "meaning": "lapin türünden bir balık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kikla", "meaning": "lapinagillerden renkli bir deniz balığı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Lapinagillerden, renkleriyle dikkat çeken bir deniz balığı.",
+    "currentMeaning": "Lapinagiller ailesinde yer alan, boyu yaklaşık yarım metre olan renkli Labrus berggylta türü balık.",
+    "story": "Yunancadaki kíkla, lapin türünden bir balığın adı olarak Türkçeye taşınmıştır. Türkçede kikla biçimini alan ad, renkli gövdesiyle tanınan bu deniz canlısına bağlı kalır. Sözcüğün bugünkü kullanımında da merkezde aynı balık vardır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kikla maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a63-7615-7c23-a967-774700e554bc
+--------
+user
+# Köken — Üretim Prompt'u (v10)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. kıvanç — ipucu: otk — rarity: az-bilinen
+2. kırağı — ipucu: otk — rarity: az-bilinen
+3. koyak — ipucu: otk — rarity: az-bilinen
+4. kut — ipucu: otk — rarity: az-bilinen
+5. öykünmek — ipucu: otk — rarity: az-bilinen
+6. sağaltmak — ipucu: otk — rarity: az-bilinen
+7. seğirtmek — ipucu: otk — rarity: az-bilinen
+8. sezinlemek — ipucu: otk — rarity: az-bilinen
+9. tansık — ipucu: otk — rarity: az-bilinen
+10. umarsız — ipucu: tr-new — rarity: az-bilinen
+11. yılkı — ipucu: otk — rarity: az-bilinen
+12. yakamoz — ipucu: el — rarity: az-bilinen
+13. lodos — ipucu: el — rarity: az-bilinen
+14. poyraz — ipucu: el — rarity: az-bilinen
+15. aforoz — ipucu: el — rarity: az-bilinen
+16. anason — ipucu: el — rarity: az-bilinen
+17. funda — ipucu: el — rarity: az-bilinen
+18. iskarmoz — ipucu: el — rarity: az-bilinen
+19. izmarit — ipucu: el — rarity: az-bilinen
+20. kikla — ipucu: el — rarity: az-bilinen
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### kıvanç
+
+**Nişanyan — kıvanç**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Türkiye Türkçesi › kıvan-  [türeme]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > Ave sen kiz arilerning koanči (gloria) [selam sana ey bakirelerin şanı]
+- 1934, Cumhuriyet - gazete
+  > Gösterilen güzel duygulardan çok kıvanç duydum.
+
+Not: TTr kullanımdan düşmüş iken Dil Devrimi döneminde canlandırılmış sözcüklerdendir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/k%C4%B1van%C3%A7
+
+**TDK** — anlam: ► övünme
+
+### kırağı
+
+**Nişanyan — kırağı**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › kıraġu › kırağı  [ses evrimi]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Moğolca › kiragu › a.a.  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > kırāġu [[soğuk havada bitkiler ve nesneler üzerinde oluşan ince buz tabakası]]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/k%C4%B1ra%C4%9F%C4%B1
+
+**TDK** — anlam: Su buğusunun soğuk havalarda, yerde, bitkiler, ağaçlar ve öteki nesneler üzerinde donmasıyla oluşan ince tabaka
+
+### koyak
+
+**Nişanyan — koyak**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Türkiye Türkçesi › koy › çukur, vadi  [türeme]
+
+Tanıklıklar (eskiden yeniye):
+- 1665, Evliya Çelebi — Seyahatname
+  > Kūh-i Erciş dāmeninde āb-ı ḥayāt sulu çemenzārlu bir koyaḫ olup gūnāgūn kirazı meşhūrdur.
+- <1960, Türkiye'de Halk Ağızlarından Derleme Sözlüğü
+  > Koyak: 1.⁠ ⁠İki dağ arası, vadi. 2. Kuytu, basık yer. ... koyuk: Dağın ve kayanın kuytu yeri.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/koyak
+
+**TDK** — anlam: ► vadi
+
+### kut
+
+**Nişanyan — kut**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › ḳut › baht, tanrısal rahmet, mutluluk  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- 735, Orhun Yazıtları
+  > umay teg ögim ḳatun ḳutıŋa [Umay misali anam Hatun'un kutu sayesinde]
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > kut: ad-dawla wa'l-cadd [şans, talih] (...) ḳutaldı [bahtı açıldı] (...) ḳutlıġ [bahtlı, mübarek] (...) ḳutsız [bahtsız]
+- 1367, Fahrî — Hüsrev ü Şirin terc.
+  > virür hīç ḳılmaduḳ ṭapu ḳula ḳut
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/kut
+
+**TDK** — anlam: Devlet idaresinde güç, yaratıcılık ve yetki bakımından sahip olunan üstün güç
+
+### öykünmek
+
+**TDK** — anlam: Taklit etmek
+
+### sağaltmak
+
+**TDK** — anlam: Sağlığa kavuşturmak, iyileştirmek, iyi etmek, tedavi etmek
+
+### seğirtmek
+
+**TDK** — anlam: Sıçrayarak yakın bir yere doğru koşmak
+
+### sezinlemek
+
+**TDK** — anlam: Sezer gibi olmak
+
+### tansık
+
+**Nişanyan — tansık**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › taŋsuk › acayip şey, harika, nefis  [ses evrimi]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Moğolca › tangsug › a.a.  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- <1000, Uygurca Altun Yaruk
+  > aḏruk aḏruk taŋ taŋsuk tatıġlar üze toḏġuraçı bolayın [çeşit çeşit harika lezzetler ile doyurucu olayım]
+- 1330, Aşık Paşa — Garib-name
+  > Yine taŋsuk nesne gördi gözlerüm / Yine tanuk geldi aŋa sözlerüm
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > tansuḫ, tanşuḫ: Acībe, garibe, tuhaf, hediye.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tans%C4%B1k
+
+**TDK** — anlam: ► mucize
+
+### umarsız
+
+**TDK** — anlam: ► çaresiz
+
+### yılkı
+
+**Nişanyan — yılkı**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › yılkı › at sürüsü, at  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- 735, Orhun Yazıtları
+  > ol yılkıg alıp igittim [o at sürüsünü alıp besledim]
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > yılkı: al-bahāim [[dört ayaklı hayvan]], al-dawābb [[yük hayvanı]], al-ḥaywān [[her türlü hayvan]]
+- <1960, Türkiye'de Halk Ağızlarından Derleme Sözlüğü
+  > yılkı: 1. At sürüsü (...) 2. Başıboş dolaşan at, öküz vb. sürüsü.
+
+Not: Türkçe yazı dilinde kullanılmayan bir sözcük iken 1960'lardan sonra belki Cengiz Aytmatov çevirilerinin yardımıyla yeniden duyulmuştur.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/y%C4%B1lk%C4%B1
+
+**TDK** — anlam: Tabiatta gruplar hâlinde serbest dolaşan yabani at sürüsü
+
+### yakamoz
+
+**Nişanyan — yakamoz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Yunanca › kaíō › yanmak  [türeme]
+- Yunanca › diakéō › (içinden) tutuşmak, parıldamak  [türeme]
+- Yunanca › diakamós › deniz yüzeyinde ışıltı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > yakamoz: Denizde görülen ateş paresi gibi balık izlerinden şule.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/yakamoz
+
+**TDK** — köken kaydı: Rumca · anlam: Denizde balıkların veya küreklerin kımıldanışıyla oluşan parıltı
+
+### lodos
+
+**Nişanyan — lodos**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › notéō › ıslamak, yağmur yağmak  [türeme]
+- Eski Yunanca / Yunanca › nótos › güney  [türeme]
+- Eski Yunanca / Yunanca › nótios › güneye ait, güney rüzgârı, yağmur getiren  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1521, Piri Reis — Kitab-ı Bahriye
+  > Cenub ile ġarb arasına lodos ... dérler
+- 1533, Filippo Argenti — Regola del Parlare Turco
+  > notós: ostria uento [güney rüzgârı]
+- 1665, Evliya Çelebi — Seyahatname
+  > andan lodos tarafına Yarımca tabyası (...) yine lodosa nāzır Koltuk tabyası
+
+Not: Yunanca sözcük Odysseia'dan itibaren kaydedilmiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/lodos
+
+**TDK** — köken kaydı: Rumca · anlam: Güneyden veya güneybatıdan esen ve bazen de yağış getiren yerel rüzgâr; kaba yel, boz yel, ak yel
+
+### poyraz
+
+**Nişanyan — poyraz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › boréas/boreás › kuzeye ait, kuzey rüzgârı  [ses evrimi]
+- Yunanca › boreás/voreás › kuzey rüzgârı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1421?, Yadigâr-ı İbni Şerif
+  > Eger bu hāller ile foryāz tarafı dutılmış olsa ve deniz dahı kıble tarafından olsa
+- 1521, Piri Reis — Kitab-ı Bahriye
+  > şark ile şimal arasına poyrāz ... dérler
+- 1665, Evliya Çelebi — Seyahatname
+  > Tatar askeri kalkup poyraz پویراز cānibine düz ormanlık içre gidüp
+
+Not: Yunanca sözcüğün kökeni muğlaktır. Frisk 252 Prellwitz'e istinaden İllirce bora, ESlav gora "dağ" sözcüğüne bağlamayı önerir. Moğolcadan alıntı olan TTr boran "yağmur veya kar fırtınası" sözcüğüyle benzerlik tesadüfi olmalıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/poyraz
+
+**TDK** — köken kaydı: Rumca · anlam: Kuzeydoğudan esen soğuk rüzgâr; kuzey rüzgârı, şimal rüzgârı
+
+### aforoz
+
+**Nişanyan — aforoz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › ʰóros › sınır  [türeme]
+- Eski Yunanca › aphorízō › sınırdışı etmek, sürgün etmek  [türeme]
+- Orta Yunanca › aforismós › kilise tarafından komünyondan mahrum edilme cezası  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > āforos آفروس: Excommunicatio, anathema.
+
+Not: Iustinianus Novellae'de sistemli olarak tanımlanmış cezadır (6. yy). Türkçe biçimi belki aphorízō fiil 1. tekil ş. biçiminden etkilenmiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/aforoz
+
+**TDK** — köken kaydı: Rumca · anlam: Hristiyanlıkta kilise tarafından verilen cemaatten kovma cezası
+
+### anason
+
+**Nişanyan — anason**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › ánēthon/ánnēthon › dereotu? rezene?  [ses evrimi]
+- Yunanca › ánison › anason bitkisi, pimpinella anisum  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1421?, Yadigâr-ı İbni Şerif
+  > her sabah mastakī ile anīson ile gülengübīn véreler
+- 1680, Meninski — Thesaurus
+  > enesūn, anesūn, enisūn, anīsun, anasun: Anisum.
+
+Not: Fr anis, İng anise biçimleri Latince yoluyla Yunancadan alınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/anason
+
+**TDK** — köken kaydı: Arapça anįsūn · anlam: Maydanozgillerden, kokulu tohumu hamur işlerinde ve rakı yapımında kullanılan bir bitki (Pimpinella anisum)
+
+### funda
+
+**Nişanyan — funda**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › fundere, fus- › 1. dökmek, saçmak, dağıtmak, 2. (bitki) bolca üretmek, dal budak sarmak  [alıntı]
+- Yunanca › fúndonō › sık ve girift şekilde büyümek, dal budak sarmak  [türeme]
+- Yunanca › fúnda › püskül, tepelik, sorguç, (kabarık şey), çalı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1533, Filippo Argenti — Regola del Parlare Turco
+  > fundā: fascina & fastello di scope [süpürge çalısı]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/funda
+
+**Nişanyan — funda2**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › fundus › a.a.  [ses evrimi]
+- İtalyanca › fondo › dip  [türeme]
+- İtalyanca › fondare › diplemek, dibe atmak, dibi bulmak  [türeme]
+- İtalyanca › fonda! › dibe! (emir)  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1557, Seydi Ali Reis — Miratü'l-Memalik
+  > demürleri funda edüp ammā gemiyi ḫar-püşte muhkem çekinüp baturmalı eyleyüp
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/funda2
+
+**TDK** — köken kaydı: Rumca · anlam: ► süpürge otu
+
+### iskarmoz
+
+Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: bildiğini yaz, bilmediğine `null` koy, uydurma.
+
+### izmarit
+
+**Nişanyan — izmarit**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *mers- › şaşmak, kuşkuya düşmek  [türeme]
+- Hintavrupa Anadili › *mors-i̯é-  [ses evrimi]
+- Germence › *marrjan › şaşırmak, kuşkuya düşmek  [alıntı]
+- İtalyanca › smarrire › 1. kaybetmek, 2. şaşırmak  [türeme]
+- İtalyanca › smarrito › 1. kayıp, ziyan, 2. şaşkın  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1889, A. Fikri — Lugat-ı Garibe
+  > izmarid: Yarısından ziyadesi yanıp söndürülmüş sigara parçaları.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/izmarit
+
+**Nişanyan — izmarit2**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › smáragdos › zümrüt  [ses evrimi]
+- Yunanca › smarída/smaragdinós › zümrüt balığı, spicara smaris  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1641, Gio. Molino — Dittionario della lingua italiana e turchesca
+  > menola [İt.]: izmarit
+- 1665, Evliya Çelebi — Seyahatname
+  > kaya balığı ve izmarid ve istavrid balıkları gayet lezīzdir
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/izmarit2
+
+**TDK** — köken kaydı: Rumca · anlam: İzmaritgillerden, pullu ve kılçıklı bir tür küçük balık (Maena smaris)
+
+### kikla
+
+**TDK** — anlam: Lapinagillerden, güzel renkli, 50 santimetre uzunluğunda bir balık (Labrus berggylta)
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+Eksik köken kayıtlarını kontrol edip veri setini verilen şemaya göre hazırlayacağım.
+
+web search: 
+web search: site.nisanyansozluk.com/kelime öykünmek sağaltmak seğirtmek sezinlemek ...
+web search: 
+web search: site.lugatim.com/s/ "ÖYKÜNMEK" ...
+web search: 
+web search: https://lugatim.com/s/öykünmek
+web search: 
+web search: https://www.nisanyansozluk.com/kelime/öykünmek
+codex
+[
+  {
+    "id": "kıvanç",
+    "word": "kıvanç",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "kıvan-", "meaning": "övünmek, gururlanmak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kıvanç", "meaning": "övünç, gurur", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir başarı veya değer karşısında duyulan gurur.",
+    "currentMeaning": "Kişinin kendisiyle veya değer verdiği biriyle övünmesinden doğan duygu.",
+    "story": "Kıvanç, Türkçedeki kıvanmak eylemini bir duygunun adına dönüştürür. Eski kullanımında şan ve yücelik çevresinde dolaşan sözcük, bugün bir başarıyla göğsün kabarmasını anlatır. Kullanımı geriledikten sonra Dil Devrimi döneminde yeniden yaygınlaşmıştır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "koançi"},
+    "relatives": [{"word": "kıvanmak", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kıvanç maddesi", "url": "https://www.nisanyansozluk.com/kelime/k%C4%B1van%C3%A7"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kıvanç maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kırağı",
+    "word": "kırağı",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "kıraġu", "meaning": "yüzeylerde oluşan ince buz örtüsü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kırağı", "meaning": "yüzeylerde oluşan ince buz örtüsü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Soğukta yüzeyleri kaplayan ince buz örtüsü.",
+    "currentMeaning": "Havadaki su buharının soğuk yüzeylerde donarak meydana getirdiği ince buz örtüsü.",
+    "story": "Eski Türkçedeki kıraġu, soğukta yaprakların ve başka yüzeylerin üstünü örten ince buzu adlandırıyordu. Sözcüğün sesleri zamanla kırağı biçimine dönüşürken anlattığı manzara değişmedi. Bugünkü kırağı da sabah otların üzerinde görülen o ince don örtüsüdür.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "kırāġu"},
+    "relatives": [{"word": "kiragu", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kırağı maddesi", "url": "https://www.nisanyansozluk.com/kelime/k%C4%B1ra%C4%9F%C4%B1"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kırağı maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "koyak",
+    "word": "koyak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "koy", "meaning": "çukur arazi, vadi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "koyak", "meaning": "dağlar arasındaki alçak arazi, vadi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dağlar arasında uzanan çukur arazi.",
+    "currentMeaning": "Çevresindeki yükseltiler arasında kalan uzun çukur alan; vadi.",
+    "story": "Koyak adının temelinde, Türkçede çukur araziyi ve vadiyi anlatan koy bulunur. Bu tabandan türeyen sözcük, dağların arasında aşağıda kalan yeri adlandırır. Ağızlardaki kuytu ve basık yer kullanımları da aynı arazi biçiminin farklı görünümlerini taşır.",
+    "firstAttestation": {"source": "Evliya Çelebi — Seyahatname", "period": "1665", "form": "koyaḫ"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "koyak maddesi", "url": "https://www.nisanyansozluk.com/kelime/koyak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "koyak maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kut",
+    "word": "kut",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "ḳut", "meaning": "iyi talih, ilahi lütuf ve mutluluk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kut", "meaning": "yönetme yetkisi sağlayan üstün güç", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yöneticiye hükmetme yetkisi kazandıran üstün güç.",
+    "currentMeaning": "Devlet yönetiminde kişinin yetkisini ve üstün konumunu dayandırdığı yüce güç.",
+    "story": "Eski Türkçede kut, insanın bahtının açıklığını ilahi bir destekle birlikte düşünüyordu. Bir hükümdarın ya da ailesinin kutu, yalnızca kişisel mutluluğunu değil, gücünün dayanağını da anlatıyordu. Bugünkü tarihsel kullanımda bu geniş anlam alanının yönetme yetkisiyle ilgili yanı öne çıkar.",
+    "firstAttestation": {"source": "Orhun Yazıtları", "period": "735", "form": "ḳutıŋa"},
+    "relatives": [{"word": "kutlu", "relation": "türev"}, {"word": "kutsuz", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kut maddesi", "url": "https://www.nisanyansozluk.com/kelime/kut"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kut maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "öykünmek",
+    "word": "öykünmek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "ötgün-", "meaning": "birinin yaptığını örnek alarak tekrarlamak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "öykünmek", "meaning": "birinin yaptığını örnek alarak tekrarlamak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birinin davranışını veya anlatımını örnek alıp tekrarlamak.",
+    "currentMeaning": "Bir kişiyi ya da örneği taklit ederek onun yaptığına benzer bir şey yapmak.",
+    "story": "Öykünmek, eski Türkçedeki ötgünmek biçiminin taşıdığı taklit etme eylemini sürdürür. Birinin sesini veya hareketlerini yeniden yapmak, bu eylemin somut görünümüdür. Bugün bir yazarın başka bir yazarın anlatımını örnek alması da aynı sözcükle anlatılır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "öykünmek maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sağaltmak",
+    "word": "sağaltmak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "sağ", "meaning": "sağlıklı, esen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sağal-", "meaning": "sağlığına kavuşmak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sağaltmak", "meaning": "sağlığına kavuşturmak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birini iyileştirip sağlığına kavuşturmak.",
+    "currentMeaning": "Bir hastalığı gidererek kişinin yeniden sağlıklı olmasını sağlamak.",
+    "story": "Sağaltmak, sağ sözünün sağlık ve esenlik bildiren yanını taşır. Sağalmak hasta kişinin iyileşmesini anlatırken sağaltmak, bu iyileşmeyi bir başkasının sağlamasını öne çıkarır. Böylece sağlıklı olma durumu, hastayı yeniden o duruma getiren eylemin adına dönüşür.",
+    "firstAttestation": null,
+    "relatives": [{"word": "sağalmak", "relation": "akraba"}, {"word": "sağlık", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sağaltmak maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "seğirtmek",
+    "word": "seğirtmek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "seğir-", "meaning": "sıçramak, hızlı hareket etmek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "seğirtmek", "meaning": "yakın bir yere sıçrarcasına koşmak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yakındaki bir yere sıçrarcasına koşmak.",
+    "currentMeaning": "Kısa bir uzaklığı hızlı ve sıçramalı adımlarla koşarak almak.",
+    "story": "Seğirtmek, seğirmek fiilindeki ani ve sıçramalı hareketi taşır. Bu hareket, sözcükte bir yere doğru hızla yönelen koşuya dönüşür. Kapıya ya da sesin geldiği yere seğirten kişi, kısa mesafeyi atılır gibi geçer.",
+    "firstAttestation": null,
+    "relatives": [{"word": "seğirmek", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "seğirtmek maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sezinlemek",
+    "word": "sezinlemek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "sez-", "meaning": "açıkça belli olmayan bir şeyi hissetmek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sezinlemek", "meaning": "bir şeyi belli belirsiz hissetmek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Henüz açıkça anlaşılmayan bir şeyi belli belirsiz hissetmek.",
+    "currentMeaning": "Bir durumun varlığını tam olarak kavramadan, ipuçlarından hareketle hisseder gibi olmak.",
+    "story": "Sezinlemek, Türkçedeki sezmek eyleminin çevresinde kurulmuştur. Sezmede açıkça söylenmeyeni kavrama öne çıkarken sezinlemede bu kavrayış henüz belirginleşmemiştir. Bir sesteki değişiklikten bir sıkıntıyı hissetmek, sözcüğün anlattığı bu ara durumu somutlaştırır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "sezmek", "relation": "akraba"}, {"word": "sezgi", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sezinlemek maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tansık",
+    "word": "tansık",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "taŋsuk", "meaning": "şaşırtıcı şey, olağanüstü ve güzel olan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tansık", "meaning": "doğaüstü sayılan olağanüstü olay", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Doğaüstü sayılan olağanüstü olay.",
+    "currentMeaning": "Olağan açıklamaların dışında görülen ve doğaüstü bir güce bağlanan olay; mucize.",
+    "story": "Eski Türkçedeki taŋsuk, insanı şaşırtan veya hayran bırakan şeyleri kapsıyordu. Güzel bir tat da alışılmadık bir nesne de bu adla nitelenebiliyordu. Bugünkü tansık kullanımında bu geniş hayret alanı, mucize sayılan olaylar üzerinde yoğunlaşmıştır.",
+    "firstAttestation": {"source": "Uygurca Altun Yaruk", "period": "1000 öncesi", "form": "taŋsuk"},
+    "relatives": [{"word": "tangsug", "relation": "eş köken"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tansık maddesi", "url": "https://www.nisanyansozluk.com/kelime/tans%C4%B1k"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tansık maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "umarsız",
+    "word": "umarsız",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "tr",
+    "chain": [
+      {"language": "tr", "form": "umar", "meaning": "çözüm yolu, çare", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "umarsız", "meaning": "çözüm yolu bulunmayan, çaresiz", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir çıkış yolu veya çare bulamayan.",
+    "currentMeaning": "İçinde bulunduğu güçlüğü aşacak bir çözümden yoksun olan.",
+    "story": "Umar, bir güçlükten çıkmayı sağlayacak çareyi adlandırır. Umarsız, bu çıkış yolunun yokluğunu kişinin ya da durumun özelliğine dönüştürür. Sözcüğün merkezinde, çözüm arayıp başvuracak yol bulamama hâli vardır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "umar", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "umarsız maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "yılkı",
+    "word": "yılkı",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "yılkı", "meaning": "at veya at topluluğu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "yılkı", "meaning": "doğada serbest yaşayan at topluluğu", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Doğada serbestçe dolaşan at topluluğu.",
+    "currentMeaning": "Doğal ortamda insan denetimi dışında sürü hâlinde yaşayan yabani atlar.",
+    "story": "Yılkı, Eski Türkçede atı ve at topluluğunu adlandırıyordu. Tarih boyunca yük hayvanları ve başka dört ayaklılar için de kullanılarak daha geniş bir alanı kapsadı. Bugünkü kullanımında yeniden atlara odaklanır; bu kez sürünün doğada serbest dolaşması öne çıkar.",
+    "firstAttestation": {"source": "Orhun Yazıtları", "period": "735", "form": "yılkıg"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "yılkı maddesi", "url": "https://www.nisanyansozluk.com/kelime/y%C4%B1lk%C4%B1"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "yılkı maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "yakamoz",
+    "word": "yakamoz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "kaíō", "meaning": "yanmak", "period": null, "reconstructed": false},
+      {"language": "el", "form": "diakéō", "meaning": "içten tutuşmak, ışıldamak", "period": null, "reconstructed": false},
+      {"language": "el", "form": "diakamós", "meaning": "denizin yüzeyinde beliren parıltı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "yakamoz", "meaning": "sudaki hareketle ortaya çıkan deniz parıltısı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Denizde balık veya kürek hareketiyle beliren parıltı.",
+    "currentMeaning": "Balıkların ya da küreklerin suyu hareketlendirmesiyle denizde görülen ışıldama.",
+    "story": "Yakamozun Yunancadaki yolculuğu yanma eylemiyle başlar. Bu eylemden gelişen diakéō, tutuşma görüntüsünü parıldamaya taşır; diakamós ise denizin üzerindeki ışıldamanın adı olur. Türkçeye geçen yakamoz, karanlık suda balığın veya küreğin ardında beliren ışıklı izi anlatır.",
+    "firstAttestation": {"source": "Ahmed Vefik Paşa — Lehce-i Osmani", "period": "1876", "form": "yakamoz"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "yakamoz maddesi", "url": "https://www.nisanyansozluk.com/kelime/yakamoz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "yakamoz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "lodos",
+    "word": "lodos",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "notéō", "meaning": "ıslatmak, yağmur yağdırmak", "period": null, "reconstructed": false},
+      {"language": "el", "form": "nótos", "meaning": "güney yönü", "period": null, "reconstructed": false},
+      {"language": "el", "form": "nótios", "meaning": "güneyden gelen, yağış taşıyan rüzgâr", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lodos", "meaning": "güney veya güneybatı yönünden esen rüzgâr", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Güneyden veya güneybatıdan esen, bazen yağış getiren rüzgâr.",
+    "currentMeaning": "Güney ve güneybatı yönlerinden gelen, kimi zaman yağış taşıyan yerel rüzgâr.",
+    "story": "Lodosun eski Yunancadaki kökünde ıslanma ve yağmur vardır. Güney yönünü bildiren nótos ile ondan türeyen nótios, bu yağışlı hava tablosunu güneyden gelen rüzgâra bağlar. Türkçede lodos adı, güney ve güneybatıdan esen rüzgârda yaşamayı sürdürür.",
+    "firstAttestation": {"source": "Piri Reis — Kitab-ı Bahriye", "period": "1521", "form": "lodos"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "lodos maddesi", "url": "https://www.nisanyansozluk.com/kelime/lodos"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lodos maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "poyraz",
+    "word": "poyraz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "boréas/boreás", "meaning": "kuzeyle ilgili olan, kuzeyden esen rüzgâr", "period": null, "reconstructed": false},
+      {"language": "el", "form": "boreás/voreás", "meaning": "kuzeyden esen rüzgâr", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "poyraz", "meaning": "kuzeydoğu yönünden gelen soğuk rüzgâr", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kuzeydoğudan esen soğuk rüzgâr.",
+    "currentMeaning": "Kuzeydoğu yönünden gelen ve soğuk hava taşıyan rüzgâr.",
+    "story": "Eski Yunancada boréas, kuzeyle ve o yönden esen rüzgârla ilişkiliydi. Yunancadaki boreás ve voreás biçimleri üzerinden Türkçeye taşınırken sözcüğün sesleri poyraza dönüştü. Türkçedeki yön adı daha belirginleşerek pusulanın kuzeydoğusundan gelen soğuk rüzgâra yerleşti.",
+    "firstAttestation": {"source": "Yadigâr-ı İbni Şerif", "period": "1421 öncesi?", "form": "foryāz"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "poyraz maddesi", "url": "https://www.nisanyansozluk.com/kelime/poyraz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "poyraz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "aforoz",
+    "word": "aforoz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "ʰóros", "meaning": "ayırıcı sınır", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "aphorízō", "meaning": "sınırın dışına çıkarmak, sürmek", "period": null, "reconstructed": false},
+      {"language": "el", "form": "aforismós", "meaning": "kişiyi kilisenin komünyonuna katılmaktan men etme cezası", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "aforoz", "meaning": "kilise cemaatinden çıkarma cezası", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kilisede bir kişiyi cemaatten çıkarma cezası.",
+    "currentMeaning": "Hristiyanlıkta kilisenin bir kişiyi dinî cemaatin dışında bırakmak üzere verdiği ceza.",
+    "story": "Aforozun uzak başlangıcında, Eski Yunancada sınırı gösteren ʰóros vardır. Bu sınırın dışına çıkarma eylemi, aphorízō biçiminde sürgün etmeyi anlatır. Orta Yunancada aforismós ile sınır dinî topluluğun çevresine çekilir ve dışarıda bırakılan kişi komünyondan men edilir. Türkçe aforoz, bu topluluktan çıkarma cezasının adını taşır.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "āforos"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "aforoz maddesi", "url": "https://www.nisanyansozluk.com/kelime/aforoz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "aforoz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "anason",
+    "word": "anason",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "ánēthon/ánnēthon", "meaning": "dereotu veya rezene olarak yorumlanan bitki", "period": null, "reconstructed": false},
+      {"language": "el", "form": "ánison", "meaning": "anason bitkisi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "anason", "meaning": "kokulu tohumlarından yararlanılan bir bitki", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Tohumları yiyecek ve içeceklere koku veren bir bitki.",
+    "currentMeaning": "Maydanozgillerden, aromalı tohumları hamur işlerinde ve rakı üretiminde kullanılan Pimpinella anisum türü.",
+    "story": "Anason adının eski Yunancadaki başlangıcında, dereotu mu yoksa rezene mi olduğu kesinleşmeyen bir bitki adı bulunur. Yunancadaki ánison aşamasında ad, bugün anason dediğimiz bitkiye bağlanır. Türkçeye doğrudan Yunancadan mı yoksa Arapça aracılığıyla mı ulaştığı konusunda iki ayrı açıklama vardır. Bugünkü ad, hamura ve içeceğe belirgin kokusunu veren tohumların bitkisini gösterir.",
+    "firstAttestation": {"source": "Yadigâr-ı İbni Şerif", "period": "1421 öncesi?", "form": "anīson"},
+    "relatives": [{"word": "anise", "relation": "eş köken"}, {"word": "anis", "relation": "eş köken"}],
+    "alternatives": [
+      "Nişanyan Sözlük, eski Yunancadaki ánēthon/ánnēthon biçiminin hangi bitkiyi gösterdiğini dereotu ve rezene seçenekleriyle belirsiz bırakır.",
+      "Nişanyan Sözlük Türkçeye geçişi Yunanca ánison üzerinden açıklarken TDK Güncel Türkçe Sözlük doğrudan veren dil olarak Arapçayı gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "anason maddesi", "url": "https://www.nisanyansozluk.com/kelime/anason"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "anason maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "funda",
+    "word": "funda",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "fundere, fus-", "meaning": "dökmek, yaymak; bitkide bolca gelişmek ve dallanmak", "period": null, "reconstructed": false},
+      {"language": "el", "form": "fúndonō", "meaning": "sıklaşarak büyümek, birbirine giren dallar oluşturmak", "period": null, "reconstructed": false},
+      {"language": "el", "form": "fúnda", "meaning": "püskül, baş süsü, kabarık nesne ve çalı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "funda", "meaning": "süpürge otu adıyla da bilinen çalı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Süpürge otu olarak da adlandırılan çalı.",
+    "currentMeaning": "Süpürge otu adıyla tanınan, çalı biçiminde gelişen bitki.",
+    "story": "Funda adının gerisindeki Latince eylem, dökülüp yayılmanın yanında bitkinin bolca dallanmasını da anlatıyordu. Yunancada bu hareket, sık ve iç içe büyümeyi anlatan fúndonō biçimine taşındı. Püskül gibi kabarık şeyleri ve çalıyı adlandıran fúnda, Türkçede süpürge otunun adı olarak yerleşti.",
+    "firstAttestation": {"source": "Filippo Argenti — Regola del Parlare Turco", "period": "1533", "form": "fundā"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "funda maddesi, bitki anlamı", "url": "https://www.nisanyansozluk.com/kelime/funda"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "funda maddesi, bitki anlamı", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "iskarmoz",
+    "word": "iskarmoz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "skalmós", "meaning": "küreğin bağlandığı çubuk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "iskarmoz", "meaning": "kayığın kenarında küreğe dayanak olan çubuk", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kayıkta küreği tutmaya ve dayamaya yarayan çubuk.",
+    "currentMeaning": "Kayık veya sandalın yanına dik yerleştirilen, küreğin bağlanıp dayanmasını sağlayan ağaç parça.",
+    "story": "Yunancadaki skalmós, küreğin kayığa bağlandığı çubuğu adlandırıyordu. Türkçeye taşınan ad, suyu iten küreğin teknenin kenarında dayandığı bu küçük parçayı anlatmayı sürdürür. Hareketli kürek ile tekne arasındaki bağlantı, sözcüğün anlamının merkezinde kalır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ıskarmoz maddesi, denizcilik anlamı", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "izmarit",
+    "word": "izmarit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "smáragdos", "meaning": "zümrüt taşı", "period": null, "reconstructed": false},
+      {"language": "el", "form": "smarída/smaragdinós", "meaning": "zümrüt adıyla ilişkilendirilen küçük deniz balığı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "izmarit", "meaning": "pullu ve bol kılçıklı küçük deniz balığı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Pullu ve bol kılçıklı küçük bir deniz balığı.",
+    "currentMeaning": "İzmaritgiller ailesinden, küçük gövdeli, pullu ve çok kılçıklı Maena smaris adlı balık.",
+    "story": "Balık adı olan izmaritin eski Yunancadaki başlangıcında zümrüt taşı vardır. Smáragdos adı, Yunancadaki smarída ve smaragdinós biçimlerinde bir deniz balığına bağlanır. Türkçe, bu adlandırmayı izmarit biçiminde alarak küçük ve kılçıklı balığın adı olarak sürdürür.",
+    "firstAttestation": {"source": "Gio. Molino — Dittionario della lingua italiana e turchesca", "period": "1641", "form": "izmarit"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "izmarit2 maddesi, balık anlamı", "url": "https://www.nisanyansozluk.com/kelime/izmarit2"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "izmarit maddesi, balık anlamı", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kikla",
+    "word": "kikla",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "kíkla", "meaning": "lapin türünden bir balık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kikla", "meaning": "lapinagillerden renkli bir deniz balığı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Lapinagillerden, renkleriyle dikkat çeken bir deniz balığı.",
+    "currentMeaning": "Lapinagiller ailesinde yer alan, boyu yaklaşık yarım metre olan renkli Labrus berggylta türü balık.",
+    "story": "Yunancadaki kíkla, lapin türünden bir balığın adı olarak Türkçeye taşınmıştır. Türkçede kikla biçimini alan ad, renkli gövdesiyle tanınan bu deniz canlısına bağlı kalır. Sözcüğün bugünkü kullanımında da merkezde aynı balık vardır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kikla maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+tokens used
+40,736

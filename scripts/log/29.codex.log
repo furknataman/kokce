@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "tehevvür",
+    "word": "tehevvür",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "hāra", "meaning": "yıkıp devirdi, çökmesine yol açtı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tahawwur", "meaning": "sonucu hesaplamadan atılma, çılgınca saldırma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tehevvür", "meaning": "şiddetli öfkeye kapılma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Şiddetli öfkeye kapılma.",
+    "currentMeaning": "Çok güçlü bir kızgınlık ve öfke duyma.",
+    "story": "Tehevvürün geçmişinde Arapçada yıkıp devirme eylemi bulunur. Bu kökten gelişen tahawwur, sonucunu düşünmeden kendini bir işe ya da saldırıya atmayı anlatır. Türkçede sözcüğün ağırlığı, bu ölçüsüz atılıştan yoğun öfkeye kaymıştır.",
+    "firstAttestation": {"source": "Ferec ba'd eş-şidde", "period": "<1451", "form": "tehevvür"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tehevvür maddesi", "url": "https://www.nisanyansozluk.com/kelime/tehevv%C3%BCr"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tehevvür", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tehalük",
+    "word": "tehalük",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "halaka", "meaning": "yok oldu, tükenip gitti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tahāluk", "meaning": "kendini tüketme, bir şey için can atma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tehalük", "meaning": "bir şeyi büyük istekle arzulama", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyi büyük istekle arzulama.",
+    "currentMeaning": "Bir şeyin olmasını veya ona ulaşmayı çok güçlü biçimde isteme.",
+    "story": "Tehalükün Arapçadaki kökü, tükenip yok olmayı anlatır. Tahāluk biçiminde kendini tüketme ile bir şeye can atma aynı sözcükte buluşur. Türkçedeki eski kullanımlarda helak olma düşüncesi görünürken bugünkü anlamda geriye isteğin yoğunluğu kalmıştır.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "tehālük"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tehalük maddesi", "url": "https://www.nisanyansozluk.com/kelime/tehal%C3%BCk"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tehalük", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "teneffür",
+    "word": "teneffür",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nefr", "meaning": "tiksinti ve nefret duymak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "teneffur", "meaning": "tiksinti duyma, iğrenme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "teneffür", "meaning": "nefret ve tiksinti duyma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Nefret ve tiksinti duyma.",
+    "currentMeaning": "Birinden veya bir şeyden iğrenme, ona karşı nefret duyma.",
+    "story": "Teneffürün Arapçadaki temelinde, bir şeyden tiksinip nefret etme vardır. Bu duygu teneffur biçiminde adlandırılmış, Türkçeye de aynı iğrenme ve nefret duygusunu taşıyarak geçmiştir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "teneffür maddesi", "url": "https://lugatim.com/s/teneff%C3%BCr"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tenezzüh",
+    "word": "tenezzüh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nazaha", "meaning": "arınarak temizlendi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tanazzuh", "meaning": "kirden ve sıkıntıdan uzaklaşıp arınma, ferahlama", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tenezzüh", "meaning": "gezinmeye çıkma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gezinmeye çıkma.",
+    "currentMeaning": "Dolaşmak üzere yapılan gezinti.",
+    "story": "Tenezzühün Arapçadaki başlangıcı arınma düşüncesidir; tanazzuh, kirli ya da sıkıntı veren şeylerden uzaklaşıp ferahlamayı anlatır. Türkçedeki eski kullanımlarında dışarı çıkma ve uzaklaşma öne çıkar. Zamanla bu uzaklaşmanın ferahlatıcı yanı belirginleşmiş, sözcük gezinti için kullanılmıştır.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "tenezzüh"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Gezintiyi anlatan tenezzühün eski kullanımlarından biri, tuvalet ihtiyacı için kıra çıkmayı da kapsıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tenezzüh maddesi", "url": "https://www.nisanyansozluk.com/kelime/tenezz%C3%BCh"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tenezzüh", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "terennüm",
+    "word": "terennüm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ranima", "meaning": "ezgiyle söyledi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tarannum", "meaning": "anlam taşıyan ya da taşımayan sözleri ezgiyle söyleme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "terennüm", "meaning": "hoş ve alçak bir sesle şarkı söyleme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hoş ve alçak bir sesle şarkı söyleme.",
+    "currentMeaning": "Şarkıyı güzel ve yüksek olmayan bir sesle söyleme.",
+    "story": "Terennümün geçmişinde Arapça ranima fiiliyle anlatılan ezgili söyleyiş vardır. Ondan gelişen tarannum, sözlerin anlamlı olmasını gerektirmeden sesleri bir ezgi içinde söylemeyi kapsar. Türkçedeki bugünkü kullanım, bu müzikli söyleyişin güzel ve alçak sesli oluşunu öne çıkarır.",
+    "firstAttestation": {"source": "Ahmed b. Kadı-i Manyas — Gülistan tercümesi", "period": "1429", "form": "terennüm"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "terennüm maddesi", "url": "https://www.nisanyansozluk.com/kelime/terenn%C3%BCm"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "terennüm", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "teşettüt",
+    "word": "teşettüt",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şetāt", "meaning": "ayrılıp dağılmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "teşettut", "meaning": "parçalara ayrılarak dağılma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "teşettüt", "meaning": "birçok parçaya ayrılma, dallanıp dağılma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birçok parçaya ayrılma ve dağılma.",
+    "currentMeaning": "Bir bütünün çok sayıda bölüme ayrılması, çatallanması veya dağılması.",
+    "story": "Teşettütün temelinde Arapçada dağılmayı anlatan şetāt bulunur. Sözcüğün taşıdığı resim, bir arada duran şeylerin ayrılıp farklı kollara yayılmasıdır. Türkçeye geçen teşettüt de bu parçalanma ve çatallanma düşüncesini korur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "teşettüt maddesi", "url": "https://lugatim.com/s/te%C5%9Fett%C3%BCt"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "müstağni",
+    "word": "müstağni",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġaniya", "meaning": "doygunluğa ulaştı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mustaġnī", "meaning": "doyuma ulaşmış, ihtiyaç duymayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müstağni", "meaning": "doyuma ulaşmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Doyuma ulaşmış olan.",
+    "currentMeaning": "Doygunluk durumunda bulunan.",
+    "story": "Müstağninin Arapçadaki kökü doyma eylemini anlatır. Mustaġnī, bu doygunluğu artık ihtiyaç duymayan kişinin durumuna taşır. Türkçede sözcük doygunluk anlamını korurken eski kullanımları bir şeye muhtaç olmama düşüncesini de gösterir.",
+    "firstAttestation": {"source": "Süleyman Çelebi — Mevlid", "period": "1409", "form": "müstağnī"},
+    "relatives": [{"word": "istiğna", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müstağni maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCsta%C4%9Fni"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müstağni", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tevahhuş",
+    "word": "tevahhuş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "waḥş", "meaning": "yabana ait olan", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tawaḥḥūş", "meaning": "mideyi bütünüyle boşaltma; insanlardan uzak durma, nefret ve yabanilik", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tevahhuş", "meaning": "ürkerek korkuya kapılma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Ürkerek korkuya kapılma.",
+    "currentMeaning": "Bir şey karşısında ürküntü duyma.",
+    "story": "Tevahhuşun Arapçadaki temelinde yaban düşüncesi vardır. Tawaḥḥūş, insanlardan ve topluluktan uzak durmayı, yabaniliği ve nefreti bir arada taşır. Türkçedeki ürkme anlamında bu uzak duruşun korkuyla bağlantılı yanı öne çıkar.",
+    "firstAttestation": {"source": "Tarih-i Râşid", "period": "1735", "form": "tevahhuş"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Arapçadaki tawaḥḥūş, insanlardan kaçınmanın yanında mideyi tamamen boşaltmayı da anlatıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tevahhuş maddesi", "url": "https://www.nisanyansozluk.com/kelime/tevahhu%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tevahhuş", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tevehhüm",
+    "word": "tevehhüm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "tevehhum", "meaning": "kuruntuya kapılma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tevehhüm", "meaning": "kuruntuya kapılma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kuruntuya kapılma.",
+    "currentMeaning": "Zihninde kurduğu düşünceler yüzünden kuruntuya kapılma.",
+    "story": "Arapçadan alınan tevehhüm, insanın zihninde kurduğu düşüncelere kapılmasını anlatır. Türkçede de odağında bu zihinsel durum vardır: kişi kuruntuya düşer ve düşüncelerini bu kuruntu çevresinde sürdürür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tevehhüm", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "teyakkuz",
+    "word": "teyakkuz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "yaḳaẓa", "meaning": "uykudan çıktı, uyanık durumda bulundu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tayaḳḳuẓ", "meaning": "uyanıklık durumunda bulunma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "teyakkuz", "meaning": "gerçekleşebilecek bir olayı dikkatini koruyarak bekleme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gerçekleşebilecek bir olayı dikkatle bekleme.",
+    "currentMeaning": "Meydana gelmesi beklenen veya mümkün görülen bir şey için dikkatini uyanık tutma.",
+    "story": "Teyakkuzun Arapçadaki çıkış noktası uyanmak ve uyanık bulunmaktır. Tayaḳḳuẓ bu uyanıklık durumunu adlandırır. Türkçede sözcük, beklenen bir gelişmeyi kaçırmamak için dikkati açık tutmaya uzanmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "teyakkuz maddesi", "url": "https://www.nisanyansozluk.com/kelime/teyakkuz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "teyakkuz", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tazarru",
+    "word": "tazarru",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḍaraˁa", "meaning": "güçsüz ve düşkün durumdaydı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "taḍarruˁ", "meaning": "kendini alçaltma, boyun büküp yalvarma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tazarru", "meaning": "yalvarıp dilekte bulunma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yalvarıp dilekte bulunma.",
+    "currentMeaning": "Bir isteğin gerçekleşmesi için yakarışta bulunma.",
+    "story": "Tazarrunun Arapçadaki kökü, güçsüz ve düşkün bir durumda bulunmayı anlatır. Taḍarruˁ biçiminde bu durum, boyun bükerek bir dilekte bulunma ve yalvarma eylemine dönüşür. Türkçe tazarru, bu anlamın yakarış yönünü taşır.",
+    "firstAttestation": {"source": "Sinan Paşa — Tazarru'nâme", "period": "1482", "form": "tażarruˁ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tazarru maddesi", "url": "https://www.nisanyansozluk.com/kelime/tazarru"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tazarru", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "inhimak",
+    "word": "inhimak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "hamaka", "meaning": "meşgul edip uğraştırdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "inhimāk", "meaning": "yoğun bağlılık, tutkulu düşkünlük", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "inhimak", "meaning": "bir şeye ölçüsüzce kapılma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeye ölçüsüzce kapılma.",
+    "currentMeaning": "Bir şeye aşırı derecede bağlanma ve düşkünlük duyma.",
+    "story": "İnhimakın Arapçadaki temelinde birini uğraştırma, meşgul etme eylemi vardır. İnhimāk biçiminde bu meşguliyet, kişiyi kendine bağlayan tutku ve düşkünlük olarak belirir. Türkçede sözcük, bir şeyin insanı aşırı derecede içine almasını anlatır.",
+    "firstAttestation": {"source": "Hoca Sadeddin Ef. — Tacü't-Tevârih", "period": "1574", "form": "inhimāki"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "inhimak maddesi", "url": "https://www.nisanyansozluk.com/kelime/inhimak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "inhimak", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "inşirah",
+    "word": "inşirah",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şaraḥa", "meaning": "açılmasını sağladı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "inşirāḥ", "meaning": "iç ferahlığı, gönül rahatlığı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "inşirah", "meaning": "için ferahlaması, gönlün açılması", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İçinin ferahlaması ve gönlünün açılması.",
+    "currentMeaning": "İnsanın içinde duyduğu açılma, rahatlık ve ferahlık.",
+    "story": "İnşirahın Arapçadaki kökü açma eylemidir. İnşirāḥ biçiminde açılan şey, gönlün ferahlığıyla anlatılan iç dünyaya taşınır. Türkçede de sözcük, insanın içi açıldığında duyduğu rahatlığı adlandırır.",
+    "firstAttestation": {"source": "Evliya Çelebi — Seyahatname", "period": "1665", "form": "inşirāḥ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "inşirah maddesi", "url": "https://www.nisanyansozluk.com/kelime/in%C5%9Firah"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "inşirah", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "inkisar",
+    "word": "inkisar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "kasara", "meaning": "kesip kırdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "inkisār", "meaning": "kırılma, duygusal olarak incinme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "inkisar", "meaning": "kırılma durumu", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kırılma durumu.",
+    "currentMeaning": "Kırılma olayının veya durumunun adı.",
+    "story": "İnkisarın başlangıcında Arapçada kesip kırmayı anlatan kasara vardır. İn kisār değil, tek bir sözcük olan inkisār, kırılmayı hem somut hem de ruhsal yönüyle taşır. Türkçede kırılmayı adlandıran sözcüğün geçmişinde, bir nesnenin bütünlüğünü yitirmesiyle insanın incinmesi yan yana durur.",
+    "firstAttestation": {"source": "Hoca Sadeddin Ef. — Tacü't-Tevârih", "period": "1574", "form": "inkisār"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "inkisar maddesi", "url": "https://www.nisanyansozluk.com/kelime/inkisar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "inkisar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istiğna",
+    "word": "istiğna",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġaniya", "meaning": "varlıklıydı, doygunluğa ulaştı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istiġnā", "meaning": "doygunluk, artık istemeyecek kadar doyma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istiğna", "meaning": "bir iş önerisi karşısında nazlanma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir iş önerisi karşısında nazlanma.",
+    "currentMeaning": "Kendisine önerilen bir işe hemen yanaşmayıp nazlı bir tutum gösterme.",
+    "story": "İstiğnanın Arapçadaki kökü zenginlik ve doymuşlukla bağlantılıdır. İstiġnā, artık istemeyecek kadar doyma durumunu taşır. Türkçedeki bugünkü anlamda bu isteksizlik, önerilen bir işe kolayca yanaşmayıp nazlanma davranışında belirir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "istiġnā"},
+    "relatives": [{"word": "müstağni", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istiğna maddesi", "url": "https://www.nisanyansozluk.com/kelime/isti%C4%9Fna"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istiğna", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istihfaf",
+    "word": "istihfaf",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫaffa", "meaning": "ağırlığı azdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istiḫfāf", "meaning": "ağırlığını azaltma, önemsiz bulma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istihfaf", "meaning": "değersiz görüp küçümseme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Değersiz görüp küçümseme.",
+    "currentMeaning": "Birini veya bir şeyi küçük ve değersiz görerek horlama.",
+    "story": "İstihfafın Arapçadaki kökünde hafif olma, yani az ağırlık taşıma vardır. İstiḫfāf bu somut hafifliği, bir şeyi önemsiz sayma düşüncesine de taşır. Türkçedeki küçümseme anlamında tartılan şey, kişinin ya da işin değeridir.",
+    "firstAttestation": {"source": "Ferec ba'd eş-şidde", "period": "<1451", "form": "istiḫfāflar"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istihfaf maddesi", "url": "https://www.nisanyansozluk.com/kelime/istihfaf"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istihfaf", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istinas",
+    "word": "istinas",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "istīnās", "meaning": "alışır duruma gelme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istinas", "meaning": "alışır duruma gelme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeye alışır duruma gelme.",
+    "currentMeaning": "Bir şeye zamanla alışma durumuna ulaşma.",
+    "story": "Arapça istīnās biçiminden alınan istinas, Türkçede alışma sürecini adlandırır. Sözcüğün anlattığı değişim, bir şeyin zamanla kişiye yabancı gelmemesi ve onun alışılmış hâle gelmesidir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istinas", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "istinkâf",
+    "word": "istinkâf",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nakafa", "meaning": "küçük görüp kabul etmedi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istinkāf", "meaning": "utanç veya küçümseme yüzünden yüz çevirip reddetme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istinkâf", "meaning": "bir şeyden çekinerek uzak durma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyden çekinerek uzak durma.",
+    "currentMeaning": "Çekinerek geri çekilme veya bir şeyi yapmaktan sakınma.",
+    "story": "İstinkâfın Arapçadaki kökü, küçümseyerek reddetme eylemini taşır. İstinkāf biçiminde yüz çevirmenin ardında küçümseme kadar utanma da bulunur. Türkçede sözcük, bu gerekçeleri tek tek belirtmeden çekinip geri durmayı anlatacak biçimde kullanılır.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "istinkāf"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istinkâf maddesi", "url": "https://www.nisanyansozluk.com/kelime/istink%C3%A2f"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istinkâf", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istirham",
+    "word": "istirham",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "raḥima", "meaning": "acıma ve merhamet gösterdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istirḥām", "meaning": "merhamet gösterilmesini isteme, ricada bulunma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istirham", "meaning": "yalvararak merhamet isteme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yalvarma ve merhamet isteme.",
+    "currentMeaning": "Yalvararak dilekte bulunma veya kendisine merhamet gösterilmesini isteme.",
+    "story": "İstirhamın Arapçadaki kökünde birine merhamet gösterme eylemi vardır. İstirḥām biçiminde bakış, merhamet gösterenden bunu isteyen kişiye döner. Türkçedeki yalvarma anlamı, karşısındakinin merhametine başvuran bu isteği sürdürür.",
+    "firstAttestation": {"source": "Ahmed Vefik Paşa — Lehce-i Osmani", "period": "1876", "form": "istirḥām"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istirham maddesi", "url": "https://www.nisanyansozluk.com/kelime/istirham"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istirham", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istiskal",
+    "word": "istiskal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "s̱aḳula", "meaning": "ağırlığı fazlaydı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istis̱ḳāl", "meaning": "yük gibi görme, bir sözü kendine hakaret kabul etme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istiskal", "meaning": "hoşnutsuzluğunu mesafeli ve soğuk davranarak gösterme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hoşnutsuzluğunu soğuk davranarak gösterme.",
+    "currentMeaning": "Birinden hoşlanmadığını ona mesafeli ve soğuk davranarak belli etme.",
+    "story": "İstiskalin Arapçadaki kökü ağır olmayı anlatır. İstis̱ḳāl, bu ağırlığı bir şeyi yük saymaya ve bir sözü kendine ağır bulmaya taşır. Türkçedeki bugünkü kullanımda ağırlık duygusu, karşısındakinden hoşlanmadığını soğuk davranışlarla göstermeye dönüşür.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "istisḳāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istiskal maddesi", "url": "https://www.nisanyansozluk.com/kelime/istiskal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istiskal", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09ad8-8f04-79f2-9a63-9a4790ad6e0b
+--------
+user
+# Köken — Üretim Prompt'u (v13)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. Bazı satırlarda ayrıca `ipucu anlam` bulunur; o da
+hangi sözcüğün kastedildiğini göstermek içindir, **kanıt değildir**: kaynakla
+çelişirse kaynağı esas al, `currentMeaning` ve `shortMeaning` alanlarını
+kaynaktan yaz, ipucu anlamı kopyalama. `rarity` ise kesin veridir: satırda ne
+yazıyorsa `rarity` alanına **aynen** onu yaz.
+
+1. tehevvür — ipucu: ar — rarity: az-bilinen — ipucu anlam: birden öfkeye kapılma
+2. tehalük — ipucu: ar — rarity: az-bilinen — ipucu anlam: bir şeye büyük istekle atılma
+3. teneffür — ipucu: ar — rarity: az-bilinen — ipucu anlam: nefret duyup uzaklaşma
+4. tenezzüh — ipucu: ar — rarity: az-bilinen — ipucu anlam: gezinerek ferahlama
+5. terennüm — ipucu: ar — rarity: az-bilinen — ipucu anlam: ezgiyle söyleme; dile getirme
+6. teşettüt — ipucu: ar — rarity: az-bilinen — ipucu anlam: dağınıklık, perişanlık
+7. müstağni — ipucu: ar — rarity: az-bilinen — ipucu anlam: tokgözlü; ihtiyaç duymayan
+8. tevahhuş — ipucu: ar — rarity: az-bilinen — ipucu anlam: ürkme, korkup kaçınma
+9. tevehhüm — ipucu: ar — rarity: az-bilinen — ipucu anlam: kuruntuya kapılma
+10. teyakkuz — ipucu: ar — rarity: az-bilinen — ipucu anlam: uyanıklık, tetikte bulunma
+11. tazarru — ipucu: ar — rarity: az-bilinen — ipucu anlam: yalvarıp yakarma
+12. inhimak — ipucu: ar — rarity: az-bilinen — ipucu anlam: bir şeye aşırı düşkünlük
+13. inşirah — ipucu: ar — rarity: az-bilinen — ipucu anlam: gönül ferahlığı
+14. inkisar — ipucu: ar — rarity: az-bilinen — ipucu anlam: gönül kırıklığı
+15. istiğna — ipucu: ar — rarity: az-bilinen — ipucu anlam: tokgözlülük; ilgisiz davranma
+16. istihfaf — ipucu: ar — rarity: az-bilinen — ipucu anlam: hafife alma
+17. istinas — ipucu: ar — rarity: az-bilinen — ipucu anlam: alışma, yakınlık duyma
+18. istinkâf — ipucu: ar — rarity: az-bilinen — ipucu anlam: çekinme, geri durma
+19. istirham — ipucu: ar — rarity: az-bilinen — ipucu anlam: yalvararak rica etme
+20. istiskal — ipucu: ar — rarity: az-bilinen — ipucu anlam: birini yük sayıp soğuk davranma
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve
+gerektiğinde Kubbealtı Lugatı kayıtlarının özeti verilmiştir. **Bu özetler
+esastır.** Kubbealtı bölümü varsa (ilk iki kaynakta madde yoksa gelir) köken
+satırındaki dil kısaltması (`Fars.`, `Ar.`) `donorLanguage` için esastır ve
+kaynak şöyle yazılır:
+`{"name": "Kubbealtı Lugatı", "ref": "<kelime> maddesi", "url": "<verilen bağlantı>"}`.
+
+### tehevvür
+
+**Nişanyan — tehevvür**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › hāra › yıktı, çökertti, devirdi  [türeme]
+- Arapça › tahawwur › sonunu düşünmeden bir işe atılma, delice hücum etme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1451, anon. — Ferec ba'd eş-şidde
+  > Bu padişāh bu hiddet ve tehevvür içinde vizāretini bir ḫub mühezzeb ferzāne kişiye vérmişidi.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tehevv%C3%BCr
+
+**TDK** — köken kaydı: Arapça tehevvur · anlam: Çok kızma, çok öfkelenme
+
+### tehalük
+
+**Nişanyan — tehalük**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › halaka › helak oldu, tükendi  [türeme]
+- Arapça › tahāluk › can atma, kendini helak etme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > tehālük: Bir birin helâk etmek.
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > tehālük: Helake atılmak, can atmak, arzu ile şitab kılma.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tehal%C3%BCk
+
+**TDK** — köken kaydı: Arapça tehāluk · anlam: Can atma, çok isteme
+
+### teneffür
+
+**Kubbealtı Lugatı — TENEFFÜR**
+
+Köken satırı: Ar. nefr “tiksinmek, nefret etmek”ten teneffur
+
+İlk anlam: Nefret etme, iğrenme, ikrah etme
+
+Bağlantı: https://lugatim.com/s/teneff%C3%BCr
+
+### tenezzüh
+
+**Nişanyan — tenezzüh**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › nazaha › arındı  [türeme]
+- Arapça › tanazzuh › arınma, (kirli ve sıkıntılı şeylerden) uzaklaşma, ferahlama  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > tenezzüh: Nezāhet taleb idüp kazāi hācet içün sahrāye çikmak [defi hacet için uzaklaşmak], ırak olmak.
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > tenezzüh: Nefeslenme, açılma, nüzhet bulmak, seyre çıkmak.
+- 1945, TDK — Türkçe Sözlük, 1. Baskı
+  > tenezzüh: Gezinti.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tenezz%C3%BCh
+
+**TDK** — köken kaydı: Arapça tenezzuh · anlam: ► gezinti
+
+### terennüm
+
+**Nişanyan — terennüm**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ranima › makamla söyledi, terennüm etti  [türeme]
+- Arapça › tarannum › makamla söyleme, anlamlı veya anlamsız sözlerle şarkı söyleme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1429, Ahmed b. Kadı-i Manyas — Gülistan terc.
+  > bu beyti terennüm-ile eydürdi
+
+Not: Karş. terane.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/terenn%C3%BCm
+
+**TDK** — köken kaydı: Arapça terennum · anlam: Güzel ve alçak sesle şarkı söyleme
+
+### teşettüt
+
+**Kubbealtı Lugatı — TEŞETTÜT**
+
+Köken satırı: Ar. şetāt “dağılmak”tan teşettut
+
+İlk anlam: Birçok kısma ayrılma, çatallaşma, dağılma
+
+Bağlantı: https://lugatim.com/s/te%C5%9Fett%C3%BCt
+
+### müstağni
+
+**Nişanyan — müstağni**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ġaniya › doydu  [türeme]
+- Arapça › mustaġnī › istiğna eden, doygun  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1409, Süleyman Çelebi — Mevlid
+  > Gerçi müstağnī-durur bunlardan ol / Ana hiç assı ziyān yok az u bol
+- 1574, Hoca Sadeddin Ef. — Tacü't-Tevârih
+  > ḳul aslā Allāhdan müstağnī degüldür ki her işe yardum andan diler
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BCsta%C4%9Fni
+
+**TDK** — köken kaydı: Arapça mustaġnī · anlam: ► doygun
+
+### tevahhuş
+
+**Nişanyan — tevahhuş**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › waḥş › yaban  [türeme]
+- Arapça › tawaḥḥūş › 1. midesini tamamen boşaltma, 2. (insandan veya cemiyetten) kaçınma, nefret, yabanlık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1735, Tarih-i Râşid
+  > erkân-ı devletin sadr-ı azamdan teneffür ve tevahhuşuna medār oldı
+
+Not: Çoğu zaman teneffür ve tevahhuş ikilisinde.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tevahhu%C5%9F
+
+**TDK** — köken kaydı: Arapça tevaḥḥuş · anlam: ► ürkme
+
+### tevehhüm
+
+**TDK** — köken kaydı: Arapça tevehhum · anlam: Kuruntuya düşme
+
+### teyakkuz
+
+**Nişanyan — teyakkuz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › yaḳaẓa › uyandı, uyanık idi  [türeme]
+- Arapça › tayaḳḳuẓ › uyanık olma  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1574, Hoca Sadeddin Ef. — Tacü't-Tevârih
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/teyakkuz
+
+**TDK** — köken kaydı: Arapça teyaḳḳuẓ · anlam: Olması muhtemel bir şeyi dikkatle bekleme
+
+### tazarru
+
+**Nişanyan — tazarru**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ḍaraˁa › zayıf ve zelil idi  [türeme]
+- Arapça › taḍarruˁ › alçaklanma, boyun eğme, yakarış  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1482, Sinan Paşa — Tazarru'nâme
+  > ˁarż-ı tażarruˁ u niyāz
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tazarru
+
+**TDK** — köken kaydı: Arapça tażarruʿ · anlam: ► yakarma
+
+### inhimak
+
+**Nişanyan — inhimak**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › hamaka › uğraştırdı  [türeme]
+- Arapça › inhimāk › tutku, düşkünlük  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1574, Hoca Sadeddin Ef. — Tacü't-Tevârih
+  > ˁayş ü ˁişrete inhimāki-ile
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/inhimak
+
+**TDK** — köken kaydı: Arapça inhimāk · anlam: Bir şeye aşırı düşkünlük gösterme, kapılma
+
+### inşirah
+
+**Nişanyan — inşirah**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › şaraḥa › açtı  [türeme]
+- Arapça › inşirāḥ › ferahlık, gönül hoşluğu  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1665, Evliya Çelebi — Seyahatname
+  > mektûbu Ebü'l- feth'e varınca Mehemmed Hân'a inşirâh-ı sadr [göğüs ferahlığı] u zevk-i derûn müyesser olup
+- 1680, Meninski — Thesaurus
+  > inşirāh: geŋ olmak, göŋül açılmak, kalb safāsi.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/in%C5%9Firah
+
+**TDK** — köken kaydı: Arapça inşirāḥ · anlam: İç açılması, gönül açılması, ferahlık
+
+### inkisar
+
+**Nişanyan — inkisar**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › kasara › kesti, kırdı  [türeme]
+- Arapça › inkisār › kırılma, ruhen kırılma, kırgınlık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1574, Hoca Sadeddin Ef. — Tacü't-Tevârih
+  > kemāl-i inkisār ile tevbe vü istiğfār ve taleb-i rızā-i perverdigār itti [tam pişmanlık ile tövbe ve istiğfar ederek Allah rızası talep etti]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/inkisar
+
+**TDK** — köken kaydı: Arapça inkisār · anlam: ► kırılma
+
+### istiğna
+
+**Nişanyan — istiğna**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ġaniya › zengin idi, doydu  [türeme]
+- Arapça › istiġnā › gına getirme, doyum  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > oldur istiġnā çi sen anda çi ben [şudur istiğna, sen ben farketmez]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/isti%C4%9Fna
+
+**TDK** — köken kaydı: Arapça istiġnā · anlam: Önerilen bir işe karşı nazlanma, nazlı davranma
+
+### istihfaf
+
+**Nişanyan — istihfaf**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › χaffa › hafif idi  [türeme]
+- Arapça › istiχfāf › hafifletme, hafifseme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1451, anon. — Ferec ba'd eş-şidde
+  > eğer ḳaḍi saŋa vü baŋa bu istiḫfāflar kefāreti yokluğından étdi ise
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/istihfaf
+
+**TDK** — köken kaydı: Arapça istiḫfāf · anlam: Küçümseme, hor görme
+
+### istinas
+
+**TDK** — köken kaydı: Arapça istīnās · anlam: ► alışma
+
+### istinkâf
+
+**Nişanyan — istinkâf**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › nakafa › küçümsedi, reddetti  [türeme]
+- Arapça › istinkāf › utanarak veya küçümseyerek bir şeyden yüz çevirme, kaçınma, reddetme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > istinkāf: arlanmak. Erubescere aliquid facere, declinare, absistere, recusare, nolle.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/istink%C3%A2f
+
+**TDK** — köken kaydı: Arapça istinkāf · anlam: Çekinme, geri durma, sakınma
+
+### istirham
+
+**Nişanyan — istirham**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › raḥima › merhamet etti  [türeme]
+- Arapça › istirḥām › merhamet dileme, rica etme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > istirḥām: rahm talebi, izin rica etmek, yalvarma.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/istirham
+
+**TDK** — köken kaydı: Arapça istirḥām · anlam: Yalvarma, merhamet dileme
+
+### istiskal
+
+**Nişanyan — istiskal**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › s̱aḳula › ağır idi  [türeme]
+- Arapça › istis̱ḳāl › ağır bulma, yüksünme, bir sözü hakaret sayma  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > istisḳāl: Gravatio, molestia, importunitas.
+
+Not: Tr yüksünme sözcüğünün tam karşılığıdır. Anlamı esasen edilgen olduğu halde, günümüzde etken anlamda kullanılır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/istiskal
+
+**TDK** — köken kaydı: Arapça istis̱ḳāl · anlam: Soğuk davranışlarla hoşlanmadığını belli etme
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives` **her zaman dizidir**. Akraba kelime yoksa `null` değil `[]`
+  yaz. `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "tehevvür",
+    "word": "tehevvür",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "hāra", "meaning": "yıkıp devirdi, çökmesine yol açtı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tahawwur", "meaning": "sonucu hesaplamadan atılma, çılgınca saldırma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tehevvür", "meaning": "şiddetli öfkeye kapılma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Şiddetli öfkeye kapılma.",
+    "currentMeaning": "Çok güçlü bir kızgınlık ve öfke duyma.",
+    "story": "Tehevvürün geçmişinde Arapçada yıkıp devirme eylemi bulunur. Bu kökten gelişen tahawwur, sonucunu düşünmeden kendini bir işe ya da saldırıya atmayı anlatır. Türkçede sözcüğün ağırlığı, bu ölçüsüz atılıştan yoğun öfkeye kaymıştır.",
+    "firstAttestation": {"source": "Ferec ba'd eş-şidde", "period": "<1451", "form": "tehevvür"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tehevvür maddesi", "url": "https://www.nisanyansozluk.com/kelime/tehevv%C3%BCr"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tehevvür", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tehalük",
+    "word": "tehalük",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "halaka", "meaning": "yok oldu, tükenip gitti", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tahāluk", "meaning": "kendini tüketme, bir şey için can atma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tehalük", "meaning": "bir şeyi büyük istekle arzulama", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyi büyük istekle arzulama.",
+    "currentMeaning": "Bir şeyin olmasını veya ona ulaşmayı çok güçlü biçimde isteme.",
+    "story": "Tehalükün Arapçadaki kökü, tükenip yok olmayı anlatır. Tahāluk biçiminde kendini tüketme ile bir şeye can atma aynı sözcükte buluşur. Türkçedeki eski kullanımlarda helak olma düşüncesi görünürken bugünkü anlamda geriye isteğin yoğunluğu kalmıştır.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "tehālük"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tehalük maddesi", "url": "https://www.nisanyansozluk.com/kelime/tehal%C3%BCk"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tehalük", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "teneffür",
+    "word": "teneffür",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nefr", "meaning": "tiksinti ve nefret duymak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "teneffur", "meaning": "tiksinti duyma, iğrenme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "teneffür", "meaning": "nefret ve tiksinti duyma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Nefret ve tiksinti duyma.",
+    "currentMeaning": "Birinden veya bir şeyden iğrenme, ona karşı nefret duyma.",
+    "story": "Teneffürün Arapçadaki temelinde, bir şeyden tiksinip nefret etme vardır. Bu duygu teneffur biçiminde adlandırılmış, Türkçeye de aynı iğrenme ve nefret duygusunu taşıyarak geçmiştir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "teneffür maddesi", "url": "https://lugatim.com/s/teneff%C3%BCr"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tenezzüh",
+    "word": "tenezzüh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nazaha", "meaning": "arınarak temizlendi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tanazzuh", "meaning": "kirden ve sıkıntıdan uzaklaşıp arınma, ferahlama", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tenezzüh", "meaning": "gezinmeye çıkma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gezinmeye çıkma.",
+    "currentMeaning": "Dolaşmak üzere yapılan gezinti.",
+    "story": "Tenezzühün Arapçadaki başlangıcı arınma düşüncesidir; tanazzuh, kirli ya da sıkıntı veren şeylerden uzaklaşıp ferahlamayı anlatır. Türkçedeki eski kullanımlarında dışarı çıkma ve uzaklaşma öne çıkar. Zamanla bu uzaklaşmanın ferahlatıcı yanı belirginleşmiş, sözcük gezinti için kullanılmıştır.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "tenezzüh"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Gezintiyi anlatan tenezzühün eski kullanımlarından biri, tuvalet ihtiyacı için kıra çıkmayı da kapsıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tenezzüh maddesi", "url": "https://www.nisanyansozluk.com/kelime/tenezz%C3%BCh"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tenezzüh", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "terennüm",
+    "word": "terennüm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ranima", "meaning": "ezgiyle söyledi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tarannum", "meaning": "anlam taşıyan ya da taşımayan sözleri ezgiyle söyleme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "terennüm", "meaning": "hoş ve alçak bir sesle şarkı söyleme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hoş ve alçak bir sesle şarkı söyleme.",
+    "currentMeaning": "Şarkıyı güzel ve yüksek olmayan bir sesle söyleme.",
+    "story": "Terennümün geçmişinde Arapça ranima fiiliyle anlatılan ezgili söyleyiş vardır. Ondan gelişen tarannum, sözlerin anlamlı olmasını gerektirmeden sesleri bir ezgi içinde söylemeyi kapsar. Türkçedeki bugünkü kullanım, bu müzikli söyleyişin güzel ve alçak sesli oluşunu öne çıkarır.",
+    "firstAttestation": {"source": "Ahmed b. Kadı-i Manyas — Gülistan tercümesi", "period": "1429", "form": "terennüm"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "terennüm maddesi", "url": "https://www.nisanyansozluk.com/kelime/terenn%C3%BCm"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "terennüm", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "teşettüt",
+    "word": "teşettüt",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şetāt", "meaning": "ayrılıp dağılmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "teşettut", "meaning": "parçalara ayrılarak dağılma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "teşettüt", "meaning": "birçok parçaya ayrılma, dallanıp dağılma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birçok parçaya ayrılma ve dağılma.",
+    "currentMeaning": "Bir bütünün çok sayıda bölüme ayrılması, çatallanması veya dağılması.",
+    "story": "Teşettütün temelinde Arapçada dağılmayı anlatan şetāt bulunur. Sözcüğün taşıdığı resim, bir arada duran şeylerin ayrılıp farklı kollara yayılmasıdır. Türkçeye geçen teşettüt de bu parçalanma ve çatallanma düşüncesini korur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "teşettüt maddesi", "url": "https://lugatim.com/s/te%C5%9Fett%C3%BCt"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "müstağni",
+    "word": "müstağni",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġaniya", "meaning": "doygunluğa ulaştı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mustaġnī", "meaning": "doyuma ulaşmış, ihtiyaç duymayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müstağni", "meaning": "doyuma ulaşmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Doyuma ulaşmış olan.",
+    "currentMeaning": "Doygunluk durumunda bulunan.",
+    "story": "Müstağninin Arapçadaki kökü doyma eylemini anlatır. Mustaġnī, bu doygunluğu artık ihtiyaç duymayan kişinin durumuna taşır. Türkçede sözcük doygunluk anlamını korurken eski kullanımları bir şeye muhtaç olmama düşüncesini de gösterir.",
+    "firstAttestation": {"source": "Süleyman Çelebi — Mevlid", "period": "1409", "form": "müstağnī"},
+    "relatives": [{"word": "istiğna", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müstağni maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCsta%C4%9Fni"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müstağni", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tevahhuş",
+    "word": "tevahhuş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "waḥş", "meaning": "yabana ait olan", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tawaḥḥūş", "meaning": "mideyi bütünüyle boşaltma; insanlardan uzak durma, nefret ve yabanilik", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tevahhuş", "meaning": "ürkerek korkuya kapılma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Ürkerek korkuya kapılma.",
+    "currentMeaning": "Bir şey karşısında ürküntü duyma.",
+    "story": "Tevahhuşun Arapçadaki temelinde yaban düşüncesi vardır. Tawaḥḥūş, insanlardan ve topluluktan uzak durmayı, yabaniliği ve nefreti bir arada taşır. Türkçedeki ürkme anlamında bu uzak duruşun korkuyla bağlantılı yanı öne çıkar.",
+    "firstAttestation": {"source": "Tarih-i Râşid", "period": "1735", "form": "tevahhuş"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Arapçadaki tawaḥḥūş, insanlardan kaçınmanın yanında mideyi tamamen boşaltmayı da anlatıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tevahhuş maddesi", "url": "https://www.nisanyansozluk.com/kelime/tevahhu%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tevahhuş", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tevehhüm",
+    "word": "tevehhüm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "tevehhum", "meaning": "kuruntuya kapılma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tevehhüm", "meaning": "kuruntuya kapılma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kuruntuya kapılma.",
+    "currentMeaning": "Zihninde kurduğu düşünceler yüzünden kuruntuya kapılma.",
+    "story": "Arapçadan alınan tevehhüm, insanın zihninde kurduğu düşüncelere kapılmasını anlatır. Türkçede de odağında bu zihinsel durum vardır: kişi kuruntuya düşer ve düşüncelerini bu kuruntu çevresinde sürdürür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tevehhüm", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "teyakkuz",
+    "word": "teyakkuz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "yaḳaẓa", "meaning": "uykudan çıktı, uyanık durumda bulundu", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tayaḳḳuẓ", "meaning": "uyanıklık durumunda bulunma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "teyakkuz", "meaning": "gerçekleşebilecek bir olayı dikkatini koruyarak bekleme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gerçekleşebilecek bir olayı dikkatle bekleme.",
+    "currentMeaning": "Meydana gelmesi beklenen veya mümkün görülen bir şey için dikkatini uyanık tutma.",
+    "story": "Teyakkuzun Arapçadaki çıkış noktası uyanmak ve uyanık bulunmaktır. Tayaḳḳuẓ bu uyanıklık durumunu adlandırır. Türkçede sözcük, beklenen bir gelişmeyi kaçırmamak için dikkati açık tutmaya uzanmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "teyakkuz maddesi", "url": "https://www.nisanyansozluk.com/kelime/teyakkuz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "teyakkuz", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tazarru",
+    "word": "tazarru",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḍaraˁa", "meaning": "güçsüz ve düşkün durumdaydı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "taḍarruˁ", "meaning": "kendini alçaltma, boyun büküp yalvarma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tazarru", "meaning": "yalvarıp dilekte bulunma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yalvarıp dilekte bulunma.",
+    "currentMeaning": "Bir isteğin gerçekleşmesi için yakarışta bulunma.",
+    "story": "Tazarrunun Arapçadaki kökü, güçsüz ve düşkün bir durumda bulunmayı anlatır. Taḍarruˁ biçiminde bu durum, boyun bükerek bir dilekte bulunma ve yalvarma eylemine dönüşür. Türkçe tazarru, bu anlamın yakarış yönünü taşır.",
+    "firstAttestation": {"source": "Sinan Paşa — Tazarru'nâme", "period": "1482", "form": "tażarruˁ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tazarru maddesi", "url": "https://www.nisanyansozluk.com/kelime/tazarru"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tazarru", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "inhimak",
+    "word": "inhimak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "hamaka", "meaning": "meşgul edip uğraştırdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "inhimāk", "meaning": "yoğun bağlılık, tutkulu düşkünlük", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "inhimak", "meaning": "bir şeye ölçüsüzce kapılma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeye ölçüsüzce kapılma.",
+    "currentMeaning": "Bir şeye aşırı derecede bağlanma ve düşkünlük duyma.",
+    "story": "İnhimakın Arapçadaki temelinde birini uğraştırma, meşgul etme eylemi vardır. İnhimāk biçiminde bu meşguliyet, kişiyi kendine bağlayan tutku ve düşkünlük olarak belirir. Türkçede sözcük, bir şeyin insanı aşırı derecede içine almasını anlatır.",
+    "firstAttestation": {"source": "Hoca Sadeddin Ef. — Tacü't-Tevârih", "period": "1574", "form": "inhimāki"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "inhimak maddesi", "url": "https://www.nisanyansozluk.com/kelime/inhimak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "inhimak", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "inşirah",
+    "word": "inşirah",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şaraḥa", "meaning": "açılmasını sağladı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "inşirāḥ", "meaning": "iç ferahlığı, gönül rahatlığı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "inşirah", "meaning": "için ferahlaması, gönlün açılması", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İçinin ferahlaması ve gönlünün açılması.",
+    "currentMeaning": "İnsanın içinde duyduğu açılma, rahatlık ve ferahlık.",
+    "story": "İnşirahın Arapçadaki kökü açma eylemidir. İnşirāḥ biçiminde açılan şey, gönlün ferahlığıyla anlatılan iç dünyaya taşınır. Türkçede de sözcük, insanın içi açıldığında duyduğu rahatlığı adlandırır.",
+    "firstAttestation": {"source": "Evliya Çelebi — Seyahatname", "period": "1665", "form": "inşirāḥ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "inşirah maddesi", "url": "https://www.nisanyansozluk.com/kelime/in%C5%9Firah"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "inşirah", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "inkisar",
+    "word": "inkisar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "kasara", "meaning": "kesip kırdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "inkisār", "meaning": "kırılma, duygusal olarak incinme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "inkisar", "meaning": "kırılma durumu", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kırılma durumu.",
+    "currentMeaning": "Kırılma olayının veya durumunun adı.",
+    "story": "İnkisarın başlangıcında Arapçada kesip kırmayı anlatan kasara vardır. İn kisār değil, tek bir sözcük olan inkisār, kırılmayı hem somut hem de ruhsal yönüyle taşır. Türkçede kırılmayı adlandıran sözcüğün geçmişinde, bir nesnenin bütünlüğünü yitirmesiyle insanın incinmesi yan yana durur.",
+    "firstAttestation": {"source": "Hoca Sadeddin Ef. — Tacü't-Tevârih", "period": "1574", "form": "inkisār"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "inkisar maddesi", "url": "https://www.nisanyansozluk.com/kelime/inkisar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "inkisar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istiğna",
+    "word": "istiğna",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ġaniya", "meaning": "varlıklıydı, doygunluğa ulaştı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istiġnā", "meaning": "doygunluk, artık istemeyecek kadar doyma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istiğna", "meaning": "bir iş önerisi karşısında nazlanma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir iş önerisi karşısında nazlanma.",
+    "currentMeaning": "Kendisine önerilen bir işe hemen yanaşmayıp nazlı bir tutum gösterme.",
+    "story": "İstiğnanın Arapçadaki kökü zenginlik ve doymuşlukla bağlantılıdır. İstiġnā, artık istemeyecek kadar doyma durumunu taşır. Türkçedeki bugünkü anlamda bu isteksizlik, önerilen bir işe kolayca yanaşmayıp nazlanma davranışında belirir.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "istiġnā"},
+    "relatives": [{"word": "müstağni", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istiğna maddesi", "url": "https://www.nisanyansozluk.com/kelime/isti%C4%9Fna"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istiğna", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istihfaf",
+    "word": "istihfaf",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḫaffa", "meaning": "ağırlığı azdı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istiḫfāf", "meaning": "ağırlığını azaltma, önemsiz bulma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istihfaf", "meaning": "değersiz görüp küçümseme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Değersiz görüp küçümseme.",
+    "currentMeaning": "Birini veya bir şeyi küçük ve değersiz görerek horlama.",
+    "story": "İstihfafın Arapçadaki kökünde hafif olma, yani az ağırlık taşıma vardır. İstiḫfāf bu somut hafifliği, bir şeyi önemsiz sayma düşüncesine de taşır. Türkçedeki küçümseme anlamında tartılan şey, kişinin ya da işin değeridir.",
+    "firstAttestation": {"source": "Ferec ba'd eş-şidde", "period": "<1451", "form": "istiḫfāflar"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istihfaf maddesi", "url": "https://www.nisanyansozluk.com/kelime/istihfaf"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istihfaf", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istinas",
+    "word": "istinas",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "istīnās", "meaning": "alışır duruma gelme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istinas", "meaning": "alışır duruma gelme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeye alışır duruma gelme.",
+    "currentMeaning": "Bir şeye zamanla alışma durumuna ulaşma.",
+    "story": "Arapça istīnās biçiminden alınan istinas, Türkçede alışma sürecini adlandırır. Sözcüğün anlattığı değişim, bir şeyin zamanla kişiye yabancı gelmemesi ve onun alışılmış hâle gelmesidir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istinas", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "istinkâf",
+    "word": "istinkâf",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nakafa", "meaning": "küçük görüp kabul etmedi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istinkāf", "meaning": "utanç veya küçümseme yüzünden yüz çevirip reddetme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istinkâf", "meaning": "bir şeyden çekinerek uzak durma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyden çekinerek uzak durma.",
+    "currentMeaning": "Çekinerek geri çekilme veya bir şeyi yapmaktan sakınma.",
+    "story": "İstinkâfın Arapçadaki kökü, küçümseyerek reddetme eylemini taşır. İstinkāf biçiminde yüz çevirmenin ardında küçümseme kadar utanma da bulunur. Türkçede sözcük, bu gerekçeleri tek tek belirtmeden çekinip geri durmayı anlatacak biçimde kullanılır.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "istinkāf"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istinkâf maddesi", "url": "https://www.nisanyansozluk.com/kelime/istink%C3%A2f"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istinkâf", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istirham",
+    "word": "istirham",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "raḥima", "meaning": "acıma ve merhamet gösterdi", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istirḥām", "meaning": "merhamet gösterilmesini isteme, ricada bulunma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istirham", "meaning": "yalvararak merhamet isteme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yalvarma ve merhamet isteme.",
+    "currentMeaning": "Yalvararak dilekte bulunma veya kendisine merhamet gösterilmesini isteme.",
+    "story": "İstirhamın Arapçadaki kökünde birine merhamet gösterme eylemi vardır. İstirḥām biçiminde bakış, merhamet gösterenden bunu isteyen kişiye döner. Türkçedeki yalvarma anlamı, karşısındakinin merhametine başvuran bu isteği sürdürür.",
+    "firstAttestation": {"source": "Ahmed Vefik Paşa — Lehce-i Osmani", "period": "1876", "form": "istirḥām"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istirham maddesi", "url": "https://www.nisanyansozluk.com/kelime/istirham"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istirham", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "istiskal",
+    "word": "istiskal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "s̱aḳula", "meaning": "ağırlığı fazlaydı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "istis̱ḳāl", "meaning": "yük gibi görme, bir sözü kendine hakaret kabul etme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "istiskal", "meaning": "hoşnutsuzluğunu mesafeli ve soğuk davranarak gösterme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hoşnutsuzluğunu soğuk davranarak gösterme.",
+    "currentMeaning": "Birinden hoşlanmadığını ona mesafeli ve soğuk davranarak belli etme.",
+    "story": "İstiskalin Arapçadaki kökü ağır olmayı anlatır. İstis̱ḳāl, bu ağırlığı bir şeyi yük saymaya ve bir sözü kendine ağır bulmaya taşır. Türkçedeki bugünkü kullanımda ağırlık duygusu, karşısındakinden hoşlanmadığını soğuk davranışlarla göstermeye dönüşür.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "istisḳāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "istiskal maddesi", "url": "https://www.nisanyansozluk.com/kelime/istiskal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "istiskal", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+24,452

@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "ahter",
+    "word": "ahter",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "aḫter",
+        "meaning": "yıldız",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ahter",
+        "meaning": "yıldız",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yıldız.",
+    "currentMeaning": "Gökyüzündeki yıldızları karşılayan eski bir ad.",
+    "story": "Farsçada aḫter, gökte görülen yıldızın adıydı. Türkçeye ahter biçiminde taşınırken adlandırdığı gök cismi değişmedi; sözcüğün merkezinde yine yıldız durdu.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "ahter maddesi",
+        "url": "https://lugatim.com/s/ahter"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sitayiş",
+    "word": "sitayiş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "steu-2",
+        "meaning": "övmek",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "pal",
+        "form": "stūdan, stāy-",
+        "meaning": "övmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "pal",
+        "form": "stāyişn",
+        "meaning": "övmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "sutūdan, sitā-",
+        "meaning": "övmek, yüceltici sözler söylemek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "sitāyiş",
+        "meaning": "övgü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sitayiş",
+        "meaning": "övme",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Övme.",
+    "currentMeaning": "Birinin veya bir şeyin iyi yanlarını dile getirerek onu övme.",
+    "story": "Sitayişin geçmişinde birinin değerini sözle yükseltme eylemi vardır. Eski Hintavrupa kökünden Orta Farsçaya uzanan övme kavramı, Farsçada sitāyiş ile övgünün adına dönüştü. Türkçe de bu adı, beğeniyi dile getirme eylemi için aldı.",
+    "firstAttestation": {
+      "source": "Anonim, Tezkiretü'l-Evliya tercümesi",
+      "period": "1341",
+      "form": "sitāyiş"
+    },
+    "relatives": [
+      {
+        "word": "śtauti/śtute",
+        "relation": "eş köken"
+      },
+      {
+        "word": "staoiti",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sitayiş maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sitayi%C5%9F"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sitayiş",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şayeste",
+    "word": "şayeste",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "şāyeste",
+        "meaning": "uygun, yaraşan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "şayeste",
+        "meaning": "uygun, yaraşan",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Uygun düşen, yaraşan.",
+    "currentMeaning": "Bir kimseye, duruma veya amaca uygun düşen, yakışan.",
+    "story": "Farsça şāyeste, bir şeyin bir kişiye ya da duruma yaraşmasını anlatır. Türkçeye geçişinde bu uygunluk düşüncesi korundu; şayeste denen şey, bulunduğu yere veya kendisine yöneldiği kişiye yakışandır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şayeste",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bad",
+    "word": "bad",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "h₂weh₁- (awē-)",
+        "meaning": "esmek",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "h₂wéh₁n̥ts (awḗn̥ts)",
+        "meaning": "esen şey, rüzgâr",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "pal",
+        "form": "wād",
+        "meaning": "esen şey, rüzgâr",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "bād",
+        "meaning": "yel",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bad",
+        "meaning": "yel",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yel.",
+    "currentMeaning": "Havanın yer değiştirmesiyle oluşan yel, rüzgâr.",
+    "story": "Badın en eski kökünde esme eylemi vardır; bu eylemden esen şeyin adı türemiştir. Ad, Orta Farsçada wād, Farsçada bād biçimini alırken havanın hareketini anlatmayı sürdürdü. Türkçeye de aynı doğa olayının adı olarak geçti.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "bad"
+    },
+    "relatives": [
+      {
+        "word": "ventus",
+        "relation": "eş köken"
+      },
+      {
+        "word": "wind",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "İngilizce wind ile Türkçedeki bad, aynı eski esme kökünün farklı dillerdeki devamlarıdır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bad maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bad"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bad",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bade",
+    "word": "bade",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "bādag",
+        "meaning": "olgunlaşmış; şarap",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "bāda",
+        "meaning": "olgunlaşmış; şarap",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bade",
+        "meaning": "şarap",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Şarap.",
+    "currentMeaning": "Şarap için kullanılan eski bir ad.",
+    "story": "Orta Farsça bādag biçimini sürdüren Farsça bāda, olgunlaşmış olmayı ve şarabı aynı sözcükte buluşturur. Türkçe bu anlamlardan içeceğin adını aldı. Böylece bade, olgunluk kavramını arka planında taşıyan bir şarap adı olarak yaşadı.",
+    "firstAttestation": {
+      "source": "Aşık Paşa, Garib-name",
+      "period": "1330",
+      "form": "bāde"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bade maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bade"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bade",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şehper",
+    "word": "şehper",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "şāh-per",
+        "meaning": "kuş kanadındaki en uzun tüy",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "şeh-per",
+        "meaning": "kuş kanadındaki en uzun tüy",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "şehper",
+        "meaning": "kuş kanadındaki en uzun tüy",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kuşun kanadındaki en uzun tüy.",
+    "currentMeaning": "Bir kuşun kanadında bulunan tüylerin en uzunu.",
+    "story": "Şehperin Farsçadaki yapısında büyüklük ve güzellik bildiren şāh ile kanat ya da tüy bildiren per birleşir. Bu birleşme, kanadın en uzun tüyünü öne çıkaran bir ad oluşturur. Şāh-per biçimi şeh-per olurken Türkçeye de bu belirgin tüyün adı taşınmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Şehper, bir zamanlar kavukların önüne takılan gösterişli tüyün de adıydı.",
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "şehper maddesi",
+        "url": "https://lugatim.com/s/%C5%9Fehper"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tir",
+    "word": "tir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "tīr",
+        "meaning": "ok",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tir",
+        "meaning": "ok",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ok.",
+    "currentMeaning": "Yayla fırlatılan oka verilen eski ad.",
+    "story": "Farsça tīr, yaydan atılan oku adlandırır. Türkçeye taşınan tir de aynı silahın adı olarak kullanılmış, sözcüğün iki dilde gösterdiği nesne değişmemiştir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "tir maddesi",
+        "url": "https://lugatim.com/s/tir"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "baran",
+    "word": "baran",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "wārān",
+        "meaning": "yağmur",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "bārān",
+        "meaning": "yağmur",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "baran",
+        "meaning": "yağmur",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yağmur.",
+    "currentMeaning": "Yağmur için kullanılan eski bir ad.",
+    "story": "Orta Farsçada wārān, gökten düşen yağmurun adıydı. Sözcük Farsçada bārān biçimini alırken aynı yağışı anlatmayı sürdürdü. Türkçeye geçişinde de anlam değişmedi; baran, yağmurun bir başka adı oldu.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "barram"
+    },
+    "relatives": [
+      {
+        "word": "varṣá",
+        "relation": "eş köken"
+      },
+      {
+        "word": "vār-",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "baran maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/baran"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "baran",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tevsen",
+    "word": "tevsen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "tevsen",
+        "meaning": "söz dinlemeyen, dikbaşlı at",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tevsen",
+        "meaning": "söz dinlemeyen, dikbaşlı at",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Söz dinlemeyen, dikbaşlı at.",
+    "currentMeaning": "İdare edilmesi güç, başına buyruk davranan at.",
+    "story": "Farsça tevsenin merkezinde yönetilmeye direnen bir at vardır. Türkçe sözcüğü alırken bu somut hayvan tasvirini de taşıdı; tevsen, dikbaşlılığıyla öne çıkan atın adı oldu.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "tevsen maddesi",
+        "url": "https://lugatim.com/s/tevsen"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "berceste",
+    "word": "berceste",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "castan",
+        "meaning": "sıçramak, seğirmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "barcastan",
+        "meaning": "yukarı doğru sıçramak, kalkmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "barcasta",
+        "meaning": "kabarıp yükselen, sıçrayan; mecazen öne çıkan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "berceste",
+        "meaning": "yüksek değer taşıyan",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yüksek değer taşıyan.",
+    "currentMeaning": "Değeriyle öne çıkan, üstün nitelikli.",
+    "story": "Bercestenin geçmişinde yukarı sıçrama ve kabarıp yükselme hareketi vardır. Farsçada bu fiziksel yükseliş, başkalarının arasından öne çıkmayı anlatan bir mecaza dönüştü. Türkçedeki değerli ve seçkin olma düşüncesi de bu öne çıkışın devamıdır.",
+    "firstAttestation": {
+      "source": "Ahmed Vefik Paşa, Lehce-i Osmani",
+      "period": "1876",
+      "form": "berceste"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "berceste maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/berceste"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "berceste",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pirâhen",
+    "word": "pirâhen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "pīrāhen",
+        "meaning": "gömlek, içe giyilen gömlek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "pīrehen",
+        "meaning": "gömlek, içe giyilen gömlek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pirâhen",
+        "meaning": "gömlek, içe giyilen gömlek",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gömlek veya içe giyilen gömlek.",
+    "currentMeaning": "Gömleğe, özellikle iç gömleğine verilen eski ad.",
+    "story": "Farsçada pīrāhen ve onun değişmiş biçimi pīrehen, gömleği adlandırır. Türkçe bu giysi adını pirâhen olarak almış, bedene giyilen gömlekle olan bağını korumuştur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "pirâhen maddesi",
+        "url": "https://lugatim.com/s/pir%C3%A2hen"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bergüzar",
+    "word": "bergüzar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "guḏār",
+        "meaning": "yol, gidiş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "bar-guḏār",
+        "meaning": "yolculuğa çıkana verilen armağan veya yolluk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bergüzar",
+        "meaning": "hatıra",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hatıra.",
+    "currentMeaning": "Bir kişiyi veya yaşanmışlığı hatırlatan yadigâr.",
+    "story": "Bergüzarın Farsçadaki geçmişinde yol ve gidiş düşüncesi bulunur. Bu temelden oluşan bar-guḏār, yolcuya verilen armağanı ya da yolluğu adlandırır. Türkçede ağırlık yolculuktan geride kalan bağa kaymış, sözcük hatırayı yaşatan yadigârı karşılamıştır.",
+    "firstAttestation": {
+      "source": "Evliya Çelebi, Seyahatname",
+      "period": "1665",
+      "form": "bergüẕār"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bergüzar maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/berg%C3%BCzar"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bergüzar",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "perniyan",
+    "word": "perniyan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "perniyān",
+        "meaning": "değerli, işlemeli ipek kumaş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "perniyan",
+        "meaning": "işlemeli ipek kumaş veya ondan yapılmış giysi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İşlemeli ipek kumaş veya bu kumaştan yapılmış giysi.",
+    "currentMeaning": "Nakışla süslenmiş değerli ipekli kumaş, özellikle atlas; bu kumaşla dikilen elbise.",
+    "story": "Farsça perniyān, ipeğin değerini üzerindeki işlemeyle birleştiren bir kumaş adıdır. Türkçede perniyan denince hem bu süslü dokuma hem de onunla dikilen elbise anlaşılır. Böylece malzemenin adı, ortaya çıkan giysiyi de kapsar.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "perniyan maddesi",
+        "url": "https://lugatim.com/s/perniyan"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "berrin",
+    "word": "berrin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "berīn",
+        "meaning": "yüksek, yüce",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "berrin",
+        "meaning": "yüksek, yüce",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yüksek, yüce.",
+    "currentMeaning": "Yüksekte bulunan veya yücelik taşıyan.",
+    "story": "Farsça berīn, yüksekte bulunma ile yücelik düşüncesini bir arada taşır. Türkçede berrin biçimiyle yaşayan sözcükte de yükseklik, hem konumu hem üstün değeri anlatan bir nitelik olarak korunur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "berrîn maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "dilbeste",
+    "word": "dilbeste",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "dil-beste",
+        "meaning": "gönlünü bağlamış, âşık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dilbeste",
+        "meaning": "gönlünü bağlamış, âşık",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gönlünü bağlamış, âşık.",
+    "currentMeaning": "Birine gönül vermiş, ona sevgiyle bağlanmış olan.",
+    "story": "Dilbestenin Farsçadaki yapısında gönlü bildiren dil ile bağlı olmayı anlatan beste birleşir. Sevgi, burada gönlün bir yere bağlanması olarak resmedilir. Türkçe de bu resmi koruyarak dilbesteyi gönül vermiş kişi için kullanır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "dilbeste maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bihişt",
+    "word": "bihişt",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {
+        "language": "ae",
+        "form": "vaŋhya-",
+        "meaning": "iyi, güzel",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ae",
+        "form": "vahişta-",
+        "meaning": "en iyi, kusursuz; Zerdüşt inancında erdemli hayatın amacı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "pal",
+        "form": "wahişt",
+        "meaning": "en iyi, kusursuz; Zerdüşt inancında erdemli hayatın amacı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "bihişt",
+        "meaning": "cennet",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bihişt",
+        "meaning": "cennet",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Cennet.",
+    "currentMeaning": "Cenneti karşılayan eski bir ad.",
+    "story": "Bihiştin uzak geçmişinde Avestacanın iyi ve güzel kavramları vardır. Bunların en üstün derecesini bildiren vahişta-, Zerdüşt inancında erdemli yaşamın ulaşacağı hedefi de anlatmıştır. Orta Farsçadan Farsçaya taşınan bu en iyi olma düşüncesi cennetin adına dönüşmüş, Türkçe bihişti bu son anlamıyla almıştır.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "beist"
+    },
+    "relatives": [
+      {
+        "word": "bihter",
+        "relation": "akraba"
+      },
+      {
+        "word": "behzâd",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Bihiştin Avestacadaki en üstün derece biçimi, İngilizce best ile aynı yapıyı paylaşır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bihişt maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bihi%C5%9Ft"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bîkes",
+    "word": "bîkes",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "bīkes",
+        "meaning": "kimsesiz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bîkes",
+        "meaning": "kimsesiz",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kimsesiz.",
+    "currentMeaning": "Yakını veya dayanabileceği bir kimsesi bulunmayan.",
+    "story": "Farsça bīkes, yanında dayanacağı bir kimse bulunmayan kişiyi anlatır. Türkçeye bîkes olarak geçerken bu insan durumu değişmeden taşınmış, sözcük kimsesizliğin adı değil, kimsesiz kişinin niteliği olmuştur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bîkes",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bim",
+    "word": "bim",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "bīm",
+        "meaning": "korku",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bim",
+        "meaning": "korku",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Korku.",
+    "currentMeaning": "Korku duygusunu karşılayan eski bir ad.",
+    "story": "Farsça bīm, insanın korku duygusunu adlandırır. Türkçeye bim biçiminde geçerken dışarıdaki tehlikenin değil, onun insanda uyandırdığı duygunun adı olarak kalmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "bim maddesi",
+        "url": "https://lugatim.com/s/bim"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bimar",
+    "word": "bimar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "wemh₁-",
+        "meaning": "kusmak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "pal",
+        "form": "wēmār",
+        "meaning": "kusmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "bīmār",
+        "meaning": "hasta",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bimar",
+        "meaning": "hasta",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hasta.",
+    "currentMeaning": "Sağlığı bozulmuş, hastalığa tutulmuş olan.",
+    "story": "Bimarın en eski kökü, bedenin somut bir tepkisine, kusmaya uzanır. Orta Farsça üzerinden ilerleyen bu geçmiş, Farsça bīmārda genel olarak hasta olmayı anlatan bir sözcüğe ulaşır. Türkçe de bimar ile belirli bir belirtiyi değil, hastalık durumunu adlandırmıştır.",
+    "firstAttestation": {
+      "source": "Ahmedî, İskendernâme",
+      "period": "1400",
+      "form": "bīmār"
+    },
+    "relatives": [
+      {
+        "word": "bimarhane",
+        "relation": "birleşik"
+      },
+      {
+        "word": "bīvêr",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Tımarhane, hastane bildiren bimarhane adının halk dilinde değişmiş biçimidir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bimar maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bimar"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bizar",
+    "word": "bizar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "zarf",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "abēçār/abēzār",
+        "meaning": "bıkmış, usanmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "bīzār",
+        "meaning": "bıkmış, usanmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bizar",
+        "meaning": "tedirginlik ve bıkkınlık içinde",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Tedirginlik ve bıkkınlık içinde.",
+    "currentMeaning": "Bezmiş, usanmış veya huzursuz bir durumda.",
+    "story": "Orta Farsça abēçār ve abēzār biçimlerinden Farsça bīzāra uzanan sözcük, bir şeyden usanmış olmayı taşır. Türkçeye geçtiğinde de insanın artık katlanmak istemediği durumlardaki bezginliğini anlatmayı sürdürmüştür. Zarf olarak kullanıldığında bu bezginliği kişinin içinde bulunduğu hâle dönüştürür.",
+    "firstAttestation": {
+      "source": "Anonim, Mukaddimetü'l-Edeb tercümesi",
+      "period": "1300",
+      "form": "bīzār"
+    },
+    "relatives": [
+      {
+        "word": "bezar",
+        "relation": "akraba"
+      },
+      {
+        "word": "pezar",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bizar maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bizar"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bizar",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

@@ -1,0 +1,1614 @@
+[
+  {
+    "id": "meftun",
+    "word": "meftun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "fatana", "meaning": "yakmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maftūn", "meaning": "yanmış, baştan çıkarılmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meftun", "meaning": "birine veya bir şeye gönlünü kaptırmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birine veya bir şeye gönlünü kaptırmış.",
+    "currentMeaning": "Bir kimseye veya şeye güçlü bir tutkuyla bağlanmış, vurgun.",
+    "story": "Meftunun geçmişinde Arapça fatana fiilinin yakma eylemi bulunur. Bu fiilden oluşan maftūn, ateşin yaktığı kişiden baştan çıkarılmış kişiye uzanan bir anlam taşır. Türkçedeki kullanımda bu yanış, birine ya da bir şeye gönlünü kaptırmanın duygusal karşılığıdır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "meftūn"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "meftun maddesi", "url": "https://www.nisanyansozluk.com/kelime/meftun"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "meftun", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mecnun",
+    "word": "mecnun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "cinn", "meaning": "cin", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "cunna", "meaning": "cin çarpmasına uğramak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "macnūn", "meaning": "cin çarpmış sayılan, aklını yitirmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mecnun", "meaning": "aşk yüzünden kendinden geçmiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Aşk yüzünden kendinden geçmiş.",
+    "currentMeaning": "Sevdanın etkisiyle kendini kaybetmiş, davranışlarına hâkim olamaz duruma gelmiş.",
+    "story": "Arapça cinn adı, cin çarpmasını anlatan cunna fiiline ve ardından macnūn biçimine uzanır. Sözcüğün arkasında, aklını yitiren kişinin cinlerin etkisine girdiği düşüncesi vardır. Türkçede aşkın kişiyi kendinden geçirmesi öne çıkmış, mecnun sevdayla aklını başından yitiren kişiyi anlatmıştır.",
+    "firstAttestation": {"source": "Sultan Veled — Divan", "period": "<1321", "form": "mecnūn"},
+    "relatives": [{"word": "cin", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mecnun maddesi", "url": "https://www.nisanyansozluk.com/kelime/mecnun"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mecnun", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müştak",
+    "word": "müştak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şāḳa", "meaning": "istemek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muştāḳ", "meaning": "bir şeyi arzulayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müştak", "meaning": "kavuşmayı isteyen, özleyen", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birine veya bir şeye kavuşmayı özleyen.",
+    "currentMeaning": "Birini görmeyi veya bir şeye kavuşmayı içtenlikle arzulayan, özlem duyan.",
+    "story": "Arapça şāḳa fiilindeki isteme duygusu, muştāḳ biçiminde bir şeyi arzulayan kişinin niteliğine dönüşür. Türkçede müştak, özellikle görme ve kavuşma isteğini taşır. Sözcüğün merkezinde, henüz erişilemeyene yönelen özlem vardır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "muştāḳ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müştak2 maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BC%C5%9Ftak2"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mesrur",
+    "word": "mesrur",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sarra", "meaning": "sevinmek, gülmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "masrūr", "meaning": "sevinç duyan, neşelenmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mesrur", "meaning": "sevinç duyan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sevinç duyan, neşelenmiş.",
+    "currentMeaning": "İçi sevinçle dolmuş, neşeli ve mutlu.",
+    "story": "Mesrurun gerisindeki Arapça sarra fiili, sevinmeyi ve gülmeyi bir araya getirir. Masrūr biçimi, bu duyguyu yaşayan kişinin hâlini adlandırır. Türkçeye geçen mesrur da aynı bağı korur; içteki sevincin yüzde bir gülüşe dönüşebildiği durumu anlatır.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "mesrūr"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mesrur maddesi", "url": "https://www.nisanyansozluk.com/kelime/mesrur"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mesrur", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mübeşşir",
+    "word": "mübeşşir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mubeşşir", "meaning": "sevindirici haberi bildiren", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mübeşşir", "meaning": "sevindirici haberi getiren", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sevindirici bir haberi getiren.",
+    "currentMeaning": "İyi bir gelişmeyi haber vererek sevindiren, müjdeyi ulaştıran kimse.",
+    "story": "Arapça mubeşşir, iyi bir haberi başkasına ulaştıran kişiyi adlandırır. Türkçede mübeşşir olarak kullanılan sözcük, haber verme eyleminin sevinç yaratan yanını korur; getirdiği haberle karşısındakini mutlu eden kişiyi öne çıkarır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mübeşşir", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "müstenir",
+    "word": "müstenir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "istināre", "meaning": "ışıkla aydınlanmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mustenīr", "meaning": "ışık alarak aydınlanan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müstenir", "meaning": "bir kaynaktan aldığı ışıkla aydınlık olan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Aldığı ışıkla aydınlanan, parlak.",
+    "currentMeaning": "Başka bir şeyin ışığı veya nuru sayesinde aydınlık ve parlak hâle gelmiş.",
+    "story": "Arapça istināre, ışıkla aydınlanma durumunu anlatır; mustenīr bu aydınlanmayı yaşayanı niteler. Türkçedeki müstenirde de ışığını bir kaynaktan alma ilişkisi korunur. Sözcük, üzerine ışık düşerek görünür ve parlak hâle gelen bir şeyi düşündürür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "müstenir maddesi", "url": "https://lugatim.com/s/m%C3%BCstenir"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mücellâ",
+    "word": "mücellâ",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mucellā", "meaning": "cilalanarak parlatılmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mücellâ", "meaning": "yüzeyi cilayla parlatılmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüzeyi cilayla parlatılmış.",
+    "currentMeaning": "Cila uygulanarak yüzeyine parlaklık kazandırılmış.",
+    "story": "Arapça mucellā biçiminin Türkçedeki karşılığı, cilayla parlatılmış bir yüzeyin görünüşünü taşır. Mücellâ denilen şeyde parlaklık, yüzeye yapılan işlemin sonucudur; sözcük Türkçede bu somut görüntüyü korur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mücellâ", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "münevver",
+    "word": "münevver",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nūr", "meaning": "ışık", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "nawwara", "meaning": "ışıkla aydınlatmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "munawwar", "meaning": "ışıkla aydınlanmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "münevver", "meaning": "aydınlık; düşünce ve kültür bakımından gelişmiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Aydınlık; düşünce ve kültür bakımından gelişmiş.",
+    "currentMeaning": "Işıkla aydınlanmış; bilgi, kültür ve düşünce bakımından gelişmiş, aydın.",
+    "story": "Arapça nūr ile başlayan yol, aydınlatma eylemini bildiren nawwara üzerinden ışıkla aydınlanmış olanı anlatan munawwara ulaşır. Türkçede münevver önce bu ışıklı görünüşü taşırken daha sonra düşünce dünyası için de kullanılmıştır. Fransızca illuminé karşılığındaki kullanımın yaygınlaşmasıyla, fiziksel aydınlık insanın bilgi ve kültürle gelişmesini anlatan bir mecaza dönüşmüştür.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "münevver"},
+    "relatives": [{"word": "nur", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "münevver maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCnevver"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "münevver", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "munis",
+    "word": "munis",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "anasa", "meaning": "yakınlık göstermek, alışmak, evcilleşmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muˀnis", "meaning": "arkadaş, eşlik eden, evcilleşmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "munis", "meaning": "kendisine alışılmış olan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kendisine alışılmış olan.",
+    "currentMeaning": "Alışkanlık ve tanışıklık kazanılmış, artık yabancı gelmeyen.",
+    "story": "Arapça anasa fiili, dostça davranmayı, alışmayı ve evcilleşmeyi aynı anlam çevresinde buluşturur. Muˀnis biçimi de arkadaşlığı ve evcilliği bu yakınlık üzerinden taşır. Türkçedeki munis, bir zamanlar yabancı olanın alışıldık hâle gelmesini anlatan bu bağı sürdürür.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "mūnis"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "munis maddesi", "url": "https://www.nisanyansozluk.com/kelime/munis"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "munis", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "enis",
+    "word": "enis",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "uns", "meaning": "yakınlık kurmak, ülfet etmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "enīs", "meaning": "yakınlık duyulan arkadaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "enis", "meaning": "yakın dost, yoldaş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yakın dost, yoldaş.",
+    "currentMeaning": "Kendisiyle yakınlık kurulan, dostluk ve arkadaşlık edilen kimse.",
+    "story": "Arapça uns, birine alışıp onunla yakınlık kurma düşüncesini taşır. Bu temelden oluşan enīs, yakınlığın yöneldiği arkadaşı adlandırır. Türkçedeki enis de birlikte bulunmanın dostluğa dönüştüğü bu ilişkiyi korur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "enis maddesi", "url": "https://lugatim.com/s/enis"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nedim",
+    "word": "nedim",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nedīm", "meaning": "samimi arkadaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nedim", "meaning": "yakınlık duyulan dost", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yakınlık duyulan dost.",
+    "currentMeaning": "Kendisiyle samimi bir arkadaşlık ilişkisi kurulan kimse.",
+    "story": "Arapça nedīm, kişinin yakınında bulunan dostunu adlandıran bir sözcüktür. Türkçeye nedim biçiminde geçerken bu kişisel yakınlığı korur; birlikte olunan kişiyle kurulan samimi arkadaşlığı öne çıkarır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nedim", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şemim",
+    "word": "şemim",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şemm", "meaning": "koklamak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "şemīm", "meaning": "hoş koku", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şemim", "meaning": "hoşa giden koku", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hoşa giden koku.",
+    "currentMeaning": "Koklandığında hoş bir duyum uyandıran koku.",
+    "story": "Şemimin gerisinde Arapça şemm ile anlatılan koklama eylemi vardır. Şemīm biçiminde ad, bu eylemle duyulan hoş kokuya yönelir. Türkçedeki şemim de koklama duyusunun güzel bulduğu şeyi adlandırır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "şemim maddesi", "url": "https://lugatim.com/s/%C5%9Femim"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "habip",
+    "word": "habip",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥabba", "meaning": "sevmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥabīb", "meaning": "sevilen kişi, yakın arkadaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "habip", "meaning": "sevgiyle bağlanılan kimse", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sevgiyle bağlanılan kimse.",
+    "currentMeaning": "Kendisine sevgi duyulan, gönülden bağlanılan kişi.",
+    "story": "Arapça ḥabba fiilinin anlattığı sevme eylemi, ḥabīb biçiminde sevginin yöneldiği kişiye dönüşür. Bu kişi hem sevgili hem dost olabilir. Türkçedeki habip, aynı duygusal bağı sevilen kimsenin adı olarak sürdürür.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "ḥabīb"},
+    "relatives": [{"word": "mahbup", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "habip maddesi", "url": "https://www.nisanyansozluk.com/kelime/habip"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "habip", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mahbup",
+    "word": "mahbup",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥabba", "meaning": "sevmek, dostluk kurmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maḥbūb", "meaning": "kendisine sevgi duyulan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mahbup", "meaning": "kendisine sevgi duyulan erkek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kendisine sevgi duyulan erkek.",
+    "currentMeaning": "Sevgi beslenen, sevgili olarak görülen erkek.",
+    "story": "Arapça ḥabba, sevmeyi ve dostluk kurmayı anlatırken maḥbūb bu sevginin yöneldiği kişiyi öne çıkarır. Sözcük Türkçede de sevilen kişiyi adlandırmış, bugünkü anlamında erkek sevgiliye özgü bir kullanım kazanmıştır. Böylece sevgi bağı korunurken işaret edilen kişinin kapsamı daralmıştır.",
+    "firstAttestation": {"source": "Anonim — Nehcü'l-Feradis", "period": "1358", "form": "maḥbūb"},
+    "relatives": [{"word": "habip", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mahbup maddesi", "url": "https://www.nisanyansozluk.com/kelime/mahbup"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mahbup", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "lücce",
+    "word": "lücce",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "lucce", "meaning": "uçsuz bucaksız deniz", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lücce", "meaning": "engin su kütlesi, büyük deniz", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Uçsuz bucaksız deniz.",
+    "currentMeaning": "Çok geniş bir alana yayılan engin deniz, okyanus.",
+    "story": "Arapça lucce, denizi enginliğiyle adlandıran bir sözcüktür. Türkçedeki lücce de aynı genişlik duygusunu korur; gözün önünde uzayıp giden büyük su kütlesini anlatır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "lücce maddesi", "url": "https://lugatim.com/s/l%C3%BCcce"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mahzuz",
+    "word": "mahzuz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥaẓẓa", "meaning": "mutlu olmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maḥẓūẓ", "meaning": "hoşnutluk duymuş, mutlu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mahzuz", "meaning": "bir şeyden zevk almış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyden zevk almış, hoşnut kalmış.",
+    "currentMeaning": "Yaşadığı veya karşılaştığı bir şeyden hoşlanmış, haz ve memnuniyet duymuş.",
+    "story": "Arapça ḥaẓẓa fiilindeki mutluluk hâli, maḥẓūẓ biçiminde haz duymuş kişinin niteliği olur. Türkçedeki mahzuz, bu duyguyu bir şeyden hoşlanma ve zevk alma üzerinden sürdürür. Sözcük, hoş bir deneyimin kişide bıraktığı memnuniyeti öne çıkarır.",
+    "firstAttestation": {"source": "Anonim — Ferec ba'd eş-şidde", "period": "1451", "form": "maḥẓūẓ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mahzuz maddesi", "url": "https://www.nisanyansozluk.com/kelime/mahzuz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mahzuz", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meyus",
+    "word": "meyus",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "yaˀisa", "meaning": "umudunu yitirmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maˀyūs", "meaning": "umudu kalmamış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meyus", "meaning": "üzüntü duyan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Üzüntü duyan, kederli.",
+    "currentMeaning": "Üzüntüye kapılmış, keder duyan.",
+    "story": "Arapça yaˀisa, bir beklentiden umudu kesme eylemini anlatır; maˀyūs bu umutsuzluğun içindeki kişiyi niteler. Türkçede sözcüğün eski kullanımında da beklenenin gerçekleşeceğine inancı yitirme vardır. Bugünkü meyus, bu kaybın duygusal sonucunu öne çıkararak üzgün kişiyi anlatır.",
+    "firstAttestation": {"source": "Seydi Ali Reis — Miratü'l-Memalik", "period": "1557", "form": "meyˀūs"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "meyus maddesi", "url": "https://www.nisanyansozluk.com/kelime/meyus"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "meyus", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mebhut",
+    "word": "mebhut",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "beht", "meaning": "şaşırtmak; hayrete düşmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mebhūt", "meaning": "hayrete kapılmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mebhut", "meaning": "şaşkınlık veya hayranlık içinde kalmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Şaşkınlık veya hayranlık içinde kalmış.",
+    "currentMeaning": "Karşılaştığı şey nedeniyle hayrete kapılmış, şaşırmış veya hayran kalmış.",
+    "story": "Arapça beht, hem şaşırtmayı hem şaşırmayı kapsar; mebhūt bu etkinin altında kalan kişiyi anlatır. Türkçedeki mebhut da karşılaşılan şeyin kişide uyandırdığı yoğun hayreti korur. Bu hayret, şaşkınlıkla birlikte hayranlık da taşıyabilir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "mebhut maddesi", "url": "https://lugatim.com/s/mebhut"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "medhuş",
+    "word": "medhuş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "dehş", "meaning": "şaşkına uğratmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "medhūş", "meaning": "korkuyla şaşkına dönmüş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "medhuş", "meaning": "korkuya kapılıp şaşırmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Korkuya kapılıp şaşkına dönmüş.",
+    "currentMeaning": "Ürperti ve korkunun etkisiyle şaşırmış, dehşet içinde kalmış.",
+    "story": "Arapça dehş, birini şaşkına uğratma eylemini taşır. Medhūş biçimi, bu sarsıcı etkinin altında kalan kişiye yönelir. Türkçedeki medhuşta şaşkınlığa korku da eşlik eder; kişi gördüğü veya yaşadığı şey karşısında ürkmüştür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "medhuş maddesi", "url": "https://lugatim.com/s/medhu%C5%9F"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "muvahhiş",
+    "word": "muvahhiş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "tevḥīş", "meaning": "korkutup ürkütmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muvaḥḥiş", "meaning": "ürkmesine yol açan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "muvahhiş", "meaning": "korku uyandıran, ürküten", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Korku uyandıran, ürküten.",
+    "currentMeaning": "İnsanda korku ve ürperti uyandıran, dehşet duygusu yaratan.",
+    "story": "Arapça tevḥīş, birini ürkütme eylemini anlatır; muvaḥḥiş bu ürküntüye yol açanı niteler. Türkçede muvahhiş, karşılaşan kişide korku uyandıran şeyin özelliği olarak kullanılır. Sözcüğün anlamı, ürkütme eyleminden o etkiyi yaratan varlığa veya duruma uzanır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "muvahhiş maddesi", "url": "https://lugatim.com/s/muvahhi%C5%9F"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09add-5573-7c23-b75c-5da462769637
+--------
+user
+# Köken — Üretim Prompt'u (v13)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. Bazı satırlarda ayrıca `ipucu anlam` bulunur; o da
+hangi sözcüğün kastedildiğini göstermek içindir, **kanıt değildir**: kaynakla
+çelişirse kaynağı esas al, `currentMeaning` ve `shortMeaning` alanlarını
+kaynaktan yaz, ipucu anlamı kopyalama. `rarity` ise kesin veridir: satırda ne
+yazıyorsa `rarity` alanına **aynen** onu yaz.
+
+1. meftun — ipucu: ar — rarity: az-bilinen — ipucu anlam: gönül vermiş, büyülenmiş
+2. mecnun — ipucu: ar — rarity: az-bilinen — ipucu anlam: çılgınca seven; aklını yitirmiş
+3. müştak — ipucu: ar — rarity: az-bilinen — ipucu anlam: özlem duyan
+4. mesrur — ipucu: ar — rarity: az-bilinen — ipucu anlam: sevinçli
+5. mübeşşir — ipucu: ar — rarity: az-bilinen — ipucu anlam: müjdeleyici
+6. müstenir — ipucu: ar — rarity: az-bilinen — ipucu anlam: aydınlanmış, ışık almış
+7. mücellâ — ipucu: ar — rarity: az-bilinen — ipucu anlam: parlatılmış, cilalı
+8. münevver — ipucu: ar — rarity: az-bilinen — ipucu anlam: aydınlık; aydın
+9. munis — ipucu: ar — rarity: az-bilinen — ipucu anlam: cana yakın, uysal
+10. enis — ipucu: ar — rarity: az-bilinen — ipucu anlam: dost, yoldaş
+11. nedim — ipucu: ar — rarity: az-bilinen — ipucu anlam: sohbet arkadaşı
+12. şemim — ipucu: ar — rarity: az-bilinen — ipucu anlam: güzel koku
+13. habip — ipucu: ar — rarity: az-bilinen — ipucu anlam: sevilen kimse
+14. mahbup — ipucu: ar — rarity: az-bilinen — ipucu anlam: sevgili
+15. lücce — ipucu: ar — rarity: az-bilinen — ipucu anlam: engin su, denizin derin yeri
+16. mahzuz — ipucu: ar — rarity: az-bilinen — ipucu anlam: hoşlanmış, memnun
+17. meyus — ipucu: ar — rarity: az-bilinen — ipucu anlam: ümitsiz
+18. mebhut — ipucu: ar — rarity: az-bilinen — ipucu anlam: şaşkınlıktan donakalmış
+19. medhuş — ipucu: ar — rarity: az-bilinen — ipucu anlam: dehşete düşmüş
+20. muvahhiş — ipucu: ar — rarity: az-bilinen — ipucu anlam: ürkütücü, korku verici
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve
+gerektiğinde Kubbealtı Lugatı kayıtlarının özeti verilmiştir. **Bu özetler
+esastır.** Kubbealtı bölümü varsa (ilk iki kaynakta madde yoksa gelir) köken
+satırındaki dil kısaltması (`Fars.`, `Ar.`) `donorLanguage` için esastır ve
+kaynak şöyle yazılır:
+`{"name": "Kubbealtı Lugatı", "ref": "<kelime> maddesi", "url": "<verilen bağlantı>"}`.
+
+### meftun
+
+**Nişanyan — meftun**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › fatana › yaktı  [türeme]
+- Arapça › maftūn › yanmış, baştan çıkmış  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > aḳlı meftūn göŋli dar
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/meftun
+
+**TDK** — köken kaydı: Arapça meftūn · anlam: ► vurgun
+
+### mecnun
+
+**Nişanyan — mecnun**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › cinn  [türeme]
+- Arapça › cunna › cin çarptı  [türeme]
+- Arapça › macnūn › deli, cin çarpmış  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1321, Sultan Veled — Divan
+  > Sen Leylīyi görenlerüŋ mecnūn olub kalanlaruŋ / Gendözinden varanlaruŋ kimse hālin bilmez imiş.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/mecnun
+
+**TDK** — köken kaydı: Arapça mecnūn · anlam: Sevdadan ötürü kendini kaybetmiş
+
+### müştak
+
+**Nişanyan — müştak**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › aştaḳḳa › (kelime) türetti  [türeme]
+- Arapça › muştaḳḳ › iştikak olunan, (etimolojide) türemiş  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1477, Lugat-i Halimi
+  > āmīz [Fa.]: āmīḫten lafẓından müştaḳdur, karışuk maˁnāsına.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BC%C5%9Ftak
+
+**Nişanyan — müştak2**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › şāḳa › istedi  [türeme]
+- Arapça › muştāḳ › arzulayan, isteyen  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > Çalap dīdārınuŋ muştāḳıdır [tanrının cemalini özler]
+- 1680, Meninski — Thesaurus
+  > müştāk: Desiderio affectus, qui desiderat, cupidus, avidus videndi.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BC%C5%9Ftak2
+
+**TDK** — köken kaydı: Arapça muştaḳḳ · anlam: ► kökteş
+
+### mesrur
+
+**Nişanyan — mesrur**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › sarra › sevindi, güldü  [türeme]
+- Arapça › masrūr › neşeli, sevinçli  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1360, anon. — Danişmend-Name
+  > Seni manṣūr ide mesrūr ol ilāh
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/mesrur
+
+**TDK** — köken kaydı: Arapça mesrūr · anlam: ► sevinçli
+
+### mübeşşir
+
+**TDK** — köken kaydı: Arapça mubeşşir · anlam: Muştu veren, müjde getiren (kimse)
+
+### müstenir
+
+**Kubbealtı Lugatı — MÜSTENİR**
+
+Köken satırı: Ar. istināre “nurlanmak, aydın olmak”tan mustenіr
+
+İlk anlam: Bir şeyin ışığı ile aydınlanan, nûru ile nurlanan, ışıklı, parlak
+
+Bağlantı: https://lugatim.com/s/m%C3%BCstenir
+
+### mücellâ
+
+**TDK** — köken kaydı: Arapça mucellā · anlam: ► cilalı
+
+### münevver
+
+**Nişanyan — münevver**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › nūr › ışık  [türeme]
+- Arapça › nawwara › aydınlattı  [türeme]
+- Arapça › munawwar › aydınlık, ışıklı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > ˁālem anıŋ nūrı birle münevver bolğay [onun ışığı ile aydınlık ola].
+- 1896, Servet-i Fünun - dergi
+  > Pek vicdanlı, münevver fikirli çocuk. Ne büyük hizmetler edecek, ne şanlı insan olacak!
+
+Not: Fr illuminé karşılığı olan ikinci anlamı 1910 dolayında yaygın kullanıma girmiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/m%C3%BCnevver
+
+**TDK** — köken kaydı: Arapça munevver · anlam: ► aydın
+
+### munis
+
+**Nişanyan — munis**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › anasa › dostça davrandı, alıştı, evcilleşti  [türeme]
+- Arapça › muˀnis › dost, yoldaş, evcil  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > ḥūr u ġılmān mūnis ü köşk ü durak
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > mūnis: Alışık, alūf, ünsiyetli.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/munis
+
+**TDK** — köken kaydı: Arapça mūnis · anlam: Alışılan, alışılmış
+
+### enis
+
+**Kubbealtı Lugatı — ENİS**
+
+Köken satırı: Ar. uns “ülfet etmek”ten enіs
+
+İlk anlam: Dost, arkadaş, yâr, hemdem
+
+Bağlantı: https://lugatim.com/s/enis
+
+### nedim
+
+**TDK** — köken kaydı: Arapça nedīm · anlam: Arkadaş, yakın dost
+
+### şemim
+
+**Kubbealtı Lugatı — ŞEMİM**
+
+Köken satırı: Ar. şemm “koklamak”tan şemіm
+
+İlk anlam: Güzel koku
+
+Bağlantı: https://lugatim.com/s/%C5%9Femim
+
+### habip
+
+**Nişanyan — habip**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ḥabba › sevdi  [türeme]
+- Arapça › ḥabīb › sevgili, dost  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1069, Yusuf Hacib — Kutadgu Bilig
+  > ḥabīb savçı ḥaḳḳī üçün sev, adaş [(Allah'ın) sevdiği elçi hakkı için sev, kardeş]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/habip
+
+**TDK** — köken kaydı: Arapça ḥabīb · anlam: ► sevgili
+
+### mahbup
+
+**Nişanyan — mahbup**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ḥabba › sevdi, dost oldu  [türeme]
+- Arapça › maḥbūb › sevilen, sevgili  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1358, anon. — Nehcü'l-Feradis
+  > Taŋrı te'ālanıŋ maḥbūbını sewmek Taŋrı te'ālanı sewmek bolur.
+- 1429, Ahmed b. Kadı-i Manyas — Gülistan terc.
+  > Genç maḥbūbeye kuvvet gerekdür.
+- 1546, Latifî — Tezkîretü'ş-Şuarâ
+  > ısḳāṭ-ı ṣalātdan ḥāṣıl olan derāmedi maḥbūba virenlerden ve öli ḥelvāsıyla oġlan sevenlerden idi
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/mahbup
+
+**TDK** — köken kaydı: Arapça maḥbūb · anlam: Sevilen erkek
+
+### lücce
+
+**Kubbealtı Lugatı — LÜCCE**
+
+Köken satırı: Ar. lucce
+
+İlk anlam: Engin deniz, umman
+
+Bağlantı: https://lugatim.com/s/l%C3%BCcce
+
+### mahzuz
+
+**Nişanyan — mahzuz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › ḥaẓẓa › bahtiyar idi  [türeme]
+- Arapça › maḥẓūẓ › haz almış, bahtiyar  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1451, anon. — Ferec ba'd eş-şidde
+  > Eger padeşah kereminden bendesini nazar-ı şefḳat-ıla melhūz ve mahzūz ederse
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/mahzuz
+
+**TDK** — köken kaydı: Arapça maḥẓūẓ · anlam: Haz duymuş, hoşlanmış
+
+### meyus
+
+**Nişanyan — meyus**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Arapça › yaˀisa › umut kesti, umutsuzluğa düştü  [türeme]
+- Arapça › maˀyūs › yeis eden, umutsuz  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1557, Seydi Ali Reis — Miratü'l-Memalik
+  > biż-żarūrī tevaḳḳuf olınup gitmekden mey'ūs olduk [umudu kestik]
+
+Not: Arapça eş anlamlı olan ˀays (ˀys) metatezle gelişmiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/meyus
+
+**TDK** — köken kaydı: Arapça meʾyūs · anlam: ► üzgün
+
+### mebhut
+
+**Kubbealtı Lugatı — MEBHUT**
+
+Köken satırı: Ar. beht “hayret ettirmek; şaşmak”tan mebhūt
+
+İlk anlam: Şaşmış, şaşırmış, hayrette kalmış, şaşkın, hayran, mütehayyir
+
+Bağlantı: https://lugatim.com/s/mebhut
+
+### medhuş
+
+**Kubbealtı Lugatı — MEDHUŞ**
+
+Köken satırı: Ar. dehş “şaşkına çevirmek”ten medhūş
+
+İlk anlam: Ürkmüş, şaşkınlık ve korku içinde kalmış, dehşete düşmüş
+
+Bağlantı: https://lugatim.com/s/medhu%C5%9F
+
+### muvahhiş
+
+**Kubbealtı Lugatı — MUVAHHİŞ**
+
+Köken satırı: Ar. tevḥіş “ürkütmek”ten muvaḥḥiş
+
+İlk anlam: Korku ve ürküntü veren, dehşete düşüren, ürkütücü
+
+Bağlantı: https://lugatim.com/s/muvahhi%C5%9F
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives` **her zaman dizidir**. Akraba kelime yoksa `null` değil `[]`
+  yaz. `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "meftun",
+    "word": "meftun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "fatana", "meaning": "yakmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maftūn", "meaning": "yanmış, baştan çıkarılmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meftun", "meaning": "birine veya bir şeye gönlünü kaptırmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birine veya bir şeye gönlünü kaptırmış.",
+    "currentMeaning": "Bir kimseye veya şeye güçlü bir tutkuyla bağlanmış, vurgun.",
+    "story": "Meftunun geçmişinde Arapça fatana fiilinin yakma eylemi bulunur. Bu fiilden oluşan maftūn, ateşin yaktığı kişiden baştan çıkarılmış kişiye uzanan bir anlam taşır. Türkçedeki kullanımda bu yanış, birine ya da bir şeye gönlünü kaptırmanın duygusal karşılığıdır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "meftūn"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "meftun maddesi", "url": "https://www.nisanyansozluk.com/kelime/meftun"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "meftun", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mecnun",
+    "word": "mecnun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "cinn", "meaning": "cin", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "cunna", "meaning": "cin çarpmasına uğramak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "macnūn", "meaning": "cin çarpmış sayılan, aklını yitirmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mecnun", "meaning": "aşk yüzünden kendinden geçmiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Aşk yüzünden kendinden geçmiş.",
+    "currentMeaning": "Sevdanın etkisiyle kendini kaybetmiş, davranışlarına hâkim olamaz duruma gelmiş.",
+    "story": "Arapça cinn adı, cin çarpmasını anlatan cunna fiiline ve ardından macnūn biçimine uzanır. Sözcüğün arkasında, aklını yitiren kişinin cinlerin etkisine girdiği düşüncesi vardır. Türkçede aşkın kişiyi kendinden geçirmesi öne çıkmış, mecnun sevdayla aklını başından yitiren kişiyi anlatmıştır.",
+    "firstAttestation": {"source": "Sultan Veled — Divan", "period": "<1321", "form": "mecnūn"},
+    "relatives": [{"word": "cin", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mecnun maddesi", "url": "https://www.nisanyansozluk.com/kelime/mecnun"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mecnun", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müştak",
+    "word": "müştak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şāḳa", "meaning": "istemek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muştāḳ", "meaning": "bir şeyi arzulayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müştak", "meaning": "kavuşmayı isteyen, özleyen", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birine veya bir şeye kavuşmayı özleyen.",
+    "currentMeaning": "Birini görmeyi veya bir şeye kavuşmayı içtenlikle arzulayan, özlem duyan.",
+    "story": "Arapça şāḳa fiilindeki isteme duygusu, muştāḳ biçiminde bir şeyi arzulayan kişinin niteliğine dönüşür. Türkçede müştak, özellikle görme ve kavuşma isteğini taşır. Sözcüğün merkezinde, henüz erişilemeyene yönelen özlem vardır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "muştāḳ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "müştak2 maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BC%C5%9Ftak2"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mesrur",
+    "word": "mesrur",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "sarra", "meaning": "sevinmek, gülmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "masrūr", "meaning": "sevinç duyan, neşelenmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mesrur", "meaning": "sevinç duyan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sevinç duyan, neşelenmiş.",
+    "currentMeaning": "İçi sevinçle dolmuş, neşeli ve mutlu.",
+    "story": "Mesrurun gerisindeki Arapça sarra fiili, sevinmeyi ve gülmeyi bir araya getirir. Masrūr biçimi, bu duyguyu yaşayan kişinin hâlini adlandırır. Türkçeye geçen mesrur da aynı bağı korur; içteki sevincin yüzde bir gülüşe dönüşebildiği durumu anlatır.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "mesrūr"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mesrur maddesi", "url": "https://www.nisanyansozluk.com/kelime/mesrur"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mesrur", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mübeşşir",
+    "word": "mübeşşir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mubeşşir", "meaning": "sevindirici haberi bildiren", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mübeşşir", "meaning": "sevindirici haberi getiren", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sevindirici bir haberi getiren.",
+    "currentMeaning": "İyi bir gelişmeyi haber vererek sevindiren, müjdeyi ulaştıran kimse.",
+    "story": "Arapça mubeşşir, iyi bir haberi başkasına ulaştıran kişiyi adlandırır. Türkçede mübeşşir olarak kullanılan sözcük, haber verme eyleminin sevinç yaratan yanını korur; getirdiği haberle karşısındakini mutlu eden kişiyi öne çıkarır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mübeşşir", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "müstenir",
+    "word": "müstenir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "istināre", "meaning": "ışıkla aydınlanmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mustenīr", "meaning": "ışık alarak aydınlanan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müstenir", "meaning": "bir kaynaktan aldığı ışıkla aydınlık olan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Aldığı ışıkla aydınlanan, parlak.",
+    "currentMeaning": "Başka bir şeyin ışığı veya nuru sayesinde aydınlık ve parlak hâle gelmiş.",
+    "story": "Arapça istināre, ışıkla aydınlanma durumunu anlatır; mustenīr bu aydınlanmayı yaşayanı niteler. Türkçedeki müstenirde de ışığını bir kaynaktan alma ilişkisi korunur. Sözcük, üzerine ışık düşerek görünür ve parlak hâle gelen bir şeyi düşündürür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "müstenir maddesi", "url": "https://lugatim.com/s/m%C3%BCstenir"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mücellâ",
+    "word": "mücellâ",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "mucellā", "meaning": "cilalanarak parlatılmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mücellâ", "meaning": "yüzeyi cilayla parlatılmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yüzeyi cilayla parlatılmış.",
+    "currentMeaning": "Cila uygulanarak yüzeyine parlaklık kazandırılmış.",
+    "story": "Arapça mucellā biçiminin Türkçedeki karşılığı, cilayla parlatılmış bir yüzeyin görünüşünü taşır. Mücellâ denilen şeyde parlaklık, yüzeye yapılan işlemin sonucudur; sözcük Türkçede bu somut görüntüyü korur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mücellâ", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "münevver",
+    "word": "münevver",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nūr", "meaning": "ışık", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "nawwara", "meaning": "ışıkla aydınlatmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "munawwar", "meaning": "ışıkla aydınlanmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "münevver", "meaning": "aydınlık; düşünce ve kültür bakımından gelişmiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Aydınlık; düşünce ve kültür bakımından gelişmiş.",
+    "currentMeaning": "Işıkla aydınlanmış; bilgi, kültür ve düşünce bakımından gelişmiş, aydın.",
+    "story": "Arapça nūr ile başlayan yol, aydınlatma eylemini bildiren nawwara üzerinden ışıkla aydınlanmış olanı anlatan munawwara ulaşır. Türkçede münevver önce bu ışıklı görünüşü taşırken daha sonra düşünce dünyası için de kullanılmıştır. Fransızca illuminé karşılığındaki kullanımın yaygınlaşmasıyla, fiziksel aydınlık insanın bilgi ve kültürle gelişmesini anlatan bir mecaza dönüşmüştür.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "münevver"},
+    "relatives": [{"word": "nur", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "münevver maddesi", "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCnevver"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "münevver", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "munis",
+    "word": "munis",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "anasa", "meaning": "yakınlık göstermek, alışmak, evcilleşmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muˀnis", "meaning": "arkadaş, eşlik eden, evcilleşmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "munis", "meaning": "kendisine alışılmış olan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kendisine alışılmış olan.",
+    "currentMeaning": "Alışkanlık ve tanışıklık kazanılmış, artık yabancı gelmeyen.",
+    "story": "Arapça anasa fiili, dostça davranmayı, alışmayı ve evcilleşmeyi aynı anlam çevresinde buluşturur. Muˀnis biçimi de arkadaşlığı ve evcilliği bu yakınlık üzerinden taşır. Türkçedeki munis, bir zamanlar yabancı olanın alışıldık hâle gelmesini anlatan bu bağı sürdürür.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "mūnis"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "munis maddesi", "url": "https://www.nisanyansozluk.com/kelime/munis"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "munis", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "enis",
+    "word": "enis",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "uns", "meaning": "yakınlık kurmak, ülfet etmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "enīs", "meaning": "yakınlık duyulan arkadaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "enis", "meaning": "yakın dost, yoldaş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yakın dost, yoldaş.",
+    "currentMeaning": "Kendisiyle yakınlık kurulan, dostluk ve arkadaşlık edilen kimse.",
+    "story": "Arapça uns, birine alışıp onunla yakınlık kurma düşüncesini taşır. Bu temelden oluşan enīs, yakınlığın yöneldiği arkadaşı adlandırır. Türkçedeki enis de birlikte bulunmanın dostluğa dönüştüğü bu ilişkiyi korur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "enis maddesi", "url": "https://lugatim.com/s/enis"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nedim",
+    "word": "nedim",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "nedīm", "meaning": "samimi arkadaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nedim", "meaning": "yakınlık duyulan dost", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yakınlık duyulan dost.",
+    "currentMeaning": "Kendisiyle samimi bir arkadaşlık ilişkisi kurulan kimse.",
+    "story": "Arapça nedīm, kişinin yakınında bulunan dostunu adlandıran bir sözcüktür. Türkçeye nedim biçiminde geçerken bu kişisel yakınlığı korur; birlikte olunan kişiyle kurulan samimi arkadaşlığı öne çıkarır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nedim", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şemim",
+    "word": "şemim",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "şemm", "meaning": "koklamak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "şemīm", "meaning": "hoş koku", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şemim", "meaning": "hoşa giden koku", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hoşa giden koku.",
+    "currentMeaning": "Koklandığında hoş bir duyum uyandıran koku.",
+    "story": "Şemimin gerisinde Arapça şemm ile anlatılan koklama eylemi vardır. Şemīm biçiminde ad, bu eylemle duyulan hoş kokuya yönelir. Türkçedeki şemim de koklama duyusunun güzel bulduğu şeyi adlandırır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "şemim maddesi", "url": "https://lugatim.com/s/%C5%9Femim"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "habip",
+    "word": "habip",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥabba", "meaning": "sevmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ḥabīb", "meaning": "sevilen kişi, yakın arkadaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "habip", "meaning": "sevgiyle bağlanılan kimse", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sevgiyle bağlanılan kimse.",
+    "currentMeaning": "Kendisine sevgi duyulan, gönülden bağlanılan kişi.",
+    "story": "Arapça ḥabba fiilinin anlattığı sevme eylemi, ḥabīb biçiminde sevginin yöneldiği kişiye dönüşür. Bu kişi hem sevgili hem dost olabilir. Türkçedeki habip, aynı duygusal bağı sevilen kimsenin adı olarak sürdürür.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "ḥabīb"},
+    "relatives": [{"word": "mahbup", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "habip maddesi", "url": "https://www.nisanyansozluk.com/kelime/habip"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "habip", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mahbup",
+    "word": "mahbup",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥabba", "meaning": "sevmek, dostluk kurmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maḥbūb", "meaning": "kendisine sevgi duyulan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mahbup", "meaning": "kendisine sevgi duyulan erkek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kendisine sevgi duyulan erkek.",
+    "currentMeaning": "Sevgi beslenen, sevgili olarak görülen erkek.",
+    "story": "Arapça ḥabba, sevmeyi ve dostluk kurmayı anlatırken maḥbūb bu sevginin yöneldiği kişiyi öne çıkarır. Sözcük Türkçede de sevilen kişiyi adlandırmış, bugünkü anlamında erkek sevgiliye özgü bir kullanım kazanmıştır. Böylece sevgi bağı korunurken işaret edilen kişinin kapsamı daralmıştır.",
+    "firstAttestation": {"source": "Anonim — Nehcü'l-Feradis", "period": "1358", "form": "maḥbūb"},
+    "relatives": [{"word": "habip", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mahbup maddesi", "url": "https://www.nisanyansozluk.com/kelime/mahbup"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mahbup", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "lücce",
+    "word": "lücce",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "lucce", "meaning": "uçsuz bucaksız deniz", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lücce", "meaning": "engin su kütlesi, büyük deniz", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Uçsuz bucaksız deniz.",
+    "currentMeaning": "Çok geniş bir alana yayılan engin deniz, okyanus.",
+    "story": "Arapça lucce, denizi enginliğiyle adlandıran bir sözcüktür. Türkçedeki lücce de aynı genişlik duygusunu korur; gözün önünde uzayıp giden büyük su kütlesini anlatır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "lücce maddesi", "url": "https://lugatim.com/s/l%C3%BCcce"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mahzuz",
+    "word": "mahzuz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥaẓẓa", "meaning": "mutlu olmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maḥẓūẓ", "meaning": "hoşnutluk duymuş, mutlu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mahzuz", "meaning": "bir şeyden zevk almış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyden zevk almış, hoşnut kalmış.",
+    "currentMeaning": "Yaşadığı veya karşılaştığı bir şeyden hoşlanmış, haz ve memnuniyet duymuş.",
+    "story": "Arapça ḥaẓẓa fiilindeki mutluluk hâli, maḥẓūẓ biçiminde haz duymuş kişinin niteliği olur. Türkçedeki mahzuz, bu duyguyu bir şeyden hoşlanma ve zevk alma üzerinden sürdürür. Sözcük, hoş bir deneyimin kişide bıraktığı memnuniyeti öne çıkarır.",
+    "firstAttestation": {"source": "Anonim — Ferec ba'd eş-şidde", "period": "1451", "form": "maḥẓūẓ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mahzuz maddesi", "url": "https://www.nisanyansozluk.com/kelime/mahzuz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mahzuz", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meyus",
+    "word": "meyus",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "yaˀisa", "meaning": "umudunu yitirmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "maˀyūs", "meaning": "umudu kalmamış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meyus", "meaning": "üzüntü duyan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Üzüntü duyan, kederli.",
+    "currentMeaning": "Üzüntüye kapılmış, keder duyan.",
+    "story": "Arapça yaˀisa, bir beklentiden umudu kesme eylemini anlatır; maˀyūs bu umutsuzluğun içindeki kişiyi niteler. Türkçede sözcüğün eski kullanımında da beklenenin gerçekleşeceğine inancı yitirme vardır. Bugünkü meyus, bu kaybın duygusal sonucunu öne çıkararak üzgün kişiyi anlatır.",
+    "firstAttestation": {"source": "Seydi Ali Reis — Miratü'l-Memalik", "period": "1557", "form": "meyˀūs"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "meyus maddesi", "url": "https://www.nisanyansozluk.com/kelime/meyus"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "meyus", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mebhut",
+    "word": "mebhut",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "beht", "meaning": "şaşırtmak; hayrete düşmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "mebhūt", "meaning": "hayrete kapılmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mebhut", "meaning": "şaşkınlık veya hayranlık içinde kalmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Şaşkınlık veya hayranlık içinde kalmış.",
+    "currentMeaning": "Karşılaştığı şey nedeniyle hayrete kapılmış, şaşırmış veya hayran kalmış.",
+    "story": "Arapça beht, hem şaşırtmayı hem şaşırmayı kapsar; mebhūt bu etkinin altında kalan kişiyi anlatır. Türkçedeki mebhut da karşılaşılan şeyin kişide uyandırdığı yoğun hayreti korur. Bu hayret, şaşkınlıkla birlikte hayranlık da taşıyabilir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "mebhut maddesi", "url": "https://lugatim.com/s/mebhut"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "medhuş",
+    "word": "medhuş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "dehş", "meaning": "şaşkına uğratmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "medhūş", "meaning": "korkuyla şaşkına dönmüş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "medhuş", "meaning": "korkuya kapılıp şaşırmış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Korkuya kapılıp şaşkına dönmüş.",
+    "currentMeaning": "Ürperti ve korkunun etkisiyle şaşırmış, dehşet içinde kalmış.",
+    "story": "Arapça dehş, birini şaşkına uğratma eylemini taşır. Medhūş biçimi, bu sarsıcı etkinin altında kalan kişiye yönelir. Türkçedeki medhuşta şaşkınlığa korku da eşlik eder; kişi gördüğü veya yaşadığı şey karşısında ürkmüştür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "medhuş maddesi", "url": "https://lugatim.com/s/medhu%C5%9F"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "muvahhiş",
+    "word": "muvahhiş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "tevḥīş", "meaning": "korkutup ürkütmek", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "muvaḥḥiş", "meaning": "ürkmesine yol açan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "muvahhiş", "meaning": "korku uyandıran, ürküten", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Korku uyandıran, ürküten.",
+    "currentMeaning": "İnsanda korku ve ürperti uyandıran, dehşet duygusu yaratan.",
+    "story": "Arapça tevḥīş, birini ürkütme eylemini anlatır; muvaḥḥiş bu ürküntüye yol açanı niteler. Türkçede muvahhiş, karşılaşan kişide korku uyandıran şeyin özelliği olarak kullanılır. Sözcüğün anlamı, ürkütme eyleminden o etkiyi yaratan varlığa veya duruma uzanır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "muvahhiş maddesi", "url": "https://lugatim.com/s/muvahhi%C5%9F"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+tokens used
+19,774

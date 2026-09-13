@@ -1,0 +1,1865 @@
+[
+  {
+    "id": "şal",
+    "word": "şal",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "şāl", "meaning": "Keşmir keçisinin yününden örtü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şal", "meaning": "Yünlü kumaş ve bundan yapılan örtü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İnce yünlü kumaş veya omuzlara alınan örtü.",
+    "currentMeaning": "Özel desenlerle dokunmuş ince yünlü kumaş veya omuzları örtmek için kullanılan kumaş parçası.",
+    "story": "Şalın geçmişinde Keşmir keçilerinin yününden yapılan örtüler vardır. Farsçadaki şāl adı Türkçeye geçerken hem dokumanın hem de ondan yapılan örtünün adı olmayı sürdürdü. Böylece belirli bir yün dokumasının adı, omuzlara alınan bir giyim parçasında yaşamaya devam etti.",
+    "firstAttestation": {"source": "Hayalî — Ravzatü'l-envâr", "period": "1449", "form": "şāl"},
+    "relatives": [
+      {"word": "shawl", "relation": "eş köken"},
+      {"word": "châle", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "İngilizce shawl ile Fransızca châle, aynı adı Urduca aracılığıyla almıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şal maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şal", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çorap",
+    "word": "çorap",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {"language": "akk", "form": "gurābu", "meaning": "İçine bir şey konulan torba veya kılıf", "period": null, "reconstructed": false},
+      {"language": "syc", "form": "gurbā/gərābā", "meaning": "Torba veya kılıf", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "cawrab/cūrāb", "meaning": "Torba; ayağı saran yumuşak deri kılıf", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çorap", "meaning": "Ayağa geçirilen örgü giyecek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Ayağı ve bacağın bir bölümünü saran örgü giyecek.",
+    "currentMeaning": "Pamuklu, yünlü veya başka ipliklerle örülen, ayağa geçirilerek giyilen giysi.",
+    "story": "Çorabın eski anlam dünyasında ayağa giyilen örgüden önce torba ve kılıf vardır. Süryanice biçimle bağlantılı Arapça cawrab, yumuşak deriden yapılmış bir ayak kılıfını da adlandırıyordu; Akkadca gurābu ise bu ailenin eski akrabasıdır. Bir şeyi içine alıp saran kılıf düşüncesi, ayağı saran giyecekte devam eder. Türkçeye geçişte doğrudan Arapçanın mı yoksa Farsçanın mı aracı olduğu konusunda kaynaklar ayrılır.",
+    "firstAttestation": {"source": "İrşadü'l-Mülûk ve's-Selâtîn", "period": "1387", "form": "curāb"},
+    "relatives": [
+      {"word": "kulbā", "relation": "eş köken"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Türkçe çorabı Arapça cawrab/cūrāb biçimine bağlar ve gerisinde Süryanice bağlantısını gösterir.",
+      "TDK Güncel Türkçe Sözlük, doğrudan kaynak olarak Farsça cūrāb biçimini verir."
+    ],
+    "funFact": "Ermenicedeki kulbā da aynı sözcüğün Süryaniceden alınmış bir koludur.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çorap maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7orap"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çorap", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "paça",
+    "word": "paça",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "pā", "meaning": "Ayak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "pāçag", "meaning": "Ayakçık", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pāça/pāyça", "meaning": "Küçük ayak; hayvan ayağı ve giysinin bacak bölümü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "paça", "meaning": "Giysinin bacak ucu; yemeklik hayvan ayağı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Pantolon gibi giysilerin bacakları çevreleyen alt bölümü.",
+    "currentMeaning": "Pantolon, şalvar ve benzeri giysilerin bacakların alt kısmını saran, ayakların çıktığı bölümü.",
+    "story": "Paçanın merkezinde Farsça pā, yani ayak bulunur. Bu adın küçültülmüş biçimi hem hayvanın ayağını hem de giysinin bacak bölümünü adlandırmıştır. Türkçede sofradaki paça ile pantolonun paçasının aynı adı taşıması, ayak çevresinde gelişen bu iki kullanımın devamıdır.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1400 öncesi", "form": "paça"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "paça maddesi", "url": "https://www.nisanyansozluk.com/kelime/pa%C3%A7a"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "paça", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pamuk",
+    "word": "pamuk",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "pal",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "bombúks", "meaning": "Koza", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "pambak/pambuk", "meaning": "İpek böceği kozası, pamuk kozası ve pamuk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pamuk", "meaning": "Lifleri dokumacılıkta kullanılan bitki ve onun lifleri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kozasından yumuşak beyaz lif elde edilen bitki.",
+    "currentMeaning": "Sıcak iklimlerde yetiştirilen, kozalarındaki liflerden iplik yapılan tarım bitkisi ve bu bitkinin lifleri.",
+    "story": "Pamuğun adında, liflerden önce onları içinde taşıyan koza öne çıkar. Orta Farsça pambak/pambuk hem ipek böceğinin kozasını hem pamuk kozasını ve pamuğu adlandırıyordu. Yunancada koza için kullanılan bombúks da bu adla eş kökenli olarak ilişkilendirilir; bu bağlantı doğrudan Yunancadan alınmış olduğunu göstermez. Türkçeye İran dil alanından ulaşan ad, bitkinin kendisiyle birlikte yumuşak liflerini de karşılamayı sürdürdü.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "bamuk"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pamuk maddesi", "url": "https://www.nisanyansozluk.com/kelime/pamuk"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pamuk", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "astar",
+    "word": "astar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ster-", "meaning": "Sermek, yaymak", "period": null, "reconstructed": true},
+      {"language": "ae", "form": "star-", "meaning": "Bir yüzeye sermek", "period": null, "reconstructed": false},
+      {"language": "sa", "form": "āstarana-", "meaning": "Yere serilen örtü", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "āstar", "meaning": "Serilen örtü, kaba dokuma ve iç kaplama", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "astar", "meaning": "Eşyanın iç yüzünü örten katman", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Giysi ve benzeri eşyaların iç yüzüne geçirilen ince kat.",
+    "currentMeaning": "Giysi, çanta, perde veya ayakkabı gibi eşyaların iç yüzünü kaplamak üzere kullanılan kumaş ya da deri katmanı.",
+    "story": "Astarın uzak geçmişinde bir şeyi yüzeye yayma ve serme eylemi vardır. Bu kök ailesinde Sanskritçe āstarana- yere serilen örtüyü, Farsça āstar ise yaygı ve kumaşı adlandırır; Sanskritçe biçim bir akrabalık halkasıdır. Türkçede eski örtü kullanımı zamanla giysinin ve eşyanın içini kaplayan kata odaklanmıştır. Yere serilen örtüyle ceketin içindeki kumaşı birleştiren düşünce, bir yüzeyi başka bir katla örtmektir.",
+    "firstAttestation": {"source": "İrşadü'l-Mülûk ve's-Selâtîn", "period": "1387", "form": "astār"},
+    "relatives": [
+      {"word": "gustar", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "astar maddesi", "url": "https://www.nisanyansozluk.com/kelime/astar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "astar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kemer",
+    "word": "kemer",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "kh₂em-", "meaning": "Bükmek, eğmek", "period": null, "reconstructed": true},
+      {"language": "peo", "form": "kamarā-", "meaning": "Eğrilmiş veya bükülmüş nesne", "period": null, "reconstructed": true},
+      {"language": "ae", "form": "kamarā-", "meaning": "Bele sarılan kuşak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "kamar", "meaning": "Kuşak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "kamar", "meaning": "Bel kuşağı; yapıda yay biçimli bölüm", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kemer", "meaning": "Bel bağı; mimaride kavisli taşıyıcı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Giysiyi tutmak veya süslemek için bele takılan bağ.",
+    "currentMeaning": "Bele dolanan ve çoğunlukla tokayla tutturulan deri, kumaş veya metal kuşak.",
+    "story": "Kemerin eski kökünde eğme ve bükme hareketi bulunur. İran dillerindeki kuşak adı, belin çevresinde kıvrılan bir nesneyi karşılar; Avestaca biçim de bu adın akrabasıdır. Farsçada aynı ad, yapıların kavisli bölümleri için de kullanılmıştır. Türkçedeki bel kemeri ile taş kemer, malzemeleri ayrı olsa da bu eğri biçimi paylaşır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "kemer"},
+    "relatives": [
+      {"word": "kamān", "relation": "akraba"},
+      {"word": "kámara", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Eski Yunancanın tonozlu oda için kullandığı kámara da Eski Farsçadan alınmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kemer maddesi", "url": "https://www.nisanyansozluk.com/kelime/kemer"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kemer", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tahta",
+    "word": "tahta",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "taḫt", "meaning": "Üzerine oturulan seki veya oturak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "taḫtag", "meaning": "Tabla biçiminde ağaç parçası", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "taḫta", "meaning": "Biçilerek düzleştirilmiş ağaç", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tahta", "meaning": "Düz ve yassı işlenmiş ağaç parçası", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kesilip düzleştirilmiş, yassı ağaç parçası.",
+    "currentMeaning": "Yapı, eşya ve başka işlerde kullanılmak üzere ağaçtan biçilmiş, düz yüzeyli ve görece ince parça.",
+    "story": "Tahtanın geçmişi, üzerine oturulan sekiyi ve oturağı adlandıran taḫt ile bağlantılıdır. Bu tabandan gelişen biçim, Farsçada biçilmiş düz ağaç parçasının adı olmuştur. Türkçe, sözcüğü bu işlenmiş malzeme anlamıyla aldı; oturma yüzeyiyle ağaç levhayı birbirine bağlayan düz tabla fikri adın geçmişinde kaldı.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "takta"},
+    "relatives": [
+      {"word": "taht", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tahta maddesi", "url": "https://www.nisanyansozluk.com/kelime/tahta"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tahta", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "köşe",
+    "word": "köşe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {"language": "ae", "form": "gaoşa-", "meaning": "Bucak, açı", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "gōşag", "meaning": "Bucak, açı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "gōşa", "meaning": "Köşe veya bucak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "köşe", "meaning": "Çizgilerin veya yüzeylerin birleştiği açılı yer", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İki çizginin veya yüzeyin birleştiği açılı yer.",
+    "currentMeaning": "Birbirini kesen çizgilerin veya birleşen yüzeylerin oluşturduğu açı ve bu açının bulunduğu yer.",
+    "story": "Köşe, Farsçadaki gōşa biçimiyle bir mekânın bucağını adlandırıyordu. Orta Farsça gōşag aynı mekânsal anlamı taşır; Avestaca gaoşa- da onun eski akrabasıdır. Türkçedeki eski gūşe biçiminden bugünkü köşeye uzanan değişimde sesler dönüşmüş, iki yüzeyin buluştuğu yer fikri korunmuştur.",
+    "firstAttestation": {"source": "Anonim — Tezkiretü'l-Evliya tercümesi", "period": "1341", "form": "gūşe"},
+    "relatives": [
+      {"word": "köşekapmaca", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "köşe maddesi", "url": "https://www.nisanyansozluk.com/kelime/k%C3%B6%C5%9Fe"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "köşe", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çadır",
+    "word": "çadır",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "sk̂ed-", "meaning": "Üzerini kapatmak, örtmek", "period": null, "reconstructed": true},
+      {"language": "sa", "form": "çhādayati", "meaning": "Örtmek", "period": null, "reconstructed": false},
+      {"language": "sa", "form": "çhattra", "meaning": "Gölge sağlayan örtü veya tente", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çādar/çādur", "meaning": "Gölgelik; bedeni örten örtü", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "çatır/çaşır", "meaning": "Örtüyle kurulan taşınabilir barınak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çadır", "meaning": "Direkler üzerinde örtü gerilerek kurulan barınak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir örtünün direklerle desteklenmesiyle kurulan taşınabilir barınak.",
+    "currentMeaning": "Kalın dokuma, keçe, deri veya sentetik örtünün direklerle desteklenip gerilmesiyle kurulan taşınabilir barınak.",
+    "story": "Çadırın anlam yolculuğunda temel nesne, insanın üzerine gerilen koruyucu örtüdür. İran dillerindeki çādar/çādur hem gölgelik hem de bedeni örten kumaş için kullanılmış, Eski Türkçedeki biçimler taşınabilir barınağı adlandırmıştır. Daha geride Sanskritçenin örtme eylemi ve gölgelik adıyla bağlantı kurulsa da bu eski geçişin ayrıntıları tartışmalıdır. Bugünkü çadır, örtünün desteklerle yükseltilip yaşanacak bir mekâna dönüştüğü anlamı sürdürür.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "çatır"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Sanskritçe çhattra ile İran dillerindeki çādar/çādur arasındaki eski bağlantıyı tartışmalı olarak işaretler.",
+      "Nişanyan Sözlük, Doerfer ve Clauson'un İran dili aracılığını, Cheung'un ise İran dilindeki biçim için Eski Hintçe kaynağını savunduğunu aktarır.",
+      "Nişanyan Sözlük, Eski Türkçe çat- fiilinden türetme önerisini ses ve yapı bakımından sorunlu bulur."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çadır maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7ad%C4%B1r"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çadır", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "terzi",
+    "word": "terzi",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "darzīk", "meaning": "Giysi diken kişi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "darz", "meaning": "Dikiş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "darzī", "meaning": "Dikiş işi yapan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "terzi", "meaning": "Giysi biçip diken kişi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Giysi biçen, diken ve onaran kişi.",
+    "currentMeaning": "Kumaşı ölçüye göre keserek giysi diken ve giysiler üzerinde düzeltme yapan meslek sahibi.",
+    "story": "Terzinin adı Farsçada dikişi karşılayan darz ile bağlantılıdır. Darzī, kumaş parçalarını dikişle birleştiren kişiyi adlandırır; meslek adının daha eski biçimi Orta Farsçada darzīk olarak bulunur. Türkçeye derzi biçiminde giren adın başındaki ses zamanla sertleşmiş, yapılan iş ise değişmeden kalmıştır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "derzi"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "terzi maddesi", "url": "https://www.nisanyansozluk.com/kelime/terzi"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "terzi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "balkon",
+    "word": "balkon",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "bʰelǵ-", "meaning": "Kalın ağaç gövdesi", "period": null, "reconstructed": true},
+      {"language": "de", "form": "balko", "meaning": "Yapıyı taşıyan ağaç kiriş", "period": "Eski Yüksek Almanca dönemi", "reconstructed": false},
+      {"language": "fr", "form": "balcon", "meaning": "Kirişle desteklenen yapı çıkması", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "balkon", "meaning": "Yapının dışında yer alan çevrili bölüm", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yapının dışa açılan, çevresi korkulukla çevrili bölümü.",
+    "currentMeaning": "Genellikle bina yüzeyinden dışarı uzanan, kenarları duvar veya korkulukla çevrilmiş kullanım alanı.",
+    "story": "Balkonun adının gerisinde, yapıyı taşıyan kalın bir ağaç kiriş bulunur. Eski Yüksek Almanca balko bu taşıyıcı parçayı adlandırırken Fransızca balcon, kirişin desteklediği ev çıkmasını karşılar. Türkçeye geçen ad böylece taşıyıcı malzemeden onun üzerinde oluşan mekâna uzanan anlamı taşır.",
+    "firstAttestation": {"source": "Düstur Tertip I.-IV.", "period": "1863", "form": "balkon"},
+    "relatives": [
+      {"word": "Balken", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "balkon maddesi", "url": "https://www.nisanyansozluk.com/kelime/balkon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "balkon", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "garaj",
+    "word": "garaj",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "garer/guarer", "meaning": "Koruma altında tutmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "garage", "meaning": "Taşıtı kapalı yerde tutma işi ve bunun yapıldığı yer", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "garaj", "meaning": "Taşıtların bırakıldığı kapalı yer", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Taşıtların konulduğu üstü kapalı yer.",
+    "currentMeaning": "Otomobil ve benzeri araçların park edilip korunduğu kapalı veya üstü örtülü alan.",
+    "story": "Garajın çıkış noktası bir bina değil, Fransızcada korumayı anlatan garer/guarer eylemidir. Bundan türeyen garage, tekneyi ya da başka bir taşıtı kapalı yerde tutma işini ve bu iş için ayrılan yeri adlandırmıştır. Türkçe, eylemden mekâna geçen bu adın araçlara ayrılmış yer anlamını benimsemiştir.",
+    "firstAttestation": {"source": "İlan-ı Ticaret", "period": "1920", "form": "Garaj"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "garaj maddesi", "url": "https://www.nisanyansozluk.com/kelime/garaj"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "garaj", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "apartman",
+    "word": "apartman",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "pars, part-", "meaning": "Bir bütünden ayrılan pay", "period": null, "reconstructed": false},
+      {"language": "la", "form": "appartire", "meaning": "Paylara ayırmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "appartimentum", "meaning": "Ayrılmış bölüm veya pay", "period": "Geç Latince dönemi", "reconstructed": false},
+      {"language": "fr", "form": "appartement", "meaning": "Konut içindeki bağımsız daire", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "apartman", "meaning": "Birden çok daire barındıran katlı bina", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birden çok bağımsız daire içeren katlı konut yapısı.",
+    "currentMeaning": "Katlarında ayrı konutlar bulunan, birden fazla hanenin yaşayabildiği çok katlı bina.",
+    "story": "Apartmanın uzak kökünde Latincedeki pay ve paylaştırma düşüncesi vardır. Ayrılmış bir bölümü adlandıran biçim, Fransızcada konut içindeki bağımsız daireye dönüşmüştür. Türkçede ise adın kapsamı genişleyerek tek daireden bu daireleri bir araya getiren yapının bütününe kaymıştır.",
+    "firstAttestation": {"source": "Ahmet Midhat — Felatun Bey ile Rakım Efendi", "period": "1876", "form": "apartman"},
+    "relatives": [
+      {"word": "apart-otel", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "apartman maddesi", "url": "https://www.nisanyansozluk.com/kelime/apartman"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "apartman", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "asansör",
+    "word": "asansör",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "scandere", "meaning": "Basamakları çıkarak yükselmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "adscendere", "meaning": "Yukarı çıkmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ascendre", "meaning": "Tırmanarak yükselmek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ascenseur", "meaning": "Mekanik olarak yukarı taşıyan araç", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "asansör", "meaning": "Katlar arasında insan veya yük taşıyan düzenek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İnsanları ve yükleri katlar arasında taşıyan mekanik araç.",
+    "currentMeaning": "Bir yapı içinde insanları veya yükleri farklı yükseklikler arasında çıkarıp indiren, çoğunlukla elektrikli taşıma düzeneği.",
+    "story": "Asansörün adının temelinde Latincede basamak çıkmayı anlatan scandere vardır. Yukarı çıkma eylemi Fransızcada ascendre biçimiyle sürmüş, ascenseur bu yükselme işini yapan mekanik aracı adlandırmıştır. Türkçe, insanın kendi adımlarıyla yaptığı hareketin bir makineye devredildiği bu adı almıştır.",
+    "firstAttestation": {"source": "Servet-i Fünun", "period": "1890", "form": "asansör"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "asansör maddesi", "url": "https://www.nisanyansozluk.com/kelime/asans%C3%B6r"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "asansör", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "salon",
+    "word": "salon",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "sel-", "meaning": null, "period": null, "reconstructed": true},
+      {"language": "it", "form": "sala", "meaning": "İnsanların toplandığı kapalı mekân", "period": null, "reconstructed": false},
+      {"language": "it", "form": "salone", "meaning": "Geniş oda", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "salon", "meaning": "Geniş oda, özellikle konuk kabul edilen oda", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "salon", "meaning": "Konuk ağırlanan geniş oda", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Evde oturmaya ve konuk ağırlamaya ayrılan geniş oda.",
+    "currentMeaning": "Bir konutta birlikte oturmak ve konukları ağırlamak için kullanılan, genellikle diğer odalardan geniş bölüm.",
+    "story": "Salonun geçmişinde, insanların kapalı bir yerde bir araya gelmesini karşılayan Germence bir ad bulunur. İtalyancaya ulaşan sala, salone biçimiyle büyük bir odayı adlandırmış; Fransızca salon ise özellikle konuk kabul edilen odayla özdeşleşmiştir. Türkçede de evin insanları bir araya getiren geniş odası bu adı taşır.",
+    "firstAttestation": {"source": "Arşiv Belg. Göre Osmanlı Eğitiminde Modernleşme", "period": "1857", "form": "salon"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "salon maddesi", "url": "https://www.nisanyansozluk.com/kelime/salon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "salon", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tuvalet",
+    "word": "tuvalet",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "toile", "meaning": "Dokuma bez veya giysi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "toilette", "meaning": "Giyim ve süslenme; hazırlanma odası; hela", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tuvalet", "meaning": "Bedensel boşaltım için ayrılan yer", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İdrar ve dışkının boşaltılması için düzenlenmiş yer.",
+    "currentMeaning": "İnsanların idrar ve dışkı boşaltma gereksinimini karşılamak üzere donatılmış bölüm.",
+    "story": "Tuvaletin yolculuğu Fransızcada bez ve giysiyi adlandıran toile ile başlar. Toilette önce kadınların giyinip süslenmesini, ardından bu hazırlığın yapıldığı odayı karşılamıştır. Daha sonra odanın adı hela için de kullanılmaya başlanmış, Türkçede giyimle ilgili eski kullanımın yanında bugün öne çıkan mekân anlamı yerleşmiştir.",
+    "firstAttestation": {"source": "Vartan Paşa — Akabi Hikâyesi", "period": "1851", "form": "toalet"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tuvalet maddesi", "url": "https://www.nisanyansozluk.com/kelime/tuvalet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tuvalet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "duş",
+    "word": "duş",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "ducere, duct-", "meaning": "Yönlendirmek, sevk etmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "ductio", "meaning": "Suyu kanal veya boruyla taşıma", "period": "Geç Latince dönemi", "reconstructed": false},
+      {"language": "it", "form": "doccia", "meaning": "Su taşıyan boru veya kanal", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "douche", "meaning": "Borudan püskürtülen suyla yıkanma düzeneği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "duş", "meaning": "Püskürtülen su altında yıkanma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Üzerine püskürtülen suyla yıkanma.",
+    "currentMeaning": "Temizlenmek veya tedavi amacıyla, yukarıdan ya da bir başlıktan gelen suyun altında yıkanma.",
+    "story": "Duşun uzak kökünde Latincedeki yönlendirme ve bir yere sevk etme eylemi bulunur. Bu eylem suya uygulandığında, kanal ve boruyla su taşıma işi ve İtalyanca doccia gibi boru adları ortaya çıkmıştır. Fransızca douche, borunun taşıdığı suyla yıkanma düzeneğini adlandırmış; Türkçeye de bu banyo kullanımıyla geçmiştir.",
+    "firstAttestation": {"source": "Tıngır & Sinapian — Istılahat Lugati", "period": "1892", "form": "duş"},
+    "relatives": [
+      {"word": "duşakabin", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": "Duş için Osmanlıcada bir dönem teşelşül karşılığı önerilmiştir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "duş maddesi", "url": "https://www.nisanyansozluk.com/kelime/du%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "duş", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "küvet",
+    "word": "küvet",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "cupa", "meaning": "Fıçı türünde büyük kap", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "cuve", "meaning": "Fıçı veya büyük tekne", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "cuvette", "meaning": "Yıkama işinde kullanılan leğen veya tekne", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "küvet", "meaning": "İçine girilerek yıkanılan su teknesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Su doldurularak içinde yıkanılan tekne.",
+    "currentMeaning": "Banyoda içine su doldurulabilen, bir insanın oturarak veya uzanarak yıkanmasına uygun tekne.",
+    "story": "Küvetin gerisinde Latincede fıçı gibi büyük kapları adlandıran cupa vardır. Fransızcada cuve biçimini alan bu kap adı, cuvette ile yıkama leğenini ve yıkanma teknesini karşılamıştır. Türkçede ad, suyu bir arada tutan kabın özellikle insanın içine girebildiği banyo biçimine yerleşmiştir.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar — Tutuşmuş Gönüller", "period": "1926", "form": "küvet"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "küvet maddesi", "url": "https://www.nisanyansozluk.com/kelime/k%C3%BCvet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "küvet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "koridor",
+    "word": "koridor",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "currere, curs-", "meaning": "Koşmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "curritorium/corritorium", "meaning": "Koşmaya ayrılmış yol", "period": "Geç Latince dönemi", "reconstructed": false},
+      {"language": "it", "form": "corridor(e)", "meaning": "Koşu yolu veya geçit", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "corridor", "meaning": "Üstü kapalı uzun geçiş alanı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "koridor", "meaning": "Yapı içindeki bölümleri birbirine bağlayan geçit", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yapının odalarını veya bölümlerini birbirine bağlayan geçit.",
+    "currentMeaning": "Bir binada girişe, odalara veya başka bölümlere ulaşmayı sağlayan, genellikle uzun ve dar geçiş alanı.",
+    "story": "Koridorun kökünde Latincede koşmayı anlatan currere bulunur. Bu eylemden oluşan yol adı, İtalyanca ve Fransızcadaki biçimlerinde yapı içindeki uzun geçitlere uzanmıştır. Türkçenin Fransızcadan aldığı koridor, koşma eyleminden çok bir yerden diğerine geçmeyi sağlayan mimari alanı adlandırır.",
+    "firstAttestation": {"source": "Tebessüm", "period": "1887", "form": "koridor"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "koridor maddesi", "url": "https://www.nisanyansozluk.com/kelime/koridor"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "koridor", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "antre",
+    "word": "antre",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "inter", "meaning": "İçeriye veya araya ilişkin", "period": null, "reconstructed": false},
+      {"language": "la", "form": "intrare", "meaning": "İçeriye girmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "intrata", "meaning": "İçeri girme", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "entrée", "meaning": "Giriş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "antre", "meaning": "İçeri girildiğinde ulaşılan ilk bölüm", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir konutun kapısından girilince ulaşılan ilk bölüm.",
+    "currentMeaning": "Bir yapının veya konutun girişinde bulunan, iç bölümlere geçiş sağlayan alan.",
+    "story": "Antrenin geçmişinde Latincedeki içeri girme eylemi vardır. Bu eylem Fransızca entrée biçiminde girişin adı olmuş, Türkçede ise kapıdan geçince ulaşılan bölüme yerleşmiştir. Böylece bir hareketin adı, o hareketin gerçekleştiği mekânı karşılamaya başlamıştır.",
+    "firstAttestation": {"source": "Ali Seydi — Lisan-ı Osmanide Müstamel Lugat-i Ecnebiye", "period": "1911", "form": "antre"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Antre, Türkçede yemek öncesinde sunulan yiyecekler için de kullanılmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "antre maddesi", "url": "https://www.nisanyansozluk.com/kelime/antre"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "antre", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a43-f718-78a0-97ea-1baba6c01a7c
+--------
+user
+# Köken — Üretim Prompt'u (v6)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. şal — ipucu: fa — rarity: gündelik
+2. çorap — ipucu: fa — rarity: gündelik
+3. paça — ipucu: fa — rarity: gündelik
+4. pamuk — ipucu: fa — rarity: gündelik
+5. astar — ipucu: fa — rarity: gündelik
+6. kemer — ipucu: fa — rarity: gündelik
+7. tahta — ipucu: fa — rarity: gündelik
+8. köşe — ipucu: fa — rarity: gündelik
+9. çadır — ipucu: fa — rarity: gündelik
+10. terzi — ipucu: fa — rarity: gündelik
+11. balkon — ipucu: fr<it — rarity: gündelik
+12. garaj — ipucu: fr — rarity: gündelik
+13. apartman — ipucu: fr — rarity: gündelik
+14. asansör — ipucu: fr<la — rarity: gündelik
+15. salon — ipucu: fr<it — rarity: gündelik
+16. tuvalet — ipucu: fr — rarity: gündelik
+17. duş — ipucu: fr<it — rarity: gündelik
+18. küvet — ipucu: fr — rarity: gündelik
+19. koridor — ipucu: fr<it — rarity: gündelik
+20. antre — ipucu: fr — rarity: gündelik
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### şal
+
+**Nişanyan — şal**
+
+Zincir (eskiden yeniye):
+- Farsça › şāl › Keşmir'e özgü keçi yünü örtü  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1449, Hayalî — Ravzatü'l-envâr
+  > Fakirüŋ ḫōr ü ednā görme hālin / Ki vérmez bin harīre köhne şālın [bin parça ipekliye köhne çulunu vermez]
+
+Not: Fa/TTr çūl/çuwāl sözcüğünün Çağatayca veya veya bir başka Doğu Türk dilindeki biçiminden türemiş olması mümkündür. • İng shawl ve Fr châle (a.a.) Urducadan alınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C5%9Fal
+
+**TDK** — köken kaydı: Farsça şāl · anlam: Genellikle Hindistan'da dokunan, özel motifleri olan değerli bir yün kumaş
+
+### çorap
+
+**Nişanyan — çorap**
+
+Zincir (eskiden yeniye):
+- Akatça › gurābu › torba, kılıf, zarf  [eşkökenlilik]
+- Aramice-Süryanice › gurbā/gərābā › a.a.  [alıntı]
+- Arapça › cawrab/cūrāb › deri veya bez torba, yumuşak deriden iç ayak kılıfı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1387, İrşadü'l-Mülûk ve's-Selâtîn
+  > curāb [torba, kese]
+- 1680, Meninski — Thesaurus
+  > cevreb, çorāb: Socci.
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > çorab örmek: zerd, mekr u hîle. çorab söküğü: müselsel.
+
+Not: Erm kulbā գուլպայ "çorap" aynı sözcüğün Süryaniceden alınmış refleksidir. Modern Ermenice /g/ > /k/ ve Arapça /g/ > /c/ evrimleri standarttır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%A7orap
+
+**TDK** — köken kaydı: Farsça cūrāb · anlam: Pamuk, yün vb.nden örülen, ayağa giyilen giyecek
+
+### paça
+
+**Nişanyan — paça**
+
+Zincir (eskiden yeniye):
+- Farsça › pā › ayak  [türeme]
+- Orta Farsça › pāçag  [ses evrimi]
+- Farsça › pāça/pāyça › ayakçık; hayvan ayağı, pantolon bacağı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1400, Hızır Paşa — Müntehab-ı Şifa
+  > ġıdāsı semüz tavuk ve paça ve tere yağı ve nīm-birişt [yarı pişmiş] yumurda ola
+- 1448, Tercüme-i Acâibü'l-Mahlûkât
+  > her ādem ki bu ˁavratlaruŋ eline girse, yā çekerdi başın üzerdi yā paçasından iki yırtardı
+- 1614, Cafer Efendi — Risale-i Mi'mâriyye
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pa%C3%A7a
+
+**TDK** — köken kaydı: Farsça pāçe · anlam: Pantolon, don, şalvar vb. giyeceklerde bacakların çıktığı aşağı bölüm
+
+### pamuk
+
+**Nişanyan — pamuk**
+
+Zincir (eskiden yeniye):
+- Eski Yunanca › bombúks › koza  [eşkökenlilik]
+- Orta Farsça › pambak/pambuk › 1. ipek böceği veya pamuk kozası, 2. pamuk  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > bamuk: al-ḳutn [[Oğuzca]]
+- 1312, Ebu Hayyan — Kitabu'l-İdrak
+  > pambuk: al-ḳutn [[Türkmen dilinde]]
+- 1680, Meninski — Thesaurus
+  > pembe, pambuk seu pamuk: Gossipium.
+
+Not: Hindistan kökenli olan pamuk bitkisi Milat dolayında Doğu İran ve Orta Asya'ya, daha sonra Akdeniz havzasına yayılmıştır. • Frisk ve Chant Yunanca sözcüğün bir "Doğu" dilinden alıntı olduğu konusunda mutabıktır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pamuk
+
+**TDK** — köken kaydı: Farsça panbuḳ · anlam: Ebegümecigillerden, koza biçimindeki meyvesi üç, dört, beş dilimli olan, sıcak bölgelerde yetişen tarım bitkisi (Gossypium)
+
+### astar
+
+**Nişanyan — astar**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *ster- › a.a.  [ses evrimi]
+- Avestaca / Eski Farsça › star- › yaymak, sermek  [türeme]
+- Sanskritçe › āstarana- › yaygı, yer örtüsü  [eşkökenlilik]
+- Farsça / Orta Farsça › āstar › yaygı, kaba kumaş, astar  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > foratura [kaba kumaş] - Fa: astar - Tr: oprak
+- 1387, İrşadü'l-Mülûk ve's-Selâtîn
+  > eger kirse Kāˁbeniŋ astārınıŋ [örtüsünün] altına
+
+Not: Karş. Fa gustar/gustariş "yaygı, döşek, halı" < OFa wistarag < Ave *vi-starəna- (a.a.). Ayrıca Ave upa-starəna- (a.a.), Sans pra-stara प्रस्तर (a.a.).
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/astar
+
+**TDK** — köken kaydı: Farsça āster · anlam: Giyecek, perde, çanta, ayakkabı vb. şeylerde, kumaşın veya derinin iç tarafına geçirilen ince kat
+
+### kemer
+
+**Nişanyan — kemer**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *kh₂em- › eğmek, bükmek  [ses evrimi]
+- Eski Farsça › *kamarā- › eğik, bükülmüş herhangi bir nesne  [ses evrimi]
+- Avestaca › kamarā- › kuşak  [eşkökenlilik]
+- Orta Farsça › kamar › a.a.  [ses evrimi]
+- Farsça › kamar › 1. kuşak, 2. mimaride kemer veya kubbe  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > corigia [kuşak] - Fa: ḫamar - Tr: kur
+- 1330, Aşık Paşa — Garib-name
+  > kırk direk var kubbede u kırk kemer
+
+Not: Karş. Fa kam "kötü, sol", kamān "yay", Erm gamurç կամուրջ "köprü" (i.e. "kemer"?), EYun kamínos "kubbe şeklinde fırın, tandır". • EYun kámara "mimaride kemer, kubbe, tonozlu oda" Eski Farsçadan alıntıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/kemer
+
+**TDK** — köken kaydı: Farsça kemer · anlam: Bele dolayarak toka ile tutturulan, kumaş, deri veya metalden yapılan bel bağı
+
+### tahta
+
+**Nişanyan — tahta**
+
+Zincir (eskiden yeniye):
+- Farsça / Orta Farsça › taχt › oturak, seki  [türeme]
+- Orta Farsça › taχtag › a.a.  [ses evrimi]
+- Farsça › taχta › biçilmiş ağaç, tabla  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > tabula - Fa & Tr: takta
+- 1310, Rabguzi — Kısasü'l-Enbiya terc.
+  > Nūh peyġāmber kimisiniŋ taḫtası birle ṣakfını [çatısını] örtdi.
+- 1367, Fahrî — Hüsrev ü Şirin terc.
+  > anuŋ eger yataġı oldı taḫta
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tahta
+
+**TDK** — köken kaydı: Farsça taḫte · anlam: Çeşitli işlerde kullanılmak üzere düz, enlice, uzun ve az kalın biçimde işlenmiş ağaç parçası
+
+### köşe
+
+**Nişanyan — köşe**
+
+Zincir (eskiden yeniye):
+- Avestaca › gaoşa- › a.a.  [eşkökenlilik]
+- Orta Farsça › gōşag › a.a.  [ses evrimi]
+- Farsça › gōşa › bucak, zaviye  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1341, anon. — Tezkiretü'l-Evliya terc.
+  > gūşeler içinde ḫalvetlerde oturanlar
+- 1680, Meninski — Thesaurus
+  > kūşe, koşe vul. köşe
+- 1930, İbrahim Alaettin [Gövsa] — Yeni Türk Lugatı
+  > Köşekapmaca: Çocukların oynadığı bir oyun.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/k%C3%B6%C5%9Fe
+
+**TDK** — köken kaydı: Farsça gūşe · anlam: Birbirini kesen iki çizginin, iki düzlemin oluşturduğu açı; zaviye
+
+### çadır
+
+**Nişanyan — çadır**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *sk̂ed- › örtmek  [ses evrimi]
+- Sanskritçe › çhādayati › örtmek  [türeme]
+- Sanskritçe › çhattra › tente, gölgelik  [tahmine dayalı veya tartışmalı köken]
+- Farsça / Orta Farsça › çādar/çādur › 1. tente, gölgelik, 2. örtü, özellikle kadın çarşafı  [tahmine dayalı veya tartışmalı köken]
+- Eski Türkçe › çatır/çaşır › kara çadır, tente veya gölgelik şeklinde barınak  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > çatır: al-ḫayma [çadır] (...) çaçır: al-ḫayma [[ve Oğuzlar buna çaşır der]]
+- 1300, İbni Mühenna — Lugat
+  > çadar: al-ḫayma [çadır]
+- 1910, Mecmua-i Askeriye
+  > elde mevcud mahruti çadırlar: 28
+
+Not: Doerfer 3:16-22, Clauson 403 bir İrani dilden alıntı olduğunu vurgular. Cheung 2007 İrani sözcüğün Eski Hintçeden alıntı olduğunu belirtir. ETr çat- fiilinden türetme denemeleri (ör: Tenişev 2001) gerek ses gerek yapı bakımından problemlidir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%A7ad%C4%B1r
+
+**TDK** — köken kaydı: Farsça çāder · anlam: Keçe, deri, kıl dokuma, sık dokunmuş kalın bez veya plastik maddelerden yapılarak direklerle tutturulan, taşınabilir barınak
+
+### terzi
+
+**Nişanyan — terzi**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › darzīk › terzi  [ses evrimi]
+- Farsça › darz › dikiş  [türeme]
+- Farsça › darzī › dikici, terzi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > sartorius - Tr: derzi
+- 1680, Meninski — Thesaurus
+  > derzī vul. terzī
+
+Not: Farsça alıntılarda önseste /d/ > /t/ dönüşümü işin karş. tahra, tane, tarçın, teleme, testere, testi, tezgâh.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/terzi
+
+**TDK** — köken kaydı: Farsça derzī · anlam: Giysi biçip diken kimse; dikici, dikişçi
+
+### balkon
+
+**Nişanyan — balkon**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *bʰelǵ- › kalın ağaç gövdesi  [ses evrimi]
+- Eski Yüksek Almanca › balko › mertek, kütük, taşıyıcı ağaç  [alıntı]
+- Fransızca › balcon › bir kirişle taşınan ev çıkması, cumba  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1863, Düstur Tertip I.-IV.
+  > evlerin sokak yüzleri tarafına ... şehnişinler ve açık ve kapalu balkonlar inşası mücaz olacakdır ve bu şehnişinler ile balkonlar zeminden ekalli beş arşun irtifaında bulunacakdır.
+
+Not: Karş. Alm Balken "mertek, tomruk".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/balkon
+
+**TDK** — köken kaydı: Fransızca balcon · anlam: Bir yapının genellikle dışarıya doğru çıkmış, çevresi duvar veya parmaklıkla çevrili bölümü
+
+### garaj
+
+**Nişanyan — garaj**
+
+Zincir (eskiden yeniye):
+- Fransızca › garer/guarer › korumak, muhafaza etmek  [türeme]
+- Fransızca › garage › 1. tekne veya diğer taşıt aracını kapalı yerde muhafaza etme, 2. bu amaçla kullanılan kapalı yer  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1920, İlan-ı Ticaret
+  > Garaj ve tamirhane Tatavla 81-89 nümeroda
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/garaj
+
+**TDK** — köken kaydı: Fransızca garage · anlam: Otomobil vb. taşıtların konulduğu üstü örtülü yer; arabalık
+
+### apartman
+
+**Nişanyan — apartman**
+
+Zincir (eskiden yeniye):
+- Latince › pars, part- › pay  [türeme]
+- Latince › appartire › paylaştırmak, hisselendirmek  [türeme]
+- Geç Latince › appartimentum › bölüntü, pay  [alıntı]
+- Fransızca › appartement › konut içinde müstakil daire  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1876, Ahmet Midhat — Felatun Bey ile Rakım Efendi
+  > Şöyle hâline göre bir apartmanın olsa da mini mini bir metresçik edinmiş olsan fena mı olur?
+- 1897, Ahmed Rasim — Şehir Mektupları
+  > Apartmanda telaş emareleri, 'Ne var' sadaları, anahtar şakırtıları.
+- 1982, Cumhuriyet - gazete
+  > tesis içinde yer alan 161 apart-otel ile tatil köyündeki yatak sayısının 600'ü aşacağı
+
+Not: Fr sözcük "müstakil pay" anlamındayken, Türkçede "müstakil paylara bölünmüş yapı" anlamı ağır basmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/apartman
+
+**TDK** — köken kaydı: Fransızca appartement · anlam: Birkaç katlı ve her katında bir veya birkaç daire bulunan yapı
+
+### asansör
+
+**Nişanyan — asansör**
+
+Zincir (eskiden yeniye):
+- Latince › scandere › basamak çıkmak, tırmanmak  [türeme]
+- Latince › adscendere › a.a.  [ses evrimi]
+- Fransızca › ascendre › yükselmek, tırmanmak  [türeme]
+- Fransızca › ascenseur › mekanik tırmanma aracı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1890, Servet-i Fünun - dergi
+  > Amerikada ve kezalik Londrada inşa edilmiş yeni mevkıflarda [duraklarda] olduğu gibi asansörden istifade olunur.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/asans%C3%B6r
+
+**TDK** — köken kaydı: Fransızca ascenseur · anlam: İnsanları, yükleri bir yapının bir katından ötekine veya yüksek yerlere çıkarıp indiren, elektrikle işleyen araç
+
+### salon
+
+**Nişanyan — salon**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *sel-  [ses evrimi]
+- Germence › *sala › koğuş, kapalı toplanma mekânı  [alıntı]
+- İtalyanca / Geç Latince › sala › a.a.  [türeme]
+- İtalyanca › salone › büyük oda  [alıntı]
+- Fransızca › salon › büyük oda, özellikle resmî kabul odası  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1857, Arşiv Belg. Göre Osmanlı Eğitiminde Modernleşme
+  > ba‘dehû herkes sınıfına mahsus salona duhûl eyleyecekdir.
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > salon (Fr.): Divanhane, sergi mahalli.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/salon
+
+**TDK** — köken kaydı: Fransızca salon · anlam: Bir evde konukları ağırlamakta kullanılan en geniş oda
+
+### tuvalet
+
+**Nişanyan — tuvalet**
+
+Zincir (eskiden yeniye):
+- Fransızca › toile › bez, çul, giysi  [türeme]
+- Fransızca › toilette › 1. kadın giyim ve donanımı (17. yy), 2. giyim ve makyaj odası (18. yy), 3. hela (19. yy)  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1851, Vartan Paşa — Akabi Hikâyesi
+  > bu aḫşam toaletini gördü ise daha ziyade aşkı artmış olduğunden dir
+- 1919, Hüseyin Rahmi Gürpınar — Toraman
+  > Ben tuvalet odasının kapısını maymuncukla açıp içeri gireyim.
+- 1929, Akşam - gazete
+  > Yolda bir aralık tuvalet mahalline gitmek lüzumunu hisseder. Aptesanede işini bitirdikken sonra
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tuvalet
+
+**TDK** — köken kaydı: Fransızca toilette · anlam: İnsanın dışkısıyla idrarını boşalttığı yer; abdesthane, aralık, ayakyolu, yüznumara, hacet yeri, hela, kabine, kenef, memişhane, kademhane, lavabo
+
+### duş
+
+**Nişanyan — duş**
+
+Zincir (eskiden yeniye):
+- Latince › ducere, duct- › sürmek, sevketmek  [türeme]
+- Geç Latince › ductio › boru/kanal ile su iletme, isale  [türeme]
+- İtalyanca › doccia › su borusu, a.a.  [alıntı]
+- Fransızca › douche › bir borudan su püskürtme yoluyla banyo tertibatı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1892, Tıngır & Sinapian — Istılahat Lugati
+  > Douche [Fr.]: teşelşül, duş.
+- 1987, Cumhuriyet - gazete
+  > Duşakabin Gerflor
+- 1997, Milliyet - gazete
+  > duşakabinler, stor sineklikler, bambu perdeler
+
+Not: Fransızca sözcük ilk kez 1580-81'de Montaigne'in seyahat güncesinde İt doccia şeklinde anıldıktan kısa bir süre sonra IV. Henri'nin tıp danışmanı Jean Pidoux tarafından Fransızcalaştırılmıştır. 19. yy sonlarında Osm teşelşül deyiminin önerildiği görülür.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/du%C5%9F
+
+**TDK** — köken kaydı: Fransızca douche · anlam: Temizlik veya tedavi amacıyla suyu yüksekten üzerine doğru püskürtme yoluyla yıkanma
+
+### küvet
+
+**Nişanyan — küvet**
+
+Zincir (eskiden yeniye):
+- Latince › cupa › varil, fıçı  [ses evrimi]
+- Fransızca › cuve › varil, fıçı  [türeme]
+- Fransızca › cuvette › leğen, yıkama veya yıkanma teknesi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1926, Hüseyin Rahmi Gürpınar — Tutuşmuş Gönüller
+  > iri, ufak, musluksuz, basit lavabolar; birçok kirli yüzler, eller yıkamış 'küvet'ler, 'broka'lar
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/k%C3%BCvet
+
+**TDK** — köken kaydı: Fransızca cuvette · anlam: İçine su doldurulup yıkanmaya elverişli tekne; banyo küveti
+
+### koridor
+
+**Nişanyan — koridor**
+
+Zincir (eskiden yeniye):
+- Latince › currere, curs- › koşmak  [türeme]
+- Geç Latince › curritorium/corritorium › koşu yolu  [ses evrimi]
+- İtalyanca › corridor(e) › a.a.  [alıntı]
+- Fransızca › corridor › kapalı uzun yol, geçit  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1887, Tebessüm
+  > Şunu alınız. Tuvalet odamın anahtarıdır. Salonun arkasında koridor var.
+- 1898, Ahmed Rasim — Şehir Mektupları
+  > derin yüksek bir koridor gibi tecessüm eder
+
+Not: "Bina içinde uzun geçit" anlamında 13. yy'dan itibaren İtalya, İspanya ve Fransa'da eş zamanlı olarak kullanıma girmiş görünüyor. DuCangeL II.582 ve 673.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/koridor
+
+**TDK** — köken kaydı: Fransızca corridor · anlam: Bir yapıya girmeyi sağlayan veya odaları birleştiren genellikle dar geçit; aralık, geçenek
+
+### antre
+
+**Nişanyan — antre**
+
+Zincir (eskiden yeniye):
+- Latince › inter › içeri, arası  [türeme]
+- Latince › intrare › içeri girmek  [türeme]
+- Latince › intrata › a.a.  [ses evrimi]
+- Fransızca › entrée › giriş  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1911, Ali Seydi — Lisan-ı Osmanide Müstamel Lugat-i Ecnebiye
+  > antre: girilecek mahal; duhuliye
+- 1924, Mehmed Bahaeddin [Toven] — Yeni Türkçe Lugat
+  > antre: İçinden geçilerek bir yere girilen mahal, medhal.
+- 1982, Cumhuriyet - gazete
+  > Pandelli'de masaya oturduğunuzda 2 zeytinyağlı antre sizi bekliyor
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/antre
+
+**TDK** — köken kaydı: Fransızca entrée · anlam: ► giriş
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - Nişanyan ilişki alanında **"tahmine dayalı"**, **"tartışmalı"**,
+     **"belirsiz"** veya benzeri bir kayıt varsa `formationType` değerini
+     `"tartışmalı"` yap ve `alternatives` dizisini doldur.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `en` İngilizce · `la` Latince · `de` Almanca · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "şal",
+    "word": "şal",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "şāl", "meaning": "Keşmir keçisinin yününden örtü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şal", "meaning": "Yünlü kumaş ve bundan yapılan örtü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İnce yünlü kumaş veya omuzlara alınan örtü.",
+    "currentMeaning": "Özel desenlerle dokunmuş ince yünlü kumaş veya omuzları örtmek için kullanılan kumaş parçası.",
+    "story": "Şalın geçmişinde Keşmir keçilerinin yününden yapılan örtüler vardır. Farsçadaki şāl adı Türkçeye geçerken hem dokumanın hem de ondan yapılan örtünün adı olmayı sürdürdü. Böylece belirli bir yün dokumasının adı, omuzlara alınan bir giyim parçasında yaşamaya devam etti.",
+    "firstAttestation": {"source": "Hayalî — Ravzatü'l-envâr", "period": "1449", "form": "şāl"},
+    "relatives": [
+      {"word": "shawl", "relation": "eş köken"},
+      {"word": "châle", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "İngilizce shawl ile Fransızca châle, aynı adı Urduca aracılığıyla almıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şal maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fal"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şal", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çorap",
+    "word": "çorap",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {"language": "akk", "form": "gurābu", "meaning": "İçine bir şey konulan torba veya kılıf", "period": null, "reconstructed": false},
+      {"language": "syc", "form": "gurbā/gərābā", "meaning": "Torba veya kılıf", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "cawrab/cūrāb", "meaning": "Torba; ayağı saran yumuşak deri kılıf", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çorap", "meaning": "Ayağa geçirilen örgü giyecek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Ayağı ve bacağın bir bölümünü saran örgü giyecek.",
+    "currentMeaning": "Pamuklu, yünlü veya başka ipliklerle örülen, ayağa geçirilerek giyilen giysi.",
+    "story": "Çorabın eski anlam dünyasında ayağa giyilen örgüden önce torba ve kılıf vardır. Süryanice biçimle bağlantılı Arapça cawrab, yumuşak deriden yapılmış bir ayak kılıfını da adlandırıyordu; Akkadca gurābu ise bu ailenin eski akrabasıdır. Bir şeyi içine alıp saran kılıf düşüncesi, ayağı saran giyecekte devam eder. Türkçeye geçişte doğrudan Arapçanın mı yoksa Farsçanın mı aracı olduğu konusunda kaynaklar ayrılır.",
+    "firstAttestation": {"source": "İrşadü'l-Mülûk ve's-Selâtîn", "period": "1387", "form": "curāb"},
+    "relatives": [
+      {"word": "kulbā", "relation": "eş köken"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Türkçe çorabı Arapça cawrab/cūrāb biçimine bağlar ve gerisinde Süryanice bağlantısını gösterir.",
+      "TDK Güncel Türkçe Sözlük, doğrudan kaynak olarak Farsça cūrāb biçimini verir."
+    ],
+    "funFact": "Ermenicedeki kulbā da aynı sözcüğün Süryaniceden alınmış bir koludur.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çorap maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7orap"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çorap", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "paça",
+    "word": "paça",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "pā", "meaning": "Ayak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "pāçag", "meaning": "Ayakçık", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pāça/pāyça", "meaning": "Küçük ayak; hayvan ayağı ve giysinin bacak bölümü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "paça", "meaning": "Giysinin bacak ucu; yemeklik hayvan ayağı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Pantolon gibi giysilerin bacakları çevreleyen alt bölümü.",
+    "currentMeaning": "Pantolon, şalvar ve benzeri giysilerin bacakların alt kısmını saran, ayakların çıktığı bölümü.",
+    "story": "Paçanın merkezinde Farsça pā, yani ayak bulunur. Bu adın küçültülmüş biçimi hem hayvanın ayağını hem de giysinin bacak bölümünü adlandırmıştır. Türkçede sofradaki paça ile pantolonun paçasının aynı adı taşıması, ayak çevresinde gelişen bu iki kullanımın devamıdır.",
+    "firstAttestation": {"source": "Hızır Paşa — Müntehab-ı Şifa", "period": "1400 öncesi", "form": "paça"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "paça maddesi", "url": "https://www.nisanyansozluk.com/kelime/pa%C3%A7a"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "paça", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pamuk",
+    "word": "pamuk",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "pal",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "bombúks", "meaning": "Koza", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "pambak/pambuk", "meaning": "İpek böceği kozası, pamuk kozası ve pamuk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pamuk", "meaning": "Lifleri dokumacılıkta kullanılan bitki ve onun lifleri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kozasından yumuşak beyaz lif elde edilen bitki.",
+    "currentMeaning": "Sıcak iklimlerde yetiştirilen, kozalarındaki liflerden iplik yapılan tarım bitkisi ve bu bitkinin lifleri.",
+    "story": "Pamuğun adında, liflerden önce onları içinde taşıyan koza öne çıkar. Orta Farsça pambak/pambuk hem ipek böceğinin kozasını hem pamuk kozasını ve pamuğu adlandırıyordu. Yunancada koza için kullanılan bombúks da bu adla eş kökenli olarak ilişkilendirilir; bu bağlantı doğrudan Yunancadan alınmış olduğunu göstermez. Türkçeye İran dil alanından ulaşan ad, bitkinin kendisiyle birlikte yumuşak liflerini de karşılamayı sürdürdü.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "bamuk"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pamuk maddesi", "url": "https://www.nisanyansozluk.com/kelime/pamuk"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pamuk", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "astar",
+    "word": "astar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ster-", "meaning": "Sermek, yaymak", "period": null, "reconstructed": true},
+      {"language": "ae", "form": "star-", "meaning": "Bir yüzeye sermek", "period": null, "reconstructed": false},
+      {"language": "sa", "form": "āstarana-", "meaning": "Yere serilen örtü", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "āstar", "meaning": "Serilen örtü, kaba dokuma ve iç kaplama", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "astar", "meaning": "Eşyanın iç yüzünü örten katman", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Giysi ve benzeri eşyaların iç yüzüne geçirilen ince kat.",
+    "currentMeaning": "Giysi, çanta, perde veya ayakkabı gibi eşyaların iç yüzünü kaplamak üzere kullanılan kumaş ya da deri katmanı.",
+    "story": "Astarın uzak geçmişinde bir şeyi yüzeye yayma ve serme eylemi vardır. Bu kök ailesinde Sanskritçe āstarana- yere serilen örtüyü, Farsça āstar ise yaygı ve kumaşı adlandırır; Sanskritçe biçim bir akrabalık halkasıdır. Türkçede eski örtü kullanımı zamanla giysinin ve eşyanın içini kaplayan kata odaklanmıştır. Yere serilen örtüyle ceketin içindeki kumaşı birleştiren düşünce, bir yüzeyi başka bir katla örtmektir.",
+    "firstAttestation": {"source": "İrşadü'l-Mülûk ve's-Selâtîn", "period": "1387", "form": "astār"},
+    "relatives": [
+      {"word": "gustar", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "astar maddesi", "url": "https://www.nisanyansozluk.com/kelime/astar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "astar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kemer",
+    "word": "kemer",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "kh₂em-", "meaning": "Bükmek, eğmek", "period": null, "reconstructed": true},
+      {"language": "peo", "form": "kamarā-", "meaning": "Eğrilmiş veya bükülmüş nesne", "period": null, "reconstructed": true},
+      {"language": "ae", "form": "kamarā-", "meaning": "Bele sarılan kuşak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "kamar", "meaning": "Kuşak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "kamar", "meaning": "Bel kuşağı; yapıda yay biçimli bölüm", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kemer", "meaning": "Bel bağı; mimaride kavisli taşıyıcı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Giysiyi tutmak veya süslemek için bele takılan bağ.",
+    "currentMeaning": "Bele dolanan ve çoğunlukla tokayla tutturulan deri, kumaş veya metal kuşak.",
+    "story": "Kemerin eski kökünde eğme ve bükme hareketi bulunur. İran dillerindeki kuşak adı, belin çevresinde kıvrılan bir nesneyi karşılar; Avestaca biçim de bu adın akrabasıdır. Farsçada aynı ad, yapıların kavisli bölümleri için de kullanılmıştır. Türkçedeki bel kemeri ile taş kemer, malzemeleri ayrı olsa da bu eğri biçimi paylaşır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "kemer"},
+    "relatives": [
+      {"word": "kamān", "relation": "akraba"},
+      {"word": "kámara", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Eski Yunancanın tonozlu oda için kullandığı kámara da Eski Farsçadan alınmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kemer maddesi", "url": "https://www.nisanyansozluk.com/kelime/kemer"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kemer", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tahta",
+    "word": "tahta",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "taḫt", "meaning": "Üzerine oturulan seki veya oturak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "taḫtag", "meaning": "Tabla biçiminde ağaç parçası", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "taḫta", "meaning": "Biçilerek düzleştirilmiş ağaç", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tahta", "meaning": "Düz ve yassı işlenmiş ağaç parçası", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kesilip düzleştirilmiş, yassı ağaç parçası.",
+    "currentMeaning": "Yapı, eşya ve başka işlerde kullanılmak üzere ağaçtan biçilmiş, düz yüzeyli ve görece ince parça.",
+    "story": "Tahtanın geçmişi, üzerine oturulan sekiyi ve oturağı adlandıran taḫt ile bağlantılıdır. Bu tabandan gelişen biçim, Farsçada biçilmiş düz ağaç parçasının adı olmuştur. Türkçe, sözcüğü bu işlenmiş malzeme anlamıyla aldı; oturma yüzeyiyle ağaç levhayı birbirine bağlayan düz tabla fikri adın geçmişinde kaldı.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "takta"},
+    "relatives": [
+      {"word": "taht", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tahta maddesi", "url": "https://www.nisanyansozluk.com/kelime/tahta"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tahta", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "köşe",
+    "word": "köşe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {"language": "ae", "form": "gaoşa-", "meaning": "Bucak, açı", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "gōşag", "meaning": "Bucak, açı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "gōşa", "meaning": "Köşe veya bucak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "köşe", "meaning": "Çizgilerin veya yüzeylerin birleştiği açılı yer", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İki çizginin veya yüzeyin birleştiği açılı yer.",
+    "currentMeaning": "Birbirini kesen çizgilerin veya birleşen yüzeylerin oluşturduğu açı ve bu açının bulunduğu yer.",
+    "story": "Köşe, Farsçadaki gōşa biçimiyle bir mekânın bucağını adlandırıyordu. Orta Farsça gōşag aynı mekânsal anlamı taşır; Avestaca gaoşa- da onun eski akrabasıdır. Türkçedeki eski gūşe biçiminden bugünkü köşeye uzanan değişimde sesler dönüşmüş, iki yüzeyin buluştuğu yer fikri korunmuştur.",
+    "firstAttestation": {"source": "Anonim — Tezkiretü'l-Evliya tercümesi", "period": "1341", "form": "gūşe"},
+    "relatives": [
+      {"word": "köşekapmaca", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "köşe maddesi", "url": "https://www.nisanyansozluk.com/kelime/k%C3%B6%C5%9Fe"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "köşe", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çadır",
+    "word": "çadır",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "sk̂ed-", "meaning": "Üzerini kapatmak, örtmek", "period": null, "reconstructed": true},
+      {"language": "sa", "form": "çhādayati", "meaning": "Örtmek", "period": null, "reconstructed": false},
+      {"language": "sa", "form": "çhattra", "meaning": "Gölge sağlayan örtü veya tente", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çādar/çādur", "meaning": "Gölgelik; bedeni örten örtü", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "çatır/çaşır", "meaning": "Örtüyle kurulan taşınabilir barınak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çadır", "meaning": "Direkler üzerinde örtü gerilerek kurulan barınak", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir örtünün direklerle desteklenmesiyle kurulan taşınabilir barınak.",
+    "currentMeaning": "Kalın dokuma, keçe, deri veya sentetik örtünün direklerle desteklenip gerilmesiyle kurulan taşınabilir barınak.",
+    "story": "Çadırın anlam yolculuğunda temel nesne, insanın üzerine gerilen koruyucu örtüdür. İran dillerindeki çādar/çādur hem gölgelik hem de bedeni örten kumaş için kullanılmış, Eski Türkçedeki biçimler taşınabilir barınağı adlandırmıştır. Daha geride Sanskritçenin örtme eylemi ve gölgelik adıyla bağlantı kurulsa da bu eski geçişin ayrıntıları tartışmalıdır. Bugünkü çadır, örtünün desteklerle yükseltilip yaşanacak bir mekâna dönüştüğü anlamı sürdürür.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "çatır"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Sanskritçe çhattra ile İran dillerindeki çādar/çādur arasındaki eski bağlantıyı tartışmalı olarak işaretler.",
+      "Nişanyan Sözlük, Doerfer ve Clauson'un İran dili aracılığını, Cheung'un ise İran dilindeki biçim için Eski Hintçe kaynağını savunduğunu aktarır.",
+      "Nişanyan Sözlük, Eski Türkçe çat- fiilinden türetme önerisini ses ve yapı bakımından sorunlu bulur."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çadır maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7ad%C4%B1r"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çadır", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "terzi",
+    "word": "terzi",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "darzīk", "meaning": "Giysi diken kişi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "darz", "meaning": "Dikiş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "darzī", "meaning": "Dikiş işi yapan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "terzi", "meaning": "Giysi biçip diken kişi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Giysi biçen, diken ve onaran kişi.",
+    "currentMeaning": "Kumaşı ölçüye göre keserek giysi diken ve giysiler üzerinde düzeltme yapan meslek sahibi.",
+    "story": "Terzinin adı Farsçada dikişi karşılayan darz ile bağlantılıdır. Darzī, kumaş parçalarını dikişle birleştiren kişiyi adlandırır; meslek adının daha eski biçimi Orta Farsçada darzīk olarak bulunur. Türkçeye derzi biçiminde giren adın başındaki ses zamanla sertleşmiş, yapılan iş ise değişmeden kalmıştır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "derzi"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "terzi maddesi", "url": "https://www.nisanyansozluk.com/kelime/terzi"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "terzi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "balkon",
+    "word": "balkon",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "bʰelǵ-", "meaning": "Kalın ağaç gövdesi", "period": null, "reconstructed": true},
+      {"language": "de", "form": "balko", "meaning": "Yapıyı taşıyan ağaç kiriş", "period": "Eski Yüksek Almanca dönemi", "reconstructed": false},
+      {"language": "fr", "form": "balcon", "meaning": "Kirişle desteklenen yapı çıkması", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "balkon", "meaning": "Yapının dışında yer alan çevrili bölüm", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yapının dışa açılan, çevresi korkulukla çevrili bölümü.",
+    "currentMeaning": "Genellikle bina yüzeyinden dışarı uzanan, kenarları duvar veya korkulukla çevrilmiş kullanım alanı.",
+    "story": "Balkonun adının gerisinde, yapıyı taşıyan kalın bir ağaç kiriş bulunur. Eski Yüksek Almanca balko bu taşıyıcı parçayı adlandırırken Fransızca balcon, kirişin desteklediği ev çıkmasını karşılar. Türkçeye geçen ad böylece taşıyıcı malzemeden onun üzerinde oluşan mekâna uzanan anlamı taşır.",
+    "firstAttestation": {"source": "Düstur Tertip I.-IV.", "period": "1863", "form": "balkon"},
+    "relatives": [
+      {"word": "Balken", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "balkon maddesi", "url": "https://www.nisanyansozluk.com/kelime/balkon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "balkon", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "garaj",
+    "word": "garaj",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "garer/guarer", "meaning": "Koruma altında tutmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "garage", "meaning": "Taşıtı kapalı yerde tutma işi ve bunun yapıldığı yer", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "garaj", "meaning": "Taşıtların bırakıldığı kapalı yer", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Taşıtların konulduğu üstü kapalı yer.",
+    "currentMeaning": "Otomobil ve benzeri araçların park edilip korunduğu kapalı veya üstü örtülü alan.",
+    "story": "Garajın çıkış noktası bir bina değil, Fransızcada korumayı anlatan garer/guarer eylemidir. Bundan türeyen garage, tekneyi ya da başka bir taşıtı kapalı yerde tutma işini ve bu iş için ayrılan yeri adlandırmıştır. Türkçe, eylemden mekâna geçen bu adın araçlara ayrılmış yer anlamını benimsemiştir.",
+    "firstAttestation": {"source": "İlan-ı Ticaret", "period": "1920", "form": "Garaj"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "garaj maddesi", "url": "https://www.nisanyansozluk.com/kelime/garaj"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "garaj", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "apartman",
+    "word": "apartman",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "pars, part-", "meaning": "Bir bütünden ayrılan pay", "period": null, "reconstructed": false},
+      {"language": "la", "form": "appartire", "meaning": "Paylara ayırmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "appartimentum", "meaning": "Ayrılmış bölüm veya pay", "period": "Geç Latince dönemi", "reconstructed": false},
+      {"language": "fr", "form": "appartement", "meaning": "Konut içindeki bağımsız daire", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "apartman", "meaning": "Birden çok daire barındıran katlı bina", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birden çok bağımsız daire içeren katlı konut yapısı.",
+    "currentMeaning": "Katlarında ayrı konutlar bulunan, birden fazla hanenin yaşayabildiği çok katlı bina.",
+    "story": "Apartmanın uzak kökünde Latincedeki pay ve paylaştırma düşüncesi vardır. Ayrılmış bir bölümü adlandıran biçim, Fransızcada konut içindeki bağımsız daireye dönüşmüştür. Türkçede ise adın kapsamı genişleyerek tek daireden bu daireleri bir araya getiren yapının bütününe kaymıştır.",
+    "firstAttestation": {"source": "Ahmet Midhat — Felatun Bey ile Rakım Efendi", "period": "1876", "form": "apartman"},
+    "relatives": [
+      {"word": "apart-otel", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "apartman maddesi", "url": "https://www.nisanyansozluk.com/kelime/apartman"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "apartman", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "asansör",
+    "word": "asansör",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "scandere", "meaning": "Basamakları çıkarak yükselmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "adscendere", "meaning": "Yukarı çıkmak", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ascendre", "meaning": "Tırmanarak yükselmek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ascenseur", "meaning": "Mekanik olarak yukarı taşıyan araç", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "asansör", "meaning": "Katlar arasında insan veya yük taşıyan düzenek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İnsanları ve yükleri katlar arasında taşıyan mekanik araç.",
+    "currentMeaning": "Bir yapı içinde insanları veya yükleri farklı yükseklikler arasında çıkarıp indiren, çoğunlukla elektrikli taşıma düzeneği.",
+    "story": "Asansörün adının temelinde Latincede basamak çıkmayı anlatan scandere vardır. Yukarı çıkma eylemi Fransızcada ascendre biçimiyle sürmüş, ascenseur bu yükselme işini yapan mekanik aracı adlandırmıştır. Türkçe, insanın kendi adımlarıyla yaptığı hareketin bir makineye devredildiği bu adı almıştır.",
+    "firstAttestation": {"source": "Servet-i Fünun", "period": "1890", "form": "asansör"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "asansör maddesi", "url": "https://www.nisanyansozluk.com/kelime/asans%C3%B6r"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "asansör", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "salon",
+    "word": "salon",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "sel-", "meaning": null, "period": null, "reconstructed": true},
+      {"language": "it", "form": "sala", "meaning": "İnsanların toplandığı kapalı mekân", "period": null, "reconstructed": false},
+      {"language": "it", "form": "salone", "meaning": "Geniş oda", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "salon", "meaning": "Geniş oda, özellikle konuk kabul edilen oda", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "salon", "meaning": "Konuk ağırlanan geniş oda", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Evde oturmaya ve konuk ağırlamaya ayrılan geniş oda.",
+    "currentMeaning": "Bir konutta birlikte oturmak ve konukları ağırlamak için kullanılan, genellikle diğer odalardan geniş bölüm.",
+    "story": "Salonun geçmişinde, insanların kapalı bir yerde bir araya gelmesini karşılayan Germence bir ad bulunur. İtalyancaya ulaşan sala, salone biçimiyle büyük bir odayı adlandırmış; Fransızca salon ise özellikle konuk kabul edilen odayla özdeşleşmiştir. Türkçede de evin insanları bir araya getiren geniş odası bu adı taşır.",
+    "firstAttestation": {"source": "Arşiv Belg. Göre Osmanlı Eğitiminde Modernleşme", "period": "1857", "form": "salon"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "salon maddesi", "url": "https://www.nisanyansozluk.com/kelime/salon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "salon", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tuvalet",
+    "word": "tuvalet",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "toile", "meaning": "Dokuma bez veya giysi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "toilette", "meaning": "Giyim ve süslenme; hazırlanma odası; hela", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tuvalet", "meaning": "Bedensel boşaltım için ayrılan yer", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İdrar ve dışkının boşaltılması için düzenlenmiş yer.",
+    "currentMeaning": "İnsanların idrar ve dışkı boşaltma gereksinimini karşılamak üzere donatılmış bölüm.",
+    "story": "Tuvaletin yolculuğu Fransızcada bez ve giysiyi adlandıran toile ile başlar. Toilette önce kadınların giyinip süslenmesini, ardından bu hazırlığın yapıldığı odayı karşılamıştır. Daha sonra odanın adı hela için de kullanılmaya başlanmış, Türkçede giyimle ilgili eski kullanımın yanında bugün öne çıkan mekân anlamı yerleşmiştir.",
+    "firstAttestation": {"source": "Vartan Paşa — Akabi Hikâyesi", "period": "1851", "form": "toalet"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tuvalet maddesi", "url": "https://www.nisanyansozluk.com/kelime/tuvalet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tuvalet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "duş",
+    "word": "duş",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "ducere, duct-", "meaning": "Yönlendirmek, sevk etmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "ductio", "meaning": "Suyu kanal veya boruyla taşıma", "period": "Geç Latince dönemi", "reconstructed": false},
+      {"language": "it", "form": "doccia", "meaning": "Su taşıyan boru veya kanal", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "douche", "meaning": "Borudan püskürtülen suyla yıkanma düzeneği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "duş", "meaning": "Püskürtülen su altında yıkanma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Üzerine püskürtülen suyla yıkanma.",
+    "currentMeaning": "Temizlenmek veya tedavi amacıyla, yukarıdan ya da bir başlıktan gelen suyun altında yıkanma.",
+    "story": "Duşun uzak kökünde Latincedeki yönlendirme ve bir yere sevk etme eylemi bulunur. Bu eylem suya uygulandığında, kanal ve boruyla su taşıma işi ve İtalyanca doccia gibi boru adları ortaya çıkmıştır. Fransızca douche, borunun taşıdığı suyla yıkanma düzeneğini adlandırmış; Türkçeye de bu banyo kullanımıyla geçmiştir.",
+    "firstAttestation": {"source": "Tıngır & Sinapian — Istılahat Lugati", "period": "1892", "form": "duş"},
+    "relatives": [
+      {"word": "duşakabin", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": "Duş için Osmanlıcada bir dönem teşelşül karşılığı önerilmiştir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "duş maddesi", "url": "https://www.nisanyansozluk.com/kelime/du%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "duş", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "küvet",
+    "word": "küvet",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "cupa", "meaning": "Fıçı türünde büyük kap", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "cuve", "meaning": "Fıçı veya büyük tekne", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "cuvette", "meaning": "Yıkama işinde kullanılan leğen veya tekne", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "küvet", "meaning": "İçine girilerek yıkanılan su teknesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Su doldurularak içinde yıkanılan tekne.",
+    "currentMeaning": "Banyoda içine su doldurulabilen, bir insanın oturarak veya uzanarak yıkanmasına uygun tekne.",
+    "story": "Küvetin gerisinde Latincede fıçı gibi büyük kapları adlandıran cupa vardır. Fransızcada cuve biçimini alan bu kap adı, cuvette ile yıkama leğenini ve yıkanma teknesini karşılamıştır. Türkçede ad, suyu bir arada tutan kabın özellikle insanın içine girebildiği banyo biçimine yerleşmiştir.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar — Tutuşmuş Gönüller", "period": "1926", "form": "küvet"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "küvet maddesi", "url": "https://www.nisanyansozluk.com/kelime/k%C3%BCvet"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "küvet", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "koridor",
+    "word": "koridor",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "currere, curs-", "meaning": "Koşmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "curritorium/corritorium", "meaning": "Koşmaya ayrılmış yol", "period": "Geç Latince dönemi", "reconstructed": false},
+      {"language": "it", "form": "corridor(e)", "meaning": "Koşu yolu veya geçit", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "corridor", "meaning": "Üstü kapalı uzun geçiş alanı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "koridor", "meaning": "Yapı içindeki bölümleri birbirine bağlayan geçit", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yapının odalarını veya bölümlerini birbirine bağlayan geçit.",
+    "currentMeaning": "Bir binada girişe, odalara veya başka bölümlere ulaşmayı sağlayan, genellikle uzun ve dar geçiş alanı.",
+    "story": "Koridorun kökünde Latincede koşmayı anlatan currere bulunur. Bu eylemden oluşan yol adı, İtalyanca ve Fransızcadaki biçimlerinde yapı içindeki uzun geçitlere uzanmıştır. Türkçenin Fransızcadan aldığı koridor, koşma eyleminden çok bir yerden diğerine geçmeyi sağlayan mimari alanı adlandırır.",
+    "firstAttestation": {"source": "Tebessüm", "period": "1887", "form": "koridor"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "koridor maddesi", "url": "https://www.nisanyansozluk.com/kelime/koridor"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "koridor", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "antre",
+    "word": "antre",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "inter", "meaning": "İçeriye veya araya ilişkin", "period": null, "reconstructed": false},
+      {"language": "la", "form": "intrare", "meaning": "İçeriye girmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "intrata", "meaning": "İçeri girme", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "entrée", "meaning": "Giriş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "antre", "meaning": "İçeri girildiğinde ulaşılan ilk bölüm", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir konutun kapısından girilince ulaşılan ilk bölüm.",
+    "currentMeaning": "Bir yapının veya konutun girişinde bulunan, iç bölümlere geçiş sağlayan alan.",
+    "story": "Antrenin geçmişinde Latincedeki içeri girme eylemi vardır. Bu eylem Fransızca entrée biçiminde girişin adı olmuş, Türkçede ise kapıdan geçince ulaşılan bölüme yerleşmiştir. Böylece bir hareketin adı, o hareketin gerçekleştiği mekânı karşılamaya başlamıştır.",
+    "firstAttestation": {"source": "Ali Seydi — Lisan-ı Osmanide Müstamel Lugat-i Ecnebiye", "period": "1911", "form": "antre"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Antre, Türkçede yemek öncesinde sunulan yiyecekler için de kullanılmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "antre maddesi", "url": "https://www.nisanyansozluk.com/kelime/antre"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "antre", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+24,386

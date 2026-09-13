@@ -1,0 +1,1843 @@
+[
+  {
+    "id": "pencere",
+    "word": "pencere",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "sa",
+    "chain": [
+      {"language": "sa", "form": "pañjara", "meaning": "kafes", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pancara", "meaning": "kafes, pencere kafesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pencere", "meaning": "ışık ve hava sağlayan yapı açıklığı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yapıya ışık ve hava sağlayan açıklık.",
+    "currentMeaning": "Binalarda veya taşıtlarda içeriye ışık ve hava girmesini sağlayan, çoğunlukla camla kapatılmış açıklık.",
+    "story": "Pencerenin geçmişinde camdan önce kafes vardır: Sanskritçe pañjara, kafes biçimindeki bir nesnenin adıydı. Farsçaya geçen pancara özellikle pencere açıklığındaki kafesi de adlandırdı. Türkçede ad, açıklığın önündeki kafesten ışığın içeri girdiği açıklığın kendisine taşındı.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "pancara"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pencere maddesi", "url": "https://www.nisanyansozluk.com/kelime/pencere"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pencere", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çerçeve",
+    "word": "çerçeve",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "çobag", "meaning": "çubuk", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çūba", "meaning": "çubuk", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çār-çūba", "meaning": "dört çubuktan oluşan kenarlık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çerçeve", "meaning": "bir nesnenin çevresini kuşatan kenarlık", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Resim, ayna veya yazının çevresine geçirilen kenarlık.",
+    "currentMeaning": "Resim, yazı ve ayna gibi nesneleri çevreleyen, korumaya, süslemeye veya asmaya yarayan kenarlık.",
+    "story": "Çerçevenin Farsça adında dört çubuk yan yana durur: çār 'dört', çūba ise 'çubuk'tur. Bir araya getirilen bu parçalar, ortasında boşluk bulunan dörtgen bir kenarlık oluşturur. Türkçedeki eski kullanım kapının alt ve üst eşiklerini de kapsarken bugün sözcük resim ve aynaların çevresindeki kenarlıklarda yaşamayı sürdürür.",
+    "firstAttestation": {"source": "Filippo Argenti — Regola del Parlare Turco", "period": "1533", "form": "çerçive"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çerçeve maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7er%C3%A7eve"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çerçeve", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "perde",
+    "word": "perde",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "pardag", "meaning": "örtü, perde", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "parda", "meaning": "örtü; müzik perdesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "perde", "meaning": "bir açıklığı örten örtü; müzik terimi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Işığı veya görüşü kesmek için asılan örtü.",
+    "currentMeaning": "Pencere ya da başka bir açıklığın önüne asılarak ışığı, görüşü veya görünürlüğü sınırlayan örtü.",
+    "story": "Farsça parda yalnızca pencereye asılan kumaşı değil, kapıyı, çadır girişini veya yüzü örten örtüyü de adlandırıyordu. Bu kullanımın merkezinde bir şeyi gözden saklayan örtü bulunur. Türkçe perde, aynı örtme işlevini koruyarak evlerin pencere örtülerinin yerleşik adı oldu.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "perdede"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Perdenin müzikteki kullanımı da Farsçada vardı ve Türkçede 1330 yılında tanıklanmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "perde maddesi", "url": "https://www.nisanyansozluk.com/kelime/perde"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "perde", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "merdiven",
+    "word": "merdiven",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "nard", "meaning": "tahta, tabla", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nardubān", "meaning": "basamaklı çıkma aracı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "merdiven", "meaning": "çıkıp inmeye yarayan basamaklar", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yükseklikler arasında çıkıp inmeyi sağlayan basamaklar dizisi.",
+    "currentMeaning": "Farklı yükseklikteki yerler arasında geçiş sağlayan sabit veya taşınabilir basamaklı düzenek.",
+    "story": "Merdivenin geçmişi Farsçada tahta ve tabla için kullanılan nard adına uzanır. Ondan türeyen nardubān, yukarı çıkmayı sağlayan basamaklı aracı adlandırıyordu. Türkçede nerdübān gibi biçimlerden merdüven ve merdivene uzanan değişim sırasında adın sesleri değişti, basamaklarla yükselme fikri kaldı.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "nedübān"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "merdiven maddesi", "url": "https://www.nisanyansozluk.com/kelime/merdiven"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "merdiven", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "duvar",
+    "word": "duvar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "dʰei̯ǵʰ-", "meaning": "yoğurmak", "period": null, "reconstructed": true},
+      {"language": "peo", "form": "deġa-", "meaning": "kil, kerpiç", "period": null, "reconstructed": false},
+      {"language": "peo", "form": "deġa-vāra-", "meaning": "kerpiçten koruyucu çevre duvarı", "period": null, "reconstructed": true},
+      {"language": "fa", "form": "dīvār", "meaning": "duvar", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "duvar", "meaning": "yapıyı çevreleyen veya bölen dikey yapı öğesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yapıyı çevreleyen veya içini bölen dikey yapı öğesi.",
+    "currentMeaning": "Taş, tuğla ve benzeri malzemelerle oluşturulan, bir yapıyı dıştan sınırlayan veya iç mekânlarını ayıran dikey bölüm.",
+    "story": "Duvarın eski adında hem malzeme hem işlev bulunur: Eski Farsça deġa- kerpici, vāra- ise koruyup çevirmeyi anlatır. Kerpiç adının daha gerisindeki kök, kilin elle yoğrulması eylemine uzanır. Bu parçaların birleşimi Farsçada dīvār biçimine ulaşmış, Türkçede duvar olurken yalnızca kerpiçten yapılan yapılarla sınırlı kalmamıştır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "diuar"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "duvar maddesi", "url": "https://www.nisanyansozluk.com/kelime/duvar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "duvar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çeşme",
+    "word": "çeşme",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "çaşm", "meaning": "göz", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "çaşmag", "meaning": "göze, pınar", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çaşma", "meaning": "gözü andıran şey; su kaynağı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çeşme", "meaning": "suyun akıtıldığı yapı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Suyun bir musluk veya oluktan aktığı yapı.",
+    "currentMeaning": "Getirilen suyu bir musluk ya da oluktan akıtarak kullanıma sunan, çoğunlukla kamusal alanda bulunan yapı.",
+    "story": "Çeşmenin başlangıcında bir göz vardır: Orta Farsça çaşm, görme organının adıydı. Bu addan türeyen biçim, göz gibi görünen su çıkışını ve pınarı adlandırdı. Türkçede çeşme, doğal kaynağın yanında suyun getirilip akıtıldığı yapının da adı oldu; göz ile su kaynağı arasındaki benzerlik Türkçe gözede de görülür.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "çaşmadın"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çeşme maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7e%C5%9Fme"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çeşme", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ayna",
+    "word": "ayna",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "ādēnag/āyēnag", "meaning": "ayna", "period": null, "reconstructed": true},
+      {"language": "fa", "form": "āyīna/aˀīna", "meaning": "görüntüyü yansıtan nesne", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ayna", "meaning": "görüntü veren yansıtıcı yüzey", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Işığı yansıtarak karşısındakinin görüntüsünü veren yüzey.",
+    "currentMeaning": "Karşısındaki varlıkların görüntüsünü yansıtan, genellikle arka yüzü özel bir tabakayla kaplanmış cam.",
+    "story": "Farsça āyīna, karşısındaki kişiye kendi görüntüsünü gösteren nesnenin adıydı. Daha eski İran dili bağlantıları görme ve gösterme eylemlerine uzanır; ancak Orta Farsçadaki önceki biçim için alternatifler vardır. Türkçede âyine ve ayna biçimleriyle yaşayan ad, bugün de aynı yansıtma işini yapan nesneyi anlatır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "āyinedür"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Orta Farsça ēwēnag biçimini yeniden kurulan ādēnag/āyēnag biçimlerine alternatif olarak verir ve Avestaca avi-dayana- ile eş kökenlilik ilişkisi kurar."
+    ],
+    "funFact": "Aynanın adını Farsçadaki demir veya Arapçadaki göz sözüyle açıklamak halk etimolojisidir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ayna maddesi", "url": "https://www.nisanyansozluk.com/kelime/ayna"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ayna", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kilit",
+    "word": "kilit",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "kleh₂u-", "meaning": "kapatmak", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "kleíō", "meaning": "kapatmak, örtmek", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "kleïs, kleid-", "meaning": "anahtar", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "kilīd/kalīd", "meaning": "anahtar", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kilit", "meaning": "açılıp kapanmayı denetleyen kapatma düzeneği", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Anahtar veya benzeri bir parçayla açılan kapatma düzeneği.",
+    "currentMeaning": "Kapı, kapak veya benzeri şeyleri kapalı tutan ve anahtar gibi bir araçla açılıp kapanan düzenek.",
+    "story": "Eski Yunancada kapatmayı anlatan fiilden bir anahtar adı türedi ve Farsçada kilīd biçimini aldı. Türkçedeki erken kirit kullanımı da kapıyı açan anahtarı adlandırıyordu. Zamanla ad, elde tutulan anahtardan onun çalıştırdığı kapatma düzeneğine kaydı; bugünkü kilit bu anlam değişimini taşır.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "kirit"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kilit maddesi", "url": "https://www.nisanyansozluk.com/kelime/kilit"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kilit", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "menteşe",
+    "word": "menteşe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "band", "meaning": "bağ, eklem", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "band-guşā", "meaning": "eklem, boğum", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "menteşe", "meaning": "bir kapağın dönerek açılmasını sağlayan bağlantı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kapı veya kapağı dönerek açılıp kapanacak biçimde bağlayan parça.",
+    "currentMeaning": "Kapı, pencere ve kapakları sabit bir yüzeye bağlayıp bir eksen çevresinde hareket etmelerini sağlayan metal bağlantı.",
+    "story": "Menteşenin Farsça geçmişi için verilen biçimler farklıdır; açıklamalardan biri band 'bağ, eklem' ile guşā- 'açmak' parçalarını birleştirir. Bu açıklamadaki band-guşā, bedenin hareket eden eklem ve boğumlarını adlandırıyordu. Türkçedeki eski örneklerde de bedensel eklem kullanımı görülür; daha sonra aynı hareketli bağlantı düşüncesi kapının açılıp kapanmasını sağlayan parçaya taşınır.",
+    "firstAttestation": {"source": "Mercimek Ahmed — Kâbusname tercümesi", "period": "1432", "form": "bend-guşālar"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük menteşeyi Farsça band-guşā ile açıklarken TDK Güncel Türkçe Sözlük kaynak biçimi bendkeşe olarak verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "menteşe maddesi", "url": "https://www.nisanyansozluk.com/kelime/mente%C5%9Fe"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "menteşe", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kelepçe",
+    "word": "kelepçe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "bilek", "meaning": "elin kola bağlandığı bölüm", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bilekçe", "meaning": "tutuklunun bileklerini bağlayan araç", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kelepçe", "meaning": "bilekleri birbirine bağlayan kilitli halkalar", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bileklere takılarak ellerin hareketini sınırlayan kilitli halkalar.",
+    "currentMeaning": "Tutulan kişinin ellerini serbestçe kullanmasını veya kaçmasını önlemek için bileklerine takılan bağlantılı metal halkalar.",
+    "story": "Bir açıklamaya göre kelepçenin eski adı bilekçeydi ve takıldığı beden bölümünü doğrudan gösteriyordu. Bu açıklama, bilekçeden kelepçeye geçişi seslerin yer değiştirmesiyle ilişkilendirir. Farsça bir başlangıç önerisi de bulunduğundan köken tartışmalıdır; Türkçe açıklama benimsenirse bugünkü biçimin içinde tanınması zorlaşmış bir bilek saklıdır.",
+    "firstAttestation": {"source": "Mehmed Yeminî — Faziletname", "period": "1519", "form": "bilekçek"},
+    "relatives": [
+      {"word": "bilek", "relation": "akraba"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük kelepçeyi Türkçe bilekçenin ses değişimine bağlar ve önceki Farsça açıklamasını yanlış olarak niteler.",
+      "TDK Güncel Türkçe Sözlük kelepçe için Farsça kelebçe kökenini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kelepçe maddesi", "url": "https://www.nisanyansozluk.com/kelime/kelep%C3%A7e"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kelepçe", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bahçe",
+    "word": "bahçe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bāġ", "meaning": "pay, ayrılmış tarım toprağı; bahçe", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bāġça", "meaning": "bitki yetiştirilen yer", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bahçe", "meaning": "sebze, meyve veya süs bitkileri yetiştirilen alan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sebze, meyve, çiçek veya ağaç yetiştirilen alan.",
+    "currentMeaning": "Besin ya da süs amacıyla çeşitli bitkilerin yetiştirildiği toprak alan.",
+    "story": "Farsça bāġ, bahçenin yanında payı ve bir kişinin üretimine ayrılan toprağı da adlandırıyordu. Bahçeyi bu söze bağlayan açıklamada bāġça, işlenip bitki yetiştirilen alanın adıdır. Son bölüm küçültme ekiyle açıklanabilse de kelime yalnızca küçük yerleri anlatmaz; daha eski bağlantısı için başka bir öneri de vardır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "bakča"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük bāġça biçimini bāġ ve küçültme ekiyle ilişkilendirirken anlamda küçültme bulunmadığını belirtir; Avestaca vaχşa- 'mülk' bağlantısını da olasılık olarak sunar."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bahçe maddesi", "url": "https://www.nisanyansozluk.com/kelime/bah%C3%A7e"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bahçe", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bahar",
+    "word": "bahar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "wésr̥", "meaning": "ilkbahar", "period": null, "reconstructed": true},
+      {"language": "peo", "form": "vāhara", "meaning": "ilkbahar", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "wahār", "meaning": "ilkbahar", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bahār", "meaning": "ilkbahar", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bahar", "meaning": "kıştan sonra gelen mevsim", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kış ile yaz arasındaki mevsim; ilkbahar.",
+    "currentMeaning": "Kışın ardından gelen, havanın ısındığı ve bitkilerin yeniden geliştiği mevsim.",
+    "story": "Bahar, İran dillerinin eski dönemlerinden beri aynı mevsimi adlandıran bir sözün devamıdır. Eski Farsça vāhara ve Orta Farsça wahār, Farsçada bahār biçimine ulaşırken kışın ardından gelen dönemi anlatmayı sürdürdü. Türkçeye de bu mevsim adı geçti; kelimenin yolculuğunda büyük bir anlam değişmesinden çok eski bir adın korunması görülür.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "behār"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bahar maddesi", "url": "https://www.nisanyansozluk.com/kelime/bahar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bahar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gül",
+    "word": "gül",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "wr̥dʰo-s", "meaning": "gül", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "vard", "meaning": "gül", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "gul", "meaning": "çiçek; özellikle gül", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gül", "meaning": "Rosa cinsinden bitki ve çiçeği", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Rosa cinsinden bitkilerin ve çiçeklerinin adı.",
+    "currentMeaning": "Gülgillerden, çok sayıda türü ve yetiştirilen çeşidi bulunan Rosa cinsindeki bitki ve onun çiçeği.",
+    "story": "Gülün eski İran dillerindeki vard biçimi, bugünkü kısa adıyla ilk bakışta benzeşmez. Farsçadaki ses değişmeleri bu biçimi gul hâline getirirken sözcük hem çiçeği genel olarak hem de özellikle gülü adlandırdı. Türkçede gül, bu geniş çiçek adının belirli bir bitkiye ayrılmış kullanımıyla yerleşti.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "gülzâr", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": "Arapça ward ve Ermenice vard, gülün eski İran dillerindeki biçimini koruyan alıntılardır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "gül maddesi", "url": "https://www.nisanyansozluk.com/kelime/g%C3%BCl"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "gül", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "lale",
+    "word": "lale",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "lāl", "meaning": "kırmızı, al renk", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "alālag", "meaning": "kırmızı nesne; anemon", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "lāla", "meaning": "kırmızı çiçek; gelincik veya anemon", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lale", "meaning": "Tulipa cinsinden süs bitkisi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kadeh biçimli çiçekler açan soğanlı süs bitkisi.",
+    "currentMeaning": "Uzun yaprakları ve farklı renklerde kadehi andıran çiçekleri bulunan soğanlı süs bitkisi.",
+    "story": "Lalenin adının gerisinde kırmızı renk vardır; Farsça lāl, al rengi anlatıyordu. Bu renk bağlantısını taşıyan çiçek adı başlangıçta gelincik ve anemon gibi bitkiler için kullanıldı. Türkçede de eski kullanım bu çiçekleri kapsarken bugün bildiğimiz lale anlamı 17. yüzyıldan itibaren baskınlaştı.",
+    "firstAttestation": {"source": "Mesud b. Ahmed — Süheyl ü Nevbahar tercümesi", "period": "1354", "form": "lāle-zār"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Avrupa'da geliştirilen lale çeşitleri Türkçede bir dönem lale-i Frengī adıyla anılmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "lale maddesi", "url": "https://www.nisanyansozluk.com/kelime/lale"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lale", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "menekşe",
+    "word": "menekşe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "vanavşag", "meaning": "menekşe", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "banafşa", "meaning": "menekşe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "menekşe", "meaning": "Viola cinsinden çiçekli otsu bitki", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Viola cinsinden çiçekli otsu bitki.",
+    "currentMeaning": "Menekşegillerden, bir yıllık veya çok yıllık türleri bulunan çiçekli otsu bitki.",
+    "story": "Menekşenin İran dillerindeki geçmişinde, Avestacada 'orman otu' diye çözümlenen eş kökenli bir biçim bulunur. Bu biçimdeki bitip yetişme fikri, adı ormanda gelişen bir ota bağlar. Orta Farsça vanavşag ve Farsça banafşa çizgisinden Türkçeye ulaşan bitki adı, önce benefşe gibi biçimlerle, sonra menekşe olarak kullanılmıştır.",
+    "firstAttestation": {"source": "Mesud b. Ahmed — Süheyl ü Nevbahar tercümesi", "period": "1354", "form": "benefşe"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "menekşe maddesi", "url": "https://www.nisanyansozluk.com/kelime/menek%C5%9Fe"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "menekşe", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sümbül",
+    "word": "sümbül",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "he",
+    "chain": [
+      {"language": "he", "form": "şībbəleth", "meaning": "başak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "sunbul/sunbula(t)", "meaning": "başak; başağı andıran çiçek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sümbül", "meaning": "kokulu, soğanlı süs bitkisi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Salkım hâlinde kokulu çiçekler açan soğanlı süs bitkisi.",
+    "currentMeaning": "Soğandan yetişen, çok yıllık, yoğun kokulu ve çeşitli renklerde çiçekleri bulunan süs bitkisi.",
+    "story": "Sümbülün daha eski dil bağlantılarında tahıl başağı vardır. Arapça sunbul, başağın yanı sıra çiçekleri başak gibi dizilen sümbülü de adlandırıyordu. Böylece yenilen tahılın biçimi bir süs çiçeğinin adına taşındı; Türkçeye doğrudan Arapçadan mı, Farsça üzerinden mi ulaştığı konusunda kaynaklar ayrılır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "sonbul"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçe sümbülü Arapça sunbul/sunbula(t) biçimine bağlarken TDK Güncel Türkçe Sözlük doğrudan kaynak dili Farsça olarak verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sümbül maddesi", "url": "https://www.nisanyansozluk.com/kelime/s%C3%BCmb%C3%BCl"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sümbül", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "çınar",
+    "word": "çınar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "çēnār/çēnyār", "meaning": "çınar ağacı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çanār/çinār", "meaning": "doğu çınarı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çınar", "meaning": "iri gövdeli ve geniş yapraklı ağaç", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kalın gövdeli, geniş yapraklı ve uzun ömürlü ağaç.",
+    "currentMeaning": "Platanus cinsinden, büyük boylara ulaşabilen, gövdesi kalın ve yaprakları geniş ağaç.",
+    "story": "Çınar, Orta Farsçadan Farsçaya uzanan çizgide aynı ağacın adı olarak yaşamıştır. Türkçeye geçtiğinde de iri gövdeli, geniş yapraklı ağacı göstermeyi sürdürmüş, belirgin bir anlam değişikliği geçirmemiştir. Adın son bölümünün Farsçadaki 'ağaç' sözüyle bağlantılı olabileceği düşünülür; ancak bu daha eski çözümleme kesin değildir.",
+    "firstAttestation": {"source": "Mesud b. Ahmed — Süheyl ü Nevbahar tercümesi", "period": "1354", "form": "çenār"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Ermenice ve Gürcüce çandari biçimlerinden hareketle çınarın ikinci bölümünün Farsça dār 'ağaç' ile ilişkili olabileceğini belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çınar maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7%C4%B1nar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çınar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "servi",
+    "word": "servi",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "serv", "meaning": "servi ağacı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "servi", "meaning": "ince uzun, her dem yeşil ağaç", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kışın da yeşil kalan, ince uzun gövdeli ağaç.",
+    "currentMeaning": "Akdeniz çevresinde yaygın olan, koyu yeşil yapraklarını kışın koruyan, uzun ve dar görünüşlü ağaç.",
+    "story": "Farsça serv, ince uzun yükselen ve kışın da yeşil kalan ağacın adıydı. Türkçeye servi biçiminde taşınan ad, aynı ağacı göstermeyi sürdürdü. Buradaki yolculuk bir nesneden başka bir nesneye geçiş değil, ağaç adının diller arasında yaşamasıdır.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "selvi", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "servi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tohum",
+    "word": "tohum",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "tewk-", "meaning": "tohum vermek, soyu devam ettirmek", "period": null, "reconstructed": true},
+      {"language": "peo", "form": "tauma-", "meaning": "aile, aşiret", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "tōhmag/tōm", "meaning": "çekirdek; aile, soy", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "tuḫm", "meaning": "bitki tohumu; soy, döl", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tohum", "meaning": "yeni bitkinin gelişebildiği üreme tanesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Uygun koşullarda yeni bir bitki geliştirebilen tane.",
+    "currentMeaning": "Bitkide döllenme sonrasında gelişen ve uygun ortamda çimlenerek yeni bitkiyi oluşturabilen üreme yapısı.",
+    "story": "Tohumun geçmişinde bitkiyle insan soyu aynı devamlılık düşüncesinde buluşur. Eski Farsça tauma- aile ve aşireti anlatırken Orta Farsçadaki devamı hem çekirdeği hem soyu kapsıyordu. Farsça tuḫm bu iki alanı birlikte taşıdı; Türkçede tohum denince öne çıkan somut nesne, toprağa bırakıldığında yeni bitkinin yetiştiği tanedir.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "tohum"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Ermenicedeki dohm 'hanedan, aşiret' sözü de aynı kelime ailesinden Orta İranca bir alıntıdır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tohum maddesi", "url": "https://www.nisanyansozluk.com/kelime/tohum"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tohum", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "fıstık",
+    "word": "fıstık",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "pistag", "meaning": "fıstık", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "fustuḳ", "meaning": "fıstık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fıstık", "meaning": "çeşitli yenilebilir yemişlerin ortak adı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Antep fıstığı, çam fıstığı ve yer fıstığı gibi yemişlerin ortak adı.",
+    "currentMeaning": "Antep fıstığı, çam fıstığı ve yer fıstığı adlarıyla bilinen farklı yemişler için kullanılan genel ad.",
+    "story": "Orta Farsça pistag, yenilen fıstığın adıydı; Arapçaya geçince fustuḳ biçimini aldı. Türkçedeki fıstık bu Arapça biçim üzerinden yerleşti. Bugün ad yalnızca Antep fıstığında kalmaz, çam fıstığı ve yer fıstığı gibi farklı yemişleri de ortak bir ad altında toplar.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "pistak"},
+    "relatives": [
+      {"word": "pistachio", "relation": "eş köken"},
+      {"word": "pistache", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "İngilizce pistachio aynı İran kökenli adın Yunanca üzerinden Batı dillerine ulaşmış akrabasıdır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fıstık maddesi", "url": "https://www.nisanyansozluk.com/kelime/f%C4%B1st%C4%B1k"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "fıstık", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a3e-505d-7213-851b-1c1eaaa468f6
+--------
+user
+# Köken — Üretim Prompt'u (v6)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. pencere — ipucu: fa — rarity: gündelik
+2. çerçeve — ipucu: fa — rarity: gündelik
+3. perde — ipucu: fa — rarity: gündelik
+4. merdiven — ipucu: fa — rarity: gündelik
+5. duvar — ipucu: fa — rarity: gündelik
+6. çeşme — ipucu: fa — rarity: gündelik
+7. ayna — ipucu: fa — rarity: gündelik
+8. kilit — ipucu: fa<grc — rarity: gündelik
+9. menteşe — ipucu: fa — rarity: gündelik
+10. kelepçe — ipucu: fa — rarity: gündelik
+11. bahçe — ipucu: fa — rarity: gündelik
+12. bahar — ipucu: fa — rarity: gündelik
+13. gül — ipucu: fa — rarity: gündelik
+14. lale — ipucu: fa — rarity: gündelik
+15. menekşe — ipucu: fa — rarity: gündelik
+16. sümbül — ipucu: fa<ar — rarity: gündelik
+17. çınar — ipucu: fa — rarity: gündelik
+18. servi — ipucu: fa — rarity: gündelik
+19. tohum — ipucu: fa — rarity: gündelik
+20. fıstık — ipucu: fa<grc — rarity: gündelik
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### pencere
+
+**Nişanyan — pencere**
+
+Zincir (eskiden yeniye):
+- Sanskritçe › pañjara › kafes  [alıntı]
+- Farsça › pancara › kafes, özellikle pencere kafesi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > açılupdur iki çifte pancara ... bu eve andan düşer her dem ışık
+
+Not: Bkz. Monier 575: "pañjara n. a cage, aviary, dove-cot, net". Hintçe sözcük Mahabharata ve diğer Sanskrit sutralarında geçer.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pencere
+
+**TDK** — köken kaydı: Farsça pencere · anlam: Yapıları veya tren, vapur vb. ulaşım araçlarını aydınlatmak, havalandırmak amacıyla yapılan, çerçeve, cam, panjur, perde gibi eklentilerle daha kullanışlı bir duruma getirilen açıklık
+
+### çerçeve
+
+**Nişanyan — çerçeve**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › çobag › a.a.  [ses evrimi]
+- Farsça › çūba › çubuk  [bileşik sözcüğün devamı]
+- Farsça › çār › dört  [bileşik sözcük]
+- Farsça › çār-çūba › dört çubuk, dörtgen, a.a.  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1533, Filippo Argenti — Regola del Parlare Turco
+  > cerciué [çerçive]: sogla di sopra & di sotto [kapının alt ve üst eşiği]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%A7er%C3%A7eve
+
+**TDK** — köken kaydı: Farsça çār + çūbe · anlam: Resim, yazı, ayna vb.ni süslemek veya bir yere asılabilecek duruma getirmek için bunlara geçirilen kenarlık
+
+### perde
+
+**Nişanyan — perde**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › pardag › a.a.  [ses evrimi]
+- Farsça › parda › 1. örtü, kapı veya çadır örtüsü, yüz örtüsü, 2. müzikte perde  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1300, anon. — Mukaddimetü'l-Edeb terc.
+  > perdede turğan karabaş [örtülü duran cariye]
+- 1330, Aşık Paşa — Garib-name
+  > zīrā dünyā perdedür ḫalḳ yolına
+- 1330, Aşık Paşa — Garib-name
+  > cümle sazuŋ perdesin barmak bilür
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/perde
+
+**TDK** — köken kaydı: Farsça perde · anlam: Görüşü, ışığı engellemek, bir şeyi gizlemek için pencereye veya bir açıklığın önüne gerilen örtü; gerelti, gergi, hicap
+
+### merdiven
+
+**Nişanyan — merdiven**
+
+Zincir (eskiden yeniye):
+- Farsça › nard › tabla, tahta  [türeme]
+- Farsça › nardubān › merdiven  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > scala - Fa: nardouan - Tr: agengič [ağıngıç!]
+- 1330, Aşık Paşa — Garib-name
+  > bu ˁilm bir nedübāndur uçmağa [cennete merdivendir]
+- 1680, Meninski — Thesaurus
+  > nerdübān vul. merdüven
+
+Not: 14. yy başlarında Türkçe ve Farsça telaffuzda genel kural olarak /n/ ve /m/ sesleri arasındaki ayrımın belirsizleştiği, Codex Cumanicus'ta (1303) açıkça görülür. Türkçe yazımda 20. yy başlarına dek nerdübān نردبان kullanılır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/merdiven
+
+**TDK** — köken kaydı: Farsça nerdubān · anlam: Bir yere çıkmaya veya bir yerden inmeye yarayan basamaklar dizisi; badal, basak
+
+### duvar
+
+**Nişanyan — duvar**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *wer-¹ › korumak  [ses evrimi]
+- Eski Farsça › vāra- › korumak, etrafını çevirmek  [bileşik sözcüğün devamı]
+- Hintavrupa Anadili › *dʰei̯ǵʰ- › yoğurmak  [ses evrimi]
+- Eski Farsça › deġa- › kerpiç, kil  [bileşik sözcük]
+- Eski Farsça › *deġa-vāra- › kerpiç duvar  [ses evrimi]
+- Farsça › dīvār/divār › a.a.  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > paretis - Fa & Tr: diuar (...) diuar ostasi: caementarius.
+- 1367, Fahrî — Hüsrev ü Şirin terc.
+  > ki çoḳ olur dīvār ardında ḳulaḳ
+- 1680, Meninski — Thesaurus
+  > dīvār: Murus, paries. (...) Dīvārci: Murarius.
+
+Not: Türkçede 19. yy'a doğru v/w sesi etkisiyle ilk hece kapanmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/duvar
+
+**TDK** — köken kaydı: Farsça dīvār · anlam: Bir yapının yanlarını dışa karşı koruyan, iç bölümlerini birbirinden ayıran, taş, tuğla vb. gereçlerden yapılan veya örülen dikey düzlem; örek, cidar
+
+### çeşme
+
+**Nişanyan — çeşme**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › çaşm › göz  [türeme]
+- Orta Farsça › çaşmag › a.a.  [ses evrimi]
+- Farsça › çaşma › göz gibi olan şey, pınar, göze  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1300, anon. — Mukaddimetü'l-Edeb terc.
+  > bülgüyü çıḳdı suv çaşmadın [fışkırarak çıktı su çeşmeden]
+- 1614, Cafer Efendi — Risale-i Mi'mâriyye
+  > Türkīde pıŋar démektir ammā şimdi Farisī üzere çeşme dérler
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%A7e%C5%9Fme
+
+**TDK** — köken kaydı: Farsça çeşme · anlam: Genellikle yol kenarlarında herkesin yararlanması için yapılan, borularla gelen suyun bir oluktan veya musluktan aktığı, yalaklı su hazinesi veya yapısı; pınar
+
+### ayna
+
+**Nişanyan — ayna**
+
+Zincir (eskiden yeniye):
+- Avestaca › dāi-, dī- › görmek  [türeme]
+- Avestaca › avi-dayana- › göstermek  [eşkökenlilik]
+- Orta Farsça › ēwēnag › a.a.  [veya]
+- Orta Farsça › *ādēnag/*āyēnag › a.a.  [ses evrimi]
+- Farsça › āyīna/aˀīna › ayna  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > spegius - Fa: ayna - Tr: ḫuzgu [gözgü]
+- 1330, Aşık Paşa — Garib-name
+  > bu mesel bir āyinedür ortada
+- 1766, Mehmet Hâkim Ef. — Tarih
+  > ez-cümle birkaç kebîr dîv âyîneleri vaz‘ olunmuşidi ki timsâl-i temâşâgerânı mânend-i tavd-ı ‘azîm gösterüp
+
+Not: Fa āhan "demir" veya Ar ˁayn "göz" ile birleştirilmesi halk etimolojisidir. • Sadece ayinesi iştir kişinin lafa bakılmaz özdeyişinde Farsça telaffuza göre yazılır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ayna
+
+**Nişanyan — ayna2**
+
+Zincir (eskiden yeniye):
+- Kaynağı bilinmeyen kelime › ?  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1915, Karekin Deveciyan — Balık ve Balıkçılık
+  > ayna آينه istakoz kadar büyük fakat çağanoza az benzer ve pek çirkin bir hayvan olup
+
+Not: Aynaya benzeyen bir yanı yoktur.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ayna2
+
+**TDK** — köken kaydı: Farsça āyīne · anlam: Işığı yansıtan, varlıkların görüntüsünü veren, cilalı ve sırlı cam; gözgü, mirat
+
+### kilit
+
+**Nişanyan — kilit**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *kleh₂u- (*klāw-) › a.a.  [ses evrimi]
+- Eski Yunanca › kleíō › kapatmak, kapalı olmak, örtmek  [türeme]
+- Eski Yunanca › kleïs, kleid- › a.a.  [alıntı]
+- Farsça › kilīd/kalīd › anahtar  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > kirit: al-miftāḥ [[anahtar. Sözcük Arapça (anahtar anlamına gelen) iḳlīd'e yakındır.]] (...) kapıġ kiriti (...) ol ḳapıġ kiritlēdi
+- <1300, Orta Asya'da Bulunmuş Kuran Tefsiri...
+  > bir ḥücrä itdi keliti özi tutar ärdi [bir hücre yaptı anahtarı kendi tutardı]
+- 1330, Aşık Paşa — Garib-name
+  > urludur zindānda bir muḥkem kilid
+
+Not: Ar iklīd (a.a.) Yunancadan alıntıdır. • Aynı kökten Lat claudere, claus- "kapatmak", clavis "kilit", clavus "çivi".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/kilit
+
+**TDK** — köken kaydı: Farsça kelīd, kilīd · anlam: Anahtar, düğme gibi takılıp çıkarılabilen bir parça yardımıyla çalışan kapatma aleti
+
+### menteşe
+
+**Nişanyan — menteşe**
+
+Zincir (eskiden yeniye):
+- Farsça › guşādan, guşā- › açmak  [bileşik sözcüğün devamı]
+- Farsça › band › bağ, mafsal, ligament  [bileşik sözcük]
+- Farsça › band-guşā › eklem, boğum  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1432, Mercimek Ahmed — Kâbusname terc.
+  > ḥammāma çok girecek siŋirler geŋşer, el ayak titregen olur, bend-guşālar geŋşek olur
+- 1533, Filippo Argenti — Regola del Parlare Turco
+  > bendescié [bendeşe]: ghanghero di porte
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/mente%C5%9Fe
+
+**TDK** — köken kaydı: Farsça bendkeşe · anlam: Kapı, pencere, mobilya kapakları vb. açılır kapanır şeylerde kullanılan, bir mille birbirine tutturulmuş, biri sabit, öbürü hareketli iki parçadan oluşmuş metal parça; reze
+
+### kelepçe
+
+**Nişanyan — kelepçe**
+
+Zincir (eskiden yeniye):
+- Eski Türkçe › bilek  [ses evrimi]
+- Orta Türkçe › bilekçe › mahpusların ellerine takılan çift boyunduruk  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- 1519, Mehmed Yeminî — Faziletname
+  > evvel bend ü zencīr / bukağı hem bilekçek habse tedbīr
+- 1790, M. Viguier — Elémens de la langue turque
+  > menottes de prisonnier: bilekce
+- 1831, Hindoğlu — Dictionnaire Français-Turc
+  > Menotte [Fr.]: kelepçe كلپچه
+
+Not: Çağatayca ve 18. yy sonuna dek Türkiye Türkçesi yerleşik olan bilekçe sözcüğünden metatez yoluyla türemiştir. • Vefik Paşa'dan bu yana yaygın olan kanıya istinaden Nişanyan 2002 ... 2018, yanlış olarak, Fa kelāb "iplik kangalı" ve TTr kelābçe/kelebçe "ham iplik sarılan çark" sözcüklerinden türetir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/kelep%C3%A7e
+
+**TDK** — köken kaydı: Farsça kelebçe · anlam: Tutukluların kaçmasını önlemek için bileklerine takılan demir halka; bilezik
+
+### bahçe
+
+**Nişanyan — bahçe**
+
+Zincir (eskiden yeniye):
+- Farsça › bāġ › 1. kısmet, pay, özel üretimi için köylüye tahsis edilen toprak, 2. bahçe  [türeme]
+- Farsça › bāġça › bahçe  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > jardinus - Fa & Tr: bakča
+- 1317, Gülşehri — Mantıku't-Tayr
+  > kimi bāġ u kimi bāḫçe sever
+
+Not: Biçim yönünden Fa +ça küçültme ekiyle yapıldığı düşünülse de anlamında küçültme yoktur. Belki Ave vaχşa- "mülk" sözcüğünden.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bah%C3%A7e
+
+**TDK** — köken kaydı: Farsça bāġçe · anlam: Sebze, meyve, çiçek veya ağaç yetiştirilen yer
+
+### bahar
+
+**Nişanyan — bahar**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *wésr̥ › a.a.  [ses evrimi]
+- Eski Farsça › vāhara › a.a.  [ses evrimi]
+- Orta Farsça › wahār › a.a.  [ses evrimi]
+- Farsça › bahār › ilkbahar  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1317, Gülşehri — Mantıku't-Tayr
+  > bir zemānda kim behār ermiş-idi/ lāle avcına gülef dermiş-idi
+- 1437, Ömer b. Mezîd — Mecmuatü'n-nezâir
+  > bahār geldi gel ey dilber safā kıl gönlüŋ ü cānuŋ
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > bahar: İlk bahar, rebî. Köhne bahar: güz.
+
+Not: Aynı Hintavrupa kökünden Sans vihāra "bahar", Lat ver "yaz", primavera "ilkyaz". Zaz wesar/usar "ilkbahar" biçiminde arkaik /s/ sesinin korunması dikkat çekicidir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bahar
+
+**Nişanyan — bahar2**
+
+Zincir (eskiden yeniye):
+- Farsça › bahār › ilkbahar  [tahmine dayalı veya tartışmalı köken]
+- Arapça › bahār › 1. güzel kokulu bir bitki, buphthalmum, 2. çölde yağmurdan sonra açan bitkilerin genel adı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1600, Ömer L. Barkan — Osmanlı İmparatorluğunda Zirai Ekonomi...
+  > Deve yüki bahārdan ve akmişeden [kumaşlardan] yedişer altun gümrük bācı diye alıur.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bahar2
+
+**TDK** — köken kaydı: Farsça bahār · anlam: ► ilkbahar
+
+### gül
+
+**Nişanyan — gül**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *wr̥dʰo-s › a.a.  [ses evrimi]
+- Avestaca › varəḏa › a.a.  [eşkökenlilik]
+- Orta Farsça › vard › a.a.  [ses evrimi]
+- Farsça › gul › çiçek, özellikle gül  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1250?, Edib Ahmed — Atebet-ül Hakayık
+  > yā būstān teg ol ḥilm karam al gul ol [hilm bir bahçe gibidir, kerem ise al gül]
+- 1330, Aşık Paşa — Garib-name
+  > menzilgāh aŋa gülzār ola
+
+Not: /v-/ > /gu-/ evrimi Farsçada standarttır. Karş. güman, günah, güzide, küstah. /rd/ > /l/ evrimi için karş. dil2, salname. • Zaz vıl "gül" orijinal önsesi korur. Kürd gul Farsçadan alıntıdır. Ar ward ورد, Erm vard վարդ "gül" Eski ve Orta Farsçadan alıntıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/g%C3%BCl
+
+**TDK** — köken kaydı: Farsça gul · anlam: Gülgillerin örnek bitkisi (Rosa)
+
+### lale
+
+**Nişanyan — lale**
+
+Zincir (eskiden yeniye):
+- Farsça › lāl › al renk, kırmızı  [türeme]
+- Orta Farsça › alālag › kırmızı şey, anemon  [ses evrimi]
+- Farsça › lāla › kırmızı çiçek, gelincik veya anemon (Manisa lalesi, şakayık-ı numan)  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1354, Mesud b. Ahmed — Süheyl ü Nevbahar terc.
+  > yöresin gül ü lāle-zār eyleye
+- <1377, Erzurumlu Darir — Kıssa-i Yusuf terc.
+  > ağzı beste sözi şekker yüzi gül / lāle sünbül nergis ola aŋa kul
+- 1477, Lugat-i Halimi
+  > şekir [Fa.]: Lâle dedükleri, şakayık ma‘nâsına, bu yerlerde gelincik çiçeğidür.
+
+Not: Aslen "gelincik veya anemon" anlamındayken bugünkü kullanımı Türkçede 17. yy'dan itibaren egemen olmuştur. Modern anlamda lalenin 1665 dolayında Üsküdarlı Mahmud Hüdayi Ef. tarafından yetiştirildiği ve müritleri tarafından yayıldığı anlatılır. (Galatat 502) Türkiye'den Avrupa ülkelerine taşınmış, hatta orada geliştirilen formları Türkçede lale-i Frengī olarak tanınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/lale
+
+**TDK** — köken kaydı: Farsça lāle · anlam: Zambakgillerden, yaprakları uzun ve sivri, çiçekleri kadeh biçiminde, türlü renkte bir süs bitkisi (Tulipa gesneriana)
+
+### menekşe
+
+**Nişanyan — menekşe**
+
+Zincir (eskiden yeniye):
+- Avestaca › vaxşaiti, vaxş- › yetişmek, bitmek (bitki)  [türeme]
+- Avestaca › *vana-vaxşa- › orman otu  [eşkökenlilik]
+- Orta Farsça › vanavşag › a.a.  [ses evrimi]
+- Farsça › banafşa › a.a.  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1354, Mesud b. Ahmed — Süheyl ü Nevbahar terc.
+  > benefşe gül ü sūsen ü yāsemen
+- 1533, Filippo Argenti — Regola del Parlare Turco
+  > beneuscé & menechscé [benevşe, menekşe]: maluagia
+
+Not: Ar banafşac/manafşac, Süry mənīşkā, Erm manişag մանիշակ biçimleri Farsçadan alınmıştır. /b/ > /m/ evriminin Farsçada mevcut olduğu anlaşılmaktadır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/menek%C5%9Fe
+
+**TDK** — köken kaydı: Farsça benefşe · anlam: Menekşegillerden, bir veya çok yıllık otsu bir bitki (Viola tricolor)
+
+### sümbül
+
+**Nişanyan — sümbül**
+
+Zincir (eskiden yeniye):
+- Akatça › şubultu › a.a.  [eşkökenlilik]
+- Aramice-Süryanice / İbranice › şībbəleth › başak  [alıntı]
+- Arapça › sunbul/sunbula(t) › 1. başak, 2. başak şeklinde bir çiçek, hyacinthus  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > spicus - Fa & Tr: sonbul
+- <1377, Erzurumlu Darir — Kıssa-i Yusuf terc.
+  > gözi nergisden ḫarāc alur idi / zülfi sünbül aya tāc olur idi
+
+Not: Karş. İng shibboleth "Tevrat töresince biçilmeden bırakılan tek ekin başağı".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/s%C3%BCmb%C3%BCl
+
+**TDK** — köken kaydı: Farsça sunbul · anlam: Zambakgillerden, soğanla üretilen, keskin kokulu ve türlü renkli, çok yıllık bir süs bitkisi (Hyacinthus orientalis)
+
+### çınar
+
+**Nişanyan — çınar**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › çēnār/çēnyār › a.a.  [ses evrimi]
+- Farsça › çanār/çinār › çınar ağacı, platanus orientalis  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1354, Mesud b. Ahmed — Süheyl ü Nevbahar terc.
+  > Bādem şeftelü hem çenār ağacı
+
+Not: Batı İran veya Anadolu kökenli bir ağaçtır. Erm çandari ճանդարի ve Gürc çandari ჭანდარი biçimleri muhtemelen Partçadan alınmıştır ve sözcüğün ikinci kısmının Fa dār "ağaç" ile ilgili olduğunu düşündürürler.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%A7%C4%B1nar
+
+**TDK** — köken kaydı: Farsça çenār · anlam: İki çeneklilerden, 30 metreye kadar uzayabilen, gövdesi kalın, uzun ömürlü, geniş yapraklı bir ağaç (Platanus)
+
+### servi
+
+**TDK** — köken kaydı: Farsça serv · anlam: Servigillerden, Akdeniz Bölgesi'nde çok yetişen, kışın yapraklarını dökmeyen, 25 metre boyunda, ince, uzun, piramit biçiminde, çok koyu yeşil yapraklı bir ağaç; andız, selvi, servi ağacı (Cupressus sempenvirens)
+
+### tohum
+
+**Nişanyan — tohum**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *tewk- › tohum vermek, soyunu sürdürmek  [ses evrimi]
+- Sanskritçe › toká › bir kişinin soyundan gelenler  [eşkökenlilik]
+- Avestaca › taoχman- › a.a.  [eşkökenlilik]
+- Eski Farsça › tauma- › aşiret, aile  [ses evrimi]
+- Orta Farsça › tōhmag/tōm › çekirdek; soy; aile  [ses evrimi]
+- Farsça › tuχm › bitki tohumu, döl, soy  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > semen - Fa: tokm & tohm - Tr: ourluk [uruğluk?]
+- 1680, Meninski — Thesaurus
+  > toḫm vul. tohum
+
+Not: Erm dohm տոհմ "aşiret, hanedan" Orta İrancadan alıntıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tohum
+
+**TDK** — köken kaydı: Farsça tuḫm · anlam: Bitkilerde döllenme sonunda yumurtacıktan oluşan ve yeni bir bitki oluşmasını sağlayan tane; ekecek
+
+### fıstık
+
+**Nişanyan — fıstık**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › pistag › a.a.  [alıntı]
+- Arapça › fustuḳ › fıstık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > festechum - Fa: festuk - Tr: pistak
+- 1380, Şeyhoğlu — Marzubânnâme terc.
+  > fıstukī ḫāre ayağında
+- 1387, İrşadü'l-Mülûk ve's-Selâtîn
+  > takı yaş koz takı yaş cevz takı yaş fustuk evvelkı kabukı içinde
+
+Not: EYun pistákion, Erm bisdag պիստակ (a.a.) biçimleri Farsçadan alınmıştır. Yunancada M 2. yy'dan itibaren görülür. L&S 1407. • Batı dillerine Yunancadan geçmiştir. Karş. Fr pistache, İng pistachio.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/f%C4%B1st%C4%B1k
+
+**TDK** — köken kaydı: Arapça fustuḳ · anlam: Antep fıstığı, çam fıstığı veya yer fıstığı denilen yemişlerin genel adı
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - Nişanyan ilişki alanında **"tahmine dayalı"**, **"tartışmalı"**,
+     **"belirsiz"** veya benzeri bir kayıt varsa `formationType` değerini
+     `"tartışmalı"` yap ve `alternatives` dizisini doldur.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `en` İngilizce · `la` Latince · `de` Almanca · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "pencere",
+    "word": "pencere",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "sa",
+    "chain": [
+      {"language": "sa", "form": "pañjara", "meaning": "kafes", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pancara", "meaning": "kafes, pencere kafesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pencere", "meaning": "ışık ve hava sağlayan yapı açıklığı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yapıya ışık ve hava sağlayan açıklık.",
+    "currentMeaning": "Binalarda veya taşıtlarda içeriye ışık ve hava girmesini sağlayan, çoğunlukla camla kapatılmış açıklık.",
+    "story": "Pencerenin geçmişinde camdan önce kafes vardır: Sanskritçe pañjara, kafes biçimindeki bir nesnenin adıydı. Farsçaya geçen pancara özellikle pencere açıklığındaki kafesi de adlandırdı. Türkçede ad, açıklığın önündeki kafesten ışığın içeri girdiği açıklığın kendisine taşındı.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "pancara"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pencere maddesi", "url": "https://www.nisanyansozluk.com/kelime/pencere"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pencere", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çerçeve",
+    "word": "çerçeve",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "çobag", "meaning": "çubuk", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çūba", "meaning": "çubuk", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çār-çūba", "meaning": "dört çubuktan oluşan kenarlık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çerçeve", "meaning": "bir nesnenin çevresini kuşatan kenarlık", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Resim, ayna veya yazının çevresine geçirilen kenarlık.",
+    "currentMeaning": "Resim, yazı ve ayna gibi nesneleri çevreleyen, korumaya, süslemeye veya asmaya yarayan kenarlık.",
+    "story": "Çerçevenin Farsça adında dört çubuk yan yana durur: çār 'dört', çūba ise 'çubuk'tur. Bir araya getirilen bu parçalar, ortasında boşluk bulunan dörtgen bir kenarlık oluşturur. Türkçedeki eski kullanım kapının alt ve üst eşiklerini de kapsarken bugün sözcük resim ve aynaların çevresindeki kenarlıklarda yaşamayı sürdürür.",
+    "firstAttestation": {"source": "Filippo Argenti — Regola del Parlare Turco", "period": "1533", "form": "çerçive"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çerçeve maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7er%C3%A7eve"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çerçeve", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "perde",
+    "word": "perde",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "pardag", "meaning": "örtü, perde", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "parda", "meaning": "örtü; müzik perdesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "perde", "meaning": "bir açıklığı örten örtü; müzik terimi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Işığı veya görüşü kesmek için asılan örtü.",
+    "currentMeaning": "Pencere ya da başka bir açıklığın önüne asılarak ışığı, görüşü veya görünürlüğü sınırlayan örtü.",
+    "story": "Farsça parda yalnızca pencereye asılan kumaşı değil, kapıyı, çadır girişini veya yüzü örten örtüyü de adlandırıyordu. Bu kullanımın merkezinde bir şeyi gözden saklayan örtü bulunur. Türkçe perde, aynı örtme işlevini koruyarak evlerin pencere örtülerinin yerleşik adı oldu.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "perdede"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Perdenin müzikteki kullanımı da Farsçada vardı ve Türkçede 1330 yılında tanıklanmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "perde maddesi", "url": "https://www.nisanyansozluk.com/kelime/perde"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "perde", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "merdiven",
+    "word": "merdiven",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "nard", "meaning": "tahta, tabla", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nardubān", "meaning": "basamaklı çıkma aracı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "merdiven", "meaning": "çıkıp inmeye yarayan basamaklar", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yükseklikler arasında çıkıp inmeyi sağlayan basamaklar dizisi.",
+    "currentMeaning": "Farklı yükseklikteki yerler arasında geçiş sağlayan sabit veya taşınabilir basamaklı düzenek.",
+    "story": "Merdivenin geçmişi Farsçada tahta ve tabla için kullanılan nard adına uzanır. Ondan türeyen nardubān, yukarı çıkmayı sağlayan basamaklı aracı adlandırıyordu. Türkçede nerdübān gibi biçimlerden merdüven ve merdivene uzanan değişim sırasında adın sesleri değişti, basamaklarla yükselme fikri kaldı.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "nedübān"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "merdiven maddesi", "url": "https://www.nisanyansozluk.com/kelime/merdiven"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "merdiven", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "duvar",
+    "word": "duvar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "dʰei̯ǵʰ-", "meaning": "yoğurmak", "period": null, "reconstructed": true},
+      {"language": "peo", "form": "deġa-", "meaning": "kil, kerpiç", "period": null, "reconstructed": false},
+      {"language": "peo", "form": "deġa-vāra-", "meaning": "kerpiçten koruyucu çevre duvarı", "period": null, "reconstructed": true},
+      {"language": "fa", "form": "dīvār", "meaning": "duvar", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "duvar", "meaning": "yapıyı çevreleyen veya bölen dikey yapı öğesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir yapıyı çevreleyen veya içini bölen dikey yapı öğesi.",
+    "currentMeaning": "Taş, tuğla ve benzeri malzemelerle oluşturulan, bir yapıyı dıştan sınırlayan veya iç mekânlarını ayıran dikey bölüm.",
+    "story": "Duvarın eski adında hem malzeme hem işlev bulunur: Eski Farsça deġa- kerpici, vāra- ise koruyup çevirmeyi anlatır. Kerpiç adının daha gerisindeki kök, kilin elle yoğrulması eylemine uzanır. Bu parçaların birleşimi Farsçada dīvār biçimine ulaşmış, Türkçede duvar olurken yalnızca kerpiçten yapılan yapılarla sınırlı kalmamıştır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "diuar"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "duvar maddesi", "url": "https://www.nisanyansozluk.com/kelime/duvar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "duvar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çeşme",
+    "word": "çeşme",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "çaşm", "meaning": "göz", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "çaşmag", "meaning": "göze, pınar", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çaşma", "meaning": "gözü andıran şey; su kaynağı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çeşme", "meaning": "suyun akıtıldığı yapı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Suyun bir musluk veya oluktan aktığı yapı.",
+    "currentMeaning": "Getirilen suyu bir musluk ya da oluktan akıtarak kullanıma sunan, çoğunlukla kamusal alanda bulunan yapı.",
+    "story": "Çeşmenin başlangıcında bir göz vardır: Orta Farsça çaşm, görme organının adıydı. Bu addan türeyen biçim, göz gibi görünen su çıkışını ve pınarı adlandırdı. Türkçede çeşme, doğal kaynağın yanında suyun getirilip akıtıldığı yapının da adı oldu; göz ile su kaynağı arasındaki benzerlik Türkçe gözede de görülür.",
+    "firstAttestation": {"source": "Anonim — Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "çaşmadın"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çeşme maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7e%C5%9Fme"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çeşme", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ayna",
+    "word": "ayna",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "ādēnag/āyēnag", "meaning": "ayna", "period": null, "reconstructed": true},
+      {"language": "fa", "form": "āyīna/aˀīna", "meaning": "görüntüyü yansıtan nesne", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ayna", "meaning": "görüntü veren yansıtıcı yüzey", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Işığı yansıtarak karşısındakinin görüntüsünü veren yüzey.",
+    "currentMeaning": "Karşısındaki varlıkların görüntüsünü yansıtan, genellikle arka yüzü özel bir tabakayla kaplanmış cam.",
+    "story": "Farsça āyīna, karşısındaki kişiye kendi görüntüsünü gösteren nesnenin adıydı. Daha eski İran dili bağlantıları görme ve gösterme eylemlerine uzanır; ancak Orta Farsçadaki önceki biçim için alternatifler vardır. Türkçede âyine ve ayna biçimleriyle yaşayan ad, bugün de aynı yansıtma işini yapan nesneyi anlatır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "āyinedür"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Orta Farsça ēwēnag biçimini yeniden kurulan ādēnag/āyēnag biçimlerine alternatif olarak verir ve Avestaca avi-dayana- ile eş kökenlilik ilişkisi kurar."
+    ],
+    "funFact": "Aynanın adını Farsçadaki demir veya Arapçadaki göz sözüyle açıklamak halk etimolojisidir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ayna maddesi", "url": "https://www.nisanyansozluk.com/kelime/ayna"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ayna", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kilit",
+    "word": "kilit",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "kleh₂u-", "meaning": "kapatmak", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "kleíō", "meaning": "kapatmak, örtmek", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "kleïs, kleid-", "meaning": "anahtar", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "kilīd/kalīd", "meaning": "anahtar", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kilit", "meaning": "açılıp kapanmayı denetleyen kapatma düzeneği", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Anahtar veya benzeri bir parçayla açılan kapatma düzeneği.",
+    "currentMeaning": "Kapı, kapak veya benzeri şeyleri kapalı tutan ve anahtar gibi bir araçla açılıp kapanan düzenek.",
+    "story": "Eski Yunancada kapatmayı anlatan fiilden bir anahtar adı türedi ve Farsçada kilīd biçimini aldı. Türkçedeki erken kirit kullanımı da kapıyı açan anahtarı adlandırıyordu. Zamanla ad, elde tutulan anahtardan onun çalıştırdığı kapatma düzeneğine kaydı; bugünkü kilit bu anlam değişimini taşır.",
+    "firstAttestation": {"source": "Kaşgarî — Divan-i Lugati't-Türk", "period": "1073", "form": "kirit"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kilit maddesi", "url": "https://www.nisanyansozluk.com/kelime/kilit"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kilit", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "menteşe",
+    "word": "menteşe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "band", "meaning": "bağ, eklem", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "band-guşā", "meaning": "eklem, boğum", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "menteşe", "meaning": "bir kapağın dönerek açılmasını sağlayan bağlantı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kapı veya kapağı dönerek açılıp kapanacak biçimde bağlayan parça.",
+    "currentMeaning": "Kapı, pencere ve kapakları sabit bir yüzeye bağlayıp bir eksen çevresinde hareket etmelerini sağlayan metal bağlantı.",
+    "story": "Menteşenin Farsça geçmişi için verilen biçimler farklıdır; açıklamalardan biri band 'bağ, eklem' ile guşā- 'açmak' parçalarını birleştirir. Bu açıklamadaki band-guşā, bedenin hareket eden eklem ve boğumlarını adlandırıyordu. Türkçedeki eski örneklerde de bedensel eklem kullanımı görülür; daha sonra aynı hareketli bağlantı düşüncesi kapının açılıp kapanmasını sağlayan parçaya taşınır.",
+    "firstAttestation": {"source": "Mercimek Ahmed — Kâbusname tercümesi", "period": "1432", "form": "bend-guşālar"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük menteşeyi Farsça band-guşā ile açıklarken TDK Güncel Türkçe Sözlük kaynak biçimi bendkeşe olarak verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "menteşe maddesi", "url": "https://www.nisanyansozluk.com/kelime/mente%C5%9Fe"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "menteşe", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kelepçe",
+    "word": "kelepçe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {"language": "otk", "form": "bilek", "meaning": "elin kola bağlandığı bölüm", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bilekçe", "meaning": "tutuklunun bileklerini bağlayan araç", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kelepçe", "meaning": "bilekleri birbirine bağlayan kilitli halkalar", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bileklere takılarak ellerin hareketini sınırlayan kilitli halkalar.",
+    "currentMeaning": "Tutulan kişinin ellerini serbestçe kullanmasını veya kaçmasını önlemek için bileklerine takılan bağlantılı metal halkalar.",
+    "story": "Bir açıklamaya göre kelepçenin eski adı bilekçeydi ve takıldığı beden bölümünü doğrudan gösteriyordu. Bu açıklama, bilekçeden kelepçeye geçişi seslerin yer değiştirmesiyle ilişkilendirir. Farsça bir başlangıç önerisi de bulunduğundan köken tartışmalıdır; Türkçe açıklama benimsenirse bugünkü biçimin içinde tanınması zorlaşmış bir bilek saklıdır.",
+    "firstAttestation": {"source": "Mehmed Yeminî — Faziletname", "period": "1519", "form": "bilekçek"},
+    "relatives": [
+      {"word": "bilek", "relation": "akraba"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük kelepçeyi Türkçe bilekçenin ses değişimine bağlar ve önceki Farsça açıklamasını yanlış olarak niteler.",
+      "TDK Güncel Türkçe Sözlük kelepçe için Farsça kelebçe kökenini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kelepçe maddesi", "url": "https://www.nisanyansozluk.com/kelime/kelep%C3%A7e"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kelepçe", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bahçe",
+    "word": "bahçe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bāġ", "meaning": "pay, ayrılmış tarım toprağı; bahçe", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bāġça", "meaning": "bitki yetiştirilen yer", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bahçe", "meaning": "sebze, meyve veya süs bitkileri yetiştirilen alan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sebze, meyve, çiçek veya ağaç yetiştirilen alan.",
+    "currentMeaning": "Besin ya da süs amacıyla çeşitli bitkilerin yetiştirildiği toprak alan.",
+    "story": "Farsça bāġ, bahçenin yanında payı ve bir kişinin üretimine ayrılan toprağı da adlandırıyordu. Bahçeyi bu söze bağlayan açıklamada bāġça, işlenip bitki yetiştirilen alanın adıdır. Son bölüm küçültme ekiyle açıklanabilse de kelime yalnızca küçük yerleri anlatmaz; daha eski bağlantısı için başka bir öneri de vardır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "bakča"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük bāġça biçimini bāġ ve küçültme ekiyle ilişkilendirirken anlamda küçültme bulunmadığını belirtir; Avestaca vaχşa- 'mülk' bağlantısını da olasılık olarak sunar."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bahçe maddesi", "url": "https://www.nisanyansozluk.com/kelime/bah%C3%A7e"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bahçe", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bahar",
+    "word": "bahar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "wésr̥", "meaning": "ilkbahar", "period": null, "reconstructed": true},
+      {"language": "peo", "form": "vāhara", "meaning": "ilkbahar", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "wahār", "meaning": "ilkbahar", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bahār", "meaning": "ilkbahar", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bahar", "meaning": "kıştan sonra gelen mevsim", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kış ile yaz arasındaki mevsim; ilkbahar.",
+    "currentMeaning": "Kışın ardından gelen, havanın ısındığı ve bitkilerin yeniden geliştiği mevsim.",
+    "story": "Bahar, İran dillerinin eski dönemlerinden beri aynı mevsimi adlandıran bir sözün devamıdır. Eski Farsça vāhara ve Orta Farsça wahār, Farsçada bahār biçimine ulaşırken kışın ardından gelen dönemi anlatmayı sürdürdü. Türkçeye de bu mevsim adı geçti; kelimenin yolculuğunda büyük bir anlam değişmesinden çok eski bir adın korunması görülür.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "behār"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bahar maddesi", "url": "https://www.nisanyansozluk.com/kelime/bahar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bahar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gül",
+    "word": "gül",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "wr̥dʰo-s", "meaning": "gül", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "vard", "meaning": "gül", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "gul", "meaning": "çiçek; özellikle gül", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gül", "meaning": "Rosa cinsinden bitki ve çiçeği", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Rosa cinsinden bitkilerin ve çiçeklerinin adı.",
+    "currentMeaning": "Gülgillerden, çok sayıda türü ve yetiştirilen çeşidi bulunan Rosa cinsindeki bitki ve onun çiçeği.",
+    "story": "Gülün eski İran dillerindeki vard biçimi, bugünkü kısa adıyla ilk bakışta benzeşmez. Farsçadaki ses değişmeleri bu biçimi gul hâline getirirken sözcük hem çiçeği genel olarak hem de özellikle gülü adlandırdı. Türkçede gül, bu geniş çiçek adının belirli bir bitkiye ayrılmış kullanımıyla yerleşti.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "gülzâr", "relation": "birleşik"}
+    ],
+    "alternatives": null,
+    "funFact": "Arapça ward ve Ermenice vard, gülün eski İran dillerindeki biçimini koruyan alıntılardır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "gül maddesi", "url": "https://www.nisanyansozluk.com/kelime/g%C3%BCl"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "gül", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "lale",
+    "word": "lale",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "lāl", "meaning": "kırmızı, al renk", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "alālag", "meaning": "kırmızı nesne; anemon", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "lāla", "meaning": "kırmızı çiçek; gelincik veya anemon", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lale", "meaning": "Tulipa cinsinden süs bitkisi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kadeh biçimli çiçekler açan soğanlı süs bitkisi.",
+    "currentMeaning": "Uzun yaprakları ve farklı renklerde kadehi andıran çiçekleri bulunan soğanlı süs bitkisi.",
+    "story": "Lalenin adının gerisinde kırmızı renk vardır; Farsça lāl, al rengi anlatıyordu. Bu renk bağlantısını taşıyan çiçek adı başlangıçta gelincik ve anemon gibi bitkiler için kullanıldı. Türkçede de eski kullanım bu çiçekleri kapsarken bugün bildiğimiz lale anlamı 17. yüzyıldan itibaren baskınlaştı.",
+    "firstAttestation": {"source": "Mesud b. Ahmed — Süheyl ü Nevbahar tercümesi", "period": "1354", "form": "lāle-zār"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Avrupa'da geliştirilen lale çeşitleri Türkçede bir dönem lale-i Frengī adıyla anılmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "lale maddesi", "url": "https://www.nisanyansozluk.com/kelime/lale"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lale", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "menekşe",
+    "word": "menekşe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "vanavşag", "meaning": "menekşe", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "banafşa", "meaning": "menekşe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "menekşe", "meaning": "Viola cinsinden çiçekli otsu bitki", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Viola cinsinden çiçekli otsu bitki.",
+    "currentMeaning": "Menekşegillerden, bir yıllık veya çok yıllık türleri bulunan çiçekli otsu bitki.",
+    "story": "Menekşenin İran dillerindeki geçmişinde, Avestacada 'orman otu' diye çözümlenen eş kökenli bir biçim bulunur. Bu biçimdeki bitip yetişme fikri, adı ormanda gelişen bir ota bağlar. Orta Farsça vanavşag ve Farsça banafşa çizgisinden Türkçeye ulaşan bitki adı, önce benefşe gibi biçimlerle, sonra menekşe olarak kullanılmıştır.",
+    "firstAttestation": {"source": "Mesud b. Ahmed — Süheyl ü Nevbahar tercümesi", "period": "1354", "form": "benefşe"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "menekşe maddesi", "url": "https://www.nisanyansozluk.com/kelime/menek%C5%9Fe"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "menekşe", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sümbül",
+    "word": "sümbül",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "he",
+    "chain": [
+      {"language": "he", "form": "şībbəleth", "meaning": "başak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "sunbul/sunbula(t)", "meaning": "başak; başağı andıran çiçek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sümbül", "meaning": "kokulu, soğanlı süs bitkisi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Salkım hâlinde kokulu çiçekler açan soğanlı süs bitkisi.",
+    "currentMeaning": "Soğandan yetişen, çok yıllık, yoğun kokulu ve çeşitli renklerde çiçekleri bulunan süs bitkisi.",
+    "story": "Sümbülün daha eski dil bağlantılarında tahıl başağı vardır. Arapça sunbul, başağın yanı sıra çiçekleri başak gibi dizilen sümbülü de adlandırıyordu. Böylece yenilen tahılın biçimi bir süs çiçeğinin adına taşındı; Türkçeye doğrudan Arapçadan mı, Farsça üzerinden mi ulaştığı konusunda kaynaklar ayrılır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "sonbul"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçe sümbülü Arapça sunbul/sunbula(t) biçimine bağlarken TDK Güncel Türkçe Sözlük doğrudan kaynak dili Farsça olarak verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sümbül maddesi", "url": "https://www.nisanyansozluk.com/kelime/s%C3%BCmb%C3%BCl"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sümbül", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "çınar",
+    "word": "çınar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "çēnār/çēnyār", "meaning": "çınar ağacı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çanār/çinār", "meaning": "doğu çınarı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çınar", "meaning": "iri gövdeli ve geniş yapraklı ağaç", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kalın gövdeli, geniş yapraklı ve uzun ömürlü ağaç.",
+    "currentMeaning": "Platanus cinsinden, büyük boylara ulaşabilen, gövdesi kalın ve yaprakları geniş ağaç.",
+    "story": "Çınar, Orta Farsçadan Farsçaya uzanan çizgide aynı ağacın adı olarak yaşamıştır. Türkçeye geçtiğinde de iri gövdeli, geniş yapraklı ağacı göstermeyi sürdürmüş, belirgin bir anlam değişikliği geçirmemiştir. Adın son bölümünün Farsçadaki 'ağaç' sözüyle bağlantılı olabileceği düşünülür; ancak bu daha eski çözümleme kesin değildir.",
+    "firstAttestation": {"source": "Mesud b. Ahmed — Süheyl ü Nevbahar tercümesi", "period": "1354", "form": "çenār"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Ermenice ve Gürcüce çandari biçimlerinden hareketle çınarın ikinci bölümünün Farsça dār 'ağaç' ile ilişkili olabileceğini belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çınar maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7%C4%B1nar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çınar", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "servi",
+    "word": "servi",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "serv", "meaning": "servi ağacı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "servi", "meaning": "ince uzun, her dem yeşil ağaç", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kışın da yeşil kalan, ince uzun gövdeli ağaç.",
+    "currentMeaning": "Akdeniz çevresinde yaygın olan, koyu yeşil yapraklarını kışın koruyan, uzun ve dar görünüşlü ağaç.",
+    "story": "Farsça serv, ince uzun yükselen ve kışın da yeşil kalan ağacın adıydı. Türkçeye servi biçiminde taşınan ad, aynı ağacı göstermeyi sürdürdü. Buradaki yolculuk bir nesneden başka bir nesneye geçiş değil, ağaç adının diller arasında yaşamasıdır.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "selvi", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "servi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tohum",
+    "word": "tohum",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "tewk-", "meaning": "tohum vermek, soyu devam ettirmek", "period": null, "reconstructed": true},
+      {"language": "peo", "form": "tauma-", "meaning": "aile, aşiret", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "tōhmag/tōm", "meaning": "çekirdek; aile, soy", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "tuḫm", "meaning": "bitki tohumu; soy, döl", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tohum", "meaning": "yeni bitkinin gelişebildiği üreme tanesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Uygun koşullarda yeni bir bitki geliştirebilen tane.",
+    "currentMeaning": "Bitkide döllenme sonrasında gelişen ve uygun ortamda çimlenerek yeni bitkiyi oluşturabilen üreme yapısı.",
+    "story": "Tohumun geçmişinde bitkiyle insan soyu aynı devamlılık düşüncesinde buluşur. Eski Farsça tauma- aile ve aşireti anlatırken Orta Farsçadaki devamı hem çekirdeği hem soyu kapsıyordu. Farsça tuḫm bu iki alanı birlikte taşıdı; Türkçede tohum denince öne çıkan somut nesne, toprağa bırakıldığında yeni bitkinin yetiştiği tanedir.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "tohum"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Ermenicedeki dohm 'hanedan, aşiret' sözü de aynı kelime ailesinden Orta İranca bir alıntıdır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tohum maddesi", "url": "https://www.nisanyansozluk.com/kelime/tohum"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tohum", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "fıstık",
+    "word": "fıstık",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "pistag", "meaning": "fıstık", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "fustuḳ", "meaning": "fıstık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fıstık", "meaning": "çeşitli yenilebilir yemişlerin ortak adı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Antep fıstığı, çam fıstığı ve yer fıstığı gibi yemişlerin ortak adı.",
+    "currentMeaning": "Antep fıstığı, çam fıstığı ve yer fıstığı adlarıyla bilinen farklı yemişler için kullanılan genel ad.",
+    "story": "Orta Farsça pistag, yenilen fıstığın adıydı; Arapçaya geçince fustuḳ biçimini aldı. Türkçedeki fıstık bu Arapça biçim üzerinden yerleşti. Bugün ad yalnızca Antep fıstığında kalmaz, çam fıstığı ve yer fıstığı gibi farklı yemişleri de ortak bir ad altında toplar.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "pistak"},
+    "relatives": [
+      {"word": "pistachio", "relation": "eş köken"},
+      {"word": "pistache", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "İngilizce pistachio aynı İran kökenli adın Yunanca üzerinden Batı dillerine ulaşmış akrabasıdır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fıstık maddesi", "url": "https://www.nisanyansozluk.com/kelime/f%C4%B1st%C4%B1k"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "fıstık", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+28,040

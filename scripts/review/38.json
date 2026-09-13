@@ -1,0 +1,26 @@
+[
+  {
+    "id": "çenk",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve Kubbealtı Lugatı'nın üçünde de madde bulunamadı.",
+      "sources TDK'yi gösteriyor ve çekim aynı yazımla yapılmış, yine de kayıt dönmemiş; çekim hatası olabilir, yeniden denenmeli."
+    ]
+  },
+  {
+    "id": "çâk",
+    "verdict": "drop",
+    "objections": [
+      "formationType null ve doğrulayıcı hata veriyor; asıl sorun daha derinde: madde başı şapkalı yazılmış, yani edebî alıntı kastedilmiş, ama içerik TDK'nin ilk homoniminden, yani ilgisiz Türkçe kelimeden yazılmış. formationType'a alıntı yazmak bu Türkçe anlamı Farsça alıntı gibi göstereceği için durumu kötüleştirir.",
+      "İçerik TDK'deki 'çak' (el çakma) maddesinden yazılmış; madde başının karşılığı olan Farsça çāk 'yırtık' TDK'de ikinci homonim olarak var, madde bu kayıttan yeniden üretilmeli."
+    ]
+  },
+  {
+    "id": "dâm",
+    "verdict": "drop",
+    "objections": [
+      "formationType null ve doğrulayıcı hata veriyor; asıl sorun daha derinde: madde başı şapkalı yazılmış, yani edebî alıntı kastedilmiş, ama içerik TDK'nin ilk homoniminden, yani ilgisiz Türkçe kelimeden yazılmış. formationType'a alıntı yazmak bu Türkçe anlamı Farsça alıntı gibi göstereceği için durumu kötüleştirir.",
+      "İçerik TDK'deki 'dam' (çatı) maddesinden yazılmış; TDK'nin öteki dam homonimi Fransızca dame olduğundan madde başına karşılık gelen bir kayıt bulunamadı."
+    ]
+  }
+]

@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "perestiş",
+    "word": "perestiş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "paristīdan, parist-", "meaning": "birinin yanında hazır bulunmak ve hizmetinde durmak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "parastişn", "meaning": "birinin yanında hazır bulunmak ve hizmetinde durmak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "parastiş", "meaning": "hizmet ve ibadet", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "perestiş", "meaning": "tapınma ve derin bağlılık", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Tapınma veya taparcasına bağlanma.",
+    "currentMeaning": "Bir varlığa tapınma ya da birine taparcasına bağlılık gösterme.",
+    "story": "Kelimenin gerisinde birinin yanında hazır bekleyen, onun hizmetinde duran kişinin hareketi vardır. Orta Farsçadaki bu hizmet etme eylemi, Farsçada ibadeti de karşılayan bir ada dönüştü. Türkçede perestiş, hizmetin kendisinden çok tapınmayı ve taparcasına bağlılığı öne çıkardı.",
+    "firstAttestation": {"source": "Yazıcızade Ali — Tarih-i Âl-i Selçuk", "period": "1423", "form": "perestiş"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "perestiş maddesi", "url": "https://www.nisanyansozluk.com/kelime/peresti%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "perestiş maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "perva",
+    "word": "perva",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "parvā", "meaning": "korkup çekinme, bir şeyden vazgeçme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "perva", "meaning": "korku ve çekingenlik", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Korku yüzünden duyulan çekinme.",
+    "currentMeaning": "Bir durum veya tehlike karşısında duyulan korku, çekinme ve sakınma.",
+    "story": "Farsçada parvā, insanı bir davranıştan geri tutan korkuyu ve çekinmeyi karşılıyordu. Türkçeye geçerken bu geri durma duygusunu korudu. Perva etmemek sözünde ise aynı duygu olumsuzlanır; kişi korkuya kapılmadan davranır.",
+    "firstAttestation": {"source": "Ömer b. Mezîd — Mecmuatü'n-nezâir", "period": "1437", "form": "pervāsı"},
+    "relatives": [{"word": "pervasız", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "perva maddesi", "url": "https://www.nisanyansozluk.com/kelime/perva"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "perva maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pervaz",
+    "word": "pervaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "weǵʰ-", "meaning": "gitme, taşıma ve ulaştırma", "period": null, "reconstructed": true},
+      {"language": "ae", "form": "vaz-", "meaning": "gitme, taşıma ve uçma", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "parvāz", "meaning": "uçuş, sıçrayış, takla; kanat ve saçak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pervaz", "meaning": "kapı veya pencere kenarını çevreleyen dar parça", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kapı veya pencere kenarına takılan dar parça.",
+    "currentMeaning": "Kapı ve pencere gibi açıklıkların kenarlarını çevrelemek için kullanılan dar yapı parçası.",
+    "story": "Bugün pencere kenarında duran pervazın eski anlam dünyasında uçuş vardır. Gitme ve taşıma bildiren eski kök, Avestacada uçmayı da karşılar; Farsçada parvāz hem uçuşu hem kanat ve saçağı adlandırır. Türkçede uçma anlamı eski metinlerde görülürken kenarları çevreleyen parçayı anlatan kullanım da yerleşmiştir. Günlük yapı dilinde yaşayan anlam, bu kanat ve saçak tarafıdır.",
+    "firstAttestation": {"source": "Anonim — Tezkiretü'l-Evliya tercümesi", "period": "1341", "form": "pervāz"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pervaz maddesi", "url": "https://www.nisanyansozluk.com/kelime/pervaz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pervaz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "peyderpey",
+    "word": "peyderpey",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "zarf",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "pay", "meaning": "ayak, atılan adım ve arka", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pay dar pay", "meaning": "bir adımın ardından öteki, peş peşe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "peyderpey", "meaning": "küçük bölümler veya aşamalar hâlinde", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Küçük bölümler hâlinde, aşama aşama.",
+    "currentMeaning": "Bir işin veya sürecin küçük bölümler hâlinde, zaman içinde ilerlemesini belirten söz.",
+    "story": "Farsça pay, ayağı ve onun attığı adımı adlandırır. Pay dar pay ifadesinde bir adımın arkasından öteki gelir; böylece yürüyüş, birbirini izleyen işlerin de resmi olur. Türkçede peyderpey, bu sıralı ilerleyişten hareketle bir şeyin küçük bölümler hâlinde gerçekleşmesini anlatır.",
+    "firstAttestation": {"source": "Ömer b. Mezîd — Mecmuatü'n-nezâir", "period": "1437", "form": "pey-ā-pey"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "peyderpey maddesi", "url": "https://www.nisanyansozluk.com/kelime/peyderpey"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "peyderpey maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "rengârenk",
+    "word": "rengârenk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "rengāreng", "meaning": "birçok farklı renkte", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rengârenk", "meaning": "birçok farklı renkte", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birçok farklı rengi bir arada taşıyan.",
+    "currentMeaning": "Üzerinde veya içinde birbirinden farklı pek çok renk bulunan.",
+    "story": "Farsça rengāreng, tek bir renge sığmayan görünüşü anlatır. Türkçede rengârenk biçimini alan kelime, farklı renklerin yan yana bulunması fikrini korur. Bir çiçek bahçesiyle çok renkli bir kumaşın aynı sözle anlatılmasını sağlayan ortaklık budur.",
+    "firstAttestation": null,
+    "relatives": [{"word": "renk", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rengârenk maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "rint",
+    "word": "rint",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "rind", "meaning": "güzel insan; düşünür, gönlü geniş ve dünya hırsından uzak kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rint", "meaning": "gösterişten ve dünya kaygılarından uzak yaşayan kişi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dünya hırslarından uzak, gönlünce yaşayan kimse.",
+    "currentMeaning": "Dış görünüşe ve toplumsal kurallara fazla önem vermeden, hayatı kendi iç dünyasının ölçüleriyle değerlendiren kimse.",
+    "story": "Farsça rind, güzel insanı da dünya hırsını geride bırakmış kalender kişiyi de anlatıyordu. Türkçedeki rintte özellikle ikinci portre belirginleşti: gösterişin ve kazanç kaygısının peşinden gitmeyen insan. Kelime böylece dış dünyanın ölçülerinden çok kendi gönlünü dinleyen bir yaşayışın adı oldu.",
+    "firstAttestation": {"source": "Anonim — Kitabü'l-İdrak Haşiyesi", "period": "1402 öncesi", "form": "rind"},
+    "relatives": [{"word": "rintlik", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "rint maddesi", "url": "https://www.nisanyansozluk.com/kelime/rint"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rint maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "serazat",
+    "word": "serazat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "sarāzād", "meaning": "başı bağımsız ve özgür olan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "serazat", "meaning": "bağımsız davranabilen, özgür", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Özgürce ve bağımsız davranan.",
+    "currentMeaning": "Bir bağ veya baskı altında bulunmayan, özgür ve serbest.",
+    "story": "Farsçada başı anlatan ser ile özgürlüğü anlatan azat, serazatta birleşir. Ortaya çıkan resimde kişinin başı bir başkasının buyruğuna bağlı değildir. Türkçeye bütün olarak alınan kelime, bu resmi özgürce yaşayan ve davranan kişinin niteliğine dönüştürür.",
+    "firstAttestation": {"source": "Asım Efendi — Asım Efendi Tarihi", "period": "1809", "form": "ser-āzād"},
+    "relatives": [{"word": "azat", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "serazat maddesi", "url": "https://www.nisanyansozluk.com/kelime/serazat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "serazat maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sergüzeşt",
+    "word": "sergüzeşt",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "guḏaştan, guḏār-", "meaning": "bir yerden veya durumdan geçmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sar", "meaning": "baş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sar guḏaşt", "meaning": "kişinin yaşadığı olay, başından geçen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sergüzeşt", "meaning": "kişinin yaşadığı macera", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir kimsenin başından geçen macera.",
+    "currentMeaning": "Bir kimsenin yaşadığı, anlatılmaya değer olay veya macera.",
+    "story": "Farsçada başı anlatan sar, geçmek eyleminin bir biçimiyle birleşir. Böylece fiziksel olarak geçip gitme düşüncesi, insanın başından geçen olayları anlatmaya yönelir. Türkçe sergüzeşt de kişinin yaşadıklarını, özellikle macera olarak anlatılanları taşır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ser-güẕeştdir"},
+    "relatives": [{"word": "serazat", "relation": "akraba"}, {"word": "sermest", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sergüzeşt maddesi", "url": "https://www.nisanyansozluk.com/kelime/serg%C3%BCze%C5%9Ft"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sergüzeşt maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sermest",
+    "word": "sermest",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "mast", "meaning": "sarhoş veya mutluluk içindeki", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sar", "meaning": "baş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sermest", "meaning": "sarhoş, kendinden geçmiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sarhoş veya coşkuyla kendinden geçmiş.",
+    "currentMeaning": "İçkinin ya da yoğun bir duygunun etkisiyle kendinden geçmiş, sarhoş.",
+    "story": "Farsçada sar başı, mast ise sarhoşluğu ve mutluluğu anlatır. Bu iki parçanın birleşmesi, sarhoşluğu başta duyulan bir hâl olarak resmeder. Türkçede sermest, içkinin yanında aşkın ve coşkunun insanı kendinden geçirmesini de anlatır.",
+    "firstAttestation": {"source": "Süleyman Çelebi — Mevlid", "period": "1409", "form": "sermest"},
+    "relatives": [{"word": "mest", "relation": "akraba"}, {"word": "sergüzeşt", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sermest maddesi", "url": "https://www.nisanyansozluk.com/kelime/sermest"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sermest maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şebnem",
+    "word": "şebnem",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "nam", "meaning": "ıslaklık ve nem", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şab", "meaning": "gece", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şabnam", "meaning": "yüzeylerde biriken çiy damlaları", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şebnem", "meaning": "yüzeylerde biriken çiy damlaları", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gece serinliğinde yüzeylerde oluşan çiy.",
+    "currentMeaning": "Havadaki su buharının serin yüzeylerde yoğunlaşmasıyla oluşan küçük su damlaları; çiy.",
+    "story": "Farsçada geceyi anlatan şab ile nemi anlatan nam bir araya gelir. Bu birleşik ad, sabah yaprakların üzerinde görülen damlaları gecenin bıraktığı ıslaklık olarak resmeder. Türkçeye şebnem biçiminde geçerken aynı doğa olayını anlatmayı sürdürür.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "şeb-nem"},
+    "relatives": [{"word": "nem", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şebnem maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Febnem"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şebnem maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "yekpare",
+    "word": "yekpare",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "pāra", "meaning": "bir bütünden ayrılan bölüm", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "yak", "meaning": "bir", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "yak-pāra", "meaning": "tek parçadan oluşan, bütünleşmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "yekpare", "meaning": "tek parça hâlinde bulunan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Tek parça hâlinde olan.",
+    "currentMeaning": "Bölümlere ayrılmamış veya parçaları bir bütün oluşturacak biçimde birleşmiş olan.",
+    "story": "Farsça yak bir sayısını, pāra ise bir bütünden ayrılmış bölümü anlatır. Yan yana geldiklerinde parçaların çokluğu yerini tek parçalık bir bütüne bırakır. Türkçede yekpare, bir taşın veya yapının bölünmeden duruşunu da ayrı parçaların kaynaşıp bütünleşmesini de anlatabilir.",
+    "firstAttestation": {"source": "Yazıcıoğlu Ahmed Bîcan — Dürr-i Meknûn", "period": "1465", "form": "yekpāre"},
+    "relatives": [{"word": "pare", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "yekpare maddesi", "url": "https://www.nisanyansozluk.com/kelime/yekpare"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "yekpare maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "aforizma",
+    "word": "aforizma",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "aphorisme", "meaning": "bir düşünceyi kısa ve özlü biçimde dile getiren söz", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "aforizma", "meaning": "bir düşünceyi kısa ve özlü biçimde dile getiren söz", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir düşünceyi yoğunlaştıran kısa ve özlü söz.",
+    "currentMeaning": "Bir düşünceyi veya yargıyı kısa, özlü ve çarpıcı biçimde dile getiren söz.",
+    "story": "Fransızca aphorisme, uzun bir açıklamanın yerine düşünceyi birkaç söze sığdıran ifadeyi adlandırır. Türkçeye aforizma olarak geçerken bu düşünceyi yoğunlaştırma işlevini korur. Kelimenin odağında, az sözle geniş bir yargı dile getirme çabası vardır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "aforizma maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "alegori",
+    "word": "alegori",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "agoreúō", "meaning": "söz söylemek, konuşmak", "period": null, "reconstructed": false},
+      {"language": "ine", "form": "h₂el- (al-)", "meaning": "öteki, başka", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "állos", "meaning": "başka", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "allēgoría", "meaning": "bir şeyi başka bir anlatımla ima etme", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "allégorie", "meaning": "simgeler aracılığıyla kurulan anlatı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "alegori", "meaning": "bir düşünceyi simgesel kişiler ve olaylarla canlandırma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir düşünceyi simgesel bir anlatıyla canlandırma.",
+    "currentMeaning": "Bir düşünceyi, durumu veya yaşantıyı simgesel kişiler, olaylar ve görüntüler aracılığıyla anlaşılır kılan anlatım.",
+    "story": "Eski Yunancada başka olmayı anlatan állos ile konuşma eylemi aynı kelimede buluşur. Allēgoría, söylenenin arkasında başka bir düşüncenin bulunduğu anlatımı adlandırır. Fransızcada simgesel anlatıyı karşılayan kelime, Türkçeye alegori olarak geçer. Soyut bir düşüncenin kişiler ve olaylar içinde görünür olması, bu başka türlü söyleme fikrini sürdürür.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar — Kokotlar Mektebi", "period": "1927", "form": "alegorik"},
+    "relatives": [{"word": "alofon", "relation": "akraba"}, {"word": "alomorf", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "alegori maddesi", "url": "https://www.nisanyansozluk.com/kelime/alegori"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "alegori maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "alüzyon",
+    "word": "alüzyon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "allusion", "meaning": "üstü kapalı gönderme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "alüzyon", "meaning": "üstü kapalı gönderme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bilinen bir olaya veya esere dolaylı gönderme.",
+    "currentMeaning": "Bir kişiyi, olayı veya metni açıkça anlatmadan, onu çağrıştıran sözlerle yapılan gönderme.",
+    "story": "Fransızca allusion, bir şeyi açıkça söylemeden ona işaret eden anlatımı adlandırır. Türkçede alüzyon da bilinen bir olayı veya metni birkaç ipucuyla hatırlatır. Anlatılanla hatırlatılan arasındaki bağı, dinleyenin ya da okuyanın bilgisi tamamlar.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ambiyans",
+    "word": "ambiyans",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "h₁ei̯- (ei̯-)", "meaning": "gitmek", "period": null, "reconstructed": true},
+      {"language": "la", "form": "ire, it-", "meaning": "ilerlemek, yol boyunca gitmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "ambi+", "meaning": "iki yanda, her iki tarafta", "period": null, "reconstructed": false},
+      {"language": "la", "form": "ambire, ambit-", "meaning": "çevresinde gezinmek, dolanmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "ambientia", "meaning": "dolanma ve dolaşım", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ambiance", "meaning": "çevreyi oluşturan ortam ve hava", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ambiyans", "meaning": "bir ortamın hissedilen tarzı ve havası", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir ortamın kendine özgü havası ve tarzı.",
+    "currentMeaning": "Bir yerin veya ortamın bütününden hissedilen kendine özgü tarz ve hava.",
+    "story": "Kelimenin uzak başlangıcında gitme hareketi vardır. Latincede bu hareket, iki yanı anlatan ambi ile birleşerek çevrede dolanma fikrine dönüşür. Fransızca ambiance aşamasında hareketin yerini insanı çevreleyen ortam ve onun havası alır. Türkçede ambiyans, bir yerdeki ışığın, sesin ve düzenin birlikte hissettirdiği tarzı anlatır.",
+    "firstAttestation": {"source": "Milliyet gazetesi", "period": "1954", "form": "Ambiyansını"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ambiyans maddesi", "url": "https://www.nisanyansozluk.com/kelime/ambiyans"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ambiyans maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "anakronizm",
+    "word": "anakronizm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "anachronisme", "meaning": "bir şeyi ait olmadığı zamana yerleştirme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "anakronizm", "meaning": "bir şeyi ait olmadığı zamana yerleştirme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir olayı veya unsuru yanlış döneme yerleştirme.",
+    "currentMeaning": "Bir olayın tarihini yanlış belirleme veya bir unsuru ait olmadığı tarihsel döneme yerleştirme yanılgısı.",
+    "story": "Fransızca anachronisme, olaylarla onların zamanı arasındaki uyuşmazlığı adlandırır. Türkçeye anakronizm olarak alınan kelime, bir şeyin tarih içindeki yerinin karıştırılmasını anlatır. Henüz icat edilmemiş bir aracı eski bir dönemin sahnesine koymak, bu zaman kaymasının somut bir örneğidir.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "anakronizm maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "analoji",
+    "word": "analoji",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "analogía", "meaning": "benzerlik kurarak karşılaştırma", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "analogie", "meaning": "benzerlik kurarak karşılaştırma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "analoji", "meaning": "benzer özellikler üzerinden ilişki kurma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Benzer özelliklerden hareketle ilişki kurma.",
+    "currentMeaning": "İki şeyin benzer özelliklerinden veya ilişkilerinden hareketle aralarında karşılaştırma ve benzeşim kurma.",
+    "story": "Eski Yunanca analogía, iki şeyi karşılaştırıp aralarında benzerlik kurma düşüncesini taşır. Fransızcada analogie biçiminde sürdürülen bu düşünce, Türkçeye analoji adıyla geçer. Bilinmeyen bir işleyişi bilinen başka bir işleyişle yan yana getirerek açıklamak, kelimenin anlattığı zihinsel harekettir.",
+    "firstAttestation": {"source": "Eşref Edib — Darülfünun Dersleri", "period": "1910", "form": "analogie"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "analoji maddesi", "url": "https://www.nisanyansozluk.com/kelime/analoji"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "analoji maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "anekdot",
+    "word": "anekdot",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "dídōmi, do-", "meaning": "vermek", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "ékdotos", "meaning": "dışarı verilmiş, yayıma sunulmuş", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "anékdotos", "meaning": "yayımlanmamış anlatı, söylenti", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "anecdote", "meaning": "bir kişinin yaşadıklarına ilişkin kısa gerçek anlatı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "anekdot", "meaning": "kısa ve dikkat çekici hikâye", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir kişi veya olayla ilgili kısa hikâye.",
+    "currentMeaning": "Bir kişi veya olay hakkında anlatılan kısa, dikkat çekici hikâye.",
+    "story": "Eski Yunancada verme eyleminden türeyen ékdotos, bir metnin dışarıya verilmesini, yani yayımlanmasını anlatır. Bunun olumsuzu anékdotos, yayımlanmamış anlatılar ve söylentiler için kullanılır. Fransızcada anecdote, bir kişinin hayatından aktarılan kısa gerçek hikâyeye yönelir. Türkçedeki anekdotta da kısa hikâye öne çıkar; yayımlanmamış olma şartı kalmaz.",
+    "firstAttestation": {"source": "Peyami Safa", "period": "1936", "form": "anekdot"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "Kelimenin yayılmasında, Bizans sarayının dedikodularını anlatan Prokopios'un Anekdota adlı eserinin adı rol oynadı.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "anekdot maddesi", "url": "https://www.nisanyansozluk.com/kelime/anekdot"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "anekdot maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "angajman",
+    "word": "angajman",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "engagement", "meaning": "bağlanma, yükümlülük üstlenme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "angajman", "meaning": "bir iş veya tarafla kurulan bağlılık", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir iş veya tarafla kurulan bağlantı ve bağlılık.",
+    "currentMeaning": "Bir iş, görüş veya tarafla kurulan bağlantı ve bunun getirdiği bağlılık.",
+    "story": "Fransızca engagement, bir işe bağlanmayı ve onun yükümlülüğünü üstlenmeyi anlatır. Türkçeye angajman olarak geçen kelime, bu bağlanma fikrini korur. Bir kişi ya da kurumun bir işle kurduğu ilişkiyi, o ilişkinin getirdiği bağlılıkla birlikte adlandırır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "angaje", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "angajman maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "antitez",
+    "word": "antitez",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "thésis", "meaning": "koyma, ortaya yerleştirme", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "antíthesis", "meaning": "koyma, ortaya yerleştirme", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "antithèse", "meaning": "bir savın karşısına konan sav", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "antitez", "meaning": "bir savı karşılayan karşıt sav", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir savın karşısına konan karşıt sav.",
+    "currentMeaning": "Bir düşünce veya savın karşısında yer alan, ona karşı ileri sürülen sav.",
+    "story": "Eski Yunanca thésis, bir şeyi koyma ve ortaya yerleştirme hareketini anlatır. Antíthesis biçiminde bu yerleştirme karşı karşıya getirme yönü kazanır. Fransızca antithèse üzerinden Türkçeye geçen antitezde, karşıya konan şey artık bir düşünce veya savdır.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1938", "form": "antitez"},
+    "relatives": [{"word": "tez", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "antitez maddesi", "url": "https://www.nisanyansozluk.com/kelime/antitez"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "antitez maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a57-f67c-7d23-9cfd-254c10bc5be6
+--------
+user
+# Köken — Üretim Prompt'u (v10)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. perestiş — ipucu: fa — rarity: az-bilinen
+2. perva — ipucu: fa — rarity: az-bilinen
+3. pervaz — ipucu: fa — rarity: az-bilinen
+4. peyderpey — ipucu: fa — rarity: az-bilinen
+5. rengârenk — ipucu: fa — rarity: az-bilinen
+6. rint — ipucu: fa — rarity: az-bilinen
+7. serazat — ipucu: fa — rarity: az-bilinen
+8. sergüzeşt — ipucu: fa — rarity: az-bilinen
+9. sermest — ipucu: fa — rarity: az-bilinen
+10. şebnem — ipucu: fa — rarity: az-bilinen
+11. yekpare — ipucu: fa — rarity: az-bilinen
+12. aforizma — ipucu: fr — rarity: az-bilinen
+13. alegori — ipucu: fr — rarity: az-bilinen
+14. alüzyon — ipucu: fr — rarity: az-bilinen
+15. ambiyans — ipucu: fr — rarity: az-bilinen
+16. anakronizm — ipucu: fr — rarity: az-bilinen
+17. analoji — ipucu: fr — rarity: az-bilinen
+18. anekdot — ipucu: fr — rarity: az-bilinen
+19. angajman — ipucu: fr — rarity: az-bilinen
+20. antitez — ipucu: fr — rarity: az-bilinen
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### perestiş
+
+**Nişanyan — perestiş**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › paristīdan, parist- › bir kişinin veya şeyin önünde veya başında durmak, hazır durmak, hizmet etmek  [türeme]
+- Orta Farsça › parastişn › a.a.  [ses evrimi]
+- Farsça › parastiş › hizmet etme, ibadet etme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1423, Yazıcızade Ali — Tarih-i Âl-i Selçuk
+  > ḥoş görüp merḥaba ve perestiş kıldı.
+- 1680, Meninski — Thesaurus
+  > perestiş: Adorare. V. tapmak.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/peresti%C5%9F
+
+**TDK** — köken kaydı: Farsça perestiş · anlam: ► tapınma
+
+### perva
+
+**Nişanyan — perva**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › parvā › korku, çekinme, vaz geçme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1437, Ömer b. Mezîd — Mecmuatü'n-nezâir
+  > Per döküp pervāne-veş pervāsı oldur ˁarz ide
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/perva
+
+**TDK** — köken kaydı: Farsça pervā · anlam: Çekinme, sakınma, korku
+
+### pervaz
+
+**Nişanyan — pervaz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *weǵʰ- › gitmek, götürmek, iletmek  [ses evrimi]
+- Avestaca › vaz- › gitmek, götürmek, uçmak  [türeme]
+- Farsça / Orta Farsça › parvāz › 1. uçma, fırlama, perende, 2. kanat, saçak  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Avestaca › *pairi-vaz › uçuşma, koşuşma  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1341, anon. — Tezkiretü'l-Evliya terc.
+  > Bayazid bu himmet kanadıyla şeref evcine pervāz urup [şerefin en yüksek katına kanat vurup] érişmişdir
+- 1477, Lugat-i Halimi
+  > pervez [Fa.]: Örtünüŋ ve döşegiŋ ve giyisinüŋ ve ḳapunuŋ çepçevre pervāzi.
+- 1680, Meninski — Thesaurus
+  > pervāz: Corona & coronix [taç ve korniş].
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pervaz
+
+**TDK** — köken kaydı: Farsça pervāz · anlam: Kapı, pencere vb. yerlerin kenarlarına geçirilen ensiz parça
+
+### peyderpey
+
+**Nişanyan — peyderpey**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › pay › ayak, adım, art  [türeme]
+- Farsça › pay dar pay › adım adım, art arda  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1437, Ömer b. Mezîd — Mecmuatü'n-nezâir
+  > Atar kirpükler okını pey-ā-pey gözüme karşu
+- 1680, Meninski — Thesaurus
+  > pey-ā-pey, pey-der-pey: birbiri ardince
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/peyderpey
+
+**TDK** — köken kaydı: Farsça peyderpey · anlam: Azar azar, bölüm bölüm, yavaş yavaş
+
+### rengârenk
+
+**TDK** — köken kaydı: Farsça rengāreng · anlam: Çeşitli renkleri olan, renk renk
+
+### rint
+
+**Nişanyan — rint**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › rind › 1. güzel insan, 2. filozof, kalender, dünya hırslarından vaz geçen  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1402, anon. — Kitabü'l-İdrak Haşiyesi
+  > rind [çevik, geniş mezhepli?]
+- 1437, Ömer b. Mezîd — Mecmuatü'n-nezâir
+  > dem-be-dem rindāne süci cāmını nūş édelüm
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/rint
+
+**TDK** — köken kaydı: Farsça rind · anlam: Görünüşe ve dünya işlerine önem vermeyen, kurallardan uzak, bütün varlığı kendi iç dünyasına göre değerlendiren kimse
+
+### serazat
+
+**Nişanyan — serazat**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › sarāzād › başı özgür  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1809, Asım Ef. — Asım Efendi Tarihi
+  > fekk-i rıbka-i inkıyâd ile ser-âzâd oldukları husûsu
+- 1924, Mehmed Bahaeddin [Toven] — Yeni Türkçe Lugat
+  > hür: Esir olmayıp serazat olan
+
+Not: Geç dönem edebî dilinde ortaya çıkıp 20. yy ortalarında son derece popüler olduğu, 1980'lere doğru kullanımdan düştüğü görülüyor.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/serazat
+
+**TDK** — köken kaydı: Farsça ser + āzād · anlam: Serbest, özgür
+
+### sergüzeşt
+
+**Nişanyan — sergüzeşt**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › guḏaştan, guḏār- › geçmek  [bileşik sözcüğün devamı]
+- Farsça › sar › baş  [bileşik sözcük]
+- Farsça › sar guḏaşt › baştan geçen şey, macera  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > ser-güẕeştdir bu ki eydürem saŋa
+- <1377, Erzurumlu Darir — Kıssa-i Yusuf terc.
+  > yusūf ile hem züleyhā hālini / ser-güẕeştin söyledi aḥvālini
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/serg%C3%BCze%C5%9Ft
+
+**TDK** — köken kaydı: Farsça ser + guẕeşt · anlam: ► macera
+
+### sermest
+
+**Nişanyan — sermest**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › mast › sarhoş, mutlu  [bileşik sözcüğün devamı]
+- Farsça › sar › baş  [bileşik sözcük]
+
+Tanıklıklar (eskiden yeniye):
+- 1409, Süleyman Çelebi — Mevlid
+  > Mustafâ’nun Mevlidini okısun / Dâimā sermest oluban şakısun
+- 1437, Ömer b. Mezîd — Mecmuatü'n-nezâir
+  > Olur ser-mest ˁışkuŋ neşvesinden
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sermest
+
+**TDK** — köken kaydı: Farsça ser + mest · anlam: ► sarhoş
+
+### şebnem
+
+**Nişanyan — şebnem**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › nam › yaşlık, nem  [bileşik sözcüğün devamı]
+- Farsça › şab › gece  [bileşik sözcük]
+- Farsça › şabnam › çiy  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1360, anon. — Danişmend-Name
+  > Dökerdi göz yaşını yire şeb-nem
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C5%9Febnem
+
+**TDK** — köken kaydı: Farsça şebnem · anlam: ► çiy
+
+### yekpare
+
+**Nişanyan — yekpare**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › pāra › bölük  [bileşik sözcüğün devamı]
+- Farsça › yak › bir  [bileşik sözcük]
+- Farsça › yak-pāra › bir parça, tümleşik  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1465, Yazıcıoğlu Ahmed Bîcan — Dürr-i Meknûn
+  > Ta kim demir ve bakır ve gayrī birbirine kaynadı, yekpāre sedd oldu.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/yekpare
+
+**TDK** — köken kaydı: Farsça yek + pāre · anlam: ► bütün
+
+### aforizma
+
+**TDK** — köken kaydı: Fransızca aphorisme · anlam: ► özdeyiş
+
+### alegori
+
+**Nişanyan — alegori**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › agoreúō › konuşmak, söylemek  [bileşik sözcüğün devamı]
+- Hintavrupa Anadili › *h₂el- (*al-) › öte, başka  [ses evrimi]
+- Eski Yunanca › állos › başka  [bileşik sözcük]
+- Eski Yunanca › allēgoría › başka türlü söyleme, başka şey ima etme  [alıntı]
+- Fransızca › allégorie › simgesel anlatı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1927, Hüseyin Rahmi Gürpınar — Kokotlar Mektebi
+  > Sergüzeştimi ‘alegorik’ bir piyes gibi derleyip toplamaya mecburum
+
+Not: Yunanca állos sıfatıyla yapılan bileşiklere örnek: alofon (başka telaffuz), alomorf (farklı biçim), alometri (faklı hızla büyüme), alotropi (başka hale dönüşme), alozom (dişi ve erkekte farklı olan kromozom).
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/alegori
+
+**TDK** — köken kaydı: Fransızca allégorie · anlam: Bir görüntü, bir yaşantı veya bir davranışın daha iyi kavranmasını sağlamak için göz önünde canlandırıp dile getirme; yerine
+
+### alüzyon
+
+Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: bildiğini yaz, bilmediğine `null` koy, uydurma.
+
+### ambiyans
+
+**Nişanyan — ambiyans**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *h₁ei̯- (*ei̯-) › gitmek  [ses evrimi]
+- Latince › ire, it- › gitmek, yol almak  [bileşik sözcüğün devamı]
+- Latince › ambi+ › her iki taraf  [bileşik sözcük]
+- Latince › ambire, ambit- › dolaşmak, dolanmak  [türeme]
+- Latince › ambientia › dolaşım  [alıntı]
+- Fransızca › ambiance › çevre, ortam, genel hava  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1954, Milliyet - gazete
+  > Paris Ambiyansını andıran tanınmış beynelmilel meşhur revü
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ambiyans
+
+**TDK** — köken kaydı: Fransızca ambiance · anlam: ► tarz
+
+### anakronizm
+
+**TDK** — köken kaydı: Fransızca anachronisme · anlam: Olayların tarihlerini belirlemede yanılgı içinde bulunma; tarih yanılgısı
+
+### analoji
+
+**Nişanyan — analoji**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › analogía › a.a.  [alıntı]
+- Fransızca › analogie › benzetme, mukayese etme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1910, Eşref Edib — Darülfünun Dersleri
+  > köklerdeki derece-i idrak vakıa mukayeseye (analogie) müstenid ise de
+
+Not: Buradaki +loji "bilim" değil "söyleme, söylem" anlamındadır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/analoji
+
+**TDK** — köken kaydı: Fransızca analogie · anlam: ► benzeşim
+
+### anekdot
+
+**Nişanyan — anekdot**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › dídōmi, do- › vermek  [türeme]
+- Eski Yunanca › ékdotos › dışarı-verilmiş, yayımlanmış  [türeme]
+- Eski Yunanca › anékdotos › yayınlanmamış hikaye, dedikodu  [alıntı]
+- Fransızca › anecdote › bir kişi hakkında anlatılan kısa ve gerçek öykü  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1936, Peyami Safa
+  > tarih, anekdot, seyahatname ve görenlerin anlattıkları
+- 1941, Ali Haydar Taner — Yabancı Kelimeler Lûgati
+  > anekdot (Edebiyat) Lâtayif, Lâtife. Kısa ve gülünç, ve ekseriya müstehcen hikâye.
+
+Not: Bizanslı tarihçi Prokopios'un 6. yy saray dedikodularına ilişkin olup ölümünden sonra yayınlanan Anekdota adlı eserinin adından.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/anekdot
+
+**TDK** — köken kaydı: Fransızca anecdote · anlam: ► hikâyecik
+
+### angajman
+
+**TDK** — köken kaydı: Fransızca engagement · anlam: ► bağlantı
+
+### antitez
+
+**Nişanyan — antitez**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › thésis › koyma, vazetme  [türeme]
+- Eski Yunanca › antíthesis › a.a.  [alıntı]
+- Fransızca › antithèse › karşı-tez  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1938, Cumhuriyet - gazete
+  > partileri parti yapan şey, onların karşısında birer antitez ifade eden muhtelif teşekküllerin bulunmasıdır.
+- 1942, TDK — Felsefe ve Gramer Terimleri
+  > karşısav, antitez = Nakîzi müddea
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/antitez
+
+**TDK** — köken kaydı: Fransızca antithèse · anlam: ► karşı sav
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+Kaydı eksik olan alüzyon için kaynak doğrulaması yapıyorum.
+
+web search: 
+web search: alüzyon site.nisanyansozluk.com/kelime ...
+web search: 
+web search: https://sozluk.gov.tr/gts?ara=al%C3%BCzyon
+web search: 
+web search: "alüzyon" "Fransızca" "TDK" ...
+codex
+[
+  {
+    "id": "perestiş",
+    "word": "perestiş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "paristīdan, parist-", "meaning": "birinin yanında hazır bulunmak ve hizmetinde durmak", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "parastişn", "meaning": "birinin yanında hazır bulunmak ve hizmetinde durmak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "parastiş", "meaning": "hizmet ve ibadet", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "perestiş", "meaning": "tapınma ve derin bağlılık", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Tapınma veya taparcasına bağlanma.",
+    "currentMeaning": "Bir varlığa tapınma ya da birine taparcasına bağlılık gösterme.",
+    "story": "Kelimenin gerisinde birinin yanında hazır bekleyen, onun hizmetinde duran kişinin hareketi vardır. Orta Farsçadaki bu hizmet etme eylemi, Farsçada ibadeti de karşılayan bir ada dönüştü. Türkçede perestiş, hizmetin kendisinden çok tapınmayı ve taparcasına bağlılığı öne çıkardı.",
+    "firstAttestation": {"source": "Yazıcızade Ali — Tarih-i Âl-i Selçuk", "period": "1423", "form": "perestiş"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "perestiş maddesi", "url": "https://www.nisanyansozluk.com/kelime/peresti%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "perestiş maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "perva",
+    "word": "perva",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "parvā", "meaning": "korkup çekinme, bir şeyden vazgeçme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "perva", "meaning": "korku ve çekingenlik", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Korku yüzünden duyulan çekinme.",
+    "currentMeaning": "Bir durum veya tehlike karşısında duyulan korku, çekinme ve sakınma.",
+    "story": "Farsçada parvā, insanı bir davranıştan geri tutan korkuyu ve çekinmeyi karşılıyordu. Türkçeye geçerken bu geri durma duygusunu korudu. Perva etmemek sözünde ise aynı duygu olumsuzlanır; kişi korkuya kapılmadan davranır.",
+    "firstAttestation": {"source": "Ömer b. Mezîd — Mecmuatü'n-nezâir", "period": "1437", "form": "pervāsı"},
+    "relatives": [{"word": "pervasız", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "perva maddesi", "url": "https://www.nisanyansozluk.com/kelime/perva"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "perva maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pervaz",
+    "word": "pervaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "weǵʰ-", "meaning": "gitme, taşıma ve ulaştırma", "period": null, "reconstructed": true},
+      {"language": "ae", "form": "vaz-", "meaning": "gitme, taşıma ve uçma", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "parvāz", "meaning": "uçuş, sıçrayış, takla; kanat ve saçak", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pervaz", "meaning": "kapı veya pencere kenarını çevreleyen dar parça", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kapı veya pencere kenarına takılan dar parça.",
+    "currentMeaning": "Kapı ve pencere gibi açıklıkların kenarlarını çevrelemek için kullanılan dar yapı parçası.",
+    "story": "Bugün pencere kenarında duran pervazın eski anlam dünyasında uçuş vardır. Gitme ve taşıma bildiren eski kök, Avestacada uçmayı da karşılar; Farsçada parvāz hem uçuşu hem kanat ve saçağı adlandırır. Türkçede uçma anlamı eski metinlerde görülürken kenarları çevreleyen parçayı anlatan kullanım da yerleşmiştir. Günlük yapı dilinde yaşayan anlam, bu kanat ve saçak tarafıdır.",
+    "firstAttestation": {"source": "Anonim — Tezkiretü'l-Evliya tercümesi", "period": "1341", "form": "pervāz"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pervaz maddesi", "url": "https://www.nisanyansozluk.com/kelime/pervaz"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pervaz maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "peyderpey",
+    "word": "peyderpey",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "zarf",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "pay", "meaning": "ayak, atılan adım ve arka", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pay dar pay", "meaning": "bir adımın ardından öteki, peş peşe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "peyderpey", "meaning": "küçük bölümler veya aşamalar hâlinde", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Küçük bölümler hâlinde, aşama aşama.",
+    "currentMeaning": "Bir işin veya sürecin küçük bölümler hâlinde, zaman içinde ilerlemesini belirten söz.",
+    "story": "Farsça pay, ayağı ve onun attığı adımı adlandırır. Pay dar pay ifadesinde bir adımın arkasından öteki gelir; böylece yürüyüş, birbirini izleyen işlerin de resmi olur. Türkçede peyderpey, bu sıralı ilerleyişten hareketle bir şeyin küçük bölümler hâlinde gerçekleşmesini anlatır.",
+    "firstAttestation": {"source": "Ömer b. Mezîd — Mecmuatü'n-nezâir", "period": "1437", "form": "pey-ā-pey"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "peyderpey maddesi", "url": "https://www.nisanyansozluk.com/kelime/peyderpey"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "peyderpey maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "rengârenk",
+    "word": "rengârenk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "rengāreng", "meaning": "birçok farklı renkte", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rengârenk", "meaning": "birçok farklı renkte", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birçok farklı rengi bir arada taşıyan.",
+    "currentMeaning": "Üzerinde veya içinde birbirinden farklı pek çok renk bulunan.",
+    "story": "Farsça rengāreng, tek bir renge sığmayan görünüşü anlatır. Türkçede rengârenk biçimini alan kelime, farklı renklerin yan yana bulunması fikrini korur. Bir çiçek bahçesiyle çok renkli bir kumaşın aynı sözle anlatılmasını sağlayan ortaklık budur.",
+    "firstAttestation": null,
+    "relatives": [{"word": "renk", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rengârenk maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "rint",
+    "word": "rint",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "rind", "meaning": "güzel insan; düşünür, gönlü geniş ve dünya hırsından uzak kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rint", "meaning": "gösterişten ve dünya kaygılarından uzak yaşayan kişi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dünya hırslarından uzak, gönlünce yaşayan kimse.",
+    "currentMeaning": "Dış görünüşe ve toplumsal kurallara fazla önem vermeden, hayatı kendi iç dünyasının ölçüleriyle değerlendiren kimse.",
+    "story": "Farsça rind, güzel insanı da dünya hırsını geride bırakmış kalender kişiyi de anlatıyordu. Türkçedeki rintte özellikle ikinci portre belirginleşti: gösterişin ve kazanç kaygısının peşinden gitmeyen insan. Kelime böylece dış dünyanın ölçülerinden çok kendi gönlünü dinleyen bir yaşayışın adı oldu.",
+    "firstAttestation": {"source": "Anonim — Kitabü'l-İdrak Haşiyesi", "period": "1402 öncesi", "form": "rind"},
+    "relatives": [{"word": "rintlik", "relation": "türev"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "rint maddesi", "url": "https://www.nisanyansozluk.com/kelime/rint"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rint maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "serazat",
+    "word": "serazat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "sarāzād", "meaning": "başı bağımsız ve özgür olan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "serazat", "meaning": "bağımsız davranabilen, özgür", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Özgürce ve bağımsız davranan.",
+    "currentMeaning": "Bir bağ veya baskı altında bulunmayan, özgür ve serbest.",
+    "story": "Farsçada başı anlatan ser ile özgürlüğü anlatan azat, serazatta birleşir. Ortaya çıkan resimde kişinin başı bir başkasının buyruğuna bağlı değildir. Türkçeye bütün olarak alınan kelime, bu resmi özgürce yaşayan ve davranan kişinin niteliğine dönüştürür.",
+    "firstAttestation": {"source": "Asım Efendi — Asım Efendi Tarihi", "period": "1809", "form": "ser-āzād"},
+    "relatives": [{"word": "azat", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "serazat maddesi", "url": "https://www.nisanyansozluk.com/kelime/serazat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "serazat maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sergüzeşt",
+    "word": "sergüzeşt",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "guḏaştan, guḏār-", "meaning": "bir yerden veya durumdan geçmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sar", "meaning": "baş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sar guḏaşt", "meaning": "kişinin yaşadığı olay, başından geçen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sergüzeşt", "meaning": "kişinin yaşadığı macera", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir kimsenin başından geçen macera.",
+    "currentMeaning": "Bir kimsenin yaşadığı, anlatılmaya değer olay veya macera.",
+    "story": "Farsçada başı anlatan sar, geçmek eyleminin bir biçimiyle birleşir. Böylece fiziksel olarak geçip gitme düşüncesi, insanın başından geçen olayları anlatmaya yönelir. Türkçe sergüzeşt de kişinin yaşadıklarını, özellikle macera olarak anlatılanları taşır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "ser-güẕeştdir"},
+    "relatives": [{"word": "serazat", "relation": "akraba"}, {"word": "sermest", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sergüzeşt maddesi", "url": "https://www.nisanyansozluk.com/kelime/serg%C3%BCze%C5%9Ft"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sergüzeşt maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sermest",
+    "word": "sermest",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "mast", "meaning": "sarhoş veya mutluluk içindeki", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sar", "meaning": "baş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sermest", "meaning": "sarhoş, kendinden geçmiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sarhoş veya coşkuyla kendinden geçmiş.",
+    "currentMeaning": "İçkinin ya da yoğun bir duygunun etkisiyle kendinden geçmiş, sarhoş.",
+    "story": "Farsçada sar başı, mast ise sarhoşluğu ve mutluluğu anlatır. Bu iki parçanın birleşmesi, sarhoşluğu başta duyulan bir hâl olarak resmeder. Türkçede sermest, içkinin yanında aşkın ve coşkunun insanı kendinden geçirmesini de anlatır.",
+    "firstAttestation": {"source": "Süleyman Çelebi — Mevlid", "period": "1409", "form": "sermest"},
+    "relatives": [{"word": "mest", "relation": "akraba"}, {"word": "sergüzeşt", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sermest maddesi", "url": "https://www.nisanyansozluk.com/kelime/sermest"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sermest maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şebnem",
+    "word": "şebnem",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "nam", "meaning": "ıslaklık ve nem", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şab", "meaning": "gece", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şabnam", "meaning": "yüzeylerde biriken çiy damlaları", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "şebnem", "meaning": "yüzeylerde biriken çiy damlaları", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gece serinliğinde yüzeylerde oluşan çiy.",
+    "currentMeaning": "Havadaki su buharının serin yüzeylerde yoğunlaşmasıyla oluşan küçük su damlaları; çiy.",
+    "story": "Farsçada geceyi anlatan şab ile nemi anlatan nam bir araya gelir. Bu birleşik ad, sabah yaprakların üzerinde görülen damlaları gecenin bıraktığı ıslaklık olarak resmeder. Türkçeye şebnem biçiminde geçerken aynı doğa olayını anlatmayı sürdürür.",
+    "firstAttestation": {"source": "Anonim — Danişmend-Name", "period": "1360", "form": "şeb-nem"},
+    "relatives": [{"word": "nem", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "şebnem maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C5%9Febnem"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "şebnem maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "yekpare",
+    "word": "yekpare",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "pāra", "meaning": "bir bütünden ayrılan bölüm", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "yak", "meaning": "bir", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "yak-pāra", "meaning": "tek parçadan oluşan, bütünleşmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "yekpare", "meaning": "tek parça hâlinde bulunan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Tek parça hâlinde olan.",
+    "currentMeaning": "Bölümlere ayrılmamış veya parçaları bir bütün oluşturacak biçimde birleşmiş olan.",
+    "story": "Farsça yak bir sayısını, pāra ise bir bütünden ayrılmış bölümü anlatır. Yan yana geldiklerinde parçaların çokluğu yerini tek parçalık bir bütüne bırakır. Türkçede yekpare, bir taşın veya yapının bölünmeden duruşunu da ayrı parçaların kaynaşıp bütünleşmesini de anlatabilir.",
+    "firstAttestation": {"source": "Yazıcıoğlu Ahmed Bîcan — Dürr-i Meknûn", "period": "1465", "form": "yekpāre"},
+    "relatives": [{"word": "pare", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "yekpare maddesi", "url": "https://www.nisanyansozluk.com/kelime/yekpare"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "yekpare maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "aforizma",
+    "word": "aforizma",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "aphorisme", "meaning": "bir düşünceyi kısa ve özlü biçimde dile getiren söz", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "aforizma", "meaning": "bir düşünceyi kısa ve özlü biçimde dile getiren söz", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir düşünceyi yoğunlaştıran kısa ve özlü söz.",
+    "currentMeaning": "Bir düşünceyi veya yargıyı kısa, özlü ve çarpıcı biçimde dile getiren söz.",
+    "story": "Fransızca aphorisme, uzun bir açıklamanın yerine düşünceyi birkaç söze sığdıran ifadeyi adlandırır. Türkçeye aforizma olarak geçerken bu düşünceyi yoğunlaştırma işlevini korur. Kelimenin odağında, az sözle geniş bir yargı dile getirme çabası vardır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "aforizma maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "alegori",
+    "word": "alegori",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "agoreúō", "meaning": "söz söylemek, konuşmak", "period": null, "reconstructed": false},
+      {"language": "ine", "form": "h₂el- (al-)", "meaning": "öteki, başka", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "állos", "meaning": "başka", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "allēgoría", "meaning": "bir şeyi başka bir anlatımla ima etme", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "allégorie", "meaning": "simgeler aracılığıyla kurulan anlatı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "alegori", "meaning": "bir düşünceyi simgesel kişiler ve olaylarla canlandırma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir düşünceyi simgesel bir anlatıyla canlandırma.",
+    "currentMeaning": "Bir düşünceyi, durumu veya yaşantıyı simgesel kişiler, olaylar ve görüntüler aracılığıyla anlaşılır kılan anlatım.",
+    "story": "Eski Yunancada başka olmayı anlatan állos ile konuşma eylemi aynı kelimede buluşur. Allēgoría, söylenenin arkasında başka bir düşüncenin bulunduğu anlatımı adlandırır. Fransızcada simgesel anlatıyı karşılayan kelime, Türkçeye alegori olarak geçer. Soyut bir düşüncenin kişiler ve olaylar içinde görünür olması, bu başka türlü söyleme fikrini sürdürür.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar — Kokotlar Mektebi", "period": "1927", "form": "alegorik"},
+    "relatives": [{"word": "alofon", "relation": "akraba"}, {"word": "alomorf", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "alegori maddesi", "url": "https://www.nisanyansozluk.com/kelime/alegori"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "alegori maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "alüzyon",
+    "word": "alüzyon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "allusion", "meaning": "üstü kapalı gönderme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "alüzyon", "meaning": "üstü kapalı gönderme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bilinen bir olaya veya esere dolaylı gönderme.",
+    "currentMeaning": "Bir kişiyi, olayı veya metni açıkça anlatmadan, onu çağrıştıran sözlerle yapılan gönderme.",
+    "story": "Fransızca allusion, bir şeyi açıkça söylemeden ona işaret eden anlatımı adlandırır. Türkçede alüzyon da bilinen bir olayı veya metni birkaç ipucuyla hatırlatır. Anlatılanla hatırlatılan arasındaki bağı, dinleyenin ya da okuyanın bilgisi tamamlar.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ambiyans",
+    "word": "ambiyans",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "h₁ei̯- (ei̯-)", "meaning": "gitmek", "period": null, "reconstructed": true},
+      {"language": "la", "form": "ire, it-", "meaning": "ilerlemek, yol boyunca gitmek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "ambi+", "meaning": "iki yanda, her iki tarafta", "period": null, "reconstructed": false},
+      {"language": "la", "form": "ambire, ambit-", "meaning": "çevresinde gezinmek, dolanmak", "period": null, "reconstructed": false},
+      {"language": "la", "form": "ambientia", "meaning": "dolanma ve dolaşım", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "ambiance", "meaning": "çevreyi oluşturan ortam ve hava", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "ambiyans", "meaning": "bir ortamın hissedilen tarzı ve havası", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir ortamın kendine özgü havası ve tarzı.",
+    "currentMeaning": "Bir yerin veya ortamın bütününden hissedilen kendine özgü tarz ve hava.",
+    "story": "Kelimenin uzak başlangıcında gitme hareketi vardır. Latincede bu hareket, iki yanı anlatan ambi ile birleşerek çevrede dolanma fikrine dönüşür. Fransızca ambiance aşamasında hareketin yerini insanı çevreleyen ortam ve onun havası alır. Türkçede ambiyans, bir yerdeki ışığın, sesin ve düzenin birlikte hissettirdiği tarzı anlatır.",
+    "firstAttestation": {"source": "Milliyet gazetesi", "period": "1954", "form": "Ambiyansını"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "ambiyans maddesi", "url": "https://www.nisanyansozluk.com/kelime/ambiyans"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "ambiyans maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "anakronizm",
+    "word": "anakronizm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "anachronisme", "meaning": "bir şeyi ait olmadığı zamana yerleştirme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "anakronizm", "meaning": "bir şeyi ait olmadığı zamana yerleştirme", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir olayı veya unsuru yanlış döneme yerleştirme.",
+    "currentMeaning": "Bir olayın tarihini yanlış belirleme veya bir unsuru ait olmadığı tarihsel döneme yerleştirme yanılgısı.",
+    "story": "Fransızca anachronisme, olaylarla onların zamanı arasındaki uyuşmazlığı adlandırır. Türkçeye anakronizm olarak alınan kelime, bir şeyin tarih içindeki yerinin karıştırılmasını anlatır. Henüz icat edilmemiş bir aracı eski bir dönemin sahnesine koymak, bu zaman kaymasının somut bir örneğidir.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "anakronizm maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "analoji",
+    "word": "analoji",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "analogía", "meaning": "benzerlik kurarak karşılaştırma", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "analogie", "meaning": "benzerlik kurarak karşılaştırma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "analoji", "meaning": "benzer özellikler üzerinden ilişki kurma", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Benzer özelliklerden hareketle ilişki kurma.",
+    "currentMeaning": "İki şeyin benzer özelliklerinden veya ilişkilerinden hareketle aralarında karşılaştırma ve benzeşim kurma.",
+    "story": "Eski Yunanca analogía, iki şeyi karşılaştırıp aralarında benzerlik kurma düşüncesini taşır. Fransızcada analogie biçiminde sürdürülen bu düşünce, Türkçeye analoji adıyla geçer. Bilinmeyen bir işleyişi bilinen başka bir işleyişle yan yana getirerek açıklamak, kelimenin anlattığı zihinsel harekettir.",
+    "firstAttestation": {"source": "Eşref Edib — Darülfünun Dersleri", "period": "1910", "form": "analogie"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "analoji maddesi", "url": "https://www.nisanyansozluk.com/kelime/analoji"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "analoji maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "anekdot",
+    "word": "anekdot",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "dídōmi, do-", "meaning": "vermek", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "ékdotos", "meaning": "dışarı verilmiş, yayıma sunulmuş", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "anékdotos", "meaning": "yayımlanmamış anlatı, söylenti", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "anecdote", "meaning": "bir kişinin yaşadıklarına ilişkin kısa gerçek anlatı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "anekdot", "meaning": "kısa ve dikkat çekici hikâye", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir kişi veya olayla ilgili kısa hikâye.",
+    "currentMeaning": "Bir kişi veya olay hakkında anlatılan kısa, dikkat çekici hikâye.",
+    "story": "Eski Yunancada verme eyleminden türeyen ékdotos, bir metnin dışarıya verilmesini, yani yayımlanmasını anlatır. Bunun olumsuzu anékdotos, yayımlanmamış anlatılar ve söylentiler için kullanılır. Fransızcada anecdote, bir kişinin hayatından aktarılan kısa gerçek hikâyeye yönelir. Türkçedeki anekdotta da kısa hikâye öne çıkar; yayımlanmamış olma şartı kalmaz.",
+    "firstAttestation": {"source": "Peyami Safa", "period": "1936", "form": "anekdot"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "Kelimenin yayılmasında, Bizans sarayının dedikodularını anlatan Prokopios'un Anekdota adlı eserinin adı rol oynadı.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "anekdot maddesi", "url": "https://www.nisanyansozluk.com/kelime/anekdot"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "anekdot maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "angajman",
+    "word": "angajman",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "engagement", "meaning": "bağlanma, yükümlülük üstlenme", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "angajman", "meaning": "bir iş veya tarafla kurulan bağlılık", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir iş veya tarafla kurulan bağlantı ve bağlılık.",
+    "currentMeaning": "Bir iş, görüş veya tarafla kurulan bağlantı ve bunun getirdiği bağlılık.",
+    "story": "Fransızca engagement, bir işe bağlanmayı ve onun yükümlülüğünü üstlenmeyi anlatır. Türkçeye angajman olarak geçen kelime, bu bağlanma fikrini korur. Bir kişi ya da kurumun bir işle kurduğu ilişkiyi, o ilişkinin getirdiği bağlılıkla birlikte adlandırır.",
+    "firstAttestation": null,
+    "relatives": [{"word": "angaje", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "angajman maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "antitez",
+    "word": "antitez",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "thésis", "meaning": "koyma, ortaya yerleştirme", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "antíthesis", "meaning": "koyma, ortaya yerleştirme", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "antithèse", "meaning": "bir savın karşısına konan sav", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "antitez", "meaning": "bir savı karşılayan karşıt sav", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir savın karşısına konan karşıt sav.",
+    "currentMeaning": "Bir düşünce veya savın karşısında yer alan, ona karşı ileri sürülen sav.",
+    "story": "Eski Yunanca thésis, bir şeyi koyma ve ortaya yerleştirme hareketini anlatır. Antíthesis biçiminde bu yerleştirme karşı karşıya getirme yönü kazanır. Fransızca antithèse üzerinden Türkçeye geçen antitezde, karşıya konan şey artık bir düşünce veya savdır.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1938", "form": "antitez"},
+    "relatives": [{"word": "tez", "relation": "akraba"}],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "antitez maddesi", "url": "https://www.nisanyansozluk.com/kelime/antitez"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "antitez maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+33,882

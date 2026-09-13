@@ -1,0 +1,48 @@
+[
+  {
+    "id": "bedmest",
+    "word": "bedmest",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "bad-mast",
+        "meaning": "sarhoşlukla kendini kaybeden",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bedmest",
+        "meaning": "aşırı sarhoş olup kendini denetleyemeyen",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Aşırı sarhoş olup kendini denetleyemeyen.",
+    "currentMeaning": "İçkinin etkisiyle ne yaptığını bilemeyecek duruma gelmiş olan.",
+    "story": "Bedmestin Farsça yapısında kötülüğü belirten bad ile sarhoşluğu anlatan mast birleşir. Bu birleşim sarhoşluğun ölçüyü aşan, kişinin kendine hâkim olamadığı yönünü öne çıkarır. Türkçede de içki yüzünden kendini kaybetmiş kişiyi niteler.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "mest",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "bedmest maddesi",
+        "url": "https://lugatim.com/s/bedmest"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

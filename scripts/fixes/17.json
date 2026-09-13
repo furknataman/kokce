@@ -45,7 +45,7 @@
       "period": "1930",
       "form": "Bohem"
     },
-    "relatives": null,
+    "relatives": [],
     "alternatives": null,
     "funFact": null,
     "sources": [
@@ -61,6 +61,59 @@
       }
     ],
     "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "epigraf",
+    "word": "epigraf",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "epigraphḗ",
+        "meaning": "bir yüzeye yazılmış yazı, yazıt",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "épigraphe",
+        "meaning": "yazıt; eserin başına yerleştirilen kısa söz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "epigraf",
+        "meaning": "eserin başında yer alan, içeriğiyle ilişkili kısa alıntı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir eserin başına yerleştirilen, içeriğiyle ilişkili kısa alıntı.",
+    "currentMeaning": "Bir kitabın veya bölümün başında yer alan, metnin konusu ya da duygusuyla ilişki kuran kısa alıntı veya söz.",
+    "story": "Eski Yunanca epigraphḗ, bir yüzeyin üzerine yazılan yazıyı adlandırıyordu. Fransızca épigraphe, yazıtın yanında bir eserin başına yerleştirilen kısa sözü de kapsadı. Türkçedeki edebî kullanımda bu söz, asıl metin başlamadan önce onun konusuna veya duygusuna bir giriş açar.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "epigrafi",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "epigraf maddesi",
+        "url": "https://lugatim.com/s/epigraf"
+      }
+    ],
+    "confidence": "orta",
     "reviewed": false
   }
 ]

@@ -1,0 +1,1055 @@
+[
+  {
+    "id": "girye",
+    "word": "girye",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "giristen", "meaning": "ağlamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "girye", "meaning": "ağlayış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "girye", "meaning": "ağlayış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Ağlayış.",
+    "currentMeaning": "Gözyaşı dökme, ağlama eylemi.",
+    "story": "Farsçada giristen, gözyaşı dökme eylemini anlatır; girye ise bu eylemin adıdır. Türkçeye geçerken gözyaşıyla bağını korumuş, ağlayışın kendisini adlandırmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "girye maddesi", "url": "https://lugatim.com/s/girye"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hande",
+    "word": "hande",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫande", "meaning": "gülüş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hande", "meaning": "gülüş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gülme eylemi.",
+    "currentMeaning": "Gülme, gülüş.",
+    "story": "Farsça ḫande, insanın yüzüne ve sesine yansıyan gülüşü adlandırır. Türkçede hande biçimini alan kelime, aynı insani davranışı anlatmayı sürdürür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hande", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sîne",
+    "word": "sîne",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "sīne", "meaning": "göğüs bölgesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sîne", "meaning": "göğüs bölgesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Vücudun göğüs bölgesi.",
+    "currentMeaning": "Gövdenin ön üst bölümünde bulunan göğüs.",
+    "story": "Farsça sīne, bedende göğüs bölgesini gösteren bir addır. Türkçeye taşınırken bu somut karşılığını korumuş, sîne biçimiyle aynı beden bölgesini adlandırmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sîne", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nigâr",
+    "word": "nigâr",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {"language": "ae", "form": "kərəta-, kār-", "meaning": "yapmak, meydana getirmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nigāştan, nigār-", "meaning": "resmini yapmak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nigār", "meaning": "tasvir, görüntü, tapınılan suret", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nigâr", "meaning": "resim, nakış; güzel sevgili", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Resim veya nakış; güzelliğiyle anılan sevgili.",
+    "currentMeaning": "Resim, tasvir veya nakış; şiirde güzel sevgili.",
+    "story": "Nigârın geçmişinde, Avestacada bir şeyi yapmayı anlatan bir kök bulunur. Bu geniş eylem alanı Farsçada resmetmeye daralır; nigār da ortaya çıkan görüntünün, resmin ve putun adı olur. Türkçede kelime hem süsleyici tasvirleri hem de güzelliği bir resim gibi düşünülen sevgiliyi anlatır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "nigāruŋ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nigâr maddesi", "url": "https://www.nisanyansozluk.com/kelime/nig%C3%A2r"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "siyeh",
+    "word": "siyeh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "siyāh", "meaning": "kara renkli", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "siyeh", "meaning": "kara renkli", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "siyeh", "meaning": "kara renkli", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Eski şiirde kullanılan siyah biçimi.",
+    "currentMeaning": "Siyah, kara; siyah kelimesinin eski şiirdeki hafifletilmiş söylenişi.",
+    "story": "Farsça siyāhın siyeh biçiminde hafifleyen söylenişi, anlattığı kara rengi değiştirmez. Türkçenin eski şiir diline de bu biçim taşınır; kelimenin yolculuğunda değişen renk değil, sestir.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "siyah", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "siyeh maddesi", "url": "https://lugatim.com/s/siyeh"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hâk",
+    "word": "hâk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥaḳḳ", "meaning": "gerçeğe uygun, doğru", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hâk", "meaning": "gerçeğe uygun, doğru", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gerçeğe uygun olan.",
+    "currentMeaning": "Gerçek olan, doğruluğu bulunan.",
+    "story": "Arapça ḥaḳḳ, bir şeyin gerçekliğini ve doğruluğunu dile getirir. Türkçedeki hâk da bu değerlendirmeyi taşır: Bir şeyin nasıl göründüğünden çok, doğru ve gerçek oluşunu belirtir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hâk", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bîtap",
+    "word": "bîtap",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bītāb", "meaning": "gücü tükenmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bîtap", "meaning": "gücü tükenmiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gücü tükenmiş, hâlsiz.",
+    "currentMeaning": "Yorgunluktan gücü kalmamış, bitkin.",
+    "story": "Farsça bītāb, gücü kalmamış birinin durumunu anlatır. Kelime Türkçeye bîtap biçiminde taşınırken aynı tükenmişlik duygusunu korur; yalnızca yorulmayı değil, hâlsiz kalmayı öne çıkarır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bîtap", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sûzan",
+    "word": "sûzan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "sūḫten", "meaning": "yakmak veya yanmak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sūzān", "meaning": "yakıcı olan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sûzan", "meaning": "yakıcı olan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yakıcı etkisi olan.",
+    "currentMeaning": "Yakan, yakma etkisi gösteren.",
+    "story": "Farsça sūḫten, ateşin yakmasını ve bir şeyin yanmasını anlatan fiildir. Bu fiilden oluşan sūzān, yanma olayını bir niteliğe dönüştürür. Türkçeye sûzan biçiminde geçen kelimede de ateşin yakıcı etkisi korunur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "sûzan maddesi", "url": "https://lugatim.com/s/s%C3%BBzan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "gülgun",
+    "word": "gülgun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "gul-gūn", "meaning": "gülün rengini taşıyan, pembemsi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gülgun", "meaning": "gülün rengini taşıyan, pembemsi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gülün pembe rengini taşıyan.",
+    "currentMeaning": "Gül renginde olan, pembe.",
+    "story": "Farsça gul-gūn, bir rengi anlatmak için gülü ölçü alır. Türkçeye gülgun olarak geçen bu benzetmede çiçeğin kendisi değil, yapraklarındaki pembe ton öne çıkar.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "gül", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "gülgun", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "gülfam",
+    "word": "gülfam",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "gul-fām", "meaning": "gülün rengini taşıyan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gülfam", "meaning": "gülün rengini taşıyan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gül rengini taşıyan.",
+    "currentMeaning": "Rengi güle benzeyen, gül renkli.",
+    "story": "Farsça gul-fām, gülü renk bildiren fām unsuruyla birleştirir. Böylece çiçeğin adı bir renk benzetmesine dönüşür ve Türkçedeki gülfam da gülün rengini başka bir varlığa taşır.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "gül", "relation": "akraba"},
+      {"word": "gülgun", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "erguvan",
+    "word": "erguvan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {"language": "akk", "form": "argamannu", "meaning": "kızıla çalan mor renk", "period": null, "reconstructed": false},
+      {"language": "arc", "form": "argwānā", "meaning": "kızıla çalan mor renk", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "argawān", "meaning": "kızıla çalan mor renk", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "arġavān", "meaning": "kızıl mor çiçekli ağaç ve bu çiçeklerin rengi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "erguvan", "meaning": "kızıl mor çiçekli süs ağacı ve çiçeklerinin rengi", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kızıl mor çiçekler açan süs ağacı ve bu çiçeklerin rengi.",
+    "currentMeaning": "Baklagiller familyasından, kırmızıya çalan mor çiçekleriyle yetiştirilen Cercis siliquastrum türü süs ağacı; bu çiçeklerin rengi.",
+    "story": "Erguvanın eski yolculuğunda önce bir renk vardır: Akkadcadan Aramiceye, oradan Orta Farsçaya taşınan kızıl mor. Farsçada aynı ad, bu rengi çiçeklerinde taşıyan ağacı da karşılar. Türkçeye ulaştığında renk ile ağaç arasındaki bağ korunur; erguvan hem çiçek açan ağacı hem de onun belirgin tonunu adlandırır.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "arguvan"},
+    "relatives": [
+      {"word": "erguvani", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "erguvan maddesi", "url": "https://www.nisanyansozluk.com/kelime/erguvan"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "erguvan", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "süsen",
+    "word": "süsen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "egy",
+    "chain": [
+      {"language": "egy", "form": "zeşen", "meaning": "lotus çiçeği", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "soûson", "meaning": "lotus çiçeği", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "sōsan", "meaning": "zambak çiçeği", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sūsan/sawsan", "meaning": "zambak ya da iris gibi soğanlı bitki", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "süsen", "meaning": "iri mor çiçekli, kılıç yapraklı süs bitkisi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kılıç biçimli yaprakları ve iri mor çiçekleri olan süs bitkisi.",
+    "currentMeaning": "Süsengiller familyasından, kılıcı andıran yapraklı, iri ve kokulu mor çiçekler açan, çok yıllık Iris germanica türü süs bitkisi.",
+    "story": "Süsenin en eski halkasında, Eski Mısır dilinde lotus için kullanılan zeşen bulunur. Ad Eski Yunancaya geçer, Orta Farsçada ise zambağı karşılar. Arapça ve Farsçadaki biçimleri zambak ile iris çevresinde kullanılırken Türkçe kelimeyi Farsçadan alır. Böylece çiçek adı yaşamayı sürdürür, fakat gösterdiği bitki lotustan kılıç yapraklı süsene değişir.",
+    "firstAttestation": {"source": "Mesud b. Ahmed — Süheyl ü Nevbahar tercümesi", "period": "1354", "form": "sūsen"},
+    "relatives": [
+      {"word": "Susan", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "İngilizcedeki Susan kadın adı da süsenle aynı çiçek adı ailesindedir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "süsen maddesi", "url": "https://www.nisanyansozluk.com/kelime/s%C3%BCsen"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "süsen", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09ae6-f2af-78e1-a4ae-de54dd2a28f3
+--------
+user
+# Köken — Üretim Prompt'u (v13)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. Bazı satırlarda ayrıca `ipucu anlam` bulunur; o da
+hangi sözcüğün kastedildiğini göstermek içindir, **kanıt değildir**: kaynakla
+çelişirse kaynağı esas al, `currentMeaning` ve `shortMeaning` alanlarını
+kaynaktan yaz, ipucu anlamı kopyalama. `rarity` ise kesin veridir: satırda ne
+yazıyorsa `rarity` alanına **aynen** onu yaz.
+
+1. girye — ipucu: fa — rarity: az-bilinen — ipucu anlam: ağlama, gözyaşı dökme
+2. hande — ipucu: fa — rarity: az-bilinen — ipucu anlam: gülüş
+3. sîne — ipucu: fa — rarity: az-bilinen — ipucu anlam: göğüs; gönül
+4. nigâr — ipucu: fa — rarity: az-bilinen — ipucu anlam: resim; resim gibi güzel sevgili
+5. siyeh — ipucu: fa — rarity: az-bilinen — ipucu anlam: siyah, kara
+6. hâk — ipucu: fa — rarity: az-bilinen — ipucu anlam: toprak
+7. bîtap — ipucu: fa — rarity: az-bilinen — ipucu anlam: bitkin, güçsüz
+8. sûzan — ipucu: fa — rarity: az-bilinen — ipucu anlam: yanan, yakıcı
+9. gülgun — ipucu: fa — rarity: az-bilinen — ipucu anlam: gül renginde, pembe
+10. gülfam — ipucu: fa — rarity: az-bilinen — ipucu anlam: gül renkli
+11. erguvan — ipucu: fa — rarity: az-bilinen — ipucu anlam: eflatun çiçekler açan ağaç
+12. süsen — ipucu: fa — rarity: az-bilinen — ipucu anlam: iri ve gösterişli çiçekli bir bitki
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve
+gerektiğinde Kubbealtı Lugatı kayıtlarının özeti verilmiştir. **Bu özetler
+esastır.** Kubbealtı bölümü varsa (ilk iki kaynakta madde yoksa gelir) köken
+satırındaki dil kısaltması (`Fars.`, `Ar.`) `donorLanguage` için esastır ve
+kaynak şöyle yazılır:
+`{"name": "Kubbealtı Lugatı", "ref": "<kelime> maddesi", "url": "<verilen bağlantı>"}`.
+
+### girye
+
+**Kubbealtı Lugatı — GİRYE**
+
+Köken satırı: Fars. giristen “ağlamak”tan girye
+
+İlk anlam: Ağlama, ağlayış
+
+Bağlantı: https://lugatim.com/s/girye
+
+### hande
+
+**TDK** — köken kaydı: Farsça ḫande · anlam: ► gülme
+
+### sîne
+
+**TDK** — köken kaydı: Farsça sīne · anlam: ► göğüs
+
+### nigâr
+
+**Nişanyan — nigâr**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Avestaca › kərəta-, kār- › yapmak, etmek  [türeme]
+- Farsça › nigāştan, nigār- › resmetmek  [türeme]
+- Farsça › nigār › görüntü, resim, idol, put  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Avestaca › *ni-kāra- › işlemek, zaptetmek  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > ol nigāruŋ nūrı ˁışḳa ṣayd olurn [o sevgilinin nuru aşka av olur]
+- 1429, Ahmed b. Kadı-i Manyas — Gülistan terc.
+  > tāvūsuŋ naḳş u nigārına ḫalḳ taḥsīn iderler
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/nig%C3%A2r
+
+### siyeh
+
+**Kubbealtı Lugatı — SİYEH**
+
+Köken satırı: Fars. siyāh > siyeh
+
+İlk anlam: Siyah kelimesinin eski şiirlerde görülen muhaffef şekli [Siyeh ile yapılan birleşik sıfatlar için Bk. SİYAH]
+
+Bağlantı: https://lugatim.com/s/siyeh
+
+### hâk
+
+**TDK** — köken kaydı: Arapça ḥaḳḳ · anlam: Doğru, gerçek
+
+### bîtap
+
+**TDK** — köken kaydı: Farsça bītāb · anlam: ► bitkin
+
+### sûzan
+
+**Kubbealtı Lugatı — SÛZAN**
+
+Köken satırı: Fars. sūḫten “yakmak, yanmak”tan sūzān
+
+İlk anlam: Yakan, yakıcı
+
+Bağlantı: https://lugatim.com/s/s%C3%BBzan
+
+### gülgun
+
+**TDK** — köken kaydı: Farsça gul-gūn · anlam: Gül renkli, pembe
+
+### gülfam
+
+Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: bildiğini yaz, bilmediğine `null` koy, uydurma.
+
+### erguvan
+
+**Nişanyan — erguvan**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Akatça › argamannu › a.a.  [alıntı]
+- Aramice-Süryanice › argwānā › a.a.  [alıntı]
+- Orta Farsça › argawān › erguvan rengi, kızıl mor  [alıntı]
+- Farsça › arġavān › kızılımsı mor çiçekler açan bir ağaç, kızılımsı mor renk  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1069, Yusuf Hacib — Kutadgu Bilig
+  > tamam arguvan teg kızıl meŋzim érdi [benzim tam erguvan gibi kızıl idi]
+- 1406, Ahmed-i Daî — Çengname
+  > Kızıl yaşıl saru al erġavānī
+
+Not: Ar arcuwān/urcuwān أرجوان (a.a.) Aramice veya Farsçadan alınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/erguvan
+
+**TDK** — köken kaydı: Farsça erġavān · anlam: Baklagillerden, eflatunla kırmızı arası renkte çiçek açan, güzel bir süs ağacı; deliboynuz (Cercis siliquastrum)
+
+### süsen
+
+**Nişanyan — süsen**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Mısır dili › zeşen › bir tür çiçek, lotus  [alıntı]
+- Eski Yunanca › soûson › a.a.  [alıntı]
+- Orta Farsça › ⁠sōsan › zambak  [alıntı]
+- Arapça / Farsça › sūsan/sawsan › soğanlı bir bitki, zambak veya iris  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1354, Mesud b. Ahmed — Süheyl ü Nevbahar terc.
+  > Benefşe gül ü sūsen ü yāsemen
+
+Not: Batı dillerine Eski Yunancadan geçmiştir. Karş. İng Susan "zambak, kadın adı".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/s%C3%BCsen
+
+**TDK** — köken kaydı: Farsça sūsen · anlam: Süsengillerden, yaprakları kılıç biçiminde, çiçekleri iri ve mor renkli, güzel görünüşlü ve kokulu, çok yıllık bir süs bitkisi; susam (İris germanica)
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives` **her zaman dizidir**. Akraba kelime yoksa `null` değil `[]`
+  yaz. `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+Gülfam için eksik kaynak kaydını kontrol ediyorum.
+web search: 
+web search: site.lugatim.com/s/ gülfam
+web search: 
+web search: "gülfâm" "Kubbealtı" ...
+web search: 
+web search: https://lugatim.com/s/g%C3%BClf%C3%A2m
+web search: 
+web search: "GÜLFAM" "lugatim" ...
+exec
+/bin/zsh -lc "curl -L --max-time 15 -s 'https://lugatim.com/s/g%C3%BClfam'" in /Users/furkan/Desktop/dev/koken
+ exited 6 in 0ms:
+codex
+[
+  {
+    "id": "girye",
+    "word": "girye",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "giristen", "meaning": "ağlamak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "girye", "meaning": "ağlayış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "girye", "meaning": "ağlayış", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Ağlayış.",
+    "currentMeaning": "Gözyaşı dökme, ağlama eylemi.",
+    "story": "Farsçada giristen, gözyaşı dökme eylemini anlatır; girye ise bu eylemin adıdır. Türkçeye geçerken gözyaşıyla bağını korumuş, ağlayışın kendisini adlandırmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "girye maddesi", "url": "https://lugatim.com/s/girye"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hande",
+    "word": "hande",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫande", "meaning": "gülüş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hande", "meaning": "gülüş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gülme eylemi.",
+    "currentMeaning": "Gülme, gülüş.",
+    "story": "Farsça ḫande, insanın yüzüne ve sesine yansıyan gülüşü adlandırır. Türkçede hande biçimini alan kelime, aynı insani davranışı anlatmayı sürdürür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hande", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sîne",
+    "word": "sîne",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "sīne", "meaning": "göğüs bölgesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sîne", "meaning": "göğüs bölgesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Vücudun göğüs bölgesi.",
+    "currentMeaning": "Gövdenin ön üst bölümünde bulunan göğüs.",
+    "story": "Farsça sīne, bedende göğüs bölgesini gösteren bir addır. Türkçeye taşınırken bu somut karşılığını korumuş, sîne biçimiyle aynı beden bölgesini adlandırmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sîne", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nigâr",
+    "word": "nigâr",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {"language": "ae", "form": "kərəta-, kār-", "meaning": "yapmak, meydana getirmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nigāştan, nigār-", "meaning": "resmini yapmak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nigār", "meaning": "tasvir, görüntü, tapınılan suret", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nigâr", "meaning": "resim, nakış; güzel sevgili", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Resim veya nakış; güzelliğiyle anılan sevgili.",
+    "currentMeaning": "Resim, tasvir veya nakış; şiirde güzel sevgili.",
+    "story": "Nigârın geçmişinde, Avestacada bir şeyi yapmayı anlatan bir kök bulunur. Bu geniş eylem alanı Farsçada resmetmeye daralır; nigār da ortaya çıkan görüntünün, resmin ve putun adı olur. Türkçede kelime hem süsleyici tasvirleri hem de güzelliği bir resim gibi düşünülen sevgiliyi anlatır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "nigāruŋ"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nigâr maddesi", "url": "https://www.nisanyansozluk.com/kelime/nig%C3%A2r"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "siyeh",
+    "word": "siyeh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "siyāh", "meaning": "kara renkli", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "siyeh", "meaning": "kara renkli", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "siyeh", "meaning": "kara renkli", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Eski şiirde kullanılan siyah biçimi.",
+    "currentMeaning": "Siyah, kara; siyah kelimesinin eski şiirdeki hafifletilmiş söylenişi.",
+    "story": "Farsça siyāhın siyeh biçiminde hafifleyen söylenişi, anlattığı kara rengi değiştirmez. Türkçenin eski şiir diline de bu biçim taşınır; kelimenin yolculuğunda değişen renk değil, sestir.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "siyah", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "siyeh maddesi", "url": "https://lugatim.com/s/siyeh"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hâk",
+    "word": "hâk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {"language": "ar", "form": "ḥaḳḳ", "meaning": "gerçeğe uygun, doğru", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hâk", "meaning": "gerçeğe uygun, doğru", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gerçeğe uygun olan.",
+    "currentMeaning": "Gerçek olan, doğruluğu bulunan.",
+    "story": "Arapça ḥaḳḳ, bir şeyin gerçekliğini ve doğruluğunu dile getirir. Türkçedeki hâk da bu değerlendirmeyi taşır: Bir şeyin nasıl göründüğünden çok, doğru ve gerçek oluşunu belirtir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hâk", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bîtap",
+    "word": "bîtap",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bītāb", "meaning": "gücü tükenmiş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bîtap", "meaning": "gücü tükenmiş", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gücü tükenmiş, hâlsiz.",
+    "currentMeaning": "Yorgunluktan gücü kalmamış, bitkin.",
+    "story": "Farsça bītāb, gücü kalmamış birinin durumunu anlatır. Kelime Türkçeye bîtap biçiminde taşınırken aynı tükenmişlik duygusunu korur; yalnızca yorulmayı değil, hâlsiz kalmayı öne çıkarır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bîtap", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sûzan",
+    "word": "sûzan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "sūḫten", "meaning": "yakmak veya yanmak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sūzān", "meaning": "yakıcı olan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sûzan", "meaning": "yakıcı olan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yakıcı etkisi olan.",
+    "currentMeaning": "Yakan, yakma etkisi gösteren.",
+    "story": "Farsça sūḫten, ateşin yakmasını ve bir şeyin yanmasını anlatan fiildir. Bu fiilden oluşan sūzān, yanma olayını bir niteliğe dönüştürür. Türkçeye sûzan biçiminde geçen kelimede de ateşin yakıcı etkisi korunur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "sûzan maddesi", "url": "https://lugatim.com/s/s%C3%BBzan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "gülgun",
+    "word": "gülgun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "gul-gūn", "meaning": "gülün rengini taşıyan, pembemsi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gülgun", "meaning": "gülün rengini taşıyan, pembemsi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gülün pembe rengini taşıyan.",
+    "currentMeaning": "Gül renginde olan, pembe.",
+    "story": "Farsça gul-gūn, bir rengi anlatmak için gülü ölçü alır. Türkçeye gülgun olarak geçen bu benzetmede çiçeğin kendisi değil, yapraklarındaki pembe ton öne çıkar.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "gül", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "gülgun", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "gülfam",
+    "word": "gülfam",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "gul-fām", "meaning": "gülün rengini taşıyan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gülfam", "meaning": "gülün rengini taşıyan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gül rengini taşıyan.",
+    "currentMeaning": "Rengi güle benzeyen, gül renkli.",
+    "story": "Farsça gul-fām, gülü renk bildiren fām unsuruyla birleştirir. Böylece çiçeğin adı bir renk benzetmesine dönüşür ve Türkçedeki gülfam da gülün rengini başka bir varlığa taşır.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "gül", "relation": "akraba"},
+      {"word": "gülgun", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "erguvan",
+    "word": "erguvan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {"language": "akk", "form": "argamannu", "meaning": "kızıla çalan mor renk", "period": null, "reconstructed": false},
+      {"language": "arc", "form": "argwānā", "meaning": "kızıla çalan mor renk", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "argawān", "meaning": "kızıla çalan mor renk", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "arġavān", "meaning": "kızıl mor çiçekli ağaç ve bu çiçeklerin rengi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "erguvan", "meaning": "kızıl mor çiçekli süs ağacı ve çiçeklerinin rengi", "period": "11. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kızıl mor çiçekler açan süs ağacı ve bu çiçeklerin rengi.",
+    "currentMeaning": "Baklagiller familyasından, kırmızıya çalan mor çiçekleriyle yetiştirilen Cercis siliquastrum türü süs ağacı; bu çiçeklerin rengi.",
+    "story": "Erguvanın eski yolculuğunda önce bir renk vardır: Akkadcadan Aramiceye, oradan Orta Farsçaya taşınan kızıl mor. Farsçada aynı ad, bu rengi çiçeklerinde taşıyan ağacı da karşılar. Türkçeye ulaştığında renk ile ağaç arasındaki bağ korunur; erguvan hem çiçek açan ağacı hem de onun belirgin tonunu adlandırır.",
+    "firstAttestation": {"source": "Yusuf Hacib — Kutadgu Bilig", "period": "1069", "form": "arguvan"},
+    "relatives": [
+      {"word": "erguvani", "relation": "türev"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "erguvan maddesi", "url": "https://www.nisanyansozluk.com/kelime/erguvan"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "erguvan", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "süsen",
+    "word": "süsen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "egy",
+    "chain": [
+      {"language": "egy", "form": "zeşen", "meaning": "lotus çiçeği", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "soûson", "meaning": "lotus çiçeği", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "sōsan", "meaning": "zambak çiçeği", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sūsan/sawsan", "meaning": "zambak ya da iris gibi soğanlı bitki", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "süsen", "meaning": "iri mor çiçekli, kılıç yapraklı süs bitkisi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kılıç biçimli yaprakları ve iri mor çiçekleri olan süs bitkisi.",
+    "currentMeaning": "Süsengiller familyasından, kılıcı andıran yapraklı, iri ve kokulu mor çiçekler açan, çok yıllık Iris germanica türü süs bitkisi.",
+    "story": "Süsenin en eski halkasında, Eski Mısır dilinde lotus için kullanılan zeşen bulunur. Ad Eski Yunancaya geçer, Orta Farsçada ise zambağı karşılar. Arapça ve Farsçadaki biçimleri zambak ile iris çevresinde kullanılırken Türkçe kelimeyi Farsçadan alır. Böylece çiçek adı yaşamayı sürdürür, fakat gösterdiği bitki lotustan kılıç yapraklı süsene değişir.",
+    "firstAttestation": {"source": "Mesud b. Ahmed — Süheyl ü Nevbahar tercümesi", "period": "1354", "form": "sūsen"},
+    "relatives": [
+      {"word": "Susan", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "İngilizcedeki Susan kadın adı da süsenle aynı çiçek adı ailesindedir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "süsen maddesi", "url": "https://www.nisanyansozluk.com/kelime/s%C3%BCsen"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "süsen", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+30,822

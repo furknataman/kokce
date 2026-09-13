@@ -1,0 +1,1725 @@
+[
+  {
+    "id": "lapina",
+    "word": "lapina",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "lapina", "meaning": "kayalık kıyılarda yaşayan renkli bir balık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lapina", "meaning": "kayalık kıyılarda yaşayan renkli bir balık", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sığ ve kayalık kıyılarda yaşayan renkli bir deniz balığı.",
+    "currentMeaning": "Lapinagillerden, yaklaşık 25-35 santimetreye ulaşan, mavi veya yeşil gövdesinde kırmızı benekler bulunan kıyı balığı.",
+    "story": "Fransızcadaki lapina adı, Türkçeye kayalık kıyıların renkli bir balığını adlandırmak üzere taşındı. Sözcük burada başka bir nesnenin adına dönüşmedi; sığ sularda yaşayan, benekli gövdesiyle ayırt edilen balığın adı olarak kullanıldı.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lapina maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "lakerda",
+    "word": "lakerda",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "lakérda", "meaning": "tuzla hazırlanmış palamut veya orkinos", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lakerda", "meaning": "iri balık dilimlerinden hazırlanan salamura", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Palamut ve torik gibi balıklardan hazırlanan dilimli salamura.",
+    "currentMeaning": "Palamut, torik ve benzeri balıkların dilimlenip tuzla işlenmesiyle hazırlanan salamura yiyecek.",
+    "story": "Yunancadaki lakérda, denizde yüzen balıktan çok tuzla hazırlanmış balığı adlandırıyordu. Türkçeye de bu hazırlama biçimiyle birlikte geçti; palamut ve torik dilimlerinin salamuradaki hâlinin adı oldu.",
+    "firstAttestation": {"source": "Osmanlı Kanunnameleri, Selanik kanunnamesi", "period": "1488", "form": "lakerda"},
+    "relatives": [
+      {"word": "lacerta", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Latince eş kökenlisi lacerta, bir balık türünün yanı sıra kertenkeleyi de adlandırıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "lakerda maddesi", "url": "https://www.nisanyansozluk.com/kelime/lakerda"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lakerda maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "orkinos",
+    "word": "orkinos",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "óryks, oryg-", "meaning": "sivri uçlu alet; tek boynuzlu efsanevi deniz canlısı veya bir balina türü", "period": null, "reconstructed": false},
+      {"language": "el", "form": "órkinos", "meaning": "bir ton balığı türü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "orkinos", "meaning": "ton balığı", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Ton balığı.",
+    "currentMeaning": "Ton balığı adıyla da bilinen iri deniz balığı.",
+    "story": "Sözcüğün eski ucunda sivri bir alet ile tek boynuzlu olarak tasarlanan bir deniz yaratığı yan yana durur. Eski Yunancadaki bu ad ailesi, Yunancada órkinos biçimiyle bir ton balığı türüne bağlandı. Türkçeye geçen orkinos da efsanevi yaratığın değil, avlanan iri deniz balığının adı oldu.",
+    "firstAttestation": {"source": "Akhisarlı M. Bedrüddin, Cinanü'l-Cinas; Tarama Sözlüğü aktarımı", "period": "1584", "form": "orkenez"},
+    "relatives": [
+      {"word": "orca", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Latince orca ile orkinos eş kökenlidir; iki adın geçmişi farklı deniz canlılarında buluşur.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "orkinos maddesi", "url": "https://www.nisanyansozluk.com/kelime/orkinos"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "orkinos maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kalamata",
+    "word": "kalamata",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "Kalamáta", "meaning": "Yunanistan'da bir kent adı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kalamata", "meaning": "iri ve etli bir zeytin çeşidi", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İri ve etli bir zeytin çeşidi.",
+    "currentMeaning": "Kalamata zeytini olarak da adlandırılan, büyük taneli ve etli zeytin çeşidi.",
+    "story": "Kalamáta önce Yunanistan'daki bir kentin adıydı. Kent adı zeytinle birlikte anılınca coğrafyayı gösteren özel ad, sofradaki bir çeşidi de belirtmeye başladı. Türkçede kalamata denildiğinde artık kentin kendisi değil, iri ve etli zeytini öne çıkar.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1936", "form": "Kalamata"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kalamata maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalamata"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalamata maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sirtaki",
+    "word": "sirtaki",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "sirtós", "meaning": "sirto adlı dans", "period": null, "reconstructed": false},
+      {"language": "el", "form": "sirtáki", "meaning": "küçük sirto; dans ezgisi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sirtaki", "meaning": "kol ve ayak hareketleriyle giderek hızlanan halk oyunu", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kol ve ayak hareketleriyle giderek hızlanan bir halk oyunu.",
+    "currentMeaning": "Kolların ve ayakların belirgin hareketleriyle oynanan, temposu aşamalı olarak yükselen halk oyunu.",
+    "story": "Yunancadaki sirtós adlı dans, küçültme biçimi sirtáki ile yeni bir ad kazandı. Bu ad hem küçük sirtoyu hem de oyun havasını karşılıyordu. Türkçeye taşınırken dansla bağı korundu ve giderek hızlanan hareketleriyle tanınan oyunun adı oldu.",
+    "firstAttestation": {"source": "Milliyet gazetesi", "period": "1965", "form": "Sirtakiyi"},
+    "relatives": [
+      {"word": "sirto", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sirtaki maddesi", "url": "https://www.nisanyansozluk.com/kelime/sirtaki"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sirtaki maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "horon",
+    "word": "horon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "χorós", "meaning": "dans; dans ederek şarkı söyleyen topluluk; dans alanı", "period": null, "reconstructed": false},
+      {"language": "el", "form": "χorós", "meaning": "birlikte oynanan dans", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "horon", "meaning": "Karadeniz'de kemençe eşliğinde oynanan halk oyunu", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Karadeniz'de kemençe eşliğinde oynanan halk oyunu.",
+    "currentMeaning": "Karadeniz Bölgesi'ne özgü, kemençe eşliğinde topluca oynanan halk oyunu.",
+    "story": "Eski Yunancada χorós yalnız dansı değil, dans ederek şarkı söyleyen topluluğu ve onların oyun alanını da kapsıyordu. Yunancada birlikte dans etme anlamını sürdüren ad, Türkçede horon biçimini aldı. Bugünkü kullanımında bu geniş dans dünyası, Karadeniz'in kemençeli toplu oyununda somutlaşır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "koron"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "horon maddesi", "url": "https://www.nisanyansozluk.com/kelime/horon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "horon maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "imbat",
+    "word": "imbat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "battere", "meaning": "vurmak, çarpmak", "period": null, "reconstructed": false},
+      {"language": "it", "form": "imbatto", "meaning": "denizden gelen esinti", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "imbat", "meaning": "yaz gündüzlerinde denizden karaya esen rüzgâr", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yazın gündüzleri denizden karaya esen rüzgâr.",
+    "currentMeaning": "Yaz mevsiminde gündüz saatlerinde denizden karaya yönelen serinletici rüzgâr.",
+    "story": "İtalyancadaki imbatto, denizden gelen esintiyi adlandırıyordu. Daha geride vurma ve çarpma eylemini anlatan battere ile bir bağlantı bulunabilir, ancak bu türeme kesin değildir. Türkçede imbat, kıyıya ulaşan bu esintinin yaz gündüzlerinde hissedilen deniz yeli olarak özelleşmiş adıdır.",
+    "firstAttestation": {"source": "Piri Reis, Kitab-ı Bahriye", "period": "1521", "form": "inbād"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük, İtalyanca imbatto ile battere arasındaki türeme ilişkisini muhtemel olarak değerlendirir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "imbat maddesi", "url": "https://www.nisanyansozluk.com/kelime/imbat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "imbat maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bora",
+    "word": "bora",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "mn",
+    "ultimateOrigin": "mn",
+    "chain": [
+      {"language": "mn", "form": "boruġa(n)", "meaning": "yağmur", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bora", "meaning": "çoğunlukla ardından yağmur gelen sert rüzgâr", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çoğunlukla ardından yağmur gelen sert rüzgâr.",
+    "currentMeaning": "Sert esen ve genellikle yağışın habercisi olan rüzgâr; boğanak.",
+    "story": "Boranın geçmişi için iki ayrı dil yolu gösterilir. Moğolca açıklamasında başlangıçtaki boruġa(n) yağmuru adlandırır; Türkçedeki kullanımda ağırlık, yağışla birlikte düşünülen sert rüzgâra kayar. Diğer açıklama ise sözcüğü İtalyanca borea ile bağlar; bu yüzden Türkçeye hangi dilden geçtiği konusunda görüş birliği yoktur.",
+    "firstAttestation": {"source": "et-Tuhfetu'z-Zekiyye fi'l-Lugati't-Türkiyye", "period": "1400 öncesi", "form": "borġan"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük, borayı yağmur bildiren Moğolca boruġa(n) biçiminden alınmış olarak açıklar.",
+      "TDK Güncel Türkçe Sözlük, doğrudan kaynak olarak İtalyanca borea biçimini gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bora maddesi", "url": "https://www.nisanyansozluk.com/kelime/bora"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bora maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "alarga",
+    "word": "alarga",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "largus", "meaning": "açık, geniş, uzak", "period": null, "reconstructed": false},
+      {"language": "it", "form": "largo", "meaning": "açık, geniş, uzak", "period": null, "reconstructed": false},
+      {"language": "it", "form": "al largo", "meaning": "kıyıdan uzakta, denizin açığında", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "alarga", "meaning": "denizin kıyıdan uzak kesimi", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Denizin kıyıdan uzak, açık kesimi.",
+    "currentMeaning": "Kıyıdan uzak deniz alanı; açık deniz.",
+    "story": "Latince largus ile İtalyanca largo, açıklık ve genişlik düşüncesini taşır. İtalyancadaki al largo ifadesinde bu genişlik, geminin kıyıdan uzaklaşıp denizin açığında bulunmasına bağlanır. Türkçedeki alarga da bu denizcilik resmini korur; ancak doğrudan alınan İtalyanca biçim al largo veya allarga olarak farklı kaydedilir.",
+    "firstAttestation": {"source": "Kahane & Tietze, The Lingua Franca in the Levant", "period": "1560", "form": "alarga"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük, aktarım biçimini İtalyanca al largo olarak verirken TDK Güncel Türkçe Sözlük allarga biçimini gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "alarga maddesi", "url": "https://www.nisanyansozluk.com/kelime/alarga"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "alarga maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "avara",
+    "word": "avara",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "avara", "meaning": "geminin kıyı veya iskeleden ayrılması", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "avara", "meaning": "geminin kıyı veya iskeleden ayrılması", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Geminin kıyıdan veya iskeleden ayrılması.",
+    "currentMeaning": "Yanaşmış bir geminin hareket ederek kıyıdan ya da iskeleden uzaklaşması.",
+    "story": "İtalyancadan alınan avara, bir geminin kıyıyla bağını geride bırakıp uzaklaşmasını adlandırır. Türkçede de aynı manevraya bağlanmıştır: Sözcüğün merkezinde duran gemi değil, yanaştığı yerden ayrılan gemi vardır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "avara maddesi, denizcilik anlamı", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "karina",
+    "word": "karina",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "carena", "meaning": "geminin omurgası", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "karina", "meaning": "geminin omurgası", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Geminin omurgası.",
+    "currentMeaning": "Geminin alt bölümünde uzanan omurga.",
+    "story": "İtalyancadaki carena, geminin omurgasını adlandıran bir denizcilik sözüdür. Türkçede karina biçimini alırken aynı parçaya bağlı kalır; geminin yapısını anlatan adlardan biri olur.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "karina maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "pruva",
+    "word": "pruva",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "per-¹", "meaning": "geçmek", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "préh₃- (prṓ-)", "meaning": "öne, ileriye doğru", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "préh₃-wr̥-i̯h₂ (prṓ-wr̥-i̯a)", "meaning": "önde giden", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "prōira", "meaning": "önde giden", "period": null, "reconstructed": false},
+      {"language": "la", "form": "prora", "meaning": "önde giden", "period": null, "reconstructed": false},
+      {"language": "it", "form": "prova/prora", "meaning": "geminin baş bölümü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pruva", "meaning": "gemi veya sandalın baş bölümü", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Gemi veya sandalın baş bölümü.",
+    "currentMeaning": "Bir geminin ya da sandalın önde bulunan baş kısmı.",
+    "story": "Pruvanın en eski katmanında geçme eylemi, ardından öne yönelme ve önde gitme düşüncesi bulunur. Bu düşünce, suyu ilk karşılayan gemi başında somutlaşır. Eski Yunanca ve Latinceden İtalyancaya ulaşan ad, Türkçede pruva biçimiyle geminin önünü göstermeyi sürdürür.",
+    "firstAttestation": {"source": "Seydi Ali Reis, Miratü'l-Memalik", "period": "1557", "form": "pruva"},
+    "relatives": [
+      {"word": "prow", "relation": "eş köken"},
+      {"word": "proue", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pruva maddesi", "url": "https://www.nisanyansozluk.com/kelime/pruva"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pruva maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pupa",
+    "word": "pupa",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "puppis", "meaning": "geminin arka bölümü", "period": null, "reconstructed": false},
+      {"language": "it", "form": "puppa/poppa", "meaning": "geminin arka bölümü; kıç yönünden esen rüzgâr", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pupa", "meaning": "geminin arka bölümü", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Geminin arka bölümü.",
+    "currentMeaning": "Geminin kıç olarak adlandırılan arka kısmı.",
+    "story": "Latince puppis geminin arkasını gösteriyordu. İtalyancada puppa ve poppa biçimleriyle yaşayan ad, o taraftan esen rüzgârı da karşılamaya başladı. Türkçeye geçen pupa, geminin arka bölümünü adlandırırken denizcilikte yön ile rüzgâr arasındaki bu bağı da taşır.",
+    "firstAttestation": {"source": "Kahane & Tietze, The Lingua Franca in the Levant", "period": "1538", "form": "pupadur"},
+    "relatives": [
+      {"word": "poupe", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pupa maddesi", "url": "https://www.nisanyansozluk.com/kelime/pupa"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pupa maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "konçerto",
+    "word": "konçerto",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "concertare", "meaning": "yarışmak, karşı karşıya çarpışmak", "period": null, "reconstructed": false},
+      {"language": "it", "form": "concerto", "meaning": "birlikte müzik icrası; 18. yüzyılda yaygınlaşan bir çalgı müziği biçimi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "konçerto", "meaning": "bir çalgıyı öne çıkaran orkestra eşlikli eser", "period": "1900 öncesi", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir çalgıyı öne çıkaran, orkestra eşlikli müzik eseri.",
+    "currentMeaning": "Bir çalgının teknik olanaklarını sergilemek üzere sonat formunda yazılan ve orkestra eşliğinde seslendirilen eser.",
+    "story": "İtalyanca concerto önce birlikte müzik yapmayı, ardından belirli bir çalgı müziği biçimini adlandırdı. Daha eski bağlantısı kesin değildir; Latince yarışma ve çarpışma bildiren concertare ile ilişkilendirilir. Türkçede konçerto, bir çalgının orkestranın eşliğinde öne çıktığı eserin adı olarak yerleşti.",
+    "firstAttestation": {"source": "Ahmed Midhat Efendi, çeşitli yazıları", "period": "1900 öncesi", "form": "konserto"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük, concerto ile Latince concertare arasındaki türemeyi muhtemel sayar; birlikte şarkı söylemeyi bildiren concentare ile bağlantının ise yakıştırma olabileceğini belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "konçerto maddesi", "url": "https://www.nisanyansozluk.com/kelime/kon%C3%A7erto"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "konçerto maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "libretto",
+    "word": "libretto",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "liber", "meaning": "ağacın iç kabuğu; yazı için kullanılan levha; kitap", "period": null, "reconstructed": false},
+      {"language": "it", "form": "libro", "meaning": "kitap", "period": null, "reconstructed": false},
+      {"language": "it", "form": "libretto", "meaning": "küçük kitap", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "libretto", "meaning": "opera sözlerini içeren kitap", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir operanın sözlerini içeren kitap.",
+    "currentMeaning": "Operada söylenen sözlerin yazılı olarak bir araya getirildiği kitap.",
+    "story": "Latince liber, ağacın iç kabuğu ve yazı yüzeyinden kitaba uzanan bir anlam alanı taşıyordu. İtalyancada libro kitap, onun küçültmesi libretto ise küçük kitap oldu. Türkçede bu küçük kitabın adı, operanın söylenecek sözlerini bir araya getiren metne bağlandı.",
+    "firstAttestation": {"source": "Kanunnâme-i Ticaret-i Bahriye", "period": "1863", "form": "libreto"},
+    "relatives": [
+      {"word": "librarium", "relation": "eş köken"},
+      {"word": "libellus", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Türkçedeki erken kullanımında libreto, opera metnini değil, gemi kaptanının tutmakla yükümlü olduğu bir defteri adlandırıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "libretto maddesi", "url": "https://www.nisanyansozluk.com/kelime/libretto"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "libretto maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "maestro",
+    "word": "maestro",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "magister", "meaning": "usta, öğretici", "period": null, "reconstructed": false},
+      {"language": "it", "form": "maestro", "meaning": "işinde ustalaşmış kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "maestro", "meaning": "orkestrayı yöneten müzikçi", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Orkestrayı yöneten müzikçi.",
+    "currentMeaning": "Orkestra şefi.",
+    "story": "Latince magister ile başlayan ad, İtalyancada maestro biçimine ulaşınca ustalığı belirten bir unvan olarak yaşadı. Türkçeye de müzikteki ustalık çevresinde girdi. Bugünkü kullanımında bu geniş unvan, orkestranın başında icrayı yöneten kişide yoğunlaşır.",
+    "firstAttestation": {"source": "Ali Seydi, Yeni Türkçe Lugat, Resimli", "period": "1929", "form": "Maestro"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "maestro maddesi", "url": "https://www.nisanyansozluk.com/kelime/maestro"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "maestro maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mezzosoprano",
+    "word": "mezzosoprano",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "it", "form": "soprano", "meaning": "en tiz ses bölgesi", "period": null, "reconstructed": false},
+      {"language": "la", "form": "medius", "meaning": "orta", "period": null, "reconstructed": false},
+      {"language": "it", "form": "mezzo", "meaning": "orta", "period": null, "reconstructed": false},
+      {"language": "it", "form": "mezzo-soprano", "meaning": "orta ile üst arasında bulunan kadın sesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mezzosoprano", "meaning": "soprano ile kontralto arasındaki kadın sesi", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Soprano ile kontralto arasındaki kadın sesi.",
+    "currentMeaning": "Kadın seslerinin sınıflandırılmasında soprano ile kontralto arasında yer alan ses türü.",
+    "story": "Bu ad İtalyancada iki parçanın birleşmesiyle kuruldu: Soprano en üst ses bölgesini gösterirken mezzo ortaya işaret eder. Mezzo parçasının gerisinde de Latince medius bulunur. Birleşme, sesin yerini bir yükseklik düzeni içinde tarif eder; Türkçedeki mezzosoprano da soprano ile kontralto arasındaki kadın sesini adlandırır.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1930", "form": "Mezzo Soprano"},
+    "relatives": [
+      {"word": "soprano", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mezzosoprano maddesi", "url": "https://www.nisanyansozluk.com/kelime/mezzosoprano"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mezzosoprano maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "stakato",
+    "word": "stakato",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "staccato", "meaning": "ayrılmış, kopuk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "stakato", "meaning": "sesleri birbirinden ayırarak kısa çalma tekniği", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sesleri birbirinden ayırarak kısa çalma tekniği.",
+    "currentMeaning": "Müzikte seslerin birbirine bağlanmadan, aralarında kısa sessizlikler bırakılarak seslendirilmesi.",
+    "story": "İtalyanca staccato, ayrılmış ve kopuk olma düşüncesini müziğe taşır. Bir sesin ötekine uzanması yerine araya sessizlik girmesi, bu ayrılığı duyulur hâle getirir. Türkçede stakato adı da sesleri böyle ayrı ayrı verme tekniğini karşılar.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tremolo",
+    "word": "tremolo",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "terrere", "meaning": "korkudan titremek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "trema", "meaning": "titreme hareketi", "period": null, "reconstructed": false},
+      {"language": "la", "form": "tremulum", "meaning": "titreme hareketi", "period": "Geç Latince dönemi", "reconstructed": true},
+      {"language": "it", "form": "tremolo", "meaning": "titreme; müzikte süsleme tekniği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tremolo", "meaning": "seslerin hızlı yinelenmesiyle oluşturulan müzik süslemesi", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Seslerin hızlı yinelenmesiyle yapılan müzik süslemesi.",
+    "currentMeaning": "Bir sesin hızla tekrarlanması veya sesler arasında hızlı geçişler yapılmasıyla oluşturulan müziksel süsleme.",
+    "story": "Tremolonun geçmişinde korkuyla titreyen bedenin hareketi bulunur. Latincedeki titreme bildiren biçimler, İtalyanca tremoloda hem bedensel hareketi hem müzikteki bir süslemeyi karşılar. Türkçeye müzik terimi olarak geçen ad, hızlı tekrarlarla sesin titreşir gibi duyulmasına bağlanır.",
+    "firstAttestation": {"source": "Milliyet gazetesi", "period": "1957", "form": "tremolo"},
+    "relatives": [
+      {"word": "tremble", "relation": "akraba"},
+      {"word": "tremor", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tremolo maddesi", "url": "https://www.nisanyansozluk.com/kelime/tremolo"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "andante",
+    "word": "andante",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "zarf",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "andánte", "meaning": "orta derecede yavaş tempoyla", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "andante", "meaning": "orta derecede yavaş tempoyla", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Orta derecede yavaş bir tempoyla.",
+    "currentMeaning": "Bir müzik parçasının adacyo ile andantino arasındaki yarı yavaş tempoda çalınmasını belirten terim.",
+    "story": "İtalyancadaki andánte, müzikçinin parçayı hangi hızda ilerleteceğini belirten bir terim olarak Türkçeye taşındı. Burada da sesin yüksekliğini veya çalgının türünü değil, icranın zaman içindeki akışını düzenler. Adacyo ile andantino arasında kalan yarı yavaş bir ilerleyiş ister.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "andante maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a63-7614-7232-a5d2-48db3e30bb46
+--------
+user
+# Köken — Üretim Prompt'u (v10)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. lapina — ipucu: el — rarity: az-bilinen
+2. lakerda — ipucu: el — rarity: az-bilinen
+3. orkinos — ipucu: el — rarity: az-bilinen
+4. kalamata — ipucu: el — rarity: az-bilinen
+5. sirtaki — ipucu: el — rarity: az-bilinen
+6. horon — ipucu: el — rarity: az-bilinen
+7. imbat — ipucu: it — rarity: az-bilinen
+8. bora — ipucu: it — rarity: az-bilinen
+9. alarga — ipucu: it — rarity: az-bilinen
+10. avara — ipucu: it — rarity: az-bilinen
+11. karina — ipucu: it — rarity: az-bilinen
+12. pruva — ipucu: it — rarity: az-bilinen
+13. pupa — ipucu: it — rarity: az-bilinen
+14. konçerto — ipucu: it — rarity: az-bilinen
+15. libretto — ipucu: it — rarity: az-bilinen
+16. maestro — ipucu: it — rarity: az-bilinen
+17. mezzosoprano — ipucu: it — rarity: az-bilinen
+18. stakato — ipucu: it — rarity: az-bilinen
+19. tremolo — ipucu: it — rarity: az-bilinen
+20. andante — ipucu: it — rarity: az-bilinen
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### lapina
+
+**TDK** — köken kaydı: Fransızca lapina · anlam: Lapinagillerden, kayalık kıyılarda, sığ sularda yaşayan 25-35 santimetre uzunluğunda, kırmızı benekli, mavi veya yeşil balık (Crenilabrus pavo)
+
+### lakerda
+
+**Nişanyan — lakerda**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Yunanca › lakérda › palamut veya orkinos tuzlaması  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Latince › lacerta › 1. kertenkele, 2. bir tür deniz balığı, belki istavrit  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1488, Osmanlı Kanunnameleri
+  > Balık yükle gelse, at yükünden iki akçe; tuz yükünden 4 akçe; lakerda dıˁfından [muadillerinden] 8 akçe
+- 1665, Evliya Çelebi — Seyahatname
+  > mevsiminde uskumrī balığı ve palamida ve alakerda ve fuçida ve kefal
+
+Not: Bulabildiğimiz en erken örnek 1488 tarihine ait Selanik kanunnamesindedir. • Yahudi İspanyolcası la kerida "sevilen (kadın)" deyiminden türediğine ilişkin yaygın rivayet esassızdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/lakerda
+
+**TDK** — köken kaydı: Rumca · anlam: Palamut, torik vb. balıklardan dilim dilim kesilerek yapılan salamura
+
+### orkinos
+
+**Nişanyan — orkinos**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › óryks, oryg- › 1. sivri uçlu bir alet, 2. tek boynuzlu efsanevi deniz yaratığı, bir tür balina  [türeme]
+- Yunanca › órkinos › ton balığının bir türü  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Latince › orca › a.a.  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1584, TDK — Tarama Sözlüğü
+  > orkenez dédükleri büyük balık ki aŋa Farisīde neheng dérler [Akhisarlı M. Bedrüddin, Cinanü'l-Cinas]
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > orkinos: İstavrit azmanı tabir ederler.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/orkinos
+
+**TDK** — köken kaydı: Rumca · anlam: ► ton balığı
+
+### kalamata
+
+**Nişanyan — kalamata**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- özel isim › Kalamáta › Yunanistan'da bir kent  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1936, Cumhuriyet - gazete
+  > Masada Cemal'in hazırladığı Kalamata zeytini, gül reçeli
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/kalamata
+
+**TDK** — köken kaydı: Rumca · anlam: Bir tür etli ve büyük zeytin; kalamata zeytini
+
+### sirtaki
+
+**Nişanyan — sirtaki**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Yunanca › sirtós  [türeme]
+- Yunanca › sirtáki › küçük sirto, oyun havası  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1965, Milliyet - gazete
+  > Sirtakiyi Dalida'dan öğrenin
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sirtaki
+
+**TDK** — köken kaydı: Rumca · anlam: Kolların ve ayak hareketlerinin önemli olduğu, giderek hızlanan bir tür halk oyunu
+
+### horon
+
+**Nişanyan — horon**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › χorós › 1. raks, dans, 2. raks ederek şarkı söyleyen topluluk, koro, 3. raks yeri, oyun alanı  [ses evrimi]
+- Yunanca › χorós › toplu yapılan raks, horon  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > ballo - Fa. ragsi [raksî] - Tr: koron
+- 1477, Lugat-i Halimi
+  > dest-bend [Fa.]: ḫoran (خوران) dedükleri oyun ki Rum ˁavratları birbirinüŋ elin dutup oynarlar.
+- 1665, Evliya Çelebi — Seyahatname
+  > kefere gibi ḫoros deperek (...) kuç kucağ olup ḫoros tepüp kuşak kuşağa yapışup ḫora depme semāˁı iderler
+
+Not: +on eki muhtemelen Yunanca sözcüğün akkuzatif halini (χορόν) belirtir. Diğer olasılık, lehçelerde sözcüğün nötr halinin (χορόν) kullanılıyor olmasıdır. Çoğul χορά biçiminin varlığı, ikinci olasılığı destekler. • Yaygın kanıya göre Yunanca sözcük esasen "avlu" anlamına gelen Lat hortus ile eşkökenlidir. Chant 1270 etraflıca tartıştığı bu tezi yetersiz bulur.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/horon
+
+**TDK** — köken kaydı: Rumca · anlam: Karadeniz Bölgesi'nde kemençe ile oynanan halk oyunu
+
+### imbat
+
+**Nişanyan — imbat**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- İtalyanca › battere  [muhtemel türeme]
+- İtalyanca › imbatto › deniz esintisi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1521, Piri Reis — Kitab-ı Bahriye
+  > inbād rūzgārına yaˁni yaz gününde mevsūm olan gün batısı tarafından rūzgāra
+- 1835, Kieffer & Bianchi — Dictionnaire Turc-Français
+  > embad: Vent rafraîchissant, brise du soir, qui se fait régulièrement sentir dans l'Archipel et particulièrement dans le golfe de Smyrne
+
+Not: Başlıca Akdeniz dillerinde kullanılır. Karş. Yun εμπάτης ve μπάτης, İsp ve Port embate (a.a.). Kahane & Tietze §341 en erken 1313 tarihli Katalanca embat (a.a.) örneğini aktarır. • TTr batı ile ilgili olması uzak olasılıktır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/imbat
+
+**TDK** — köken kaydı: İtalyanca imbatto · anlam: Yazın, gündüz denizden karaya doğru esen mevsim rüzgârı; deniz yeli
+
+### bora
+
+**Nişanyan — bora**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Moğolca › boruġa(n) › yağmur  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Türkiye Türkçesi › boran › yağmurla karışık şiddetli fırtına  [muhtemel eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- <1400, anon. — et-Tuhfetu'z-Zekiyye fi'l-Lugati't-Türkiyye
+  > borġan [fırtına]
+- 1665, Evliya Çelebi — Seyahatname
+  > boran sehel emān verdikte [fırtına biraz aman verdiğinde]
+
+Not: Moğolca sözcüğün Fa bārān ("yağmur) ile ilişkisi muğlaktır. Karş. baran. Homeros'tan bu yana kaydedilmiş olan Yun boréas ("kuzey, kuzeyden esen yağmur fırtınası") sözcüğüyle benzerliği de öteden beri dikkat çekmiştir. Karş. poyraz.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/bora
+
+**TDK** — köken kaydı: İtalyanca borea · anlam: Genellikle arkasından yağmur getiren sert rüzgâr; boğanak
+
+### alarga
+
+**Nişanyan — alarga**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › largus › a.a.  [ses evrimi]
+- İtalyanca › largo › açık, geniş, uzak  [türeme]
+- İtalyanca › al largo › açıkta, (gemi) sahilden açılmış  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1560, Kahane & Tietze — The Lingua Franca in the Levant
+  > mezkur kadirgalaruŋ biri ilerü gidemeyüb bir mikdar anlardan alarga yerde oturdub
+- 1568, Meşâirü’ş-şuarâ
+  > Ḳorṣan ol ḥāṣılı dünyādan alarġa olıgör
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/alarga
+
+**TDK** — köken kaydı: İtalyanca allarga · anlam: ► açık deniz
+
+### avara
+
+**TDK** — köken kaydı: İtalyanca avara · anlam: Geminin yanaştığı kıyı veya iskeleden hareket ederek uzaklaşması
+
+### karina
+
+**TDK** — köken kaydı: İtalyanca carena · anlam: Gemi omurgası
+
+### pruva
+
+**Nişanyan — pruva**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *per-¹ › geçmek  [türeme]
+- Hintavrupa Anadili › *préh₃- (*prṓ-) › ileriye, öne  [türeme]
+- Hintavrupa Anadili › *préh₃-wr̥-i̯h₂ (*prṓ-wr̥-i̯a) › önde giden  [ses evrimi]
+- Eski Yunanca › prōira › a.a.  [alıntı]
+- Latince › prora › a.a.  [alıntı]
+- İtalyanca › prova/prora › geminin ön tarafı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1557, Seydi Ali Reis — Miratü'l-Memalik
+  > rūzgār dahı diritse idüp yaˁnī kolaylayup hapazlama belki pupa pruva idüp
+
+Not: İng prow, Fr proue (a.a.) biçimleri Latinceden alınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pruva
+
+**TDK** — köken kaydı: İtalyanca prova · anlam: Geminin veya sandalın ön tarafı, baş bölümü
+
+### pupa
+
+**Nişanyan — pupa**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › puppis › a.a.  [ses evrimi]
+- İtalyanca › puppa/poppa › geminin kıç tarafı, arkadan esen rüzgâr  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1538, Kahane & Tietze — The Lingua Franca in the Levant
+  > pupadur gerçi sakın yaprakdan [rüzgâr arkadan esse de yelkenin yapırdamasından sakın]
+
+Not: Fr poupe > İng poop (a.a.) Latince kökenlidir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pupa
+
+**TDK** — köken kaydı: İtalyanca poppa · anlam: Geminin arkası; kıç
+
+### konçerto
+
+**Nişanyan — konçerto**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › concertare › çarpışmak, yarışmak  [muhtemel türeme]
+- İtalyanca › concerto › 1. birlikte müzik yapma, 2. 18. yy'da popülerlik kazanan bir enstrümantal müzik formu  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1900, Ahmed Midhat Ef. — çeşitli yazıları
+  > konserto
+
+Not: İtalyanca sözcüğün etimolojisi muğlaktır. Lat concentare "birlikte şarkı söylemek" fiiliyle ilişkisi yakıştırma olabilir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/kon%C3%A7erto
+
+**TDK** — köken kaydı: İtalyanca concerto · anlam: Bir çalgının teknik özelliklerini ön plana çıkarmak amacıyla yazılmış, orkestra eşliğinde seslendirilen, sonat formundaki müzik eseri
+
+### libretto
+
+**Nişanyan — libretto**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › liber › 1. ağacın iç kabuğu, yazı tahtası, 2. kitap  [ses evrimi]
+- İtalyanca › libro › kitap  [türeme]
+- İtalyanca › libretto › kitapçık  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1863, Kanunnâme-i Ticaret-i Bahriye
+  > gemi kapudanı ... libreto tabir olunan diğer bir deftercik tutmağa mecbur olup
+- 1940, Akşam - gazete
+  > operaların libretto'ları, operetlerin manzum parçaları gibi ... baştan aşağı nazım dille yazılmış şaheserler
+
+Not: Aynı kökten Lat librarium "kitaplık", libellus "kitapçık".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/libretto
+
+**TDK** — köken kaydı: İtalyanca libretto · anlam: Bir operanın sözlerinin yazılı bulunduğu kitap
+
+### maestro
+
+**Nişanyan — maestro**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › magister  [ses evrimi]
+- İtalyanca › maestro › üstat  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1929, Ali Seydi — Yeni Türkçe Lugat, Resimli
+  > Maestro = Musiki ustası, bestekâr § Usta.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/maestro
+
+**TDK** — köken kaydı: İtalyanca maestro · anlam: ► orkestra şefi
+
+### mezzosoprano
+
+**Nişanyan — mezzosoprano**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- İtalyanca › soprano › en üst perde  [bileşik sözcüğün devamı]
+- Latince › medius › a.a.  [ses evrimi]
+- İtalyanca › mezzo › orta  [bileşik sözcük]
+- İtalyanca › mezzo-soprano › orta-üst, müzikte kadın sesinin orta perdesi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1930, Cumhuriyet - gazete
+  > Garp musikisi taksimatına nazaran Soprano, Mezzo Soprano olan hanımlar, Garp musikisinin en büyük klâsik parçalarını terennüm ettiler.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/mezzosoprano
+
+**TDK** — köken kaydı: İtalyanca mezzosoprano · anlam: Soprano ile kontralto arasında kadın sesi
+
+### stakato
+
+Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: bildiğini yaz, bilmediğine `null` koy, uydurma.
+
+### tremolo
+
+**Nişanyan — tremolo**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › terrere › korkuyla titremek  [türeme]
+- Latince › trema › titreyiş  [türeme]
+- Geç Latince › *tremulum › titrenti  [türeme]
+- İtalyanca › tremolo › titreme, müzikte bir tür süsleme  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1957, Milliyet - gazete
+  > Birden orkestra tremolo yaparak dikkat nazarları sahnenin olduğu tarafa çekti.
+
+Not: Karş. İng tremble "titremek", tremor "titreme".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tremolo
+
+### andante
+
+**TDK** — köken kaydı: İtalyanca andánte · anlam: Adacyo ile andantino arası, yarı yavaş bir biçimde (çalınmak)
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+Stakato için eksik kaynak kaydını kontrol edeceğim; diğer maddelerde verdiğiniz özetleri esas alacağım.
+
+web search: 
+web search: site.nisanyansozluk.com/kelime stakato ...
+web search: 
+web search: site.lugatim.com "STAKATO" ...
+web search: 
+web search: "stakkato" "TDK" İtalyanca
+web search: 
+web search: "staccato" "site:lugatim.com" ...
+codex
+[
+  {
+    "id": "lapina",
+    "word": "lapina",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {"language": "fr", "form": "lapina", "meaning": "kayalık kıyılarda yaşayan renkli bir balık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lapina", "meaning": "kayalık kıyılarda yaşayan renkli bir balık", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sığ ve kayalık kıyılarda yaşayan renkli bir deniz balığı.",
+    "currentMeaning": "Lapinagillerden, yaklaşık 25-35 santimetreye ulaşan, mavi veya yeşil gövdesinde kırmızı benekler bulunan kıyı balığı.",
+    "story": "Fransızcadaki lapina adı, Türkçeye kayalık kıyıların renkli bir balığını adlandırmak üzere taşındı. Sözcük burada başka bir nesnenin adına dönüşmedi; sığ sularda yaşayan, benekli gövdesiyle ayırt edilen balığın adı olarak kullanıldı.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lapina maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "lakerda",
+    "word": "lakerda",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "lakérda", "meaning": "tuzla hazırlanmış palamut veya orkinos", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lakerda", "meaning": "iri balık dilimlerinden hazırlanan salamura", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Palamut ve torik gibi balıklardan hazırlanan dilimli salamura.",
+    "currentMeaning": "Palamut, torik ve benzeri balıkların dilimlenip tuzla işlenmesiyle hazırlanan salamura yiyecek.",
+    "story": "Yunancadaki lakérda, denizde yüzen balıktan çok tuzla hazırlanmış balığı adlandırıyordu. Türkçeye de bu hazırlama biçimiyle birlikte geçti; palamut ve torik dilimlerinin salamuradaki hâlinin adı oldu.",
+    "firstAttestation": {"source": "Osmanlı Kanunnameleri, Selanik kanunnamesi", "period": "1488", "form": "lakerda"},
+    "relatives": [
+      {"word": "lacerta", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Latince eş kökenlisi lacerta, bir balık türünün yanı sıra kertenkeleyi de adlandırıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "lakerda maddesi", "url": "https://www.nisanyansozluk.com/kelime/lakerda"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lakerda maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "orkinos",
+    "word": "orkinos",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "óryks, oryg-", "meaning": "sivri uçlu alet; tek boynuzlu efsanevi deniz canlısı veya bir balina türü", "period": null, "reconstructed": false},
+      {"language": "el", "form": "órkinos", "meaning": "bir ton balığı türü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "orkinos", "meaning": "ton balığı", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Ton balığı.",
+    "currentMeaning": "Ton balığı adıyla da bilinen iri deniz balığı.",
+    "story": "Sözcüğün eski ucunda sivri bir alet ile tek boynuzlu olarak tasarlanan bir deniz yaratığı yan yana durur. Eski Yunancadaki bu ad ailesi, Yunancada órkinos biçimiyle bir ton balığı türüne bağlandı. Türkçeye geçen orkinos da efsanevi yaratığın değil, avlanan iri deniz balığının adı oldu.",
+    "firstAttestation": {"source": "Akhisarlı M. Bedrüddin, Cinanü'l-Cinas; Tarama Sözlüğü aktarımı", "period": "1584", "form": "orkenez"},
+    "relatives": [
+      {"word": "orca", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Latince orca ile orkinos eş kökenlidir; iki adın geçmişi farklı deniz canlılarında buluşur.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "orkinos maddesi", "url": "https://www.nisanyansozluk.com/kelime/orkinos"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "orkinos maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kalamata",
+    "word": "kalamata",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "Kalamáta", "meaning": "Yunanistan'da bir kent adı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "kalamata", "meaning": "iri ve etli bir zeytin çeşidi", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İri ve etli bir zeytin çeşidi.",
+    "currentMeaning": "Kalamata zeytini olarak da adlandırılan, büyük taneli ve etli zeytin çeşidi.",
+    "story": "Kalamáta önce Yunanistan'daki bir kentin adıydı. Kent adı zeytinle birlikte anılınca coğrafyayı gösteren özel ad, sofradaki bir çeşidi de belirtmeye başladı. Türkçede kalamata denildiğinde artık kentin kendisi değil, iri ve etli zeytini öne çıkar.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1936", "form": "Kalamata"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "kalamata maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalamata"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalamata maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sirtaki",
+    "word": "sirtaki",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {"language": "el", "form": "sirtós", "meaning": "sirto adlı dans", "period": null, "reconstructed": false},
+      {"language": "el", "form": "sirtáki", "meaning": "küçük sirto; dans ezgisi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sirtaki", "meaning": "kol ve ayak hareketleriyle giderek hızlanan halk oyunu", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kol ve ayak hareketleriyle giderek hızlanan bir halk oyunu.",
+    "currentMeaning": "Kolların ve ayakların belirgin hareketleriyle oynanan, temposu aşamalı olarak yükselen halk oyunu.",
+    "story": "Yunancadaki sirtós adlı dans, küçültme biçimi sirtáki ile yeni bir ad kazandı. Bu ad hem küçük sirtoyu hem de oyun havasını karşılıyordu. Türkçeye taşınırken dansla bağı korundu ve giderek hızlanan hareketleriyle tanınan oyunun adı oldu.",
+    "firstAttestation": {"source": "Milliyet gazetesi", "period": "1965", "form": "Sirtakiyi"},
+    "relatives": [
+      {"word": "sirto", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sirtaki maddesi", "url": "https://www.nisanyansozluk.com/kelime/sirtaki"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sirtaki maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "horon",
+    "word": "horon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "χorós", "meaning": "dans; dans ederek şarkı söyleyen topluluk; dans alanı", "period": null, "reconstructed": false},
+      {"language": "el", "form": "χorós", "meaning": "birlikte oynanan dans", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "horon", "meaning": "Karadeniz'de kemençe eşliğinde oynanan halk oyunu", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Karadeniz'de kemençe eşliğinde oynanan halk oyunu.",
+    "currentMeaning": "Karadeniz Bölgesi'ne özgü, kemençe eşliğinde topluca oynanan halk oyunu.",
+    "story": "Eski Yunancada χorós yalnız dansı değil, dans ederek şarkı söyleyen topluluğu ve onların oyun alanını da kapsıyordu. Yunancada birlikte dans etme anlamını sürdüren ad, Türkçede horon biçimini aldı. Bugünkü kullanımında bu geniş dans dünyası, Karadeniz'in kemençeli toplu oyununda somutlaşır.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "koron"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "horon maddesi", "url": "https://www.nisanyansozluk.com/kelime/horon"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "horon maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "imbat",
+    "word": "imbat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "battere", "meaning": "vurmak, çarpmak", "period": null, "reconstructed": false},
+      {"language": "it", "form": "imbatto", "meaning": "denizden gelen esinti", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "imbat", "meaning": "yaz gündüzlerinde denizden karaya esen rüzgâr", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yazın gündüzleri denizden karaya esen rüzgâr.",
+    "currentMeaning": "Yaz mevsiminde gündüz saatlerinde denizden karaya yönelen serinletici rüzgâr.",
+    "story": "İtalyancadaki imbatto, denizden gelen esintiyi adlandırıyordu. Daha geride vurma ve çarpma eylemini anlatan battere ile bir bağlantı bulunabilir, ancak bu türeme kesin değildir. Türkçede imbat, kıyıya ulaşan bu esintinin yaz gündüzlerinde hissedilen deniz yeli olarak özelleşmiş adıdır.",
+    "firstAttestation": {"source": "Piri Reis, Kitab-ı Bahriye", "period": "1521", "form": "inbād"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük, İtalyanca imbatto ile battere arasındaki türeme ilişkisini muhtemel olarak değerlendirir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "imbat maddesi", "url": "https://www.nisanyansozluk.com/kelime/imbat"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "imbat maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bora",
+    "word": "bora",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "mn",
+    "ultimateOrigin": "mn",
+    "chain": [
+      {"language": "mn", "form": "boruġa(n)", "meaning": "yağmur", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "bora", "meaning": "çoğunlukla ardından yağmur gelen sert rüzgâr", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çoğunlukla ardından yağmur gelen sert rüzgâr.",
+    "currentMeaning": "Sert esen ve genellikle yağışın habercisi olan rüzgâr; boğanak.",
+    "story": "Boranın geçmişi için iki ayrı dil yolu gösterilir. Moğolca açıklamasında başlangıçtaki boruġa(n) yağmuru adlandırır; Türkçedeki kullanımda ağırlık, yağışla birlikte düşünülen sert rüzgâra kayar. Diğer açıklama ise sözcüğü İtalyanca borea ile bağlar; bu yüzden Türkçeye hangi dilden geçtiği konusunda görüş birliği yoktur.",
+    "firstAttestation": {"source": "et-Tuhfetu'z-Zekiyye fi'l-Lugati't-Türkiyye", "period": "1400 öncesi", "form": "borġan"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük, borayı yağmur bildiren Moğolca boruġa(n) biçiminden alınmış olarak açıklar.",
+      "TDK Güncel Türkçe Sözlük, doğrudan kaynak olarak İtalyanca borea biçimini gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "bora maddesi", "url": "https://www.nisanyansozluk.com/kelime/bora"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "bora maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "alarga",
+    "word": "alarga",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "largus", "meaning": "açık, geniş, uzak", "period": null, "reconstructed": false},
+      {"language": "it", "form": "largo", "meaning": "açık, geniş, uzak", "period": null, "reconstructed": false},
+      {"language": "it", "form": "al largo", "meaning": "kıyıdan uzakta, denizin açığında", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "alarga", "meaning": "denizin kıyıdan uzak kesimi", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Denizin kıyıdan uzak, açık kesimi.",
+    "currentMeaning": "Kıyıdan uzak deniz alanı; açık deniz.",
+    "story": "Latince largus ile İtalyanca largo, açıklık ve genişlik düşüncesini taşır. İtalyancadaki al largo ifadesinde bu genişlik, geminin kıyıdan uzaklaşıp denizin açığında bulunmasına bağlanır. Türkçedeki alarga da bu denizcilik resmini korur; ancak doğrudan alınan İtalyanca biçim al largo veya allarga olarak farklı kaydedilir.",
+    "firstAttestation": {"source": "Kahane & Tietze, The Lingua Franca in the Levant", "period": "1560", "form": "alarga"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük, aktarım biçimini İtalyanca al largo olarak verirken TDK Güncel Türkçe Sözlük allarga biçimini gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "alarga maddesi", "url": "https://www.nisanyansozluk.com/kelime/alarga"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "alarga maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "avara",
+    "word": "avara",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "avara", "meaning": "geminin kıyı veya iskeleden ayrılması", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "avara", "meaning": "geminin kıyı veya iskeleden ayrılması", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Geminin kıyıdan veya iskeleden ayrılması.",
+    "currentMeaning": "Yanaşmış bir geminin hareket ederek kıyıdan ya da iskeleden uzaklaşması.",
+    "story": "İtalyancadan alınan avara, bir geminin kıyıyla bağını geride bırakıp uzaklaşmasını adlandırır. Türkçede de aynı manevraya bağlanmıştır: Sözcüğün merkezinde duran gemi değil, yanaştığı yerden ayrılan gemi vardır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "avara maddesi, denizcilik anlamı", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "karina",
+    "word": "karina",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "carena", "meaning": "geminin omurgası", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "karina", "meaning": "geminin omurgası", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Geminin omurgası.",
+    "currentMeaning": "Geminin alt bölümünde uzanan omurga.",
+    "story": "İtalyancadaki carena, geminin omurgasını adlandıran bir denizcilik sözüdür. Türkçede karina biçimini alırken aynı parçaya bağlı kalır; geminin yapısını anlatan adlardan biri olur.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "karina maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "pruva",
+    "word": "pruva",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "per-¹", "meaning": "geçmek", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "préh₃- (prṓ-)", "meaning": "öne, ileriye doğru", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "préh₃-wr̥-i̯h₂ (prṓ-wr̥-i̯a)", "meaning": "önde giden", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "prōira", "meaning": "önde giden", "period": null, "reconstructed": false},
+      {"language": "la", "form": "prora", "meaning": "önde giden", "period": null, "reconstructed": false},
+      {"language": "it", "form": "prova/prora", "meaning": "geminin baş bölümü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pruva", "meaning": "gemi veya sandalın baş bölümü", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Gemi veya sandalın baş bölümü.",
+    "currentMeaning": "Bir geminin ya da sandalın önde bulunan baş kısmı.",
+    "story": "Pruvanın en eski katmanında geçme eylemi, ardından öne yönelme ve önde gitme düşüncesi bulunur. Bu düşünce, suyu ilk karşılayan gemi başında somutlaşır. Eski Yunanca ve Latinceden İtalyancaya ulaşan ad, Türkçede pruva biçimiyle geminin önünü göstermeyi sürdürür.",
+    "firstAttestation": {"source": "Seydi Ali Reis, Miratü'l-Memalik", "period": "1557", "form": "pruva"},
+    "relatives": [
+      {"word": "prow", "relation": "eş köken"},
+      {"word": "proue", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pruva maddesi", "url": "https://www.nisanyansozluk.com/kelime/pruva"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pruva maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pupa",
+    "word": "pupa",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "puppis", "meaning": "geminin arka bölümü", "period": null, "reconstructed": false},
+      {"language": "it", "form": "puppa/poppa", "meaning": "geminin arka bölümü; kıç yönünden esen rüzgâr", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pupa", "meaning": "geminin arka bölümü", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Geminin arka bölümü.",
+    "currentMeaning": "Geminin kıç olarak adlandırılan arka kısmı.",
+    "story": "Latince puppis geminin arkasını gösteriyordu. İtalyancada puppa ve poppa biçimleriyle yaşayan ad, o taraftan esen rüzgârı da karşılamaya başladı. Türkçeye geçen pupa, geminin arka bölümünü adlandırırken denizcilikte yön ile rüzgâr arasındaki bu bağı da taşır.",
+    "firstAttestation": {"source": "Kahane & Tietze, The Lingua Franca in the Levant", "period": "1538", "form": "pupadur"},
+    "relatives": [
+      {"word": "poupe", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pupa maddesi", "url": "https://www.nisanyansozluk.com/kelime/pupa"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pupa maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "konçerto",
+    "word": "konçerto",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "concertare", "meaning": "yarışmak, karşı karşıya çarpışmak", "period": null, "reconstructed": false},
+      {"language": "it", "form": "concerto", "meaning": "birlikte müzik icrası; 18. yüzyılda yaygınlaşan bir çalgı müziği biçimi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "konçerto", "meaning": "bir çalgıyı öne çıkaran orkestra eşlikli eser", "period": "1900 öncesi", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir çalgıyı öne çıkaran, orkestra eşlikli müzik eseri.",
+    "currentMeaning": "Bir çalgının teknik olanaklarını sergilemek üzere sonat formunda yazılan ve orkestra eşliğinde seslendirilen eser.",
+    "story": "İtalyanca concerto önce birlikte müzik yapmayı, ardından belirli bir çalgı müziği biçimini adlandırdı. Daha eski bağlantısı kesin değildir; Latince yarışma ve çarpışma bildiren concertare ile ilişkilendirilir. Türkçede konçerto, bir çalgının orkestranın eşliğinde öne çıktığı eserin adı olarak yerleşti.",
+    "firstAttestation": {"source": "Ahmed Midhat Efendi, çeşitli yazıları", "period": "1900 öncesi", "form": "konserto"},
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük, concerto ile Latince concertare arasındaki türemeyi muhtemel sayar; birlikte şarkı söylemeyi bildiren concentare ile bağlantının ise yakıştırma olabileceğini belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "konçerto maddesi", "url": "https://www.nisanyansozluk.com/kelime/kon%C3%A7erto"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "konçerto maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "libretto",
+    "word": "libretto",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "liber", "meaning": "ağacın iç kabuğu; yazı için kullanılan levha; kitap", "period": null, "reconstructed": false},
+      {"language": "it", "form": "libro", "meaning": "kitap", "period": null, "reconstructed": false},
+      {"language": "it", "form": "libretto", "meaning": "küçük kitap", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "libretto", "meaning": "opera sözlerini içeren kitap", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir operanın sözlerini içeren kitap.",
+    "currentMeaning": "Operada söylenen sözlerin yazılı olarak bir araya getirildiği kitap.",
+    "story": "Latince liber, ağacın iç kabuğu ve yazı yüzeyinden kitaba uzanan bir anlam alanı taşıyordu. İtalyancada libro kitap, onun küçültmesi libretto ise küçük kitap oldu. Türkçede bu küçük kitabın adı, operanın söylenecek sözlerini bir araya getiren metne bağlandı.",
+    "firstAttestation": {"source": "Kanunnâme-i Ticaret-i Bahriye", "period": "1863", "form": "libreto"},
+    "relatives": [
+      {"word": "librarium", "relation": "eş köken"},
+      {"word": "libellus", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Türkçedeki erken kullanımında libreto, opera metnini değil, gemi kaptanının tutmakla yükümlü olduğu bir defteri adlandırıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "libretto maddesi", "url": "https://www.nisanyansozluk.com/kelime/libretto"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "libretto maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "maestro",
+    "word": "maestro",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "magister", "meaning": "usta, öğretici", "period": null, "reconstructed": false},
+      {"language": "it", "form": "maestro", "meaning": "işinde ustalaşmış kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "maestro", "meaning": "orkestrayı yöneten müzikçi", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Orkestrayı yöneten müzikçi.",
+    "currentMeaning": "Orkestra şefi.",
+    "story": "Latince magister ile başlayan ad, İtalyancada maestro biçimine ulaşınca ustalığı belirten bir unvan olarak yaşadı. Türkçeye de müzikteki ustalık çevresinde girdi. Bugünkü kullanımında bu geniş unvan, orkestranın başında icrayı yöneten kişide yoğunlaşır.",
+    "firstAttestation": {"source": "Ali Seydi, Yeni Türkçe Lugat, Resimli", "period": "1929", "form": "Maestro"},
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "maestro maddesi", "url": "https://www.nisanyansozluk.com/kelime/maestro"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "maestro maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mezzosoprano",
+    "word": "mezzosoprano",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "it", "form": "soprano", "meaning": "en tiz ses bölgesi", "period": null, "reconstructed": false},
+      {"language": "la", "form": "medius", "meaning": "orta", "period": null, "reconstructed": false},
+      {"language": "it", "form": "mezzo", "meaning": "orta", "period": null, "reconstructed": false},
+      {"language": "it", "form": "mezzo-soprano", "meaning": "orta ile üst arasında bulunan kadın sesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "mezzosoprano", "meaning": "soprano ile kontralto arasındaki kadın sesi", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Soprano ile kontralto arasındaki kadın sesi.",
+    "currentMeaning": "Kadın seslerinin sınıflandırılmasında soprano ile kontralto arasında yer alan ses türü.",
+    "story": "Bu ad İtalyancada iki parçanın birleşmesiyle kuruldu: Soprano en üst ses bölgesini gösterirken mezzo ortaya işaret eder. Mezzo parçasının gerisinde de Latince medius bulunur. Birleşme, sesin yerini bir yükseklik düzeni içinde tarif eder; Türkçedeki mezzosoprano da soprano ile kontralto arasındaki kadın sesini adlandırır.",
+    "firstAttestation": {"source": "Cumhuriyet gazetesi", "period": "1930", "form": "Mezzo Soprano"},
+    "relatives": [
+      {"word": "soprano", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "mezzosoprano maddesi", "url": "https://www.nisanyansozluk.com/kelime/mezzosoprano"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "mezzosoprano maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "stakato",
+    "word": "stakato",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "staccato", "meaning": "ayrılmış, kopuk", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "stakato", "meaning": "sesleri birbirinden ayırarak kısa çalma tekniği", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sesleri birbirinden ayırarak kısa çalma tekniği.",
+    "currentMeaning": "Müzikte seslerin birbirine bağlanmadan, aralarında kısa sessizlikler bırakılarak seslendirilmesi.",
+    "story": "İtalyanca staccato, ayrılmış ve kopuk olma düşüncesini müziğe taşır. Bir sesin ötekine uzanması yerine araya sessizlik girmesi, bu ayrılığı duyulur hâle getirir. Türkçede stakato adı da sesleri böyle ayrı ayrı verme tekniğini karşılar.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tremolo",
+    "word": "tremolo",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "terrere", "meaning": "korkudan titremek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "trema", "meaning": "titreme hareketi", "period": null, "reconstructed": false},
+      {"language": "la", "form": "tremulum", "meaning": "titreme hareketi", "period": "Geç Latince dönemi", "reconstructed": true},
+      {"language": "it", "form": "tremolo", "meaning": "titreme; müzikte süsleme tekniği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tremolo", "meaning": "seslerin hızlı yinelenmesiyle oluşturulan müzik süslemesi", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Seslerin hızlı yinelenmesiyle yapılan müzik süslemesi.",
+    "currentMeaning": "Bir sesin hızla tekrarlanması veya sesler arasında hızlı geçişler yapılmasıyla oluşturulan müziksel süsleme.",
+    "story": "Tremolonun geçmişinde korkuyla titreyen bedenin hareketi bulunur. Latincedeki titreme bildiren biçimler, İtalyanca tremoloda hem bedensel hareketi hem müzikteki bir süslemeyi karşılar. Türkçeye müzik terimi olarak geçen ad, hızlı tekrarlarla sesin titreşir gibi duyulmasına bağlanır.",
+    "firstAttestation": {"source": "Milliyet gazetesi", "period": "1957", "form": "tremolo"},
+    "relatives": [
+      {"word": "tremble", "relation": "akraba"},
+      {"word": "tremor", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tremolo maddesi", "url": "https://www.nisanyansozluk.com/kelime/tremolo"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "andante",
+    "word": "andante",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "zarf",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "andánte", "meaning": "orta derecede yavaş tempoyla", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "andante", "meaning": "orta derecede yavaş tempoyla", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Orta derecede yavaş bir tempoyla.",
+    "currentMeaning": "Bir müzik parçasının adacyo ile andantino arasındaki yarı yavaş tempoda çalınmasını belirten terim.",
+    "story": "İtalyancadaki andánte, müzikçinin parçayı hangi hızda ilerleteceğini belirten bir terim olarak Türkçeye taşındı. Burada da sesin yüksekliğini veya çalgının türünü değil, icranın zaman içindeki akışını düzenler. Adacyo ile andantino arasında kalan yarı yavaş bir ilerleyiş ister.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "andante maddesi", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
+tokens used
+38,739

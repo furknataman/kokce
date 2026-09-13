@@ -1,5 +1,46 @@
 [
   {
+    "id": "siluet",
+    "word": "siluet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "silhouette",
+        "meaning": "yalnız dış çizgileri seçilen görüntü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "siluet",
+        "meaning": "ayrıntıları seçilemeyen dış görünüş",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir varlığın ayrıntıları seçilmeyen dış görünüşü.",
+    "currentMeaning": "Bir insanın veya nesnenin iç ayrıntıları görünmeden, dış sınırlarıyla seçilen görüntüsü.",
+    "story": "Fransızca silhouette, bir görüntünün ayrıntılarını silip geriye dış çizgilerini bırakır. Türkçede de sözcük, uzaktaki bir insanı ya da ışığın önünde kararan bir yapıyı yalnız biçiminden tanıdığımız görüntüyü anlatır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "siluet maddesi",
+        "url": "https://lugatim.com/s/siluet"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
     "id": "alaz",
     "word": "alaz",
     "rarity": "az-bilinen",

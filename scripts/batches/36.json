@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "inziva",
+    "word": "inziva",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "zawā",
+        "meaning": "sakladı, bükerek topladı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "inziwāˀ",
+        "meaning": "bir köşeye çekilip yalnız kalma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "inziva",
+        "meaning": "toplumdan uzaklaşıp yalnız yaşama",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Toplumdan uzaklaşıp yalnız yaşama.",
+    "currentMeaning": "İnsanlarla bir arada yaşamaktan uzaklaşarak hayatını tek başına sürdürme.",
+    "story": "İnzivanın geçmişinde saklama ve büküp toplama hareketlerini anlatan Arapça zawā bulunur. Bu kökten gelişen inziwāˀ ile hareketin odağı, kendisini bir köşeye çeken kişiye döner. Türkçede sözcük, insanın toplumla arasına mesafe koyup yalnız bir hayat sürmesini anlatır.",
+    "firstAttestation": {
+      "source": "Ferec ba'd eş-şidde",
+      "period": "1451'den önce",
+      "form": "inzivā"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "inziva maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/inziva"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "inziva",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "vahşet",
+    "word": "vahşet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "vaḥşet",
+        "meaning": "yabanilik",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "vahşet",
+        "meaning": "yabanilik, vahşilik",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yabanilik, vahşilik.",
+    "currentMeaning": "Yabani ya da vahşi olma niteliği.",
+    "story": "Arapça vaḥşet, yabaniliği bir durum olarak adlandırır. Türkçeye taşınan vahşet de bu anlamı sürdürür; sözcüğün merkezinde evcilleşmemiş, yabani olanın niteliği vardır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "vahşi",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "vahşet",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "seyyare",
+    "word": "seyyare",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "sāra",
+        "meaning": "gezdi, yürüyerek ilerledi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "sayyāra(t)",
+        "meaning": "dolaşan şey veya gök cismi, gezegen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "seyyare",
+        "meaning": "gezegen",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir yıldızın çevresinde dolanan gezegen.",
+    "currentMeaning": "Gezegen; bir yıldızın çevresinde yörünge izleyen gök cismi.",
+    "story": "Seyyarenin başlangıcında Arapça sāra ile anlatılan yürüme ve yol alma hareketi vardır. Gökyüzünde yer değiştiriyor görünen gezegenler de bu hareket üzerinden adlandırılmıştır. Arapçadaki adlandırma, Yunancanın gezgin yıldız tasvirini çeviri yoluyla taşır; Türkçeye ise seyyare biçiminde geçer.",
+    "firstAttestation": {
+      "source": "Danişmend-Name",
+      "period": "1360",
+      "form": "seyyāre"
+    },
+    "relatives": [
+      {
+        "word": "seyir",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "seyyare maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/seyyare"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "seyyare",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "umman",
+    "word": "umman",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ˁummān",
+        "meaning": "Arabistan'daki Umman ülkesi; özellikle Hint Okyanusu olmak üzere okyanus",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "umman",
+        "meaning": "okyanus",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yeryüzünün çok geniş denizlerinden biri, okyanus.",
+    "currentMeaning": "Kıtalar arasındaki büyük deniz alanı; okyanus.",
+    "story": "Arapça ˁummān, hem Arabistan'daki bir ülkenin adı hem de özellikle Hint Okyanusu için kullanılan bir deniz adıdır. Türkçeye taşınan ummanda denizi anlatan kullanım öne çıkar. Böylece belirli bir coğrafyayla bağlantılı sözcük, okyanusun genişliğini karşılayan bir ada dönüşür.",
+    "firstAttestation": {
+      "source": "Aşık Paşa, Garib-name",
+      "period": "1330",
+      "form": "ˁummān"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "umman maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/umman"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "umman",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "heybet",
+    "word": "heybet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "hāba",
+        "meaning": "korkuyla karışık derin saygı duydu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "hayba(t)",
+        "meaning": "korku, ürkütücülük ve ululuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "heybet",
+        "meaning": "korkuyla birlikte saygı doğuran görünüm",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Görünüşün uyandırdığı korku ve saygı.",
+    "currentMeaning": "Bir varlığın görünüşünde korkuyla birlikte saygı da uyandıran etkileyicilik.",
+    "story": "Heybetin kökündeki Arapça hāba, bir şey karşısında korkuyla karışık saygı duymayı anlatır. Bu duygudan türeyen hayba(t), hem korkuyu hem de onu doğuran ululuğu adlandırır. Türkçede heybet, bakanda bu iki duyguyu birden uyandıran görünüş üzerinde yoğunlaşır.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "haybat"
+    },
+    "relatives": [
+      {
+        "word": "heybetli",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "heybet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/heybet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "heybet",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "haşmet",
+    "word": "haşmet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥaşama",
+        "meaning": "konuşamaz oldu, sustu; hayvana tasma takıldı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḥaşma(t)",
+        "meaning": "çevresinde hizmetliler ve ileri gelenler bulunma, saygınlık ve gösteriş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "haşmet",
+        "meaning": "görkem",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Büyüklük ve gösterişle beliren görkem.",
+    "currentMeaning": "Görünüşteki büyüklük, gösteriş ve etkileyicilik; görkem.",
+    "story": "Haşmetin Arapça kökünde susma ve dili tutulma gibi eylemler bulunur. Sözcüğün tarihî anlam dünyasında ise çevresinde hizmetliler ve ileri gelenler bulunan itibarlı kişi öne çıkar. Bu kalabalığın ve makamın sergilediği büyüklük, Türkçede haşmetin görkem bildiren kullanımına uzanır.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "ḥaşmat"
+    },
+    "relatives": [
+      {
+        "word": "haşem",
+        "relation": "eş köken"
+      },
+      {
+        "word": "ihtişam",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "haşmet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ha%C5%9Fmet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "haşmet",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ihtişam",
+    "word": "ihtişam",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥaşam",
+        "meaning": "bir kişinin çevresindeki hizmetliler topluluğu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "iḥtişām",
+        "meaning": "bir kişinin çevresindeki hizmetliler topluluğu",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "tr",
+        "form": "ihtişam",
+        "meaning": "görkem",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Göz alıcı büyüklük ve görkem.",
+    "currentMeaning": "Büyüklüğü ve gösterişiyle etkileyen görkem.",
+    "story": "İhtişamın kökünde, güçlü bir kişinin çevresindeki hizmetlileri anlatan Arapça ḥaşam vardır. Kalabalık maiyetin çağrıştırdığı itibar ve gösteriş, Osmanlı kullanımında sözcüğün görkem bildiren anlamında belirginleşir. Arapçadaki iḥtişām ise utanma ve çekinmeyi anlatır; Türkçedeki görkem anlamı bu kullanımdan ayrılır.",
+    "firstAttestation": {
+      "source": "Fuzuli, Türkçe Divan",
+      "period": "1535",
+      "form": "iḥtişām"
+    },
+    "relatives": [
+      {
+        "word": "haşmet",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ihtişam maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ihti%C5%9Fam"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ihtişam",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "cemal",
+    "word": "cemal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "camula",
+        "meaning": "eksiksiz ve güzel oldu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "camāl",
+        "meaning": "güzel olma niteliği",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "cemal",
+        "meaning": "yüzün güzelliği",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsan yüzündeki güzellik.",
+    "currentMeaning": "Bir insanın yüzünde görülen güzellik.",
+    "story": "Cemalin kökündeki Arapça camula, güzelliği tamlık ve eksiksizlikle birlikte düşünür. Bu kökten gelişen camāl, güzel olma niteliğinin adıdır. Türkçede cemal, bu geniş güzellik fikrini özellikle insan yüzünde toplar.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib, Kutadgu Bilig",
+      "period": "1069",
+      "form": "camāl"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "cemal maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/cemal"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "cemal",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hüsün",
+    "word": "hüsün",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥasuna",
+        "meaning": "güzel oldu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ḥusn",
+        "meaning": "güzel olma niteliği",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hüsün",
+        "meaning": "güzellik",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Güzel olma niteliği.",
+    "currentMeaning": "Bir varlıkta ya da şeyde bulunan güzellik.",
+    "story": "Arapça ḥasuna ile anlatılan güzel olma hâli, ḥusn biçiminde bir nitelik adına dönüşür. Türkçeye hüsün olarak geçen sözcük, güzelliği yalnızca yüzde aramaz; güzel yazıdan bir kişi hakkındaki olumlu düşünceye kadar uzanan tamlamalarda da yaşar. Böylece görünüşteki güzellikle beğenilen nitelikler aynı sözcük çevresinde buluşur.",
+    "firstAttestation": {
+      "source": "Tezkiretü'l-Evliya tercümesi",
+      "period": "1341",
+      "form": "ḥusn"
+    },
+    "relatives": [
+      {
+        "word": "Hasan",
+        "relation": "akraba"
+      },
+      {
+        "word": "Hüseyin",
+        "relation": "akraba"
+      },
+      {
+        "word": "ihsan",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Hüseyin adı, hüsünle aynı kökten türeyen ve küçük güzel diye açıklanan bir biçime dayanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hüsün maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/h%C3%BCs%C3%BCn"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hüsün",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sabahat",
+    "word": "sabahat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ṣabāhat",
+        "meaning": "tazelik ve hoşluk taşıyan güzellik",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sabahat",
+        "meaning": "güzellik, tazelik ve hoşluk",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Tazelik ve hoşlukla birlikte düşünülen güzellik.",
+    "currentMeaning": "Güzellik, taze olma niteliği ve hoşluk.",
+    "story": "Arapça ṣabāhat, güzelliğin yanında tazeliği ve hoşluğu da taşır. Türkçeye sabahat olarak geçen sözcükte bu özellikler bir arada kalır; güzel olan, aynı zamanda taze ve hoş bir görünüşle düşünülür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "sabahat maddesi",
+        "url": "https://lugatim.com/s/sabahat"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "melahat",
+    "word": "melahat",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "melāḥat",
+        "meaning": "güzel ve şirin olma niteliği",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "melahat",
+        "meaning": "güzellik ve sevimlilik",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sevimlilikle birleşen güzellik.",
+    "currentMeaning": "Güzel ve şirin olma niteliği.",
+    "story": "Arapça melāḥat, güzelliği şirinlikle yan yana getirir. Türkçedeki melahat da aynı birlikteliği korur; sözcük, güzel görünüşün insanda uyandırdığı sevimlilik duygusunu da taşır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "melahat maddesi",
+        "url": "https://lugatim.com/s/melahat"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "zarafet",
+    "word": "zarafet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ẓarufa",
+        "meaning": "güzel ve zarif göründü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ẓarāfa(t)",
+        "meaning": "zarif olma niteliği",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "zarafet",
+        "meaning": "zariflik",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Görünüşte veya davranışta incelik ve hoşluk.",
+    "currentMeaning": "Görünüş ya da davranış bakımından ince, hoş ve zarif olma niteliği.",
+    "story": "Zarafetin Arapça kökünde güzel ve hoş görünme vardır. Bu görünüşü anlatan ẓarufa, ẓarāfa(t) biçiminde bir nitelik adına dönüşür. Türkçede zarafet, hem görünüşte hem davranışta fark edilen inceliği ve hoşluğu anlatmayı sürdürür.",
+    "firstAttestation": {
+      "source": "Ahmed b. Kadı-i Manyas, Gülistan tercümesi",
+      "period": "1429",
+      "form": "ẓarāfet"
+    },
+    "relatives": [
+      {
+        "word": "zarif",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "zarafet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/zarafet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "zarafet",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bîgâne",
+    "word": "bîgâne",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "bīgāne",
+        "meaning": "yabancı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bîgâne",
+        "meaning": "yabancı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Tanıdık olmayan, yabancı.",
+    "currentMeaning": "Tanıdık sayılmayan veya içinde bulunulan çevreden olmayan; yabancı.",
+    "story": "Farsça bīgāne, tanıdık çevrenin dışında kalanı adlandırır. Türkçeye bîgâne olarak taşınırken yabancılık fikrini korur; kişinin bir çevreye ait olmayışı sözcüğün merkezinde kalır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bîgâne",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "teşne",
+    "word": "teşne",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "tişnag",
+        "meaning": "su içme ihtiyacı duyan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "taşna",
+        "meaning": "susuz kalmış, su isteyen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "teşne",
+        "meaning": "susamış",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Su içme ihtiyacı duyan, susamış.",
+    "currentMeaning": "Susuzluk hisseden, su içmek isteyen.",
+    "story": "Teşnenin geçmişindeki Orta Farsça tişnag, su isteyen bedenin hâlini anlatır. Farsçada taşna biçimini alan sözcük, Türkçeye bu susuzluk duygusuyla geçer. Şiirde suyun bile sevgilinin dudağına teşne gösterilmesi, bedensel ihtiyacın güçlü bir istek tasvirine dönüşmesini sağlar.",
+    "firstAttestation": {
+      "source": "Ömer b. Mezîd, Mecmuatü'n-nezâir",
+      "period": "1437",
+      "form": "teşne"
+    },
+    "relatives": [
+      {
+        "word": "tarşna-",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "teşne maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/te%C5%9Fne"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "teşne",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "füsun",
+    "word": "füsun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "fusūn/afsūn",
+        "meaning": "sihir ve yanıltıcı gösteri",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "füsun",
+        "meaning": "büyü",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sihir, büyü.",
+    "currentMeaning": "Doğaüstü yollarla etki oluşturduğuna inanılan uygulama; büyü.",
+    "story": "Farsça fusūn ve afsūn, sihirle göz boyamayı aynı anlam çevresinde toplar. Türkçeye füsun olarak geçen biçim, büyü fikrini korur. Şiir ve güzellik için kullanıldığında da bu eski sihir tasviri, sözün ya da görünüşün etkisini anlatır.",
+    "firstAttestation": {
+      "source": "Latifî, Tezkîretü'ş-Şuarâ",
+      "period": "1546",
+      "form": "füsūn"
+    },
+    "relatives": [
+      {
+        "word": "efsun",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "füsun maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/f%C3%BCsun"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "füsun",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "âb",
+    "word": "âb",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "āb",
+        "meaning": "su",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "âb",
+        "meaning": "su",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İçilen, akan ve yaşam için gerekli olan sıvı, su.",
+    "currentMeaning": "Canlıların yaşamı için gerekli, saf hâli renksiz ve kokusuz olan sıvı; su.",
+    "story": "Farsça āb, içilen ve akıp giden suyun kısa adıdır. Türkçeye âb olarak geçen sözcükte de aynı somut madde korunur; dil değişirken suyu karşılayan anlam değişmez.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "âb",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "üftade",
+    "word": "üftade",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "peth₂- (pet-)",
+        "meaning": "uçma ve düşme hareketi",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "fa",
+        "form": "uftādan",
+        "meaning": "aşağı düşmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "uftāda",
+        "meaning": "düşmüş veya düşkün; bülbül",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "üftade",
+        "meaning": "düşmüş, düşkün durumda olan",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Düşmüş, düşkün durumda olan.",
+    "currentMeaning": "Düşmüş veya düşkün hâle gelmiş olan.",
+    "story": "Üftadenin en eski kökünde uçma ve düşme hareketleri bir aradadır. Farsça uftādan bu hareketlerden düşmeyi sürdürür; uftāda ise düşmüş olanı gösterir. Türkçeye geçen üftade, fiziksel düşüşün yanında yardıma ihtiyaç duyan kişinin düşkün hâlini de taşır.",
+    "firstAttestation": {
+      "source": "Süleyman Çelebi, Mevlid",
+      "period": "1409",
+      "form": "üftāde"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Üftade, tarihî kullanımda bülbülün adlarından biri olarak da karşımıza çıkar.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "üftade maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C3%BCftade"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "afitap",
+    "word": "afitap",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ira",
+    "chain": [
+      {
+        "language": "ira",
+        "form": "tāpáh",
+        "meaning": "ısı ve aydınlık",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ira",
+        "form": "abi-tāpáh",
+        "meaning": "ısı ve aydınlık",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "pal",
+        "form": "āftāb",
+        "meaning": "ısı ve aydınlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "āftāb",
+        "meaning": "güneş ve gündüz aydınlığı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "afitap",
+        "meaning": "güneş",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Dünyayı aydınlatan Güneş.",
+    "currentMeaning": "Gündüzün ışık ve ısı kaynağı olan gök cismi; Güneş.",
+    "story": "Afitabın geçmişi, Ana İrancada ısıyı ve aydınlığı anlatan tāpáh köküne uzanır. Sözcük Orta Farsçadan Farsçaya taşınırken āftāb biçiminde güneşi ve onun ışığını adlandırır. Türkçedeki afitap da gökteki bu ışık kaynağını anlatır; adın derininde güneşin ısıtması ve aydınlatması vardır.",
+    "firstAttestation": {
+      "source": "Erzurumlu Darir, Kıssa-i Yusuf tercümesi",
+      "period": "1377'den önce",
+      "form": "āftāb"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "afitap maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/afitap"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "agâh",
+    "word": "agâh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {
+        "language": "ae",
+        "form": "kas-",
+        "meaning": "görüp ayırt etmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "āgāh",
+        "meaning": "uyanmış, uyanık ve dikkatli",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "agâh",
+        "meaning": "bilgili",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bilgisi olan, bilgili.",
+    "currentMeaning": "Bilgi sahibi olan, bilgili kimseyi niteleyen söz.",
+    "story": "Agâhın kökündeki Avestaca kas-, görmeyi ve fark etmeyi anlatır. Farsça ve Orta Farsçada āgāh, uyanık ve çevresinin farkında olan kişiyi gösterir. Türkçedeki bilgili kullanımı, bu farkında olma hâlini kişinin bildiklerine taşır.",
+    "firstAttestation": {
+      "source": "Şeyhoğlu, Marzubânnâme tercümesi",
+      "period": "1380",
+      "form": "āgāh"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "agâh maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ag%C3%A2h"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "agâh",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ahenrüba",
+    "word": "ahenrüba",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "āhan-rubā",
+        "meaning": "demiri kendine çeken, mıknatıs",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ahenrüba",
+        "meaning": "mıknatıs",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Demiri kendine çeken mıknatıs.",
+    "currentMeaning": "Demir gibi maddeleri kendine çekme özelliği taşıyan cisim; mıknatıs.",
+    "story": "Farsçada demiri anlatan āhan ile kapıp çeken şeyi belirten rubā birleşerek mıknatısı adlandırır. Adın içinde, demiri kendisine doğru çeken cismin gözle görülen işi vardır. Türkçeye ahenrüba olarak alınan sözcük, mıknatısı bu çekme hareketi üzerinden tanıtır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "âhenrübâ maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

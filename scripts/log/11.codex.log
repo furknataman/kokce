@@ -1,0 +1,1831 @@
+[
+  {
+    "id": "çorba",
+    "word": "çorba",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "bāġ", "meaning": "sulu aş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bā", "meaning": "aş", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "sōr", "meaning": "tuzlu", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şōr", "meaning": "tuzlu veya karışık", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şōrbā", "meaning": "tuz katılmış veya karıştırılmış aş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çorba", "meaning": "çeşitli malzemelerle pişirilen sulu yemek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çeşitli malzemelerle hazırlanan sulu yemek.",
+    "currentMeaning": "Et, sebze veya tahıl gibi malzemelerin suyla pişirilmesiyle hazırlanan yemek.",
+    "story": "Çorbanın Farsça adında iki parça buluşur: tuzlu ya da karışık olmayı anlatan şōr ile aş bildiren bā. İkisinin de geçmişi Orta Farsçaya uzanır; birlikte, içine malzeme ve tuz katılan bir aşı adlandırırlar. Türkçeye şōrbā biçiminden geçen ad, zamanla çorba söyleyişini kazanarak farklı malzemelerle yapılan sulu yemekleri kapsadı.",
+    "firstAttestation": {"source": "Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "şōrbā"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Arapçadaki şūrabāc da Farsçadan alınmıştır; çorba, Arapçanın içmeyi anlatan şurb fiiline dayanmaz.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çorba maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7orba"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çorba maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "köfte",
+    "word": "köfte",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "(s)kop-", "meaning": "vurmak veya kesmek", "period": null, "reconstructed": true},
+      {"language": "fa", "form": "kōftan", "meaning": "döverek işlemek, vurmak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "kōfta", "meaning": "dövülerek ufaltılmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "köfte", "meaning": "kıyılmış malzemeye biçim verilerek hazırlanan yemek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kıyılmış et veya başka malzemelerle biçim verilerek yapılan yemek.",
+    "currentMeaning": "Çoğunlukla kıymadan, ayrıca balık, tavuk veya patates gibi malzemelerden hazırlanan, biçim verilerek pişirilen yemek.",
+    "story": "Köftenin adında, malzemeyi havanda döven elin hareketi saklıdır. Farsçada kōftan dövmeyi, ondan türeyen kōfta ise bu işlemden geçmiş malzemeyi anlatıyordu. Türkçede bu ad, kıyılıp biçim verilen yemeğe yerleşti; bugün malzeme havanda dövülmese de eski hazırlama işlemi adında yaşar.",
+    "firstAttestation": {"source": "Danişmend-Name", "period": "1360", "form": "köftelü"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "köfte maddesi", "url": "https://www.nisanyansozluk.com/kelime/k%C3%B6fte"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "köfte maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pilav",
+    "word": "pilav",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "sa",
+    "chain": [
+      {"language": "sa", "form": "pul", "meaning": "küme", "period": null, "reconstructed": false},
+      {"language": "sa", "form": "pulāka", "meaning": "pirinç dolu kâse", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pilāv/palāv/pulav", "meaning": "pirinçle hazırlanan yemek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pilav", "meaning": "pirinç, bulgur veya kuskus yemeği", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Pirinç, bulgur veya kuskusla pişirilen yemek.",
+    "currentMeaning": "Pirinç, bulgur ya da kuskusun su veya et suyu gibi bir sıvıyla pişirilmesiyle hazırlanan yemek.",
+    "story": "Pilavın izini geriye sürünce Sanskritçede bir kümeye, ardından pirinç dolu bir kâseye ulaşılır. Bu ad Farsçada pirinç yemeğini karşılayan pilāv ve benzeri biçimlere dönüştü. Türkçeye geçtiğinde pirinçle bağını korudu, fakat bulgur ve kuskusla hazırlanan yemeklerin de adı oldu.",
+    "firstAttestation": {"source": "Ferec ba'd eş-şidde", "period": "<1451", "form": "pilāv-ı sultānī"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Temcit pilavı deyimi, bir imama her seher aynı bulgur pilavının ısıtılıp sunulması anlatısıyla açıklanır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pilav maddesi", "url": "https://www.nisanyansozluk.com/kelime/pilav"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pilav maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hoşaf",
+    "word": "hoşaf",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫoşāb/ḫʷaşāb", "meaning": "tatlı su; meyveli tatlı içecek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hoşaf", "meaning": "kuru meyveyle hazırlanan sulu tatlı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kuru meyvelerin şekerli suda kaynatılmasıyla hazırlanan tatlı.",
+    "currentMeaning": "Kuru meyvelerin bütün veya doğranmış olarak şekerli su içinde pişirilmesiyle yapılan sulu tatlı.",
+    "story": "Hoşafın eski Farsça biçimi, hoşluk ve tatlılık bildiren parça ile suyu karşılayan ābı birleştirir. Böylece adın merkezinde meyveden önce tatlandırılmış su bulunur. Türkçedeki hoşāb ve hoşāv biçimleri zamanla hoşafa dönüşürken ad, kuru meyvelerle hazırlanan sulu tatlıya yerleşti.",
+    "firstAttestation": {"source": "Mercimek Ahmed, Kâbusname tercümesi", "period": "1432", "form": "ḫoşābı"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hoşaf maddesi", "url": "https://www.nisanyansozluk.com/kelime/ho%C5%9Faf"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hoşaf maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meze",
+    "word": "meze",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "mizag", "meaning": "tat, tadım", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "maza", "meaning": "tat veya tadımlık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meze", "meaning": "içkinin yanında sunulan yiyecek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İçkinin yanında sunulan yiyecek.",
+    "currentMeaning": "İçkiye eşlik etmesi için sofraya getirilen yiyecek.",
+    "story": "Mezenin geçmişinde belirli bir yemek değil, ağızda duyulan tat vardır. Orta Farsça mizagın devamı olan Farsça maza, tat ve tadım çevresinde kullanılıyordu. Bugünkü yiyecek adının, tadımlık bir şeyi anlatan mezelik kullanımından gelişmiş olması muhtemeldir; böylece tat duyusunun adı sofradaki yiyeceğe bağlanmış olur.",
+    "firstAttestation": {"source": "Edib Ahmed, Atebet-ül Hakayık", "period": "<1250?", "form": "maza"},
+    "relatives": [
+      {"word": "mezelik", "relation": "türev"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, günümüzdeki yiyecek anlamının mezelik kullanımından gelişmesini olası bir açıklama olarak sunar."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "meze maddesi", "url": "https://www.nisanyansozluk.com/kelime/meze"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "meze maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tarhana",
+    "word": "tarhana",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫʷān", "meaning": "masa", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "tar", "meaning": "ıslak, yaş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "tarḫʷāna", "meaning": "kurutulmuş yoğurtla hazırlanan çorba", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tarhana", "meaning": "kurutulup ufalanan çorbalık karışım", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Mayalanıp kurutulan, ufalanarak saklanan çorbalık karışım.",
+    "currentMeaning": "Tahıl veya hamurun yoğurt, süt, sebze ve otlarla işlenip mayalandırılması, ardından kurutulup ufalanmasıyla hazırlanan çorba malzemesi.",
+    "story": "Tarhananın Farsça geçmişinde ıslaklığı anlatan tar ile masayı karşılayan ḫʷān birleşir. Ortaya çıkan ad, kurutulmuş yoğurtla yapılan bir çorbaya verilmiştir. Türkçedeki tarhana ise yoğurt veya sütle işlenen tahıl ve hamurun kurutularak saklandığı çorbalık karışımı adlandırır; eski yemek adı, çorbanın hazırlık malzemesinde de yaşamayı sürdürür.",
+    "firstAttestation": {"source": "Danişmend-Name", "period": "1360", "form": "tarḫāna"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tarhana maddesi", "url": "https://www.nisanyansozluk.com/kelime/tarhana"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tarhana maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "erişte",
+    "word": "erişte",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "rēş-", "meaning": "eğirmek, bükmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "riştan", "meaning": "iplik eğirmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "rişta", "meaning": "iplik veya şerit", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "erişte", "meaning": "ince şeritler biçiminde kesilip kurutulan hamur", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İnce şeritler hâlinde kesilerek kurutulan hamur.",
+    "currentMeaning": "Açılmış hamurun ince uzun parçalar hâlinde kesilip kurutulmasıyla hazırlanan yiyecek.",
+    "story": "Eriştenin adındaki görüntü, ince uzun bir ipliktir. Farsça rişta, eğirme ve bükme eylemiyle bağlantılı olarak ipliği ve şeridi adlandırıyordu. Hamurun ince şeritleri de bu adla anıldı; Türkçedeki eski rişte biçimi, başına ünlü alarak erişteye dönüştü.",
+    "firstAttestation": {"source": "Erzurumlu Darir, Kıssa-i Yusuf tercümesi", "period": "<1377", "form": "rişte"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "erişte maddesi", "url": "https://www.nisanyansozluk.com/kelime/eri%C5%9Fte"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "erişte maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zerde",
+    "word": "zerde",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "zardak", "meaning": "sarı renkli şey", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "zarda", "meaning": "sarı şey; safran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "zerde", "meaning": "safranlı tatlı pirinç peltesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Safranla sarartılan tatlı pirinç peltesi.",
+    "currentMeaning": "Pirinç ve şekerle hazırlanan, safranın renk ve koku kattığı pelte kıvamında tatlı.",
+    "story": "Zerde adını pirinçten değil, tatlının sarı görünüşünden alır. Orta Farsça zardakın devamı olan zarda, sarı şeyleri ve safranı adlandırıyordu. Türkçede bu renk adı, safranın sararttığı pirinç tatlısına yerleşti.",
+    "firstAttestation": {"source": "Erzurumlu Darir, Kıssa-i Yusuf tercümesi", "period": "<1377", "form": "zerde"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "zerde maddesi", "url": "https://www.nisanyansozluk.com/kelime/zerde"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "zerde maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "keşkek",
+    "word": "keşkek",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "kaşk", "meaning": "peynir suyu; belki kurut", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "kaşk", "meaning": "süt pıhtısı, peynir altı suyu veya arpa ürünü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "keşkek", "meaning": "dövülmüş buğday ve etle hazırlanan yemek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dövülmüş buğdayın etle uzun süre pişirilmesiyle yapılan yemek.",
+    "currentMeaning": "İyice dövülen buğdayın etle birlikte uzun süre kaynatılmasıyla hazırlanan yemek.",
+    "story": "Keşkeğin geçmişindeki Farsça kaşk, süt pıhtısı ve peynir altı suyunun yanında arpa ve arpa suyunu da adlandırıyordu. Bu yüzden adın eski anlam çevresinde hem süt ürünleri hem tahıl bulunur. Türkçedeki keşkek, buğdayla etin uzun süre pişirildiği yemeğe yerleşmiştir; ancak sondaki ekin niteliği ve eski Orta Farsça biçimin tam karşılığı belirsizdir.",
+    "firstAttestation": {"source": "Danişmend-Name", "period": "1360", "form": "keşkek"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, keşkek biçimindeki +ek unsurunun niteliğini belirsiz bırakır.",
+      "Nişanyan Sözlük, Orta Farsça kaşk için kurut karşılığını soru işaretiyle verir.",
+      "TDK Güncel Türkçe Sözlük, doğrudan kaynak biçimi Farsça keşkek olarak gösterirken Nişanyan Sözlük açıklamasını kaşk üzerinden kurar."
+    ],
+    "funFact": "Aynı yemeğin herise veya harisa adı, Farsçadan değil Arapçadan alınmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "keşkek maddesi", "url": "https://www.nisanyansozluk.com/kelime/ke%C5%9Fkek"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "keşkek maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sirke",
+    "word": "sirke",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "fa", "form": "sirka", "meaning": "sirke; Türkçeyle alıntı yönü belirsiz", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "sirke", "meaning": "üzümden elde edilen asitli sıvı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sirke", "meaning": "yiyeceklere ekşilik veren mayalanmış sıvı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Mayalanmayla elde edilen, yiyeceklere ekşilik katan sıvı.",
+    "currentMeaning": "Üzüm gibi meyvelerden mayalanma yoluyla elde edilen, yemeklerde ve salatalarda kullanılan ekşi sıvı.",
+    "story": "Sirke, Eski Türkçede üzümden elde edilen asitli sıvının adıydı; bugünkü mutfak kullanımı bu eski anlamı sürdürür. Farsçada da sirka biçimi bulunur, ancak kelimenin iki dil arasında hangi yönde geçtiği kesin değildir. Bu nedenle bugünkü ekşi sıvıdan eski üzüm ürününe uzanan anlam bağı açık olsa da adın ilk doğduğu dil belirsiz kalır.",
+    "firstAttestation": {"source": "Kaşgarî, Divan-i Lugati't-Türk", "period": "1073", "form": "sirke"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, mutfakta kullanılan sirkenin nihai kökenini ve Türkçe ile Farsça arasındaki alıntı yönünü belirsiz sayar; Farsçadan Türkçeye geçiş kesinleştirilemez."
+    ],
+    "funFact": "Bit yumurtasını adlandıran ayrı sirke kelimesi de 1073 tarihli Türkçe tanıklığa sahiptir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sirke maddesi; eş sesli kelime için sirke2 maddesi", "url": "https://www.nisanyansozluk.com/kelime/sirke"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "para",
+    "word": "para",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "pāra", "meaning": "bir bütünden ayrılmış parça", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "para", "meaning": "ödemede kullanılan değer aracı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Alışveriş ve ödemelerde kullanılan değer aracı.",
+    "currentMeaning": "Devletin çıkardığı, belirli bir değeri temsil eden kâğıt veya metal ödeme aracı.",
+    "story": "Paranın eski Farsça adı pāra, herhangi bir bütünden ayrılmış parçayı anlatıyordu. Türkçede 16. yüzyılın başlarında bu parça, gümüşten bir ödeme parçası olarak ayrı bir anlam kazandı. Böylece nesnenin bölünmüş oluşunu anlatan ad, alışverişte taşıdığı değeri öne çıkararak bugünkü paraya dönüştü.",
+    "firstAttestation": {"source": "Osmanlı Kanunnameleri", "period": "1501", "form": "pāre"},
+    "relatives": [
+      {"word": "pare", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "para maddesi", "url": "https://www.nisanyansozluk.com/kelime/para"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "para maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pazar",
+    "word": "pazar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "peo",
+    "chain": [
+      {"language": "peo", "form": "vahā-çarāna-", "meaning": "alışveriş yapılan yer", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "vāzār", "meaning": "alışveriş alanı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bāzār", "meaning": "ticaret yapılan alan, çarşı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pazar", "meaning": "belirli günlerde kurulan satış yeri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Satıcıların belirli günlerde bir araya geldiği alışveriş yeri.",
+    "currentMeaning": "Malların satışa sunulması için belirli günlerde kurulan geçici alışveriş alanı.",
+    "story": "Pazarın en eski halkası, Eski Farsçada alışverişe ayrılmış bir yeri adlandırır. Bu yer adı Orta Farsçada vāzār, Farsçada bāzār biçimini aldı; satıcılarla alıcıların buluştuğu alanı anlatmayı sürdürdü. Türkçede pazar biçimine dönüşen kelime, belirli günlerde kurulan satış alanlarının da adı oldu.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "bazar"},
+    "relatives": [
+      {"word": "vāçarn", "relation": "eş köken"},
+      {"word": "vacaŗ", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pazar maddesi", "url": "https://www.nisanyansozluk.com/kelime/pazar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pazar maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çarşı",
+    "word": "çarşı",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "sōk", "meaning": "yol", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sū", "meaning": "yol", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çār", "meaning": "dört", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çārsū", "meaning": "dörtyol kavşağı; dükkânların toplandığı merkez", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çarşı", "meaning": "dükkânların toplandığı alışveriş alanı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dükkânların bir arada bulunduğu alışveriş alanı.",
+    "currentMeaning": "Bir yerleşimde dükkân ve satış yerlerinin yoğunlaştığı alışveriş bölgesi.",
+    "story": "Çarşının adında dükkândan önce bir kavşak vardır: Farsça çār dört, sū ise yol bildirir. İki ana yolun kesiştiği yerde satıcılar ve dükkânlar toplanınca dörtyolun adı alışveriş merkezini de karşılamaya başladı. Türkçeye çārsū biçiminden geçen kelime, çarşı söyleyişini kazanırken bu ticaret alanı anlamını korudu.",
+    "firstAttestation": {"source": "Kısas-ı Enbiya tercümesi", "period": "<1390", "form": "çārsūlarında"},
+    "relatives": [
+      {"word": "çeyrek", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çarşı maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7ar%C5%9F%C4%B1"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çarşı maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tezgâh",
+    "word": "tezgâh",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dastgāh", "meaning": "elin çalıştığı yer", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tezgâh", "meaning": "satış veya çalışma için kullanılan masa", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Satış veya çalışma amacıyla kullanılan uzun masa.",
+    "currentMeaning": "Dükkânlarda satıcının önünde bulunan, malların konulduğu ve satış işlerinin yürütüldüğü uzun masa.",
+    "story": "Tezgâhın Farsça adı dastgāh, eli bir yere bağlar: elin iş gördüğü alanı adlandırır. Türkçedeki eski kullanımında zanaatkârların üzerinde çalıştığı düzenek öne çıkar. Dezgāh biçiminden tezgâha dönüşen ad, dükkânda malların serildiği ve alışverişin yürütüldüğü masayı da kapsar.",
+    "firstAttestation": {"source": "Lugat-i Halimi", "period": "1477", "form": "dezgāh"},
+    "relatives": [
+      {"word": "deste", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tezgâh maddesi", "url": "https://www.nisanyansozluk.com/kelime/tezg%C3%A2h"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tezgâh maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çeyrek",
+    "word": "çeyrek",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "yak", "meaning": "bir", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çār/çahār", "meaning": "dört", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çār-yak", "meaning": "dört eşit parçadan biri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çeyrek", "meaning": "bir bütünün dörtte biri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir bütünün dört eşit parçasından biri.",
+    "currentMeaning": "Dört eşit bölüme ayrılmış bir bütünün tek bölümü.",
+    "story": "Çeyreğin Farsça yapısında dört ile bir yan yana durur. Çār-yak, bir bütünü dört eşit parçaya ayırıp bunlardan birini seçen ölçüyü adlandırır. Türkçede söyleyiş çeyreğe dönüşmüş olsa da kelimenin taşıdığı oran değişmemiştir.",
+    "firstAttestation": {"source": "Filippo Argenti, Regola del Parlare Turco", "period": "1533", "form": "çeyrek"},
+    "relatives": [
+      {"word": "çarşı", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": "Çeyrek ile çarşı, Farsçada dördü bildiren aynı çār unsurunu paylaşır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çeyrek maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7eyrek"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çeyrek maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çift",
+    "word": "çift",
+    "rarity": "gündelik",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "yewg-", "meaning": "iki şeyi birbirine bağlamak, çift koşmak", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "yugtós", "meaning": "birbirine koşulmuş", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "cuḫt", "meaning": "eş, birbirine koşulmuş çift", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "cuft", "meaning": "eş; birlikte koşulan öküzlerden biri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çift", "meaning": "birbirini tamamlayan iki tekten oluşan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birbirini tamamlayan iki tekten oluşan.",
+    "currentMeaning": "Birlikte bir bütün oluşturan veya birbirini tamamlayan iki unsurdan meydana gelen.",
+    "story": "Çiftin en eski kökünde iki şeyi birbirine bağlama ve birlikte koşma eylemi vardır. Farsça cuft, hem eşi hem birlikte koşulan öküzlerden birini adlandırıyordu. Türkçeye geçen kelime, bu birliktelik fikrini koruyarak birbirini tamamlayan iki nesneyi de anlatır oldu.",
+    "firstAttestation": {"source": "Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "cifti"},
+    "relatives": [
+      {"word": "yóga", "relation": "eş köken"},
+      {"word": "yoke", "relation": "eş köken"},
+      {"word": "yuḫta-", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Çift ile Sanskritçe yoga, birleştirme ve boyunduruk fikrini taşıyan aynı eski kökte buluşur.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çift maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7ift"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çift maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tane",
+    "word": "tane",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "dʰoH-néh₂", "meaning": "tahıl", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "dānag", "meaning": "tohum, tahıl tanesi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dāna", "meaning": "tohum; özellikle tahılın tek tanesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tane", "meaning": "sayılan şeylerin her biri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sayılan varlıkların her biri; adet.",
+    "currentMeaning": "Bir topluluk veya miktar içindeki nesneleri tek tek belirtmekte kullanılan sayma birimi.",
+    "story": "Tanenin geçmişindeki somut nesne bir tohum, özellikle de tahıl tanesidir. Farsça dāna, Orta Farsçadan devraldığı bu tarımsal anlamla Türkçeye geçti. Tek bir tohumu ayırt eden ad zamanla sayılabilen başka şeylere de yayıldı; böylece iki tane denildiğinde artık tahıldan söz etmek gerekmez oldu.",
+    "firstAttestation": {"source": "Kaşgarî, Divan-i Lugati't-Türk", "period": "1073", "form": "tana"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tane maddesi", "url": "https://www.nisanyansozluk.com/kelime/tane"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tane maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "deste",
+    "word": "deste",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dast", "meaning": "el", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dasta", "meaning": "elde tutulabilen tutam veya demet", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "deste", "meaning": "bir araya getirilmiş demet", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir araya getirilmiş, birlikte tutulan demet.",
+    "currentMeaning": "Çiçek gibi nesnelerin bir araya getirilerek oluşturduğu demet.",
+    "story": "Destenin eski ölçüsü bir elin kavrayabildiği kadardır. Farsça dast eli adlandırırken ondan türeyen dasta, avuca alınan tutamı karşılar. Türkçede deste, bu elle toplama görüntüsünü koruyarak çiçek gibi nesnelerin oluşturduğu demeti anlatır.",
+    "firstAttestation": {"source": "Mesud b. Ahmed, Süheyl ü Nevbahar tercümesi", "period": "1354", "form": "deste"},
+    "relatives": [
+      {"word": "tezgâh", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": "Deste ile tezgâhın ortak Farsça unsuru, eli adlandıran dasttır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "deste maddesi", "url": "https://www.nisanyansozluk.com/kelime/deste"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "deste maddesi; anlam kaydı", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "harman",
+    "word": "harman",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫirman", "meaning": "biçilmiş ekini toplama işi ve bu işin alanı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "harman", "meaning": "tahıl tanelerini başaklardan ayırma işi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Biçilmiş tahılın tanelerini başaklarından ayırma işi.",
+    "currentMeaning": "Biçilip toplanan tahılın üzerinden düven geçirilerek tanelerinin başaklardan ayrılması işi.",
+    "story": "Harmanın Farsça geçmişinde biçilmiş ekinin bir yere yığılması vardır. Ḫirman hem bu işi hem ekinin toplandığı alanı adlandırıyordu. Türkçede hırman ve hırmen biçimlerinden harmana dönüşen kelime, hasadın devamındaki tane ayırma işini de anlatır; yığın, çalışma alanı ve yapılan işlem aynı adın çevresinde buluşur.",
+    "firstAttestation": {"source": "Rabguzi, Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "ḫırman"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "harman maddesi", "url": "https://www.nisanyansozluk.com/kelime/harman"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "harman maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çuval",
+    "word": "çuval",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "guvāl", "meaning": null, "period": null, "reconstructed": false},
+      {"language": "fa", "form": "cuwāl", "meaning": "kalın dokumadan torba veya yük dengi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çuval", "meaning": "dokuma büyük torba", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yük koymak ve taşımak için kullanılan büyük dokuma torba.",
+    "currentMeaning": "Pamuk, kenevir veya sentetik liflerden dokunarak yapılan büyük torba.",
+    "story": "Çuvalın geçmişindeki nesne, kaba dokumayla yükü bir arada tutan büyük bir torbadır. Orta Farsça guvālin devamı olan Farsça cuwāl, böyle bir torbayı ve yük dengini adlandırıyordu. Türkçede şuvāl ve çüvāl gibi biçimlerden bugünkü çuvala ulaşılırken nesnenin temel işi değişmedi: içine konulanları toplamak ve taşımak.",
+    "firstAttestation": {"source": "et-Tuhfetu'z-Zekiyye fi'l-Lugati't-Türkiyye", "period": "<1400", "form": "şuvāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çuval maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7uval"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çuval maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09a43-f717-7190-a6c8-1d2d03e97b4e
+--------
+user
+# Köken — Üretim Prompt'u (v6)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
+
+1. çorba — ipucu: fa — rarity: gündelik
+2. köfte — ipucu: fa — rarity: gündelik
+3. pilav — ipucu: fa — rarity: gündelik
+4. hoşaf — ipucu: fa — rarity: gündelik
+5. meze — ipucu: fa — rarity: gündelik
+6. tarhana — ipucu: fa — rarity: gündelik
+7. erişte — ipucu: fa — rarity: gündelik
+8. zerde — ipucu: fa — rarity: gündelik
+9. keşkek — ipucu: fa — rarity: gündelik
+10. sirke — ipucu: fa — rarity: gündelik
+11. para — ipucu: fa — rarity: gündelik
+12. pazar — ipucu: fa — rarity: gündelik
+13. çarşı — ipucu: fa — rarity: gündelik
+14. tezgâh — ipucu: fa — rarity: gündelik
+15. çeyrek — ipucu: fa — rarity: gündelik
+16. çift — ipucu: fa — rarity: gündelik
+17. tane — ipucu: fa — rarity: gündelik
+18. deste — ipucu: fa — rarity: gündelik
+19. harman — ipucu: fa — rarity: gündelik
+20. çuval — ipucu: fa — rarity: gündelik
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+### çorba
+
+**Nişanyan — çorba**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › bāġ › aş, çorba  [ses evrimi]
+- Farsça › bā › aş  [bileşik sözcüğün devamı]
+- Orta Farsça › sōr › tuzlu  [ses evrimi]
+- Farsça › şōr › 1. tuzlu, 2. karışık, bulama  [bileşik sözcük]
+- Farsça › şōrbā › tuzlu aş veya karışık aş  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1300, anon. — Mukaddimetü'l-Edeb terc.
+  > şōr kıldı şōrbānı [çorbayı tuzlu yaptı] (...) isitti [ısıttı] şōrbānı
+- 1389, Geredeli İshak — Edviye-i Müfrede
+  > ve semiz tavuk şorvāsın içmekle ola
+- <1421?, Yadigâr-ı İbni Şerif
+  > ve tīzcek ġıdā tedbīr ide oğlak eti bile şorbā ve daḫı bunlaruŋ gibi
+
+Not: Karş. Tkm çōrba çorba "a.a.". • Türkçe bulamac sözcüğünün karşılığıdır. Ar şurb "içme" fiiliyle eşleştirilmesi yanlıştır. Ar şūrabāc (a.a.) Farsçadan alıntıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%A7orba
+
+**TDK** — köken kaydı: Farsça şūrbā · anlam: Sebze, tahıl, et vb. ile hazırlanan sulu bir yemek türü
+
+### köfte
+
+**Nişanyan — köfte**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *(s)kop- › vurmak, kesmek  [ses evrimi]
+- Farsça › kōftan, kūs › dövmek, vurmak  [türeme]
+- Farsça › kōfta › (havanda) dövülmüş, çiğnenmiş  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1360, anon. — Danişmend-Name
+  > Ki zerde zirve vü birinc borānī / Şuçuklar köftelü tolu herani
+- 1680, Meninski — Thesaurus
+  > kūfte vul. köfte: Cibus ex parte minutim concisa [kıyılmış şeylerden yapılan yemek].
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/k%C3%B6fte
+
+**TDK** — köken kaydı: Farsça kūfte · anlam: Genellikle çekilmiş etten, bazen de tavuk, balık veya patatesten yapılan, türlü biçimlerde pişirilen yemek
+
+### pilav
+
+**Nişanyan — pilav**
+
+Zincir (eskiden yeniye):
+- Sanskritçe › pul › küme  [türeme]
+- Sanskritçe › pulāka › pirinç kâsesi  [alıntı]
+- Farsça › pilāv/palāv/pulav › pirinç yemeği  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1451, anon. — Ferec ba'd eş-şidde
+  > pilāv-ı sultānī, zīrvā-yi hāḳānī
+- 1900, Şemseddin Sami — Kamus-ı Türki
+  > temcīd pilavı: Her vakit tekrar edilip usanç veren şey (imamın birine her seherde ısıtıp verdikleri aynı bulgur pilavından kinayedir)
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pilav
+
+**TDK** — köken kaydı: Farsça pelāv, pilāv · anlam: Pirinçten, bulgurdan veya kuskustan yapılan bir yemek
+
+### hoşaf
+
+**Nişanyan — hoşaf**
+
+Zincir (eskiden yeniye):
+- Farsça › χoşāb/χʷaşāb › «tatlı su», şerbet, komposto  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1432, Mercimek Ahmed — Kâbusname terc.
+  > erik yā zerdālū ḫoşābı-ile tīmār olur
+- 1680, Meninski — Thesaurus
+  > ḫoşāv pro ḫoş āb
+- 1900, Şemseddin Sami — Kamus-ı Türki
+  > ḫoşāb, türki zebanzedi ḫoşaf
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ho%C5%9Faf
+
+**TDK** — köken kaydı: Farsça ḫoş + āb · anlam: Bütün veya dilimler hâlindeki kuru meyvenin şekerli suyla kaynatılmasıyla yapılan bir tatlı türü
+
+### meze
+
+**Nişanyan — meze**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › mizag › a.a.  [ses evrimi]
+- Farsça › maza › tadım, tat  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1250?, Edib Ahmed — Atebet-ül Hakayık
+  > baḳāsız erür bu ajun laẕẕatı / keçer yil teg maza muddatı [bu dünya lezzeti kalıcı değildir, yel gibi geçer tadım süresi]
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > meze: (...) lezzetli çerez. Bī-meze: tadsız.
+
+Not: Güncel kullanımı muhtemelen mezelik ("tadımlık") deyiminden türemiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/meze
+
+**TDK** — köken kaydı: Farsça meze · anlam: İçki içilirken yenilen yiyecek
+
+### tarhana
+
+**Nişanyan — tarhana**
+
+Zincir (eskiden yeniye):
+- Farsça › χʷān › masa  [bileşik sözcüğün devamı]
+- Farsça › tar › yaş, ıslak  [bileşik sözcük]
+- Farsça › tarχʷāna › kurutulmuş yoğurttan yapılan çorba  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1360, anon. — Danişmend-Name
+  > Ağaç çanaklar-ıla getürür kor / Kimi tarḫāna gendüm kimi bulġur
+- <1400, anon. — et-Tuhfetu'z-Zekiyye fi'l-Lugati't-Türkiyye
+  > kaşk [Ar.-Fa.]: tarḫāna
+
+Not: Farsça sözcük en erken 12. yy ilk yarısında al-Zamaχşari'nin Mukaddimetü'l-Edeb'inde anılır. Yun trēgana/tráχanas (a.a.) biçimleri Türkçeden alıntı olmalıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tarhana
+
+**TDK** — köken kaydı: Farsça terḫāne · anlam: İçine domates, biber, soğan, kokulu otlar, süt veya yoğurt katılan, bulgur, mayalanmış ve kurutularak ufalanmış hamur vb.nden yapılan çorba malzemesi
+
+### erişte
+
+**Nişanyan — erişte**
+
+Zincir (eskiden yeniye):
+- Avestaca › *rēş- › a.a.  [eşkökenlilik]
+- Farsça / Orta Farsça › riştan, rēş- › eğirmek, bükmek  [türeme]
+- Farsça › rişta › ip, iplik, şerit  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1377, Erzurumlu Darir — Kıssa-i Yusuf terc.
+  > dāne vü zerde pirinc ü şorba / kalye boranī vür rişte zirbā
+- <1421?, Yadigâr-ı İbni Şerif
+  > issi ve ter yimeklerden rişte gibi ve tutmaç bigi
+- 1505, İbrahim b. Abdullah — Alâˁim-i Cerrâhîn
+  > daḫı ol ḫamīri erişte yapasın ve bir çömçe süd içinde
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/eri%C5%9Fte
+
+**TDK** — köken kaydı: Farsça rişte · anlam: İnce ince kesilip kurutulan hamur
+
+### zerde
+
+**Nişanyan — zerde**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › zardak › a.a.  [ses evrimi]
+- Farsça › zarda › 1. sarı renk, sarı şey, altın gibi, 2. safran  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1377, Erzurumlu Darir — Kıssa-i Yusuf terc.
+  > dāne vü zerde, pirinc ü şorbā
+- <1400, anon. — Dastan-i Ahmet Harami
+  > Yémekler geldi anda dürli elvān / dāne, pirinc ü zerde, hubbi remmān
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/zerde
+
+**TDK** — köken kaydı: Farsça zerde · anlam: Safranla renk ve koku verilen bir çeşit şekerli pirinç peltesi
+
+### keşkek
+
+**Nişanyan — keşkek**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › kaşk › peynir suyu, kurut?  [ses evrimi]
+- Farsça › kaşk › 1. süt pıhtısı veya peynir altı suyu, 2. arpa suyu, arpa  [türeme]
+
+Tanıklıklar (eskiden yeniye):
+- 1360, anon. — Danişmend-Name
+  > Daḫı varıdı ekşi şorvaları / daḫı keşkek ile herīsaları
+
+Not: +ek ekinin niteliği belirsizdir. Karş. Fa kaşkāb "arpa suyu", kaşkīna "arpa ekmeği". • Aynı yemeğin diğer adı olan herise/harisa Arapçadan alıntıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/ke%C5%9Fkek
+
+**TDK** — köken kaydı: Farsça keşkek · anlam: İyice dövülmüş buğdayın etle birlikte uzun süre kaynatılmasıyla yapılan bir yemek
+
+### sirke
+
+**Nişanyan — sirke**
+
+Zincir (eskiden yeniye):
+- Farsça › sirka › a.a.  [tahmine dayalı veya tartışmalı köken]
+- Eski Türkçe › sirke › üzüm asidi  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > sirke [[sirke]]
+- 1997, Milliyet - gazete
+  > Bu balsamik sirke şarküteri ve marketlerde satılıyor ve salatalara çok lezzet veriyor.
+
+Not: Nihai kökeni ve alıntı yönü muğlaktır: karş. Doerfer III.246.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sirke
+
+**Nişanyan — sirke2**
+
+Zincir (eskiden yeniye):
+- Eski Türkçe › sirke › bit yumurtası  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > sirke [[kafada olan bit yumurtası]] (...) oġlan sirkelendi [[çocuğun başı sirke doldu]]
+
+Not: Karş. Moğ sirke (a.a.).
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sirke2
+
+**TDK** — anlam: Bit, tahtakurusu vb. asalak böceklerin yumurtası; bit sirkesi
+
+### para
+
+**Nişanyan — para**
+
+Zincir (eskiden yeniye):
+- Farsça › pāra › parça, pare  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1501, Osmanlı Kanunnameleri
+  > çıra yüküne bir sorti'ye bir pāre alına. ... Ve bir akçelik eti her ne narh üzerine alurlar ise beş pāre olur. Bir akçelik aş alanın aşına bir pāre koyalar. İki pulluk dahi etmek vereler.
+- 1898, Ahmed Rasim — Şehir Mektupları
+  > Evvelden veresi emniyet ederken şimdi Viktor Tring 'trink' para diyor.
+- 1945, TDK — Türkçe Sözlük, 1. Baskı
+  > hava parası (...) havacı, havacılık
+
+Not: "Bir parça gümüş" anlamında 16. yy başlarında anlam ayrışmasına uğramış sözcüktür. Şehir ağzında /pāre/, avam ağzında /para/ telaffuzu benimsenmiş olmalıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/para
+
+**TDK** — köken kaydı: Farsça pāre · anlam: Devletçe bastırılan, üzerinde değeri yazılı kâğıt veya metalden ödeme aracı; mangır, mangiz, nakit, papel, tıkır, tıngır
+
+### pazar
+
+**Nişanyan — pazar**
+
+Zincir (eskiden yeniye):
+- Eski Farsça › vahā-çarāna- › alışveriş-yeri  [ses evrimi]
+- Soğdca › vāçarn › a.a.  [eşkökenlilik]
+- Orta Farsça › vāzār › a.a.  [ses evrimi]
+- Farsça › bāzār › çarşı, alışveriş edilen yer  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > forum - Fa & Tr: bazar
+- 1330, Aşık Paşa — Garib-name
+  > Halka bildük ne gerek insāfımış / Kavl ü fiˁl ü satu bāzār her bir iş
+- 1568, Meşâirü’ş-şuarâ
+  > Āḫir ḳażāsı ki Tırḫala ḳażāsıdur aŋa ḳāżī olduḳda ḳāżīʿasker ibrāmı ile bit bāzārında bir dönmiş mor ısḳarlaṭ çuḳa alındı.
+
+Not: Erm vacaŗ վաճառ "ticaret" biçimi Eski Farsçadan alıntıdır. • Mac vásár (a.a.) bir Türk dili üzerinden, belki Hazarcadan alınmıştır. Karş. Mac vásárnap "pazar günü".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pazar
+
+**TDK** — köken kaydı: Farsça bāzār · anlam: Satıcıların belirli günlerde mallarını sattıkları geçici yer
+
+### çarşı
+
+**Nişanyan — çarşı**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › sōk › a.a.  [ses evrimi]
+- Farsça › sū › yol  [bileşik sözcüğün devamı]
+- Farsça › çār › dört  [bileşik sözcük]
+- Farsça › çārsū › 1. dörtyol, 2. kent merkezinde dükkânların bulunduğu alan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1390, anon. — Kısas-ı Enbiya terc.
+  > Mūsāyı depelemek buyurdı ve eyitdi anı yol çārsūlarında isteŋ kim ol oġlandur
+- 1680, Meninski — Thesaurus
+  > çārsū vul. çārşū: Forum, platea.
+
+Not: Çarsû "dörtyol" demektir. Geleneksel Asya kültürlerinde çarşı kentlerinin çoğu, iki anayolun kesiştiği yerde kurulur. Satıcı ve dükkânlar kent merkezini oluşturan kavşak civarında yoğunlaşır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%A7ar%C5%9F%C4%B1
+
+**TDK** — köken kaydı: Farsça çār + sū · anlam: Dükkânların bulunduğu alışveriş yeri
+
+### tezgâh
+
+**Nişanyan — tezgâh**
+
+Zincir (eskiden yeniye):
+- Farsça › dastgāh › el yeri  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1477, Lugat-i Halimi
+  > pāçāl [Fa.]: dezgāh ki ehl-i hırfet anda sanˁatların işlerler.
+- 1533, Filippo Argenti — Regola del Parlare Turco
+  > desghiá ... desghiách: bancho
+- 1614, Cafer Efendi — Risale-i Mi'mâriyye
+  > Türkīde tezgāh تزكآه derler, lākin bu dahı destgāhden galatdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tezg%C3%A2h
+
+**TDK** — köken kaydı: Farsça destgāh · anlam: Genellikle dükkânlarda satıcıların önündeki uzun masa
+
+### çeyrek
+
+**Nişanyan — çeyrek**
+
+Zincir (eskiden yeniye):
+- Farsça › yak › bir  [bileşik sözcüğün devamı]
+- Farsça › çār/çahār › dört  [bileşik sözcük]
+- Farsça › çār-yak › dörtte bir  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1533, Filippo Argenti — Regola del Parlare Turco
+  > ceiréch [çeyrek]: quarto di misura
+- 1680, Meninski — Thesaurus
+  > çāryek vul. çeyrek
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%A7eyrek
+
+**TDK** — köken kaydı: Farsça çār + yek · anlam: Dörtte bir
+
+### çift
+
+**Nişanyan — çift**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *yewg- › çift koşmak, iki şeyi birleştirmek  [türeme]
+- Hintavrupa Anadili › *yugtós  [ses evrimi]
+- Avestaca › yuχta- › a.a.  [eşkökenlilik]
+- Orta Farsça › cuχt › a.a.  [ses evrimi]
+- Farsça › cuft › eş, iki şeyin biri, çift koşulan öküz  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1300, anon. — Mukaddimetü'l-Edeb terc.
+  > yasladı tişi cifti üze [kadın eşi için yas tuttu] (...) nikāḥ ḳılıştılar = cüftleşdiler
+- 1303, Codex Cumanicus
+  > par [eş] - Fa: hamta - Tr: gift
+- 1680, Meninski — Thesaurus
+  > çiftleşmek: Copulari.
+
+Not: Karş. Kürd cot (a.a.). • Aynı HAvr kökten EYun zygón, zeûgos "çift", zeûgma, Lat iungere, iugum, İng yoke, Sans yóga "boyunduruk, çift koşma". Ar zawc "çift" sözcüğü Aramice yoluyla EYun zeûgos'tan alınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%A7ift
+
+**TDK** — köken kaydı: Farsça cuft · anlam: Birbirini tamamlayan iki tekten oluşan (nesneler)
+
+### tane
+
+**Nişanyan — tane**
+
+Zincir (eskiden yeniye):
+- Hintavrupa Anadili › *dʰoH-néh₂ (*dʰō-nā́) › tahıl  [ses evrimi]
+- Avestaca › *dānā- › a.a.  [eşkökenlilik]
+- Orta Farsça › dānag › a.a.  [ses evrimi]
+- Farsça › dāna › tohum, tane, özellikle tahıl tanesi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1073, Kaşgarî — Divan-i Lugati't-Türk
+  > yumġak tana [kişniş tanesi Bu sözcüğün Farsça dāna [tohum] sözcüğünden Türkçeleştirildiğini sanıyorum.]]
+- 1330, Aşık Paşa — Garib-name
+  > biri toḫm u dānedir kim ol saçar
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tane
+
+**TDK** — köken kaydı: Farsça dāne · anlam: Herhangi bir sayıda olan şey; adet, kıta, parça, pare
+
+### deste
+
+**Nişanyan — deste**
+
+Zincir (eskiden yeniye):
+- Farsça › dast › el  [türeme]
+- Farsça › dasta › tutam, avuç, bir elin tutacağı miktar  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1354, Mesud b. Ahmed — Süheyl ü Nevbahar terc.
+  > revān bindi avcunda bir deste gül
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/deste
+
+**TDK** — anlam: ► demet
+
+### harman
+
+**Nişanyan — harman**
+
+Zincir (eskiden yeniye):
+- Farsça › χirman › biçilmiş ekini yığma ve bu işin yapıldığı yer, harman yeri  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1310, Rabguzi — Kısasü'l-Enbiya terc.
+  > ḫazīne açtı altun, kümüş çıkardı ḫırman meŋizlig [harman gibi] yığdurdı, aydı: bu kamuğ mālnı Muhammedge bağışladım
+- 1429, Ahmed b. Kadı-i Manyas — Gülistan terc.
+  > bir ḫırmen divşürdi döndi girü oda yakdı
+- 1680, Meninski — Thesaurus
+  > ḫırmen vul. harman
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/harman
+
+**TDK** — köken kaydı: Farsça ḫirmen · anlam: Biçildikten sonra tahıl demetlerinin üzerinden düven geçirilerek tanelerin başaklarından ayrılması işi
+
+### çuval
+
+**Nişanyan — çuval**
+
+Zincir (eskiden yeniye):
+- Orta Farsça › guvāl  [ses evrimi]
+- Farsça › cuwāl › kaba kumaştan torba, denk  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1400, anon. — et-Tuhfetu'z-Zekiyye fi'l-Lugati't-Türkiyye
+  > ġirāra [Ar]: şuvāl
+- 1680, Meninski — Thesaurus
+  > cevāl, cüvāl & usit. çüvāl: Saccus.
+- 1929, Mikhailov — Matériaux sur l'argot et les locutions...
+  > yarağı çuvallamak: Se trouver dans une situation difficile, être perdu
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%A7uval
+
+**TDK** — köken kaydı: Farsça cuvāl · anlam: Pamuk, kenevir veya sentetik iplikten dokunmuş büyük torba
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - Nişanyan ilişki alanında **"tahmine dayalı"**, **"tartışmalı"**,
+     **"belirsiz"** veya benzeri bir kayıt varsa `formationType` değerini
+     `"tartışmalı"` yap ve `alternatives` dizisini doldur.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `en` İngilizce · `la` Latince · `de` Almanca · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "çorba",
+    "word": "çorba",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "bāġ", "meaning": "sulu aş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bā", "meaning": "aş", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "sōr", "meaning": "tuzlu", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şōr", "meaning": "tuzlu veya karışık", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "şōrbā", "meaning": "tuz katılmış veya karıştırılmış aş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çorba", "meaning": "çeşitli malzemelerle pişirilen sulu yemek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Çeşitli malzemelerle hazırlanan sulu yemek.",
+    "currentMeaning": "Et, sebze veya tahıl gibi malzemelerin suyla pişirilmesiyle hazırlanan yemek.",
+    "story": "Çorbanın Farsça adında iki parça buluşur: tuzlu ya da karışık olmayı anlatan şōr ile aş bildiren bā. İkisinin de geçmişi Orta Farsçaya uzanır; birlikte, içine malzeme ve tuz katılan bir aşı adlandırırlar. Türkçeye şōrbā biçiminden geçen ad, zamanla çorba söyleyişini kazanarak farklı malzemelerle yapılan sulu yemekleri kapsadı.",
+    "firstAttestation": {"source": "Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "şōrbā"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Arapçadaki şūrabāc da Farsçadan alınmıştır; çorba, Arapçanın içmeyi anlatan şurb fiiline dayanmaz.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çorba maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7orba"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çorba maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "köfte",
+    "word": "köfte",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "(s)kop-", "meaning": "vurmak veya kesmek", "period": null, "reconstructed": true},
+      {"language": "fa", "form": "kōftan", "meaning": "döverek işlemek, vurmak", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "kōfta", "meaning": "dövülerek ufaltılmış", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "köfte", "meaning": "kıyılmış malzemeye biçim verilerek hazırlanan yemek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kıyılmış et veya başka malzemelerle biçim verilerek yapılan yemek.",
+    "currentMeaning": "Çoğunlukla kıymadan, ayrıca balık, tavuk veya patates gibi malzemelerden hazırlanan, biçim verilerek pişirilen yemek.",
+    "story": "Köftenin adında, malzemeyi havanda döven elin hareketi saklıdır. Farsçada kōftan dövmeyi, ondan türeyen kōfta ise bu işlemden geçmiş malzemeyi anlatıyordu. Türkçede bu ad, kıyılıp biçim verilen yemeğe yerleşti; bugün malzeme havanda dövülmese de eski hazırlama işlemi adında yaşar.",
+    "firstAttestation": {"source": "Danişmend-Name", "period": "1360", "form": "köftelü"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "köfte maddesi", "url": "https://www.nisanyansozluk.com/kelime/k%C3%B6fte"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "köfte maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pilav",
+    "word": "pilav",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "sa",
+    "chain": [
+      {"language": "sa", "form": "pul", "meaning": "küme", "period": null, "reconstructed": false},
+      {"language": "sa", "form": "pulāka", "meaning": "pirinç dolu kâse", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "pilāv/palāv/pulav", "meaning": "pirinçle hazırlanan yemek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pilav", "meaning": "pirinç, bulgur veya kuskus yemeği", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Pirinç, bulgur veya kuskusla pişirilen yemek.",
+    "currentMeaning": "Pirinç, bulgur ya da kuskusun su veya et suyu gibi bir sıvıyla pişirilmesiyle hazırlanan yemek.",
+    "story": "Pilavın izini geriye sürünce Sanskritçede bir kümeye, ardından pirinç dolu bir kâseye ulaşılır. Bu ad Farsçada pirinç yemeğini karşılayan pilāv ve benzeri biçimlere dönüştü. Türkçeye geçtiğinde pirinçle bağını korudu, fakat bulgur ve kuskusla hazırlanan yemeklerin de adı oldu.",
+    "firstAttestation": {"source": "Ferec ba'd eş-şidde", "period": "<1451", "form": "pilāv-ı sultānī"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Temcit pilavı deyimi, bir imama her seher aynı bulgur pilavının ısıtılıp sunulması anlatısıyla açıklanır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pilav maddesi", "url": "https://www.nisanyansozluk.com/kelime/pilav"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pilav maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hoşaf",
+    "word": "hoşaf",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫoşāb/ḫʷaşāb", "meaning": "tatlı su; meyveli tatlı içecek", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "hoşaf", "meaning": "kuru meyveyle hazırlanan sulu tatlı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Kuru meyvelerin şekerli suda kaynatılmasıyla hazırlanan tatlı.",
+    "currentMeaning": "Kuru meyvelerin bütün veya doğranmış olarak şekerli su içinde pişirilmesiyle yapılan sulu tatlı.",
+    "story": "Hoşafın eski Farsça biçimi, hoşluk ve tatlılık bildiren parça ile suyu karşılayan ābı birleştirir. Böylece adın merkezinde meyveden önce tatlandırılmış su bulunur. Türkçedeki hoşāb ve hoşāv biçimleri zamanla hoşafa dönüşürken ad, kuru meyvelerle hazırlanan sulu tatlıya yerleşti.",
+    "firstAttestation": {"source": "Mercimek Ahmed, Kâbusname tercümesi", "period": "1432", "form": "ḫoşābı"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "hoşaf maddesi", "url": "https://www.nisanyansozluk.com/kelime/ho%C5%9Faf"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "hoşaf maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meze",
+    "word": "meze",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "mizag", "meaning": "tat, tadım", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "maza", "meaning": "tat veya tadımlık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meze", "meaning": "içkinin yanında sunulan yiyecek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İçkinin yanında sunulan yiyecek.",
+    "currentMeaning": "İçkiye eşlik etmesi için sofraya getirilen yiyecek.",
+    "story": "Mezenin geçmişinde belirli bir yemek değil, ağızda duyulan tat vardır. Orta Farsça mizagın devamı olan Farsça maza, tat ve tadım çevresinde kullanılıyordu. Bugünkü yiyecek adının, tadımlık bir şeyi anlatan mezelik kullanımından gelişmiş olması muhtemeldir; böylece tat duyusunun adı sofradaki yiyeceğe bağlanmış olur.",
+    "firstAttestation": {"source": "Edib Ahmed, Atebet-ül Hakayık", "period": "<1250?", "form": "maza"},
+    "relatives": [
+      {"word": "mezelik", "relation": "türev"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, günümüzdeki yiyecek anlamının mezelik kullanımından gelişmesini olası bir açıklama olarak sunar."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "meze maddesi", "url": "https://www.nisanyansozluk.com/kelime/meze"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "meze maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tarhana",
+    "word": "tarhana",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫʷān", "meaning": "masa", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "tar", "meaning": "ıslak, yaş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "tarḫʷāna", "meaning": "kurutulmuş yoğurtla hazırlanan çorba", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tarhana", "meaning": "kurutulup ufalanan çorbalık karışım", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Mayalanıp kurutulan, ufalanarak saklanan çorbalık karışım.",
+    "currentMeaning": "Tahıl veya hamurun yoğurt, süt, sebze ve otlarla işlenip mayalandırılması, ardından kurutulup ufalanmasıyla hazırlanan çorba malzemesi.",
+    "story": "Tarhananın Farsça geçmişinde ıslaklığı anlatan tar ile masayı karşılayan ḫʷān birleşir. Ortaya çıkan ad, kurutulmuş yoğurtla yapılan bir çorbaya verilmiştir. Türkçedeki tarhana ise yoğurt veya sütle işlenen tahıl ve hamurun kurutularak saklandığı çorbalık karışımı adlandırır; eski yemek adı, çorbanın hazırlık malzemesinde de yaşamayı sürdürür.",
+    "firstAttestation": {"source": "Danişmend-Name", "period": "1360", "form": "tarḫāna"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tarhana maddesi", "url": "https://www.nisanyansozluk.com/kelime/tarhana"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tarhana maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "erişte",
+    "word": "erişte",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "rēş-", "meaning": "eğirmek, bükmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "riştan", "meaning": "iplik eğirmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "rişta", "meaning": "iplik veya şerit", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "erişte", "meaning": "ince şeritler biçiminde kesilip kurutulan hamur", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İnce şeritler hâlinde kesilerek kurutulan hamur.",
+    "currentMeaning": "Açılmış hamurun ince uzun parçalar hâlinde kesilip kurutulmasıyla hazırlanan yiyecek.",
+    "story": "Eriştenin adındaki görüntü, ince uzun bir ipliktir. Farsça rişta, eğirme ve bükme eylemiyle bağlantılı olarak ipliği ve şeridi adlandırıyordu. Hamurun ince şeritleri de bu adla anıldı; Türkçedeki eski rişte biçimi, başına ünlü alarak erişteye dönüştü.",
+    "firstAttestation": {"source": "Erzurumlu Darir, Kıssa-i Yusuf tercümesi", "period": "<1377", "form": "rişte"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "erişte maddesi", "url": "https://www.nisanyansozluk.com/kelime/eri%C5%9Fte"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "erişte maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zerde",
+    "word": "zerde",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "zardak", "meaning": "sarı renkli şey", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "zarda", "meaning": "sarı şey; safran", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "zerde", "meaning": "safranlı tatlı pirinç peltesi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Safranla sarartılan tatlı pirinç peltesi.",
+    "currentMeaning": "Pirinç ve şekerle hazırlanan, safranın renk ve koku kattığı pelte kıvamında tatlı.",
+    "story": "Zerde adını pirinçten değil, tatlının sarı görünüşünden alır. Orta Farsça zardakın devamı olan zarda, sarı şeyleri ve safranı adlandırıyordu. Türkçede bu renk adı, safranın sararttığı pirinç tatlısına yerleşti.",
+    "firstAttestation": {"source": "Erzurumlu Darir, Kıssa-i Yusuf tercümesi", "period": "<1377", "form": "zerde"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "zerde maddesi", "url": "https://www.nisanyansozluk.com/kelime/zerde"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "zerde maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "keşkek",
+    "word": "keşkek",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "kaşk", "meaning": "peynir suyu; belki kurut", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "kaşk", "meaning": "süt pıhtısı, peynir altı suyu veya arpa ürünü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "keşkek", "meaning": "dövülmüş buğday ve etle hazırlanan yemek", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dövülmüş buğdayın etle uzun süre pişirilmesiyle yapılan yemek.",
+    "currentMeaning": "İyice dövülen buğdayın etle birlikte uzun süre kaynatılmasıyla hazırlanan yemek.",
+    "story": "Keşkeğin geçmişindeki Farsça kaşk, süt pıhtısı ve peynir altı suyunun yanında arpa ve arpa suyunu da adlandırıyordu. Bu yüzden adın eski anlam çevresinde hem süt ürünleri hem tahıl bulunur. Türkçedeki keşkek, buğdayla etin uzun süre pişirildiği yemeğe yerleşmiştir; ancak sondaki ekin niteliği ve eski Orta Farsça biçimin tam karşılığı belirsizdir.",
+    "firstAttestation": {"source": "Danişmend-Name", "period": "1360", "form": "keşkek"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, keşkek biçimindeki +ek unsurunun niteliğini belirsiz bırakır.",
+      "Nişanyan Sözlük, Orta Farsça kaşk için kurut karşılığını soru işaretiyle verir.",
+      "TDK Güncel Türkçe Sözlük, doğrudan kaynak biçimi Farsça keşkek olarak gösterirken Nişanyan Sözlük açıklamasını kaşk üzerinden kurar."
+    ],
+    "funFact": "Aynı yemeğin herise veya harisa adı, Farsçadan değil Arapçadan alınmıştır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "keşkek maddesi", "url": "https://www.nisanyansozluk.com/kelime/ke%C5%9Fkek"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "keşkek maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sirke",
+    "word": "sirke",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "fa", "form": "sirka", "meaning": "sirke; Türkçeyle alıntı yönü belirsiz", "period": null, "reconstructed": false},
+      {"language": "otk", "form": "sirke", "meaning": "üzümden elde edilen asitli sıvı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sirke", "meaning": "yiyeceklere ekşilik veren mayalanmış sıvı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Mayalanmayla elde edilen, yiyeceklere ekşilik katan sıvı.",
+    "currentMeaning": "Üzüm gibi meyvelerden mayalanma yoluyla elde edilen, yemeklerde ve salatalarda kullanılan ekşi sıvı.",
+    "story": "Sirke, Eski Türkçede üzümden elde edilen asitli sıvının adıydı; bugünkü mutfak kullanımı bu eski anlamı sürdürür. Farsçada da sirka biçimi bulunur, ancak kelimenin iki dil arasında hangi yönde geçtiği kesin değildir. Bu nedenle bugünkü ekşi sıvıdan eski üzüm ürününe uzanan anlam bağı açık olsa da adın ilk doğduğu dil belirsiz kalır.",
+    "firstAttestation": {"source": "Kaşgarî, Divan-i Lugati't-Türk", "period": "1073", "form": "sirke"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, mutfakta kullanılan sirkenin nihai kökenini ve Türkçe ile Farsça arasındaki alıntı yönünü belirsiz sayar; Farsçadan Türkçeye geçiş kesinleştirilemez."
+    ],
+    "funFact": "Bit yumurtasını adlandıran ayrı sirke kelimesi de 1073 tarihli Türkçe tanıklığa sahiptir.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sirke maddesi; eş sesli kelime için sirke2 maddesi", "url": "https://www.nisanyansozluk.com/kelime/sirke"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "para",
+    "word": "para",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "pāra", "meaning": "bir bütünden ayrılmış parça", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "para", "meaning": "ödemede kullanılan değer aracı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Alışveriş ve ödemelerde kullanılan değer aracı.",
+    "currentMeaning": "Devletin çıkardığı, belirli bir değeri temsil eden kâğıt veya metal ödeme aracı.",
+    "story": "Paranın eski Farsça adı pāra, herhangi bir bütünden ayrılmış parçayı anlatıyordu. Türkçede 16. yüzyılın başlarında bu parça, gümüşten bir ödeme parçası olarak ayrı bir anlam kazandı. Böylece nesnenin bölünmüş oluşunu anlatan ad, alışverişte taşıdığı değeri öne çıkararak bugünkü paraya dönüştü.",
+    "firstAttestation": {"source": "Osmanlı Kanunnameleri", "period": "1501", "form": "pāre"},
+    "relatives": [
+      {"word": "pare", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "para maddesi", "url": "https://www.nisanyansozluk.com/kelime/para"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "para maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pazar",
+    "word": "pazar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "peo",
+    "chain": [
+      {"language": "peo", "form": "vahā-çarāna-", "meaning": "alışveriş yapılan yer", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "vāzār", "meaning": "alışveriş alanı", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "bāzār", "meaning": "ticaret yapılan alan, çarşı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pazar", "meaning": "belirli günlerde kurulan satış yeri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Satıcıların belirli günlerde bir araya geldiği alışveriş yeri.",
+    "currentMeaning": "Malların satışa sunulması için belirli günlerde kurulan geçici alışveriş alanı.",
+    "story": "Pazarın en eski halkası, Eski Farsçada alışverişe ayrılmış bir yeri adlandırır. Bu yer adı Orta Farsçada vāzār, Farsçada bāzār biçimini aldı; satıcılarla alıcıların buluştuğu alanı anlatmayı sürdürdü. Türkçede pazar biçimine dönüşen kelime, belirli günlerde kurulan satış alanlarının da adı oldu.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "bazar"},
+    "relatives": [
+      {"word": "vāçarn", "relation": "eş köken"},
+      {"word": "vacaŗ", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pazar maddesi", "url": "https://www.nisanyansozluk.com/kelime/pazar"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pazar maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çarşı",
+    "word": "çarşı",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "sōk", "meaning": "yol", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sū", "meaning": "yol", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çār", "meaning": "dört", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çārsū", "meaning": "dörtyol kavşağı; dükkânların toplandığı merkez", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çarşı", "meaning": "dükkânların toplandığı alışveriş alanı", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Dükkânların bir arada bulunduğu alışveriş alanı.",
+    "currentMeaning": "Bir yerleşimde dükkân ve satış yerlerinin yoğunlaştığı alışveriş bölgesi.",
+    "story": "Çarşının adında dükkândan önce bir kavşak vardır: Farsça çār dört, sū ise yol bildirir. İki ana yolun kesiştiği yerde satıcılar ve dükkânlar toplanınca dörtyolun adı alışveriş merkezini de karşılamaya başladı. Türkçeye çārsū biçiminden geçen kelime, çarşı söyleyişini kazanırken bu ticaret alanı anlamını korudu.",
+    "firstAttestation": {"source": "Kısas-ı Enbiya tercümesi", "period": "<1390", "form": "çārsūlarında"},
+    "relatives": [
+      {"word": "çeyrek", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çarşı maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7ar%C5%9F%C4%B1"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çarşı maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tezgâh",
+    "word": "tezgâh",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dastgāh", "meaning": "elin çalıştığı yer", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tezgâh", "meaning": "satış veya çalışma için kullanılan masa", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Satış veya çalışma amacıyla kullanılan uzun masa.",
+    "currentMeaning": "Dükkânlarda satıcının önünde bulunan, malların konulduğu ve satış işlerinin yürütüldüğü uzun masa.",
+    "story": "Tezgâhın Farsça adı dastgāh, eli bir yere bağlar: elin iş gördüğü alanı adlandırır. Türkçedeki eski kullanımında zanaatkârların üzerinde çalıştığı düzenek öne çıkar. Dezgāh biçiminden tezgâha dönüşen ad, dükkânda malların serildiği ve alışverişin yürütüldüğü masayı da kapsar.",
+    "firstAttestation": {"source": "Lugat-i Halimi", "period": "1477", "form": "dezgāh"},
+    "relatives": [
+      {"word": "deste", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tezgâh maddesi", "url": "https://www.nisanyansozluk.com/kelime/tezg%C3%A2h"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tezgâh maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çeyrek",
+    "word": "çeyrek",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "yak", "meaning": "bir", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çār/çahār", "meaning": "dört", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "çār-yak", "meaning": "dört eşit parçadan biri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çeyrek", "meaning": "bir bütünün dörtte biri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir bütünün dört eşit parçasından biri.",
+    "currentMeaning": "Dört eşit bölüme ayrılmış bir bütünün tek bölümü.",
+    "story": "Çeyreğin Farsça yapısında dört ile bir yan yana durur. Çār-yak, bir bütünü dört eşit parçaya ayırıp bunlardan birini seçen ölçüyü adlandırır. Türkçede söyleyiş çeyreğe dönüşmüş olsa da kelimenin taşıdığı oran değişmemiştir.",
+    "firstAttestation": {"source": "Filippo Argenti, Regola del Parlare Turco", "period": "1533", "form": "çeyrek"},
+    "relatives": [
+      {"word": "çarşı", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": "Çeyrek ile çarşı, Farsçada dördü bildiren aynı çār unsurunu paylaşır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çeyrek maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7eyrek"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çeyrek maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çift",
+    "word": "çift",
+    "rarity": "gündelik",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "yewg-", "meaning": "iki şeyi birbirine bağlamak, çift koşmak", "period": null, "reconstructed": true},
+      {"language": "ine", "form": "yugtós", "meaning": "birbirine koşulmuş", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "cuḫt", "meaning": "eş, birbirine koşulmuş çift", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "cuft", "meaning": "eş; birlikte koşulan öküzlerden biri", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çift", "meaning": "birbirini tamamlayan iki tekten oluşan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Birbirini tamamlayan iki tekten oluşan.",
+    "currentMeaning": "Birlikte bir bütün oluşturan veya birbirini tamamlayan iki unsurdan meydana gelen.",
+    "story": "Çiftin en eski kökünde iki şeyi birbirine bağlama ve birlikte koşma eylemi vardır. Farsça cuft, hem eşi hem birlikte koşulan öküzlerden birini adlandırıyordu. Türkçeye geçen kelime, bu birliktelik fikrini koruyarak birbirini tamamlayan iki nesneyi de anlatır oldu.",
+    "firstAttestation": {"source": "Mukaddimetü'l-Edeb tercümesi", "period": "1300", "form": "cifti"},
+    "relatives": [
+      {"word": "yóga", "relation": "eş köken"},
+      {"word": "yoke", "relation": "eş köken"},
+      {"word": "yuḫta-", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": "Çift ile Sanskritçe yoga, birleştirme ve boyunduruk fikrini taşıyan aynı eski kökte buluşur.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çift maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7ift"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çift maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tane",
+    "word": "tane",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "dʰoH-néh₂", "meaning": "tahıl", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "dānag", "meaning": "tohum, tahıl tanesi", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dāna", "meaning": "tohum; özellikle tahılın tek tanesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tane", "meaning": "sayılan şeylerin her biri", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Sayılan varlıkların her biri; adet.",
+    "currentMeaning": "Bir topluluk veya miktar içindeki nesneleri tek tek belirtmekte kullanılan sayma birimi.",
+    "story": "Tanenin geçmişindeki somut nesne bir tohum, özellikle de tahıl tanesidir. Farsça dāna, Orta Farsçadan devraldığı bu tarımsal anlamla Türkçeye geçti. Tek bir tohumu ayırt eden ad zamanla sayılabilen başka şeylere de yayıldı; böylece iki tane denildiğinde artık tahıldan söz etmek gerekmez oldu.",
+    "firstAttestation": {"source": "Kaşgarî, Divan-i Lugati't-Türk", "period": "1073", "form": "tana"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tane maddesi", "url": "https://www.nisanyansozluk.com/kelime/tane"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tane maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "deste",
+    "word": "deste",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dast", "meaning": "el", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dasta", "meaning": "elde tutulabilen tutam veya demet", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "deste", "meaning": "bir araya getirilmiş demet", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir araya getirilmiş, birlikte tutulan demet.",
+    "currentMeaning": "Çiçek gibi nesnelerin bir araya getirilerek oluşturduğu demet.",
+    "story": "Destenin eski ölçüsü bir elin kavrayabildiği kadardır. Farsça dast eli adlandırırken ondan türeyen dasta, avuca alınan tutamı karşılar. Türkçede deste, bu elle toplama görüntüsünü koruyarak çiçek gibi nesnelerin oluşturduğu demeti anlatır.",
+    "firstAttestation": {"source": "Mesud b. Ahmed, Süheyl ü Nevbahar tercümesi", "period": "1354", "form": "deste"},
+    "relatives": [
+      {"word": "tezgâh", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": "Deste ile tezgâhın ortak Farsça unsuru, eli adlandıran dasttır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "deste maddesi", "url": "https://www.nisanyansozluk.com/kelime/deste"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "deste maddesi; anlam kaydı", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "harman",
+    "word": "harman",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫirman", "meaning": "biçilmiş ekini toplama işi ve bu işin alanı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "harman", "meaning": "tahıl tanelerini başaklardan ayırma işi", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Biçilmiş tahılın tanelerini başaklarından ayırma işi.",
+    "currentMeaning": "Biçilip toplanan tahılın üzerinden düven geçirilerek tanelerinin başaklardan ayrılması işi.",
+    "story": "Harmanın Farsça geçmişinde biçilmiş ekinin bir yere yığılması vardır. Ḫirman hem bu işi hem ekinin toplandığı alanı adlandırıyordu. Türkçede hırman ve hırmen biçimlerinden harmana dönüşen kelime, hasadın devamındaki tane ayırma işini de anlatır; yığın, çalışma alanı ve yapılan işlem aynı adın çevresinde buluşur.",
+    "firstAttestation": {"source": "Rabguzi, Kısasü'l-Enbiya tercümesi", "period": "1310", "form": "ḫırman"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "harman maddesi", "url": "https://www.nisanyansozluk.com/kelime/harman"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "harman maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çuval",
+    "word": "çuval",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "guvāl", "meaning": null, "period": null, "reconstructed": false},
+      {"language": "fa", "form": "cuwāl", "meaning": "kalın dokumadan torba veya yük dengi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "çuval", "meaning": "dokuma büyük torba", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yük koymak ve taşımak için kullanılan büyük dokuma torba.",
+    "currentMeaning": "Pamuk, kenevir veya sentetik liflerden dokunarak yapılan büyük torba.",
+    "story": "Çuvalın geçmişindeki nesne, kaba dokumayla yükü bir arada tutan büyük bir torbadır. Orta Farsça guvālin devamı olan Farsça cuwāl, böyle bir torbayı ve yük dengini adlandırıyordu. Türkçede şuvāl ve çüvāl gibi biçimlerden bugünkü çuvala ulaşılırken nesnenin temel işi değişmedi: içine konulanları toplamak ve taşımak.",
+    "firstAttestation": {"source": "et-Tuhfetu'z-Zekiyye fi'l-Lugati't-Türkiyye", "period": "<1400", "form": "şuvāl"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "çuval maddesi", "url": "https://www.nisanyansozluk.com/kelime/%C3%A7uval"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "çuval maddesi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+23,537

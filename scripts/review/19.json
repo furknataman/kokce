@@ -1,10 +1,10 @@
 [
   {
     "id": "siluet",
-    "verdict": "drop",
+    "verdict": "fix",
     "objections": [
-      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor.",
-      "Maddenin kendi sources kaydı TDK'de 'silüet maddesi' diyor; madde başı büyük olasılıkla silüet olmalı, düşürmeden önce bu yazımla yeniden çekilmeli."
+      "Önceki turda düşürmüştüm; gerekçem Kubbealtı Lugatı'nın doğrulama hattında çekilmemesiydi. Kubbealtı artık çekiliyor ve maddeyi doğruluyor, karar geri alındı.",
+      "sources TDK'de 'silüet maddesi' gösteriyordu, ancak TDK kaydı yok; Kubbealtı madde başını SİLUET olarak veriyor, yani maddedeki yazım doğruymuş, kaynak Kubbealtı ile değiştirildi."
     ]
   },
   {
@@ -14,11 +14,8 @@
   },
   {
     "id": "ağu",
-    "verdict": "drop",
-    "objections": [
-      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor.",
-      "Tek kaynak Kubbealtı Lugatı; bu sözlük doğrulama hattında çekilmiyor. relatives'teki ağı biçimi TDK madde başı olabilir, düşürmeden önce denenmeli."
-    ]
+    "verdict": "ok",
+    "objections": []
   },
   {
     "id": "alaz",

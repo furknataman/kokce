@@ -1,0 +1,960 @@
+[
+  {
+    "id": "nerm",
+    "word": "nerm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "nerm",
+        "meaning": "yumuşak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nerm",
+        "meaning": "yumuşak",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sert olmayan, yumuşak.",
+    "currentMeaning": "Sertlik taşımayan, yumuşak nitelikte olan.",
+    "story": "Nerm, Farsçada sertliğin karşısına yumuşaklığı koyan bir nitelemeydi. Türkçeye geçerken bu duyusal özelliği korudu; dokunulduğunda sertlik göstermeyen şeyleri anlatan bir söz olarak yer buldu.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "nerm maddesi",
+        "url": "https://lugatim.com/s/nerm"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "câm",
+    "word": "câm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "cām",
+        "meaning": "cam",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "câm",
+        "meaning": "saydam ve kırılgan malzeme, cam",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Silisli kumdan üretilen saydam ve kırılgan malzeme.",
+    "currentMeaning": "Silisli kumun soda ya da potasla birlikte eritilmesinden elde edilen, sert, saydam ve kolay kırılan malzeme.",
+    "story": "Farsça cām, Türkçedeki cam adının çıkış noktasıdır. Sözcüğün bugün adlandırdığı malzeme, kumun yüksek sıcaklıkta eritilip biçimlendirilmesiyle ortaya çıkar; saydamlığı ile kırılganlığı aynı maddede buluşturur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "cam",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "came",
+    "word": "came",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "cāme",
+        "meaning": "giysi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "came",
+        "meaning": "giysi, çamaşır",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Elbise ve çamaşır gibi giyilen şeyler.",
+    "currentMeaning": "Elbise, çamaşır ve benzeri giyim eşyası.",
+    "story": "Farsça cāme, bedene giyilen şeyleri tek ad altında topluyordu. Türkçeye de bu geniş kapsamıyla geçti; yalnızca dışarıda giyilen elbiseyi değil, çamaşırı da içine alan bir giyim adı oldu.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "came maddesi",
+        "url": "https://lugatim.com/s/came"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şeb",
+    "word": "şeb",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "şeb",
+        "meaning": "gece",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "şeb",
+        "meaning": "gece",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Günün karanlık bölümü; gece.",
+    "currentMeaning": "Güneşin batışından doğuşuna kadar süren karanlık zaman dilimi.",
+    "story": "Şeb, Farsçada gün ışığının çekildiği zamanın adıydı. Türkçeye geçtiğinde de aynı karanlık zaman dilimini anlattı; sözcüğün yolculuğunda gece görüntüsü değişmedi.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şeb",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "çenk",
+    "word": "çenk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "çeng",
+        "meaning": "arpa benzeyen telli çalgı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "çenk",
+        "meaning": "arpa benzeyen eski telli çalgı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Arpa benzeyen eski bir telli çalgı.",
+    "currentMeaning": "Telleri parmaklarla çekilerek çalınan, arp benzeri eski bir müzik aleti.",
+    "story": "Farsça çeng, tellerin çekilmesiyle ses veren arp benzeri bir çalgının adıydı. Türkçede çenk biçimini alan ad, aynı çalgıyı anlatmayı sürdürdü; bugün geçmişin müzik dünyasına ait bir nesneyi adlandırır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "çenk",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "serpuş",
+    "word": "serpuş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "pūş/pōş",
+        "meaning": "örten",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "sar",
+        "meaning": "baş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "sarpōş",
+        "meaning": "başı örten örtü veya başlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "serpuş",
+        "meaning": "başlık",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Başa giyilen örtü veya başlık.",
+    "currentMeaning": "Başı örtmek için kullanılan giyim eşyası.",
+    "story": "Serpuşun içinde Farsçanın başı adlandıran sar sözüyle örtme işini anlatan pūş/pōş unsuru birleşir. Ortaya çıkan ad, nesneyi yaptığı işle tarif eder: başı örten şey. Türkçe bu birleşmiş adı başlık karşılığında aldı.",
+    "firstAttestation": {
+      "source": "Yazıcıoğlu Ahmed Bîcan — Dürr-i Meknûn",
+      "period": "1465",
+      "form": "serpūş"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Serpuş, insanın başlığı dışında bir minarenin tepesindeki örtü için de kullanılmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "serpuş maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/serpu%C5%9F"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "serpuş",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "cuşiş",
+    "word": "cuşiş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "cūşiş",
+        "meaning": "coşkunluk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "cuşiş",
+        "meaning": "coşkunluk",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yoğun bir coşma ve heyecan durumu.",
+    "currentMeaning": "Duygunun veya hareketin güçlü biçimde kabardığı coşkunluk hâli.",
+    "story": "Farsça cūşiş, coşmanın ve taşkınlığın adını taşıyordu. Türkçede cuşiş olarak yerleşirken bu hareketli içeriğini korudu; sakinliğin yerini yoğun bir duygu veya hareketin aldığı durumu anlatır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "cuşiş",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "çâk",
+    "word": "çâk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "ünlem",
+    "formationType": null,
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "çâk",
+        "meaning": "onay veya sevinç için elleri havada buluşturma çağrısı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Onay veya sevinçle elleri havada buluşturma çağrısı.",
+    "currentMeaning": "Bir söze ya da davranışa katılmayı veya ortak sevinci göstermek için karşıdakini avuçları havada birbirine vurmaya çağıran söz.",
+    "story": "Bu kullanımda söz, iki kişinin ellerini havada buluşturduğu harekete eşlik eder. Bir düşünceye katılma ya da sevinci paylaşma isteği, böylece kısa bir seslenişle bedensel bir karşılık bulur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "çak",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "çemen",
+    "word": "çemen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "çaman",
+        "meaning": "taze yeşillik, yenebilir ot veya baharat",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "çemen",
+        "meaning": "kimyon türü bir bitki",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Maydanozgillerden bir kimyon türü.",
+    "currentMeaning": "Bilimsel adı Cuminum cyminum olan, maydanozgiller ailesinden bir bitki.",
+    "story": "Farsça çaman, yenebilen taze otlarla baharatları aynı yeşillik dünyasında buluşturuyordu. Türkçenin eski kullanımlarında hem otluk alan hem de kimyon karşılığı görülür. Bitkiyi adlandıran bugünkü anlam, bu geniş yeşillik alanının baharat tarafını sürdürür.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "çaman"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "çemen maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C3%A7emen"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "çemen",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "çerağ",
+    "word": "çerağ",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "çerāġ",
+        "meaning": "kandil, lamba",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "çerağ",
+        "meaning": "aydınlatma aracı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Mum, kandil veya lamba gibi bir aydınlatma aracı.",
+    "currentMeaning": "Çevresini aydınlatmak için kullanılan mum, kandil, lamba ve benzeri araçların ortak adı.",
+    "story": "Farsça çerāġ, karanlığı aydınlatan kandil ve lambanın adıydı. Türkçede çerağ, ışığın kendisinden çok onu sağlayan nesneyi anlatır; mumdan lambaya uzanan farklı araçları aydınlatma işi etrafında birleştirir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "çerağ",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "çeşm",
+    "word": "çeşm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "kʷeḱ-",
+        "meaning": "görmek",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "kʷéḱ-s-mn̥",
+        "meaning": "görme, aydınlanma, ışık",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "peo",
+        "form": "çaşman-",
+        "meaning": "görme, aydınlanma, ışık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "çaşm",
+        "meaning": "göz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "çeşm",
+        "meaning": "göz",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Görme organı; göz.",
+    "currentMeaning": "Işığı algılayarak görmeyi sağlayan organ.",
+    "story": "Çeşmin en eski kökünde bir organın adı değil, görme eylemi bulunur. Bu kökten görme, aydınlanma ve ışık kavramlarını taşıyan bir ad gelişti. İran dillerindeki yolculuğunda ad, görmeyi sağlayan organa bağlandı; Farsçadaki çaşm Türkçeye çeşm olarak geçti.",
+    "firstAttestation": {
+      "source": "Gülşehri — Mantıku't-Tayr",
+      "period": "1317",
+      "form": "çeşm"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "çeşm maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C3%A7e%C5%9Fm"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "çeşm",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çetr",
+    "word": "çetr",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "çetr",
+        "meaning": "çadır, gölge sağlayan örtü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "çetr",
+        "meaning": "çadır, gölge sağlayan örtü",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çadır veya gölge sağlayan üst örtüsü.",
+    "currentMeaning": "Altında barınılan ya da gölgelenilen çadır ve benzeri örtü.",
+    "story": "Farsça çetr, insanın üzerinde açılan ve ona örtülü bir alan sağlayan nesneyi adlandırıyordu. Türkçede de çadır ile gölgeliği aynı işlevde buluşturdu: altında durana korunaklı bir yer açmak.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "çetr maddesi",
+        "url": "https://lugatim.com/s/%C3%A7etr"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sergerdan",
+    "word": "sergerdan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "ser",
+        "meaning": "baş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "gerdān",
+        "meaning": "dönen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "ser-gerdān",
+        "meaning": "başı dönen, şaşkın",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sergerdan",
+        "meaning": "şaşkın, sersemlemiş, ne yapacağını bilemeyen",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Şaşkınlıktan ne yapacağını bilemeyen, sersemlemiş.",
+    "currentMeaning": "Başı dönmüş veya şaşkınlığa düşmüş gibi davranan, ne yapacağını kestiremeyen, perişan durumdaki kimse.",
+    "story": "Farsçada başı anlatan ser ile dönmeyi anlatan gerdān birleşince başı dönen bir insan görüntüsü ortaya çıkar. Bedensel dengesizlik, ne yapacağını bilememenin de anlatımına dönüşür. Türkçeye sergerdan olarak geçen söz, bu görüntüyü şaşkın ve perişan kişinin üzerine taşır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "sergerdan maddesi",
+        "url": "https://lugatim.com/s/sergerdan"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "şuh",
+    "word": "şuh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "şūḫ",
+        "meaning": "kir; küstah, atılgan, yaramaz, şakacı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "şuh",
+        "meaning": "neşeli ve kıvrak tavırlı kadın",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Neşesi, canlılığı ve kıvrak tavırlarıyla belirgin olan kadın.",
+    "currentMeaning": "Kadın için, neşeli, hareketli ve kıvrak tavırlar taşıyan.",
+    "story": "Farsça şūḫ, kir adının yanında küstahlık, yaramazlık ve şakacılık gibi davranışları da taşıyordu. Türkçedeki eski kullanımlarında bu söz, sınırları zorlayan bir atılganlığı anlatıyordu. Zamanla olumsuz yargısı hafifledi ve kadının neşesini, canlılığını, kıvrak tavırlarını öne çıkaran bir niteleme oldu.",
+    "firstAttestation": {
+      "source": "Ahmed b. Kadı-i Manyas — Gülistan tercümesi",
+      "period": "1429",
+      "form": "şūḫlık"
+    },
+    "relatives": [
+      {
+        "word": "şuhluk",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "şuh maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fuh"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şuh",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "peyrev",
+    "word": "peyrev",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "peyrev",
+        "meaning": "bir başkasını izleyen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "peyrev",
+        "meaning": "bir başkasını izleyen",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir başkasını izleyip onun yolunu sürdüren.",
+    "currentMeaning": "Başka bir kişinin ardından veya onun açtığı yoldan giden.",
+    "story": "Farsça peyrev, önde giden birinin ardından ilerleyen kişiyi anlatıyordu. Türkçeye aynı takip ilişkisiyle geçti; sözcüğün merkezinde, yolunu bir başkasının izine göre belirleyen kişi bulunur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "peyrev",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "dâm",
+    "word": "dâm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": null,
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "dâm",
+        "meaning": "yapının koruyucu üst örtüsü, çatı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yapının üzerini örten koruyucu bölüm; çatı.",
+    "currentMeaning": "Bir binayı hava koşullarından koruyan, üstünü kapatan ve genellikle kiremitlerle örtülen bölüm.",
+    "story": "Bu kullanım, binanın üstünde duran koruyucu örtüyü adlandırır. Kiremitlerle kaplanan bu bölüm, dışarıdaki hava koşullarıyla içerideki yaşam alanı arasına bir sınır koyar.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "dam",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "zerrin",
+    "word": "zerrin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "zarrīn",
+        "meaning": "altına benzeyen veya altından yapılan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "zerrin",
+        "meaning": "altından üretilmiş",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yapımında altın kullanılan.",
+    "currentMeaning": "Altın işlenerek meydana getirilmiş olan.",
+    "story": "Farsça zarrīn, bir nesneyi ya altına benzerliğiyle ya da doğrudan altından yapılmış olmasıyla niteliyordu. Türkçeye zerrin olarak geçtiğinde bu değerli madenle bağını korudu. Bir kadehin önüne geldiğinde yalnızca görünüşünü değil, yapıldığı malzemeyi de anlatır.",
+    "firstAttestation": {
+      "source": "Rabguzi — Kısasü'l-Enbiya tercümesi",
+      "period": "1310",
+      "form": "zerrīn"
+    },
+    "relatives": [
+      {
+        "word": "zarənaēna-",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "zerrin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/zerrin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "zerrin",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dilâver",
+    "word": "dilâver",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "dilāver",
+        "meaning": "yiğit, cesur",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dilâver",
+        "meaning": "yiğit, cesur",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Cesaret sahibi, yiğit.",
+    "currentMeaning": "Tehlike ve güçlük karşısında cesaret gösteren kimse.",
+    "story": "Farsça dilāver, güçlük karşısında cesaret gösteren kişiyi niteliyordu. Türkçeye dilâver olarak yerleşirken aynı insan özelliğini taşıdı; sözcük, tehlikeden yılmayan kişiye verilen bir yiğitlik sıfatı oldu.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "dilâver",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "diba",
+    "word": "diba",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "dēbāg",
+        "meaning": "bir çeşit ipekli dokuma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "dībā",
+        "meaning": "bir çeşit ipekli dokuma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "diba",
+        "meaning": "altın ve gümüşle işlenmiş ipekli kumaş",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Altın ve gümüş işlemeler taşıyan ipekli kumaş.",
+    "currentMeaning": "İpek dokuması altın ve gümüş işlemelerle süslenen bir kumaş çeşidi.",
+    "story": "Orta Farsçadaki dēbāg, Farsçada dībā biçimini alırken ipekli dokumayı adlandırmayı sürdürdü. Türkçeye geçen diba da bu kumaş dünyasına aittir. Bugünkü kullanımında ipeğin üzerine altın ve gümüş işleme eklenir; ad, gösterişli bir dokuma türünü belirtir.",
+    "firstAttestation": {
+      "source": "Gülşehri — Mantıku't-Tayr",
+      "period": "1317",
+      "form": "dībā"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "diba maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/diba"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "diba",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dide",
+    "word": "dide",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "dʰei̯H- (dʰei̯-)",
+        "meaning": "görmek, bakmak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "pal",
+        "form": "dītan, vēn-",
+        "meaning": "görmek, bakmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "dīdan, bīn-",
+        "meaning": "görmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dide",
+        "meaning": "göz",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Görmeyi sağlayan organ; göz.",
+    "currentMeaning": "Görme duyusunun organı.",
+    "story": "Didenin geçmişinde, Hintavrupa anadilinde görmeyi ve bakmayı anlatan bir fiil kökü vardır. Bu eylem İran dillerinde yaşamayı sürdürmüş, Farsçada dīdan fiilinden gözün adı olan dīde türemiştir. Türkçe, görme eyleminden doğan bu organ adını dide biçiminde almıştır.",
+    "firstAttestation": {
+      "source": "Anonim — Ferec ba'd eş-şidde",
+      "period": "1451 öncesi",
+      "form": "dīde"
+    },
+    "relatives": [
+      {
+        "word": "dāi-",
+        "relation": "eş köken"
+      },
+      {
+        "word": "didiy",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Sanskritçede düşünmeyi anlatan dhyāti ile dide aynı eski köke bağlanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "dide maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/dide"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "dide",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

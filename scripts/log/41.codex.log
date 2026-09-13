@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "lalezar",
+    "word": "lalezar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "lālezār", "meaning": "lale bahçesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lalezar", "meaning": "lale yetiştirilen bahçe", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Lalelerin yetiştirildiği bahçe.",
+    "currentMeaning": "Lale yetiştirmeye ayrılmış yer veya bahçe.",
+    "story": "Farsçada lālezār, tek bir çiçeği değil, lalelerin yetiştiği bir bahçeyi adlandırır. Türkçeye geçerken bu bahçe görüntüsünü korumuş; çiçeğin kendisinden çok ona ayrılan yeri anlatmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lalezar", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "lerze",
+    "word": "lerze",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "larz", "meaning": "titreyiş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "larza", "meaning": "titreme, sarsılma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lerze", "meaning": "titreme", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Vücudun veya bir uzvun titremesi.",
+    "currentMeaning": "Bedenin ya da bir bölümünün istemsizce titremesi.",
+    "story": "Farsçadaki larz, bedenin veya bir nesnenin titreyişini anlatan bir tabandır. Ondan türeyen larza, Türkçeye lerze biçiminde taşınmıştır. Eski kullanımlarda korkuyla sarsılan beden, kelimenin anlattığı hareketi göz önüne getirir.",
+    "firstAttestation": {"source": "Hayalî — Ravzatü'l-envâr", "period": "1449", "form": "lerze"},
+    "relatives": [
+      {"word": "lerzan", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "lerze maddesi", "url": "https://www.nisanyansozluk.com/kelime/lerze"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lerze", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nahoş",
+    "word": "nahoş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫʷaş", "meaning": "hoş, güzel", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nāḫʷaş", "meaning": "hoş olmayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nahoş", "meaning": "hoşa gitmeyen, kötü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hoş karşılanmayan, kötü veya çirkin.",
+    "currentMeaning": "İnsanda hoş bir duygu uyandırmayan; kötü, çirkin veya rahatsız edici.",
+    "story": "Farsçada hoşluğu anlatan ḫʷaş, başına gelen nā- ile tersine çevrilir. Böylece güzel veya hoş bulunanın karşısına, insana iyi gelmeyen nāḫʷaş çıkar. Türkçedeki nahoş da bu olumsuzluğu koruyarak rahatsızlık veren şeyleri niteler.",
+    "firstAttestation": {"source": "Edib Ahmed — Atebet-ül Hakayık", "period": "<1250?", "form": "nā-ḫoşı"},
+    "relatives": [
+      {"word": "hoş", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nahoş maddesi", "url": "https://www.nisanyansozluk.com/kelime/naho%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nahoş", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meh",
+    "word": "meh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "meh", "meaning": "ay", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meh", "meaning": "ay", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gökteki Ay için kullanılan ad.",
+    "currentMeaning": "Dünya'nın doğal uydusu olan Ay.",
+    "story": "Farsçadaki meh, bakışı gökteki Ay'a yöneltir. Türkçeye de aynı gök cismini adlandırarak geçmiş, ay kelimesinin yanında kullanılan bir başka ad olmuştur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "meh", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "merdüm",
+    "word": "merdüm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "mart-tōhm", "meaning": "insan soyu, insanoğlu", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "martōm", "meaning": "kişi, birey, bebek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "mardum", "meaning": "insan; göz bebeği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "merdüm", "meaning": "insan; göz bebeği", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnsan veya göz bebeği.",
+    "currentMeaning": "İnsan, kişi; ayrıca gözün ortasındaki göz bebeği.",
+    "story": "Kelimenin en eski halkası, insanı bir soyun tohumu olarak anlatan ve yeniden kurulmuş mart-tōhm biçimidir. Orta Farsçadaki martōm, bu geniş soy düşüncesinden tek bir kişiye, hatta bebeğe uzanır. Farsça mardum aşamasında insanın yanında göz bebeği de adlandırılır; Türkçedeki merdüm bu iki kullanımı birlikte taşır.",
+    "firstAttestation": {"source": "Latifî — Tezkîretü'ş-Şuarâ", "period": "1546", "form": "merdüm"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "merdüm maddesi", "url": "https://www.nisanyansozluk.com/kelime/merd%C3%BCm"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "saye",
+    "word": "saye",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "sāyag", "meaning": "gölge", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sāya", "meaning": "gölge; güçlü birinin himayesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "saye", "meaning": "gölge", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyin ışığı kesmesiyle oluşan gölge.",
+    "currentMeaning": "Işığın engellenmesiyle oluşan karanlık alan; gölge.",
+    "story": "Orta Farsçadaki sāyag, bir şeyin ardında kalan gölgeyi adlandırıyordu. Farsça sāya, bu somut görüntüyü güçlü birinin koruyuculuğuna da taşıdı: birinin gölgesinde bulunmak, onun himayesinde bulunmak oldu. Türkçeye saye olarak geçen kelime, gölgeyi anlatırken eski kullanımlarında bu sığınma düşüncesini de barındırır.",
+    "firstAttestation": {"source": "Erzurumlu Darir — Kıssa-i Yusuf tercümesi", "period": "<1377", "form": "sāyesidür"},
+    "relatives": [
+      {"word": "asaya", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "saye maddesi", "url": "https://www.nisanyansozluk.com/kelime/saye"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "saye", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müjgân",
+    "word": "müjgân",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "mujgān", "meaning": "kirpik", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müjgân", "meaning": "kirpik", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Göz kapaklarının kenarında bulunan kirpik.",
+    "currentMeaning": "Göz kapağının kenarında çıkan kıllardan her biri; kirpik.",
+    "story": "Farsça mujgān, göz kapağının kenarını çevreleyen kirpikleri adlandırır. Türkçeye müjgân biçiminde taşınırken gözle kurduğu somut bağı korumuş, kirpik için kullanılan bir başka söz olmuştur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müjgân", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nalan",
+    "word": "nalan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "nālān", "meaning": "inleyen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nalan", "meaning": "inleyen", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İnleme sesi çıkaran.",
+    "currentMeaning": "İnleyen veya inleme özelliği gösteren.",
+    "story": "Farsçadaki nālān, bir duygunun sessizce yaşanmasından çok, inleme olarak duyulmasını öne çıkarır. Türkçedeki nalan da bu sesli dışavurumu korur ve inleyen kişiyi ya da varlığı niteler.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nalan", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "navek",
+    "word": "navek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "nāvek", "meaning": "ok", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "navek", "meaning": "ok", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yayla atılan ok.",
+    "currentMeaning": "Bir yay aracılığıyla fırlatılan, sivri uçlu atış aracı; ok.",
+    "story": "Farsçadaki nāvek, yaydan çıkan oku adlandırır. Türkçeye navek olarak geçerken aynı nesneyi göstermeyi sürdürmüş, okun başka bir adı olarak yerleşmiştir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "navek maddesi", "url": "https://lugatim.com/s/navek"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sipihr",
+    "word": "sipihr",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "peo",
+    "chain": [
+      {"language": "peo", "form": "spis̱rah", "meaning": "gökyüzü", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "spihr", "meaning": "gökyüzü", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sipihr", "meaning": "gökyüzü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sipihr", "meaning": "gökyüzü", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yeryüzünün üzerinde uzanan gök.",
+    "currentMeaning": "Gökyüzü, gök.",
+    "story": "Kelimenin geçmişi, Eski Farsça için yeniden kurulan spis̱rah biçimine kadar uzanır. Orta Farsçada spihr, Farsçada sipihr olurken işaret ettiği gökyüzü değişmez. Türkçeye de başın üzerinde uzanan bu göğün adı olarak geçmiştir.",
+    "firstAttestation": {"source": "Latifî — Tezkîretü'ş-Şuarâ", "period": "1546", "form": "sipihr"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Gökyüzünü adlandıran sipihr, Türk müziğinde bir makamın da adıdır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sipihr maddesi", "url": "https://www.nisanyansozluk.com/kelime/sipihr"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nadan",
+    "word": "nadan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dān", "meaning": "bilen", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nādān", "meaning": "bilmeyen, cahil", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nadan", "meaning": "bilgiden yoksun, cahil", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bilgisi olmayan, cahil.",
+    "currentMeaning": "Bilgiden yoksun olan, cahil kimseyi niteleyen söz.",
+    "story": "Farsçadaki dān, bilen kişiyi anlatır. Önüne gelen nā- bu niteliği olumsuzlar ve ortaya bilmeyen kişiyi gösteren nādān çıkar. Türkçe nadan, bu karşıtlığı koruyarak bilgisizliği bir kişinin niteliği olarak dile getirir.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "nādān"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nadan maddesi", "url": "https://www.nisanyansozluk.com/kelime/nadan"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nadan", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nigehban",
+    "word": "nigehban",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bān", "meaning": "koruyan, gözeten", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nikāh/nigah", "meaning": "bakış, bakma", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nigahbān", "meaning": "bekleyen, gözeten kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nigehban", "meaning": "bekçi, gözetici", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Birini veya bir yeri gözetip koruyan kişi.",
+    "currentMeaning": "Koruma ve gözetme görevini üstlenen kimse; bekçi veya bakıcı.",
+    "story": "Farsçada bakışı anlatan nigah ile koruyuculuğu belirten bān birleşir. Bu birleşimde bakmak, bir şeyi yalnızca görmekten çıkıp gözünü onun üzerinde tutmaya dönüşür. Türkçeye geçen nigehban da bu dikkatli bakışın sahibini, yani gözetip koruyan kişiyi adlandırır.",
+    "firstAttestation": {"source": "Ömer b. Mezîd — Mecmuatü'n-nezâir", "period": "1437", "form": "nigeh-bān"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nigehban maddesi", "url": "https://www.nisanyansozluk.com/kelime/nigehban"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nikbin",
+    "word": "nikbin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bīn", "meaning": "gören", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "nēvak/nīyak", "meaning": "iyi, güzel", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nīk", "meaning": "iyi, güzel", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nikbin", "meaning": "iyimser", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Olayların iyi yanını gören, iyimser.",
+    "currentMeaning": "Olayları olumlu değerlendiren ve iyi sonuçlar bekleyen.",
+    "story": "Farsçadaki nīk, iyiyi ve güzeli; bīn ise göreni anlatır. Nīk unsurunun geçmişinde Orta Farsçadaki nēvak ve nīyak biçimleri bulunur. İyiyi görmek düşüncesi, Türkçedeki nikbinde olaylara umutla bakan kişinin niteliğine dönüşür.",
+    "firstAttestation": {"source": "Tıngır & Sinapian — Istılahat Lugati", "period": "1892", "form": "nīkbīn"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nikbin maddesi", "url": "https://www.nisanyansozluk.com/kelime/nikbin"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nikbin", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nümayan",
+    "word": "nümayan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "numūden", "meaning": "görünmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "numāyān", "meaning": "göz önünde olan, açık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nümayan", "meaning": "görünen, açıkça belli olan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Göz önünde olan, açıkça görünen.",
+    "currentMeaning": "Görülebilen, ortada bulunan veya açıkça belli olan.",
+    "story": "Farsçadaki numūden, bir şeyin görünmesini anlatan eylemdir. Bu eylemden oluşan numāyān, artık göz önünde bulunan şeyi niteler. Türkçedeki nümayan da görünür olma düşüncesini korur ve bir şeyin açıklığını, ortada oluşunu vurgular.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "nümayan maddesi", "url": "https://lugatim.com/s/n%C3%BCmayan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "peykan",
+    "word": "peykan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "peykān", "meaning": "okun sivri demir ucu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "peykan", "meaning": "okun sivri demir ucu", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Okun ucuna takılan sivri demir parça.",
+    "currentMeaning": "Okun hedefe saplanmasını sağlayan sivri demir uç; temren.",
+    "story": "Farsçadaki peykān, okun hedefe ilk değen sivri demir parçasını adlandırır. Türkçeye peykan olarak geçtiğinde de adını bütün oka yaymadan bu uç parçasını göstermeyi sürdürmüştür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "peykan maddesi", "url": "https://lugatim.com/s/peykan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "revnak",
+    "word": "revnak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "rōşnag", "meaning": "ışık, parlaklık", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "rawnaḳ", "meaning": "parlaklık; güzellik, görkem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "revnak", "meaning": "parlaklık", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyin parlaklığı.",
+    "currentMeaning": "Parlak olma niteliği, göz alıcı aydınlık.",
+    "story": "Arapçadaki rawnaḳ, ışığın parlaklığını güzellik ve görkem için de kullanır. Bu kelimenin gerisinde Orta Farsçada ışığı anlatan rōşnag bulunabilir; ancak bu bağlantı kesin değildir. Türkçeye Arapçadan geçen revnak, bir şeyin göz alan parlaklığını adlandırır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "revnaḳı"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Arapça rawnaḳ ile Orta Farsça rōşnag arasındaki köken bağlantısını tahmine dayalı veya tartışmalı olarak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "revnak maddesi", "url": "https://www.nisanyansozluk.com/kelime/revnak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "revnak", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gülşen",
+    "word": "gülşen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "+şan", "meaning": "yer bildiren ek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "gul", "meaning": "çiçek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "gulşan", "meaning": "güllerin veya çiçeklerin bulunduğu bahçe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gülşen", "meaning": "gül bahçesi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Güllerin yetiştiği bahçe.",
+    "currentMeaning": "Gül yetiştirilen, güllerle bezeli bahçe.",
+    "story": "Farsçadaki gul, çiçeği adlandırırken yanına gelen +şan onu bir yer adına dönüştürür. Böylece tek bir çiçekten, çiçeklerin toplandığı bahçeye geçilir. Farsçada gülleri veya başka çiçekleri barındırabilen bu bahçe, Türkçedeki gülşende gül bahçesi olarak karşılık bulur.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "gülşen"},
+    "relatives": [
+      {"word": "gül", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "gülşen maddesi", "url": "https://www.nisanyansozluk.com/kelime/g%C3%BCl%C5%9Fen"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "gülşen", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pervane",
+    "word": "pervane",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "vān", "meaning": "kanat", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "par", "meaning": "kanat", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "parvāna", "meaning": "tüy, yaprak, gece kelebeği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pervane", "meaning": "gece ışık etrafında uçan küçük kelebek", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Geceleri ışığın çevresinde uçuşan küçük kelebek.",
+    "currentMeaning": "Gece ortaya çıkan ve ışık çevresinde dönen küçük kelebek.",
+    "story": "Farsçadaki parvāna, tüy ve yaprağın yanında gece kelebeğini de adlandırır. İçindeki par kanadı anlatır; vān ile kurulduğu düşünülen birleşimin ayrıntısı ise kesin değildir. Türkçede ışığın çevresinde uçuşan kelebeğin adı olan pervane, bu kanatlı canlı görüntüsünü korur.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "pervānedür"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, pervanenin yapısındaki vān unsurunu muhtemel bir birleşik sözcük bileşeni olarak gösterir."
+    ],
+    "funFact": "Pervane, 19. yüzyılda saatteki dönen bir parçayı adlandırmak için de kullanılıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pervane maddesi", "url": "https://www.nisanyansozluk.com/kelime/pervane"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pervane", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "rindane",
+    "word": "rindane",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "zarf",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "rindāne", "meaning": "rintçe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rindane", "meaning": "rintçe", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir rint gibi davranarak.",
+    "currentMeaning": "Rinte özgü bir tutumla, rintçe.",
+    "story": "Farsçadaki rindāne, bir rintin tavrını davranışa taşır. Türkçeye geçtiğinde de bir kişinin ne yaptığından çok, yaptığı işi nasıl bir tutumla gerçekleştirdiğini anlatır.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "rint", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rindane", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "dilhun",
+    "word": "dilhun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫūn", "meaning": "kan", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dil", "meaning": "yürek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dil ḫūn", "meaning": "yüreği kanayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dilhun", "meaning": "derin üzüntü içindeki", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Derin bir üzüntüyle içi yanan.",
+    "currentMeaning": "Çok büyük üzüntü duyan, içten içe acı çeken kimse.",
+    "story": "Farsçada dil yüreği, ḫūn ise kanı adlandırır. Birleştiklerinde kanayan bir yürek görüntüsü doğar ve bu görüntü ağır bir üzüntüyü anlatır. Türkçedeki dilhun da bedensel yaralanmadan çok, kişinin içinde duyduğu derin acıyı niteler.",
+    "firstAttestation": {"source": "Tasvir-i Efkâr — gazete", "period": "1862", "form": "dilḫūn"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "dilhun maddesi", "url": "https://www.nisanyansozluk.com/kelime/dilhun"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dilhun", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.153.2
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: medium
+reasoning summaries: none
+session id: 01a09ae6-f2af-7923-a8ea-92c665bbaac7
+--------
+user
+# Köken — Üretim Prompt'u (v13)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. Bazı satırlarda ayrıca `ipucu anlam` bulunur; o da
+hangi sözcüğün kastedildiğini göstermek içindir, **kanıt değildir**: kaynakla
+çelişirse kaynağı esas al, `currentMeaning` ve `shortMeaning` alanlarını
+kaynaktan yaz, ipucu anlamı kopyalama. `rarity` ise kesin veridir: satırda ne
+yazıyorsa `rarity` alanına **aynen** onu yaz.
+
+1. lalezar — ipucu: fa — rarity: az-bilinen — ipucu anlam: lalelerle dolu yer
+2. lerze — ipucu: fa — rarity: az-bilinen — ipucu anlam: titreme, ürperme
+3. nahoş — ipucu: fa — rarity: az-bilinen — ipucu anlam: hoşa gitmeyen
+4. meh — ipucu: fa — rarity: az-bilinen — ipucu anlam: ay
+5. merdüm — ipucu: fa — rarity: az-bilinen — ipucu anlam: insan; göz bebeği
+6. saye — ipucu: fa — rarity: az-bilinen — ipucu anlam: gölge; koruma
+7. müjgân — ipucu: fa — rarity: az-bilinen — ipucu anlam: kirpikler
+8. nalan — ipucu: fa — rarity: az-bilinen — ipucu anlam: inleyen, ağlayan
+9. navek — ipucu: fa — rarity: az-bilinen — ipucu anlam: küçük ok
+10. sipihr — ipucu: fa — rarity: az-bilinen — ipucu anlam: gökyüzü, felek
+11. nadan — ipucu: fa — rarity: az-bilinen — ipucu anlam: bilgisiz, cahil
+12. nigehban — ipucu: fa — rarity: az-bilinen — ipucu anlam: bekçi, gözetici
+13. nikbin — ipucu: fa — rarity: az-bilinen — ipucu anlam: iyimser
+14. nümayan — ipucu: fa — rarity: az-bilinen — ipucu anlam: görünen, belli olan
+15. peykan — ipucu: fa — rarity: az-bilinen — ipucu anlam: okun sivri ucu
+16. revnak — ipucu: fa — rarity: az-bilinen — ipucu anlam: parlaklık, güzellik
+17. gülşen — ipucu: fa — rarity: az-bilinen — ipucu anlam: gül bahçesi
+18. pervane — ipucu: fa — rarity: az-bilinen — ipucu anlam: ışık çevresinde dönen gece kelebeği
+19. rindane — ipucu: fa — rarity: az-bilinen — ipucu anlam: dünya kaygısını umursamayan bir tavırla
+20. dilhun — ipucu: fa — rarity: az-bilinen — ipucu anlam: içi kan ağlayan, çok kederli
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve
+gerektiğinde Kubbealtı Lugatı kayıtlarının özeti verilmiştir. **Bu özetler
+esastır.** Kubbealtı bölümü varsa (ilk iki kaynakta madde yoksa gelir) köken
+satırındaki dil kısaltması (`Fars.`, `Ar.`) `donorLanguage` için esastır ve
+kaynak şöyle yazılır:
+`{"name": "Kubbealtı Lugatı", "ref": "<kelime> maddesi", "url": "<verilen bağlantı>"}`.
+
+### lalezar
+
+**TDK** — köken kaydı: Farsça lālezār · anlam: Lale yetiştirilen yer, lale bahçesi
+
+### lerze
+
+**Nişanyan — lerze**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › larz › titreyiş  [türeme]
+- Farsça › larza › titreme, sarsılma  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1449, Hayalî — Ravzatü'l-envâr
+  > serāsime oluban aklı şaşdı / tenine korkusından lerze düşdi
+- 1574, Hoca Sadeddin Ef. — Tacü't-Tevârih
+  > destü pālerine lerze ve zebānlerine hedeyân-ı herze ˁārıż oldu [el ve ayaklarına titreme ve dillerine anlamsız sözlerin hezeyanı geldi]
+
+Not: Aynı kökten lerzān "titreyen, titrek" Türkçede kadın adı olarak kullanılır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/lerze
+
+**TDK** — köken kaydı: Farsça lerze · anlam: ► titreme
+
+### nahoş
+
+**Nişanyan — nahoş**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › χʷaş  [türeme]
+- Farsça › nāχʷaş › hoş olmayan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- <1250?, Edib Ahmed — Atebet-ül Hakayık
+  > walīkin içinde tümen nā-ḫoşı [velakin içinde onbinlerce nahoşu]
+- 1317, Gülşehri — Mantıku't-Tayr
+  > şāhidüŋ raˁnā degül nā-ḫoşdurur
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/naho%C5%9F
+
+**TDK** — köken kaydı: Farsça nāḫoş · anlam: Hoş olmayan, hoşa gitmeyen, kötü, çirkin
+
+### meh
+
+**TDK** — köken kaydı: Farsça meh · anlam: ► ay (II)
+
+### merdüm
+
+**Nişanyan — merdüm**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › *mart-tōhm › insan tohumu, insanoğlu  [ses evrimi]
+- Orta Farsça › martōm › birey, kişi, bebek  [ses evrimi]
+- Farsça › mardum › adam, insanoğlu; gözbebeği  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1546, Latifî — Tezkîretü'ş-Şuarâ
+  > Ey merdüm-i deryâ sevinüŋ ḳâra göründi ... Bir merdüm-i merdüm-şinâs
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > merdüm-ḫwār: yamyam
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > şiirde merdüm-gurīz: adamcıl.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/merd%C3%BCm
+
+### saye
+
+**Nişanyan — saye**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › sāyag › gölge  [ses evrimi]
+- Farsça › sāya › gölge, (mec.) güçlü bir kişinin koruması  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Avestaca › asaya › a.a.  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > umbra - Fa: saya - Tr: kolaga [gölge]
+- <1377, Erzurumlu Darir — Kıssa-i Yusuf terc.
+  > kim anası yūsufuŋ dāyesidür, yūsuf içün oğlunuŋ sāyesidür [gölgesidir]
+- 1574, Hoca Sadeddin Ef. — Tacü't-Tevârih
+  > sāye-i pādişāh-i Rūmı penāh idinüp [Rum padişahının gölgesini sığınak edinip]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/saye
+
+**TDK** — köken kaydı: Farsça sāye · anlam: ► gölge
+
+### müjgân
+
+**TDK** — köken kaydı: Farsça mujgān · anlam: ► kirpik
+
+### nalan
+
+**TDK** — köken kaydı: Farsça nālān · anlam: İnleyici, inleyen
+
+### navek
+
+**Kubbealtı Lugatı — NÂVEK**
+
+Köken satırı: Fars. nāvek
+
+İlk anlam: Ok, tir
+
+Bağlantı: https://lugatim.com/s/navek
+
+### sipihr
+
+**Nişanyan — sipihr**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Farsça › *spis̱rah › a.a.  [ses evrimi]
+- Orta Farsça › spihr › a.a.  [ses evrimi]
+- Farsça › sipihr › gökyüzü, asuman  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1546, Latifî — Tezkîretü'ş-Şuarâ
+  > burûc-ı sipihr-i mînâ-fâm [mine-renkli gökyüzünün burçları] gibi on iki ˁaded kitâb u risâle ve münşeˁât u maḳâle tahrîr u teˁlîf itmişdüm.
+
+Not: Türk müziğinde bir makam adıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sipihr
+
+### nadan
+
+**Nişanyan — nadan**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › dān › bilen  [türeme]
+- Farsça › nādān › cahil, bilmez  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1317, Gülşehri — Mantıku't-Tayr
+  > ādemī ḥayvān olandan yeg-dürür / dīv olan nādān olandan yeg-dürür
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/nadan
+
+**TDK** — köken kaydı: Farsça nādān · anlam: Bilgisiz, cahil
+
+### nigehban
+
+**Nişanyan — nigehban**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › bān  [bileşik sözcüğün devamı]
+- Farsça › nikāh/nigah › bakma, bakış  [bileşik sözcük]
+- Farsça › nigahbān › bakıcı, gözetici, bekçi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1437, Ömer b. Mezîd — Mecmuatü'n-nezâir
+  > Nigeh-bān oluban Bārī yavuz gözden yavuz dilden
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/nigehban
+
+### nikbin
+
+**Nişanyan — nikbin**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › bīn › gören  [bileşik sözcüğün devamı]
+- Orta Farsça › nēvak/nīyak › a.a.  [ses evrimi]
+- Farsça › nīk › iyi, güzel  [bileşik sözcük]
+
+Tanıklıklar (eskiden yeniye):
+- 1892, Tıngır & Sinapian — Istılahat Lugati
+  > Optimiste [Fr.]: nīkbīn نیكبین
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/nikbin
+
+**TDK** — köken kaydı: Farsça nīkbīn · anlam: ► iyimser
+
+### nümayan
+
+**Kubbealtı Lugatı — NÜMÂYAN**
+
+Köken satırı: Fars. numūden “görünmek”ten numāyān
+
+İlk anlam: Görünen, meydanda olan, ayan, âşikâr
+
+Bağlantı: https://lugatim.com/s/n%C3%BCmayan
+
+### peykan
+
+**Kubbealtı Lugatı — PEYKÂN**
+
+Köken satırı: Fars. peykān
+
+İlk anlam: Okun ucundaki sivri demir, temren
+
+Bağlantı: https://lugatim.com/s/peykan
+
+### revnak
+
+**Nişanyan — revnak**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › rōşnag › parlaklık, ışık  [tahmine dayalı veya tartışmalı köken]
+- Arapça › rawnaḳ › parlaklık, ışık, (mec.) güzellik, ihtişam  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > revnaḳı bu ḳandilüŋ ol su-yıla [parlaklığını o sudan alır]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/revnak
+
+**TDK** — köken kaydı: Arapça revnaḳ · anlam: ► parlaklık
+
+### gülşen
+
+**Nişanyan — gülşen**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › +şan › yer ismi teşkil eden ek  [bileşik sözcüğün devamı]
+- Farsça › gul › çiçek  [bileşik sözcük]
+- Farsça › gulşan › gül veya çiçek bahçesi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > bakduğı yir gözine gülşen olur
+
+Not: Tarikat adı olan Gülşenî ve Gülşeniyye, İbrahim-i Gülşenî'nin (ö. 940/1534) adından gelir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/g%C3%BCl%C5%9Fen
+
+**TDK** — köken kaydı: Farsça gul-şen · anlam: Gül bahçesi
+
+### pervane
+
+**Nişanyan — pervane**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › vān  [muhtemel bileşik sözcüğün devamı]
+- Farsça › par › kanat  [bileşik sözcük]
+- Farsça › parvāna › tüy, yaprak, gece kelebeği  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1330, Aşık Paşa — Garib-name
+  > bu ˁışḳuŋ şemˁine [aşkın mumuna] pervānedür
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > pervāne: (...) Çark altında olan dönek. Saat pervānesi.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pervane
+
+**TDK** — köken kaydı: Farsça pervāne · anlam: Geceleri ışık çevresinde dönen küçük kelebek; kepenek (II)
+
+### rindane
+
+**TDK** — köken kaydı: Farsça rindāne · anlam: ► rintçe
+
+### dilhun
+
+**Nişanyan — dilhun**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Farsça › χūn › kan  [bileşik sözcüğün devamı]
+- Farsça › dil › yürek  [bileşik sözcük]
+- Farsça › dil χūn › yüreği kanayan  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1862, Tasvir-i Efkâr - gazete
+  > milletlerin her ferdi kendi vatanı hakkında dürlü fedakârlıklar gösterdiklerini tahattur etdikçe o kadar dilḫūn olmaktadır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/dilhun
+
+**TDK** — köken kaydı: Farsça dil + ḫūn · anlam: İçi kan ağlayan, çok üzüntülü (kimse)
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives` **her zaman dizidir**. Akraba kelime yoksa `null` değil `[]`
+  yaz. `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "lalezar",
+    "word": "lalezar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "lālezār", "meaning": "lale bahçesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lalezar", "meaning": "lale yetiştirilen bahçe", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Lalelerin yetiştirildiği bahçe.",
+    "currentMeaning": "Lale yetiştirmeye ayrılmış yer veya bahçe.",
+    "story": "Farsçada lālezār, tek bir çiçeği değil, lalelerin yetiştiği bir bahçeyi adlandırır. Türkçeye geçerken bu bahçe görüntüsünü korumuş; çiçeğin kendisinden çok ona ayrılan yeri anlatmıştır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lalezar", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "lerze",
+    "word": "lerze",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "larz", "meaning": "titreyiş", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "larza", "meaning": "titreme, sarsılma", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "lerze", "meaning": "titreme", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Vücudun veya bir uzvun titremesi.",
+    "currentMeaning": "Bedenin ya da bir bölümünün istemsizce titremesi.",
+    "story": "Farsçadaki larz, bedenin veya bir nesnenin titreyişini anlatan bir tabandır. Ondan türeyen larza, Türkçeye lerze biçiminde taşınmıştır. Eski kullanımlarda korkuyla sarsılan beden, kelimenin anlattığı hareketi göz önüne getirir.",
+    "firstAttestation": {"source": "Hayalî — Ravzatü'l-envâr", "period": "1449", "form": "lerze"},
+    "relatives": [
+      {"word": "lerzan", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "lerze maddesi", "url": "https://www.nisanyansozluk.com/kelime/lerze"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "lerze", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nahoş",
+    "word": "nahoş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫʷaş", "meaning": "hoş, güzel", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nāḫʷaş", "meaning": "hoş olmayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nahoş", "meaning": "hoşa gitmeyen, kötü", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Hoş karşılanmayan, kötü veya çirkin.",
+    "currentMeaning": "İnsanda hoş bir duygu uyandırmayan; kötü, çirkin veya rahatsız edici.",
+    "story": "Farsçada hoşluğu anlatan ḫʷaş, başına gelen nā- ile tersine çevrilir. Böylece güzel veya hoş bulunanın karşısına, insana iyi gelmeyen nāḫʷaş çıkar. Türkçedeki nahoş da bu olumsuzluğu koruyarak rahatsızlık veren şeyleri niteler.",
+    "firstAttestation": {"source": "Edib Ahmed — Atebet-ül Hakayık", "period": "<1250?", "form": "nā-ḫoşı"},
+    "relatives": [
+      {"word": "hoş", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nahoş maddesi", "url": "https://www.nisanyansozluk.com/kelime/naho%C5%9F"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nahoş", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meh",
+    "word": "meh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "meh", "meaning": "ay", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "meh", "meaning": "ay", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Gökteki Ay için kullanılan ad.",
+    "currentMeaning": "Dünya'nın doğal uydusu olan Ay.",
+    "story": "Farsçadaki meh, bakışı gökteki Ay'a yöneltir. Türkçeye de aynı gök cismini adlandırarak geçmiş, ay kelimesinin yanında kullanılan bir başka ad olmuştur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "meh", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "merdüm",
+    "word": "merdüm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "mart-tōhm", "meaning": "insan soyu, insanoğlu", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "martōm", "meaning": "kişi, birey, bebek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "mardum", "meaning": "insan; göz bebeği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "merdüm", "meaning": "insan; göz bebeği", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "İnsan veya göz bebeği.",
+    "currentMeaning": "İnsan, kişi; ayrıca gözün ortasındaki göz bebeği.",
+    "story": "Kelimenin en eski halkası, insanı bir soyun tohumu olarak anlatan ve yeniden kurulmuş mart-tōhm biçimidir. Orta Farsçadaki martōm, bu geniş soy düşüncesinden tek bir kişiye, hatta bebeğe uzanır. Farsça mardum aşamasında insanın yanında göz bebeği de adlandırılır; Türkçedeki merdüm bu iki kullanımı birlikte taşır.",
+    "firstAttestation": {"source": "Latifî — Tezkîretü'ş-Şuarâ", "period": "1546", "form": "merdüm"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "merdüm maddesi", "url": "https://www.nisanyansozluk.com/kelime/merd%C3%BCm"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "saye",
+    "word": "saye",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "sāyag", "meaning": "gölge", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sāya", "meaning": "gölge; güçlü birinin himayesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "saye", "meaning": "gölge", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyin ışığı kesmesiyle oluşan gölge.",
+    "currentMeaning": "Işığın engellenmesiyle oluşan karanlık alan; gölge.",
+    "story": "Orta Farsçadaki sāyag, bir şeyin ardında kalan gölgeyi adlandırıyordu. Farsça sāya, bu somut görüntüyü güçlü birinin koruyuculuğuna da taşıdı: birinin gölgesinde bulunmak, onun himayesinde bulunmak oldu. Türkçeye saye olarak geçen kelime, gölgeyi anlatırken eski kullanımlarında bu sığınma düşüncesini de barındırır.",
+    "firstAttestation": {"source": "Erzurumlu Darir — Kıssa-i Yusuf tercümesi", "period": "<1377", "form": "sāyesidür"},
+    "relatives": [
+      {"word": "asaya", "relation": "eş köken"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "saye maddesi", "url": "https://www.nisanyansozluk.com/kelime/saye"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "saye", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müjgân",
+    "word": "müjgân",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "mujgān", "meaning": "kirpik", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "müjgân", "meaning": "kirpik", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Göz kapaklarının kenarında bulunan kirpik.",
+    "currentMeaning": "Göz kapağının kenarında çıkan kıllardan her biri; kirpik.",
+    "story": "Farsça mujgān, göz kapağının kenarını çevreleyen kirpikleri adlandırır. Türkçeye müjgân biçiminde taşınırken gözle kurduğu somut bağı korumuş, kirpik için kullanılan bir başka söz olmuştur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "müjgân", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nalan",
+    "word": "nalan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "nālān", "meaning": "inleyen", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nalan", "meaning": "inleyen", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "İnleme sesi çıkaran.",
+    "currentMeaning": "İnleyen veya inleme özelliği gösteren.",
+    "story": "Farsçadaki nālān, bir duygunun sessizce yaşanmasından çok, inleme olarak duyulmasını öne çıkarır. Türkçedeki nalan da bu sesli dışavurumu korur ve inleyen kişiyi ya da varlığı niteler.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nalan", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "navek",
+    "word": "navek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "nāvek", "meaning": "ok", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "navek", "meaning": "ok", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Yayla atılan ok.",
+    "currentMeaning": "Bir yay aracılığıyla fırlatılan, sivri uçlu atış aracı; ok.",
+    "story": "Farsçadaki nāvek, yaydan çıkan oku adlandırır. Türkçeye navek olarak geçerken aynı nesneyi göstermeyi sürdürmüş, okun başka bir adı olarak yerleşmiştir.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "navek maddesi", "url": "https://lugatim.com/s/navek"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sipihr",
+    "word": "sipihr",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "peo",
+    "chain": [
+      {"language": "peo", "form": "spis̱rah", "meaning": "gökyüzü", "period": null, "reconstructed": true},
+      {"language": "pal", "form": "spihr", "meaning": "gökyüzü", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "sipihr", "meaning": "gökyüzü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sipihr", "meaning": "gökyüzü", "period": "16. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yeryüzünün üzerinde uzanan gök.",
+    "currentMeaning": "Gökyüzü, gök.",
+    "story": "Kelimenin geçmişi, Eski Farsça için yeniden kurulan spis̱rah biçimine kadar uzanır. Orta Farsçada spihr, Farsçada sipihr olurken işaret ettiği gökyüzü değişmez. Türkçeye de başın üzerinde uzanan bu göğün adı olarak geçmiştir.",
+    "firstAttestation": {"source": "Latifî — Tezkîretü'ş-Şuarâ", "period": "1546", "form": "sipihr"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Gökyüzünü adlandıran sipihr, Türk müziğinde bir makamın da adıdır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sipihr maddesi", "url": "https://www.nisanyansozluk.com/kelime/sipihr"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nadan",
+    "word": "nadan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "dān", "meaning": "bilen", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nādān", "meaning": "bilmeyen, cahil", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nadan", "meaning": "bilgiden yoksun, cahil", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bilgisi olmayan, cahil.",
+    "currentMeaning": "Bilgiden yoksun olan, cahil kimseyi niteleyen söz.",
+    "story": "Farsçadaki dān, bilen kişiyi anlatır. Önüne gelen nā- bu niteliği olumsuzlar ve ortaya bilmeyen kişiyi gösteren nādān çıkar. Türkçe nadan, bu karşıtlığı koruyarak bilgisizliği bir kişinin niteliği olarak dile getirir.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "nādān"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nadan maddesi", "url": "https://www.nisanyansozluk.com/kelime/nadan"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nadan", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nigehban",
+    "word": "nigehban",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bān", "meaning": "koruyan, gözeten", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nikāh/nigah", "meaning": "bakış, bakma", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nigahbān", "meaning": "bekleyen, gözeten kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nigehban", "meaning": "bekçi, gözetici", "period": "15. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Birini veya bir yeri gözetip koruyan kişi.",
+    "currentMeaning": "Koruma ve gözetme görevini üstlenen kimse; bekçi veya bakıcı.",
+    "story": "Farsçada bakışı anlatan nigah ile koruyuculuğu belirten bān birleşir. Bu birleşimde bakmak, bir şeyi yalnızca görmekten çıkıp gözünü onun üzerinde tutmaya dönüşür. Türkçeye geçen nigehban da bu dikkatli bakışın sahibini, yani gözetip koruyan kişiyi adlandırır.",
+    "firstAttestation": {"source": "Ömer b. Mezîd — Mecmuatü'n-nezâir", "period": "1437", "form": "nigeh-bān"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nigehban maddesi", "url": "https://www.nisanyansozluk.com/kelime/nigehban"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nikbin",
+    "word": "nikbin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "bīn", "meaning": "gören", "period": null, "reconstructed": false},
+      {"language": "pal", "form": "nēvak/nīyak", "meaning": "iyi, güzel", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "nīk", "meaning": "iyi, güzel", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nikbin", "meaning": "iyimser", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Olayların iyi yanını gören, iyimser.",
+    "currentMeaning": "Olayları olumlu değerlendiren ve iyi sonuçlar bekleyen.",
+    "story": "Farsçadaki nīk, iyiyi ve güzeli; bīn ise göreni anlatır. Nīk unsurunun geçmişinde Orta Farsçadaki nēvak ve nīyak biçimleri bulunur. İyiyi görmek düşüncesi, Türkçedeki nikbinde olaylara umutla bakan kişinin niteliğine dönüşür.",
+    "firstAttestation": {"source": "Tıngır & Sinapian — Istılahat Lugati", "period": "1892", "form": "nīkbīn"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "nikbin maddesi", "url": "https://www.nisanyansozluk.com/kelime/nikbin"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "nikbin", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nümayan",
+    "word": "nümayan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "numūden", "meaning": "görünmek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "numāyān", "meaning": "göz önünde olan, açık", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "nümayan", "meaning": "görünen, açıkça belli olan", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Göz önünde olan, açıkça görünen.",
+    "currentMeaning": "Görülebilen, ortada bulunan veya açıkça belli olan.",
+    "story": "Farsçadaki numūden, bir şeyin görünmesini anlatan eylemdir. Bu eylemden oluşan numāyān, artık göz önünde bulunan şeyi niteler. Türkçedeki nümayan da görünür olma düşüncesini korur ve bir şeyin açıklığını, ortada oluşunu vurgular.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "nümayan maddesi", "url": "https://lugatim.com/s/n%C3%BCmayan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "peykan",
+    "word": "peykan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "peykān", "meaning": "okun sivri demir ucu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "peykan", "meaning": "okun sivri demir ucu", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Okun ucuna takılan sivri demir parça.",
+    "currentMeaning": "Okun hedefe saplanmasını sağlayan sivri demir uç; temren.",
+    "story": "Farsçadaki peykān, okun hedefe ilk değen sivri demir parçasını adlandırır. Türkçeye peykan olarak geçtiğinde de adını bütün oka yaymadan bu uç parçasını göstermeyi sürdürmüştür.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Kubbealtı Lugatı", "ref": "peykan maddesi", "url": "https://lugatim.com/s/peykan"}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "revnak",
+    "word": "revnak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {"language": "pal", "form": "rōşnag", "meaning": "ışık, parlaklık", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "rawnaḳ", "meaning": "parlaklık; güzellik, görkem", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "revnak", "meaning": "parlaklık", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir şeyin parlaklığı.",
+    "currentMeaning": "Parlak olma niteliği, göz alıcı aydınlık.",
+    "story": "Arapçadaki rawnaḳ, ışığın parlaklığını güzellik ve görkem için de kullanır. Bu kelimenin gerisinde Orta Farsçada ışığı anlatan rōşnag bulunabilir; ancak bu bağlantı kesin değildir. Türkçeye Arapçadan geçen revnak, bir şeyin göz alan parlaklığını adlandırır.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "revnaḳı"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Arapça rawnaḳ ile Orta Farsça rōşnag arasındaki köken bağlantısını tahmine dayalı veya tartışmalı olarak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "revnak maddesi", "url": "https://www.nisanyansozluk.com/kelime/revnak"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "revnak", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gülşen",
+    "word": "gülşen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "+şan", "meaning": "yer bildiren ek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "gul", "meaning": "çiçek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "gulşan", "meaning": "güllerin veya çiçeklerin bulunduğu bahçe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "gülşen", "meaning": "gül bahçesi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Güllerin yetiştiği bahçe.",
+    "currentMeaning": "Gül yetiştirilen, güllerle bezeli bahçe.",
+    "story": "Farsçadaki gul, çiçeği adlandırırken yanına gelen +şan onu bir yer adına dönüştürür. Böylece tek bir çiçekten, çiçeklerin toplandığı bahçeye geçilir. Farsçada gülleri veya başka çiçekleri barındırabilen bu bahçe, Türkçedeki gülşende gül bahçesi olarak karşılık bulur.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "gülşen"},
+    "relatives": [
+      {"word": "gül", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "gülşen maddesi", "url": "https://www.nisanyansozluk.com/kelime/g%C3%BCl%C5%9Fen"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "gülşen", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pervane",
+    "word": "pervane",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "vān", "meaning": "kanat", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "par", "meaning": "kanat", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "parvāna", "meaning": "tüy, yaprak, gece kelebeği", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "pervane", "meaning": "gece ışık etrafında uçan küçük kelebek", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Geceleri ışığın çevresinde uçuşan küçük kelebek.",
+    "currentMeaning": "Gece ortaya çıkan ve ışık çevresinde dönen küçük kelebek.",
+    "story": "Farsçadaki parvāna, tüy ve yaprağın yanında gece kelebeğini de adlandırır. İçindeki par kanadı anlatır; vān ile kurulduğu düşünülen birleşimin ayrıntısı ise kesin değildir. Türkçede ışığın çevresinde uçuşan kelebeğin adı olan pervane, bu kanatlı canlı görüntüsünü korur.",
+    "firstAttestation": {"source": "Aşık Paşa — Garib-name", "period": "1330", "form": "pervānedür"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, pervanenin yapısındaki vān unsurunu muhtemel bir birleşik sözcük bileşeni olarak gösterir."
+    ],
+    "funFact": "Pervane, 19. yüzyılda saatteki dönen bir parçayı adlandırmak için de kullanılıyordu.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "pervane maddesi", "url": "https://www.nisanyansozluk.com/kelime/pervane"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "pervane", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "rindane",
+    "word": "rindane",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "zarf",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "rindāne", "meaning": "rintçe", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "rindane", "meaning": "rintçe", "period": null, "reconstructed": false}
+    ],
+    "shortMeaning": "Bir rint gibi davranarak.",
+    "currentMeaning": "Rinte özgü bir tutumla, rintçe.",
+    "story": "Farsçadaki rindāne, bir rintin tavrını davranışa taşır. Türkçeye geçtiğinde de bir kişinin ne yaptığından çok, yaptığı işi nasıl bir tutumla gerçekleştirdiğini anlatır.",
+    "firstAttestation": null,
+    "relatives": [
+      {"word": "rint", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "rindane", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "dilhun",
+    "word": "dilhun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {"language": "fa", "form": "ḫūn", "meaning": "kan", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dil", "meaning": "yürek", "period": null, "reconstructed": false},
+      {"language": "fa", "form": "dil ḫūn", "meaning": "yüreği kanayan", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "dilhun", "meaning": "derin üzüntü içindeki", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Derin bir üzüntüyle içi yanan.",
+    "currentMeaning": "Çok büyük üzüntü duyan, içten içe acı çeken kimse.",
+    "story": "Farsçada dil yüreği, ḫūn ise kanı adlandırır. Birleştiklerinde kanayan bir yürek görüntüsü doğar ve bu görüntü ağır bir üzüntüyü anlatır. Türkçedeki dilhun da bedensel yaralanmadan çok, kişinin içinde duyduğu derin acıyı niteler.",
+    "firstAttestation": {"source": "Tasvir-i Efkâr — gazete", "period": "1862", "form": "dilḫūn"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "dilhun maddesi", "url": "https://www.nisanyansozluk.com/kelime/dilhun"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "dilhun", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+23,289
