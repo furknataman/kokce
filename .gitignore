@@ -13,3 +13,6 @@ xcuserdata/
 # Swift Package Manager
 .swiftpm/
 Packages/*/.build/
+
+# Codex ham çıktıları (hata ayıklama artığı)
+scripts/batches/*.raw.txt

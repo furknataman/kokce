@@ -1,0 +1,108 @@
+[
+  {
+    "id": "kalem",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "defter",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kitap",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: arc"
+    ]
+  },
+  {
+    "id": "mektup",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sayfa",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "cümle",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kelime",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "harf",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "nokta",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tarih",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "saat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "vakit",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "zaman",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: ira"
+    ]
+  },
+  {
+    "id": "sabah",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "takvim",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "saniye",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "dakika",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "müddet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "mevsim",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sene",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: arc"
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "insan",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "aile",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "akraba",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ahbap",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "misafir",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "davet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ziyaret",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sohbet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "muhabbet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "selam",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: sux"
+    ]
+  },
+  {
+    "id": "merhaba",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "teşekkür",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "cevap",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sual",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "haber",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hikâye",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "masal",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "şaka",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: ar",
+      "formationType tartışmalı ama alternatives boş"
+    ]
+  },
+  {
+    "id": "zevk",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "keyif",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

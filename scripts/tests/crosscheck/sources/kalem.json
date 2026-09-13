@@ -1,0 +1,57 @@
+{
+  "id": "kalem",
+  "word": "kalem",
+  "fetchedAt": "2026-09-13T00:00:00+03:00",
+  "nisanyan": {
+    "found": true,
+    "entries": [
+      {
+        "name": "kalem",
+        "note": null,
+        "chain": [
+          {
+            "relation": "alıntı",
+            "languages": [
+              "Eski Yunanca"
+            ],
+            "romanizedText": "kálamos",
+            "originalText": "κάλαμος",
+            "definition": "kamış"
+          },
+          {
+            "relation": "alıntı",
+            "languages": [
+              "Farsça"
+            ],
+            "romanizedText": "ḳalam",
+            "originalText": "قلم",
+            "definition": "kamış kalem"
+          }
+        ],
+        "histories": [
+          {
+            "date": "1069",
+            "dateSortable": 1069,
+            "source": "Yusuf Hacib",
+            "book": "Kutadgu Bilig",
+            "definition": null,
+            "quote": "lawh u ḳalam"
+          }
+        ],
+        "url": "https://www.nisanyansozluk.com/kelime/kalem"
+      }
+    ]
+  },
+  "tdk": {
+    "found": true,
+    "entries": [
+      {
+        "madde": "kalem",
+        "lisan": "Farsça ḳalem",
+        "meanings": [
+          "Yazı aracı"
+        ]
+      }
+    ]
+  }
+}

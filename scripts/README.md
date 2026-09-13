@@ -8,18 +8,23 @@ kökünden (`koken/`) çalıştırılır.
 | Yol | İşi |
 |---|---|
 | `schema.md` | Kelime veri şeması. Tek doğruluk kaynağı. |
-| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v4**). `{{WORDS}}` yer tutucusu. |
+| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v5**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
 | `prompts/verify_batch.md` | Bağımsız doğrulayıcı prompt'u (v1). `{{ITEMS}}` yer tutucusu. |
+| `fetch_sources.py` | Nişanyan ve TDK kayıtlarını indirir. |
 | `generate_batch.py` | Kelime listesinden parti üretir (`codex exec`). |
+| `crosscheck.py` | Üretilmiş partiyi kaynaklarla programatik karşılaştırır. |
 | `validate_words.py` | Parti dosyasını veya birleşik `words.json`'u doğrular. |
 | `build_words.py` | Partileri + doğrulayıcı kararlarını birleştirip `words.json` yazar. |
 | `wordlist.json` | 550 başlıklık kelime listesi (Codex üretir, elle düzenlenir). |
+| `sources/<id>.json` | Kelimenin Nişanyan + TDK kaydı. `_index.json` özet. |
 | `batches/NN.json` | Üretilmiş parti (çıplak JSON dizi). `NN.raw.txt` ham çıktıdır. |
-| `review/NN.json` | Doğrulayıcı kararları. |
+| `review/NN.json` | LLM/insan doğrulayıcı kararları. |
+| `review/NN.auto.json` | `crosscheck.py` kararları (`ok` / `check`). |
 | `fixes/NN.json` | `fix` kararı alan maddelerin düzeltilmiş hâlleri. |
 | `log/NN.meta.json` | Parti künyesi: prompt sürümü, model, tarih, istenen kelimeler. |
 | `log/NN.codex.log` | Codex oturum kaydı. |
 | `tests/sample_batch.json` | Doğrulayıcının kendi kendine testi. |
+| `tests/crosscheck/` | Çapraz denetimin kendi kendine testi. |
 
 ## Akış
 
@@ -35,7 +40,32 @@ kökünden (`koken/`) çalıştırılır.
 Prompt v4 modele ipucunu **doğrulamasını**, kaynakla çelişirse kaynağı esas
 alıp ipucunu yok saymasını, atlanmış ara halkaları eklemesini söyler.
 
-### 2. Üretim
+### 2. Kaynakları indir
+
+```sh
+python3 scripts/fetch_sources.py                  # 550 kelime, ~20 dk
+python3 scripts/fetch_sources.py --only kalem,yüz # tek tek
+python3 scripts/fetch_sources.py --force          # var olanları yenile
+python3 scripts/fetch_sources.py --index-only     # yalnızca özeti yeniden üret
+```
+
+Her kelime bir kez çekilir, `scripts/sources/<id>.json` olarak saklanır, var
+olan dosya `--force` verilmedikçe atlanır. İstekler arası 1 saniye beklenir.
+
+- **Nişanyan:** `api/words/<kelime>?session=0` (`?session=0` zorunlu).
+  Geçici `Internal Error` yanıtında 1,5 saniye arayla 4 kez denenir.
+  Birden çok madde dönebilir; `name` sonundaki rakam atılıp kelimeyle
+  eşleşenler alınır (`yüz2` eşleşir, `yüz-` eşleşmez). Saklananlar:
+  zincir (dil, biçim, anlam, ilişki — **eskiden yeniye çevrilir**),
+  tanıklıklar (tarih, `dateSortable`, eser, alıntı), not, madde bağlantısı.
+- **TDK:** `gts?ara=<kelime>`; bulunursa dizi, bulunmazsa hata nesnesi döner.
+  Saklananlar: `lisan` ve ilk 3 anlam.
+- `%b %i %u` gibi biçim imleri kayıt sırasında temizlenir.
+
+Özet `scripts/sources/_index.json` dosyasındadır: hangi kelimede hangi kaynak
+bulundu.
+
+### 3. Üretim
 
 ```sh
 python3 scripts/generate_batch.py --batch 1            # 1-20. kelimeler
@@ -55,7 +85,14 @@ Prompt `codex exec ... -` ile **stdin'den** verilir, son mesaj `-o` ile
 Diğer seçenekler: `--size` (varsayılan 20), `--model` (varsayılan
 `gpt-6-astra`), `--timeout` (varsayılan 1800 sn), `--wordlist`.
 
-### 3. Doğrulama (programatik)
+Prompt'a `{{SOURCES}}` bölümü eklenir: her kelime için Nişanyan zinciri
+(eskiden yeniye), en eski tanıklıklar, madde notu ve TDK köken kaydı + ilk
+anlam. Prompt v5 bu özetleri **esas** sayar: kaynakla çelişen bilgi yazılmaz,
+kaynak metni kopyalanmaz, özette olmayan tanıklık uydurulmaz, Nişanyan
+belirsizlik bildiriyorsa `formationType` `tartışmalı` olur ve `alternatives`
+doldurulur. Kaynak kaydı bulunamayan kelimelerde eski davranış geçerlidir.
+
+### 4. Doğrulama (programatik)
 
 ```sh
 python3 scripts/validate_words.py --batch scripts/batches/01.json
@@ -70,7 +107,34 @@ kuralları ikisinde de aynıdır.
 `relatives` yalnızca biçim ve ilişki türü açısından denetlenir; akraba
 kelimenin madde başı olması **gerekmez** (kalemtıraş listede olmayabilir).
 
-### 4. Bağımsız doğrulama (Claude)
+### 5. Çapraz denetim (kaynaklara karşı)
+
+```sh
+python3 scripts/crosscheck.py --batch 1
+python3 scripts/crosscheck.py --all
+```
+
+Partiyi `sources/` ile karşılaştırıp `review/NN.auto.json` yazar. Bakılanlar:
+
+- `donorLanguage` ↔ Nişanyan'ın en yakın aktarım halkası ve TDK `lisan`.
+- Zincir halkaları ve sırası ↔ Nişanyan zinciri.
+- `firstAttestation.period` ↔ en küçük `dateSortable` (yüzyıl biçimi aralığa
+  çevrilir), `firstAttestation.source` ↔ eser adı (gevşek eşleşme).
+- Nişanyan belirsizlik bildiriyorsa `formationType` `tartışmalı` mı,
+  `alternatives` dolu mu.
+- `sources` içindeki Nişanyan bağlantısı doğru mu.
+
+İki nokta önemli: Nişanyan'ın **`eşkökenlilik`** ilişkili adımları sözcüğün
+geçtiği yolu değil başka dillerdeki akrabalarını gösterir, zincir
+karşılaştırmasına girmez. Ardışık aynı dil adımları (Arapça kök + Arapça
+sözcük) teke indirilir.
+
+Kaynak kaydı olmayan madde her zaman `check` olur; denetlenemeyen şey
+onaylanmış sayılmaz. Eşlenemeyen bir dil adı da `check` sebebidir ve adı
+raporlanır; `crosscheck.py` içindeki `SOURCE_LANG` sözlüğüne eklenerek
+kapatılır.
+
+### 6. Bağımsız doğrulama (Claude)
 
 `prompts/verify_batch.md` içindeki `{{ITEMS}}` yerine partinin maddeleri
 konur, bağımsız bir Claude oturumunda çalıştırılır. Çıktı
@@ -83,7 +147,7 @@ konur, bağımsız bir Claude oturumunda çalıştırılır. Çıktı
 `fix` kararı alan maddelerin düzeltilmiş hâli `fixes/NN.json` içine konur;
 eşleştirme sıraya göre değil **id'ye göre** yapılır.
 
-### 5. Birleştirme
+### 7. Birleştirme
 
 ```sh
 python3 scripts/build_words.py
@@ -97,9 +161,17 @@ Karar işleyişi:
 - `fix` → `fixes/` içindeki aynı id'li madde alınır, `reviewed: true`.
   Düzeltme yoksa madde atlanır ve uyarı basılır.
 - `drop` → madde atılır, `schedule.ids` içinden de çıkarılır.
-- **Karar yok** → madde alınır, `reviewed: false` yazılır ve sayısı raporlanır.
+- **Karar yok, `NN.auto.json`'da `ok`** → madde alınır, `reviewed: true`.
+  Programatik çapraz denetim bu durumda insan/LLM incelemesinin yerine geçer.
+- **Karar yok, `NN.auto.json`'da `check` ya da kayıt yok** → madde alınır,
+  `reviewed: false` yazılır ve sayısı raporlanır.
   Yayın öncesi bu sayının **sıfır** olması beklenir; `--strict-reviewed` bu
   maddeleri tamamen dışarıda bırakır.
+
+`review/NN.json` kaydı her zaman `review/NN.auto.json` kaydından **önce
+gelir**. Bu, yayınlanan dosyadaki `reviewed: true` değerinin anlamını
+genişletir: madde ya insan/LLM incelemesinden ya da programatik çapraz
+denetimden geçmiştir.
 
 `schedule.ids` mevcut `words.json` sırasını korur, düşen id'leri atar, yeni
 id'leri sabit tohumla (`random.Random(2026)`) karıştırıp **sona** ekler.
@@ -108,11 +180,20 @@ id'leri sabit tohumla (`random.Random(2026)`) karıştırıp **sona** ekler.
 kullanılan kodlar için üretilir. Yazımdan sonra doğrulama otomatik çalışır
 (`--no-validate` ile kapatılır).
 
-## Kendi kendine test
+## Kendi kendine testler
 
 ```sh
 python3 scripts/validate_words.py --batch scripts/tests/sample_batch.json
+
+python3 scripts/crosscheck.py --batch 1 \
+  --batches-dir scripts/tests/crosscheck/batches \
+  --sources-dir scripts/tests/crosscheck/sources \
+  --review-dir /tmp/koken-test
 ```
+
+İkinci test, Nişanyan'ın Farsça dediği yerde `donorLanguage: "ar"` yazan bir
+maddeyi kullanır; çıktı `check` olmalı ve sebeplerden biri
+`donorLanguage ar kaynakla uyuşmuyor (kaynak: fa)` olmalıdır.
 
 Örnek parti 3 geçerli (`kalem`, `ısırgan`, `hikâye`) ve 1 hatalı (`Yoğurt`) madde
 içerir; hatalı maddeden 9 hata beklenir ve çıkış kodu `1` olur.

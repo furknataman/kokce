@@ -190,10 +190,12 @@ ISO 639 temellidir; ISO'da karşılığı olmayan üç kod projeye özeldir
 | `az` | Azerbaycan Türkçesi |
 | `ug` | Uygurca |
 | `ar` | Arapça |
+| `xsa` | Eski Güney Arapça |
 | `fa` | Farsça |
 | `pal` | Pehlevice |
 | `peo` | Eski Farsça |
 | `ae` | Avestaca |
+| `ira` | Ana İranca |
 | `sog` | Soğdca |
 | `ku` | Kürtçe |
 | `fr` | Fransızca |
@@ -242,6 +244,7 @@ değeri **`true`** olmalıdır; biçimin başına `*` konmaz.
 | `sla` | Slav ana dili |
 | `sem` | Sami ana dili |
 | `trk` | Ana Türkçe |
+| `ira` | Ana İranca |
 
 ### Ara (aktarıcı) diller
 

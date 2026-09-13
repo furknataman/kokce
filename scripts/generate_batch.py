@@ -29,6 +29,10 @@ ROOT_DIR = os.path.dirname(SCRIPTS_DIR)
 BATCHES_DIR = os.path.join(SCRIPTS_DIR, "batches")
 LOG_DIR = os.path.join(SCRIPTS_DIR, "log")
 PROMPT_PATH = os.path.join(SCRIPTS_DIR, "prompts", "generate_batch.md")
+SOURCES_DIR = os.path.join(SCRIPTS_DIR, "sources")
+NOTE_MAX = 400      # prompt'u şişirmemek için kırpma sınırları
+QUOTE_MAX = 220
+HISTORY_MAX = 3
 WORDLIST_CANDIDATES = ["wordlist.json", "wordlist.raw.json"]
 DEFAULT_MODEL = "gpt-6-astra"
 DEFAULT_SIZE = 20
@@ -103,7 +107,98 @@ def build_prompt(template, entries):
             lines.append("%d. %s — ipucu: %s" % (i, word, hint))
         else:
             lines.append("%d. %s" % (i, word))
-    return template.replace("{{WORDS}}", "\n".join(lines))
+    prompt = template.replace("{{WORDS}}", "\n".join(lines))
+    if "{{SOURCES}}" in prompt:
+        prompt = prompt.replace(
+            "{{SOURCES}}", build_sources_block([w for w, _h in entries]))
+    return prompt
+
+
+def _cut(text, limit):
+    if not text:
+        return None
+    text = text.strip()
+    return text if len(text) <= limit else text[:limit].rstrip() + "…"
+
+
+def load_source_record(word):
+    path = os.path.join(SOURCES_DIR, "%s.json" % slugify_id(word))
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path, encoding="utf-8") as handle:
+            return json.load(handle)
+    except (OSError, ValueError):
+        return None
+
+
+def render_source(word, record):
+    """Tek kelimenin kaynak özetini markdown olarak üretir."""
+    out = ["### %s" % word]
+    nis = (record or {}).get("nisanyan") or {}
+    tdk = (record or {}).get("tdk") or {}
+    if not nis.get("found") and not tdk.get("found"):
+        out.append("")
+        out.append("Kaynak kaydı bulunamadı. Bu kelimede genel kurallar geçerlidir: "
+                   "bildiğini yaz, bilmediğine `null` koy, uydurma.")
+        return "\n".join(out)
+
+    for entry in nis.get("entries") or []:
+        out.append("")
+        out.append("**Nişanyan — %s**" % entry.get("name", word))
+        chain = entry.get("chain") or []
+        if chain:
+            out.append("")
+            out.append("Zincir (eskiden yeniye):")
+            for step in chain:
+                langs = " / ".join(step.get("languages") or []) or "?"
+                form = step.get("romanizedText") or step.get("originalText") or "?"
+                meaning = step.get("definition") or ""
+                relation = step.get("relation")
+                line = "- %s › %s" % (langs, form)
+                if meaning:
+                    line += " › %s" % meaning
+                if relation:
+                    line += "  [%s]" % relation
+                out.append(line)
+        histories = entry.get("histories") or []
+        if histories:
+            out.append("")
+            out.append("Tanıklıklar (eskiden yeniye):")
+            for hist in histories[:HISTORY_MAX]:
+                bits = [hist.get("date") or "?"]
+                who = " — ".join(x for x in (hist.get("source"), hist.get("book")) if x)
+                if who:
+                    bits.append(who)
+                out.append("- %s" % ", ".join(bits))
+                quote = _cut(hist.get("quote"), QUOTE_MAX)
+                if quote:
+                    out.append("  > %s" % quote)
+        note = _cut(entry.get("note"), NOTE_MAX)
+        if note:
+            out.append("")
+            out.append("Not: %s" % note)
+        if entry.get("url"):
+            out.append("")
+            out.append("Bağlantı: %s" % entry["url"])
+
+    for entry in (tdk.get("entries") or [])[:1]:
+        out.append("")
+        bits = []
+        if entry.get("lisan"):
+            bits.append("köken kaydı: %s" % entry["lisan"])
+        meanings = entry.get("meanings") or []
+        if meanings:
+            bits.append("anlam: %s" % meanings[0])
+        out.append("**TDK** — %s" % " · ".join(bits) if bits else "**TDK** — kayıt var")
+    return "\n".join(out)
+
+
+def build_sources_block(words):
+    blocks = []
+    for word in words:
+        blocks.append(render_source(word, load_source_record(word)))
+    return "\n\n".join(blocks)
 
 
 def extract_json_array(text):

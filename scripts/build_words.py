@@ -93,9 +93,11 @@ def load_batches(directory):
 
 
 def load_reviews(directory):
-    """id → (verdict, objections) sözlüğü."""
+    """id → (verdict, objections) sözlüğü. NN.auto.json dosyaları hariç."""
     verdicts = {}
     for path in sorted(glob.glob(os.path.join(directory, "*.json"))):
+        if path.endswith(".auto.json"):
+            continue
         for entry in _as_list(load_json(path), path):
             if not isinstance(entry, dict):
                 continue
@@ -112,6 +114,20 @@ def load_reviews(directory):
     return verdicts
 
 
+def load_auto_reviews(directory):
+    """crosscheck.py kararları: id → verdict ("ok" | "check")."""
+    verdicts = {}
+    for path in sorted(glob.glob(os.path.join(directory, "*.auto.json"))):
+        for entry in _as_list(load_json(path), path):
+            if not isinstance(entry, dict):
+                continue
+            wid = entry.get("id")
+            verdict = entry.get("verdict")
+            if isinstance(wid, str) and wid.strip() and verdict in ("ok", "check"):
+                verdicts[nfc(wid.strip())] = verdict
+    return verdicts
+
+
 def load_fixes(directory):
     """id → düzeltilmiş madde."""
     fixes = {}
@@ -122,10 +138,14 @@ def load_fixes(directory):
     return fixes
 
 
-def merge(items, verdicts, fixes, strict_reviewed):
-    """Kararları uygular. (id, madde) listesi ve sayaçları döner."""
+def merge(items, verdicts, auto_verdicts, fixes, strict_reviewed):
+    """Kararları uygular. (id, madde) listesi ve sayaçları döner.
+
+    review/NN.json kaydı her zaman review/NN.auto.json kaydından önce gelir.
+    """
     kept = []
-    stats = {"ok": 0, "fix": 0, "drop": 0, "unreviewed": 0, "missing_fix": 0}
+    stats = {"ok": 0, "fix": 0, "drop": 0, "auto": 0, "unreviewed": 0,
+             "missing_fix": 0}
     for wid, item in items:
         verdict, _objections = verdicts.get(wid, (None, []))
         if verdict == "drop":
@@ -145,6 +165,11 @@ def merge(items, verdicts, fixes, strict_reviewed):
             item = dict(item)
             item["reviewed"] = True
             stats["ok"] += 1
+        elif auto_verdicts.get(wid) == "ok":
+            # Programatik çapraz denetimden geçti, insan/LLM kaydı yok.
+            item = dict(item)
+            item["reviewed"] = True
+            stats["auto"] += 1
         else:
             if strict_reviewed:
                 stats["unreviewed"] += 1
@@ -215,9 +240,11 @@ def main(argv=None):
     if not items:
         raise SystemExit("%s içinde parti dosyası yok." % args.batches_dir)
     verdicts = load_reviews(args.review_dir)
+    auto_verdicts = load_auto_reviews(args.review_dir)
     fixes = load_fixes(args.fixes_dir)
 
-    kept, stats = merge(items, verdicts, fixes, args.strict_reviewed)
+    kept, stats = merge(items, verdicts, auto_verdicts, fixes,
+                        args.strict_reviewed)
     if not kept:
         raise SystemExit("Hiçbir madde kalmadı, dosya yazılmadı.")
 
@@ -249,9 +276,10 @@ def main(argv=None):
         handle.write("\n")
 
     print("Parti dosyası: %d · madde: %d" % (len(batch_paths), len(items)))
-    print("ok: %d · fix: %d · drop: %d · kararsız: %d · eksik düzeltme: %d"
-          % (stats["ok"], stats["fix"], stats["drop"], stats["unreviewed"],
-             stats["missing_fix"]))
+    print("ok: %d · fix: %d · drop: %d · otomatik: %d · kararsız: %d · "
+          "eksik düzeltme: %d"
+          % (stats["ok"], stats["fix"], stats["drop"], stats["auto"],
+             stats["unreviewed"], stats["missing_fix"]))
     if stats["unreviewed"] and not args.strict_reviewed:
         print("Uyarı: %d madde doğrulayıcıdan geçmedi, reviewed: false olarak "
               "yazıldı." % stats["unreviewed"], file=sys.stderr)

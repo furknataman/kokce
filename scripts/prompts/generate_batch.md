@@ -1,4 +1,4 @@
-# Köken — Üretim Prompt'u (v4)
+# Köken — Üretim Prompt'u (v5)
 
 Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
 bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
@@ -12,8 +12,35 @@ Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
 
 {{WORDS}}
 
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük ve TDK Güncel Türkçe Sözlük
+kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
+
+{{SOURCES}}
+
 ## Katı kurallar
 
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - Nişanyan ilişki alanında **"tahmine dayalı"**, **"tartışmalı"**,
+     **"belirsiz"** veya benzeri bir kayıt varsa `formationType` değerini
+     `"tartışmalı"` yap ve `alternatives` dizisini doldur.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
 1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
    markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
    karakter `]` olsun.
@@ -171,8 +198,8 @@ Her nesne tam olarak şu alanları içerir:
 
 `tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
 Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
-`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `fa` Farsça ·
-`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `sog` Soğdca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
 `ku` Kürtçe · `fr` Fransızca · `grc` Eski Yunanca · `el` Yunanca ·
 `it` İtalyanca · `en` İngilizce · `la` Latince · `de` Almanca · `ru` Rusça ·
 `mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
