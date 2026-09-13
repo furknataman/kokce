@@ -8,7 +8,7 @@ kökünden (`koken/`) çalıştırılır.
 | Yol | İşi |
 |---|---|
 | `schema.md` | Kelime veri şeması. Tek doğruluk kaynağı. |
-| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v5**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
+| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v6**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
 | `prompts/verify_batch.md` | Bağımsız doğrulayıcı prompt'u (v1). `{{ITEMS}}` yer tutucusu. |
 | `fetch_sources.py` | Nişanyan ve TDK kayıtlarını indirir. |
 | `generate_batch.py` | Kelime listesinden parti üretir (`codex exec`). |
@@ -33,7 +33,13 @@ kökünden (`koken/`) çalıştırılır.
 `scripts/wordlist.json` beklenir (550 kelime); yoksa
 `scripts/wordlist.raw.json` kullanılır. Kabul edilen biçimler:
 `{"words": [...]}` veya çıplak dizi; öğeler ya düz metin ya da
-`{"word": "kalem", "originHint": "ar<grc"}` nesnesi olabilir.
+`{"word": "kalem", "originHint": "ar<grc", "rarity": "gündelik"}` nesnesi
+olabilir.
+
+`rarity` (`gündelik` | `az-bilinen`) **kelime listesinin verisidir, model
+üretmez**. Prompt'taki kelime satırına yazılır, üretim çıktısına doğrudan
+enjekte edilir ve modelin yazdığı değer ne olursa olsun listedeki değerle
+değiştirilir.
 
 `originHint` prompt'a kelimenin yanında ipucu olarak geçirilir
 (`1. kalem — ipucu: ar<grc`) ve künyeye `originHints` altında yazılır.
@@ -71,7 +77,12 @@ bulundu.
 python3 scripts/generate_batch.py --batch 1            # 1-20. kelimeler
 python3 scripts/generate_batch.py --batch 1 --dry-run  # codex çağırmaz, prompt'u basar
 python3 scripts/generate_batch.py --all                # tüm partiler, var olanları atlar
+python3 scripts/generate_batch.py --rarity-from-wordlist  # tek seferlik onarım
 ```
+
+`--rarity-from-wordlist` üretim yapmaz: var olan tüm parti dosyalarını gezip
+`rarity` alanını kelime listesinden yazar. `rarity` alanı hattın ortasında
+eklendiği için eski partileri düzeltmek üzere yazılmıştır.
 
 Parti numaraları **1 tabanlıdır**: `--batch 1` listenin 1-20, `--batch 2`
 21-40. aralığıdır. Dosya adları iki hanelidir (`01.json`). Var olan bir parti
@@ -174,7 +185,11 @@ genişletir: madde ya insan/LLM incelemesinden ya da programatik çapraz
 denetimden geçmiştir.
 
 `schedule.ids` mevcut `words.json` sırasını korur, düşen id'leri atar, yeni
-id'leri sabit tohumla (`random.Random(2026)`) karıştırıp **sona** ekler.
+id'leri sabit tohumla (`random.Random(2026)`) karıştırıp **sona** ekler. Yeni
+id'ler `rarity` değerine göre ikiye ayrılıp oranlarına göre serpiştirilir:
+ilk gün `gündelik` bir kelimedir, aynı türden en fazla iki gün üst üste gelir,
+fazlalık sona yığılmaz. Düzeltme dosyasında `rarity` yoksa parti dosyasındaki
+değer korunur.
 `schedule.start` var olan dosyadan alınır; dosya yoksa `2026-10-01`.
 `contentVersion` her çalıştırmada +1. `languages` sözlüğü şemadan, yalnızca
 kullanılan kodlar için üretilir. Yazımdan sonra doğrulama otomatik çalışır
@@ -196,7 +211,7 @@ maddeyi kullanır; çıktı `check` olmalı ve sebeplerden biri
 `donorLanguage ar kaynakla uyuşmuyor (kaynak: fa)` olmalıdır.
 
 Örnek parti 3 geçerli (`kalem`, `ısırgan`, `hikâye`) ve 1 hatalı (`Yoğurt`) madde
-içerir; hatalı maddeden 9 hata beklenir ve çıkış kodu `1` olur.
+içerir; hatalı maddeden 11 hata beklenir ve çıkış kodu `1` olur.
 
 ## Yeni dil kodu eklemek
 

@@ -31,7 +31,7 @@ Anahtar sırası yukarıdaki gibidir (`sort_keys` kullanılmaz).
 | Alan | Tip | Açıklama |
 |---|---|---|
 | `start` | string | `YYYY-MM-DD`. İlk kelimenin gösterileceği gün. Varsayılan `"2026-10-01"`. Bir kez belirlenir, **değiştirilmez**. |
-| `ids` | dizi | Benzersiz kelime id'leri. `words` içindeki id kümesine **eşit** olmalıdır. Sıra korunur; yeni id'ler yalnızca **sona** eklenir. |
+| `ids` | dizi | Benzersiz kelime id'leri. `words` içindeki id kümesine **eşit** olmalıdır. Sıra korunur; yeni id'ler yalnızca **sona** eklenir, `rarity` değerine göre dönüşümlü serpiştirilerek. |
 
 Günün kelimesi: `index = gün_farkı(start, bugün) % ids.count`, takvim Gregoryen,
 saat dilimi `Europe/Istanbul`.
@@ -57,6 +57,7 @@ kök nesne sarmalayıcısı yoktur.
 |---|---|---|---|
 | `id` | string | hayır | Bkz. "id kuralı". |
 | `word` | string | hayır | Madde başı, küçük harfle, tekil, yalın hâl. |
+| `rarity` | string | hayır | `"gündelik"` veya `"az-bilinen"`. Kaynağı kelime listesidir, model üretmez. |
 | `partOfSpeech` | string | hayır | İzinli değerler aşağıda. |
 | `formationType` | string | hayır | İzinli değerler aşağıda. |
 | `donorLanguage` | string (dil kodu) | evet (`null`) | Türkçeye **doğrudan** veren dil. Öz Türkçe/yansıma maddelerde `null`. |
@@ -136,6 +137,20 @@ Kurallar:
 Kabul edilen kaynaklar: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**,
 **Kubbealtı Lugatı**, **Tietze (Tarihi ve Etimolojik Türkiye Türkçesi Lugatı)**.
 Uydurma kaynak veya uydurma URL maddeyi düşürür.
+
+### `rarity`
+
+Kelimenin gündelik dildeki tanınırlığı. **Model bu alanı üretmez**; değer
+`scripts/wordlist.json` içindeki `rarity` alanından gelir ve
+`scripts/generate_batch.py` tarafından üretim çıktısına doğrudan yazılır.
+
+| Değer | Anlamı |
+|---|---|
+| `gündelik` | Herkesin bildiği, sık kullanılan sözcük. |
+| `az-bilinen` | Tanınan ama seyrek kullanılan ya da kökeni çoğu kişiye yabancı sözcük. |
+
+`schedule.ids` bu alana göre dönüşümlü sıralanır: ardışık günlerde tanıdık ve
+şaşırtıcı kelimeler birbirini izler.
 
 ### `confidence`
 
@@ -271,6 +286,7 @@ içindeki `LANGUAGES` sözlüğüne eklenir; üretim prompt'u tabloyu buradan al
 {
   "id": "kalem",
   "word": "kalem",
+  "rarity": "gündelik",
   "partOfSpeech": "isim",
   "formationType": "alıntı",
   "donorLanguage": "ar",

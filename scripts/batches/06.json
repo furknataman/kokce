@@ -58,7 +58,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "masraf",
@@ -118,7 +119,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "fiyat",
@@ -186,7 +188,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "kıymet",
@@ -239,7 +242,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "zam",
@@ -292,7 +296,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "nakit",
@@ -345,7 +350,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "faiz",
@@ -401,7 +407,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "taksit",
@@ -492,7 +499,8 @@
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "senet",
@@ -552,7 +560,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "makbuz",
@@ -608,7 +617,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "hediye",
@@ -664,7 +674,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "emanet",
@@ -717,7 +728,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "eşya",
@@ -777,7 +789,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "cihaz",
@@ -830,7 +843,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "alet",
@@ -883,7 +897,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "nakil",
@@ -947,7 +962,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "malzeme",
@@ -1009,7 +1025,8 @@
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "hacim",
@@ -1062,7 +1079,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "cisim",
@@ -1119,7 +1137,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "şekil",
@@ -1190,6 +1209,7 @@
       }
     ],
     "confidence": "yüksek",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   }
 ]

@@ -1,4 +1,4 @@
-# Köken — Üretim Prompt'u (v5)
+# Köken — Üretim Prompt'u (v6)
 
 Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
 bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
@@ -7,8 +7,9 @@ programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
 ## Kelimeler
 
 Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
-(`kalem — ipucu: ar<grc`, yani "Arapça yoluyla, en eski halkası Eski Yunanca").
-İpucu kaba bir ön elemeden gelir, **kanıt değildir**.
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. `rarity` ise kesin veridir: satırda ne yazıyorsa
+`rarity` alanına **aynen** onu yaz.
 
 {{WORDS}}
 
@@ -134,6 +135,7 @@ Her nesne tam olarak şu alanları içerir:
 {
   "id": "kalem",
   "word": "kalem",
+  "rarity": "gündelik",
   "partOfSpeech": "isim",
   "formationType": "alıntı",
   "donorLanguage": "ar",
@@ -161,6 +163,8 @@ Her nesne tam olarak şu alanları içerir:
 
 ### Alan kuralları
 
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
 - `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
   `ünlem`, `deyim`.
 - `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,

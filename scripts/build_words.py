@@ -30,7 +30,7 @@ import random
 import sys
 
 from validate_words import (
-    LANGUAGES, SCHEMA_VERSION, collect_languages, nfc, slugify_id,
+    LANGUAGES, RARITY, SCHEMA_VERSION, collect_languages, nfc, slugify_id,
     validate_words_file,
 )
 
@@ -158,7 +158,12 @@ def merge(items, verdicts, auto_verdicts, fixes, strict_reviewed):
                 print("Uyarı: %s için 'fix' kararı var ama scripts/fixes içinde "
                       "düzeltmesi yok, atlandı." % wid, file=sys.stderr)
                 continue
+            original_rarity = item.get("rarity")
             item = dict(fixed)
+            # rarity kelime listesinin verisidir, düzeltmenin değil: düzeltme
+            # dosyası geçerli bir değer taşımıyorsa parti dosyasındaki kalır.
+            if item.get("rarity") not in RARITY and original_rarity in RARITY:
+                item["rarity"] = original_rarity
             item["reviewed"] = True
             stats["fix"] += 1
         elif verdict == "ok":
@@ -203,14 +208,42 @@ def read_existing(path):
     }
 
 
-def build_schedule_ids(previous_ids, current_ids):
-    """Eski sırayı korur, düşenleri atar, yenileri sabit tohumla karıştırıp ekler."""
+def interleave(first, second):
+    """İki listeyi oranlarına göre serpiştirir; ilk öğe `first` listesinden gelir.
+
+    250 gündelik + 300 az-bilinen için sonuç çoğunlukla dönüşümlüdür, fazlalık
+    sona yığılmaz.
+    """
+    out = []
+    la, lb = len(first), len(second)
+    ia = ib = 0
+    while ia < la or ib < lb:
+        take_first = ib >= lb or (ia < la and (ia / la if la else 1) <=
+                                  (ib / lb if lb else 1))
+        if take_first:
+            out.append(first[ia])
+            ia += 1
+        else:
+            out.append(second[ib])
+            ib += 1
+    return out
+
+
+def build_schedule_ids(previous_ids, current_ids, rarity_by_id):
+    """Eski sırayı korur, düşenleri atar, yenileri sabit tohumla karıştırıp ekler.
+
+    Yeni id'ler gündelik ve az-bilinen olarak ayrılıp dönüşümlü serpiştirilir,
+    böylece ardışık günlerde tanıdık ve şaşırtıcı kelimeler birbirini izler.
+    """
     current = set(current_ids)
     kept = [i for i in previous_ids if i in current]
     known = set(kept)
     fresh = [i for i in current_ids if i not in known]
     random.Random(SHUFFLE_SEED).shuffle(fresh)
-    return kept + fresh
+    daily = [i for i in fresh if rarity_by_id.get(i) == "gündelik"]
+    rare = [i for i in fresh if rarity_by_id.get(i) == "az-bilinen"]
+    unknown = [i for i in fresh if rarity_by_id.get(i) not in RARITY]
+    return kept + interleave(daily, rare) + unknown
 
 
 def order_words(kept, previous_order):
@@ -250,7 +283,9 @@ def main(argv=None):
 
     existing = read_existing(args.out)
     current_ids = [wid for wid, _ in kept]
-    schedule_ids = build_schedule_ids(existing["schedule_ids"], current_ids)
+    rarity_by_id = {wid: item.get("rarity") for wid, item in kept}
+    schedule_ids = build_schedule_ids(existing["schedule_ids"], current_ids,
+                                      rarity_by_id)
     words = order_words(kept, existing["order"])
 
     used = collect_languages(words)

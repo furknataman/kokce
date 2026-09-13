@@ -2,6 +2,7 @@
   {
     "id": "kalem",
     "word": "kalem",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -67,6 +68,7 @@
   {
     "id": "ısırgan",
     "word": "ısırgan",
+    "rarity": "az-bilinen",
     "partOfSpeech": "isim",
     "formationType": "türeme",
     "donorLanguage": null,
@@ -112,6 +114,7 @@
   {
     "id": "hikâye",
     "word": "hikâye",
+    "rarity": "gündelik",
     "partOfSpeech": "isim",
     "formationType": "alıntı",
     "donorLanguage": "ar",
@@ -195,6 +198,7 @@
     "funFact": null,
     "sources": [],
     "confidence": "kesin",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "sık"
   }
 ]

@@ -16,13 +16,14 @@ Dosya adları iki hanelidir (01.json, 02.json, ...).
 
 import argparse
 import datetime
+import glob
 import json
 import os
 import re
 import subprocess
 import sys
 
-from validate_words import slugify_id
+from validate_words import RARITY, slugify_id
 
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(SCRIPTS_DIR)
@@ -59,10 +60,10 @@ def find_wordlist(explicit=None):
 
 
 def load_wordlist(path):
-    """(kelime, originHint) çiftlerini döner. İpucu yoksa None.
+    """{"word", "hint", "rarity"} sözlüklerini döner. Bilinmeyen alan None.
 
     Kabul edilen biçimler:
-      {"words": [{"word": "kalem", "originHint": "ar<grc"}, ...]}
+      {"words": [{"word": "kalem", "originHint": "ar<grc", "rarity": "gündelik"}, ...]}
       {"words": ["kalem", ...]}
       [{"word": "kalem"}, ...]  /  ["kalem", ...]
     """
@@ -73,23 +74,25 @@ def load_wordlist(path):
     if not isinstance(data, list):
         raise SystemExit("%s: kelime dizisi bulunamadı." % path)
 
+    def text(value):
+        return value.strip() if isinstance(value, str) and value.strip() else None
+
     words = []
     for item in data:
-        hint = None
         if isinstance(item, str):
-            word = item
+            word, hint, rarity = item, None, None
         elif isinstance(item, dict):
             word = item.get("word") or item.get("kelime")
-            hint = item.get("originHint")
-            if not isinstance(hint, str) or not hint.strip():
-                hint = None
-            else:
-                hint = hint.strip()
+            hint = text(item.get("originHint"))
+            rarity = text(item.get("rarity"))
         else:
-            word = None
+            word = hint = rarity = None
         if not isinstance(word, str) or not word.strip():
             raise SystemExit("%s: geçersiz kelime girdisi: %r" % (path, item))
-        words.append((word.strip(), hint))
+        if rarity is not None and rarity not in RARITY:
+            raise SystemExit("%s: %s için geçersiz rarity: %r"
+                             % (path, word, rarity))
+        words.append({"word": word.strip(), "hint": hint, "rarity": rarity})
     if not words:
         raise SystemExit("%s: kelime listesi boş." % path)
     return words
@@ -102,15 +105,17 @@ def prompt_version(text):
 
 def build_prompt(template, entries):
     lines = []
-    for i, (word, hint) in enumerate(entries, 1):
-        if hint:
-            lines.append("%d. %s — ipucu: %s" % (i, word, hint))
-        else:
-            lines.append("%d. %s" % (i, word))
+    for i, entry in enumerate(entries, 1):
+        line = "%d. %s" % (i, entry["word"])
+        if entry.get("hint"):
+            line += " — ipucu: %s" % entry["hint"]
+        if entry.get("rarity"):
+            line += " — rarity: %s" % entry["rarity"]
+        lines.append(line)
     prompt = template.replace("{{WORDS}}", "\n".join(lines))
     if "{{SOURCES}}" in prompt:
         prompt = prompt.replace(
-            "{{SOURCES}}", build_sources_block([w for w, _h in entries]))
+            "{{SOURCES}}", build_sources_block([e["word"] for e in entries]))
     return prompt
 
 
@@ -267,7 +272,7 @@ def generate(number, words, template, args):
     log_path = os.path.join(LOG_DIR, "%s.codex.log" % tag)
     meta_path = os.path.join(LOG_DIR, "%s.meta.json" % tag)
 
-    if os.path.exists(out_path) and not args.force:
+    if os.path.exists(out_path) and not args.force and not args.dry_run:
         print("%s: zaten var, atlanıyor." % show(out_path))
         return True
 
@@ -277,7 +282,7 @@ def generate(number, words, template, args):
         print("Parti %d: kelime kalmadı." % number, file=sys.stderr)
         return False
 
-    chunk_words = [word for word, _hint in chunk]
+    chunk_words = [e["word"] for e in chunk]
     prompt = build_prompt(template, chunk)
     if args.dry_run:
         print("--- parti %s: %d kelime (%d-%d) ---"
@@ -333,6 +338,9 @@ def generate(number, words, template, args):
         if isinstance(item, dict) and isinstance(item.get("word"), str) \
                 and item["word"].strip():
             item["id"] = slugify_id(item["word"])
+    # rarity modelin kanaati değil, kelime listesinin verisidir: her hâlükârda
+    # listeden yazılır.
+    apply_rarity(items, chunk)
 
     with open(out_path, "w", encoding="utf-8") as handle:
         json.dump(items, handle, ensure_ascii=False, indent=2)
@@ -346,7 +354,8 @@ def generate(number, words, template, args):
         "model": args.model,
         "generatedAt": datetime.datetime.now().astimezone().isoformat(timespec="seconds"),
         "requestedWords": chunk_words,
-        "originHints": {word: hint for word, hint in chunk if hint},
+        "originHints": {e["word"]: e["hint"] for e in chunk if e["hint"]},
+        "rarity": {e["word"]: e["rarity"] for e in chunk if e["rarity"]},
         "requestedCount": len(chunk),
         "returnedCount": len(items),
         "rawFile": show(raw_path),
@@ -361,6 +370,57 @@ def generate(number, words, template, args):
     return True
 
 
+def apply_rarity(items, entries):
+    """rarity alanını kelime listesinden maddelere yazar. Kaç madde değişti döner."""
+    by_id = {}
+    for entry in entries:
+        if entry.get("rarity"):
+            by_id[slugify_id(entry["word"])] = entry["rarity"]
+    changed = missing = 0
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        word = item.get("word") or item.get("id") or ""
+        rarity = by_id.get(slugify_id(word))
+        if rarity is None:
+            missing += 1
+            continue
+        if item.get("rarity") != rarity:
+            item["rarity"] = rarity
+            changed += 1
+    return changed, missing
+
+
+def fix_rarity(batches_dir, entries):
+    """Var olan parti dosyalarına rarity alanını ekler (tek seferlik onarım)."""
+    paths = sorted(glob.glob(os.path.join(batches_dir, "*.json")))
+    if not paths:
+        raise SystemExit("%s içinde parti dosyası yok." % batches_dir)
+    total_changed = total_missing = 0
+    for path in paths:
+        with open(path, encoding="utf-8") as handle:
+            items = json.load(handle)
+        if not isinstance(items, list):
+            print("%s: JSON dizi değil, atlandı." % show(path), file=sys.stderr)
+            continue
+        changed, missing = apply_rarity(items, entries)
+        if changed:
+            with open(path, "w", encoding="utf-8") as handle:
+                json.dump(items, handle, ensure_ascii=False, indent=2)
+                handle.write("\n")
+        total_changed += changed
+        total_missing += missing
+        print("%s: %d madde güncellendi%s"
+              % (show(path), changed,
+                 ", %d madde listede yok" % missing if missing else ""))
+    print("\nToplam %d madde güncellendi." % total_changed)
+    if total_missing:
+        print("%d madde kelime listesinde bulunamadı, rarity yazılmadı."
+              % total_missing, file=sys.stderr)
+        return 1
+    return 0
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(
         description="Köken içerik partisi üretir (codex exec).")
@@ -369,6 +429,9 @@ def main(argv=None):
                        help="Üretilecek parti numarası (1 tabanlı).")
     group.add_argument("--all", action="store_true",
                        help="Tüm partileri sırayla üretir, var olanları atlar.")
+    group.add_argument("--rarity-from-wordlist", action="store_true",
+                       help="Üretim yapmaz; var olan parti dosyalarına rarity "
+                            "alanını kelime listesinden yazar (tek seferlik).")
     parser.add_argument("--wordlist", metavar="DOSYA",
                         help="Kelime listesi (varsayılan: scripts/wordlist.json).")
     parser.add_argument("--size", type=int, default=DEFAULT_SIZE,
@@ -396,6 +459,11 @@ def main(argv=None):
     total = (len(words) + args.size - 1) // args.size
     print("Kelime listesi: %s (%d kelime, %d parti)"
           % (show(wordlist_path), len(words), total))
+
+    if args.rarity_from_wordlist:
+        if not any(e["rarity"] for e in words):
+            raise SystemExit("Kelime listesinde rarity alanı yok.")
+        return fix_rarity(BATCHES_DIR, words)
 
     if args.all:
         numbers = range(1, total + 1)

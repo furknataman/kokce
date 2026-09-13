@@ -57,7 +57,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "fikir",
@@ -117,7 +118,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "zihin",
@@ -170,7 +172,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "hafıza",
@@ -230,7 +233,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "hayal",
@@ -290,7 +294,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "rüya",
@@ -350,7 +355,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "niyet",
@@ -410,7 +416,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "karar",
@@ -470,7 +477,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "sebep",
@@ -523,7 +531,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "netice",
@@ -583,7 +592,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "hayat",
@@ -643,7 +653,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "ömür",
@@ -699,7 +710,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "nefes",
@@ -752,7 +764,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "ruh",
@@ -805,7 +818,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "beden",
@@ -858,7 +872,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "sıhhat",
@@ -918,7 +933,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "maraz",
@@ -978,7 +994,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "ilaç",
@@ -1031,7 +1048,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "merhem",
@@ -1116,7 +1134,8 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   },
   {
     "id": "mide",
@@ -1169,6 +1188,7 @@
       }
     ],
     "confidence": "orta",
-    "reviewed": false
+    "reviewed": false,
+    "rarity": "gündelik"
   }
 ]

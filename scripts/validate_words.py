@@ -84,12 +84,13 @@ FORMATION_TYPES = {
 }
 RELATIONS = {"türev", "birleşik", "akraba", "eş köken"}
 CONFIDENCE = {"yüksek", "orta"}
+RARITY = {"gündelik", "az-bilinen"}
 PARTS_OF_SPEECH = {
     "isim", "sıfat", "fiil", "zarf", "zamir", "edat", "bağlaç", "ünlem", "deyim",
 }
 
 WORD_FIELDS = [
-    "id", "word", "partOfSpeech", "formationType", "donorLanguage",
+    "id", "word", "rarity", "partOfSpeech", "formationType", "donorLanguage",
     "ultimateOrigin", "chain", "shortMeaning", "currentMeaning", "story",
     "firstAttestation", "relatives", "alternatives", "funFact", "sources",
     "confidence", "reviewed",
@@ -215,6 +216,9 @@ def validate_word(item, rep, index):
     conf = item.get("confidence")
     if conf not in CONFIDENCE:
         rep.add(wid, "confidence", "yüksek veya orta olmalı, %r geldi" % (conf,))
+    rarity = item.get("rarity")
+    if rarity not in RARITY:
+        rep.add(wid, "rarity", "gündelik veya az-bilinen olmalı, %r geldi" % (rarity,))
     if "reviewed" in item:
         _check_bool(rep, wid, "reviewed", item["reviewed"])
 
