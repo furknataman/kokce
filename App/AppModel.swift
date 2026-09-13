@@ -26,6 +26,9 @@ final class AppModel {
 
     private let repository: WordRepository?
     private let favorites = FavoritesStore()
+    private let router = NotificationRouter()
+    /// Günlük bildirim tercihi ve planlaması. Görünümler doğrudan okur.
+    let notifications = DailyNotifications()
 
     private(set) var catalog: WordCatalog?
     private(set) var failedToLoad = false
@@ -56,11 +59,14 @@ final class AppModel {
             guard oldValue != wordOfDayMode else { return }
             WordOfDayMode.save(wordOfDayMode)
             WidgetCenter.shared.reloadAllTimelines()
+            Task { await refreshNotifications() }
         }
     }
-    /// Katalog yüklenmeden gelen deep link'in kimliği. Soğuk açılışta
-    /// `onOpenURL`, `load()` bitmeden gelebilir; kimlik atılmaz, burada bekler.
-    private var pendingWordID: String?
+    /// Katalog yüklenmeden gelen deep link'in ya da bildirimin kimliği. Soğuk
+    /// açılışta dış giriş `load()` bitmeden gelebilir; kimlik atılmaz, burada
+    /// bekler. Giriş noktaları `AppModel+DeepLink` dosyasında, bu yüzden alan
+    /// dosyaya kapalı değil.
+    var pendingWordID: String?
 
     init(repository: WordRepository? = nil) {
         // Gömülü katalog her iki hedefin bundle'ındadır; yoksa uygulama
@@ -69,6 +75,9 @@ final class AppModel {
         // Özellik gözlemcileri init sırasında çalışmaz: kayıtlı kip okunurken
         // geri yazma ve widget yenileme tetiklenmez.
         self.wordOfDayMode = WordOfDayMode.current()
+        // Delege burada bağlanır: soğuk açılışta sistem bildirim yanıtını hemen
+        // teslim eder, delege geç bağlanırsa dokunuş kaybolur.
+        router.attach(to: self)
     }
 
     var todayWord: Word? {
@@ -108,6 +117,7 @@ final class AppModel {
         favoriteIDs = Set(favorites.ids)
         resolvePendingDeepLink()
         await refreshContent()
+        await refreshNotifications()
     }
 
     /// Uzak katalogu yoklar. Depo zaten günde bir kez ağa çıktığı için her
@@ -116,8 +126,10 @@ final class AppModel {
         guard let repository else { return }
         if await repository.refreshIfNeeded(), let fresh = try? await repository.catalog() {
             apply(fresh)
-            // İçerik değişti: widget'lar eski kelimeyi göstermesin.
+            // İçerik değişti: widget'lar ve bekleyen bildirimler eski kelimeyi
+            // göstermesin.
             WidgetCenter.shared.reloadAllTimelines()
+            await refreshNotifications()
         }
         lastCheckedAt = WordRepository.lastCheckedAt()
     }
@@ -191,88 +203,25 @@ final class AppModel {
         return catalog.languageName(code)
     }
 
-    /// Köken yolu, **eskiden yeniye**: zincirin en eski dili → kelimeyi
-    /// aktaran dil → Türkçe.
-    ///
-    /// Okuma yönü kasıtlı olarak kronolojiktir; ok kelimenin gittiği yönü
-    /// gösterir. Aynı dil arka arkaya gelirse ("Farsça → Farsça") bir kez
-    /// yazılır. `Word.originLanguage` iki alanı tek koda indirgediği için
-    /// burada alanlar ayrı ayrı okunur.
-    func originPath(for word: Word) -> [String] {
-        var codes: [String] = []
-        if let ultimate = word.ultimateOrigin { codes.append(ultimate) }
-        if let donor = word.donorLanguage { codes.append(donor) }
-        if codes.isEmpty, let fallback = word.originLanguage { codes.append(fallback) }
-        codes.append("tr")
-
-        var path: [String] = []
-        for code in codes where path.last != code {
-            path.append(code)
-        }
-        return path.compactMap { languageName($0) }
-    }
-
-    /// Rozet ve paylaşım metni için tek satırlık köken yolu.
-    func originText(for word: Word) -> String? {
-        let path = originPath(for: word)
-        return path.isEmpty ? nil : path.joined(separator: " → ")
-    }
-
-    /// Paylaşılan düz metin. Biçim dizesi katalogdan gelir, metin kaynak
-    /// dosyada değil `Localizable.xcstrings` içinde durur.
-    func shareText(for word: Word) -> String {
-        guard let origin = originText(for: word) else {
-            return String(format: String(localized: "share.format.plain"), word.word, word.shortMeaning)
-        }
-        return String(format: String(localized: "share.format"), word.word, word.shortMeaning, origin)
-    }
-
     /// Akraba kelimenin sözlükteki maddesi; katalogda yoksa `nil` ve çip
     /// bağlantısız çizilir.
     func word(for relative: Relative) -> Word? {
         wordsByName[relative.word.lowercased(with: Self.turkish)]
     }
 
-    // MARK: - Deep link
+    // MARK: - Bildirim
 
-    /// `kokce://word/<id>` — bilinmeyen kimlik Bugün sekmesine düşer.
-    func open(_ url: URL) {
-        guard let id = DeepLink.wordID(from: url) else {
-            fallBackToToday()
-            return
-        }
-        // Soğuk açılışta katalog henüz yüklenmemiş olabilir. Kimlik atılmaz;
-        // `load()` bitince çözülür ve sekme o zaman değişir.
-        guard catalog != nil else {
-            pendingWordID = id
-            return
-        }
-        show(id: id)
+    /// Bildirim işleri planlamak için katalog ile kipi ister; görünümler o
+    /// bağlamı taşımasın diye sarmalanır.
+    func setNotifications(_ enabled: Bool) async {
+        await notifications.setEnabled(enabled, catalog: catalog, mode: wordOfDayMode)
     }
 
-    private func resolvePendingDeepLink() {
-        guard let id = pendingWordID else { return }
-        pendingWordID = nil
-        show(id: id)
+    func setNotificationTime(hour: Int, minute: Int) {
+        notifications.setTime(hour: hour, minute: minute, catalog: catalog, mode: wordOfDayMode)
     }
 
-    /// Açılan madde filtrelenmiş bir listenin ardında kalmasın diye arama ve
-    /// filtreler temizlenir.
-    private func show(id: String) {
-        guard let word = catalog?.word(id: id) else {
-            fallBackToToday()
-            return
-        }
-        searchText = ""
-        originFilter = nil
-        showFavoritesOnly = false
-        dictionaryPath = [word]
-        selectedTab = .dictionary
-    }
-
-    private func fallBackToToday() {
-        pendingWordID = nil
-        dictionaryPath = []
-        selectedTab = .today
+    func refreshNotifications() async {
+        await notifications.refresh(catalog: catalog, mode: wordOfDayMode)
     }
 }

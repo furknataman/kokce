@@ -18,7 +18,10 @@ struct KokenApp: App {
                     // gelince hem gün hem içerik yeniden yoklanır.
                     guard phase == .active else { return }
                     model.refreshDay()
-                    Task { await model.refreshContent() }
+                    Task {
+                        await model.refreshContent()
+                        await model.refreshNotifications()
+                    }
                 }
         }
     }

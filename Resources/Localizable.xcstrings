@@ -353,6 +353,22 @@
         }
       }
     },
+    "notification.title": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Word of the day: %1$@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Günün kelimesi: %1$@"
+          }
+        }
+      }
+    },
     "settings.about": {
       "localizations": {
         "en": {
@@ -557,6 +573,22 @@
           "stringUnit": {
             "state": "translated",
             "value": "Günlük bildirim"
+          }
+        }
+      }
+    },
+    "settings.notifications.denied": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are not allowed. You can turn them on in Settings."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirim izni kapalı. Ayarlar'dan açabilirsiniz."
           }
         }
       }

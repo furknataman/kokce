@@ -1,6 +1,7 @@
 import SwiftUI
 import StoreKit
 import ReviewKit
+import UIKit
 import KokenKit
 
 /// Ayarlar sekmesi: günlük bildirim tercihi, içerik durumu, kaynaklar ve
@@ -11,12 +12,8 @@ struct SettingsView: View {
     @Environment(AppModel.self) private var model
     @Environment(\.requestReview) private var requestReview
 
-    @AppStorage("notifications.enabled") private var notificationsEnabled = false
-    @AppStorage("notifications.hour") private var notificationHour = 9
-    @AppStorage("notifications.minute") private var notificationMinute = 0
-
-    private let scheduler: any NotificationScheduler = InactiveNotificationScheduler()
     private static let repositoryURL = URL(string: "https://github.com/solvyapp/kokce")!
+    private static let systemSettingsURL = URL(string: UIApplication.openSettingsURLString)!
 
     var body: some View {
         @Bindable var model = model
@@ -31,7 +28,6 @@ struct SettingsView: View {
             .kokenBackground()
             .navigationTitle("tab.settings")
             .tint(Theme.accent)
-            .task(id: scheduleKey) { await applySchedule() }
         }
     }
 
@@ -56,11 +52,16 @@ struct SettingsView: View {
 
     private var notifications: some View {
         Section {
-            Toggle("settings.notifications.daily", isOn: $notificationsEnabled)
-            if notificationsEnabled {
+            Toggle("settings.notifications.daily", isOn: enabled)
+            if model.notifications.isEnabled {
                 DatePicker("settings.notifications.time",
                            selection: time,
                            displayedComponents: .hourAndMinute)
+            }
+            if model.notifications.isDenied {
+                Link(destination: Self.systemSettingsURL) {
+                    Text("settings.notifications.denied")
+                }
             }
         } header: {
             Text("settings.notifications")
@@ -97,29 +98,25 @@ struct SettingsView: View {
         .listRowBackground(Theme.parchmentDeep)
     }
 
-    /// Saat seçicinin `Date` beklemesi yüzünden saat ve dakika ayrı ayrı
-    /// saklanır; `AppStorage` tarih tutamaz.
+    /// Toggle doğrudan bağlanamaz: açılışı izin isteyen bir async iştir ve
+    /// izin verilmezse ayar geri kapanır.
+    private var enabled: Binding<Bool> {
+        Binding {
+            model.notifications.isEnabled
+        } set: { isOn in
+            Task { await model.setNotifications(isOn) }
+        }
+    }
+
+    /// Saat seçicisi `Date` ister; tercih saat ve dakika olarak saklanır.
     private var time: Binding<Date> {
         Binding {
-            Calendar.current.date(from: DateComponents(hour: notificationHour,
-                                                       minute: notificationMinute)) ?? .now
+            Calendar.current.date(from: DateComponents(hour: model.notifications.hour,
+                                                       minute: model.notifications.minute)) ?? .now
         } set: { newValue in
             let parts = Calendar.current.dateComponents([.hour, .minute], from: newValue)
-            notificationHour = parts.hour ?? 9
-            notificationMinute = parts.minute ?? 0
+            model.setNotificationTime(hour: parts.hour ?? 9, minute: parts.minute ?? 0)
         }
-    }
-
-    private var scheduleKey: String {
-        "\(notificationsEnabled)-\(notificationHour)-\(notificationMinute)"
-    }
-
-    private func applySchedule() async {
-        guard notificationsEnabled else {
-            await scheduler.cancel()
-            return
-        }
-        await scheduler.schedule(at: DateComponents(hour: notificationHour, minute: notificationMinute))
     }
 
     private var contentStatus: String {
