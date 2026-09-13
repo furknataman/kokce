@@ -2,8 +2,8 @@ import SwiftUI
 import WidgetKit
 
 @main
-struct KokenWidgetBundle: WidgetBundle {
+struct KokceWidgetBundle: WidgetBundle {
     var body: some Widget {
-        KokenWidget()
+        KokceWidget()
     }
 }

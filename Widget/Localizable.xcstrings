@@ -1,0 +1,36 @@
+{
+  "sourceLanguage" : "tr",
+  "strings" : {
+    "widget.description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Today's word, its origin and its journey." }
+        },
+        "tr" : {
+          "stringUnit" : { "state" : "translated", "value" : "Günün kelimesi, kökeni ve yolculuğu." }
+        }
+      }
+    },
+    "widget.empty" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "No word available yet." }
+        },
+        "tr" : {
+          "stringUnit" : { "state" : "translated", "value" : "Kelime henüz hazır değil." }
+        }
+      }
+    },
+    "widget.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : { "state" : "translated", "value" : "Word of the Day" }
+        },
+        "tr" : {
+          "stringUnit" : { "state" : "translated", "value" : "Günün Kelimesi" }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

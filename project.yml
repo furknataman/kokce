@@ -117,9 +117,10 @@ targets:
       # Tasarım dili tek yerde tanımlı; widget yalnızca bu dosyayı paylaşır.
       - path: App/DesignSystem/Theme.swift
       # Widget uygulama hiç açılmadan çalışsın diye katalog uzantının
-      # bundle'ına da kopyalanır.
+      # bundle'ına da kopyalanır. Metinler için uzantının kendi kataloğu
+      # (Widget/Localizable.xcstrings) kullanılır; tek bundle'da iki
+      # Localizable.xcstrings çakışırdı.
       - path: Resources/Content/words.json
-      - path: Resources/Localizable.xcstrings
     dependencies:
       - package: KokenKit
         product: KokenKit
@@ -151,6 +152,11 @@ targets:
     platform: iOS
     sources:
       - path: Tests
+      # Widget görünümleri anlık görüntü testinde gerçek boyutlarda render
+      # edilir; @main taşıyan bundle dosyası bilerek dışarıda bırakıldı.
+      - path: Widget/KokceWidget.swift
+      - path: Widget/KokceWidgetViews.swift
+      - path: App/DesignSystem/Theme.swift
     dependencies:
       - target: Koken
       - package: KokenKit
