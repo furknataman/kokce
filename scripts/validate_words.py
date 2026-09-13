@@ -106,7 +106,9 @@ SHORT_MEANING_MAX = 80
 STORY_MIN_SENTENCES = 2
 STORY_MAX_SENTENCES = 6
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
-ID_RE = re.compile(r"^[0-9a-zçğıiöşü\-]+$")
+# Düzeltme işaretli (şapkalı) harfler madde başlarında geçer: hikâye, kâğıt,
+# rüzgâr, mahkûm, sükût ...
+ID_RE = re.compile(r"^[0-9a-zçğıiöşüâîû\-]+$")
 
 # Türkçeye duyarlı küçük harf: Python'un .lower() metodu İ için birleşik nokta
 # bırakır, I için ı yerine i verir.
@@ -195,7 +197,7 @@ def validate_word(item, rep, index):
     word_ok = _check_str(rep, wid, "word", item.get("word"))
     if _check_str(rep, wid, "id", raw_id):
         if not ID_RE.match(raw_id):
-            rep.add(wid, "id", "yalnızca küçük Türkçe harf, rakam ve - içerebilir")
+            rep.add(wid, "id", "yalnızca küçük Türkçe harf (şapkalılar dâhil), rakam ve - içerebilir")
         if word_ok:
             expected = slugify_id(item["word"])
             if raw_id != expected:

@@ -8,7 +8,7 @@ kökünden (`koken/`) çalıştırılır.
 | Yol | İşi |
 |---|---|
 | `schema.md` | Kelime veri şeması. Tek doğruluk kaynağı. |
-| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v2**). `{{WORDS}}` yer tutucusu. |
+| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v3**). `{{WORDS}}` yer tutucusu. |
 | `prompts/verify_batch.md` | Bağımsız doğrulayıcı prompt'u (v1). `{{ITEMS}}` yer tutucusu. |
 | `generate_batch.py` | Kelime listesinden parti üretir (`codex exec`). |
 | `validate_words.py` | Parti dosyasını veya birleşik `words.json`'u doğrular. |
@@ -32,7 +32,7 @@ kökünden (`koken/`) çalıştırılır.
 
 `originHint` prompt'a kelimenin yanında ipucu olarak geçirilir
 (`1. kalem — ipucu: ar<grc`) ve künyeye `originHints` altında yazılır.
-Prompt v2 modele ipucunu **doğrulamasını**, kaynakla çelişirse kaynağı esas
+Prompt v3 modele ipucunu **doğrulamasını**, kaynakla çelişirse kaynağı esas
 alıp ipucunu yok saymasını, atlanmış ara halkaları eklemesini söyler.
 
 ### 2. Üretim
@@ -114,7 +114,7 @@ kullanılan kodlar için üretilir. Yazımdan sonra doğrulama otomatik çalış
 python3 scripts/validate_words.py --batch scripts/tests/sample_batch.json
 ```
 
-Örnek parti 2 geçerli (`kalem`, `ısırgan`) ve 1 hatalı (`Yoğurt`) madde
+Örnek parti 3 geçerli (`kalem`, `ısırgan`, `hikâye`) ve 1 hatalı (`Yoğurt`) madde
 içerir; hatalı maddeden 9 hata beklenir ve çıkış kodu `1` olur.
 
 ## Yeni dil kodu eklemek

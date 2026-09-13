@@ -81,12 +81,14 @@ kök nesne sarmalayıcısı yoktur.
 2. Türkçeye duyarlı küçük harf: `İ` → `i`, `I` → `ı`, diğerleri `str.lower()`.
    (Python'un düz `.lower()` metodu `İ` için birleşik nokta bırakır, `I` için
    `ı` yerine `i` verir; bu yüzden özel eşleme zorunludur.)
-3. Türkçe harfler korunur: `ç ğ ı i̇ ö ş ü`.
+3. Türkçe harfler korunur: `ç ğ ı i ö ş ü`. Düzeltme işaretli (şapkalı)
+   harfler de **korunur**: `â î û` — `hikâye`, `kâğıt`, `rüzgâr`, `mahkûm`.
+   Şapka atılmaz, sadeleştirilmez.
 4. Boşluk ve alt çizgi → `-`.
 5. Baş/son boşluklar atılır.
 
-Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`, `deli bal` → `deli-bal`.
-`id` tüm koleksiyonda benzersizdir.
+Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`, `Hikâye` → `hikâye`,
+`deli bal` → `deli-bal`. `id` tüm koleksiyonda benzersizdir.
 
 ### Zincir adımı (`chain[]`)
 
@@ -227,6 +229,35 @@ ISO 639 temellidir; ISO'da karşılığı olmayan üç kod projeye özeldir
 | `ine` | Hint-Avrupa ana dili |
 | `sla` | Slav ana dili |
 | `sem` | Sami ana dili |
+
+### Yeniden kurulmuş (rekonstrüksiyon) diller
+
+Bu kodlar tanıklı bir metne değil, karşılaştırmalı yöntemle **kurgulanmış**
+ana dillere işaret eder. Bu dildeki bir zincir adımında `reconstructed`
+değeri **`true`** olmalıdır; biçimin başına `*` konmaz.
+
+| Kod | Dil |
+|---|---|
+| `ine` | Hint-Avrupa ana dili |
+| `sla` | Slav ana dili |
+| `sem` | Sami ana dili |
+| `trk` | Ana Türkçe |
+
+### Ara (aktarıcı) diller
+
+Sözcüğün kaynak dille Türkçe arasında geçtiği, kendisi kaynak olmayan
+diller. Zincirde atlanmaları sık yapılan hatadır; kaynaklarda geçiyorsa
+halka olarak yazılır.
+
+| Kod | Dil | Tipik konum |
+|---|---|---|
+| `arc` | Aramice | Akkadca/Sami kökenden Arapçaya |
+| `syc` | Süryanice | Eski Yunancadan Arapçaya |
+| `pal` | Pehlevice | Eski Farsçadan Farsçaya |
+| `sog` | Soğdca | Sanskritçe/Farsçadan Eski Türkçeye |
+| `ota` | Osmanlı Türkçesi | Arapça/Farsçadan bugünkü Türkçeye |
+| `la` | Latince | Eski Yunancadan Fransızca/İtalyancaya |
+| `it` | İtalyanca | Latinceden Türkçeye (denizcilik, ticaret) |
 
 Yeni kod gerekirse **önce** bu tabloya ve `scripts/validate_words.py`
 içindeki `LANGUAGES` sözlüğüne eklenir; üretim prompt'u tabloyu buradan alır.

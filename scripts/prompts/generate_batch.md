@@ -1,4 +1,4 @@
-# Köken — Üretim Prompt'u (v2)
+# Köken — Üretim Prompt'u (v3)
 
 Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
 bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
@@ -37,11 +37,21 @@ Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
    (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
    normalize. Yazım hatası maddeyi düşürür.
 9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
-   (`İ`→`i`, `I`→`ı`), Türkçe harfler korunur, boşluk yerine `-`.
-   Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`.
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
 10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
-11. `story` **2-6 cümle**; akıcı, süssüz, bilgi veren Türkçe. Reklam dili,
-    ünlem, "bilir miydiniz" kalıbı yok.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
 12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
     yapılır.
 13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
@@ -108,7 +118,18 @@ Her nesne tam olarak şu alanları içerir:
   Akraba kelimenin listede olması gerekmez.
 - `alternatives`: kaynaklar arası çelişki varsa cümlelerden oluşan dizi, yoksa
   `null`.
-- `funFact`: tek cümle veya `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
 - `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
   `http(s)` adresi ya `null`.
 - `confidence` ∈ `yüksek`, `orta`.
