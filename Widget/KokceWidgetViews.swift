@@ -95,7 +95,7 @@ struct KokceMediumView: View {
                     .lineLimit(1)
                     .minimumScaleFactor(0.6)
                 Spacer(minLength: 6)
-                Text(entry.date, format: .dateTime.day().month(.wide))
+                Text(entry.date, format: Self.dayStyle)
                     .font(.caption)
                     .foregroundStyle(Theme.inkSoft)
                     .lineLimit(1)
@@ -127,6 +127,15 @@ struct KokceMediumView: View {
             }
             .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
         }
+    }
+
+    /// Tarih İstanbul saat dilimiyle biçimlenir. Günün kelimesi de o saat
+    /// dilimine göre seçildiği için, cihaz başka bir dilimde olsa bile
+    /// widget'taki gün uygulamadaki Bugün başlığıyla aynı kalır.
+    static var dayStyle: Date.FormatStyle {
+        var style = Date.FormatStyle.dateTime.day().month(.wide)
+        style.timeZone = WordOfDay.timeZone
+        return style
     }
 
     private func summary(_ index: Int, lines: Int? = nil) -> some View {

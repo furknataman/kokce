@@ -121,6 +121,8 @@ targets:
       # (Widget/Localizable.xcstrings) kullanılır; tek bundle'da iki
       # Localizable.xcstrings çakışırdı.
       - path: Resources/Content/words.json
+      # Gizlilik bildirimi her iki hedefin bundle kökünde bulunmalı.
+      - path: Resources/PrivacyInfo.xcprivacy
     dependencies:
       - package: KokenKit
         product: KokenKit
