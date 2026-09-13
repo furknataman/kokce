@@ -69,7 +69,11 @@ public struct Word: Codable, Sendable, Equatable, Identifiable, Hashable {
     /// 2-4 cümlelik hikâye.
     public let story: String
     public let firstAttestation: Attestation?
-    public let relatives: [Relative]
+    /// İçerik hattı akraba kelimesi olmayan maddelerde bu alanı `null`
+    /// bırakıyor; boş listeyle aynı anlama gelir ve tüm katalogun çözümünü
+    /// kırmaması için burada yutulur.
+    private let storedRelatives: [Relative]?
+    public var relatives: [Relative] { storedRelatives ?? [] }
     /// Kabul görmüş başka köken önerileri; yoksa `null`.
     public let alternatives: [String]?
     public let funFact: String?
@@ -109,13 +113,20 @@ public struct Word: Codable, Sendable, Equatable, Identifiable, Hashable {
         self.currentMeaning = currentMeaning
         self.story = story
         self.firstAttestation = firstAttestation
-        self.relatives = relatives
+        self.storedRelatives = relatives
         self.alternatives = alternatives
         self.funFact = funFact
         self.sources = sources
         self.confidence = confidence
         self.reviewed = reviewed
         self.rarity = rarity
+    }
+
+    private enum CodingKeys: String, CodingKey {
+        case id, word, partOfSpeech, formationType, donorLanguage, ultimateOrigin
+        case chain, shortMeaning, currentMeaning, story, firstAttestation
+        case storedRelatives = "relatives"
+        case alternatives, funFact, sources, confidence, reviewed, rarity
     }
 
     public static let rarityEveryday = "gündelik"

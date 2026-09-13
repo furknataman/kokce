@@ -60,14 +60,24 @@ struct KokceSmallView: View {
                 .foregroundStyle(Theme.ink)
                 .lineLimit(1)
                 .minimumScaleFactor(0.7)
-            Text(word.shortMeaning)
-                .font(.caption)
-                .foregroundStyle(Theme.inkSoft)
-                .lineLimit(3)
-                .minimumScaleFactor(0.85)
+            // Kesme yerine satır sayısını düşür: üçü sığmıyorsa ikiye,
+            // o da sığmıyorsa bire iner.
+            ViewThatFits(in: .vertical) {
+                meaning(lines: 3)
+                meaning(lines: 2)
+                meaning(lines: 1)
+            }
             Spacer(minLength: 2)
             KokceOriginFooter(name: entry.originName, isRare: word.isRare)
         }
+    }
+
+    private func meaning(lines: Int) -> some View {
+        Text(word.shortMeaning)
+            .font(.caption)
+            .foregroundStyle(Theme.inkSoft)
+            .lineLimit(lines)
+            .minimumScaleFactor(0.85)
     }
 }
 
@@ -77,49 +87,57 @@ struct KokceMediumView: View {
     let word: Word
 
     var body: some View {
-        HStack(alignment: .top, spacing: 10) {
-            VStack(alignment: .leading, spacing: 6) {
+        VStack(alignment: .leading, spacing: 4) {
+            HStack(alignment: .firstTextBaseline, spacing: 6) {
                 Text(word.word)
                     .font(.kokenWord(.title))
                     .foregroundStyle(Theme.ink)
                     .lineLimit(1)
                     .minimumScaleFactor(0.6)
-                if !entry.originPath.isEmpty {
-                    Text(entry.originPath.joined(separator: " → "))
-                        .font(.caption2.weight(.medium))
-                        .foregroundStyle(Theme.accent)
-                        .lineLimit(1)
-                        .minimumScaleFactor(0.7)
-                }
-                // Anlam köken satırının hemen altında durur: Spacer ortaya
-                // alınsaydı kısa anlamlarda ortada büyük bir boşluk kalırdı.
-                Text(word.shortMeaning)
-                    .font(.subheadline)
-                    .foregroundStyle(Theme.inkSoft)
-                    .lineLimit(2)
-                    .minimumScaleFactor(0.9)
-                // Güncel anlam alt yarıyı doldurur. Kısa anlam üç satıra
-                // bırakılsaydı ikisi birlikte 170 pt'lik aileye sığmazdı.
-                Text(word.currentMeaning)
-                    .font(.caption)
-                    .foregroundStyle(Theme.inkSoft.opacity(0.9))
-                    .lineLimit(2)
-                    .minimumScaleFactor(0.9)
-                Spacer(minLength: 0)
-            }
-            VStack(alignment: .trailing, spacing: 4) {
-                Image(systemName: "leaf.fill")
-                    .font(.system(size: 15, weight: .semibold))
-                    .foregroundStyle(Theme.accent)
+                Spacer(minLength: 6)
                 Text(entry.date, format: .dateTime.day().month(.wide))
-                    .font(.caption2)
+                    .font(.caption)
                     .foregroundStyle(Theme.inkSoft)
                     .lineLimit(1)
                     .minimumScaleFactor(0.8)
-                Spacer(minLength: 0)
+                Image(systemName: "leaf.fill")
+                    .font(.caption)
+                    .foregroundStyle(Theme.accent)
             }
-            .fixedSize(horizontal: true, vertical: false)
+            if !entry.originPath.isEmpty {
+                Text(entry.originPath.joined(separator: " → "))
+                    .font(.caption)
+                    .foregroundStyle(Theme.accent)
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.7)
+            }
+            Text(word.shortMeaning)
+                .font(.subheadline)
+                .foregroundStyle(Theme.ink)
+                .lineLimit(2)
+                .minimumScaleFactor(0.9)
+            // Kalan alanı hikâye doldurur. Adaylar en uzundan kısaya sıralı;
+            // ViewThatFits tam sığanı seçer, böylece ne "…" ile kesme olur ne
+            // de altta boş şerit kalır. Satır sınırı yalnızca son çarede var.
+            ViewThatFits(in: .vertical) {
+                summary(0)
+                summary(1)
+                summary(2)
+                summary(2, lines: 3)
+            }
+            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
         }
+    }
+
+    private func summary(_ index: Int, lines: Int? = nil) -> some View {
+        Text(entry.summaries.indices.contains(index)
+             ? entry.summaries[index]
+             : (entry.summaries.last ?? word.currentMeaning))
+            .font(.footnote)
+            .foregroundStyle(Theme.inkSoft)
+            .lineLimit(lines)
+            .minimumScaleFactor(0.85)
+            .frame(maxWidth: .infinity, alignment: .topLeading)
     }
 }
 
@@ -154,11 +172,13 @@ struct KokceLargeView: View {
                 .font(.caption)
                 .foregroundStyle(Theme.ink)
                 .lineLimit(3)
-            Text(word.story)
-                .font(.caption2)
-                .foregroundStyle(Theme.inkSoft)
-                .lineLimit(6)
-                .minimumScaleFactor(0.95)
+            // Hikâyenin tamamı sığmıyorsa ilk iki, sonra ilk cümleye düşülür.
+            ViewThatFits(in: .vertical) {
+                story(0)
+                story(1)
+                story(2)
+                story(2, lines: 4)
+            }
 
             Spacer(minLength: 0)
 
@@ -169,6 +189,19 @@ struct KokceLargeView: View {
                     .foregroundStyle(Theme.accent.opacity(0.85))
             }
         }
+    }
+}
+
+private extension KokceLargeView {
+    func story(_ index: Int, lines: Int? = nil) -> some View {
+        Text(entry.storyOptions.indices.contains(index)
+             ? entry.storyOptions[index]
+             : (entry.storyOptions.last ?? word.story))
+            .font(.caption2)
+            .foregroundStyle(Theme.inkSoft)
+            .lineLimit(lines)
+            .minimumScaleFactor(0.95)
+            .frame(maxWidth: .infinity, alignment: .topLeading)
     }
 }
 
@@ -281,36 +314,84 @@ private struct KokceStepRow: View {
     KokcePreview.entry
 }
 
-/// Xcode önizlemeleri ve anlık görüntü testi için sabit örnek.
+/// Xcode önizlemeleri ve anlık görüntü testi için sabit örnekler: biri uzun
+/// metinli (kalem), biri kısa (çay).
 enum KokcePreview {
-    static let entry = KokceEntry(
-        date: .now,
-        word: Word(id: "kalem",
-                   word: "kalem",
-                   partOfSpeech: "isim",
-                   formationType: .borrowed,
-                   donorLanguage: "ar",
-                   ultimateOrigin: "grc",
-                   chain: [
-                       ChainStep(language: "grc", form: "kálamos", meaning: "kamış", period: nil, reconstructed: false),
-                       ChainStep(language: "ar", form: "qalam", meaning: "kamış kalem", period: nil, reconstructed: false),
-                       ChainStep(language: "tr", form: "kalem", meaning: "yazı aracı", period: nil, reconstructed: false)
-                   ],
-                   shortMeaning: "Yazı yazmaya yarayan araç.",
-                   currentMeaning: "Yazı yazmak veya çizmek için kullanılan, ucundan boya, mürekkep ya da grafit bırakan araç.",
-                   story: "Eski Yunancada kálamos, kıyıda biten kamışın adıydı. Ucu eğik kesilip mürekkebe batırılan bu kamış, Arapçaya qalam biçiminde geçti ve yazının aracı oldu. Türkçeye Arapçadan gelen kelime, kamış çoktan yerini madene bıraksa da adını korudu.",
-                   firstAttestation: nil,
-                   relatives: [],
-                   alternatives: nil,
-                   funFact: nil,
-                   sources: [Source(name: "Nişanyan Sözlük", ref: nil, url: nil)],
-                   confidence: .high,
-                   reviewed: true),
-        originPath: ["Eski Yunanca", "Arapça", "Türkçe"],
-        originName: "Arapça",
-        steps: [
-            KokceJourneyStep(language: "Eski Yunanca", form: "kálamos", meaning: "kamış"),
-            KokceJourneyStep(language: "Arapça", form: "qalam", meaning: "kamış kalem"),
-            KokceJourneyStep(language: "Türkçe", form: "kalem", meaning: "yazı aracı")
-        ])
+
+    static let entry = makeEntry(word: kalem,
+                                 path: ["Eski Yunanca", "Arapça", "Türkçe"],
+                                 originName: "Arapça",
+                                 steps: [
+                                    KokceJourneyStep(language: "Eski Yunanca", form: "kálamos", meaning: "kamış"),
+                                    KokceJourneyStep(language: "Arapça", form: "qalam", meaning: "kamış kalem"),
+                                    KokceJourneyStep(language: "Türkçe", form: "kalem", meaning: "yazı aracı")
+                                 ])
+
+    static let shortEntry = makeEntry(word: cay,
+                                      path: ["Çince", "Farsça", "Türkçe"],
+                                      originName: "Farsça",
+                                      steps: [
+                                        KokceJourneyStep(language: "Çince", form: "chá", meaning: "çay bitkisi"),
+                                        KokceJourneyStep(language: "Farsça", form: "çāy", meaning: "çay"),
+                                        KokceJourneyStep(language: "Türkçe", form: "çay", meaning: "çay")
+                                      ])
+
+    static func makeEntry(word: Word,
+                          path: [String],
+                          originName: String,
+                          steps: [KokceJourneyStep]) -> KokceEntry {
+        KokceEntry(date: .now,
+                   word: word,
+                   originPath: path,
+                   originName: originName,
+                   steps: steps,
+                   summaries: KokceSummary.summaries(for: word),
+                   storyOptions: KokceSummary.storyOptions(for: word))
+    }
+
+    static let kalem = Word(
+        id: "kalem",
+        word: "kalem",
+        partOfSpeech: "isim",
+        formationType: .borrowed,
+        donorLanguage: "ar",
+        ultimateOrigin: "grc",
+        chain: [
+            ChainStep(language: "grc", form: "kálamos", meaning: "kamış", period: nil, reconstructed: false),
+            ChainStep(language: "ar", form: "qalam", meaning: "kamış kalem", period: nil, reconstructed: false),
+            ChainStep(language: "tr", form: "kalem", meaning: "yazı aracı", period: nil, reconstructed: false)
+        ],
+        shortMeaning: "Yazı yazmaya yarayan araç.",
+        currentMeaning: "Yazı yazmak veya çizmek için kullanılan, ucundan boya, mürekkep ya da grafit bırakan araç.",
+        story: "Eski Yunancada kálamos, kıyıda biten kamışın adıydı. Ucu eğik kesilip mürekkebe batırılan bu kamış, Arapçaya qalam biçiminde geçti ve yazının aracı oldu. Türkçeye Arapçadan gelen kelime, kamış çoktan yerini madene bıraksa da adını korudu.",
+        firstAttestation: nil,
+        relatives: [],
+        alternatives: nil,
+        funFact: nil,
+        sources: [Source(name: "Nişanyan Sözlük", ref: nil, url: nil)],
+        confidence: .high,
+        reviewed: true)
+
+    static let cay = Word(
+        id: "çay",
+        word: "çay",
+        partOfSpeech: "isim",
+        formationType: .borrowed,
+        donorLanguage: "fa",
+        ultimateOrigin: "zh",
+        chain: [
+            ChainStep(language: "zh", form: "chá", meaning: "çay bitkisi", period: nil, reconstructed: false),
+            ChainStep(language: "fa", form: "çāy", meaning: "çay", period: nil, reconstructed: false),
+            ChainStep(language: "tr", form: "çay", meaning: "çay", period: nil, reconstructed: false)
+        ],
+        shortMeaning: "Çay bitkisinin yaprağından demlenen içecek.",
+        currentMeaning: "Çay bitkisinin kurutulmuş yaprağının kaynar suda demlenmesiyle elde edilen içecek.",
+        story: "Çayın anayurdu Çin'de kelimenin biçimi chá idi.",
+        firstAttestation: nil,
+        relatives: [],
+        alternatives: nil,
+        funFact: nil,
+        sources: [Source(name: "Nişanyan Sözlük", ref: nil, url: nil)],
+        confidence: .high,
+        reviewed: true)
 }

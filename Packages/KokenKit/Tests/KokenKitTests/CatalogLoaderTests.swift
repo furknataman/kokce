@@ -39,6 +39,17 @@ struct CatalogLoaderTests {
         }
     }
 
+    /// İçerik hattı akrabası olmayan maddelerde `"relatives": null` yazıyor;
+    /// tek bir madde yüzünden 500+ kelimelik katalog çözülmemezlik etmemeli.
+    @Test("relatives null gelirse boş liste olur")
+    func decodesNullRelatives() throws {
+        let json = Fixtures.catalogJSON.replacingOccurrences(
+            of: "\"relatives\": [{ \"word\": \"kalemtıraş\", \"relation\": \"birleşik\" }]",
+            with: "\"relatives\": null")
+        let catalog = try CatalogLoader.decode(Data(json.utf8))
+        #expect(catalog.word(id: "kalem")?.relatives.isEmpty == true)
+    }
+
     @Test("Bozuk schedule.start reddedilir")
     func rejectsInvalidScheduleStart() {
         for start in ["2026-2-1", "2026-02-30", "bugün", "2026-02", "20260201"] {

@@ -18,24 +18,28 @@ struct WidgetSnapshotTests {
         try? FileManager.default.removeItem(at: directory)
         try FileManager.default.createDirectory(at: directory, withIntermediateDirectories: true)
 
-        let entry = KokcePreview.entry
-        let word = try #require(entry.word)
+        // Uzun metinli (kalem) ve kısa metinli (çay) kelime birlikte sınanır:
+        // taşma da boş alan da ancak ikisiyle birden görülür.
+        let cases = [("", KokcePreview.entry), ("-cay", KokcePreview.shortEntry)]
 
-        for scheme in [ColorScheme.light, .dark] {
-            let suffix = scheme == .dark ? "-dark" : ""
-            try render(KokceSmallView(entry: entry, word: word), size: CGSize(width: 170, height: 170),
-                       scheme: scheme, to: directory.appendingPathComponent("widget-small\(suffix).png"))
-            try render(KokceMediumView(entry: entry, word: word), size: CGSize(width: 364, height: 170),
-                       scheme: scheme, to: directory.appendingPathComponent("widget-medium\(suffix).png"))
-            try render(KokceLargeView(entry: entry, word: word), size: CGSize(width: 364, height: 382),
-                       scheme: scheme, to: directory.appendingPathComponent("widget-large\(suffix).png"))
-            try render(KokceAccessoryView(word: word), size: CGSize(width: 172, height: 76),
-                       scheme: scheme, accessory: true,
-                       to: directory.appendingPathComponent("widget-lock\(suffix).png"))
+        for (name, entry) in cases {
+            let word = try #require(entry.word)
+            for scheme in [ColorScheme.light, .dark] {
+                let suffix = (scheme == .dark ? "-dark" : "") + name
+                try render(KokceSmallView(entry: entry, word: word), size: CGSize(width: 170, height: 170),
+                           scheme: scheme, to: directory.appendingPathComponent("widget-small\(suffix).png"))
+                try render(KokceMediumView(entry: entry, word: word), size: CGSize(width: 364, height: 170),
+                           scheme: scheme, to: directory.appendingPathComponent("widget-medium\(suffix).png"))
+                try render(KokceLargeView(entry: entry, word: word), size: CGSize(width: 364, height: 382),
+                           scheme: scheme, to: directory.appendingPathComponent("widget-large\(suffix).png"))
+                try render(KokceAccessoryView(word: word), size: CGSize(width: 172, height: 76),
+                           scheme: scheme, accessory: true,
+                           to: directory.appendingPathComponent("widget-lock\(suffix).png"))
+            }
         }
 
         print("SNAPSHOT_DIR=\(directory.path)")
-        #expect(try FileManager.default.contentsOfDirectory(atPath: directory.path).count == 8)
+        #expect(try FileManager.default.contentsOfDirectory(atPath: directory.path).count == 16)
     }
 
     /// Kilit ekranı ailesi sistemin zemininde beyaz çizilir; diğerleri parşömen
