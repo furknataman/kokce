@@ -1,4 +1,4 @@
-# Köken — Üretim Prompt'u (v3)
+# Köken — Üretim Prompt'u (v4)
 
 Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
 bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
@@ -55,7 +55,39 @@ Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
 12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
     yapılır.
 13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
-14. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
     başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
     Kaynaklara bak ve gerçek zinciri kur:
     - İpucu kaynaklarla uyuşuyorsa onu kullan.
@@ -81,7 +113,7 @@ Her nesne tam olarak şu alanları içerir:
   "ultimateOrigin": "grc",
   "chain": [
     {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
-    {"language": "ar", "form": "qalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
     {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
   ],
   "shortMeaning": "Yazı yazmaya yarayan araç.",
@@ -116,8 +148,9 @@ Her nesne tam olarak şu alanları içerir:
   biri bile bilinmiyorsa tamamı `null`.
 - `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
   Akraba kelimenin listede olması gerekmez.
-- `alternatives`: kaynaklar arası çelişki varsa cümlelerden oluşan dizi, yoksa
-  `null`.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
 - `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
   bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
   tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.

@@ -95,7 +95,7 @@ kök nesne sarmalayıcısı yoktur.
 | Alan | Tip | Boş geçilebilir mi | Açıklama |
 |---|---|---|---|
 | `language` | string | hayır | Dil kodu. |
-| `form` | string | hayır | O dildeki biçim; Latin harfli çevriyazı (örn. `kálamos`, `qalam`). |
+| `form` | string | hayır | O dildeki biçim; Latin harfli çevriyazı (örn. `kálamos`, `ḳalam`). Tek standart: `ḳ ḥ ḫ ṣ ṭ ẓ ˁ ˀ ā ī ū ş ç`; `q`, `ʿ`, `ʾ` kullanılmaz. |
 | `meaning` | string | hayır | O aşamadaki anlam. |
 | `period` | string | evet (`null`) | Örn. `"13. yy"`, `"MÖ 5. yy"`. Bilinmiyorsa `null`. |
 | `reconstructed` | bool | hayır | Biçim varsayımsal/rekonstrüksiyon ise `true` (yazımda `*` kullanılmaz, bu alan işaretler). |
@@ -274,7 +274,7 @@ içindeki `LANGUAGES` sözlüğüne eklenir; üretim prompt'u tabloyu buradan al
   "ultimateOrigin": "grc",
   "chain": [
     {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
-    {"language": "ar", "form": "qalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
     {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
   ],
   "shortMeaning": "Yazı yazmaya yarayan araç.",

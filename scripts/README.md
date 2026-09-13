@@ -8,7 +8,7 @@ kökünden (`koken/`) çalıştırılır.
 | Yol | İşi |
 |---|---|
 | `schema.md` | Kelime veri şeması. Tek doğruluk kaynağı. |
-| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v3**). `{{WORDS}}` yer tutucusu. |
+| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v4**). `{{WORDS}}` yer tutucusu. |
 | `prompts/verify_batch.md` | Bağımsız doğrulayıcı prompt'u (v1). `{{ITEMS}}` yer tutucusu. |
 | `generate_batch.py` | Kelime listesinden parti üretir (`codex exec`). |
 | `validate_words.py` | Parti dosyasını veya birleşik `words.json`'u doğrular. |
@@ -32,7 +32,7 @@ kökünden (`koken/`) çalıştırılır.
 
 `originHint` prompt'a kelimenin yanında ipucu olarak geçirilir
 (`1. kalem — ipucu: ar<grc`) ve künyeye `originHints` altında yazılır.
-Prompt v3 modele ipucunu **doğrulamasını**, kaynakla çelişirse kaynağı esas
+Prompt v4 modele ipucunu **doğrulamasını**, kaynakla çelişirse kaynağı esas
 alıp ipucunu yok saymasını, atlanmış ara halkaları eklemesini söyler.
 
 ### 2. Üretim
