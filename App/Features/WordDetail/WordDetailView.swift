@@ -41,6 +41,10 @@ struct WordDetailView: View {
         }
         .kokenBackground()
         .scrollIndicators(.hidden)
+        // iOS 26'da sekme çubuğu içeriğin üzerinde yüzer. Güvenli alan son
+        // kartı çubuğun altında bırakmıyor ama kart çubuğa yapışıyordu; bu
+        // pay kartı çubuktan ayırır. iOS 18'de de fazladan alt boşluk olur.
+        .contentMargins(.bottom, 16, for: .scrollContent)
         .navigationTitle(day == nil ? Text(word.word) : Text("tab.today"))
         .navigationBarTitleDisplayMode(day == nil ? .inline : .large)
         .toolbar { toolbar }
