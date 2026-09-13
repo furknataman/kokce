@@ -28,7 +28,12 @@ public actor WordRepository {
     /// İki kontrol arası en az bir gün.
     public static let checkInterval: TimeInterval = 24 * 60 * 60
 
+    /// Yalnızca sunucuya ulaşılan (200 veya 304) kontrollerde yazılır;
+    /// Ayarlar ekranı bunu "son kontrol" olarak gösterir.
     static let lastCheckKey = "content.lastCheckAt"
+    /// Her deneme için yazılır. Günde bir kez kuralı buna bakar, yoksa ağ
+    /// kapalıyken her açılışta yeniden denenirdi.
+    static let lastAttemptKey = "content.lastAttemptAt"
     static let etagKey = "content.etag"
 
     /// Uzak dosyanın en son ne zaman yoklandığı. Ayarlar ekranı gösterir;
@@ -92,29 +97,30 @@ public actor WordRepository {
     /// Günde bir kez uzak dosyayı yoklar. Katalog değiştiyse `true`.
     ///
     /// Ağ hatası yutulur: içerik güncellemesi uygulamanın çalışması için
-    /// gerekli değildir. Kontrol zamanı, hata durumunda da yazılır ki her
-    /// açılışta yeniden denenmesin.
+    /// gerekli değildir. Deneme zamanı hata durumunda da yazılır ki her
+    /// açılışta yeniden denenmesin; "son kontrol" ise yalnızca sunucuya
+    /// gerçekten ulaşıldığında güncellenir.
     @discardableResult
     public func refreshIfNeeded(now: Date = .now) async -> Bool {
-        let last = defaults?.object(forKey: Self.lastCheckKey) as? Date
-        if let last, now.timeIntervalSince(last) < Self.checkInterval { return false }
-        defaults?.set(now, forKey: Self.lastCheckKey)
-        return (try? await refresh()) ?? false
+        let lastAttempt = defaults?.object(forKey: Self.lastAttemptKey) as? Date
+        if let lastAttempt, now.timeIntervalSince(lastAttempt) < Self.checkInterval { return false }
+        defaults?.set(now, forKey: Self.lastAttemptKey)
+        return (try? await refresh(now: now)) ?? false
     }
 
     /// Zamanlamayı yok sayıp uzak dosyayı indirir ve doğrularsa yazar.
     ///
     /// Aynı anda gelen ikinci çağrı yeni istek açmaz, sürenin sonucunu bekler.
     @discardableResult
-    public func refresh() async throws -> Bool {
+    public func refresh(now: Date = .now) async throws -> Bool {
         if let refreshTask { return try await refreshTask.value }
-        let task = Task<Bool, Error> { try await self.performRefresh() }
+        let task = Task<Bool, Error> { try await self.performRefresh(now: now) }
         refreshTask = task
         defer { refreshTask = nil }
         return try await task.value
     }
 
-    private func performRefresh() async throws -> Bool {
+    private func performRefresh(now: Date) async throws -> Bool {
         guard let cacheURL else { throw RefreshError.noCacheDirectory }
         _ = try catalog()
         // ETag yalnızca elimizdeki önbellek dosyasını tanımlar. Dosya yoksa ya
@@ -122,6 +128,8 @@ public actor WordRepository {
         // ve elimizde hiç içerik kalmaz.
         let etag = hasValidCache ? defaults?.string(forKey: Self.etagKey) : nil
         let response = try await fetch(remoteURL, etag)
+        // Buraya gelindiyse sunucuya ulaşıldı (200 ya da 304).
+        defaults?.set(now, forKey: Self.lastCheckKey)
         guard case let .updated(data, newETag) = response else { return false }
         guard data.count <= Self.maximumBytes else { throw RefreshError.tooLarge(data.count) }
 

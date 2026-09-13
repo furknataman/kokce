@@ -9,8 +9,24 @@ public enum AppGroup {
     }
 
     /// Uzaktan indirilen kataloğun yazıldığı dosya. Tek yazıcı uygulamadır.
+    ///
+    // ponytail: İmzasız simülatör derlemesinde App Group konteyneri hiç
+    // oluşmaz ve konteyner nil dönerse uzaktan güncelleme kod yolu hiç
+    // çalışmaz. Böyle bir durumda Application Support altına düşülür:
+    // uygulama ve widget ayrı dizin görür, yani paylaşım kaybolur — ama akış
+    // çalışır ve elle test edilebilir. İmzalı derlemede daima grup kullanılır.
     public static var cacheURL: URL? {
-        containerURL?.appendingPathComponent("words.json")
+        if let containerURL { return containerURL.appendingPathComponent("words.json") }
+        return fallbackDirectory?.appendingPathComponent("words.json")
+    }
+
+    /// Grup konteyneri yokken kullanılan yerel dizin.
+    static var fallbackDirectory: URL? {
+        try? FileManager.default.url(for: .applicationSupportDirectory,
+                                     in: .userDomainMask,
+                                     appropriateFor: nil,
+                                     create: true)
+            .appendingPathComponent("Kokce", isDirectory: true)
     }
 
     public static var defaults: UserDefaults? {

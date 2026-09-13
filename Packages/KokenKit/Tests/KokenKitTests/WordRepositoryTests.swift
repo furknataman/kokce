@@ -213,6 +213,32 @@ struct WordRepositoryTests {
         #expect(try await repository.catalog().contentVersion == 9)
     }
 
+    @Test("Son kontrol yalnızca sunucuya ulaşılınca yazılır")
+    func recordsOnlySuccessfulChecks() async throws {
+        let sandbox = try Sandbox(bundleVersion: 1)
+        defer { sandbox.tearDown() }
+        let now = Date(timeIntervalSince1970: 1_800_000_000)
+
+        struct Offline: Error {}
+        let failing = WordRepository(bundleURL: sandbox.bundleURL,
+                                     cacheURL: sandbox.cacheURL,
+                                     defaultsSuiteName: sandbox.suiteName,
+                                     fetch: { _, _ in throw Offline() })
+        _ = await failing.refreshIfNeeded(now: now)
+        // Ağa çıkılamadı: deneme yazıldı, "son kontrol" boş kaldı.
+        #expect(sandbox.defaults.object(forKey: "content.lastAttemptAt") as? Date == now)
+        #expect(sandbox.defaults.object(forKey: "content.lastCheckAt") == nil)
+
+        let reachable = WordRepository(bundleURL: sandbox.bundleURL,
+                                       cacheURL: sandbox.cacheURL,
+                                       defaultsSuiteName: sandbox.suiteName,
+                                       fetch: { _, _ in .notModified })
+        let later = now.addingTimeInterval(25 * 3600)
+        _ = await reachable.refreshIfNeeded(now: later)
+        // 304 da başarılı kontroldür.
+        #expect(sandbox.defaults.object(forKey: "content.lastCheckAt") as? Date == later)
+    }
+
     @Test("Günde bir kez yoklanır, ETag gönderilir")
     func checksOnceADay() async throws {
         let sandbox = try Sandbox(bundleVersion: 1)
