@@ -99,3 +99,5 @@ String Catalogs. iOS 18+, iPhone. Hesap yok, sunucu yok; içerik yerelden okunur
   Farsça/Yunanca kök biçimi) eklenir; eşleme `chain[].form` + `root` üzerinden yapılır.
 - İçerik genişletme: edebî/Osmanlıca ağırlıklı ~300 kelime (`scripts/edebilist.raw.json`),
   mevcut `schedule.ids` sonuna eklenir; mağaza sürümü beklemeden GitHub'dan dağıtılır.
+- **Uzak katalog boyut sınırı:** `WordRepository` 2 MB kabul ediyor; `words.json` v4 = 1,57 MB (801 kelime).
+  ~1000 kelimeyi geçmeden 1.1'de sınırı 5 MB yap; o sürüm çıkana kadar içerik 2 MB altında kalmalı.
