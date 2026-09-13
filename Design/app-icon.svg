@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024">
+  <defs>
+    <linearGradient id="background" x1="128" y1="0" x2="896" y2="1024" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#293D60"/>
+      <stop offset=".55" stop-color="#1B2A4A"/>
+      <stop offset="1" stop-color="#14213B"/>
+    </linearGradient>
+    <linearGradient id="plant" x1="512" y1="176" x2="512" y2="848" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8E8"/>
+      <stop offset=".40" stop-color="#F3E8CD"/>
+      <stop offset=".49" stop-color="#E8D9B9"/>
+      <stop offset=".62" stop-color="#E9C887"/>
+      <stop offset="1" stop-color="#C8923A"/>
+    </linearGradient>
+    <radialGradient id="highlight" cx="410" cy="110" r="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity=".07"/>
+      <stop offset=".65" stop-color="#FFFFFF" stop-opacity=".02"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#background)"/>
+  <path fill="url(#plant)" d="
+    M480 480
+    C350 490 254 404 246 244
+    C382 234 479 310 512 422
+    C528 260 639 176 788 176
+    C788 351 697 473 544 484
+    L544 563
+    C544 596 555 617 579 633
+    L686 595
+    C703 589 721 592 731 609
+    C741 626 734 645 717 655
+    L648 695
+    C641 699 640 705 646 712
+    L706 774
+    C719 788 717 809 703 821
+    C689 833 668 831 656 817
+    L568 719
+    C558 708 552 712 553 727
+    L546 814
+    C545 834 532 848 512 848
+    C492 848 479 834 478 814
+    L471 727
+    C472 712 466 708 456 719
+    L368 817
+    C356 831 335 833 321 821
+    C307 809 305 788 318 774
+    L378 712
+    C384 705 383 699 376 695
+    L307 655
+    C290 645 283 626 293 609
+    C303 592 321 589 338 595
+    L445 633
+    C469 617 480 596 480 563
+    Z"/>
+  <path d="M535 398C574 275 657 216 763 197C667 231 594 301 535 398Z" fill="#FFFFFF" opacity=".35"/>
+  <path d="M269 264C358 265 434 314 477 388C414 331 347 292 269 264Z" fill="#FFFFFF" opacity=".28"/>
+  <rect width="1024" height="1024" fill="url(#highlight)"/>
+</svg>

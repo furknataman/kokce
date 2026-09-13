@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "mutfak",
+    "word": "mutfak",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "maṭbaḫ",
+        "meaning": "yemek pişirme yeri",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mutfak",
+        "meaning": "yemek hazırlanan ve pişirilen yer",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yemek hazırlanan ve pişirilen yer.",
+    "currentMeaning": "Yemek hazırlamaya ve pişirmeye ayrılmış bölüm; bir topluluğun yemek kültürü.",
+    "story": "Arapçada yemek pişirme eyleminden doğan maṭbaḫ, ateşin başında yemeğin hazırlandığı yeri adlandırıyordu. Türkçede matbah ve mutfak biçimleriyle yaşayan sözcük, pişirme yerini anlatmayı sürdürdü. Türk mutfağı gibi kullanımlarda ise bir odanın sınırlarını aşarak yemeklerin, tariflerin ve pişirme alışkanlıklarının ortak adı oldu.",
+    "firstAttestation": {
+      "source": "Meninski, Thesaurus",
+      "period": "1680",
+      "form": "matbaḫ"
+    },
+    "relatives": [
+      {
+        "word": "mutfak robotu",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mutfak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mutfak"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tabak",
+    "word": "tabak",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "tābag",
+        "meaning": "tava, tepsi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ṭabaḳ",
+        "meaning": "tava, tepsi, tencere kapağı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tabak",
+        "meaning": "yemek konulan yayvan kap",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İçine yemek konulan yayvan kap.",
+    "currentMeaning": "Yemek koymaya ve sunmaya yarayan, genellikle yayvan kap; bu kabın aldığı miktar.",
+    "story": "Orta Farsçadaki tābag, üzerinde yiyecek pişirilen sacı ve tepsi gibi yayvan kapları adlandırıyordu. Arapçaya geçtiğinde tava, tepsi ve tencere kapağı gibi düz yüzeyli mutfak eşyalarını kapsadı. Türkçede tabak adı, özellikle yemeğin sofraya konulduğu yayvan kapta yerleşti.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "tabac"
+    },
+    "relatives": [
+      {
+        "word": "tava",
+        "relation": "eş köken"
+      },
+      {
+        "word": "tabaka",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tabak ve tava maddeleri",
+        "url": "https://www.nisanyansozluk.com/kelime/tabak"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tas",
+    "word": "tas",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ṭās",
+        "meaning": "kadeh, çanak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tas",
+        "meaning": "su veya yiyecek konulan çukur kap",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İçine su veya yiyecek konulan çukur kap.",
+    "currentMeaning": "Genellikle metalden yapılan, su ve sulu yiyecekler için kullanılan çukur kap.",
+    "story": "Arapçadaki ṭās, sıvı konulan kadeh ve çanakları adlandırıyordu. Türkçenin eski kayıtlarında berber çanağı için de kullanılan tas, suyu elde taşımaya ve dökmeye yarayan kabın adı olarak yaşadı. Hamam tası ile çorba tasında aynı çukur kap biçimi farklı işlere hizmet eder.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "tas"
+    },
+    "relatives": [
+      {
+        "word": "kafatası",
+        "relation": "birleşik"
+      },
+      {
+        "word": "sefertası",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Fransızcadaki tasse ve İspanyolcadaki taza, Türkçedeki tas ile aynı Arapça kap adından gelir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tas maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/tas"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sahan",
+    "word": "sahan",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ṣaḥn",
+        "meaning": "geniş ve yayvan kap; avlu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sahan",
+        "meaning": "yemek pişirilen veya sunulan yayvan kap",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yemek pişirmeye veya sunmaya yarayan yayvan kap.",
+    "currentMeaning": "Genellikle metalden yapılan, derinliği az, içinde yemek pişirilen, ısıtılan veya sunulan kap.",
+    "story": "Arapçadaki ṣaḥn hem geniş ve yayvan bir kabı hem de avlu gibi açık bir alanı adlandırıyordu. İki kullanımda da genişçe açılan bir yüzey öne çıkar. Türkçede sahan, bu anlamlardan mutfak kabını sürdürdü; yumurtanın pişirildiği veya yemeğin sunulduğu alçak kenarlı kap oldu.",
+    "firstAttestation": {
+      "source": "Yazıcızade Ali, Târîh-i Âl-i Selçuk",
+      "period": "1423",
+      "form": "saḥnları"
+    },
+    "relatives": [
+      {
+        "word": "sahanlık",
+        "relation": "türev"
+      },
+      {
+        "word": "sahn",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sahan maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sahan"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ibrik",
+    "word": "ibrik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "ābrīk",
+        "meaning": "su döken",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ar",
+        "form": "ibrīḳ",
+        "meaning": "uzun boyunlu sürahi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ibrik",
+        "meaning": "kulplu ve emzikli su kabı",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Su dökmeye yarayan kulplu ve emzikli kap.",
+    "currentMeaning": "Su koymaya ve kontrollü biçimde dökmeye yarayan, kulplu, dar boyunlu ve emzikli kap.",
+    "story": "İbriğin adı, Orta Farsçada su ile dökme eylemini birleştiren, yazılı örneği bulunmadığı için yeniden kurulan ābrīk biçimiyle açıklanır. Bu adlandırmada kabın görünüşünden önce yaptığı iş, yani suyu akıtması öne çıkar. Arapçada uzun boyunlu sürahiyi adlandıran sözcük, Türkçede kulplu ve emzikli su kabında yaşamayı sürdürdü.",
+    "firstAttestation": {
+      "source": "Dîvânu Lugâti't-Türk",
+      "period": "1073",
+      "form": "ıvrıḳ"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Arapça ibrīḳ biçiminin öncesine yazılı tanıklığı bulunmayan Orta Farsça ābrīk biçimini yerleştirir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ibrik maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ibrik"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sofra",
+    "word": "sofra",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "sufra",
+        "meaning": "yol azığı; yemek örtüsü, sini",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sofra",
+        "meaning": "yemek yemek için hazırlanan düzen",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yemek yemek için hazırlanan örtü, masa ve yemek düzeni.",
+    "currentMeaning": "Yemek yemek üzere hazırlanan örtü veya masa; üzerindeki yemeklerin ve yemek düzeninin bütünü.",
+    "story": "Arapçadaki sufra, yolculuğa çıkan kişinin azığıyla bağlantılıydı ve yolculuk bildiren sefer ile aynı kökü taşıyordu. Sözcük, yiyeceğin yanında onun üzerine serildiği örtüyü ve yemek yenilen siniyi de adlandırdı. Türkçede bu örtü veya yüzey, üzerindeki yemeklerle birlikte düşünülerek sofra kurmak ifadesindeki bütün düzenin adı oldu.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "sufra"
+    },
+    "relatives": [
+      {
+        "word": "sefer",
+        "relation": "akraba"
+      },
+      {
+        "word": "sofra takımı",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sofra maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sofra"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sandalye",
+    "word": "sandalye",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "sandalye",
+        "meaning": "arkalıklı oturma eşyası",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir kişinin oturması için yapılmış arkalıklı eşya.",
+    "currentMeaning": "Genellikle dört ayaklı, arkalıklı ve kolçaksız, bir kişilik oturma eşyası.",
+    "story": "Sandalyenin geçmişi iki farklı yoldan açıklanır. Bir açıklama, Yunancada ayakkabı tabanı ve ahşap seki gibi düz yüzeyleri adlandıran kelime ailesini oturakla ilişkilendirir. Diğer açıklama, Latinceye dayanan İtalyanca sedilia biçimini başlangıç alır. Türkçede eski sandali biçiminden bugünkü sandalyeye uzanan kullanımın merkezinde oturulan eşya vardır; Türkçeye hangi dilden geçtiği konusunda uzlaşma yoktur.",
+    "firstAttestation": {
+      "source": "Erzurumlu Darîr, Kıssa-i Yûsuf tercümesi",
+      "period": "1377'den önce",
+      "form": "ṣandali"
+    },
+    "relatives": [
+      {
+        "word": "sandalyeci",
+        "relation": "türev"
+      },
+      {
+        "word": "tekerlekli sandalye",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, sandalye kelimesini ahşap seki ve ayakkabı tabanı gibi anlamlar taşıyan Yunanca sandálion kelimesinin çoğulu sandália ile açıklar.",
+      "Kubbealtı Lugatı, sandalye kelimesini Latinceye dayanan İtalyanca sedilia biçimine bağlar."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sandalye maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sandalye"
+      },
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "SANDALYE – SANDALYA maddesi",
+        "url": "https://lugatim.com/s/sandalye"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "minder",
+    "word": "minder",
+    "partOfSpeech": "isim",
+    "formationType": "tartışmalı",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "minder",
+        "meaning": "içi doldurulmuş oturma yastığı",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Oturmayı yumuşatmak için kullanılan dolgulu yastık.",
+    "currentMeaning": "Yere veya oturma eşyasına konulan, içi yün, pamuk, sünger gibi malzemelerle doldurulmuş yastık.",
+    "story": "Minderin Türkçedeki eski kullanımında yünle veya benzeri malzemelerle doldurulan döşek ve şilte vardır. Kelime, Farsçada eskimiş ama hâlâ kullanılabilen giysiyi anlattığı düşünülen nīmdār ile ilişkilendirilir; ancak bu bağlantı kesin değildir. Giysi adının oturma yastığına nasıl dönüştüğünü gösteren anlam basamakları bilinmediğinden, bugünkü minderin daha eski hikâyesi açık kalır.",
+    "firstAttestation": {
+      "source": "Meninski, Thesaurus",
+      "period": "1680",
+      "form": "minder"
+    },
+    "relatives": [
+      {
+        "word": "minderli",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Farsça nīmdār bağlantısını olasılık olarak sunar ve giysiden döşek veya yastığa uzanan anlam gelişiminin açıklanamadığını belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "minder maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/minder"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "havuz",
+    "word": "havuz",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥawḍ",
+        "meaning": "su birikintisi, havuz, sarnıç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "havuz",
+        "meaning": "su biriktirilen yapay hazne",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Su biriktirmek veya yüzmek için yapılmış hazne.",
+    "currentMeaning": "Su biriktirme, yüzme, süsleme veya başka amaçlarla yapılan, içi suyla doldurulabilen yapı.",
+    "story": "Arapçadaki ḥawḍ, suyun bir yerde toplanmasını; birikintiyi, sarnıcı ve havuzu adlandırıyordu. Türkçede de sözcüğün merkezinde suyu tutan çevrili alan kaldı. Süs havuzu ve yüzme havuzu farklı amaçlara hizmet etse de aynı su biriktirme işlevini paylaşır. Arapça biçimin daha geride Farsçadaki bir su birikintisi adıyla bağlantılı olması mümkündür, ancak bu bağ kesinleşmiş değildir.",
+    "firstAttestation": {
+      "source": "Rabgûzî, Kısasü'l-Enbiyâ",
+      "period": "1310",
+      "form": "ḥavẓ"
+    },
+    "relatives": [
+      {
+        "word": "yüzme havuzu",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Arapça ḥawḍ ile Farsça āvāza arasında olası bir ilişki bulunduğunu belirtir; Farsçadan alıntıyı kesinleştirmez."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "havuz maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/havuz"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "raf",
+    "word": "raf",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "raff",
+        "meaning": "eşya konulan duvar çıkıntısı, sergen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "raf",
+        "meaning": "eşya yerleştirilen yatay yüzey",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Üzerine eşya konulan yatay yüzey.",
+    "currentMeaning": "Duvara, dolaba veya bir taşıyıcıya yerleştirilen, eşya koymaya yarayan yatay levha veya bölme.",
+    "story": "Arapçadaki raff, duvarın üst bölümünde eşya koymak için yapılmış çıkıntıyı adlandırıyordu. Türkçedeki eski kullanım da evin duvarına yerleştirilen bu eşya taşıyıcısını anlatır. Bugün raf duvarın parçası olmak zorunda değildir; dolapta veya bağımsız bir kitaplıkta da aynı yatay taşıma yüzeyinin adıdır.",
+    "firstAttestation": {
+      "source": "Câmiü'l-Fürs",
+      "period": "1501",
+      "form": "raf"
+    },
+    "relatives": [
+      {
+        "word": "raflı",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "raf maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/raf"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mahalle",
+    "word": "mahalle",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "maḥalla",
+        "meaning": "konaklama yeri, durak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mahalle",
+        "meaning": "şehir veya kasabanın yerleşim bölümü",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şehir veya kasabanın yerleşim bölümlerinden biri.",
+    "currentMeaning": "Şehir veya kasabanın idari bölümlerinden her biri; bu bölümde yaşayan insanların oluşturduğu çevre.",
+    "story": "Arapçadaki maḥalla, yolculuk sırasında konulan ve kalınan yeri adlandırıyordu. Türkçenin eski kullanımında da durak ve menzil anlamı görülür. Konaklanan yerden insanların birlikte yaşadığı yerleşim bölümüne uzanan anlam, bugün bir kentin sokaklarını ve komşuluk çevresini kapsar.",
+    "firstAttestation": {
+      "source": "Gülşehrî, Mantıku't-Tayr",
+      "period": "1317",
+      "form": "maḥalle"
+    },
+    "relatives": [
+      {
+        "word": "mahal",
+        "relation": "akraba"
+      },
+      {
+        "word": "mahalleli",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mahalle maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mahalle"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sokak",
+    "word": "sokak",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {
+        "language": "akk",
+        "form": "sūḳu",
+        "meaning": "sokak, çarşı geçidi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "akk",
+        "form": "sūḳāḳu",
+        "meaning": "küçük sokak, dar geçit",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "zuḳāḳ",
+        "meaning": "sokak, dar geçit",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sokak",
+        "meaning": "yerleşim içinde binalar arasındaki yol",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yerleşim içinde binalar arasında uzanan yol.",
+    "currentMeaning": "Şehir ve kasaba gibi yerleşimlerde binalar arasında uzanan, genellikle caddeden daha dar yol.",
+    "story": "Akkadcada sūḳu, özellikle çarşıda belirli malların satıldığı geçidi adlandırıyordu. Bunun küçültülmüş biçimi sūḳāḳu, dar sokağı anlattı ve Arapçaya zuḳāḳ olarak geçti. Türkçede zamanla sokak biçimini alan ad, çarşıyla sınırlı kalmadan evler ve dükkânlar arasındaki yolları kapsadı.",
+    "firstAttestation": {
+      "source": "Mesud bin Ahmed, Süheyl ü Nevbahar tercümesi",
+      "period": "1354",
+      "form": "zuḳāḳ"
+    },
+    "relatives": [
+      {
+        "word": "çıkmaz sokak",
+        "relation": "birleşik"
+      },
+      {
+        "word": "sokak dili",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sokak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sokak"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "cadde",
+    "word": "cadde",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "cādda",
+        "meaning": "geniş yol, ana yol",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "cadde",
+        "meaning": "yerleşim içindeki geniş ana yol",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yerleşim içindeki geniş ve işlek yol.",
+    "currentMeaning": "Şehir veya kasabada bulunan, genellikle sokaklardan daha geniş ve önemli ulaşım yolu.",
+    "story": "Arapçadaki cādda, geniş ve ana yolu adlandırır; kökünde kesme eylemi bulunur. Türkçedeki eski kullanımlarında yol, adalet yolu gibi soyut bir güzergâhı da anlatıyordu. Günlük dilde cadde adı, insanların ve taşıtların ilerlediği geniş şehir yolunda yerleşti.",
+    "firstAttestation": {
+      "source": "Hoca Sâdeddin Efendi, Tâcü't-Tevârîh",
+      "period": "1574",
+      "form": "cādde"
+    },
+    "relatives": [
+      {
+        "word": "ana cadde",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "cadde maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/cadde"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bina",
+    "word": "bina",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "bināˀ",
+        "meaning": "yapma, inşa etme; yapı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bina",
+        "meaning": "barınma veya başka amaçlarla yapılmış yapı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Barınma veya başka amaçlarla yapılmış yapı.",
+    "currentMeaning": "İçinde yaşamak, çalışmak veya çeşitli faaliyetlerde bulunmak için yapılmış, üstü örtülü yapı.",
+    "story": "Arapçadaki bināˀ hem yapma işini hem de bu işin sonunda ortaya çıkan yapıyı kapsıyordu. Türkçede bina etmek ifadesi kurma eylemini korurken, tek başına bina çoğunlukla duvarları ve çatısı olan yapıyı adlandırdı. Böylece eylem ile onun somut sonucu, aynı kelimenin iki kullanımında yaşamayı sürdürdü.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "bünye",
+        "relation": "akraba"
+      },
+      {
+        "word": "bani",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bina maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bina"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "daire",
+    "word": "daire",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "dāˀira",
+        "meaning": "döngü, çember, halka",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "daire",
+        "meaning": "çemberin iç bölgesi; konut bölümü; büro",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çemberin iç bölgesi; bağımsız konut veya büro.",
+    "currentMeaning": "Bir çemberin sınırladığı düzlem bölgesi; bir binadaki bağımsız konut; resmî işlerin yürütüldüğü birim veya yer.",
+    "story": "Arapçadaki dāˀira, dönme hareketinden doğan halka ve çemberi adlandırıyordu. Türkçede önce bu çevreleyen biçim görülürken, daha sonra bir kuruma veya işe ayrılmış bölüm de daire diye anıldı. Büyük bir konağın birkaç odadan oluşan bölümü için de aynı ad kullanıldı. Bugünkü apartman dairesi, bu bölüm anlamını sürdürür; odaların yuvarlak olması gerekmez.",
+    "firstAttestation": {
+      "source": "Gülşehrî, Mantıku't-Tayr",
+      "period": "1317",
+      "form": "dāyire"
+    },
+    "relatives": [
+      {
+        "word": "devir",
+        "relation": "akraba"
+      },
+      {
+        "word": "dairesel",
+        "relation": "türev"
+      },
+      {
+        "word": "apartman dairesi",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "daire maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/daire"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "inşaat",
+    "word": "inşaat",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "inşāˀ",
+        "meaning": "yaratma, kurma, oluşturma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "inşāˀāt",
+        "meaning": "kurmalar, yapımlar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "inşaat",
+        "meaning": "yapı yapma işi; yapılmakta olan yapı",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yapı yapma işi veya yapılmakta olan yapı.",
+    "currentMeaning": "Bina, köprü, yol gibi yapıların yapılması işi; bu işin sürdüğü yer veya henüz tamamlanmamış yapı.",
+    "story": "Arapçadaki inşāˀ, bir şeyi ortaya çıkarma ve kurma işini kapsıyordu. Türkçenin eski kullanımında şiir ve sanatlı söz de inşa ediliyor, kelimeler bir kompozisyon oluşturacak biçimde bir araya getiriliyordu. Geç Osmanlı döneminde bina yapma anlamı öne çıktı ve inşaat yapılan yapıları adlandırdı. Bugün sözcük hem yapım sürecini hem de tamamlanmamış yapıyı anlatır.",
+    "firstAttestation": {
+      "source": "Ahmed Vefik Paşa, Lehce-i Osmânî",
+      "period": "1876",
+      "form": "inşāˁāt"
+    },
+    "relatives": [
+      {
+        "word": "inşa",
+        "relation": "akraba"
+      },
+      {
+        "word": "inşaatçı",
+        "relation": "türev"
+      },
+      {
+        "word": "münşeat",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "inşa maddesi, inşaat alt maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/in%C5%9Faat"
+      },
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "İNŞAAT maddesi",
+        "url": "https://lugatim.com/s/in%C5%9Faat"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tamir",
+    "word": "tamir",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "taˁmīr",
+        "meaning": "canlandırma, bayındır kılma, onarma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tamir",
+        "meaning": "bozulmuş veya eskimiş şeyi onarma",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bozulmuş veya eskimiş bir şeyi yeniden kullanılabilir kılma.",
+    "currentMeaning": "Bozuk, kırık veya yıpranmış bir şeyi onarma; bir yanlışlığı ya da zararı giderme.",
+    "story": "Arapçadaki taˁmīr, bir yere veya şeye yeniden canlılık kazandırmayı ve onu bayındır hâle getirmeyi anlatıyordu. Harap bir yapının onarılıp yeniden kullanılabilmesi, bu canlandırmanın somut karşılığıydı. Türkçede tamir, binalardan ayakkabıya ve makinelere kadar bozulan şeyleri işler duruma getirme işinin adı oldu.",
+    "firstAttestation": {
+      "source": "Dânişmendnâme",
+      "period": "1360",
+      "form": "taˁmīr"
+    },
+    "relatives": [
+      {
+        "word": "tamirci",
+        "relation": "türev"
+      },
+      {
+        "word": "tamirat",
+        "relation": "akraba"
+      },
+      {
+        "word": "imar",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tamir maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/tamir"
+      },
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "TÂMİR maddesi",
+        "url": "https://lugatim.com/s/tamir"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kira",
+    "word": "kira",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {
+        "language": "arc",
+        "form": "kəriyā",
+        "meaning": "mahsul yığını; arazi kirası olarak verilen mahsul",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "kirāˀ",
+        "meaning": "bir mülkten yararlanma karşılığı ödenen bedel",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kira",
+        "meaning": "bir şeyi kullanma karşılığında ödenen bedel",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyi kullanma hakkı karşılığında ödenen bedel.",
+    "currentMeaning": "Bir malın veya mülkün belirli süre kullanılmasına karşılık ödenen bedel; bu kullanım ilişkisi.",
+    "story": "Kiranın daha eski halkasında Aramicede mal ve mahsul yığınını anlatan bir ad bulunur. Bu yığın, araziyi kullanmanın karşılığı olarak verilen ürün miktarını da adlandırıyordu. Arapçada kirāˀ, mülkten yararlanma hakkı için ödenen bedele dönüştü. Türkçede kira denince artık çoğunlukla para düşünülse de kelimenin geçmişinde tarladan ayrılan bir ürün payı vardır.",
+    "firstAttestation": {
+      "source": "Ebû Hayyân, Kitâbü'l-İdrâk",
+      "period": "1312",
+      "form": "kirāye"
+    },
+    "relatives": [
+      {
+        "word": "kiracı",
+        "relation": "türev"
+      },
+      {
+        "word": "kiralamak",
+        "relation": "türev"
+      },
+      {
+        "word": "kiralık",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kira maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kira"
+      },
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "KİRÂ maddesi",
+        "url": "https://lugatim.com/s/kira"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ücret",
+    "word": "ücret",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ucra",
+        "meaning": "emeğin karşılığı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ücret",
+        "meaning": "iş veya hizmet karşılığında ödenen bedel",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir iş veya hizmet karşılığında ödenen bedel.",
+    "currentMeaning": "Emek, iş veya hizmet karşılığında ödenen para; bir hizmetten yararlanmanın bedeli.",
+    "story": "Arapçadaki ucra, yapılan emeğin karşılığını adlandırıyordu. Türkçedeki eski örneklerde yazı yazmak gibi belirli bir iş için alınacak bedel de ücret diye anılır. Sözcük bugün hem çalışanın emeğine karşılık aldığı parayı hem de ulaşım gibi bir hizmetten yararlanmak için ödenen tutarı kapsar.",
+    "firstAttestation": {
+      "source": "Nehcü'l-Ferâdîs",
+      "period": "1358",
+      "form": "ücret"
+    },
+    "relatives": [
+      {
+        "word": "ecir",
+        "relation": "akraba"
+      },
+      {
+        "word": "ücretli",
+        "relation": "türev"
+      },
+      {
+        "word": "ücretsiz",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ücret maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C3%BCcret"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hesap",
+    "word": "hesap",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥisāb",
+        "meaning": "sayma, hesaplama, aritmetik",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hesap",
+        "meaning": "sayısal işlem; alacak ve borç dökümü",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sayısal işlem veya alacak ve borçların dökümü.",
+    "currentMeaning": "Sayılarla yapılan işlem; alacak ve borçların dökümü; ödenecek tutar; değerlendirme veya tasarlama.",
+    "story": "Arapçadaki ḥisāb, sayma ve hesaplama işini adlandırıyordu. Türkçede günleri saymaktan alınan ve verilen şeylerin dökümünü çıkarmaya kadar uzanan kullanımlar kazandı. Bir alışverişin toplam bedeli de bu işlemle bulunduğu için hesap, ödenecek tutarın adı oldu. Hesap vermek ifadesinde ise sayılan paraların yerini açıklanması gereken davranışlar alır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "hesaplamak",
+        "relation": "türev"
+      },
+      {
+        "word": "muhasebe",
+        "relation": "akraba"
+      },
+      {
+        "word": "mahsup",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hesap maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/hesap"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
