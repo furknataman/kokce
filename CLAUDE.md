@@ -67,3 +67,26 @@ String Catalogs. iOS 18+, iPhone. Hesap yok, sunucu yok; içerik yerelden okunur
   tonları; **kırmızı kullanılmaz**. Kelime başlıkları `.fontDesign(.serif)`.
   Liquid Glass yalnızca gezinme/kontrollerde, `#available(iOS 26)` arkasında.
 - **Deep link:** `kokce://word/<id>`; bilinmeyen id Bugün sekmesine düşer.
+
+## Proje durumu (13 Eylül 2026)
+
+- **Sürüm 1.0 (build 1) App Store incelemesinde** (`WAITING_FOR_REVIEW`). ASC App ID `6811577378`,
+  bundle `com.solvy.kokce`, takım `PY8XQ9L8AA`. Ücretsiz, 175 ülke, yaş 4+, kategori Eğitim/Referans,
+  metadata TR + en-US, iPhone 6,9" ve iPad 13" ekran görüntüleri yüklü.
+- **Build yükleme:** `xcodebuild archive` + `-exportArchive` (`method: app-store-connect`,
+  `destination: upload`) **`-allowProvisioningUpdates` ile Xcode hesabından**; ASC API anahtarı
+  cloud signing yetkisi vermiyor. Sonraki sürümde `CURRENT_PROJECT_VERSION` artırılır.
+- **İçerik:** `words.json` contentVersion 3, 538 kelime (250 gündelik, 288 az bilinen; 429 yüksek /
+  109 orta güven; 12 kelime kaynaksız olduğu için elendi). Uzak katalog GitHub `main` dalından çekilir.
+- **Mağaza varlıkları:** `Design/app-icon.svg` (ikon), `Design/store/screenshots.html` + `render.sh`
+  (`out/` gitignore'da), `Design/store/metadata-tr.md`, `Design/review/kelimeler.html` (insan incelemesi).
+- **Çalışma modeli:** Claude orkestra şefi; kod Opus alt ajanları; içerik üretimi ve kod incelemesi
+  Codex (`codex exec -s read-only`). İş bitmeden simülatör açılmaz; son denetim tek simülatörde.
+
+### Bilinen eksikler / sonraki adımlar
+- Widget'ın kip (`wordOfDay.mode`) okuması imzasız simülatörde doğrulanamadı; gerçek cihazda test et.
+- iPad'de Ayarlar formu tam genişlik; `Theme.contentMaxWidth` ile daraltılabilir.
+- Elenen kelimeler doğru yazımla yeniden çekilebilir: `siluet`→`silüet`, `iskarmoz`→`ıskarmoz`,
+  `nekahat`→`nekahet`, `ağu`→`ağı`, `stakato`→`staccato`; Kubbealtı kaynak olarak hatta yok.
+- EN arayüzde köken dili adları Türkçe (`languages` sözlüğü tek dilli).
+- ASC "Uygulama Gizliliği" beyanı yalnızca web'den girilir (veri toplanmıyor).
