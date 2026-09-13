@@ -1,103 +1,107 @@
 [
   {
-    "id": "mobilya",
+    "id": "lapina",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "büfe",
+    "id": "lakerda",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "komodin",
+    "id": "orkinos",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "vitrin",
+    "id": "kalamata",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "abajur",
+    "id": "sirtaki",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "aplik",
+    "id": "horon",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "stor",
+    "id": "imbat",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "paravan",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "karton",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "ambalaj",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "nezaket",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "nadide",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "hercai",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "biçare",
+    "id": "bora",
     "verdict": "check",
     "reasons": [
-      "Zincir sırası kaynaktan farklı: madde fa › pal › fa, kaynak fa › fa › pal"
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: tr"
     ]
   },
   {
-    "id": "nevale",
+    "id": "alarga",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "serencam",
+    "id": "avara",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "revan",
+    "id": "karina",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "avare",
+    "id": "pruva",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "aheste",
+    "id": "pupa",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "asude",
+    "id": "konçerto",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "libretto",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "maestro",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "mezzosoprano",
+    "verdict": "check",
+    "reasons": [
+      "Zincir sırası kaynaktan farklı: madde it › la › it, kaynak it › it › la"
+    ]
+  },
+  {
+    "id": "stakato",
+    "verdict": "check",
+    "reasons": [
+      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
+    ]
+  },
+  {
+    "id": "tremolo",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "andante",
     "verdict": "ok",
     "reasons": []
   }

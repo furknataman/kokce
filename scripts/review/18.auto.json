@@ -1,107 +1,101 @@
 [
   {
-    "id": "aşina",
-    "verdict": "check",
-    "reasons": [
-      "Kaynaktaki bileşik dil etiketi (ae / peo) iki ayrı halkaya bölünmüş: ae › peo"
-    ]
-  },
-  {
-    "id": "aşiyan",
+    "id": "figüratif",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "berduş",
+    "id": "fragman",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "bedbin",
+    "id": "grotesk",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "bedhah",
+    "id": "illüzyon",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "bedmest",
-    "verdict": "check",
-    "reasons": [
-      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
-    ]
-  },
-  {
-    "id": "behre",
+    "id": "ironi",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "beyhude",
+    "id": "jargon",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "bihaber",
+    "id": "kadans",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "pürüz",
+    "id": "karizma",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "canhıraş",
+    "id": "klişe",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "canfeza",
+    "id": "kolaj",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "canpare",
-    "verdict": "check",
-    "reasons": [
-      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
-    ]
-  },
-  {
-    "id": "derbeder",
+    "id": "lirik",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "dergâh",
+    "id": "marjinal",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "derun",
+    "id": "melankoli",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "didar",
+    "id": "metafor",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "dilber",
+    "id": "nüans",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "dilbaz",
+    "id": "palimpsest",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "girift",
+    "id": "pastiş",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "patetik",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "pitoresk",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "retorik",
     "verdict": "ok",
     "reasons": []
   }

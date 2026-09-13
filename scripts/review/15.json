@@ -1,0 +1,18 @@
+[
+  {
+    "id": "kem",
+    "verdict": "fix",
+    "objections": [
+      "formationType 'alıntı' verilmiş; kaynaklar Farsça alıntı ile Eski Türkçe devamlılık arasında ayrışıyor, bu bir oluşum türü ayrışması olduğu için değer 'tartışmalı' olmalı.",
+      "sources[0].ref alanına 'Uygurca tanıklık hastalık anlamındaki alternatifle ilgilidir' uyarısı sıkıştırılmış; ref madde adını taşır, uyarı alternatives'e taşındı."
+    ]
+  },
+  {
+    "id": "nevnihal",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor; düşürmeden önce ayrı yazım denemeye değer.",
+      "Tek kaynak olarak Kubbealtı Lugatı gösteriliyor; bu sözlük doğrulama hattında hiç çekilmediği için madde bağımsız olarak teyit edilemiyor."
+    ]
+  }
+]

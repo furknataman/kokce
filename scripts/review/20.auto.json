@@ -1,107 +1,109 @@
 [
   {
-    "id": "aşina",
+    "id": "bıldır",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "bucak",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "çığır",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "çise",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "çiy",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "dirlik",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "duru",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "esen",
     "verdict": "check",
     "reasons": [
-      "Kaynaktaki bileşik dil etiketi (ae / peo) iki ayrı halkaya bölünmüş: ae › peo"
+      "donorLanguage fa zincirde var ama en yakın dil değil (kaynak: otk)"
     ]
   },
   {
-    "id": "aşiyan",
+    "id": "esrik",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "berduş",
+    "id": "gönenç",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "bedbin",
+    "id": "gönenmek",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "bedhah",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "bedmest",
+    "id": "görkem",
     "verdict": "check",
     "reasons": [
-      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
+      "Kaynak zincirinde olup maddede olmayan halka: tr"
     ]
   },
   {
-    "id": "behre",
+    "id": "gücenmek",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "beyhude",
+    "id": "güvey",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "bihaber",
+    "id": "ırak",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "pürüz",
+    "id": "ılgım",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "canhıraş",
+    "id": "ılgın",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "canfeza",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "canpare",
+    "id": "im",
     "verdict": "check",
     "reasons": [
-      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
+      "donorLanguage zh zincirde var ama en yakın dil değil (kaynak: otk)"
     ]
   },
   {
-    "id": "derbeder",
-    "verdict": "ok",
-    "reasons": []
+    "id": "imece",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: tr"
+    ]
   },
   {
-    "id": "dergâh",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "derun",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "didar",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "dilber",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "dilbaz",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "girift",
+    "id": "irkilmek",
     "verdict": "ok",
     "reasons": []
   }

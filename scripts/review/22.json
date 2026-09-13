@@ -1,0 +1,24 @@
+[
+  {
+    "id": "bora",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation'daki borġan biçimi madde başının değil, kaynağın eşkökenli saydığı boran biçiminin tanığı; kaynakta bora için ayrı bir tanıklık bulunmadığından kayıt korundu, durum funFact ile açıklandı.",
+      "relatives null bırakılmış; kaynağın açıkça ilişkilendirdiği boran biçimi akraba olarak eklendi."
+    ]
+  },
+  {
+    "id": "mezzosoprano",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "stakato",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor.",
+      "sources dizisi boş, doğrulayıcı da bu yüzden hata veriyor.",
+      "Düşürmeden önce İtalyanca yazımıyla (staccato) yeniden çekilmeli."
+    ]
+  }
+]

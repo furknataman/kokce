@@ -56,8 +56,10 @@
   },
   {
     "id": "balkon",
-    "verdict": "ok",
-    "objections": []
+    "verdict": "fix",
+    "objections": [
+      "Eski Yüksek Almanca halkası de koduyla verilmiş; schema.md'ye goh kodu eklendiği için halka artık doğru kodla yazılabilir."
+    ]
   },
   {
     "id": "salon",
@@ -65,7 +67,9 @@
     "objections": [
       "chain[0] Hint-Avrupa halkasının anlamı kaynakta boş, maddede bir sonraki Germence halkanın anlamı kopyalanarak doldurulmuş; bu anlam o aşama için uydurmadır, halka çıkarıldı.",
       "Zincir düzelince ultimateOrigin ine değil it olur.",
-      "chain[].meaning değerleri büyük harfle başlıyor; 12 dışındaki bütün partilerde bu alan küçük harfle başlıyor, madde geneline uyduruldu."
+      "chain[].meaning değerleri büyük harfle başlıyor; 12 dışındaki bütün partilerde bu alan küçük harfle başlıyor, madde geneline uyduruldu.",
+      "Kaynaktaki Germence halkası zincirde yok; schema.md'ye gem kodu eklendiği için halka artık zincire eklenebilir.",
+      "Halka eklenince ultimateOrigin it değil gem olur."
     ]
   }
 ]

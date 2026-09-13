@@ -24,7 +24,7 @@ import re
 import sys
 import urllib.parse
 
-from validate_words import LANGUAGES, nfc, slugify_id
+from validate_words import FORMATION_TYPES, LANGUAGES, nfc, slugify_id
 
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(SCRIPTS_DIR)
@@ -131,6 +131,9 @@ SOURCE_LANG = {
     "slav anadili": "sla",
     "sami anadili": "sem",
 }
+
+# Alıntı olmayan, Türkçenin kendi içinde kalan halkalar.
+NATIVE_CODES = {"tr", "otk"}
 
 # Dil olmayan kaynak etiketleri: eşlenemedi diye rapor edilmezler.
 NON_LANGUAGE = {
@@ -448,6 +451,18 @@ def check_cognates(item, entry, reasons):
                        "aktarım halkası olarak konmuş: %s" % ", ".join(intruders))
 
 
+def check_formation(item, reasons):
+    """formationType izinli bir değer mi. null ya da bilinmeyen değer her zaman check."""
+    formation = item.get("formationType")
+    if formation not in FORMATION_TYPES:
+        reasons.append("formationType izinli bir değer değil: %r" % (formation,))
+
+
+def chain_languages(item):
+    return {st.get("language") for st in item.get("chain") or []
+            if isinstance(st, dict) and st.get("language")}
+
+
 def check_uncertainty(item, entry, reasons):
     if not entry:
         return
@@ -505,6 +520,7 @@ def crosscheck_item(item):
     check_donor(item, entry, tdk, reasons)
     check_chain(item, entry, reasons)
     check_attestation(item, entry, reasons)
+    check_formation(item, reasons)
     check_cognates(item, entry, reasons)
     check_uncertainty(item, entry, reasons)
     check_source_url(item, entry, reasons)
@@ -538,6 +554,14 @@ def autofix_items(items):
     for item in items:
         if not isinstance(item, dict):
             continue
+        # formationType yok ve zincir tamamen Türkçe içindeyse alıntı değildir.
+        if item.get("formationType") not in FORMATION_TYPES:
+            langs = chain_languages(item)
+            if langs and langs <= NATIVE_CODES and not item.get("donorLanguage"):
+                item["formationType"] = "öz"
+                fixed.append((slugify_id(item.get("word") or item.get("id") or ""),
+                              "formationType: null → öz"))
+            continue
         if item.get("formationType") != "tartışmalı":
             continue
         donor = canon(item.get("donorLanguage"))
@@ -548,7 +572,7 @@ def autofix_items(items):
         if source_has_uncertainty(entry) is not False:
             continue  # kaynak yok ya da kaynakta tartışma var: dokunma
         item["formationType"] = "alıntı"
-        fixed.append(word_id)
+        fixed.append((word_id, "formationType: tartışmalı → alıntı"))
     return fixed
 
 
@@ -556,10 +580,8 @@ def write_autofix_log(tag, fixed):
     os.makedirs(LOG_DIR, exist_ok=True)
     stamp = datetime.datetime.now().astimezone().isoformat(timespec="seconds")
     with open(AUTOFIX_LOG, "a", encoding="utf-8") as handle:
-        for word_id in fixed:
-            handle.write("%s\t%s\t%s\t%s\n"
-                         % (stamp, tag, word_id,
-                            "formationType: tartışmalı → alıntı"))
+        for word_id, note in fixed:
+            handle.write("%s\t%s\t%s\t%s\n" % (stamp, tag, word_id, note))
 
 
 def crosscheck_batch(tag, batches_dir, review_dir, autofix=False):
@@ -580,8 +602,10 @@ def crosscheck_batch(tag, batches_dir, review_dir, autofix=False):
                 json.dump(items, handle, ensure_ascii=False, indent=2)
                 handle.write("\n")
             write_autofix_log(tag, fixed)
-            print("Parti %s: %d madde düzeltildi (tartışmalı → alıntı): %s"
-                  % (tag, len(fixed), ", ".join(fixed)))
+            print("Parti %s: %d madde düzeltildi: %s"
+                  % (tag, len(fixed),
+                     ", ".join("%s (%s)" % (w, n.split(": ", 1)[-1])
+                               for w, n in fixed)))
 
     results = [crosscheck_item(item) for item in items if isinstance(item, dict)]
     os.makedirs(review_dir, exist_ok=True)

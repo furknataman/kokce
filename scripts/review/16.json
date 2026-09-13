@@ -1,0 +1,15 @@
+[
+  {
+    "id": "alegori",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "alüzyon",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor; düşürmeden önce ayrı yazım denemeye değer.",
+      "sources dizisi boş, doğrulayıcı da bu yüzden hata veriyor; şemaya göre en az 1 kaynak zorunlu."
+    ]
+  }
+]

@@ -1,0 +1,564 @@
+[
+  {
+    "id": "mütemayil",
+    "word": "mütemayil",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "māla",
+        "meaning": "bir yana eğildi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mutamāyil",
+        "meaning": "bir yöne veya şeye eğilim gösteren",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mütemayil",
+        "meaning": "eğimi veya eğilimi olan",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir yana eğimli veya bir şeye eğilimli.",
+    "currentMeaning": "Bir yöne doğru eğimi bulunan; bir şeye yönelmeye yatkın olan.",
+    "story": "Kelimenin başlangıcında Arapça māla ile anlatılan bir yana eğilme hareketi vardır. Bu hareket, mutamāyil biçiminde hem bir yöne eğilmeyi hem bir şeye ilgiyle yönelmeyi anlatır. Türkçedeki mütemayil de fiziksel eğimle kişinin içindeki eğilimi aynı kelimede buluşturur.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "mütemāyil"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mütemayil maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCtemayil"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mütemayil",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müstesna",
+    "word": "müstesna",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "s̱anā",
+        "meaning": "ekledi, katlayarak ikiye çıkardı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mustas̱nā",
+        "meaning": "ayrı tutulan, ayrıcalığı bulunan; hesapta eksilen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müstesna",
+        "meaning": "genelin dışında tutulan, benzerlerinden ayrılan",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Genelin dışında kalan veya ayrı tutulan.",
+    "currentMeaning": "Bir kuralın kapsamına alınmayan ya da özellikleriyle benzerlerinden ayrılan.",
+    "story": "Arapça s̱anā fiilinin eski anlamlarında eklemek ve katlamak vardır. Aynı kökten oluşan mustas̱nā ise ayrı tutulan şeyi anlatır; aritmetikte eksilen için de kullanılır. Türkçeye taşınan müstesna, bir bütünün dışında kalmayı anlatırken üstün özellikleriyle başkalarından ayrılan kişiye veya şeye de yakıştırılır.",
+    "firstAttestation": {
+      "source": "Yazıcızade Ali — Tarih-i Âl-i Selçuk",
+      "period": "1423",
+      "form": "müstesnā"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müstesna maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCstesna"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "müstesna",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müstakbel",
+    "word": "müstakbel",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḳabala",
+        "meaning": "bir yöne döndü, yönünü çevirdi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mustaḳbil",
+        "meaning": "dil bilgisinde geleceği bildiren zaman",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müstakbel",
+        "meaning": "gelecekte gerçekleşmesi beklenen",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gelecekte olması beklenen.",
+    "currentMeaning": "Henüz gerçekleşmemiş olup ileride ortaya çıkması veya belli bir konuma gelmesi beklenen.",
+    "story": "Arapça ḳabala, yönünü bir tarafa çevirmeyi anlatır. Bu köke bağlı mustaḳbil, dil bilgisinde geleceği adlandırır; böylece yönelme hareketinin yerini zamanın ilerisi alır. Türkçede önce müstakbil biçimiyle kullanılan kelimede, 19. yüzyılda müstakbel biçimi baskınlaşır. Bugün müstakbel eş gibi kullanımlarda henüz gerçekleşmemiş bir durumu geleceğe yerleştirir.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "müstaḳbili"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müstakbel maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCstakbel"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "müstakbel",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muvaffak",
+    "word": "muvaffak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "wafiḳa",
+        "meaning": "uyum gösterdi, uygun düştü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "waffaḳa",
+        "meaning": "denk geldi, başarıya ulaştı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muwaffaḳ",
+        "meaning": "denk düşen, talihi elveren",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muvaffak",
+        "meaning": "başarıya ulaşmış",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İstediği sonuca ulaşmış, başarı kazanmış.",
+    "currentMeaning": "Giriştiği işi sonuçlandırmış veya hedeflediği başarıyı elde etmiş olan.",
+    "story": "Arapça wafiḳa ile başlayan anlam çizgisinde önce uyum ve uygun düşme vardır. Waffaḳa aşamasında buna denk gelme ve başarma eklenir; muwaffaḳ ise talihi elveren kişiyi de anlatır. Türkçede muvaffak denildiğinde ağırlık, işlerin uygun düşmesinden kişinin başarıya ulaşmasına kaymıştır.",
+    "firstAttestation": {
+      "source": "Sinan Paşa — Tazarru'nâme",
+      "period": "1482",
+      "form": "muvaffaḳ"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muvaffak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muvaffak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muvaffak",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "münzevi",
+    "word": "münzevi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "zāwiya(t)",
+        "meaning": "köşe, kenarda kalan yer",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "munzawī",
+        "meaning": "bir köşeye çekilmiş olan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "münzevi",
+        "meaning": "insanlardan uzak durup yalnızlığı seçen",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsanlardan uzak durup yalnız yaşamayı seven.",
+    "currentMeaning": "Kalabalığa karışmaktan kaçınan, kendi başına kalmayı tercih eden.",
+    "story": "Münzevinin ardında Arapça zāwiya(t), yani bir köşe bulunur. Munzawī, bu köşeye çekilen kişiyi adlandırır; mekândaki geri çekiliş, insanlardan uzaklaşmanın da anlatımı olur. Türkçede kelime, belirli bir köşede oturmaktan çok yalnızlığı seçen kişinin yaşayışını niteler.",
+    "firstAttestation": {
+      "source": "Anonim — Ferec ba'd eş-şidde",
+      "period": "<1451",
+      "form": "münzevīdür"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "münzevi maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCnzevi"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "münzevi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müsamaha",
+    "word": "müsamaha",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "samaḥa",
+        "meaning": "eli açık davranarak verdi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "musāmaḥa(t)",
+        "meaning": "cömert davranma, anlayışla karşılama",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müsamaha",
+        "meaning": "kusurları anlayışla karşılayan tutum",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kusur ve farklılıkları anlayışla karşılama.",
+    "currentMeaning": "Başkalarının kusurlarına veya farklı davranışlarına karşı anlayış gösterme, hoşgörülü davranma.",
+    "story": "Arapça samaḥa, elindekini cömertçe verme eylemini anlatır. Musāmaḥa(t) biçiminde bu eli açıklık, başkasına anlayış gösterip katı davranmamayı da kapsar. Türkçedeki müsamahada verilen şey bir nesneden çok, karşıdakinin kusuruna tanınan hoşgörü payıdır.",
+    "firstAttestation": {
+      "source": "Seyf-i Sarayî — Gülistan tercümesi",
+      "period": "1391",
+      "form": "müsāmaḥat"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müsamaha maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCsamaha"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "müsamaha",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mutena",
+    "word": "mutena",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ˁanā",
+        "meaning": "ilgi uyandırdı, anlamlı ve önemli oldu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muˁtanā",
+        "meaning": "özen gösteren ya da özenle ele alınan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mutena",
+        "meaning": "özenle hazırlanmış veya düzenlenmiş",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Üzerinde özenle durulmuş.",
+    "currentMeaning": "Yapımına, düzenlenmesine veya bakımına özel dikkat verilmiş olan.",
+    "story": "Arapça ˁanā, bir şeyin ilgi ve önem taşımasını anlatır. Bu kökten gelen muˁtanā, önem verilen şeye gösterilen özeni de kelimenin içine alır. Türkçede mutena, bir yerin veya işin üzerinde dikkatle durulduğunu vurgular; önem taşıma düşüncesi böylece görünür bir bakım ve özen niteliğine dönüşür.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "muˁtenī"
+    },
+    "relatives": [
+      {
+        "word": "mutenalaştırmak",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Emlak dilindeki mutena semt ifadesi, yakın dönemde mutenalaştırmak fiilinin türetilmesine kaynak olmuştur.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mutena maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mutena"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mutena",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mücmel",
+    "word": "mücmel",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "mucmel",
+        "meaning": "ayrıntılara girilmeden özü aktarılmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mücmel",
+        "meaning": "ayrıntılara girilmeden özü aktarılmış",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ayrıntılara girmeden özü aktarılmış.",
+    "currentMeaning": "Bir konunun ana noktalarını az sözle veren, ayrıntıları açmadan anlatılmış olan.",
+    "story": "Arapça mucmel, bir anlatının ayrıntıları yerine özünü öne çıkarır. Türkçeye mücmel biçiminde taşınırken bu anlatım niteliğini korur: uzun uzun açılabilecek bir konu, ana noktalarıyla sunulur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mücmel",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "müstakil",
+    "word": "müstakil",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḳalla",
+        "meaning": "az miktarda bulundu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mustaḳill",
+        "meaning": "kendi başına yetki sahibi, başkasına bağlı olmayan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müstakil",
+        "meaning": "başka bir şeye bağlı olmadan var olan veya kullanılan",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kendi başına var olan veya kullanılabilen.",
+    "currentMeaning": "Başkasına bağlı olmayan; bir yapı için, kullanım bakımından başka bir yapıyla bağlantısı bulunmayan.",
+    "story": "Kelimenin en eski halkası Arapçada azlığı anlatan ḳalla fiilidir. Bu kökten oluşmuş mustaḳill aşamasında ise kendi yetkisini taşıma ve başkasına bağlı olmama öne çıkar. Türkçede önce görev ve yönetim bağlamlarında görülen bağımsızlık düşüncesi, müstakil ev ifadesinde bir yapının kendi başına kullanılmasına uygulanır.",
+    "firstAttestation": {
+      "source": "Hoca Sadeddin Ef. — Tacü't-Tevârih",
+      "period": "1574",
+      "form": "müstaḳıl"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müstakil maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCstakil"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "müstakil",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müteaddit",
+    "word": "müteaddit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ˁadda",
+        "meaning": "tek tek sayarak miktarını belirledi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mutaˁaddid",
+        "meaning": "sayıyla belirlenen, sayıca fazla olan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müteaddit",
+        "meaning": "sayıca çok olan",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sayıca çok olan.",
+    "currentMeaning": "Birden fazla olup çokluk gösteren, birçok.",
+    "story": "Arapça ˁadda, nesneleri tek tek sayma eylemini anlatır. Bu köke bağlı mutaˁaddid biçiminde sayı fikri, sayıca fazlalığı da ifade eder. Türkçedeki müteaddit, kesin bir rakam vermeden çokluğu bildirir; müteaddit defalar denildiğinde olayın birçok kez tekrarlandığı anlaşılır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müteaddit maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCteaddit"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "müteaddit",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

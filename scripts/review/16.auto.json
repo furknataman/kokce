@@ -1,107 +1,105 @@
 [
   {
-    "id": "aşina",
+    "id": "perestiş",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "perva",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "pervaz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "peyderpey",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "rengârenk",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "rint",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "serazat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sergüzeşt",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sermest",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "şebnem",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "yekpare",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "aforizma",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "alegori",
     "verdict": "check",
     "reasons": [
-      "Kaynaktaki bileşik dil etiketi (ae / peo) iki ayrı halkaya bölünmüş: ae › peo"
+      "Zincir sırası kaynaktan farklı: madde grc › ine › grc › fr, kaynak grc › grc › ine › fr"
     ]
   },
   {
-    "id": "aşiyan",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "berduş",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "bedbin",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "bedhah",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "bedmest",
+    "id": "alüzyon",
     "verdict": "check",
     "reasons": [
       "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
     ]
   },
   {
-    "id": "behre",
+    "id": "ambiyans",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "beyhude",
+    "id": "anakronizm",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "bihaber",
+    "id": "analoji",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "pürüz",
+    "id": "anekdot",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "canhıraş",
+    "id": "angajman",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "canfeza",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "canpare",
-    "verdict": "check",
-    "reasons": [
-      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
-    ]
-  },
-  {
-    "id": "derbeder",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "dergâh",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "derun",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "didar",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "dilber",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "dilbaz",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "girift",
+    "id": "antitez",
     "verdict": "ok",
     "reasons": []
   }

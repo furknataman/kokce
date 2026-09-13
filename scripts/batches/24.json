@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "mufassal",
+    "word": "mufassal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "faṣala",
+        "meaning": "birbirinden ayırdı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mufaṣṣal",
+        "meaning": "ayrıntıları ayrı ayrı açıklanmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mufassal",
+        "meaning": "ayrıntılara yer veren",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ayrıntılara yer veren, genişçe açıklanmış.",
+    "currentMeaning": "Bir konuyu ayrıntılarıyla ele alan veya geniş biçimde açıklayan.",
+    "story": "Mufassalın geçmişinde Arapçadaki ayırma eylemi bulunur. Bir bütünü parçalarına ayırma düşüncesi, konunun ayrıntılarını tek tek açıklamaya uzanır. Türkçede kelime, ana çizgilerle yetinmeyip ayrıntıları da ortaya koyan anlatımlar için kullanılır.",
+    "firstAttestation": {
+      "source": "Danişmend-Name",
+      "period": "1360",
+      "form": "mufassal"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mufassal maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mufassal"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mufassal maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muğlak",
+    "word": "muğlak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ġaliḳa",
+        "meaning": "kapı sürgülenerek kapandı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muġlaḳ",
+        "meaning": "kilitlenmiş, açılmayan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muğlak",
+        "meaning": "anlamı kolayca çözülemeyen",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Anlamı açık olmayan, anlaşılması güç.",
+    "currentMeaning": "Ne anlatmak istediği açıkça anlaşılamayan; yoruma veya kuşkuya yer bırakan.",
+    "story": "Muğlakın ardında sürgüsü çekilmiş bir kapı vardır. Arapçada fiziksel olarak kapanmayı anlatan fiilden, kilitli şeyleri niteleyen bir biçim doğmuştur. Türkçe bu kapalılığı anlam dünyasına taşımış; açılmayan kapının yerini çözülmesi güç sözler almıştır.",
+    "firstAttestation": {
+      "source": "Latifî, Tezkîretü'ş-Şuarâ",
+      "period": "1546",
+      "form": "muġlaḳ"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muğlak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mu%C4%9Flak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muğlak maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muamma",
+    "word": "muamma",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "aˁmiya",
+        "meaning": "görmez oldu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muˁammā",
+        "meaning": "karanlıkta bırakılmış şey, çözülmesi gereken sır",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muamma",
+        "meaning": "çözümü bilinmeyen bilmece veya sorun",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çözülmesi güç bilmece veya sır.",
+    "currentMeaning": "Çözümü, açıklaması ya da iç yüzü kolayca bulunamayan bilmece, olay veya durum.",
+    "story": "Muammanın kökündeki Arapça fiil, gözün görmez olmasını anlatır. Görüşün kapanması, bir şeyin anlaşılmasını engelleyen karanlığın da resmi olmuştur. Bu bağ üzerinden sır ve bilmeceyi adlandıran kelime, Türkçede açıklaması bulunamayan olaylara da uygulanır.",
+    "firstAttestation": {
+      "source": "Ömer b. Mezîd, Mecmuatü'n-nezâir",
+      "period": "1437",
+      "form": "muˁammā"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muamma maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muamma"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muamma maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mukadder",
+    "word": "mukadder",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḳadara",
+        "meaning": "ölçüşmeye girişti, yapabilme gücü buldu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḳaddar",
+        "meaning": "değeri belirlenmiş, yazgıda kararlaştırılmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mukadder",
+        "meaning": "yazgıyla önceden belirlenmiş",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yazgıyla önceden belirlenmiş.",
+    "currentMeaning": "Gerçekleşmesi kişinin yazgısında önceden belirlenmiş sayılan.",
+    "story": "Mukadderin Arapça geçmişinde ölçüşme, güç yetirme ve değer belirleme bir aradadır. Bir şeye değer biçilmesiyle onun payının önceden belirlenmesi, kelimenin anlam dünyasında buluşur. Türkçede ağırlık yazgı tarafındadır: mukadder olan, kişinin payına önceden düşmüş kabul edilir.",
+    "firstAttestation": {
+      "source": "Şeyhoğlu, Marzubânnâme tercümesi",
+      "period": "1380",
+      "form": "muḳadder"
+    },
+    "relatives": [
+      {
+        "word": "muktedir",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mukadder maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mukadder"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mukadder maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muktedir",
+    "word": "muktedir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḳadara",
+        "meaning": "bir işi yapacak gücü buldu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḳtadīr",
+        "meaning": "gücü ve yapabilme yetisi bulunan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muktedir",
+        "meaning": "bir işi başarabilecek güçte olan",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir işi yapabilecek veya başarabilecek güçte olan.",
+    "currentMeaning": "Bir işi gerçekleştirmeye yetecek gücü, yeteneği veya imkânı bulunan.",
+    "story": "Muktedirin çıkış noktası, Arapçada bir işe güç yetirme eylemidir. Bu eylemden kurulan adlandırma, yapabilme gücünü taşıyan kişiyi öne çıkarır. Türkçede de kelime, bir işi yalnızca isteyen değil, onu gerçekleştirecek güce sahip olan kişiyi niteler.",
+    "firstAttestation": {
+      "source": "Meninski, Thesaurus",
+      "period": "1680",
+      "form": "muḳtedir"
+    },
+    "relatives": [
+      {
+        "word": "mukadder",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muktedir maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muktedir"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muktedir maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mukteza",
+    "word": "mukteza",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḳaḍā",
+        "meaning": "hüküm verdi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḳtaḍā",
+        "meaning": "mantığın zorunlu kıldığı şey, gerektirici neden",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mukteza",
+        "meaning": "yerine getirilmesi gereken",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gereken, yapılması zorunlu olan.",
+    "currentMeaning": "Bir durumun veya koşulun gerektirdiği; yapılması gerekli olan.",
+    "story": "Muktezanın geçmişi, Arapçada hüküm verme eylemine uzanır. Hükmün gerektirdiği sonuç düşüncesi, kelimeyi zorunluluk ve gerekçe alanına bağlar. Türkçede mukteza, koşulların yapılmasını gerektirdiği şeyi öne çıkarır.",
+    "firstAttestation": {
+      "source": "Seyf-i Sarayî, Gülistan tercümesi",
+      "period": "1391",
+      "form": "muḳteẓāsı"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mukteza maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mukteza"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mukteza maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mukabele",
+    "word": "mukabele",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḳabala",
+        "meaning": "bir yöne döndü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḳābala(t)",
+        "meaning": "karşı karşıya gelme, verilen cevap",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mukabele",
+        "meaning": "sesli Kur'an okuyuşunu metinden izleme veya dinleme",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Toplu Kur'an okuyuşunu metinden izleme veya dinleme.",
+    "currentMeaning": "Bir toplulukta Kur'an yüksek sesle okunurken okumayı bilenlerin metni gözleriyle izlemesi, bilmeyenlerin dinlemesi.",
+    "story": "Mukabelenin Arapça kökü bir yöne dönmeyi anlatır; ondan gelişen biçim karşı karşıya gelme ve karşılık verme çevresinde şekillenir. Türkçenin eski kullanımlarında da hem karşılaşma hem bir şeye verilen karşılık vardır. Bugünkü dinî kullanımında kelime, sesli okuyuşla onu izleyen veya dinleyen topluluğu aynı uygulamada buluşturur.",
+    "firstAttestation": {
+      "source": "Rabguzi, Kısasü'l-Enbiya tercümesi",
+      "period": "1310",
+      "form": "muḳābele"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mukabele maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mukabele"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mukabele maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mukaddime",
+    "word": "mukaddime",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḳaddama",
+        "meaning": "öne yerleştirdi, konuşmayı başlattı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḳaddima(t)",
+        "meaning": "konuyu sunan giriş bölümü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mukaddime",
+        "meaning": "eserin başındaki tanıtıcı yazı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir eserin başına konan ön söz.",
+    "currentMeaning": "Bir eserin başında yer alan, eseri veya yazılış amacını tanıtan yazı.",
+    "story": "Mukaddimenin çıkışında bir şeyi öne koyma hareketi vardır. Arapçada bu hareket, sözü başlatmayı ve ardından gelecek konuyu sunmayı da kapsar. Türkçede mukaddime, ana metnin önüne yerleşerek esere giriş sağlayan yazının adı olmuştur.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mukaddime maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mukaddime"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mukaddime maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mukayese",
+    "word": "mukayese",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḳāsa",
+        "meaning": "ölçüsünü belirledi, karşılaştırdı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḳāyasa(t)",
+        "meaning": "birbiriyle yarışma ve ölçüşme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mukayese",
+        "meaning": "benzerlik ve ayrılıkları karşılaştırarak değerlendirme",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Benzerlik ve ayrılıkları görmek için karşılaştırma.",
+    "currentMeaning": "İki veya daha çok şeyi benzerlikleri, farklılıkları ya da değerleri bakımından karşılaştırma.",
+    "story": "Mukayesenin Arapça geçmişinde ölçmek kadar bir başkasıyla ölçüşmek de vardır. Yarışan iki kişinin birbirine göre değerlendirilmesi, bu anlam alanının somut bir görünümüdür. Türkçede kelime, yarışma düşüncesinden daha geniş bir karşılaştırma işlemine açılır; nesneler, görüşler ve sonuçlar da mukayese edilir.",
+    "firstAttestation": {
+      "source": "Meninski, Thesaurus",
+      "period": "1680",
+      "form": "muḳāyeset"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mukayese maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mukayese"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mukayese maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muhteva",
+    "word": "muhteva",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥawā",
+        "meaning": "bir araya getirdi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḥtawā",
+        "meaning": "bir şeyin içinde bulunan",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "tr",
+        "form": "muhteva",
+        "meaning": "bir bütünün kapsadığı şeyler",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyin içinde bulunanların bütünü.",
+    "currentMeaning": "Bir metnin, eserin veya başka bir bütünün kapsadığı konuların ve unsurların tamamı.",
+    "story": "Muhtevanın Arapça kökünde toplama eylemi bulunur. Bir araya getirilenlerin bir bütünün içinde bulunması, kelimenin içerikle bağını kurar. Türkçede bir kitabın muhtevasından söz edildiğinde, sayfaların içinde toplanmış konular ve düşünceler kastedilir.",
+    "firstAttestation": {
+      "source": "TDK, Türkçe Sözlük, 1. Baskı",
+      "period": "1945",
+      "form": "muhteva"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muhteva maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muhteva"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muhteva maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muhakeme",
+    "word": "muhakeme",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥakama",
+        "meaning": "hükme bağladı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḥākama(t)",
+        "meaning": "düşünerek hükme varma, dava görme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muhakeme",
+        "meaning": "yargı önünde inceleyip karara bağlama",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir davayı inceleyerek yargılama.",
+    "currentMeaning": "Bir davanın yargı organınca ele alınıp incelenmesi ve hükme bağlanması süreci.",
+    "story": "Muhakemenin kökündeki Arapça fiil, bir mesele hakkında hüküm vermeyi anlatır. Buradan gelişen kelime hem davayı yargı önüne taşımayı hem düşünerek bir sonuca ulaşmayı kapsar. Türkçede yargılama ile akıl yürütmenin aynı kelimede buluşması, ikisinin de değerlendirmeden hükme ilerlemesine dayanır.",
+    "firstAttestation": {
+      "source": "Latifî, Tezkîretü'ş-Şuarâ",
+      "period": "1546",
+      "form": "muḥākeme"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muhakeme maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muhakeme"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muhakeme maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muhasara",
+    "word": "muhasara",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥaṣara",
+        "meaning": "çevresini kapattı, sınır içine aldı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḥāṣara(t)",
+        "meaning": "çevreden sararak kuşatma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muhasara",
+        "meaning": "bir yerin çevresini tutarak kuşatma",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir yerin çevresini tutarak kuşatma.",
+    "currentMeaning": "Bir yeri ele geçirmek veya dışarıyla bağlantısını kesmek amacıyla çevresini sarma.",
+    "story": "Muhasaranın Arapça kökü, bir şeyi sınır içine alıp çevresini kapatmayı anlatır. Askerî kullanımda bu sınır, şehrin veya kalenin çevresine yerleşen kuvvetlerle çizilir. Türkçeye geçen kelime de çevreyi tutarak içeridekileri kuşatma eylemini adlandırır.",
+    "firstAttestation": {
+      "source": "Ferec ba'd eş-şidde",
+      "period": "1451'den önce",
+      "form": "muḥāṣarat"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muhasara maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muhasara"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muhasara maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muhayyer",
+    "word": "muhayyer",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḫāra",
+        "meaning": "birini diğerlerine yeğledi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḫayyar",
+        "meaning": "seçilerek ayrılmış, yeğlenmiş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muhayyer",
+        "meaning": "niteliğine güvenilerek sunulan ve beğenilmezse iade edilebilen",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sağlam diye sunulan, beğenilmezse iade edilebilen.",
+    "currentMeaning": "Sağlam ve işe yarar olduğu belirtilerek önerilen, alıcının beğenmemesi durumunda geri verebildiği eşya için kullanılan niteleme.",
+    "story": "Muhayyerin Arapça geçmişinde seçenekler arasından birini seçme eylemi vardır. Bu kökten gelişen biçim, seçilmiş ve tercih edilmiş olanı öne çıkarır. Türkçedeki eşya kullanımında seçim alıcıya da uzanır: ürün uygun diye sunulur, son karar onu beğenip beğenmeyen kişiye bırakılır.",
+    "firstAttestation": {
+      "source": "İrşadü'l-Mülûk ve's-Selâtîn",
+      "period": "1387",
+      "form": "muḫayyer"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muhayyer maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muhayyer"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muhayyer maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muharrir",
+    "word": "muharrir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥarrara",
+        "meaning": "yazıya döktü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḥarrir",
+        "meaning": "yazıya geçiren kişi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muharrir",
+        "meaning": "yazı veya eser kaleme alan kişi",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yazı veya eser kaleme alan kişi.",
+    "currentMeaning": "Gazete yazısı, edebî eser veya başka türde metinler kaleme alan kimse.",
+    "story": "Muharrir, Arapçada yazıya dökme eylemini yapan kişiye verilen addır. Türkçedeki eski kullanım alanında resmî yazıları hazırlayan görevlilerle gazete için yazan kişiler yan yana bulunur. Edebî eserlerin yazarlarını da kapsayan kullanımıyla kelime, yazma işinden metin üreticisinin adına uzanır.",
+    "firstAttestation": {
+      "source": "Ahmed Vefik Paşa, Lehce-i Osmani",
+      "period": "1876",
+      "form": "muḥarrir"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muharrir maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muharrir"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muharrir maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muarız",
+    "word": "muarız",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ˁaraḍa",
+        "meaning": "önüne çıktı, ilerlemesine engel oldu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muˁāriḍ",
+        "meaning": "karşısında duran, itiraz eden",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muarız",
+        "meaning": "karşı çıkıp direnç gösteren",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeye karşı çıkan veya karşı koyan.",
+    "currentMeaning": "Bir görüşü, öneriyi veya girişimi kabul etmeyip ona karşı duran.",
+    "story": "Muarızın Arapça kökündeki sahne, birinin yoluna çıkıp ilerlemesini engellemektir. Bu karşı duruş, fikir ve davranışlara yönelen itirazı da anlatacak biçimde genişler. Türkçede muarız, karşısındakinin görüşüne veya girişimine direnç gösteren tarafı niteler.",
+    "firstAttestation": {
+      "source": "Şeyhoğlu, Marzubânnâme tercümesi",
+      "period": "1380",
+      "form": "muˁārıż"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muarız maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muar%C4%B1z"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muarız maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muhal",
+    "word": "muhal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥāla",
+        "meaning": "başka bir duruma döndü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḥāl",
+        "meaning": "gerçekleşmesi mümkün olmayan şey",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muhal",
+        "meaning": "gerçekleşme imkânı bulunmayan",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gerçekleşmesi mümkün olmayan.",
+    "currentMeaning": "Olması veya gerçekleşmesi olanaksız sayılan.",
+    "story": "Muhalin Arapça kökünde dönme ve başka bir duruma geçme hareketi bulunur. Bu kökten türeyen muḥāl, Arapçada gerçekleşemeyecek şeyler için kullanılan soyut bir niteleme kazanmıştır. Türkçe kelimeyi bu olanaksızlık anlamıyla almış; eski hareket anlamı bugünkü kullanımda görünmez olmuştur.",
+    "firstAttestation": {
+      "source": "Gülşehri, Mantıku't-Tayr",
+      "period": "1317",
+      "form": "muḥāl"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muhal maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muhal"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muhal maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muhalif",
+    "word": "muhalif",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḫalafa",
+        "meaning": "ters yönde veya karşı durumda bulundu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḫālif",
+        "meaning": "karşı yönde olan, itiraz eden",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muhalif",
+        "meaning": "bir görüş veya davranışa karşı duran kişi",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir görüşe veya davranışa karşı duran kimse.",
+    "currentMeaning": "Bir düşünceyi, tutumu ya da eylemi benimsemeyip ona karşı çıkan kişi.",
+    "story": "Muhalifin Arapça geçmişindeki temel ilişki terslik ve karşıtlıktır. Kelime, bir yönün tersinde bulunmayı da bir düşünceye karşı durmayı da ifade edebilecek genişliktedir. Türkçede kişiyi adlandıran kullanım, bu karşıtlığı görüşler ve davranışlar alanında sürdürür.",
+    "firstAttestation": {
+      "source": "Şeyhoğlu, Marzubânnâme tercümesi",
+      "period": "1380",
+      "form": "muḫālif"
+    },
+    "relatives": [
+      {
+        "word": "muhtelif",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Muhalif, eski Türkçe kullanımında gemiyi kayalara sürükleyen ters rüzgârı da nitelemiştir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muhalif maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muhalif"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muhalif maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muaheze",
+    "word": "muaheze",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "aḫaḏa",
+        "meaning": "eline aldı, yakaladı, üzerine saldırdı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muˀāḫaḏa(t)",
+        "meaning": "karşılıklı çatışma ve çekişme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muaheze",
+        "meaning": "yanlış bulduğunu belirterek ayıplama",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir davranışı yanlış bularak kınama.",
+    "currentMeaning": "Bir kimsenin sözünü veya davranışını uygun bulmayarak onu ayıplama.",
+    "story": "Muahezenin Arapça kökü, ele alma ve yakalamadan saldırmaya kadar uzanan eylemleri kapsar. Türetilmiş biçiminde karşılıklı çekişme ve çatışma öne çıkar. Türkçede bu karşılaşma sözlü bir hesap sormaya yaklaşır; birinin söylediği veya yaptığı şey yüzünden kınanmasını anlatır.",
+    "firstAttestation": {
+      "source": "Ferec ba'd eş-şidde",
+      "period": "1451'den önce",
+      "form": "muˀāḫaẕe"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muaheze maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muaheze"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muaheze maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "muhtelif",
+    "word": "muhtelif",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḫalafa",
+        "meaning": "farklı veya ters durumda bulundu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muḫtalif",
+        "meaning": "uyuşmayan, dönüşümlü olarak değişen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "muhtelif",
+        "meaning": "birbirinden farklı türlerde olan",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Birbirinden farklı, çeşit çeşit.",
+    "currentMeaning": "Tek bir tür veya özellik göstermeyen; farklı türlerden oluşan.",
+    "story": "Muhtelifin Arapça kökünde aynı olmama ve aykırılık bulunur. Türetilmiş biçim, uyuşmazlığın yanında geceyle gündüz gibi sırayla değişen durumları da kapsar. Türkçede kelime çeşitliliği öne çıkarır; muhtelif şeyler, birbirinin aynısı olmayan şeylerdir.",
+    "firstAttestation": {
+      "source": "Aşık Paşa, Garib-name",
+      "period": "1330",
+      "form": "muḫtelif"
+    },
+    "relatives": [
+      {
+        "word": "muhalif",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "muhtelif maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/muhtelif"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "muhtelif maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "müşfik",
+    "word": "müşfik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "şafḳa(t)",
+        "meaning": "sevgiyle koruyup gözetme duygusu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muşfiḳ",
+        "meaning": "sevgiyle koruyup gözeten",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müşfik",
+        "meaning": "sevgisini yumuşak ve koruyucu bir tutumla gösteren",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sevgiyle ve şefkatle yaklaşan.",
+    "currentMeaning": "Başkalarına sevgi, yakınlık ve koruyucu bir ilgiyle davranan.",
+    "story": "Müşfikin Arapça başlangıcında bir duygu adı, şefkat bulunur. Bu duyguyu taşıyıp davranışına yansıtan kişi muşfiḳ olarak nitelenir. Türkçede kelime, sevginin koruyup gözeten ve incitmekten kaçınan yüzünü anlatmayı sürdürür.",
+    "firstAttestation": {
+      "source": "Edib Ahmed, Atebet-ül Hakayık",
+      "period": "<1250?",
+      "form": "muşfīk"
+    },
+    "relatives": [
+      {
+        "word": "şefkat",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müşfik maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BC%C5%9Ffik"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "müşfik maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

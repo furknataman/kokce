@@ -1,0 +1,11 @@
+[
+  {
+    "id": "nekahat",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor.",
+      "Maddenin kendi sources kaydı TDK'de 'nekahet maddesi' diyor ve story de standart yazımın nekahet olduğunu söylüyor; madde başı yanlış, nekahet yazımıyla yeniden çekilmeli.",
+      "sources[0].ref alanına turkedebiyati.org bağlantısı markdown olarak gömülmüş; bu site şemanın kabul ettiği kaynaklar arasında değil ve ref alanı bağlantı taşımaz."
+    ]
+  }
+]

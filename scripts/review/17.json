@@ -1,0 +1,35 @@
+[
+  {
+    "id": "bohem",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation 1931 verilmiş; kaynaktaki en eski kayıt 1930 tarihli ve madde başını içeriyor, o kayda çekildi. 1930 kaydı Bohemya işi şamdanları, 1931 kaydı ise bugünkü yaşayış anlamını gösteriyor."
+    ]
+  },
+  {
+    "id": "eklektik",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "epigraf",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor.",
+      "sources null, confidence null; doğrulayıcı ikisi için de hata veriyor."
+    ]
+  },
+  {
+    "id": "erüdisyon",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor.",
+      "sources null, confidence null; doğrulayıcı ikisi için de hata veriyor."
+    ]
+  },
+  {
+    "id": "ezoterik",
+    "verdict": "ok",
+    "objections": []
+  }
+]

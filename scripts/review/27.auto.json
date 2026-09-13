@@ -1,107 +1,103 @@
 [
   {
-    "id": "aşina",
-    "verdict": "check",
-    "reasons": [
-      "Kaynaktaki bileşik dil etiketi (ae / peo) iki ayrı halkaya bölünmüş: ae › peo"
-    ]
-  },
-  {
-    "id": "aşiyan",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "berduş",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "bedbin",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "bedhah",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "bedmest",
+    "id": "nekahat",
     "verdict": "check",
     "reasons": [
       "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
     ]
   },
   {
-    "id": "behre",
+    "id": "nedamet",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "beyhude",
+    "id": "nüve",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "bihaber",
+    "id": "nükte",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "pürüz",
+    "id": "nüfuz",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "canhıraş",
+    "id": "nüsha",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "canfeza",
+    "id": "nida",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "canpare",
-    "verdict": "check",
-    "reasons": [
-      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
-    ]
-  },
-  {
-    "id": "derbeder",
+    "id": "rayiha",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "dergâh",
+    "id": "mütenasip",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "derun",
+    "id": "müteessir",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "didar",
+    "id": "müspet",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "dilber",
+    "id": "mutasavver",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "dilbaz",
+    "id": "muttasıl",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "girift",
+    "id": "müteakip",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "müsterih",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "mütekabil",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "münferit",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "muvafakat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "mutabakat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "müktesebat",
     "verdict": "ok",
     "reasons": []
   }

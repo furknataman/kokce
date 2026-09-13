@@ -1,0 +1,992 @@
+[
+  {
+    "id": "bıldır",
+    "word": "bıldır",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "zarf",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "bıldur",
+        "meaning": "geçen yıl",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bıldır",
+        "meaning": "geçen yıl",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İçinde bulunulan yıldan önceki yıl.",
+    "currentMeaning": "Zamanı, içinde bulunulan yıldan bir yıl geriye yerleştiren söz.",
+    "story": "Eski Türkçede bıldur, takvimde bir yıl geriye bakmanın kısa bir yoluydu. Yüzyıllar boyunca son ünlüsü değişip bıldır biçimini alırken gösterdiği zaman aynı kaldı. Bugün de geçmişin herhangi bir dönemini değil, özellikle geçen yılı belirtir.",
+    "firstAttestation": {
+      "source": "Kaşgarî — Divan-i Lugati't-Türk",
+      "period": "1073",
+      "form": "bıldur"
+    },
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bıldır maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/b%C4%B1ld%C4%B1r"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bıldır maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bucak",
+    "word": "bucak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "bıç-",
+        "meaning": "keserek ayırmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "otk",
+        "form": "buçġak",
+        "meaning": "kesilmiş bölüm, kesit",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bucak",
+        "meaning": "kenarda kalan yer, köşe",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir kenarda veya köşede kalan yer.",
+    "currentMeaning": "Bir alanın kenarında, köşesinde ya da gözden uzak bölümünde bulunan yer.",
+    "story": "Bucağın geçmişinde, bir bütünü keserek parçalara ayırma eylemi vardır. Eski Türkçedeki bıç- fiilinden türeyen buçġak, ayrılmış bir bölümü veya kesiti adlandırıyordu. Eski kullanımlarında köşeyi de karşılayan bu ad, Türkçede bucak biçimini aldı; kesilerek ayrılan bölüm düşüncesinden kenarda kalan yere uzanan bir anlam bağı taşıdı.",
+    "firstAttestation": {
+      "source": "Kaşgarî — Divan-i Lugati't-Türk",
+      "period": "1073",
+      "form": "buçġak"
+    },
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "Bu sözcük bir zamanlar çarık yapımında kullanılan deve baldırı derisini de adlandırıyordu.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bucak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bucak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bucak maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "çığır",
+    "word": "çığır",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "çıġır",
+        "meaning": "ayaklarla açılmış dar yol",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "çığır",
+        "meaning": "çığın karda bıraktığı yol",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çığın kar örtüsünde açtığı yol.",
+    "currentMeaning": "Bir çığın ilerlerken kar üzerinde oluşturduğu iz veya geçit.",
+    "story": "Eski Türkçedeki çıġır, insanların geçe geçe oluşturduğu dar yolu adlandırıyordu. Sözcüğün bu somut geçmişinde hareketin yerde bıraktığı iz vardır. Bugünkü karla ilgili kullanımında yolu açan çığdır; patika ile kar üzerindeki geçit, açılmış bir yol düşüncesinde birleşir.",
+    "firstAttestation": {
+      "source": "Kaşgarî — Divan-i Lugati't-Türk",
+      "period": "1073",
+      "form": "çıġır"
+    },
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "çığır maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C3%A7%C4%B1%C4%9F%C4%B1r"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "çığır maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "çise",
+    "word": "çise",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "çise",
+        "meaning": "çok küçük damlalı yağmur",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İncecik damlalarla yağan hafif yağmur.",
+    "currentMeaning": "Çok küçük su damlaları hâlinde düşen hafif yağış.",
+    "story": "Çise, yağmurun ince damlalarla düştüğü görünümünü adlandırır. Bu sözle anlatılan sahnede iri damlalarla dövülen bir yüzey yerine, hafifçe ıslanan bir çevre vardır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "çise maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "çiy",
+    "word": "çiy",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "trk",
+    "chain": [
+      {
+        "language": "trk",
+        "form": "yi",
+        "meaning": "nem, ıslaklık",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "otk",
+        "form": "çī",
+        "meaning": "nem, ıslaklık; nemli, ıslak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "çiy",
+        "meaning": "yüzeylerde yoğunlaşan su damlacıkları",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Havadaki su buharının yüzeylerde oluşturduğu damlacıklar.",
+    "currentMeaning": "Havadaki su buharının soğuyan yüzeylerde yoğunlaşmasıyla oluşan küçük su damlaları.",
+    "story": "Çiyin geçmişi, Ana Türkçe için yeniden kurulan yi biçimine uzanır. Eski Türkçedeki çī hem ıslaklığın adıydı hem de nemli bir yeri niteleyebiliyordu. Bugünkü çiy, bu geniş nem kavramının içinden belirli bir görünümü, yüzeylerde biriken küçük su damlalarını adlandırır.",
+    "firstAttestation": {
+      "source": "Kaşgarî — Divan-i Lugati't-Türk",
+      "period": "1073",
+      "form": "çī"
+    },
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "çiy maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C3%A7iy"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "dirlik",
+    "word": "dirlik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "tiril-",
+        "meaning": "hayatta olmak, yaşamak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dirlik",
+        "meaning": "hayat, sağlıklı yaşayış ve geçim",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yaşama, sağlıklı olma ve geçimini sürdürebilme durumu.",
+    "currentMeaning": "Hayatın sürmesi, sağlık içinde yaşama ve geçimi sağlayan varlık durumu.",
+    "story": "Dirliğin çıkış noktasında, Eski Türkçede yaşamayı anlatan tiril- fiili vardır. Bundan oluşan Orta Türkçe tirlik, hayatın adı olmuştu. Türkçede dirlik biçimini alan söz, yaşamın kendisiyle birlikte onu sürdüren sağlığı ve geçimi de kapsar.",
+    "firstAttestation": {
+      "source": "Ebu Hayyan — Kitabu'l-İdrak",
+      "period": "1312",
+      "form": "tirlik"
+    },
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "dirlik maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/dirlik"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "dirlik maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "duru",
+    "word": "duru",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "tur-",
+        "meaning": "durmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "otk",
+        "form": "turuġ",
+        "meaning": "hareketsiz, sakin, berrak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "duru",
+        "meaning": "bulanıklık taşımayan, berrak",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bulanık olmayan, berrak.",
+    "currentMeaning": "İçindeki bulanıklık giderilmiş veya baştan beri berrak olan.",
+    "story": "Duru, Eski Türkçedeki durma eylemini anlatan tur- fiiline bağlıdır. Bu fiilden türeyen turuġ, sakinliği ve berraklığı aynı sözde buluşturuyordu. Çalkantısı kesilen suyun içindekilerin dibe çökmesi, bu anlam bağını göz önüne getirir. Sözcük duru biçimini alırken berraklık anlamını korudu.",
+    "firstAttestation": {
+      "source": "Türkische Turfantexte 1-9",
+      "period": "900 öncesi",
+      "form": "turuġ"
+    },
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "duru maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/duru"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "duru maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "esen",
+    "word": "esen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "āsūdan, āsāy-",
+        "meaning": "dinlenmek, rahat etmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "āsān",
+        "meaning": "dinlenmek, rahat etmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "otk",
+        "form": "esen",
+        "meaning": "rahatlık içinde, ferah",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "esen",
+        "meaning": "bedeni ve ruhu sağlıklı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Beden ve ruh bakımından sağlıklı olan.",
+    "currentMeaning": "Bedensel ve ruhsal sağlığı yerinde bulunan.",
+    "story": "Esen, Eski Türkçede kişinin rahat ve ferah oluşunu anlatıyordu. Bir görüş, bu sözü Farsçada dinlenme eylemine bağlanan āsān ile ilişkilendirir; ancak bu aktarım açıklaması tartışmalıdır. Türkçedeki anlam çizgisinde rahatlık, bedenin ve ruhun iyi oluşuyla birleşir. Böylece esen, kişinin sağlıklı durumunu anlatan bir söz olarak yaşar.",
+    "firstAttestation": {
+      "source": "Türkische Manichäica aus Chotscho 1-3",
+      "period": "900 öncesi",
+      "form": "esenin"
+    },
+    "relatives": [
+      {
+        "word": "esenlik",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Farsça bağlantısını tartışmalı olarak sunar; Doerfer'in İrani alıntı olasılığını değerlendirdiğini, Clauson'ın ise buna karşı çıktığını aktarır."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "esen maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/esen"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "esen maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "esrik",
+    "word": "esrik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "esrik",
+        "meaning": "içkinin etkisiyle kendinden geçmiş",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İçkinin etkisiyle kendinden geçmiş olan.",
+    "currentMeaning": "İçki nedeniyle algısı ve davranışları etkilenmiş, sarhoş durumda bulunan.",
+    "story": "Esrik, içkinin etkisi altındaki kişinin durumunu anlatır. Sözcüğün çizdiği sahnede kişinin algısı ve hareketleri, içkinin değiştirdiği bir hâl içindedir.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "esrik maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "gönenç",
+    "word": "gönenç",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "gönenç",
+        "meaning": "bolluğun sağladığı iyi yaşama durumu",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bolluk ve rahatlık içinde sürdürülen iyi yaşam.",
+    "currentMeaning": "Maddi imkânların yeterliliğiyle sağlanan rahat ve iyi yaşama durumu.",
+    "story": "Gönenç, hayatın bolluk ve rahatlık içinde sürdüğü bir durumu adlandırır. Sözcük, eldeki varlığın gündelik yaşayışa yansıyan sonucunu, ihtiyaçların karşılandığı bir yaşamı öne çıkarır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "gönenç maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "gönenmek",
+    "word": "gönenmek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "gönenmek",
+        "meaning": "rahat yaşamak ve mutluluk duymak",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Rahat yaşamak, mutluluk ve sevinç duymak.",
+    "currentMeaning": "İyi hayat şartları içinde bulunmak veya bir durumdan mutluluk ve sevinç duymak.",
+    "story": "Gönenmek, kişinin yaşayışındaki rahatlıkla içindeki sevinci bir araya getirir. Geçim sıkıntısının hafiflediği bir hayat da insanı mutlu eden bir durum da bu fiille anlatılabilir.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "gönenmek maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "görkem",
+    "word": "görkem",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "kör-",
+        "meaning": "görmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "otk",
+        "form": "körk",
+        "meaning": "görmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "görk",
+        "meaning": "görünüş, güzellik",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "görkem",
+        "meaning": "etkileyici büyüklük ve gösteriş",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Göz alan büyüklük, güzellik ve gösteriş.",
+    "currentMeaning": "Bir görünüşün büyüklüğü, güzelliği veya gösterişiyle güçlü bir etki uyandırması.",
+    "story": "Görkemin geçmişi, görme eylemini anlatan kör- ile körk ve görk biçimlerine uzanır. Görk, gözün karşılaştığı görünüşü ve güzelliği adlandırıyordu. Görkem eski kullanımlarda gösterişli olanı niteleyen bir sıfatken, Dil Devrimi döneminde gösterişin kendisini anlatan bir isim olarak benimsendi. Görkle bağlantısı verilen sözcükteki ekin yapısı ise açık değildir.",
+    "firstAttestation": {
+      "source": "Mercimek Ahmed — Kâbusname tercümesi",
+      "period": "1432",
+      "form": "görkem"
+    },
+    "relatives": [
+      {
+        "word": "görkemli",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, görkemin görkle bağlantısını verirken +kAm ekinin yapısının açıklığa kavuşmadığını belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "görkem maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/g%C3%B6rkem"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "görkem maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "gücenmek",
+    "word": "gücenmek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "gücenmek",
+        "meaning": "bir söz veya davranıştan incinmek",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Birinin sözü veya davranışı karşısında incinmek.",
+    "currentMeaning": "Başkasının sözünü ya da davranışını kendine yönelik bir incitme olarak hissedip kırılmak.",
+    "story": "Gücenmek, insanlar arasındaki bir sözün veya davranışın iç dünyada bıraktığı kırgınlığı anlatır. Birinin kendisini önemsenmemiş hissetmesi gibi durumlarda ortaya çıkan incinme, bu fiille dile getirilir.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "gücenmek maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "güvey",
+    "word": "güvey",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "küd-",
+        "meaning": "beklemek, koruyup gözetmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "otk",
+        "form": "küdegü",
+        "meaning": "düğünü üstlenen veya destekleyen kişi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "güvey",
+        "meaning": "evlenen erkek, damat",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Evlenmekte olan erkek veya damat.",
+    "currentMeaning": "Düğünün erkek tarafındaki eş; damat.",
+    "story": "Güvey için verilen türetme açıklaması, beklemeyi ve gözetmeyi anlatan küd- fiiliyle başlar. Buna bağlanan küdegü, düğünü üstlenen kişiyi adlandırırken eski tanıklıklarda damadı da karşılar. Sözcük, güyegü gibi biçimlerden geçerek bugünkü güveye ulaşmıştır. İlk fiilin belirlenmesi tartışmalıdır; evlenmeyi anlatan başka bir fiille bağlantı da önerilmiştir.",
+    "firstAttestation": {
+      "source": "Türkische Turfantexte 1-9",
+      "period": "1000 öncesi",
+      "form": "küḏegülike"
+    },
+    "relatives": null,
+    "alternatives": [
+      "Nişanyan Sözlük, küd- bağlantısını verir; Dankoff'un önerdiği küde- 'evlenmek' fiilinin ise tarihî kaydının bulunmadığını belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "güvey maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/g%C3%BCvey"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "güvey maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ırak",
+    "word": "ırak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "ıra-/yıra-",
+        "meaning": "uzakta bulunmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "otk",
+        "form": "ıraḳ/yıraḳ",
+        "meaning": "mesafesi çok olan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ırak",
+        "meaning": "mesafesi çok olan",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Arada çok mesafe bulunan, uzak.",
+    "currentMeaning": "Bir yere veya kişiye göre mesafesi fazla olan.",
+    "story": "Irak, Eski Türkçede uzakta bulunmayı anlatan ıra- ve yıra- fiillerine dayanır. Bu eylemden türeyen ıraḳ ve yıraḳ, aradaki mesafeyi yerlerin ve toplulukların bir özelliği olarak anlatıyordu. Bugünkü ırak, aynı uzaklık düşüncesini sürdürür.",
+    "firstAttestation": {
+      "source": "Orhun Yazıtları",
+      "period": "735",
+      "form": "ırak"
+    },
+    "relatives": null,
+    "alternatives": null,
+    "funFact": "Ülke adı Irak, Arapçadan geldiği için uzaklığı anlatan ırakla köken bakımından bağlantılı değildir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ırak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C4%B1rak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ırak maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ılgım",
+    "word": "ılgım",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "ılgım",
+        "meaning": "serap görüntüsü",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Uzaktan su varmış gibi görünen serap.",
+    "currentMeaning": "Işığın atmosferde kırılmasıyla oluşan, suya veya uzaktaki nesnelere benzeyen yanıltıcı görüntü.",
+    "story": "Ilgım, uzakta görünen ama yaklaşıldığında su olmadığı anlaşılan serap görüntüsünü adlandırır. Sözcüğün anlattığı sahne, gözün gördüğüyle yerde gerçekten bulunanın birbirinden ayrıldığı bir sahnedir.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ılgım maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "ılgın",
+    "word": "ılgın",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "yılgun",
+        "meaning": "ılgın bitkisi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ılgın",
+        "meaning": "Tamarix cinsinden ağaç veya ağaççık",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Tamarix cinsinden bir ağaç veya ağaççık.",
+    "currentMeaning": "Ilgıngiller ailesindeki Tamarix cinsine ait, Akdeniz Bölgesi'nde de yetişen ağaç ve ağaççıkların adı.",
+    "story": "Ilgın, Eski Türkçede yılgun adıyla tanınan bitkinin adını sürdürür. Başındaki y sesi düşüp ünlüleri değişirken sözcüğün gösterdiği bitki aynı kalmıştır. Bugün Tamarix cinsindeki ağaç ve ağaççıkları adlandıran söz, eski bir bitki adının devamıdır.",
+    "firstAttestation": {
+      "source": "Kaşgarî — Divan-i Lugati't-Türk",
+      "period": "1073",
+      "form": "yılġūn"
+    },
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ılgın maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C4%B1lg%C4%B1n"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ılgın maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "im",
+    "word": "im",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "zh",
+    "ultimateOrigin": "zh",
+    "chain": [
+      {
+        "language": "zh",
+        "form": "yìn",
+        "meaning": "mühür, damga; baskı yapmak; belirti, iz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "otk",
+        "form": "im/em/en",
+        "meaning": "tanıtıcı belirti, hayvan damgası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "im",
+        "meaning": "bir şeyi gösteren belirti veya işaret",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyi gösteren veya tanıtan işaret.",
+    "currentMeaning": "Bir şeyi belirtmek, tanıtmak ya da bildirmek için kullanılan işaret.",
+    "story": "İm için önerilen Çince bağlantı, mühür basma eylemini ve onun bıraktığı izi aynı sözde buluşturan yìn biçimine dayanır. Bu aktarım kesin değildir. Eski Türkçedeki im, em ve en biçimleri, tanımayı sağlayan belirtileri ve hayvanlara vurulan damgaları karşılıyordu. Türkçede bir süre sınırlı kullanımda kalan söz, Dil Devrimi döneminde daha genel bir işaret adı olarak yaygınlaştırıldı.",
+    "firstAttestation": {
+      "source": "Kaşgarî — Divan-i Lugati't-Türk",
+      "period": "1073",
+      "form": "im"
+    },
+    "relatives": [
+      {
+        "word": "imlemek",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Çince yìn ile Eski Türkçe im arasındaki bağlantıyı kesinleşmiş bir aktarım olarak değil, tartışmalı bir köken açıklaması olarak verir."
+    ],
+    "funFact": "İm, eski kullanımında askerî birliklerin birbirini tanımasını sağlayan parolanın da adıydı.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "im maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/im"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "im maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "imece",
+    "word": "imece",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": null,
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ˁāmma(t)",
+        "meaning": "halkın bütünü, kamu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ˁammece",
+        "meaning": "topluca, herkesin katılımıyla",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "imece",
+        "meaning": "köy işlerinde ortak emekle çalışma",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Köylülerin işleri eşit katılımla birlikte yapması.",
+    "currentMeaning": "Köyün zorunlu veya gönüllü işlerini, köylülerin eşit şartlarda emeklerini birleştirerek yürütmesi.",
+    "story": "İmece için önerilen açıklama, Arapçada halkın bütününü anlatan ˁāmma(t) ile başlar. Türkçede buna bağlanan ˁammece, bir işin herkesin katılımıyla yapılmasını anlatır. Bu biçimin ses değişimiyle imeceye dönüşmüş olması muhtemel görülür. Topluca davranma düşüncesi, köyde bir işin çevresinde birleşen insanların ortak emeğinde somutlaşır.",
+    "firstAttestation": {
+      "source": "Anonim — Ebâmüslim-nâme tercümesi",
+      "period": "1500 öncesi",
+      "form": "imecesi"
+    },
+    "relatives": [
+      {
+        "word": "amme",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, imeceyi Arapça ˁāmma(t) üzerinden Türkçe ˁammece biçimine bağlar; ˁammeceden imeceye geçişi muhtemel bir ses değişimi olarak değerlendirir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "imece maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/imece"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "imece maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "irkilmek",
+    "word": "irkilmek",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "fiil",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "tr",
+        "form": "irkilmek",
+        "meaning": "ürküntüyle ani bir çekilme hareketi yapmak",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ürküntüyle birden geri çekilir gibi hareket etmek.",
+    "currentMeaning": "Bir korku veya ürküntü karşısında, geri çekilmeye benzeyen ani bir beden hareketi göstermek.",
+    "story": "İrkilmek, ürküntünün bedende birden görünür olduğu anı anlatır. Beklenmedik bir ses karşısında bedenin geriye çekilir gibi olması, bu fiilin anlattığı hareketi somutlaştırır.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "irkilmek maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

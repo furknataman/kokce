@@ -1,0 +1,117 @@
+[
+  {
+    "id": "kıvanç",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: tr"
+    ]
+  },
+  {
+    "id": "kırağı",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "koyak",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: tr"
+    ]
+  },
+  {
+    "id": "kut",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "öykünmek",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sağaltmak",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "seğirtmek",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sezinlemek",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tansık",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "umarsız",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "yılkı",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "yakamoz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "lodos",
+    "verdict": "check",
+    "reasons": [
+      "Kaynaktaki bileşik dil etiketi (el / grc) iki ayrı halkaya bölünmüş: grc › el"
+    ]
+  },
+  {
+    "id": "poyraz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "aforoz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "anason",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "funda",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "iskarmoz",
+    "verdict": "check",
+    "reasons": [
+      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
+    ]
+  },
+  {
+    "id": "izmarit",
+    "verdict": "check",
+    "reasons": [
+      "donorLanguage el kaynakla uyuşmuyor (kaynak: it)",
+      "Kaynak zincirinde olup maddede olmayan halka: ine, gem, it",
+      "Maddede olup kaynak zincirinde olmayan halka: grc, el",
+      "firstAttestation.period 1641 kaynaktaki en eski tanıklıktan (1889) eski",
+      "firstAttestation.source 'Gio. Molino — Dittionario della lingua italiana e turchesca' kaynaktaki eserlerle eşleşmiyor (A. Fikri, Lugat-ı Garibe)",
+      "Nişanyan bağlantısı kaynakla farklı: https://www.nisanyansozluk.com/kelime/izmarit2 (beklenen https://www.nisanyansozluk.com/kelime/izmarit)"
+    ]
+  },
+  {
+    "id": "kikla",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

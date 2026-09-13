@@ -1,0 +1,1160 @@
+[
+  {
+    "id": "merbut",
+    "word": "merbut",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "rabaṭa",
+        "meaning": "bağ kurdu, bir şeyi diğerine tutturdu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "marbūṭ",
+        "meaning": "bir yere veya şeye bağlanmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "merbut",
+        "meaning": "bağı bulunan, bağlı",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir yere, kişiye veya şeye bağlı.",
+    "currentMeaning": "Bir kişi, yer veya şeyle bağlantısı bulunan; ona bağlı olan.",
+    "story": "Merbutun başlangıcında Arapça rabaṭa fiilinin anlattığı bağlama eylemi vardır. Bu eylemden oluşan marbūṭ, bağın kendisini değil, bağlanmış olanı anlatır. Türkçede merbut biçimini alan kelime, somut bir bağlantının yanında bir kişiye veya yere bağlılığı da ifade eder.",
+    "firstAttestation": {
+      "source": "Hoca Sadeddin Efendi — Tacü't-Tevârih",
+      "period": "1574",
+      "form": "merbūṭ"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "merbut maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/merbut"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "merbut maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mesire",
+    "word": "mesire",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "sāra",
+        "meaning": "yürüyerek ilerledi, gezindi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "masīra(t)",
+        "meaning": "gezinti için gidilen yer",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mesire",
+        "meaning": "gezinti ve piknik alanı",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gezmek ve piknik yapmak için gidilen yer.",
+    "currentMeaning": "Gezinti yapmak, dinlenmek veya piknik yapmak amacıyla gidilen açık alan.",
+    "story": "Mesirenin ardında Arapçada yürümeyi ve yol almayı anlatan sāra fiili bulunur. Buradan oluşan masīra(t), hareketten o hareketin yapılacağı yere uzanır: gezilecek alana. Türkçeye mesire olarak geçen ad, açık havada gezinmenin ve piknik yapmanın mekânını anlatır.",
+    "firstAttestation": {
+      "source": "Evliya Çelebi — Seyahatname",
+      "period": "1665",
+      "form": "mesīre"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mesire maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mesire"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mesire maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mesnet",
+    "word": "mesnet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "sanada",
+        "meaning": "bir şeye yaslandı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "masnad",
+        "meaning": "yaslanılacak destek; oturulan yer veya hükümdar koltuğu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mesnet",
+        "meaning": "bir düşünceyi veya iddiayı destekleyen temel",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir düşünce veya iddiayı destekleyen dayanak.",
+    "currentMeaning": "Bir görüşün, iddianın veya işlemin dayandığı gerekçe ya da temel.",
+    "story": "Arapça sanada, bir şeye yaslanmayı anlatırken masnad bu desteğin veya oturulacak yerin adı oldu. Türkçenin eski kullanımında kelime kürsü, taht ve makam çevresinde dolaşıyordu. Bugünkü mesnette ise yaslanan bir bedenin yerini, kanıta veya gerekçeye dayanan düşünce alır.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "mesned"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mesnet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mesnet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mesnet maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mesul",
+    "word": "mesul",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "saˀala",
+        "meaning": "soru yöneltti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "masˀūl",
+        "meaning": "soru yöneltilen kişi; sorunun konusu veya kendisi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mesul",
+        "meaning": "bir iş için hesap vermesi gereken",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir işten veya sonuçtan sorumlu olan.",
+    "currentMeaning": "Bir görev, davranış veya sonuç konusunda sorumluluk taşıyan.",
+    "story": "Mesul, Arapça saˀala fiilindeki soru sorma eylemini taşır. Masˀūl başlangıçta kendisine soru yöneltilen kişiyi de sorulan şeyi de karşılıyordu. Türkçedeki sorumluluk anlamında bu soru, yapılan işin hesabını sormaya dönüşür; mesul kişi cevabı vermesi beklenendir.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "mesˀūl"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mesul maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mesul"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mesul maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meşru",
+    "word": "meşru",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "şaraˁa",
+        "meaning": "kural koydu, bir düzen kurdu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "maşrūˁ",
+        "meaning": "hukukun veya dinî kuralların izin verdiği",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "meşru",
+        "meaning": "yasal kurallara uygun",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hukukun izin verdiği, yasal.",
+    "currentMeaning": "Hukuk kurallarına uygun olan ve yasalarca kabul edilen.",
+    "story": "Arapça şaraˁa, kurallar koyup bir düzen oluşturmayı anlatır. Bu fiilden türeyen maşrūˁ, kurulan düzenin izin verdiği davranışları niteler. Türkçedeki eski kullanımında dinî kurallara uygunluk öne çıkarken meşru bugün genel olarak hukuka uygunluğu da karşılar.",
+    "firstAttestation": {
+      "source": "İrşadü'l-Mülûk ve's-Selâtîn",
+      "period": "1387",
+      "form": "meşrūˁ"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "meşru maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/me%C5%9Fru"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "meşru maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mezkûr",
+    "word": "mezkûr",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ẕakara",
+        "meaning": "birinden veya bir şeyden söz etti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "maẕkūr",
+        "meaning": "söz içinde anılmış olan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mezkûr",
+        "meaning": "daha önce sözü geçmiş olan",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Daha önce adı veya sözü geçmiş olan.",
+    "currentMeaning": "Konuşmada ya da yazıda daha önce anılan kişi veya şeyi niteleyen söz.",
+    "story": "Mezkûrun çıkışında Arapça ẕakara fiilinin anlattığı anma eylemi vardır. Maẕkūr, bu eylemin konusu olanı, yani söz içinde anılmış kişiyi veya şeyi gösterir. Türkçede mezkûr denildiğinde de anlatım geriye döner ve daha önce sözü edilen şeye işaret eder.",
+    "firstAttestation": {
+      "source": "Tezkiretü'l-Evliya tercümesi",
+      "period": "1341",
+      "form": "meẕkūr"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mezkûr maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mezk%C3%BBr"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mezkûr maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "menkıbe",
+    "word": "menkıbe",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "naḳaba",
+        "meaning": "delik açtı; dağları geçerek ilerledi; başı çekti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "manḳaba(t)",
+        "meaning": "dağda aşılabilecek geçiş yeri",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "manāḳib",
+        "meaning": "geçiş yolları; bir kişinin üstün niteliklerini ve yiğitliklerini konu alan anlatı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "menkıbe",
+        "meaning": "ünlü veya dinî bir kişinin olağanüstü yönlerini anlatan hikâye",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Dinî veya tarihî kişilerin olağanüstü yönlerini anlatan hikâye.",
+    "currentMeaning": "Din büyüklerinin veya tarihî kişilerin hayatını, erdemlerini ve olağanüstü davranışlarını konu alan anlatı.",
+    "story": "Menkıbenin uzak başlangıcında delmek, dağ aşmak ve öncülük etmek gibi eylemleri anlatan Arapça naḳaba vardır. Manḳaba(t) dağdaki geçidin adıydı; onun çoğulu manāḳib ise yolların yanında bir insanın erdemlerini ve kahramanlıklarını anlatan hikâyeleri de karşılıyordu. Farsça ve Türkçede hikâye anlamı tekil biçime de taşındı. Böylece Türkçedeki menkıbe, dağ geçidinden dinî ve tarihî kişilerin olağanüstü hayatlarına uzandı.",
+    "firstAttestation": {
+      "source": "Sinan Paşa — Tazarru'nâme",
+      "period": "1482",
+      "form": "menḳabe"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "menkıbe maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/menk%C4%B1be"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "menkıbe maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "menfi",
+    "word": "menfi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "nafā",
+        "meaning": "dışarıda bıraktı, sürgüne gönderdi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "manfī",
+        "meaning": "sürgüne gönderilmiş; dil bilgisinde olumsuzluk taşıyan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "menfi",
+        "meaning": "olumlu olmayan, olumsuz",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Olumsuz nitelik taşıyan.",
+    "currentMeaning": "Olumlu olmayan; olumsuz bir durumu, düşünceyi veya sonucu niteleyen.",
+    "story": "Menfi, Arapça nafā fiilinin dışarıda bırakma ve sürgüne gönderme eylemlerine dayanır. Bu fiilden oluşan manfī, sürülen kişiyi nitelerken dil bilgisinde olumsuzluğu da anlatıyordu. Türkçedeki menfi, kelimenin bu ikinci anlamını taşır; dışlama düşüncesi bir yargının olumlu karşılığını reddetmeye uzanır.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "menfī"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "menfi maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/menfi"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "menfi maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mecra",
+    "word": "mecra",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "carā",
+        "meaning": "akıp ilerledi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "macrā",
+        "meaning": "akma hareketi; suyun izlediği yatak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mecra",
+        "meaning": "akarsuyun içinde ilerlediği yatak",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir akarsuyun aktığı yatak.",
+    "currentMeaning": "Akarsuyun akışını sürdürdüğü doğal yatak veya kanal.",
+    "story": "Mecranın başlangıcında Arapça carā fiilinin anlattığı akma hareketi vardır. Macrā, hem bu akışı hem de suyun içinden geçtiği yatağı adlandırır. Türkçedeki mecra da suyun hareketiyle ona yol veren yeri aynı anlam çevresinde buluşturur.",
+    "firstAttestation": {
+      "source": "Latifî — Tezkîretü'ş-Şuarâ",
+      "period": "1546",
+      "form": "mecrā"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mecra maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mecra"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mecra maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mecal",
+    "word": "mecal",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "cāla",
+        "meaning": "dönerek veya dolaşarak hareket etti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "macāl",
+        "meaning": "hareket veya oyun alanı; erişim sınırı, yapabilme gücü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mecal",
+        "meaning": "bir işi yapmaya yetecek güç",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir işi yapmaya yetecek güç ve takat.",
+    "currentMeaning": "Bir hareketi veya işi gerçekleştirmek için gereken bedensel güç.",
+    "story": "Arapça cāla, dönüp dolaşan bir hareketi anlatır; macāl ise bu hareketin gerçekleşebileceği alanı adlandırır. Kelimenin anlamı, dolaşılabilecek yerden kişinin yapabileceklerinin kapsamına ve gücüne uzanır. Türkçede mecal kalmaması, bu anlam yolculuğunun güç tarafını yaşatır: kişi artık hareket edecek takati bulamaz.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "mecāl"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mecal maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mecal"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mecal maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mecaz",
+    "word": "mecaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "cāza",
+        "meaning": "bir yandan öbür yana geçti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "macāz",
+        "meaning": "geçiş sağlayan yer veya köprü; gerçek anlamı dışında kullanılan ifade",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mecaz",
+        "meaning": "benzerlik veya bağlantıyla başka anlamda kullanılan söz",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir bağlantıyla gerçek anlamının dışında kullanılan söz.",
+    "currentMeaning": "Bir benzerlik veya anlam ilişkisi kurularak temel anlamından farklı bir anlamda kullanılan söz.",
+    "story": "Mecazın arkasında Arapça cāza fiilindeki karşıya geçme hareketi bulunur. Macāz önce geçit ve köprüyü, ardından bir sözün asıl anlamından başka bir anlama geçişini adlandırır. Türkçedeki mecazda geçilen şey artık fiziksel bir engel değil, iki anlam arasındaki mesafedir.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "macāz"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mecaz maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mecaz"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mecaz maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "meczup",
+    "word": "meczup",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "caẕaba",
+        "meaning": "kendine doğru çekti",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "macẕūb",
+        "meaning": "bir çekime kapılmış; cezbe içinde veya aklını yitirmiş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "meczup",
+        "meaning": "aklını yitirmiş sayılan kişi",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Aklını yitirmiş kimseyi anlatan söz.",
+    "currentMeaning": "Aklını yitirmiş olduğu düşünülen kişi için kullanılan ad.",
+    "story": "Arapça caẕaba, bir şeyi kendine doğru çekmeyi anlatır; macẕūb ise bu çekimin etkisinde kalandır. Çekilme düşüncesi, cezbeye kapılıp kendinden geçen kişinin durumuna da uygulanır. Türkçenin eski tasavvuf dilinde bu kendinden geçiş öne çıkarken meczup, aklını yitirmiş sayılan kişiyi de adlandırır.",
+    "firstAttestation": {
+      "source": "Gülşehri — Mantıku't-Tayr",
+      "period": "1317",
+      "form": "meczūb"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "meczup maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/meczup"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "meczup maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "maktul",
+    "word": "maktul",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḳatala",
+        "meaning": "canını aldı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "maḳtūl",
+        "meaning": "öldürme eylemiyle hayatı sona ermiş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "maktul",
+        "meaning": "başkası tarafından öldürülmüş",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Öldürülmüş olan.",
+    "currentMeaning": "Bir öldürme eylemi sonucunda yaşamını kaybetmiş olan.",
+    "story": "Maktulun temelinde Arapça ḳatala fiilinin anlattığı öldürme eylemi bulunur. Maḳtūl, bu eylemden etkilenen ve hayatını kaybeden kişiyi gösterir. Türkçeye geçen maktul da ölümün gerçekleşmiş olmasından çok, kişinin öldürülmüş olduğunu belirtir.",
+    "firstAttestation": {
+      "source": "Danişmend-Name",
+      "period": "1360",
+      "form": "maḳtūl"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "maktul maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/maktul"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "maktul maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "suhulet",
+    "word": "suhulet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "sahala",
+        "meaning": "sertliğini yitirdi, gevşeyip kolay duruma geldi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "suhūla(t)",
+        "meaning": "sertliğin azalması; rahatça akma veya yapılabilme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "suhulet",
+        "meaning": "güçlük çekmeden yapılabilme durumu",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir işin güçlük çekilmeden yapılabilmesi, kolaylık.",
+    "currentMeaning": "Bir işin zorlanmadan ve güçlükle karşılaşmadan gerçekleştirilebilmesi.",
+    "story": "Suhuletin başlangıcındaki Arapça sahala, sertliğin çözülmesini, gevşemeyi ve kolaylaşmayı birlikte anlatır. Suhūla(t) bu yumuşaklığın ve rahat ilerleyişin adıdır. Türkçede suhuletle yapılan bir işte de aynı düşünce sürer: iş, dirençle karşılaşmadan ilerler.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "sühūlet"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "suhulet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/suhulet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "suhulet maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sükûnet",
+    "word": "sükûnet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "sakana",
+        "meaning": "durulup dinlendi, bir yerde kaldı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "sukūn",
+        "meaning": "bir yerde kalma; hareketin yatışması",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "sukūna(t)",
+        "meaning": "sakinlik ve ağırbaşlılık",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "tr",
+        "form": "sükûnet",
+        "meaning": "telaştan ve hareketlilikten uzak sakinlik",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Telaşın ve hareketliliğin yatıştığı dinginlik.",
+    "currentMeaning": "Ortalığın veya kişinin durulduğu, sakinlik ve dinginliğin hâkim olduğu durum.",
+    "story": "Sükûnetin temelindeki Arapça sakana, hareketin dinmesini ve bir yerde konaklamayı bir araya getirir. Sukūn da hem bir yerde kalmayı hem dinginliği anlatır. Sükûnetin hazır bir Arapça biçim olarak mı alındığı, yoksa sükûnun dinginlik anlamını ayırmak için mi türetildiği tartışmalıdır. Türkçedeki kullanımında kelime, hareketin ve telaşın yatıştığı duruma odaklanır.",
+    "firstAttestation": {
+      "source": "Şeyhoğlu — Marzubânnâme tercümesi",
+      "period": "1380",
+      "form": "sükūnet"
+    },
+    "relatives": [],
+    "alternatives": [
+      "TDK Güncel Türkçe Sözlük kelimeyi Arapça sukūnet biçimine bağlar; Nişanyan Sözlük ise Arapça sözlüklerde bu biçime rastlanmadığını ve sükûnun anlamlarını ayırmak amacıyla bir türev üretildiğini belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sükûnet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/s%C3%BCk%C3%BBnet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sükûnet maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "malul",
+    "word": "malul",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ˁalla",
+        "meaning": "sağlamlığını yitirdi, kusuru vardı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "maˁlūl",
+        "meaning": "hastalık veya kusur taşıyan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "malul",
+        "meaning": "hastalık veya sakatlığı bulunan",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hastalık veya sakatlığı bulunan.",
+    "currentMeaning": "Hastalığı ya da sakatlığı olan kişiyi niteleyen söz.",
+    "story": "Malulun dayandığı Arapça ˁalla, bir şeyin bozulmasını veya kusurlu olmasını anlatır. Maˁlūl bu durumu taşıyanı niteler ve hastalığı da aynı anlam çevresine alır. Türkçede malul, bu geniş kusur ve hastalık alanından kişinin sağlık durumuna yönelen kullanımı sürdürür.",
+    "firstAttestation": {
+      "source": "Gülşehri — Mantıku't-Tayr",
+      "period": "1317",
+      "form": "maˁlūl"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "malul maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/malul"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "malul maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mavera",
+    "word": "mavera",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "warāˀ",
+        "meaning": "bir şeyin arka veya öte tarafında",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mā warāˀ",
+        "meaning": "bir şeyin arka veya öte tarafında bulunan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mavera",
+        "meaning": "bir sınırın öbür tarafı",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyin ötesi, öbür tarafı.",
+    "currentMeaning": "Bir yerin, sınırın veya şeyin ötesinde kalan taraf.",
+    "story": "Arapça warāˀ, bir şeyin arkasını veya ötesini gösteren bir yer ilişkisi kurar. Mā warāˀ ifadesi bu konumda bulunanı, yani öte tarafta olanı anlatır. Türkçede tek kelime hâlini alan mavera, bakışın bir sınırı aşıp öbür tarafa yönelmesini korur.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "māverā"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mavera maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mavera"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mavera maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "minval",
+    "word": "minval",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "nāla",
+        "meaning": "besin sağladı (anlam ve türeme bağlantısı belirsiz)",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "minwāl",
+        "meaning": "dönme ekseni veya çıkrığın mili; yön, yapılış biçimi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "minval",
+        "meaning": "bir işin yürütülüş biçimi",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir işin yapılış veya yürütülüş tarzı.",
+    "currentMeaning": "Bir işin nasıl yapıldığını ya da bir durumun nasıl sürdüğünü belirleyen biçim ve usul.",
+    "story": "Türkçedeki minvalin arkasında Arapça minwāl vardır; bu kelime çıkrığın milini ve eksenini de yönü ve usulü de anlatır. Kelimenin beslemeyle ilişkilendirilen nāla fiiline bağı ise kesin değildir. Somut bir dönme ekseniyle bir işin izlediği yön aynı kelimede buluşur; Türkçedeki bu minval üzere ifadesi, işin belirli bir tarzda sürmesini anlatır.",
+    "firstAttestation": {
+      "source": "Şeyh Elvan Şirazî — Gülşen-i Raz tercümesi",
+      "period": "1426",
+      "form": "minvāl"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük minwāl biçiminin nāla fiilinden türemesini muhtemel sayar ve fiile verdiği besleme anlamını soru işaretiyle sunar."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "minval maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/minval"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "minval maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mizan",
+    "word": "mizan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "wazana",
+        "meaning": "ağırlığını ölçtü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mīzān",
+        "meaning": "ağırlık ölçmeye yarayan araç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mizan",
+        "meaning": "tartmada kullanılan terazi",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Tartmaya yarayan araç, terazi.",
+    "currentMeaning": "Bir şeyin ağırlığını belirlemeye yarayan tartı aracı.",
+    "story": "Mizanın başlangıcındaki Arapça wazana, bir şeyin ağırlığını ölçme eylemini anlatır. Mīzān bu eylemi gerçekleştiren araca, yani teraziye verilen addır. Türkçeye mizan olarak geçen kelime, tartma işiyle onu yapan araç arasındaki bağı korur.",
+    "firstAttestation": {
+      "source": "İrşadü'l-Mülûk ve's-Selâtîn",
+      "period": "1387",
+      "form": "mīzān"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Mizanın muhasebeye taşınmasında, İtalyanca bilancia kelimesinin hem teraziyi hem borç ve alacakları karşılaştıran defteri adlandırması örnek alınmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mizan maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mizan"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mizan maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mugalata",
+    "word": "mugalata",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ġalaṭa",
+        "meaning": "hataya düştü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "muġālaṭa(t)",
+        "meaning": "bir başkasını hataya sürükleme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mugalata",
+        "meaning": "karşısındakini yanıltmaya yönelik söz yürütme",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Karşısındakini yanıltmak amacıyla söz yürütme.",
+    "currentMeaning": "Sağlam kanıtlara dayanmayan sözlerle karşısındakini hatalı bir sonuca yöneltme.",
+    "story": "Mugalatanın temelindeki Arapça ġalaṭa, kişinin yanılmasını anlatır. Muġālaṭa(t) biçiminde ağırlık, yanılan kişiden başkasını yanılgıya sürükleyen eyleme geçer. Türkçede mugalata, tartışmayı sağlam gerekçelerle ilerletmek yerine karşısındakini sözle yanlış sonuca götürme davranışını adlandırır.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "muġālatat"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mugalata maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mugalata"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mugalata maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

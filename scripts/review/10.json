@@ -5,6 +5,14 @@
     "objections": []
   },
   {
+    "id": "pirinç",
+    "verdict": "fix",
+    "objections": [
+      "Kaynak zincirindeki Dravit ana dili halkası maddede yok; bu halka eşköken değil alıntı ilişkisiyle veriliyor, zincire eklenmeli.",
+      "Halka eklenince ultimateOrigin sa değil dra olur."
+    ]
+  },
+  {
     "id": "nar",
     "verdict": "fix",
     "objections": [

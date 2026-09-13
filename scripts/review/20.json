@@ -1,0 +1,56 @@
+[
+  {
+    "id": "esen",
+    "verdict": "fix",
+    "objections": [
+      "donorLanguage fa verilmiş; zincirde Türkçeye doğrudan veren halka otk, Farsça ondan öncedir.",
+      "formationType 'alıntı' verilmiş; kaynak Farsça bağlantıyı tartışmalı sayıyor ve Doerfer ile Clauson'ın alıntı olup olmadığında ayrıştığını aktarıyor, değer 'tartışmalı' olmalı."
+    ]
+  },
+  {
+    "id": "gönenmek",
+    "verdict": "fix",
+    "objections": [
+      "formationType null bırakılmış ve doğrulayıcı hata veriyor; zincir tek Türkçe halkadan oluştuğu ve kaynak bir köken vermediği için değer 'öz' yapıldı, uydurma bir türetme zinciri eklenmedi."
+    ]
+  },
+  {
+    "id": "görkem",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "gücenmek",
+    "verdict": "fix",
+    "objections": [
+      "formationType null bırakılmış ve doğrulayıcı hata veriyor; zincir tek Türkçe halkadan oluştuğu ve kaynak bir köken vermediği için değer 'öz' yapıldı, uydurma bir türetme zinciri eklenmedi."
+    ]
+  },
+  {
+    "id": "ılgım",
+    "verdict": "fix",
+    "objections": [
+      "formationType null bırakılmış ve doğrulayıcı hata veriyor; zincir tek Türkçe halkadan oluştuğu ve kaynak bir köken vermediği için değer 'öz' yapıldı, uydurma bir türetme zinciri eklenmedi."
+    ]
+  },
+  {
+    "id": "im",
+    "verdict": "fix",
+    "objections": [
+      "donorLanguage zh verilmiş; zincirde Türkçeye doğrudan veren halka otk, Çince ondan öncedir.",
+      "formationType 'alıntı' verilmiş; kaynak Çince bağlantıyı tartışmalı köken olarak veriyor, değer 'tartışmalı' olmalı."
+    ]
+  },
+  {
+    "id": "imece",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "irkilmek",
+    "verdict": "fix",
+    "objections": [
+      "formationType null bırakılmış ve doğrulayıcı hata veriyor; zincir tek Türkçe halkadan oluştuğu ve kaynak bir köken vermediği için değer 'öz' yapıldı, uydurma bir türetme zinciri eklenmedi."
+    ]
+  }
+]

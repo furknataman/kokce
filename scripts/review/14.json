@@ -1,0 +1,23 @@
+[
+  {
+    "id": "aşina",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "bedmest",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor; düşürmeden önce ayrı yazım denemeye değer.",
+      "sources alanı TDK Güncel Türkçe Sözlük'te bedmest maddesi gösteriyor, ancak TDK kaydında böyle bir madde yok; kaynak uydurma."
+    ]
+  },
+  {
+    "id": "canpare",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor; düşürmeden önce ayrı yazım denemeye değer.",
+      "sources yalnızca birleşiğin bileşenlerini (can, pare) gösteriyor; madde başının kendisi için hiçbir kaynak yok."
+    ]
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "id": "siluet",
+    "verdict": "check",
+    "reasons": [
+      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
+    ]
+  },
+  {
+    "id": "sofistike",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sürrealizm",
+    "verdict": "check",
+    "reasons": [
+      "Zincir sırası kaynaktan farklı: madde fr › la › fr, kaynak fr › fr › la"
+    ]
+  },
+  {
+    "id": "transandantal",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ütopik",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "virtüöz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ağıl",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ağu",
+    "verdict": "check",
+    "reasons": [
+      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
+    ]
+  },
+  {
+    "id": "alaz",
+    "verdict": "check",
+    "reasons": [
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: tr"
+    ]
+  },
+  {
+    "id": "alkım",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "arı",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 900 öncesi kaynaktaki en eski tanıklıktan (1073) eski",
+      "firstAttestation.source 'Türkische Turfantexte 1-9' kaynaktaki eserlerle eşleşmiyor (Kaşgarî, Divan-i Lugati't-Türk, Ahmed Vefik Paşa, Lehce-i Osmani)",
+      "Nişanyan bağlantısı kaynakla farklı: https://www.nisanyansozluk.com/kelime/ar%C4%B12 (beklenen https://www.nisanyansozluk.com/kelime/ar%C4%B1)"
+    ]
+  },
+  {
+    "id": "ark",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ayaz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "aylak",
+    "verdict": "check",
+    "reasons": [
+      "donorLanguage tr kaynakla uyuşmuyor (kaynak: otk)",
+      "Kaynak zincirinde olup maddede olmayan halka: otk"
+    ]
+  },
+  {
+    "id": "ayrıksı",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: tr"
+    ]
+  },
+  {
+    "id": "bayındır",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "belgi",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "beniz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "bet",
+    "verdict": "check",
+    "reasons": [
+      "donorLanguage null ama kaynak alıntı diyor: fa",
+      "Kaynak zincirinde olup maddede olmayan halka: pal, fa",
+      "Maddede olup kaynak zincirinde olmayan halka: otk",
+      "firstAttestation.period 1000 öncesi kaynaktaki en eski tanıklıktan (1250) eski",
+      "firstAttestation.source 'Türkische Turfantexte 1-9' kaynaktaki eserlerle eşleşmiyor (Edib Ahmed, Atebet-ül Hakayık, Codex Cumanicus)",
+      "Nişanyan bağlantısı kaynakla farklı: https://www.nisanyansozluk.com/kelime/bet2 (beklenen https://www.nisanyansozluk.com/kelime/bet)"
+    ]
+  },
+  {
+    "id": "bengi",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "siluet",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor.",
+      "Maddenin kendi sources kaydı TDK'de 'silüet maddesi' diyor; madde başı büyük olasılıkla silüet olmalı, düşürmeden önce bu yazımla yeniden çekilmeli."
+    ]
+  },
+  {
+    "id": "sürrealizm",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "ağu",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan Sözlük'te de TDK Güncel Türkçe Sözlük'te de madde bulunamadı, kelime doğrulanamıyor.",
+      "Tek kaynak Kubbealtı Lugatı; bu sözlük doğrulama hattında çekilmiyor. relatives'teki ağı biçimi TDK madde başı olabilir, düşürmeden önce denenmeli."
+    ]
+  },
+  {
+    "id": "alaz",
+    "verdict": "fix",
+    "objections": [
+      "yalaz ve yalabız için 'eş köken' verilmiş; bunlar başka dilden alınmış ikiz değil, Türkçe içinde ayrışmış biçimler olduğu için ilişki 'akraba' olmalı.",
+      "Zincirdeki tr halkası madde başının kendisi, kaynaktaki eşköken biçim değil; otomatik uyarı yanlış alarm."
+    ]
+  },
+  {
+    "id": "arı",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "aylak",
+    "verdict": "fix",
+    "objections": [
+      "chain[0] dili tr verilmiş; kaynak bu halkayı Orta Türkçe olarak gösteriyor, story de öyle yazıyor, kod otk olmalı.",
+      "Halka düzelince donorLanguage ve ultimateOrigin de tr değil otk olur."
+    ]
+  },
+  {
+    "id": "ayrıksı",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "bet",
+    "verdict": "ok",
+    "objections": []
+  }
+]
