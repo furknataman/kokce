@@ -111,8 +111,10 @@ struct KokceMediumView: View {
                     .lineLimit(1)
                     .minimumScaleFactor(0.7)
             }
+            // Kısa anlam footnote: özet satırına yer açar, kelime yine de
+            // baskın kalır.
             Text(word.shortMeaning)
-                .font(.subheadline)
+                .font(.footnote.weight(.medium))
                 .foregroundStyle(Theme.ink)
                 .lineLimit(2)
                 .minimumScaleFactor(0.9)

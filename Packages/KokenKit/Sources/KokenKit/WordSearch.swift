@@ -21,13 +21,28 @@ public enum WordSearch {
             .trimmingCharacters(in: .whitespacesAndNewlines)
     }
 
-    /// Kelime, kısa anlam veya zincirdeki biçimlerden biri sorguyu içeriyor mu?
+    /// Kelime sorguyla eşleşiyor mu?
+    ///
+    /// Üç kural var: kelimenin kendisi sorguyla **başlıyorsa**, akraba
+    /// kelimelerden biri sorguyla başlıyorsa ya da kısa anlamda sorgu **tam
+    /// kelime** olarak geçiyorsa eşleşir.
+    ///
+    /// Anlam içinde parça arama ve zincirdeki yabancı biçimler bilerek
+    /// dışarıda: ikisi de "kal" aramasına "sandalye", "nabız", "akıl" gibi
+    /// alakasız maddeleri sokuyordu. Kullanıcı kelimeyi baştan yazar.
     public static func matches(_ word: Word, query: String) -> Bool {
         let needle = normalized(query)
         guard !needle.isEmpty else { return true }
-        if normalized(word.word).contains(needle) { return true }
-        if normalized(word.shortMeaning).contains(needle) { return true }
-        return word.chain.contains { normalized($0.form).contains(needle) }
+        if normalized(word.word).hasPrefix(needle) { return true }
+        if word.relatives.contains(where: { normalized($0.word).hasPrefix(needle) }) { return true }
+        return words(in: word.shortMeaning).contains(needle)
+    }
+
+    /// Metni arama biçimine getirip kelimelere ayırır.
+    static func words(in text: String) -> [String] {
+        normalized(text)
+            .split { !($0.isLetter || $0.isNumber) }
+            .map(String.init)
     }
 
     /// Arama ve köken dili filtresini birlikte uygular; sıralama korunur.

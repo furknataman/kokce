@@ -28,11 +28,58 @@ struct WordSearchTests {
         #expect(WordSearch.matches(Fixtures.word(id: "kalem"), query: "   "))
     }
 
-    @Test("Zincirdeki biçimler de aranır")
-    func searchesChainForms() throws {
+    /// Eskiden zincirdeki yabancı biçimler de aranıyordu; arama bu yüzden
+    /// alakasız maddeler getiriyordu. Artık yalnızca kelimenin kendisi,
+    /// akrabaları ve kısa anlamdaki tam kelimeler aranır.
+    @Test("Zincirdeki yabancı biçimler aranmaz")
+    func ignoresChainForms() throws {
         let catalog = try CatalogLoader.decode(Fixtures.catalogData)
-        let found = WordSearch.filter(catalog.words, query: "qalam")
-        #expect(found.map(\.id) == ["kalem"])
+        #expect(WordSearch.filter(catalog.words, query: "qalam").isEmpty)
+    }
+
+    @Test("Eşleşme kelime başından olur")
+    func matchesOnlyFromTheStart() {
+        let kalem = Fixtures.word(id: "kalem", word: "kalem")
+        #expect(WordSearch.matches(kalem, query: "kal"))
+        #expect(WordSearch.matches(kalem, query: "kalem"))
+        // Ortadan eşleşme yok: "lem" kalem'i getirmemeli.
+        #expect(WordSearch.matches(kalem, query: "lem") == false)
+    }
+
+    /// Asıl şikâyet: "Kal" araması kalp, nabız, sandalye gibi maddeleri
+    /// listeliyordu; ikisi de yalnızca anlam metninde "Kalbin" geçtiği için.
+    @Test("Anlam içinde parça eşleşmesi yok")
+    func ignoresPartialMeaningMatches() {
+        let nabiz = Word(id: "nabız", word: "nabız", partOfSpeech: "isim",
+                         formationType: .borrowed, donorLanguage: "ar", ultimateOrigin: "ar",
+                         chain: [ChainStep(language: "tr", form: "nabız", meaning: "vuru",
+                                           period: nil, reconstructed: false)],
+                         shortMeaning: "Kalbin çalışmasıyla atardamarlarda hissedilen vuru.",
+                         currentMeaning: "Kalp atışının damardaki yansıması.",
+                         story: "Hikâye.", firstAttestation: nil, relatives: [],
+                         alternatives: nil, funFact: nil,
+                         sources: [Source(name: "Nişanyan Sözlük", ref: nil, url: nil)],
+                         confidence: .high, reviewed: true)
+        #expect(WordSearch.matches(nabiz, query: "kal") == false)
+        // Tam kelime geçerse eşleşir.
+        #expect(WordSearch.matches(nabiz, query: "kalbin"))
+        #expect(WordSearch.matches(nabiz, query: "vuru"))
+    }
+
+    @Test("Akraba kelimeler de aranır")
+    func matchesRelatives() {
+        let kalem = Word(id: "kalem", word: "kalem", partOfSpeech: "isim",
+                         formationType: .borrowed, donorLanguage: "ar", ultimateOrigin: "grc",
+                         chain: [ChainStep(language: "tr", form: "kalem", meaning: "yazı aracı",
+                                           period: nil, reconstructed: false)],
+                         shortMeaning: "Yazı aracı.", currentMeaning: "Yazı aracı.",
+                         story: "Hikâye.", firstAttestation: nil,
+                         relatives: [Relative(word: "kalemtıraş", relation: "birleşik")],
+                         alternatives: nil, funFact: nil,
+                         sources: [Source(name: "Nişanyan Sözlük", ref: nil, url: nil)],
+                         confidence: .high, reviewed: true)
+        #expect(WordSearch.matches(kalem, query: "kalemtıraş"))
+        #expect(WordSearch.matches(kalem, query: "kalemti"))
     }
 
     @Test("Köken dili filtresi ve favoriler birlikte çalışır")

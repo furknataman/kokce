@@ -8,7 +8,8 @@ Kökçe hiçbir kişisel veri toplamaz.
 - **Veriler yalnızca cihazda.** Favoriler, günün kelimesi kipi ve bildirim
   ayarı cihazın kendi depolamasında durur; iCloud'a veya sunucuya yazılmaz.
 - **İçerik güncellemesi.** Uygulama günde en çok bir kez GitHub'daki sözlük
-  dosyasını anonim bir GET isteğiyle yoklar. İstekte kimlik, cihaz bilgisi
+  dosyasını (https://github.com/furknataman/kokce) anonim bir GET isteğiyle
+  yoklar. İstekte kimlik, cihaz bilgisi
   veya kullanım verisi yer almaz; yalnızca dosyanın değişip değişmediğini
   anlamak için `If-None-Match` başlığı gönderilir.
 - **Bildirimler yereldir.** Günlük hatırlatma cihazda planlanır, sunucudan
@@ -30,7 +31,7 @@ Kökçe collects no personal data.
 - **Data stays on the device.** Favourites, the word-of-the-day mode, and the
   notification setting live in local storage only.
 - **Content updates.** At most once a day the app makes an anonymous GET
-  request to the dictionary file on GitHub, sending only an `If-None-Match`
+  request to the dictionary file on GitHub (github.com/furknataman/kokce), sending only an `If-None-Match`
   header to learn whether the file changed.
 - **Notifications are local**, scheduled on the device.
 - **Deleting the app** deletes all of its data; we keep no copy.

@@ -22,6 +22,9 @@ python3 scripts/validate_words.py
 
 ## PR akışı
 
+Depo: https://github.com/furknataman/kokce
+
+
 - Tek PR'da bir konu: kelime eklemek ile kod değişikliğini karıştırmayın.
 - Başlık kısa ve Türkçe olsun, açıklamada kaynakları belirtin.
 - `main` dalına yalnızca doğrulamadan geçen PR'lar girer; aynı dosya

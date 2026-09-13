@@ -33,24 +33,25 @@ struct KokceJourneyStep: Hashable {
 /// hikâyenin can alıcı kısmıdır.
 enum KokceSummary {
 
-    /// Orta ailenin özet adayları, en uzundan kısaya. Hikâyenin üç, iki ve bir
-    /// cümlesi ile güncel anlam; kısa anlamı tekrarlayan ya da boş olanlar
-    /// elenir. Görünüm bunlardan sığan ilkini seçer.
+    /// Orta ailenin özet adayları, uzundan kısaya: hikâyenin ilk iki cümlesi,
+    /// ilk cümlesi. Hikâye varken **güncel anlam kullanılmaz** — kısa anlamı
+    /// başka kelimelerle tekrar eder ve satır boşa gider. Yalnızca hikâye
+    /// yoksa güncel anlama düşülür.
     static func summaries(for word: Word) -> [String] {
-        let candidates = [sentences(word.story, limit: 3),
-                          sentences(word.story, limit: 2),
-                          word.currentMeaning,
-                          sentences(word.story, limit: 1)]
-        return unique(candidates, notMatching: word.shortMeaning)
+        let fromStory = unique([sentences(word.story, limit: 2),
+                                sentences(word.story, limit: 1)],
+                               notMatching: word.shortMeaning)
+        guard fromStory.isEmpty else { return fromStory }
+        return unique([word.currentMeaning], notMatching: word.shortMeaning)
     }
 
     /// Büyük ailenin hikâye adayları: tamamı, ilk iki cümle, ilk cümle.
+    /// Güncel anlam burada da yok; büyük ailede zaten ayrı satırda duruyor.
     static func storyOptions(for word: Word) -> [String] {
-        let candidates = [word.story,
-                          sentences(word.story, limit: 2),
-                          sentences(word.story, limit: 1),
-                          word.currentMeaning]
-        return unique(candidates, notMatching: word.shortMeaning)
+        unique([word.story,
+                sentences(word.story, limit: 2),
+                sentences(word.story, limit: 1)],
+               notMatching: word.shortMeaning)
     }
 
     private static func unique(_ candidates: [String], notMatching excluded: String) -> [String] {

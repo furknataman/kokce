@@ -10,6 +10,7 @@ geliyor. Türkçe kelimelerin kökenini anlatan, günün kelimesi odaklı, widge
 - **Kimlikler:** bundle `com.solvy.kokce`, App Group `group.com.solvy.kokce`,
   şema `kokce://`
 - **Lisans:** kod MIT (`LICENSE`), içerik CC BY-SA 4.0 (`LICENSE-CONTENT`)
+- **Depo:** https://github.com/furknataman/kokce
 
 ## Görseller
 

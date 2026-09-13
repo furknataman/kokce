@@ -41,6 +41,8 @@ String Catalogs. iOS 18+, iPhone. Hesap yok, sunucu yok; içerik yerelden okunur
 - Gömülü katalog: `Resources/Content/words.json`, her iki hedefin bundle'ında.
 - Okuma önceliği: geçerli önbellek **ve** `contentVersion > bundle.contentVersion`
   → önbellek; aksi hâlde bundle. Bozuk önbellek silinir.
+- Depo: https://github.com/furknataman/kokce — uzak katalog adresi
+  `WordRepository.remoteURL` sabitindedir, tek yerde durur.
 - Uzaktan güncelleme: günde bir kez `If-None-Match` (ETag) ile GET, 10 sn
   timeout, 2 MB sınır; tam decode + doğrulama geçerse App Group konteynerine
   atomik yazılır. Delta yok, tam dosya değişimi.
