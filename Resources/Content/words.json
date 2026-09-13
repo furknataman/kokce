@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 4,
+  "contentVersion": 5,
   "schedule": {
     "start": "2026-10-01",
     "ids": [
@@ -804,7 +804,13 @@
       "haşyet",
       "hâk",
       "bad",
-      "mağmum"
+      "mağmum",
+      "hemavaz",
+      "nekahet",
+      "çenk",
+      "hurşid",
+      "kevkeb",
+      "ıskarmoz"
     ]
   },
   "languages": {
@@ -47720,6 +47726,302 @@
         }
       ],
       "confidence": "yüksek",
+      "reviewed": true
+    },
+    {
+      "id": "ıskarmoz",
+      "word": "ıskarmoz",
+      "rarity": "az-bilinen",
+      "partOfSpeech": "isim",
+      "formationType": "alıntı",
+      "donorLanguage": "el",
+      "ultimateOrigin": "ine",
+      "chain": [
+        {
+          "language": "ine",
+          "form": "sḱel-1",
+          "meaning": "yarmak",
+          "period": null,
+          "reconstructed": true
+        },
+        {
+          "language": "ine",
+          "form": "sḱol-mn̥-",
+          "meaning": "yarılarak elde edilmiş ağaç parçası veya çubuk",
+          "period": null,
+          "reconstructed": true
+        },
+        {
+          "language": "el",
+          "form": "skalmós",
+          "meaning": "küreği sandala tutturmaya yarayan çubuk",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "tr",
+          "form": "ıskarmoz",
+          "meaning": "gemi kaburgasını meydana getiren kavisli ahşap parça",
+          "period": "19. yy",
+          "reconstructed": false
+        }
+      ],
+      "shortMeaning": "Gemi kaburgasını meydana getiren kavisli ahşap parça.",
+      "currentMeaning": "Geminin kaburga yapısında kullanılan eğri biçimli ahşap parçaların her biri.",
+      "story": "Iskarmozun geçmişi, ağacı yarma eylemini anlatan Hintavrupa köküne uzanır. Bu kökten gelişen ağaç parçası ve çubuk adı, Yunancada küreği sandala tutturmaya yarayan ahşap parçanın adı olmuştur. Türkçeye geçen sözcüğün 19. yüzyıldaki kullanımında da kürek için yerleştirilmiş bir ağaç çivi vardır. Bugünkü anlamında ise ahşabın teknedeki görevi değişir: Sözcük, geminin kaburgasını oluşturan eğri parçaları adlandırır.",
+      "firstAttestation": {
+        "source": "Ahmed Vefik Paşa — Lehce-i Osmani",
+        "period": "1876",
+        "form": "ıskarmoz"
+      },
+      "relatives": [],
+      "alternatives": null,
+      "funFact": null,
+      "sources": [
+        {
+          "name": "Nişanyan Sözlük",
+          "ref": "ıskarmoz maddesi",
+          "url": "https://www.nisanyansozluk.com/kelime/%C4%B1skarmoz"
+        },
+        {
+          "name": "TDK Güncel Türkçe Sözlük",
+          "ref": "ıskarmoz",
+          "url": null
+        }
+      ],
+      "confidence": "yüksek",
+      "reviewed": true
+    },
+    {
+      "id": "nekahet",
+      "word": "nekahet",
+      "rarity": "az-bilinen",
+      "partOfSpeech": "isim",
+      "formationType": "alıntı",
+      "donorLanguage": "ar",
+      "ultimateOrigin": "ar",
+      "chain": [
+        {
+          "language": "ar",
+          "form": "naḳaha",
+          "meaning": "sağlığına kavuştu",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "ar",
+          "form": "naḳāha(t)",
+          "meaning": "hastalık sonrası sağlığına kavuşma",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "tr",
+          "form": "nekahet",
+          "meaning": "hastalık geçtikten sonra güçsüzlüğün sürdüğü durum",
+          "period": null,
+          "reconstructed": false
+        }
+      ],
+      "shortMeaning": "Hastalık sonrasında güçsüzlüğün sürdüğü toparlanma durumu.",
+      "currentMeaning": "Hastalığı yeni atlatan kişinin henüz gücünü toplayamadığı, bitkinliğinin sürdüğü durum.",
+      "story": "Hastalık geride kalsa da bedenin eski gücüne dönmesi zaman alır. Arapçada sağlığına kavuşmayı anlatan naḳaha fiilinden türeyen naḳāha(t), bu iyileşme sürecinin adıydı. Türkçeye nekahet biçiminde geçen sözcük, hastalığın ardından hâlsizliğin sürdüğü ve kişinin yeniden güç topladığı durumu anlatır.",
+      "firstAttestation": {
+        "source": "Meninski — Thesaurus",
+        "period": "1680",
+        "form": "nuḳh"
+      },
+      "relatives": [],
+      "alternatives": null,
+      "funFact": null,
+      "sources": [
+        {
+          "name": "Nişanyan Sözlük",
+          "ref": "nekahet maddesi",
+          "url": "https://www.nisanyansozluk.com/kelime/nekahet"
+        },
+        {
+          "name": "TDK Güncel Türkçe Sözlük",
+          "ref": "nekahet",
+          "url": null
+        }
+      ],
+      "confidence": "yüksek",
+      "reviewed": true
+    },
+    {
+      "id": "kevkeb",
+      "word": "kevkeb",
+      "rarity": "az-bilinen",
+      "partOfSpeech": "isim",
+      "formationType": "alıntı",
+      "donorLanguage": "ar",
+      "ultimateOrigin": "arc",
+      "chain": [
+        {
+          "language": "arc",
+          "form": "kawkāb, kawkbā",
+          "meaning": "yıldız",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "ar",
+          "form": "kawkab",
+          "meaning": "yıldız",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "tr",
+          "form": "kevkeb",
+          "meaning": "yıldız",
+          "period": "14. yy",
+          "reconstructed": false
+        }
+      ],
+      "shortMeaning": "Yıldızın eski adlarından biri.",
+      "currentMeaning": "Gökyüzündeki yıldız için kullanılan bir ad.",
+      "story": "Kevkebin dil yolculuğu, Aramice-Süryanice / İbranice halkasında gökteki yıldızı adlandıran kawkāb, kawkbā biçimleriyle başlar. Arapçada kawkab, Türkçede kevkeb biçimini alırken aynı gök cismine bağlı kalır. Türkçedeki erken kullanımında inci ve yakutla bezeli yıldız biçimli süsleri de adlandırır; böylece gökteki parıltının adı, değerli taşlarla yapılmış bir bezemeye taşınır.",
+      "firstAttestation": {
+        "source": "Rabguzi — Kısasü'l-Enbiya terc.",
+        "period": "1310",
+        "form": "kevkebler"
+      },
+      "relatives": [],
+      "alternatives": null,
+      "funFact": null,
+      "sources": [
+        {
+          "name": "Nişanyan Sözlük",
+          "ref": "kevkeb maddesi",
+          "url": "https://www.nisanyansozluk.com/kelime/kevkeb"
+        }
+      ],
+      "confidence": "orta",
+      "reviewed": true
+    },
+    {
+      "id": "çenk",
+      "word": "çenk",
+      "rarity": "az-bilinen",
+      "partOfSpeech": "isim",
+      "formationType": "alıntı",
+      "donorLanguage": "fa",
+      "ultimateOrigin": "fa",
+      "chain": [
+        {
+          "language": "fa",
+          "form": "çeng",
+          "meaning": "arpa benzeyen telli çalgı",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "tr",
+          "form": "çenk",
+          "meaning": "arpa benzeyen telli çalgı",
+          "period": null,
+          "reconstructed": false
+        }
+      ],
+      "shortMeaning": "Arpa benzeyen telli bir müzik aleti.",
+      "currentMeaning": "Biçimiyle arpı hatırlatan telli bir müzik aleti.",
+      "story": "Farsçada çeng adıyla anılan telli çalgı, Türkçeye çenk adıyla taşındı. Sözcük Türkçede de telleri ve arpı hatırlatan biçimiyle tanınan bir müzik aletinin adı olarak kullanılır.",
+      "firstAttestation": null,
+      "relatives": [],
+      "alternatives": null,
+      "funFact": null,
+      "sources": [
+        {
+          "name": "TDK Güncel Türkçe Sözlük",
+          "ref": "çenk",
+          "url": null
+        }
+      ],
+      "confidence": "orta",
+      "reviewed": true
+    },
+    {
+      "id": "hemavaz",
+      "word": "hemavaz",
+      "rarity": "az-bilinen",
+      "partOfSpeech": "isim",
+      "formationType": "alıntı",
+      "donorLanguage": "fa",
+      "ultimateOrigin": "fa",
+      "chain": [
+        {
+          "language": "fa",
+          "form": "hem-āvāz",
+          "meaning": "sesi bir başkasının sesiyle uyumlu olan arkadaş",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "tr",
+          "form": "hemavaz",
+          "meaning": "sesi bir başkasının sesiyle uyumlu olan arkadaş",
+          "period": null,
+          "reconstructed": false
+        }
+      ],
+      "shortMeaning": "Sesi bir başkasının sesiyle uyumlu olan arkadaş.",
+      "currentMeaning": "Ses bakımından bir başkasıyla uyum gösteren arkadaş.",
+      "story": "Hemavazın yapısındaki Farsça āvāz, insanın işitilen sesini taşır. Sözcük, arkadaşlığı seslerin birbirine uyması üzerinden anlatır. Türkçeye geçen biçiminde de arkadaş ile ses uyumu arasındaki bu bağ korunur.",
+      "firstAttestation": null,
+      "relatives": [],
+      "alternatives": null,
+      "funFact": null,
+      "sources": [
+        {
+          "name": "Kubbealtı Lugatı",
+          "ref": "hemavaz maddesi",
+          "url": "https://lugatim.com/s/hemavaz"
+        }
+      ],
+      "confidence": "orta",
+      "reviewed": true
+    },
+    {
+      "id": "hurşid",
+      "word": "hurşid",
+      "rarity": "az-bilinen",
+      "partOfSpeech": "isim",
+      "formationType": "alıntı",
+      "donorLanguage": "fa",
+      "ultimateOrigin": "fa",
+      "chain": [
+        {
+          "language": "fa",
+          "form": "ḫūrşīd",
+          "meaning": "güneş",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "tr",
+          "form": "hurşid",
+          "meaning": "güneş",
+          "period": null,
+          "reconstructed": false
+        }
+      ],
+      "shortMeaning": "Güneş için kullanılan bir ad.",
+      "currentMeaning": "Yeryüzünü aydınlatıp ısıtan Güneş'in adlarından biri.",
+      "story": "Farsçada ḫūrşīd, gündüz göğünü aydınlatan güneşin adıydı. Türkçeye hurşid biçiminde taşınırken de aynı gök cismine bağlı kaldı; değişen, adın söylenişiydi.",
+      "firstAttestation": null,
+      "relatives": [],
+      "alternatives": null,
+      "funFact": null,
+      "sources": [
+        {
+          "name": "Kubbealtı Lugatı",
+          "ref": "hurşid maddesi",
+          "url": "https://lugatim.com/s/hur%C5%9Fid"
+        }
+      ],
+      "confidence": "orta",
       "reviewed": true
     }
   ]
