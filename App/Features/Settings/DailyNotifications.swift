@@ -99,9 +99,18 @@ final class DailyNotifications {
         preferences.set(enabled, forKey: Self.enabledKey)
     }
 
-    /// İşi zincirin sonuna ekler ve sırası gelip bitene kadar bekler.
+    /// İşi sıraya alır: süren iş varsa önce iptal edilir, çıkması beklenir,
+    /// sonra yenisi koşar.
+    ///
+    /// Sonuna eklemek yerine kesmenin sebebi: her planlama ilk iş olarak
+    /// bekleyen bildirimlerin hepsini siler, yani yeni bir istek geldiğinde
+    /// eski planlama zaten geçersizdir. Sırayla koşsalardı eski iş kuyruğu
+    /// doldurup yenisinin onu baştan silmesini bekletirdi. İptal edilen işin
+    /// çıkması yine de beklenir; yoksa iki iş aynı anda `add` çağırıp kuyruğu
+    /// karıştırır.
     private func enqueue(_ operation: @escaping @Sendable @MainActor (NotificationScheduler) async -> Void) async {
         let previous = work
+        previous?.cancel()
         let scheduler = scheduler
         let task = Task { @MainActor in
             await previous?.value
