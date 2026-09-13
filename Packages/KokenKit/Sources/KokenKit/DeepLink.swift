@@ -1,9 +1,9 @@
 import Foundation
 
-/// `koken://word/<id>` bağlantıları. Kelime kimlikleri Türkçe harf içerir,
+/// `kokce://word/<id>` bağlantıları. Kelime kimlikleri Türkçe harf içerir,
 /// bu yüzden kodlama tek yerde yapılır.
 public enum DeepLink {
-    public static let scheme = "koken"
+    public static let scheme = "kokce"
     public static let wordHost = "word"
 
     public static func url(wordID: String) -> URL? {

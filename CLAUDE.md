@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Köken — Türkçe etimoloji rehberi (iOS). Bu dosya, depoda çalışan Claude Code
+Kökçe — Kelimelerin hikâyesi. Türkçe etimoloji rehberi (iOS). Bu dosya, depoda çalışan Claude Code
 oturumları için konvansiyonları tanımlar. Plan: `~/.claude/plans/yeni-bir-proje-yapman-wobbly-minsky.md`.
 
 ## Komutlar
@@ -15,6 +15,9 @@ python3 scripts/validate_words.py           # içerik doğrulaması
 Zincir: Xcode 26.6, Swift 6.3, XcodeGen 2.44. Simülatör adı için
 `xcrun simctl list devices available` (bu makinede `iPhone 17 Pro` yok).
 
+Kullanıcıya görünen ad **Kökçe**'dir; klasör, şema ve hedef adları (`Koken`,
+`KokenKit`, `KokenWidget`) ile Swift modül adları değişmeden kalır.
+
 ## Mimari
 
 Yalnızca yerli yığın, **üçüncü parti bağımlılık yok**: SwiftUI + WidgetKit +
@@ -27,7 +30,7 @@ String Catalogs. iOS 18+, iPhone. Hesap yok, sunucu yok; içerik yerelden okunur
   uygulama **ve** widget'a bağlanır) · `Widget/` · `Resources/`
   (`Assets.xcassets`, `Localizable.xcstrings`, `Content/words.json`) ·
   `scripts/` (içerik hattı).
-- **Uygulama ve widget App Group paylaşır** (`group.com.solvy.koken`): önbellek
+- **Uygulama ve widget App Group paylaşır** (`group.com.solvy.kokce`): önbellek
   dosyası ve favoriler. Uygulama tek yazıcıdır, widget yalnızca okur.
 - **Yerel paketler:** `Packages/KokenKit` ve `../SolvyKit` (`SharedKit`,
   `ReviewKit`). KokenKit'in SolvyKit'e bağımlılığı **yoktur**; böylece
@@ -61,4 +64,4 @@ String Catalogs. iOS 18+, iPhone. Hesap yok, sunucu yok; içerik yerelden okunur
 - **Tasarım:** `App/DesignSystem/Theme.swift`. Mürekkep laciverti + parşömen
   tonları; **kırmızı kullanılmaz**. Kelime başlıkları `.fontDesign(.serif)`.
   Liquid Glass yalnızca gezinme/kontrollerde, `#available(iOS 26)` arkasında.
-- **Deep link:** `koken://word/<id>`; bilinmeyen id Bugün sekmesine düşer.
+- **Deep link:** `kokce://word/<id>`; bilinmeyen id Bugün sekmesine düşer.

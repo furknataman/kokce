@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Köken</string>
+	<string>Kökçe</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -18,7 +18,7 @@
 		<string>en</string>
 	</array>
 	<key>CFBundleName</key>
-	<string>$(PRODUCT_NAME)</string>
+	<string>Kökçe</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -27,10 +27,10 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>com.solvy.koken</string>
+			<string>com.solvy.kokce</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>koken</string>
+				<string>kokce</string>
 			</array>
 		</dict>
 	</array>

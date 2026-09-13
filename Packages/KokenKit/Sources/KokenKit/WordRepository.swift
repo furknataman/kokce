@@ -22,7 +22,7 @@ public actor WordRepository {
     }
 
     /// Uzak katalog. Depo adı değişirse yalnızca burası güncellenir.
-    public static let remoteURL = URL(string: "https://raw.githubusercontent.com/solvyapp/koken/main/Resources/Content/words.json")!
+    public static let remoteURL = URL(string: "https://raw.githubusercontent.com/solvyapp/kokce/main/Resources/Content/words.json")!
     public static let maximumBytes = 2 * 1024 * 1024
     public static let timeout: TimeInterval = 10
     /// İki kontrol arası en az bir gün.

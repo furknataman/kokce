@@ -53,14 +53,14 @@ struct DeepLinkTests {
     @Test("Türkçe harfli kimlik kodlanır ve geri çözülür")
     func roundTripsTurkishID() throws {
         let url = try #require(DeepLink.url(wordID: "çay"))
-        #expect(url.absoluteString == "koken://word/%C3%A7ay")
+        #expect(url.absoluteString == "kokce://word/%C3%A7ay")
         #expect(DeepLink.wordID(from: url) == "çay")
     }
 
     @Test("Başka bağlantılar yok sayılır")
     func ignoresOtherLinks() throws {
-        #expect(DeepLink.wordID(from: URL(string: "koken://ayarlar")!) == nil)
+        #expect(DeepLink.wordID(from: URL(string: "kokce://ayarlar")!) == nil)
         #expect(DeepLink.wordID(from: URL(string: "https://solvy.app/word/kalem")!) == nil)
-        #expect(DeepLink.wordID(from: URL(string: "koken://word/")!) == nil)
+        #expect(DeepLink.wordID(from: URL(string: "kokce://word/")!) == nil)
     }
 }

@@ -1,4 +1,4 @@
-# Köken
+# Kökçe — Kelimelerin hikâyesi
 
 Her gün bir kelimenin hikâyesi: nereden geldi, nasıl değişti, bugün ne anlama
 geliyor. Türkçe kelimelerin kökenini anlatan, günün kelimesi odaklı, widget'lı,
@@ -7,6 +7,8 @@ geliyor. Türkçe kelimelerin kökenini anlatan, günün kelimesi odaklı, widge
 - **Platform:** iOS 18+, iPhone
 - **Bağımlılık yok:** SwiftUI + WidgetKit + yerel `SolvyKit`
 - **İçerik:** `Resources/Content/words.json` (gömülü), uzaktan güncellenebilir
+- **Kimlikler:** bundle `com.solvy.kokce`, App Group `group.com.solvy.kokce`,
+  şema `kokce://`
 - **Lisans:** kod MIT (`LICENSE`), içerik CC BY-SA 4.0 (`LICENSE-CONTENT`)
 
 ## Geliştirme
@@ -22,7 +24,7 @@ Xcode projesi üretilir, elle düzenlenmez. Kaynak dosya ekledikten sonra
 
 ---
 
-# Köken (EN)
+# Kökçe — The story of words (EN)
 
 A free, open-source iOS app that tells the story of Turkish words: where they
 came from, how they changed, what they mean today. One word each day, with

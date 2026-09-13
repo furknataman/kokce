@@ -2,7 +2,7 @@ import Foundation
 
 /// Uygulama ve widget'ın paylaştığı App Group.
 public enum AppGroup {
-    public static let identifier = "group.com.solvy.koken"
+    public static let identifier = "group.com.solvy.kokce"
 
     public static var containerURL: URL? {
         FileManager.default.containerURL(forSecurityApplicationGroupIdentifier: identifier)

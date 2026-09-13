@@ -69,7 +69,7 @@ struct KokenWidgetView: View {
 
 struct KokenWidget: Widget {
     var body: some WidgetConfiguration {
-        StaticConfiguration(kind: "KokenWidget", provider: KokenProvider()) { entry in
+        StaticConfiguration(kind: "KokceWidget", provider: KokenProvider()) { entry in
             KokenWidgetView(entry: entry)
                 .containerBackground(Theme.parchment, for: .widget)
         }
