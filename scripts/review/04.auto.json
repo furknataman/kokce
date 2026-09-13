@@ -63,10 +63,8 @@
   },
   {
     "id": "kahve",
-    "verdict": "check",
-    "reasons": [
-      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "baharat",
@@ -80,10 +78,8 @@
   },
   {
     "id": "şurup",
-    "verdict": "check",
-    "reasons": [
-      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "helva",
@@ -115,16 +111,14 @@
     "reasons": [
       "Maddede olup kaynak zincirinde olmayan halka: he",
       "chain[0].meaning akrabalık anlatıyor ('zeytin ve yağı; eş kökenli biçim'); eş kökenli biçim zincire girmez",
-      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: he",
-      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: he"
     ]
   },
   {
     "id": "salep",
     "verdict": "check",
     "reasons": [
-      "firstAttestation.period 1665, kaynaktaki en eski tanıklık 1410",
-      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
+      "firstAttestation.period 1665, kaynaktaki en eski tanıklık 1410"
     ]
   }
 ]

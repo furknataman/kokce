@@ -1,104 +1,107 @@
 [
   {
-    "id": "maaş",
+    "id": "mobilya",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "masraf",
+    "id": "büfe",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "fiyat",
+    "id": "komodin",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "kıymet",
+    "id": "vitrin",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "zam",
+    "id": "abajur",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "nakit",
+    "id": "aplik",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "faiz",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "taksit",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "senet",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "makbuz",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "hediye",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "emanet",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "eşya",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "cihaz",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "alet",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "nakil",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "malzeme",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "hacim",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "cisim",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "şekil",
+    "id": "stor",
     "verdict": "check",
     "reasons": [
-      "Kaynak zincirinde olup maddede olmayan halka: arc"
+      "Maddede olup kaynak zincirinde olmayan halka: fr"
     ]
+  },
+  {
+    "id": "paravan",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "karton",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ambalaj",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "nezaket",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "nadide",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hercai",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "biçare",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: pal",
+      "Zincir sırası kaynaktan farklı: madde fa, kaynak fa › fa"
+    ]
+  },
+  {
+    "id": "nevale",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "serencam",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "revan",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "avare",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "aheste",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "asude",
+    "verdict": "ok",
+    "reasons": []
   }
 ]

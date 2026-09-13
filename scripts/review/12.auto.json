@@ -1,0 +1,124 @@
+[
+  {
+    "id": "şal",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "çorap",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: arc",
+      "Maddede olup kaynak zincirinde olmayan halka: akk, syc",
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: akk"
+    ]
+  },
+  {
+    "id": "paça",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "pamuk",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: grc",
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: grc"
+    ]
+  },
+  {
+    "id": "astar",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: sa",
+      "firstAttestation.period 1387, kaynaktaki en eski tanıklık 1303",
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: sa"
+    ]
+  },
+  {
+    "id": "kemer",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: ae",
+      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303",
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: ae"
+    ]
+  },
+  {
+    "id": "tahta",
+    "verdict": "check",
+    "reasons": [
+      "Zincir sırası kaynaktan farklı: madde pal › fa, kaynak fa › pal › fa"
+    ]
+  },
+  {
+    "id": "köşe",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: ae",
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: ae"
+    ]
+  },
+  {
+    "id": "çadır",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "terzi",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "balkon",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: de"
+    ]
+  },
+  {
+    "id": "garaj",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "apartman",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "asansör",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "salon",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tuvalet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "duş",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "küvet",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "koridor",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "antre",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

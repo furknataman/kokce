@@ -1,0 +1,987 @@
+[
+  {
+    "id": "aşina",
+    "word": "aşina",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "āşnāg",
+        "meaning": "tanıdık, bilinen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "āşnā",
+        "meaning": "tanıdık, bildik; dost",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "aşina",
+        "meaning": "tanıdık; bir şeyi bilen, yadırgamayan",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Tanıdık olan veya bir şeyi önceden bilen.",
+    "currentMeaning": "Önceden tanınan, yabancı gelmeyen; bir konuya, ortama veya işe alışkın olan.",
+    "story": "Farsça āşnā, tanınan bir insanı ve arada yakınlık bulunan dostu anlatıyordu; daha eski āşnāg biçiminde de tanışıklık vardı. Türkçede bu yakınlık yalnız insanlarla sınırlı kalmadı, seslere, yüzlere ve uğraşlara da taşındı. Bir işe aşina olmak, o işin içinde yabancılık çekmeden hareket edebilmeyi anlatır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "aşinalık",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "aşina maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "aşiyan",
+    "word": "aşiyan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "āşiyān",
+        "meaning": "kuş yuvası; barınak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "aşiyan",
+        "meaning": "kuş yuvası; ev, yurt",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kuş yuvası; mecazen ev veya yurt.",
+    "currentMeaning": "Kuşların barındığı yuva; edebî kullanımda insanın yaşadığı ev veya sığındığı yer.",
+    "story": "Farsça āşiyān, kuşun barındığı yuvayı adlandırır. Türkçede de bu somut görüntüyü korurken insanın evini anlatan bir söze dönüştü. Kuşun yuvasına dönmesiyle insanın evine sığınması arasındaki benzerlik, kelimenin barınma ve aidiyet duygusu taşımasını sağlar.",
+    "firstAttestation": null,
+    "relatives": null,
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "[aşiyan maddesi](https://sozluk.gov.tr/gts?ara=a%C5%9Fiyan)",
+        "url": "https://sozluk.gov.tr/gts?ara=a%C5%9Fiyan"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "berduş",
+    "word": "berduş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "ḫāne ber dūş",
+        "meaning": "evi omzunda; yersiz yurtsuz kimse",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "berduş",
+        "meaning": "başıboş, serseri kimse",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Başıboş dolaşan, düzenli bir yaşayışı olmayan kimse.",
+    "currentMeaning": "Yerleşik bir düzeni bulunmadan başıboş dolaşan kimse; serseri.",
+    "story": "Farsça ḫāne ber dūş ifadesi, evini omzunda taşıyan birini göz önüne getirir: ḫāne ev, dūş ise omuzdur. Bu görüntü, belirli bir yere yerleşmeden dolaşan insanı anlatır. Türkçede ifadenin ev bölümü düşmüş, kalan berduş sözü başıboş ve düzensiz yaşayan kimselerin adı olmuştur.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "berduşluk",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "berduş maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bedbin",
+    "word": "bedbin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "badbīn",
+        "meaning": "kötü gören, kötümser",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bedbin",
+        "meaning": "kötümser, karamsar",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Olayların kötü yanını öne çıkaran, karamsar.",
+    "currentMeaning": "Olayları olumsuz değerlendirmeye ve gelecekte kötü sonuçlar beklemeye eğilimli olan.",
+    "story": "Farsçada bad kötülüğü, bīn ise görmeyi anlatan unsurdur; birleşince dünyaya kötü tarafından bakan kişi ortaya çıkar. Buradaki görme, gözün işleyişinden insanın olayları değerlendirişine taşınmıştır. Türkçede bedbin, karşılaştığı durumda önce olumsuzluğu gören ve umudunu düşük tutan kişiyi anlatır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "bedbinlik",
+        "relation": "türev"
+      },
+      {
+        "word": "nikbin",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "bedbin maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bedhah",
+    "word": "bedhah",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "badḫwāh",
+        "meaning": "kötülük isteyen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bedhah",
+        "meaning": "başkasının kötülüğünü isteyen",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Başkasının kötülüğünü isteyen.",
+    "currentMeaning": "Birinin zarar görmesini, başarısız olmasını veya kötü duruma düşmesini isteyen.",
+    "story": "Farsçada bad kötüyü, ḫwāh ise istemeyi anlatır. Birleşim, başkasının başına kötülük gelmesini dileyen kişiyi tarif eder. Türkçeye geçen bedhah da bu yönünü korur: kelimenin odağında kötü bir olaydan çok, o olayı isteyen insanın niyeti bulunur.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "bedhahlık",
+        "relation": "türev"
+      },
+      {
+        "word": "hayırhah",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "bedhah maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bedmest",
+    "word": "bedmest",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "badmast",
+        "meaning": "sarhoşluğu kötü, içince taşkınlaşan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bedmest",
+        "meaning": "sarhoşken huysuzlaşan ve taşkınlık eden",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İçki içince huysuzlaşan ve taşkınlık eden.",
+    "currentMeaning": "Sarhoş olduğunda geçimsizleşen, çevresini rahatsız eden veya kavga çıkaran.",
+    "story": "Farsça mast sarhoş kişiyi anlatırken başına gelen bad, bu sarhoşluğun kötü yanını öne çıkarır. Kelimenin çizdiği kişi, içkinin etkisiyle çevresine sataşan ve huzursuzluk çıkaran biridir. Türkçede bedmest bu davranış özelliğini koruyarak sarhoşluğu çekilmez olan kimseyi anlatır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "mest",
+        "relation": "akraba"
+      },
+      {
+        "word": "bedmestlik",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "bedmest maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "behre",
+    "word": "behre",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "bahre",
+        "meaning": "pay, nasip; yarar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "behre",
+        "meaning": "pay, nasip; bir alandan edinilen bilgi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Pay, nasip; bir bilgi veya beceriden edinilmiş pay.",
+    "currentMeaning": "Bir kimseye düşen pay veya nasip; bir konuda sahip olunan bilgi ve beceri.",
+    "story": "Farsça bahre, bir bütünden kişiye düşen payı anlatır. Türkçede bu pay düşüncesi, maddi şeylerin yanı sıra bilgiye ve hünerlere de uygulanmıştır. Bir sanattan behresi olmak, o sanatın bilgisinden kendine düşen bir pay edinmiş olmak demektir.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "behresiz",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "behre maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "beyhude",
+    "word": "beyhude",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "bīhūde",
+        "meaning": "boş, yararsız, anlamsız",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "beyhude",
+        "meaning": "boşuna yapılan, sonuçsuz",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir yarar veya sonuç sağlamayan.",
+    "currentMeaning": "Harcanan emeğe rağmen yarar sağlamayan, amacına ulaşmayan veya gereksiz olan.",
+    "story": "Farsça bīhūde, bir yararı bulunmayan söz ve işleri nitelendiriyordu. Türkçeye geçerken de çaba ile elde edilen sonuç arasındaki boşluğu anlatmayı sürdürdü. Beyhude bir uğraşta emek vardır, fakat bu emek beklenen karşılığı getirmez.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "beyhudelik",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "beyhude maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bihaber",
+    "word": "bihaber",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḫabar",
+        "meaning": "haber, bilgi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "bīḫabar",
+        "meaning": "habersiz, bilgisiz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bihaber",
+        "meaning": "haberi veya bilgisi olmayan",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyden haberi veya bilgisi olmayan.",
+    "currentMeaning": "Bir olaydan, durumdan ya da konudan haberdar olmayan.",
+    "story": "Arapça ḫabar, bir olay hakkında edinilen bilgiyi adlandırır. Farsçada bu kelimenin başına yokluk bildiren bī- gelince haberin dışında kalan kişi anlatılmış oldu. Türkçedeki bihaber, hem kendisine bilgi ulaşmamış birini hem de çevresinde olup bitenin farkına varmayan kişiyi niteleyebilir.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "haber",
+        "relation": "akraba"
+      },
+      {
+        "word": "haberdar",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "bîhaber maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "pürüz",
+    "word": "pürüz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "purz",
+        "meaning": "tüy, hav; kumaştaki lif çıkıntısı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pürüz",
+        "meaning": "yüzeydeki düzensizlik; engel, sorun",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yüzeydeki düzensizlik; bir işi güçleştiren sorun.",
+    "currentMeaning": "Bir yüzeyin düzgünlüğünü bozan küçük çıkıntı veya kusur; işlerin ilerlemesini güçleştiren engel.",
+    "story": "Farsça purz, kumaşın yüzeyinden çıkan ince tüyleri ve havı anlatır. Türkçede pürüz, bu küçük lif çıkıntılarından daha genel bir yüzey düzensizliğine genişlemiştir. Elin kaymasını aksatan bir çıkıntı gibi, işin ilerlemesini aksatan sorun da pürüz diye adlandırılır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "pürüzlü",
+        "relation": "türev"
+      },
+      {
+        "word": "pürüzsüz",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "pürüz maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "canhıraş",
+    "word": "canhıraş",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "cānḫarāş",
+        "meaning": "canı tırmalayan, yürek parçalayan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "canhıraş",
+        "meaning": "yürek parçalayan, çok acı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsanın içini parçalayan, çok acı ve ürpertici.",
+    "currentMeaning": "Özellikle ses ve çığlık için, dinleyende derin acı veya dehşet uyandıran.",
+    "story": "Farsçada cān canı, ḫarāş ise tırmalama ve kazıma eylemini taşıyan unsurdur. Birleşim, fiziksel bir yaranın acısını insanın iç dünyasına taşır. Türkçede canhıraş bir çığlık, sanki dinleyenin canını tırmalayacak kadar keskin ve acı bir ses olarak duyulur.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "can",
+        "relation": "akraba"
+      },
+      {
+        "word": "canhıraşlık",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "canhıraş maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "canfeza",
+    "word": "canfeza",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "cānfazā",
+        "meaning": "can artıran, canlandıran",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "canfeza",
+        "meaning": "canlandırıcı, iç açıcı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Canlılık veren, insanın içini açan.",
+    "currentMeaning": "İnsana yaşama sevinci, ferahlık ve canlılık veren.",
+    "story": "Farsçada cān hayatı ve canı anlatırken fazā, artırma düşüncesini taşır. Birleşimde güzel bir şeyin insana yeniden güç vermesi, canın çoğalması gibi tasarlanır. Türkçedeki canfeza da gönlü ferahlatan bir güzelliği veya insanı dirilten bir etkiyi anlatır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "can",
+        "relation": "akraba"
+      },
+      {
+        "word": "efzun",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "canfezâ maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "canpare",
+    "word": "canpare",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "cānpāre",
+        "meaning": "can parçası; çok sevilen kimse",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "canpare",
+        "meaning": "çok sevilen kişi, can parçası",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsanın kendi canından bir parça saydığı sevgili kişi.",
+    "currentMeaning": "Çok sevilen, kişinin kendi varlığının bir parçası gibi gördüğü kimse.",
+    "story": "Farsça cān ile parça bildiren pāre birleşince sevilen kişi, insanın kendi canından ayrılmış bir parça olarak düşünülür. Türkçede canpare bu yakınlık görüntüsünü korumuştur. Sevgiyi, iki ayrı insan arasında kurulan bağdan öte, aynı varlığı paylaşmak gibi dile getirir.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "can",
+        "relation": "akraba"
+      },
+      {
+        "word": "pare",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "canpâre maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "derbeder",
+    "word": "derbeder",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "dar ba dar",
+        "meaning": "kapı kapı; yersiz yurtsuz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "derbeder",
+        "meaning": "yaşayışı düzensiz, dağınık",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yaşayışı düzensiz, kendine ve işlerine özen göstermeyen.",
+    "currentMeaning": "Yaşamını düzenli sürdüremeyen, davranışlarında veya görünüşünde dağınıklık bulunan.",
+    "story": "Farsça dar ba dar, bir kapıdan ötekine gitmeyi anlatan bir ifadedir. Kapı kapı dolaşma görüntüsü, yerleşecek bir düzeni bulunmayan kişiyi nitelemeye dönüşmüştür. Türkçede derbederlik, bu dolaşma hâlinden genişleyerek insanın yaşayışındaki ve görünüşündeki dağınıklığı da kapsamıştır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "derbederlik",
+        "relation": "türev"
+      },
+      {
+        "word": "dergâh",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "derbeder maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "dergâh",
+    "word": "dergâh",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "dargāh",
+        "meaning": "kapı, eşik; saray, huzur",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dergâh",
+        "meaning": "tekke; yüce bir makamın huzuru",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Dervişlerin toplandığı tekke; yüce bir makamın huzuru.",
+    "currentMeaning": "Bir tarikata bağlı dervişlerin ibadet, eğitim ve toplu yaşam için kullandıkları yer; tekke.",
+    "story": "Farsçada dar kapıyı, gāh ise yeri anlatır; dargāh başlangıçta kapı ve eşik çevresinde şekillenen bir sözdür. Bir büyüğün kapısına gitmek, onun huzuruna çıkmak olduğu için kelime makamı ve huzuru da karşılamıştır. Türkçede dinî önderin çevresinde toplanılan yer için kullanılarak tekkenin adlarından biri olmuştur.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "derbeder",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "dergâh maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "derun",
+    "word": "derun",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "darūn",
+        "meaning": "iç, iç taraf; gönül",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "derun",
+        "meaning": "iç, iç taraf; gönül",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir şeyin içi; insanın gönlü ve iç dünyası.",
+    "currentMeaning": "Bir yerin veya nesnenin iç bölümü; mecazen insanın gönlü ve iç dünyası.",
+    "story": "Farsça darūn, dışarıda kalanın karşısına bir şeyin iç tarafını koyar. Bu mekân düşüncesi insan için kullanıldığında, dışarıdan görünmeyen duygu ve düşüncelere uzanır. Türkçede derun hem bir yerin içini hem de kişinin saklı tuttuğu gönül dünyasını anlatır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "deruni",
+        "relation": "türev"
+      },
+      {
+        "word": "enderun",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "derûn maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "didar",
+    "word": "didar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "dīdār",
+        "meaning": "görme, görüşme; yüz, görünüş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "didar",
+        "meaning": "yüz, çehre; sevgilinin yüzü",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yüz, çehre; özellikle sevgilinin yüzü.",
+    "currentMeaning": "Edebî kullanımda yüz veya çehre; özellikle görülmesi özlenen sevgilinin yüzü.",
+    "story": "Farsça dīdār, görmek eylemiyle bağlantılıdır ve hem görüşmeyi hem gözün karşısına gelen yüzü anlatır. Türkçenin şiir dilinde ağırlık, görülmesi arzulanan sevgilinin yüzüne kaymıştır. Böylece didar, yüzü adlandırırken ona bakma ve kavuşma isteğini de taşır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "dide",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "dîdar maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "dilber",
+    "word": "dilber",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "dilbar",
+        "meaning": "gönül götüren, gönül alan; sevgili",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dilber",
+        "meaning": "alımlı, güzel kadın",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Güzelliği ve alımıyla gönül çelen kadın.",
+    "currentMeaning": "Alımlı ve güzel kadın; edebî kullanımda sevgili.",
+    "story": "Farsçada dil gönlü, bar ise götürme ve taşıma eylemini anlatan unsurdur. Dilberin kelime içindeki resmi, karşısındakinin gönlünü alıp götüren sevgilidir. Türkçede bu gönül çalma görüntüsü korunmuş, kelime özellikle alımlı ve güzel kadın için yerleşmiştir.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "dilberlik",
+        "relation": "türev"
+      },
+      {
+        "word": "dilberdudağı",
+        "relation": "birleşik"
+      },
+      {
+        "word": "dilşat",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "dilber maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "dilbaz",
+    "word": "dilbaz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "türeme",
+    "donorLanguage": null,
+    "ultimateOrigin": "tr",
+    "chain": [
+      {
+        "language": "tr",
+        "form": "dil",
+        "meaning": "konuşma organı; söz söyleme yetisi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dilbaz",
+        "meaning": "konuşması etkili, sözle ikna eden",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Etkili ve güzel konuşarak karşısındakini ikna eden.",
+    "currentMeaning": "Söz söyleme becerisiyle insanları etkileyen ve ikna eden.",
+    "story": "Türkçe dil, konuşma organının adından söz söyleme yetisini de anlatan bir kelimeye dönüşmüştür. Buna Farsçadan alınan ve bir işle uğraşmayı bildiren -bāz unsuru eklenince söz söylemeyi ustalıkla yapan kişi adlandırılmıştır. Dilbazın gücü, konuşmasını karşısındakini etkileyecek biçimde kullanmasındadır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "dil",
+        "relation": "akraba"
+      },
+      {
+        "word": "dilbazlık",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "[dilbaz maddesi](https://sozluk.gov.tr/gts?ara=dilbaz)",
+        "url": "https://sozluk.gov.tr/gts?ara=dilbaz"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "girift",
+    "word": "girift",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "girift",
+        "meaning": "tutma, yakalama; tutulmuş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "girift",
+        "meaning": "iç içe geçmiş, dolaşık, karmaşık",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Parçaları iç içe geçmiş, çözülmesi güç ve karmaşık.",
+    "currentMeaning": "Unsurları birbirine dolanmış veya sıkı biçimde bağlanmış; anlaşılması ya da çözülmesi güç.",
+    "story": "Farsça girift, tutmak ve yakalamak eylemini taşıyan giriftan fiiliyle bağlantılıdır. Türkçede birbirine tutunmuş, ayrılması zor parçaların görüntüsü öne çıkarak iç içelik ve dolaşıklık anlamı gelişmiştir. Bir meseleye girift denildiğinde de ayrıntılarının birbirinden kolayca çözülememesi anlatılır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "giriftlik",
+        "relation": "türev"
+      },
+      {
+        "word": "giriftar",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "girift maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

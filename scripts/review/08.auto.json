@@ -38,8 +38,7 @@
     "verdict": "check",
     "reasons": [
       "Kaynak zincirinde olup maddede olmayan halka: ae",
-      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303",
-      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
+      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303"
     ]
   },
   {
@@ -49,10 +48,8 @@
   },
   {
     "id": "menteşe",
-    "verdict": "check",
-    "reasons": [
-      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "kelepçe",
@@ -63,10 +60,8 @@
   },
   {
     "id": "bahçe",
-    "verdict": "check",
-    "reasons": [
-      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "bahar",
@@ -95,16 +90,13 @@
     "verdict": "check",
     "reasons": [
       "Kaynak zincirinde olup maddede olmayan halka: arc",
-      "Maddede olup kaynak zincirinde olmayan halka: he",
-      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
+      "Maddede olup kaynak zincirinde olmayan halka: he"
     ]
   },
   {
     "id": "çınar",
-    "verdict": "check",
-    "reasons": [
-      "formationType tartışmalı ama Nişanyan ilişkisinde tartışma kaydı yok; veren dil belirsizse alıntı + alternatives kullanılmalı"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "servi",

@@ -1,0 +1,1196 @@
+[
+  {
+    "id": "mobilya",
+    "word": "mobilya",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "mobilis",
+        "meaning": "yer değiştirebilen, taşınabilen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "mobiliaria",
+        "meaning": "taşınabilen eşyalar",
+        "period": "Geç Latince",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "mobilier",
+        "meaning": "bir evin taşınabilir eşyaları",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mobilya",
+        "meaning": "mekânları döşemekte kullanılan taşınabilir eşya",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ev ve iş yerlerini döşemekte kullanılan taşınabilir eşya.",
+    "currentMeaning": "Masa, sandalye, yatak ve dolap gibi, yaşama ve çalışma alanlarını döşeyen taşınabilir eşyaların genel adı.",
+    "story": "Kelimenin eski katmanında, bir nesnenin yerinden oynatılabilmesi vardır: Latince mobilis bu özelliği anlatıyordu. Geç Latincede taşınabilir malları adlandıran mobiliaria, Fransızca mobilier biçiminde evin eşyalarını kapsayan bir ada dönüştü. Türkçeye geçişinde Fransızca ve İtalyanca açıklamaları arasında görüş ayrılığı bulunsa da bugünkü masa ve dolapları birleştiren eski düşünce, taşınabilir olmalarıdır.",
+    "firstAttestation": {
+      "source": "Tıngır & Sinapian — Istılahat Lugati",
+      "period": "1892",
+      "form": "mobilya"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Türkçeye geçişi Fransızca mobilier üzerinden açıklar.",
+      "TDK Güncel Türkçe Sözlük, doğrudan kaynak olarak İtalyanca mobilia biçimini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mobilya maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mobilya"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mobilya maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "büfe",
+    "word": "büfe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "fr",
+        "form": "buffet",
+        "meaning": "sofra dolabı, yiyecek sunulan masa ve küçük satış yeri",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "büfe",
+        "meaning": "yemek takımı dolabı; yiyecek ve içecek satılan küçük yer",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yemek takımlarının saklandığı dolap.",
+    "currentMeaning": "Evde tabak, bardak ve diğer sofra gereçlerinin konulduğu dolap.",
+    "story": "Fransızca buffet, yemek çevresinde kullanılan bir dolabın ve yiyeceklerin serildiği masanın adıydı. Sofra eşyasını saklama işiyle yiyecek sunma işi, aynı kelimede buluşuyordu. Adın istasyonlardaki yiyecek satış yerlerine de yayılmasıyla Türkçedeki dolap ve küçük dükkân kullanımlarının zemini oluştu. Fransızcadaki kelimenin daha eski kökeni ise bilinmiyor.",
+    "firstAttestation": {
+      "source": "Ahmed Mithat — Karnaval",
+      "period": "1881",
+      "form": "büfe"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Fransızca buffet biçiminin daha eski kaynağını bilinmeyen olarak gösterir; TDK Güncel Türkçe Sözlük de Türkçenin doğrudan kaynağını Fransızca olarak verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "büfe maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/b%C3%BCfe"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "büfe maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "komodin",
+    "word": "komodin",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "modus",
+        "meaning": "ölçü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "modare",
+        "meaning": "ölçü bakımından uyuşmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "commodus",
+        "meaning": "uygun, kullanışlı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "commode",
+        "meaning": "uygun ölçülü, kullanışlı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "commodine",
+        "meaning": "yaklaşık dirsek hizasında dolap",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "komodin",
+        "meaning": "yatağın yanına konulan küçük dolap",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yatağın yanında kullanılan küçük dolap.",
+    "currentMeaning": "Yatak başucuna yerleştirilen, üstüne eşya konabilen, genellikle çekmeceli küçük dolap.",
+    "story": "Latince modus ile başlayan ölçü düşüncesi, sonraki biçimlerde uygunluk ve kullanışlılık fikrine açıldı. Fransızca commode bu kullanışlılığı anlatırken, commodine elle kolayca erişilebilen yükseklikteki bir dolabı adlandırdı. Türkçede kelime, gece lambasını veya su bardağını yataktan uzanmadan erişilecek yerde tutan küçük dolaba yerleşti.",
+    "firstAttestation": {
+      "source": "Ali Seydi — Yeni Türkçe Lugat, Resimli",
+      "period": "1929",
+      "form": "Komodin"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "komodin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/komodin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "komodin maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "vitrin",
+    "word": "vitrin",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "vitre",
+        "meaning": "cam",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "vitrine",
+        "meaning": "dükkânın camla ayrılmış sergileme bölümü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "vitrin",
+        "meaning": "eşya sergilenen camlı bölüm",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ürün veya nesne sergilenen camlı bölüm.",
+    "currentMeaning": "Satılacak ya da gösterilecek nesnelerin, dışarıdan görülebilecek biçimde yerleştirildiği camlı alan.",
+    "story": "Fransızca vitre, eşya ile bakan kişi arasındaki saydam malzemeyi, camı adlandırıyordu. Ondan türeyen vitrine, dükkânın ürünlerini camın arkasında gösterdiği bölüme ad oldu. Türkçede vitrin de bu iki işi birlikte taşır: Nesneyi ayrı bir alanda tutar ve görünür kılar.",
+    "firstAttestation": {
+      "source": "Tıngır & Sinapian — Istılahat Lugati",
+      "period": "1892",
+      "form": "vitrina"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "vitrin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/vitrin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "vitrin maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "abajur",
+    "word": "abajur",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "dies",
+        "meaning": "gündüz, gün",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "diurnus",
+        "meaning": "günle ilgili",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "jour",
+        "meaning": "gün, gün ışığı; birleşiğin ikinci öğesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "abattre",
+        "meaning": "azaltmak, aşağı indirmek; birleşiğin ilk öğesinin fiili",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "abat",
+        "meaning": "azaltır, indirir; birleşiğin ilk öğesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "abat-jour",
+        "meaning": "ışığı azaltan siper",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "abajur",
+        "meaning": "lambanın ışığını yönlendiren veya yumuşatan siper",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Lamba ışığını yönlendiren ve gözden perdeleyen siper.",
+    "currentMeaning": "Lambanın çevresine takılarak ışığın göze doğrudan ulaşmasını azaltan, kumaş, cam veya başka malzemeden yapılmış siper.",
+    "story": "Fransızca abat-jour, ışığı azaltma eylemiyle gün ışığını aynı adda birleştirir; jour öğesinin geçmişi Latincedeki gün kavramına uzanır. Türkçedeki erken kullanımında kelime, pencereye takılıp odaya giren ışığı sınırlayan kanatları da karşılıyordu. Daha sonra lambanın çevresindeki siperde yerleşen ad, gün ışığından lamba ışığına geçerken perdeleme işlevini korudu.",
+    "firstAttestation": {
+      "source": "Vartan Paşa — Akabi Hikâyesi",
+      "period": "1851",
+      "form": "abajur"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "abajur maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/abajur"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "abajur maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "aplik",
+    "word": "aplik",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "appliquer",
+        "meaning": "bir yüzeye eklemek, uygulamak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "applique",
+        "meaning": "yüzeye eklenen süs; duvara takılan mum lambası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "aplik",
+        "meaning": "duvara sabitlenen aydınlatma aracı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Duvara sabitlenerek kullanılan lamba.",
+    "currentMeaning": "Bir duvara bağlanan, çoğunlukla dışarı doğru uzanan bir gövdesi bulunan aydınlatma aracı.",
+    "story": "Fransızca appliquer, bir şeyi başka bir şeyin üzerine ekleme eylemini anlatıyordu. Applique önce yüzeye eklenen süs parçasını, ayrıca duvara tutturulan tek mumlu lambayı adlandırdı. Türkçedeki aplikte de ayırt edici özellik, ışık kaynağının duvara eklenmiş olmasıdır.",
+    "firstAttestation": {
+      "source": "Cumhuriyet",
+      "period": "1937",
+      "form": "aplik"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "aplik maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/aplik"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "aplik maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "stor",
+    "word": "stor",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "estorer",
+        "meaning": "saklamak, depolamak",
+        "period": "Eski Fransızca",
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "to store",
+        "meaning": "saklamak, depoya koymak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "store",
+        "meaning": "depo veya satış yapılan dükkân",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "store window",
+        "meaning": "mağaza penceresi veya kepengi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "stor",
+        "meaning": "hareket ettirilerek açılıp kapanan perde",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hareketli bir düzenekle açılıp kapanan perde.",
+    "currentMeaning": "Kumaş veya benzeri malzemeden yapılan, bir mekanizma yardımıyla hareket ettirilerek pencereyi örten perde.",
+    "story": "Kelimenin Türkçeye hangi dilden geçtiği konusunda iki ayrı açıklama vardır. İngilizce üzerinden kurulan açıklamada saklama eylemi depoya, depo dükkâna, dükkân da pencere ve kepengine bağlanır. Fransızca açıklama ise doğrudan store biçimini esas alır. Türkçede ad, pencereyi gerektiğinde örten ve kaldırılabilen perdeye yerleşmiştir.",
+    "firstAttestation": {
+      "source": "Recaizade Ekrem — Araba Sevdası",
+      "period": "1896",
+      "form": "istorları"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Eski Fransızca estorer ile başlayan zinciri İngilizce to store, store ve store window üzerinden kurar.",
+      "TDK Güncel Türkçe Sözlük, Türkçeye doğrudan kaynak olarak Fransızca store biçimini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "stor maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/stor"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "stor maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "paravan",
+    "word": "paravan",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "it",
+    "chain": [
+      {
+        "language": "it",
+        "form": "vento",
+        "meaning": "rüzgâr; birleşiğin ikinci öğesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "parare",
+        "meaning": "korumak; birleşiğin ilk öğesinin fiili",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "paravento",
+        "meaning": "rüzgârı önleyen siper",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "paravent",
+        "meaning": "rüzgâra karşı siper",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "paravan",
+        "meaning": "bir alanı ayıran taşınabilir perde",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir mekânı bölmek için kullanılan taşınabilir perde.",
+    "currentMeaning": "Birbirine menteşelerle tutturulmuş çerçeveli kanatları bulunan, katlanıp taşınabilen bölme perdesi.",
+    "story": "İtalyanca paravento adında koruma eylemi ile rüzgâr bir aradadır. Fransızcaya paravent olarak geçen bu siperin adı, öncelikle hava akımının önüne bir engel koymayı anlatıyordu. Türkçede paravan, odanın içinde ayrı bir bölüm oluşturmak veya görüşü kapatmak için kullanılan taşınabilir perdeyi adlandırır.",
+    "firstAttestation": {
+      "source": "Tıngır & Sinapian — Istılahat Lugati",
+      "period": "1892",
+      "form": "paravan"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "paravan maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/paravan"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "paravan maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "karton",
+    "word": "karton",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "it",
+    "chain": [
+      {
+        "language": "it",
+        "form": "carta",
+        "meaning": "kâğıt",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "cartone",
+        "meaning": "iri veya kaba kâğıt",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "carton",
+        "meaning": "sert ve kalın kâğıt",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "karton",
+        "meaning": "kâğıt hamurundan yapılan kalın levha",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kâğıt hamurundan üretilen kalın ve sert malzeme.",
+    "currentMeaning": "Kâğıt hamurunun ve lifli tabakaların işlenmesiyle elde edilen, kutu yapımında ve benzeri işlerde kullanılan sert kâğıt malzeme.",
+    "story": "İtalyancada carta sıradan kâğıdı adlandırırken cartone daha iri ve kaba bir kâğıdı öne çıkarıyordu. Fransızca carton biçiminde, kâğıdın kalınlığı ve sertliği belirginleşti. Türkçeye karton olarak geçen ad, ince bir yazı yüzeyinden kutu veya kapak yapılabilecek dayanıklı bir malzemeye uzanan bu farkı korur.",
+    "firstAttestation": {
+      "source": "Mehmed Bahaeddin [Toven] — Yeni Türkçe Lugat",
+      "period": "1924",
+      "form": "karton"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "karton maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/karton"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "karton maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ambalaj",
+    "word": "ambalaj",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "balle",
+        "meaning": "balya veya top hâlinde yük",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "emballer",
+        "meaning": "paket hâline getirmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "emballage",
+        "meaning": "paketleme işi veya ortaya çıkan paket",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ambalaj",
+        "meaning": "ürünü saran veya içine alan koruyucu malzeme",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ürünü koruyan ve taşınmasını kolaylaştıran dış kaplama.",
+    "currentMeaning": "Bir ürünü korumak, bir arada tutmak, taşımak ve sunmak için kullanılan kutu, kap, kılıf veya sarma malzemesi.",
+    "story": "Fransızca balle, eşyayı balya veya top hâlinde bir araya getiren somut yükü anlatıyordu. Emballer bu yükü paketleme eylemini, emballage ise hem işi hem de paketi adlandırdı. Türkçede ambalaj, içindekini dağılmadan ve zarar görmeden taşıyan dış malzeme olarak yerleşti.",
+    "firstAttestation": {
+      "source": "Recaizade Ekrem — Araba Sevdası",
+      "period": "1896",
+      "form": "ambalajı"
+    },
+    "relatives": [
+      {
+        "word": "ambalajlamak",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ambalaj maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ambalaj"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ambalaj maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nezaket",
+    "word": "nezaket",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "nāzuk",
+        "meaning": "ince, narin, hassas",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nezaket",
+        "meaning": "davranışta incelik ve saygı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Başkalarına karşı gösterilen saygılı davranış inceliği.",
+    "currentMeaning": "İnsanlarla ilişkilerde karşıdakini gözeten, kırıcı olmamaya özen gösteren kibar tutum.",
+    "story": "Farsça nāzuk, ince ve kolay incinebilen şeyleri anlatan bir sıfattı. Osmanlı Türkçesinde bu taban, Arapça isim kalıbından yararlanılarak nezaket biçimine dönüştürüldü. Bir nesnenin narinliğini anlatan incelik, burada insanın sözlerine ve başkalarına davranışına taşındı.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "nazik",
+        "relation": "eş köken"
+      },
+      {
+        "word": "nezaketsiz",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "nezaket maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/nezaket"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "nadide",
+    "word": "nadide",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "dīde",
+        "meaning": "görülmüş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "nādīde",
+        "meaning": "görülmemiş, benzeriyle karşılaşılmamış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nadide",
+        "meaning": "az bulunan ve değerli",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Az rastlanan, benzerleri arasında değerli olan.",
+    "currentMeaning": "Seyrek bulunması veya seçkin niteliği nedeniyle değer verilen şeyleri niteleyen söz.",
+    "story": "Farsça dīde, görülmüş olanı anlatırken başındaki nā- bu görmüşlüğü tersine çevirir. Nādīde böylece daha önce görülmemiş bir şeyin karşısında bulunmayı ifade eder. Türkçede vurgu, hiç görülmemiş olmaktan pek az rastlanmaya ve bu azlığın verdiği değere kaymıştır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "dide",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "nadide maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/nadide"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "hercai",
+    "word": "hercai",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "her",
+        "meaning": "her, bütün; birleşiğin ilk öğesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "cāy",
+        "meaning": "yer; birleşiğin ikinci öğesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "harcāyī",
+        "meaning": "her yerde bulunan, bir yerde durmayan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hercai",
+        "meaning": "kararsız, bağlılığı değişken",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Düşüncesinde veya sevgisinde kararlılık göstermeyen.",
+    "currentMeaning": "İlgisi kolayca başka bir şeye ya da kişiye yönelen, özellikle aşkta bağlılığını sürdüremeyen kimseyi niteleyen söz.",
+    "story": "Farsçada her ile yer bildiren cāy birleşince, tek bir yere bağlı kalmama düşüncesi ortaya çıkar. Hercai, bu yerden yere gitme resmini kişinin ilgisine ve gönlüne taşır. Türkçede bir düşüncede duramayan veya sevgisini sık sık başka birine yönelten kişi için kullanılır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "hercai menekşe",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hercai maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/hercai"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "biçare",
+    "word": "biçare",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "çāre",
+        "meaning": "çözüm, kurtuluş yolu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "bīçāre",
+        "meaning": "çözümden yoksun, çaresiz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "biçare",
+        "meaning": "çaresiz, acınacak durumda",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çıkış yolu bulamayan, acınacak durumdaki kimse.",
+    "currentMeaning": "İçinde bulunduğu güçlüğü aşacak imkânı veya çözümü olmayan, yardıma muhtaç kimseyi niteleyen söz.",
+    "story": "Farsça çāre, bir güçlükten çıkmayı sağlayan yolu adlandırır. Yoksunluk bildiren bī- eklendiğinde o yol kapanır ve bīçāre ortaya çıkar. Türkçede biçare, yalnız çözüm bulamamayı değil, bu durumdaki insana duyulan acımayı da taşır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "çare",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "biçare maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bi%C3%A7are"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "[biçare maddesi](https://sozluk.gov.tr/gts?ara=bi%C3%A7are)",
+        "url": "https://sozluk.gov.tr/gts?ara=bi%C3%A7are"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nevale",
+    "word": "nevale",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "nevāle",
+        "meaning": "azık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nevale",
+        "meaning": "yenmek üzere ayrılmış yiyecek",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yolculuk veya ihtiyaç için hazırlanan yiyecek; azık.",
+    "currentMeaning": "Daha sonra yenmek üzere hazırlanmış veya bir yere götürülmek için ayrılmış yiyecek.",
+    "story": "Arapça nevāle, Türkçede de azık çevresinde kullanılan bir yiyecek adıdır. Kelimenin bugünkü kullanımını, yola çıkarken sepete veya heybeye konan yiyecekler somutlaştırır. Nevale denince yemek çeşidinden çok, ihtiyaç anı için hazır tutulan yiyecek düşüncesi öne çıkar.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "soğuk nevale",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "nevale maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "serencam",
+    "word": "serencam",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "ser",
+        "meaning": "baş, uç; birleşiğin ilk öğesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "encām",
+        "meaning": "son, sonuç; birleşiğin ikinci öğesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "sarancām",
+        "meaning": "sonuç, akıbet",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "serencam",
+        "meaning": "sonuç; baştan geçen olayların bütünü",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir işin sonu veya birinin başından geçen olayların bütünü.",
+    "currentMeaning": "Bir olayın vardığı sonuç; ayrıca bir kişinin yaşadığı olaylar ve bunların oluşturduğu macera.",
+    "story": "Farsça sarancām, baş veya uç bildiren ser ile sonu bildiren encām öğelerini birleştirir. Kelimenin ağırlığı, bir işin gelip dayandığı sonuçtadır. Türkçede serencam, bu sonuca ulaşıncaya kadar yaşananları da içine alarak bir kişinin başından geçen olayların anlatısına açılmıştır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "encam",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "serencam maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/serencam"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "revan",
+    "word": "revan",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "raftan",
+        "meaning": "gitmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "ravān",
+        "meaning": "giden, yürüyen, akan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "revan",
+        "meaning": "akan veya ilerleyen",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Akıp giden veya ilerleyen.",
+    "currentMeaning": "Akış veya ilerleme hâlinde olanı niteleyen, özellikle kalıplaşmış sözlerde kullanılan kelime.",
+    "story": "Farsçada gitmek fiilinin rav- tabanından kurulan ravān, hareketini sürdüren şeyi anlatır. Yürüyen insanla akan su, bir yerden başka bir yere ilerlemeleri bakımından bu kelimede buluşur. Türkçede yola revan olmak ifadesi yürüyüşü, kan revan içinde ifadesi ise akışı yaşatır.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "revan maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/revan"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "avare",
+    "word": "avare",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "āvāre",
+        "meaning": "yurdundan uzak, başıboş dolaşan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "avare",
+        "meaning": "işsiz güçsüz, amaçsız dolaşan",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Belli bir işi veya amacı olmadan dolaşan.",
+    "currentMeaning": "Vaktini belirli bir uğraşa bağlamadan geçiren, başıboş gezinen kimseyi niteleyen söz.",
+    "story": "Farsça āvāre, yerinden yurdundan uzak düşmüş ve dolaşan insanı da anlatıyordu. Türkçede kelimenin ağırlığı, bir yere ait olamamaktan belirli bir işe veya amaca bağlanmadan gezmeye yöneldi. Avare kişi bu yüzden yalnız hareket eden biri değil, hareketini düzenleyen bir uğraşı bulunmayan biridir.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "avarelik",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "avare maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/avare"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "aheste",
+    "word": "aheste",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "zarf",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "āheste",
+        "meaning": "yavaş, usulca",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "aheste",
+        "meaning": "acele etmeden, ağır ağır",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Acele etmeden, yavaş ve sakin biçimde.",
+    "currentMeaning": "Bir hareketin veya işin ağır ağır, telaşa kapılmadan yapıldığını belirten söz.",
+    "story": "Farsça āheste, hareketin yavaşlığını ve sessizce yapılmasını anlatır. Türkçede aheste, adımların seyrekleştiği veya bir işin aceleye getirilmediği durumlara yerleşmiştir. Kelime böylece hareketin hızına, onu yapanın sakin tavrını da katar.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "ahestelik",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "aheste maddesi",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "asude",
+    "word": "asude",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "āsūdan",
+        "meaning": "dinlenmek, huzur bulmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "āsūde",
+        "meaning": "dinlenmiş, rahata kavuşmuş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "asude",
+        "meaning": "huzurlu, sakin, kaygıdan uzak",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kaygıdan uzak, huzurlu ve sakin.",
+    "currentMeaning": "Sıkıntı ve telaşın bulunmadığı bir ruh hâlini veya sakin bir ortamı niteleyen söz.",
+    "story": "Farsça āsūdan, dinlenmeyi ve huzur bulmayı anlatan bir fiildir. Ondan kurulan āsūde, dinlenmenin ardından ulaşılan rahatlığı taşır. Türkçede asude, bedensel dinlenmenin ötesine geçerek kaygısız bir gönlü veya telaşsız bir yaşamı da niteler.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "asude maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/asude"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "[asude maddesi](https://sozluk.gov.tr/gts?ara=asude)",
+        "url": "https://sozluk.gov.tr/gts?ara=asude"
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

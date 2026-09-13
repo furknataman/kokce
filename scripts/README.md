@@ -123,6 +123,7 @@ kelimenin madde başı olması **gerekmez** (kalemtıraş listede olmayabilir).
 ```sh
 python3 scripts/crosscheck.py --batch 1
 python3 scripts/crosscheck.py --all
+python3 scripts/crosscheck.py --all --autofix
 ```
 
 Partiyi `sources/` ile karşılaştırıp `review/NN.auto.json` yazar. Bakılanlar:
@@ -144,6 +145,15 @@ geçtiği yolu değil başka dillerdeki akrabalarını gösterir, zincir
 karşılaştırmasına girmez ve prompt'ta ayrı bir "EŞ KÖKENLİLER — `chain`
 alanına KOYMA" başlığı altında verilir. Ardışık aynı dil adımları (Arapça kök + Arapça
 sözcük) teke indirilir.
+
+`--autofix` parti dosyasını yerinde düzeltir, ama **yalnızca tek bir
+deterministik durumda**: `formationType` `tartışmalı`, Nişanyan aktarım
+ilişkisinde tartışma kaydı yok ve `donorLanguage` dolu. Bu üçü birden
+sağlanınca oluşum türü bellidir ve `alıntı` yazılır. `donorLanguage` boşsa
+`öz` ile `türeme` arasında karar verilmez, madde `check` kalır. Kaynak kaydı
+yoksa dokunulmaz. `alternatives` hiçbir zaman değiştirilmez. Düzeltilen id'ler
+zaman damgasıyla `log/autofix.log` dosyasına eklenir. Komut aynı parti üzerinde
+yeniden çalıştırılabilir, ikinci turda değişiklik yapmaz.
 
 Kaynak kaydı olmayan madde her zaman `check` olur; denetlenemeyen şey
 onaylanmış sayılmaz. Eşlenemeyen bir dil adı da `check` sebebidir ve adı

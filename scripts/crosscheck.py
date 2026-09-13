@@ -16,6 +16,7 @@ Kullanım:
 """
 
 import argparse
+import datetime
 import glob
 import json
 import os
@@ -30,6 +31,8 @@ ROOT_DIR = os.path.dirname(SCRIPTS_DIR)
 BATCHES_DIR = os.path.join(SCRIPTS_DIR, "batches")
 SOURCES_DIR = os.path.join(SCRIPTS_DIR, "sources")
 REVIEW_DIR = os.path.join(SCRIPTS_DIR, "review")
+LOG_DIR = os.path.join(SCRIPTS_DIR, "log")
+AUTOFIX_LOG = os.path.join(LOG_DIR, "autofix.log")
 
 # Nişanyan ve TDK Türkçe dil adları → schema.md ISO kodları.
 # Eşlenmemiş bir ad hata değil, "check" sebebidir; buraya eklenerek kapatılır.
@@ -409,7 +412,56 @@ def crosscheck_item(item):
             "reasons": reasons}
 
 
-def crosscheck_batch(tag, batches_dir, review_dir):
+def source_has_uncertainty(entry):
+    """Nişanyan aktarım ilişkilerinde tartışma/tahmin kaydı var mı."""
+    if not entry:
+        return None  # bilinmiyor
+    for step in entry.get("chain") or []:
+        relation = step.get("relation") or ""
+        if COGNATE_RE.search(relation):
+            continue
+        if UNCERTAIN_RE.search(relation):
+            return True
+    return False
+
+
+def autofix_items(items):
+    """Yalnızca deterministik tek durumu düzeltir: yanlış kullanılmış tartışmalı.
+
+    Koşullar: formationType tartışmalı, Nişanyan aktarım ilişkisinde tartışma
+    kaydı yok ve donorLanguage dolu. Bu üçü birden sağlanınca oluşum türü
+    bellidir ve "alıntı" yazılır. donorLanguage boşsa öz/türeme kararı
+    verilmez, madde check olarak bırakılır. alternatives'e dokunulmaz.
+    """
+    fixed = []
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        if item.get("formationType") != "tartışmalı":
+            continue
+        donor = item.get("donorLanguage")
+        if not isinstance(donor, str) or not donor.strip():
+            continue
+        word_id = slugify_id(item.get("word") or item.get("id") or "")
+        entry = pick_entry(load_source(word_id), word_id)
+        if source_has_uncertainty(entry) is not False:
+            continue  # kaynak yok ya da kaynakta tartışma var: dokunma
+        item["formationType"] = "alıntı"
+        fixed.append(word_id)
+    return fixed
+
+
+def write_autofix_log(tag, fixed):
+    os.makedirs(LOG_DIR, exist_ok=True)
+    stamp = datetime.datetime.now().astimezone().isoformat(timespec="seconds")
+    with open(AUTOFIX_LOG, "a", encoding="utf-8") as handle:
+        for word_id in fixed:
+            handle.write("%s\t%s\t%s\t%s\n"
+                         % (stamp, tag, word_id,
+                            "formationType: tartışmalı → alıntı"))
+
+
+def crosscheck_batch(tag, batches_dir, review_dir, autofix=False):
     path = os.path.join(batches_dir, "%s.json" % tag)
     if not os.path.exists(path):
         print("Parti yok: %s" % path, file=sys.stderr)
@@ -419,6 +471,16 @@ def crosscheck_batch(tag, batches_dir, review_dir):
     if not isinstance(items, list):
         print("%s: JSON dizi bekleniyordu." % path, file=sys.stderr)
         return None
+
+    if autofix:
+        fixed = autofix_items(items)
+        if fixed:
+            with open(path, "w", encoding="utf-8") as handle:
+                json.dump(items, handle, ensure_ascii=False, indent=2)
+                handle.write("\n")
+            write_autofix_log(tag, fixed)
+            print("Parti %s: %d madde düzeltildi (tartışmalı → alıntı): %s"
+                  % (tag, len(fixed), ", ".join(fixed)))
 
     results = [crosscheck_item(item) for item in items if isinstance(item, dict)]
     os.makedirs(review_dir, exist_ok=True)
@@ -447,6 +509,9 @@ def main(argv=None):
     parser.add_argument("--batches-dir", default=BATCHES_DIR)
     parser.add_argument("--review-dir", default=REVIEW_DIR)
     parser.add_argument("--sources-dir", default=SOURCES_DIR)
+    parser.add_argument("--autofix", action="store_true",
+                        help="Yanlış kullanılmış formationType tartışmalı "
+                             "değerlerini parti dosyasında yerinde düzeltir.")
     args = parser.parse_args(argv)
     SOURCES_DIR = args.sources_dir
 
@@ -460,7 +525,8 @@ def main(argv=None):
 
     total_ok = total_check = 0
     for tag in tags:
-        results = crosscheck_batch(tag, args.batches_dir, args.review_dir)
+        results = crosscheck_batch(tag, args.batches_dir, args.review_dir,
+                                   autofix=args.autofix)
         if results is None:
             return 1
         total_ok += sum(1 for r in results if r["verdict"] == "ok")

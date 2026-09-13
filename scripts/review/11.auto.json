@@ -1,104 +1,104 @@
 [
   {
-    "id": "maaş",
+    "id": "çorba",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "masraf",
+    "id": "köfte",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "fiyat",
+    "id": "pilav",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "kıymet",
+    "id": "hoşaf",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "zam",
+    "id": "meze",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "nakit",
+    "id": "tarhana",
     "verdict": "ok",
     "reasons": []
   },
   {
-    "id": "faiz",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "taksit",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "senet",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "makbuz",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "hediye",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "emanet",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "eşya",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "cihaz",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "alet",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "nakil",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "malzeme",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "hacim",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "cisim",
-    "verdict": "ok",
-    "reasons": []
-  },
-  {
-    "id": "şekil",
+    "id": "erişte",
     "verdict": "check",
     "reasons": [
-      "Kaynak zincirinde olup maddede olmayan halka: arc"
+      "Maddede olup kaynak zincirinde olmayan halka: pal"
     ]
+  },
+  {
+    "id": "zerde",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "keşkek",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sirke",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "para",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "pazar",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "çarşı",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tezgâh",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "çeyrek",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "çift",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tane",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "deste",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "harman",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "çuval",
+    "verdict": "ok",
+    "reasons": []
   }
 ]
