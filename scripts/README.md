@@ -8,7 +8,7 @@ kökünden (`koken/`) çalıştırılır.
 | Yol | İşi |
 |---|---|
 | `schema.md` | Kelime veri şeması. Tek doğruluk kaynağı. |
-| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v9**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
+| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v10**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
 | `prompts/verify_batch.md` | Bağımsız doğrulayıcı prompt'u (v1). `{{ITEMS}}` yer tutucusu. |
 | `fetch_sources.py` | Nişanyan ve TDK kayıtlarını indirir. |
 | `generate_batch.py` | Kelime listesinden parti üretir (`codex exec`). |
@@ -77,8 +77,15 @@ bulundu.
 python3 scripts/generate_batch.py --batch 1            # 1-20. kelimeler
 python3 scripts/generate_batch.py --batch 1 --dry-run  # codex çağırmaz, prompt'u basar
 python3 scripts/generate_batch.py --all                # tüm partiler, var olanları atlar
-python3 scripts/generate_batch.py --rarity-from-wordlist  # tek seferlik onarım
+python3 scripts/generate_batch.py --rarity-from-wordlist      # tek seferlik onarım
+python3 scripts/generate_batch.py --fill-chain-meanings       # boş anlamları doldur
+python3 scripts/generate_batch.py --lowercase-chain-meanings  # baş harfleri küçült
 ```
+
+`--lowercase-chain-meanings` bir parti dosyasındaki zincir anlamlarının
+**tamamı** büyük harfle başlıyorsa baş harfleri küçültür. Birkaçı büyükse
+dokunmaz: bunlar özel addır (`Rosa cinsinden bitki`, `İran mitolojisinde`).
+Aynı kural üretimden sonra kendiliğinden uygulanır.
 
 `--rarity-from-wordlist` üretim yapmaz: var olan tüm parti dosyalarını gezip
 `rarity` alanını kelime listesinden yazar. `rarity` alanı hattın ortasında
@@ -129,7 +136,9 @@ python3 scripts/crosscheck.py --all --autofix
 Partiyi `sources/` ile karşılaştırıp `review/NN.auto.json` yazar. Bakılanlar:
 
 - `donorLanguage` ↔ Nişanyan'ın en yakın aktarım halkası ve TDK `lisan`.
-- Zincir halkaları ve sırası ↔ Nişanyan zinciri. Bileşik etiket
+- Zincir halkaları ve sırası ↔ Nişanyan zinciri. `formationType: birleşik`
+  maddelerde **sıra denetlenmez**: düz dizi iki kollu bir bileşiği gösteremez,
+  yalnızca eksik ve fazla dil bakılır. Bileşik etiket
   (`Farsça / Orta Farsça`) tek halkadır: iki koddan biri kabul edilir, ikiye
   bölünmüşse `check`. `Aramice-Süryanice` için `arc` ve `syc` eşdeğer sayılır.
 - `firstAttestation.period` ↔ en küçük `dateSortable` (yüzyıl biçimi aralığa

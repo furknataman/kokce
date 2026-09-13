@@ -1,0 +1,15 @@
+[
+  {
+    "id": "çorba",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "erişte",
+    "verdict": "fix",
+    "objections": [
+      "Kaynak tek halkayı 'Farsça/Orta Farsça' birleşik etiketiyle veriyor; madde bunu ayrı pal ve fa halkalarına bölmüş, kaynakta olmayan Orta Farsça adım çıkarılmalı.",
+      "Zincir düzelince ultimateOrigin pal değil fa olur."
+    ]
+  }
+]

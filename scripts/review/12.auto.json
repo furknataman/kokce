@@ -74,6 +74,7 @@
     "id": "balkon",
     "verdict": "check",
     "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: goh",
       "Maddede olup kaynak zincirinde olmayan halka: de"
     ]
   },
@@ -94,8 +95,10 @@
   },
   {
     "id": "salon",
-    "verdict": "ok",
-    "reasons": []
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: gem"
+    ]
   },
   {
     "id": "tuvalet",

@@ -97,7 +97,7 @@ kök nesne sarmalayıcısı yoktur.
 |---|---|---|---|
 | `language` | string | hayır | Dil kodu. |
 | `form` | string | hayır | O dildeki biçim; Latin harfli çevriyazı (örn. `kálamos`, `ḳalam`). Tek standart: `ḳ ḥ ḫ ṣ ṭ ẓ ˁ ˀ ā ī ū ş ç`; `q`, `ʿ`, `ʾ` kullanılmaz. |
-| `meaning` | string | hayır | O aşamadaki anlam. Anlam bir önceki adımdan farklı değilse o adımın anlamı **tekrarlanır**, boş bırakılmaz. |
+| `meaning` | string | hayır | O aşamadaki anlam. Anlam bir önceki adımdan farklı değilse o adımın anlamı **tekrarlanır**, boş bırakılmaz. Özel adla başlamıyorsa **küçük harfle** başlar (`kamış kalem`, `Rosa cinsinden bitki`). |
 | `period` | string | evet (`null`) | Örn. `"13. yy"`, `"MÖ 5. yy"`. Bilinmiyorsa `null`. |
 | `reconstructed` | bool | hayır | Biçim varsayımsal/rekonstrüksiyon ise `true` (yazımda `*` kullanılmaz, bu alan işaretler). |
 
@@ -216,12 +216,20 @@ ISO 639 temellidir; ISO'da karşılığı olmayan üç kod projeye özeldir
 | `sog` | Soğdca |
 | `ku` | Kürtçe |
 | `fr` | Fransızca |
+| `fro` | Eski Fransızca |
+| `pro` | Provansalca |
 | `grc` | Eski Yunanca |
 | `el` | Yunanca |
 | `it` | İtalyanca |
+| `vec` | Venedikçe |
 | `en` | İngilizce |
 | `la` | Latince |
 | `de` | Almanca |
+| `goh` | Eski Yüksek Almanca |
+| `gmh` | Orta Yüksek Almanca |
+| `gem` | Germence |
+| `ang` | Eski İngilizce |
+| `non` | Eski Nors dili |
 | `ru` | Rusça |
 | `mn` | Moğolca |
 | `hy` | Ermenice |
@@ -234,6 +242,11 @@ ISO 639 temellidir; ISO'da karşılığı olmayan üç kod projeye özeldir
 | `syc` | Süryanice |
 | `akk` | Akkadca |
 | `sux` | Sümerce |
+| `uga` | Ugaritçe |
+| `phn` | Fenikece |
+| `hit` | Hititçe |
+| `nah` | Nahuatl dili |
+| `cu` | Eski Kilise Slavcası |
 | `egy` | Eski Mısırca |
 | `hu` | Macarca |
 | `bg` | Bulgarca |
@@ -262,6 +275,9 @@ değeri **`true`** olmalıdır; biçimin başına `*` konmaz.
 | `sem` | Sami ana dili |
 | `trk` | Ana Türkçe |
 | `ira` | Ana İranca |
+| `cel` | Kelt ana dili |
+| `dra` | Dravit ana dili |
+| `gem` | Germence |
 
 ### Ara (aktarıcı) diller
 
@@ -277,7 +293,8 @@ halka olarak yazılır.
 | `sog` | Soğdca | Sanskritçe/Farsçadan Eski Türkçeye |
 | `ota` | Osmanlı Türkçesi | Arapça/Farsçadan bugünkü Türkçeye |
 | `la` | Latince | Eski Yunancadan Fransızca/İtalyancaya |
-| `it` | İtalyanca | Latinceden Türkçeye (denizcilik, ticaret) |
+| `it` | İtalyanca |
+| `vec` | Venedikçe | Latinceden Türkçeye (denizcilik, ticaret) |
 
 Yeni kod gerekirse **önce** bu tabloya ve `scripts/validate_words.py`
 içindeki `LANGUAGES` sözlüğüne eklenir; üretim prompt'u tabloyu buradan alır.

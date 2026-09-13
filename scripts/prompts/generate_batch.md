@@ -1,4 +1,4 @@
-# Köken — Üretim Prompt'u (v9)
+# Köken — Üretim Prompt'u (v10)
 
 Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
 bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
@@ -189,7 +189,9 @@ Her nesne tam olarak şu alanları içerir:
 - `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
 - `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
   Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
-  bir önceki adımın anlamını aynen tekrarla. Anlam değişmediği için boş
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
   bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
 - `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
 - `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
@@ -223,14 +225,14 @@ Her nesne tam olarak şu alanları içerir:
 Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
 `az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
 `pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
-`ku` Kürtçe · `fr` Fransızca · `grc` Eski Yunanca · `el` Yunanca ·
-`it` İtalyanca · `en` İngilizce · `la` Latince · `de` Almanca · `ru` Rusça ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
 `mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
 `nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
-`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `egy` Eski Mısırca ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
 `hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
 `hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
-`ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
 
 Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
 veya ilgili zincir adımını atla; uydurma kod üretme.

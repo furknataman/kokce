@@ -1,0 +1,71 @@
+[
+  {
+    "id": "çorap",
+    "verdict": "fix",
+    "objections": [
+      "Kaynakta yalnızca eşkökenlilik olarak geçen biçim zincire aktarım halkası diye konmuş; eşköken aktarım değildir, halka zincirden çıkarılmalı.",
+      "Zincir düzelince ultimateOrigin akk değil syc olur.",
+      "chain[].meaning değerleri büyük harfle başlıyor; 12 dışındaki bütün partilerde bu alan küçük harfle başlıyor, madde geneline uyduruldu."
+    ]
+  },
+  {
+    "id": "paça",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "pamuk",
+    "verdict": "fix",
+    "objections": [
+      "Kaynakta yalnızca eşkökenlilik olarak geçen biçim zincire aktarım halkası diye konmuş; eşköken aktarım değildir, halka zincirden çıkarılmalı.",
+      "Zincir düzelince ultimateOrigin grc değil pal olur.",
+      "chain[].meaning değerleri büyük harfle başlıyor; 12 dışındaki bütün partilerde bu alan küçük harfle başlıyor, madde geneline uyduruldu."
+    ]
+  },
+  {
+    "id": "astar",
+    "verdict": "fix",
+    "objections": [
+      "Kaynakta yalnızca eşkökenlilik olarak geçen biçim zincire aktarım halkası diye konmuş; eşköken aktarım değildir, halka zincirden çıkarılmalı.",
+      "1303 Codex Cumanicus kaydı Türkçe karşılık olarak oprak verdiği için astarın tanığı sayılmaz; maddedeki 1387 tarihi doğrudur.",
+      "chain[].meaning değerleri büyük harfle başlıyor; 12 dışındaki bütün partilerde bu alan küçük harfle başlıyor, madde geneline uyduruldu."
+    ]
+  },
+  {
+    "id": "kemer",
+    "verdict": "fix",
+    "objections": [
+      "Kaynakta yalnızca eşkökenlilik olarak geçen biçim zincire aktarım halkası diye konmuş; eşköken aktarım değildir, halka zincirden çıkarılmalı.",
+      "1303 Codex Cumanicus kaydı Türkçe karşılık olarak kur verdiği için kemerin tanığı sayılmaz; maddedeki 1330 tarihi doğrudur.",
+      "chain[].meaning değerleri büyük harfle başlıyor; 12 dışındaki bütün partilerde bu alan küçük harfle başlıyor, madde geneline uyduruldu."
+    ]
+  },
+  {
+    "id": "tahta",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "köşe",
+    "verdict": "fix",
+    "objections": [
+      "Kaynakta yalnızca eşkökenlilik olarak geçen biçim zincire aktarım halkası diye konmuş; eşköken aktarım değildir, halka zincirden çıkarılmalı.",
+      "Zincir düzelince ultimateOrigin ae değil pal olur.",
+      "chain[].meaning değerleri büyük harfle başlıyor; 12 dışındaki bütün partilerde bu alan küçük harfle başlıyor, madde geneline uyduruldu."
+    ]
+  },
+  {
+    "id": "balkon",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "salon",
+    "verdict": "fix",
+    "objections": [
+      "chain[0] Hint-Avrupa halkasının anlamı kaynakta boş, maddede bir sonraki Germence halkanın anlamı kopyalanarak doldurulmuş; bu anlam o aşama için uydurmadır, halka çıkarıldı.",
+      "Zincir düzelince ultimateOrigin ine değil it olur.",
+      "chain[].meaning değerleri büyük harfle başlıyor; 12 dışındaki bütün partilerde bu alan küçük harfle başlıyor, madde geneline uyduruldu."
+    ]
+  }
+]

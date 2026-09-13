@@ -361,6 +361,7 @@ def generate(number, words, template, args):
     apply_rarity(items, chunk)
     # Boş bırakılan zincir anlamlarını bir önceki adımdan tamamla.
     fill_chain_meanings(items)
+    lowercase_chain_meanings(items)
 
     with open(out_path, "w", encoding="utf-8") as handle:
         json.dump(items, handle, ensure_ascii=False, indent=2)
@@ -448,40 +449,69 @@ def fill_chain_meanings(items):
     return filled
 
 
-def repair_batches(batches_dir, entries, do_rarity, do_meanings):
+_LOWER_MAP = str.maketrans({"İ": "i", "I": "ı"})
+
+
+def lowercase_chain_meanings(items):
+    """Zincir anlamlarının baş harfini küçültür — ama hep ya da hiç.
+
+    Anlamların **tamamı** büyük harfle başlıyorsa bu bir biçim tercihidir ve
+    küçültülür. Birkaçı büyükse bunlar özel addır (Rosa, Tulipa, İran) ve
+    dokunulmaz.
+    """
+    meanings = [st for item in items if isinstance(item, dict)
+                for st in item.get("chain") or []
+                if isinstance(st, dict) and isinstance(st.get("meaning"), str)
+                and st["meaning"].strip()]
+    if len(meanings) < 2:
+        return 0
+    if not all(st["meaning"][0].isupper() for st in meanings):
+        return 0
+    for st in meanings:
+        text = st["meaning"]
+        st["meaning"] = text[0].translate(_LOWER_MAP).lower() + text[1:]
+    return len(meanings)
+
+
+def repair_batches(batches_dir, entries, do_rarity, do_meanings, do_lowercase):
     """Var olan parti dosyalarını yerinde onarır (tek seferlik komutlar)."""
     paths = sorted(glob.glob(os.path.join(batches_dir, "*.json")))
     if not paths:
         raise SystemExit("%s içinde parti dosyası yok." % batches_dir)
-    total_rarity = total_meanings = total_missing = 0
+    total_rarity = total_meanings = total_lowered = total_missing = 0
     for path in paths:
         with open(path, encoding="utf-8") as handle:
             items = json.load(handle)
         if not isinstance(items, list):
             print("%s: JSON dizi değil, atlandı." % show(path), file=sys.stderr)
             continue
-        changed = missing = meanings = 0
+        changed = missing = meanings = lowered = 0
         if do_rarity:
             changed, missing = apply_rarity(items, entries)
         if do_meanings:
             meanings = fill_chain_meanings(items)
-        if changed or meanings:
+        if do_lowercase:
+            lowered = lowercase_chain_meanings(items)
+        if changed or meanings or lowered:
             with open(path, "w", encoding="utf-8") as handle:
                 json.dump(items, handle, ensure_ascii=False, indent=2)
                 handle.write("\n")
         total_rarity += changed
         total_meanings += meanings
+        total_lowered += lowered
         total_missing += missing
         bits = []
         if do_rarity:
             bits.append("%d rarity" % changed)
         if do_meanings:
             bits.append("%d anlam" % meanings)
+        if do_lowercase:
+            bits.append("%d küçültme" % lowered)
         if missing:
             bits.append("%d madde listede yok" % missing)
         print("%s: %s" % (show(path), ", ".join(bits)))
-    print("\nToplam: %d rarity, %d anlam güncellendi."
-          % (total_rarity, total_meanings))
+    print("\nToplam: %d rarity, %d anlam, %d baş harf güncellendi."
+          % (total_rarity, total_meanings, total_lowered))
     if total_missing:
         print("%d madde kelime listesinde bulunamadı, rarity yazılmadı."
               % total_missing, file=sys.stderr)
@@ -503,6 +533,9 @@ def main(argv=None):
     group.add_argument("--fill-chain-meanings", action="store_true",
                        help="Üretim yapmaz; var olan parti dosyalarında boş "
                             "chain[].meaning alanlarını doldurur.")
+    group.add_argument("--lowercase-chain-meanings", action="store_true",
+                       help="Üretim yapmaz; tamamı büyük harfle başlayan "
+                            "chain[].meaning alanlarının baş harfini küçültür.")
     parser.add_argument("--wordlist", metavar="DOSYA",
                         help="Kelime listesi (varsayılan: scripts/wordlist.json).")
     parser.add_argument("--size", type=int, default=DEFAULT_SIZE,
@@ -531,12 +564,14 @@ def main(argv=None):
     print("Kelime listesi: %s (%d kelime, %d parti)"
           % (show(wordlist_path), len(words), total))
 
-    if args.rarity_from_wordlist or args.fill_chain_meanings:
+    if args.rarity_from_wordlist or args.fill_chain_meanings \
+            or args.lowercase_chain_meanings:
         if args.rarity_from_wordlist and not any(e["rarity"] for e in words):
             raise SystemExit("Kelime listesinde rarity alanı yok.")
         return repair_batches(BATCHES_DIR, words,
                               do_rarity=args.rarity_from_wordlist,
-                              do_meanings=args.fill_chain_meanings)
+                              do_meanings=args.fill_chain_meanings,
+                              do_lowercase=args.lowercase_chain_meanings)
 
     if args.all:
         numbers = range(1, total + 1)

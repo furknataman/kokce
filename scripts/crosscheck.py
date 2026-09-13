@@ -72,6 +72,31 @@ SOURCE_LANG = {
     "i̇ngilizce": "en",
     "ingilizce": "en",
     "latince": "la",
+    "geç latince": "la",
+    "arkaik latince": "la",
+    "eski fransızca": "fro",
+    "provansal": "pro",
+    "venedikçe": "vec",
+    "eski yüksek almanca": "goh",
+    "orta yüksek almanca": "gmh",
+    "germence": "gem",
+    "eski i̇ngilizce": "ang",
+    "eski ingilizce": "ang",
+    "norsça (vikingce)": "non",
+    "norsça": "non",
+    "hititçe": "hit",
+    "fenike dili": "phn",
+    "ugarit dili": "uga",
+    "nahuatl (aztek dili)": "nah",
+    "nahuatl": "nah",
+    "kelt dilleri": "cel",
+    "dravidce": "dra",
+    "eski slavca": "cu",
+    "slavca": "sla",
+    "sumerce": "sux",
+    "modern hintçe": "hi",
+    "eski türkçe (yalnız oğuzca)": "otk",
+    "orta türkçe (sadece kıpçak ve oğuz lehçeleri)": "otk",
     "almanca": "de",
     "rusça": "ru",
     "moğolca": "mn",
@@ -105,6 +130,12 @@ SOURCE_LANG = {
     "hint-avrupa anadili": "ine",
     "slav anadili": "sla",
     "sami anadili": "sem",
+}
+
+# Dil olmayan kaynak etiketleri: eşlenemedi diye rapor edilmezler.
+NON_LANGUAGE = {
+    "özel isim", "kaynağı bilinmeyen kelime", "çocuk dili",
+    "yansıma (onomatope)", "yansıma", "onomatope",
 }
 
 # Nişanyan'ın belirsizlik bildiren ifadeleri.
@@ -226,6 +257,8 @@ def check_donor(item, entry, tdk, reasons):
         all_codes |= step_codes(step)
 
     for name in sorted(unmapped):
+        if tr_lower(name).strip() in NON_LANGUAGE:
+            continue
         reasons.append("Kaynaktaki dil adı eşlenemedi: %s" % name)
 
     expected = nearest_codes | ({tdk_code} if tdk_code else set())
@@ -321,7 +354,11 @@ def check_chain(item, entry, reasons):
             if code in codes:
                 positions.append((code, i))
                 break
+    # Birleşik sözcüklerde zincir iki kollu olabilir; düz dizi bunu gösteremez,
+    # sıra uyarısı anlamsız olur.
     order = [i for _c, i in positions]
+    if item.get("formationType") == "birleşik":
+        order = []
     if order and order != sorted(order):
         reasons.append("Zincir sırası kaynaktan farklı: madde %s, kaynak %s"
                        % (" › ".join(c for c, _i in positions),
