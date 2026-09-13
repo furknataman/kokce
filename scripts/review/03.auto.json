@@ -98,9 +98,7 @@
   },
   {
     "id": "mide",
-    "verdict": "check",
-    "reasons": [
-      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303"
-    ]
+    "verdict": "ok",
+    "reasons": []
   }
 ]

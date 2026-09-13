@@ -1,0 +1,41 @@
+[
+  {
+    "id": "merdiven",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "duvar",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "ayna",
+    "verdict": "fix",
+    "objections": [
+      "formationType 'tartışmalı' verilmiş; kaynaklar oluşum türünde değil yalnızca biçim veya veren dil konusunda ayrışıyor, değer 'alıntı' olmalı."
+    ]
+  },
+  {
+    "id": "kelepçe",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "menekşe",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "sümbül",
+    "verdict": "fix",
+    "objections": [
+      "formationType 'tartışmalı' verilmiş; kaynaklar oluşum türünde değil yalnızca biçim veya veren dil konusunda ayrışıyor, değer 'alıntı' olmalı."
+    ]
+  },
+  {
+    "id": "tohum",
+    "verdict": "ok",
+    "objections": []
+  }
+]

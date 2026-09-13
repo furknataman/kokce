@@ -1,8 +1,10 @@
 [
   {
     "id": "çorba",
-    "verdict": "ok",
-    "reasons": []
+    "verdict": "check",
+    "reasons": [
+      "Zincir sırası kaynaktan farklı: madde pal › fa › pal › fa, kaynak pal › pal › fa › fa"
+    ]
   },
   {
     "id": "köfte",
@@ -33,7 +35,7 @@
     "id": "erişte",
     "verdict": "check",
     "reasons": [
-      "Maddede olup kaynak zincirinde olmayan halka: pal"
+      "Kaynaktaki bileşik dil etiketi (fa / pal) iki ayrı halkaya bölünmüş: pal › fa"
     ]
   },
   {

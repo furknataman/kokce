@@ -8,7 +8,7 @@ kökünden (`koken/`) çalıştırılır.
 | Yol | İşi |
 |---|---|
 | `schema.md` | Kelime veri şeması. Tek doğruluk kaynağı. |
-| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v8**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
+| `prompts/generate_batch.md` | Codex üretim prompt'u (sürüm başlıkta, şu an **v9**). `{{WORDS}}` ve `{{SOURCES}}` yer tutucuları. |
 | `prompts/verify_batch.md` | Bağımsız doğrulayıcı prompt'u (v1). `{{ITEMS}}` yer tutucusu. |
 | `fetch_sources.py` | Nişanyan ve TDK kayıtlarını indirir. |
 | `generate_batch.py` | Kelime listesinden parti üretir (`codex exec`). |
@@ -129,9 +129,15 @@ python3 scripts/crosscheck.py --all --autofix
 Partiyi `sources/` ile karşılaştırıp `review/NN.auto.json` yazar. Bakılanlar:
 
 - `donorLanguage` ↔ Nişanyan'ın en yakın aktarım halkası ve TDK `lisan`.
-- Zincir halkaları ve sırası ↔ Nişanyan zinciri.
+- Zincir halkaları ve sırası ↔ Nişanyan zinciri. Bileşik etiket
+  (`Farsça / Orta Farsça`) tek halkadır: iki koddan biri kabul edilir, ikiye
+  bölünmüşse `check`. `Aramice-Süryanice` için `arc` ve `syc` eşdeğer sayılır.
 - `firstAttestation.period` ↔ en küçük `dateSortable` (yüzyıl biçimi aralığa
   çevrilir), `firstAttestation.source` ↔ eser adı (gevşek eşleşme).
+  Madde kaynaktan **eski** bir tarih veriyorsa her zaman `check`. **Geç** bir
+  tarih veriyorsa yalnızca kaynağın en eski kaydının alıntısı ya da tanımı
+  madde başının ilk 4 harfini içeriyorsa `check`; Codex Cumanicus 1303 gibi
+  kayıtlar çoğu zaman başka bir sözcüğe aittir.
 - Eş kökenli halkalar zincire sızmış mı: `chain[].meaning` içinde "eş
   kökenli" / "akraba biçim" geçiyor mu, kaynakta yalnızca eş kökenli olarak
   geçen bir dil zincire aktarım halkası olarak konmuş mu.

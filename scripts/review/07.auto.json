@@ -56,20 +56,13 @@
   },
   {
     "id": "kanun",
-    "verdict": "check",
-    "reasons": [
-      "Kaynak zincirinde olup maddede olmayan halka: arc",
-      "Maddede olup kaynak zincirinde olmayan halka: syc"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "hak",
-    "verdict": "check",
-    "reasons": [
-      "Kaynak zincirinde olup maddede olmayan halka: arc",
-      "Maddede olup kaynak zincirinde olmayan halka: he",
-      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: he"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "hukuk",

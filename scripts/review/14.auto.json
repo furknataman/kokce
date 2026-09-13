@@ -3,7 +3,7 @@
     "id": "aşina",
     "verdict": "check",
     "reasons": [
-      "Kaynak zincirinde olup maddede olmayan halka: ae, peo"
+      "Kaynak zincirinde olup maddede olmayan halka: ae veya peo, peo"
     ]
   },
   {
@@ -75,56 +75,46 @@
     "id": "canpare",
     "verdict": "check",
     "reasons": [
-      "Kaynak dosyası yok: scripts/sources/canpare.json"
+      "Nişanyan ve TDK kaydı bulunamadı, doğrulanamıyor"
     ]
   },
   {
     "id": "derbeder",
-    "verdict": "check",
-    "reasons": [
-      "Kaynak dosyası yok: scripts/sources/derbeder.json"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "dergâh",
-    "verdict": "check",
-    "reasons": [
-      "Kaynak dosyası yok: scripts/sources/dergâh.json"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "derun",
     "verdict": "check",
     "reasons": [
-      "Kaynak dosyası yok: scripts/sources/derun.json"
+      "Kaynak zincirinde olup maddede olmayan halka: pal"
     ]
   },
   {
     "id": "didar",
     "verdict": "check",
     "reasons": [
-      "Kaynak dosyası yok: scripts/sources/didar.json"
+      "Kaynak zincirinde olup maddede olmayan halka: pal"
     ]
   },
   {
     "id": "dilber",
-    "verdict": "check",
-    "reasons": [
-      "Kaynak dosyası yok: scripts/sources/dilber.json"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "dilbaz",
-    "verdict": "check",
-    "reasons": [
-      "Kaynak dosyası yok: scripts/sources/dilbaz.json"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "girift",
-    "verdict": "check",
-    "reasons": [
-      "Kaynak dosyası yok: scripts/sources/girift.json"
-    ]
+    "verdict": "ok",
+    "reasons": []
   }
 ]

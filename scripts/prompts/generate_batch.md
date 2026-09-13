@@ -1,4 +1,4 @@
-# Köken — Üretim Prompt'u (v8)
+# Köken — Üretim Prompt'u (v9)
 
 Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
 bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
@@ -30,6 +30,11 @@ kayıtlarının özeti verilmiştir. **Bu özetler esastır.**
      özgün cümlelerinle kur. `story` senin anlatın olacak.
    - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
      yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
    - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
      başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
      başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.

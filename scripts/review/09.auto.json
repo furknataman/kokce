@@ -6,24 +6,21 @@
   },
   {
     "id": "rüzgâr",
-    "verdict": "check",
-    "reasons": [
-      "firstAttestation.period 1341, kaynaktaki en eski tanıklık 1303"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "dert",
     "verdict": "check",
     "reasons": [
-      "Maddede olup kaynak zincirinde olmayan halka: pal",
-      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303"
+      "Kaynaktaki bileşik dil etiketi (fa / pal) iki ayrı halkaya bölünmüş: pal › fa"
     ]
   },
   {
     "id": "derman",
     "verdict": "check",
     "reasons": [
-      "Maddede olup kaynak zincirinde olmayan halka: pal"
+      "Kaynaktaki bileşik dil etiketi (fa / pal) iki ayrı halkaya bölünmüş: pal › fa"
     ]
   },
   {
@@ -35,7 +32,7 @@
     "id": "keşke",
     "verdict": "check",
     "reasons": [
-      "Zincir sırası kaynaktan farklı: madde pal › fa, kaynak fa › pal › fa"
+      "Zincir sırası kaynaktan farklı: madde pal › fa, kaynak fa › pal"
     ]
   },
   {
@@ -82,7 +79,7 @@
     "id": "dost",
     "verdict": "check",
     "reasons": [
-      "Maddede olup kaynak zincirinde olmayan halka: pal"
+      "Kaynaktaki bileşik dil etiketi (fa / pal) iki ayrı halkaya bölünmüş: pal › fa"
     ]
   },
   {
@@ -90,7 +87,7 @@
     "verdict": "check",
     "reasons": [
       "Kaynak zincirinde olup maddede olmayan halka: ae, ine, ae",
-      "Maddede olup kaynak zincirinde olmayan halka: pal"
+      "Kaynaktaki bileşik dil etiketi (fa / pal) iki ayrı halkaya bölünmüş: pal › fa"
     ]
   },
   {
@@ -100,8 +97,10 @@
   },
   {
     "id": "hoş",
-    "verdict": "ok",
-    "reasons": []
+    "verdict": "check",
+    "reasons": [
+      "Kaynaktaki bileşik dil etiketi (fa / pal) iki ayrı halkaya bölünmüş: pal › fa"
+    ]
   },
   {
     "id": "serbest",

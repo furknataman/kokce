@@ -103,6 +103,8 @@ kök nesne sarmalayıcısı yoktur.
 
 Kurallar:
 - Zincir **eskiden yeniye** sıralanır.
+- Kaynak bir aşamayı `Farsça / Orta Farsça` gibi bileşik etiketle veriyorsa bu
+  **tek** halkadır; iki ayrı adıma bölünmez.
 - **Son adımın `language` değeri `"tr"` olmak zorundadır.**
 - Son adımın `form` değeri madde başıyla aynı olmalıdır (küçük farklar için
   `alternatives` kullanılır).

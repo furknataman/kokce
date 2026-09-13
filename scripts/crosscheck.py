@@ -121,6 +121,22 @@ UNCERTAIN_RE = re.compile(
 CENTURY_RE = re.compile(r"^\s*(MÖ\s*)?(\d{1,2})\s*\.?\s*(yy|yüzyıl)", re.IGNORECASE)
 YEAR_RE = re.compile(r"^\s*(MÖ\s*)?(\d{3,4})\s*$", re.IGNORECASE)
 _LOWER_MAP = str.maketrans({"İ": "i", "I": "ı"})
+_FOLD_MAP = str.maketrans({"â": "a", "î": "i", "û": "u", "ç": "c", "ğ": "g",
+                           "ı": "i", "ö": "o", "ş": "s", "ü": "u"})
+
+# Nişanyan "Aramice-Süryanice" etiketini ikisi için birden kullanır; denetimde
+# arc ve syc aynı halka sayılır.
+EQUIVALENT = {"syc": "arc"}
+
+
+def canon(code):
+    """Denetimde eşdeğer sayılan kodları tek kod altında toplar."""
+    return EQUIVALENT.get(code, code)
+
+
+def fold(text):
+    """Küçük harf + diacritic'siz biçim: 'Hikâye' → 'hikaye'."""
+    return tr_lower(text).translate(_FOLD_MAP)
 
 
 def tr_lower(text):
@@ -194,23 +210,20 @@ def pick_entry(record, word_id):
 
 
 def check_donor(item, entry, tdk, reasons):
-    donor = item.get("donorLanguage")
+    donor = canon(item.get("donorLanguage"))
     nearest_codes, unmapped = set(), set()
     steps = [st for st in (entry or {}).get("chain") or []
              if not COGNATE_RE.search(st.get("relation") or "")]
     if steps:
         for name in steps[-1].get("languages") or []:
             code = lang_code(name)
-            (nearest_codes.add(code) if code else unmapped.add(name))
+            (nearest_codes.add(canon(code)) if code else unmapped.add(name))
     tdk_code = None
     for tdk_entry in (tdk.get("entries") or [])[:1]:
-        tdk_code = lang_code(tdk_entry.get("lisan"))
+        tdk_code = canon(lang_code(tdk_entry.get("lisan")))
     all_codes = set()
     for step in steps:
-        for name in step.get("languages") or []:
-            code = lang_code(name)
-            if code:
-                all_codes.add(code)
+        all_codes |= step_codes(step)
 
     for name in sorted(unmapped):
         reasons.append("Kaynaktaki dil adı eşlenemedi: %s" % name)
@@ -243,48 +256,89 @@ def collapse(codes):
     return out
 
 
-def transmission_chain(entry):
-    """Nişanyan zincirinden aktarım halkalarını çıkarır.
+def step_codes(step):
+    """Bir kaynak adımının kabul edilebilir dil kodları kümesi.
+
+    Nişanyan "Farsça / Orta Farsça" gibi bileşik etiket kullanır; bu TEK
+    halkadır ve iki koddan biri kabul edilir.
+    """
+    codes = set()
+    for name in step.get("languages") or []:
+        code = lang_code(name)
+        if code:
+            codes.add(canon(code))
+    return codes
+
+
+def transmission_steps(entry):
+    """Aktarım halkaları: her halka kabul edilebilir kodlar kümesidir.
 
     "eşkökenlilik" ilişkili adımlar sözcüğün geçtiği yolu değil, başka
     dillerdeki akrabalarını gösterir; zincire girmezler.
     """
-    codes = []
+    steps = []
     for step in entry.get("chain") or []:
         if COGNATE_RE.search(step.get("relation") or ""):
             continue
-        names = [lang_code(n) for n in step.get("languages") or []]
-        names = [c for c in names if c]
-        if names:
-            codes.append(names[0])
-    return collapse(codes)
+        codes = step_codes(step)
+        if codes and (not steps or steps[-1] != codes):
+            steps.append(codes)
+    return steps
+
+
+def transmission_chain(entry):
+    """Geriye dönük uyumluluk: her halkanın tek temsilci kodu."""
+    return [sorted(codes)[0] for codes in transmission_steps(entry)]
 
 
 def check_chain(item, entry, reasons):
     if not entry or not entry.get("chain"):
         return
-    source_codes = transmission_chain(entry)
-    item_codes = collapse([s.get("language") for s in item.get("chain") or []
+    source_steps = transmission_steps(entry)
+    item_codes = collapse([canon(s.get("language")) for s in item.get("chain") or []
                            if isinstance(s, dict)])
     if item_codes and item_codes[-1] == "tr":
         item_codes = item_codes[:-1]
-    if not source_codes:
+    if not source_steps:
         return
 
-    missing = [c for c in source_codes if c not in item_codes]
+    present = set(item_codes)
+    missing = [" veya ".join(sorted(codes)) for codes in source_steps
+               if not (codes & present)]
     if missing:
         reasons.append("Kaynak zincirinde olup maddede olmayan halka: %s"
                        % ", ".join(missing))
-    extra = [c for c in item_codes if c not in source_codes]
+    allowed = set().union(*source_steps)
+    extra = [c for c in item_codes if c not in allowed]
     if extra:
         reasons.append("Maddede olup kaynak zincirinde olmayan halka: %s"
                        % ", ".join(extra))
+
     # Ortak halkaların göreli sırası korunmuş mu.
-    common = [c for c in item_codes if c in source_codes]
-    expected_order = [c for c in source_codes if c in item_codes]
-    if common and common != expected_order:
+    positions = []
+    for code in item_codes:
+        for i, codes in enumerate(source_steps):
+            if code in codes:
+                positions.append((code, i))
+                break
+    order = [i for _c, i in positions]
+    if order and order != sorted(order):
         reasons.append("Zincir sırası kaynaktan farklı: madde %s, kaynak %s"
-                       % (" › ".join(common), " › ".join(expected_order)))
+                       % (" › ".join(c for c, _i in positions),
+                          " › ".join(c for c, _i in sorted(positions,
+                                                           key=lambda x: x[1]))))
+
+    # Bileşik etiket tek halkadır, ikiye bölünemez.
+    for codes in source_steps:
+        if len(codes) < 2:
+            continue
+        for i in range(len(item_codes) - 1):
+            first, second = item_codes[i], item_codes[i + 1]
+            if first != second and first in codes and second in codes:
+                reasons.append("Kaynaktaki bileşik dil etiketi (%s) iki ayrı "
+                               "halkaya bölünmüş: %s › %s"
+                               % (" / ".join(sorted(codes)), first, second))
+                break
 
 
 def check_attestation(item, entry, reasons):
@@ -306,9 +360,22 @@ def check_attestation(item, entry, reasons):
                        % (att.get("period"),))
     else:
         low, high = parsed
-        if not low <= oldest["dateSortable"] <= high:
-            reasons.append("firstAttestation.period %s, kaynaktaki en eski "
-                           "tanıklık %s" % (att.get("period"), oldest["dateSortable"]))
+        year = oldest["dateSortable"]
+        if high < year:
+            # Madde kaynaktan daha eski bir tanıklık iddia ediyor: her zaman bak.
+            reasons.append("firstAttestation.period %s kaynaktaki en eski "
+                           "tanıklıktan (%s) eski" % (att.get("period"), year))
+        elif low > year:
+            # Madde daha geç bir tarih veriyor. Kaynağın en eski kaydı çoğu kez
+            # başka bir sözcüğe ait (Codex Cumanicus 1303 gibi); yalnızca o kayıt
+            # gerçekten madde başını içeriyorsa itiraz sayılır.
+            stem = fold(item.get("word") or "")[:4]
+            text = fold(" ".join(x for x in (oldest.get("quote"),
+                                             oldest.get("definition")) if x))
+            if stem and stem in text:
+                reasons.append("firstAttestation.period %s, kaynaktaki en eski "
+                               "tanıklık %s ve o kayıt madde başını içeriyor"
+                               % (att.get("period"), year))
 
     named = att.get("source")
     if isinstance(named, str) and named.strip():
@@ -329,17 +396,14 @@ def check_cognates(item, entry, reasons):
                            "kökenli biçim zincire girmez" % (i, meaning))
     if not entry:
         return
-    transmission = set(transmission_chain(entry))
+    transmission = set().union(*transmission_steps(entry)) \
+        if transmission_steps(entry) else set()
     cognate_codes = set()
     for step in entry.get("chain") or []:
-        if not COGNATE_RE.search(step.get("relation") or ""):
-            continue
-        for name in step.get("languages") or []:
-            code = lang_code(name)
-            if code:
-                cognate_codes.add(code)
+        if COGNATE_RE.search(step.get("relation") or ""):
+            cognate_codes |= step_codes(step)
     cognate_only = cognate_codes - transmission
-    item_codes = {st.get("language") for st in item.get("chain") or []
+    item_codes = {canon(st.get("language")) for st in item.get("chain") or []
                   if isinstance(st, dict)}
     intruders = sorted(cognate_only & item_codes)
     if intruders:
@@ -439,7 +503,7 @@ def autofix_items(items):
             continue
         if item.get("formationType") != "tartışmalı":
             continue
-        donor = item.get("donorLanguage")
+        donor = canon(item.get("donorLanguage"))
         if not isinstance(donor, str) or not donor.strip():
             continue
         word_id = slugify_id(item.get("word") or item.get("id") or "")

@@ -16,17 +16,13 @@
   },
   {
     "id": "merdiven",
-    "verdict": "check",
-    "reasons": [
-      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "duvar",
-    "verdict": "check",
-    "reasons": [
-      "Zincir sırası kaynaktan farklı: madde ine › peo › fa, kaynak ine › peo › ine › peo › fa"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "çeşme",
@@ -38,7 +34,7 @@
     "verdict": "check",
     "reasons": [
       "Kaynak zincirinde olup maddede olmayan halka: ae",
-      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303"
+      "firstAttestation.period 1330, kaynaktaki en eski tanıklık 1303 ve o kayıt madde başını içeriyor"
     ]
   },
   {
@@ -75,8 +71,10 @@
   },
   {
     "id": "lale",
-    "verdict": "ok",
-    "reasons": []
+    "verdict": "check",
+    "reasons": [
+      "Zincir sırası kaynaktan farklı: madde fa › pal › fa, kaynak fa › fa › pal"
+    ]
   },
   {
     "id": "menekşe",
@@ -87,11 +85,8 @@
   },
   {
     "id": "sümbül",
-    "verdict": "check",
-    "reasons": [
-      "Kaynak zincirinde olup maddede olmayan halka: arc",
-      "Maddede olup kaynak zincirinde olmayan halka: he"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "çınar",
@@ -105,10 +100,8 @@
   },
   {
     "id": "tohum",
-    "verdict": "check",
-    "reasons": [
-      "firstAttestation.period 1680, kaynaktaki en eski tanıklık 1303"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "fıstık",

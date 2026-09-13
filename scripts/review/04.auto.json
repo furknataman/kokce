@@ -15,10 +15,8 @@
   },
   {
     "id": "hücre",
-    "verdict": "check",
-    "reasons": [
-      "firstAttestation.period 1429, kaynaktaki en eski tanıklık 1303"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "vücut",
@@ -53,7 +51,7 @@
     "id": "ameliyat",
     "verdict": "check",
     "reasons": [
-      "firstAttestation.period 1876, kaynaktaki en eski tanıklık 1680"
+      "firstAttestation.period 1876, kaynaktaki en eski tanıklık 1680 ve o kayıt madde başını içeriyor"
     ]
   },
   {
@@ -116,9 +114,7 @@
   },
   {
     "id": "salep",
-    "verdict": "check",
-    "reasons": [
-      "firstAttestation.period 1665, kaynaktaki en eski tanıklık 1410"
-    ]
+    "verdict": "ok",
+    "reasons": []
   }
 ]

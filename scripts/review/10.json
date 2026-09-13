@@ -1,0 +1,28 @@
+[
+  {
+    "id": "peynir",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "nar",
+    "verdict": "fix",
+    "objections": [
+      "Kaynak tek bir halkayı 'Farsça/Orta Farsça' birleşik etiketiyle veriyor; madde bunu ayrı pal ve fa halkalarına bölmüş, kaynakta olmayan Orta Farsça adım çıkarılmalı.",
+      "Zincir düzelince ultimateOrigin pal değil fa olur."
+    ]
+  },
+  {
+    "id": "dut",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "incir",
+    "verdict": "fix",
+    "objections": [
+      "Kaynak tek bir halkayı 'Farsça/Orta Farsça' birleşik etiketiyle veriyor; madde bunu ayrı pal ve fa halkalarına bölmüş, kaynakta olmayan Orta Farsça adım çıkarılmalı.",
+      "Zincir düzelince ultimateOrigin pal değil fa olur."
+    ]
+  }
+]

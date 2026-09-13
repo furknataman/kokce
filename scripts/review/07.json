@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kanun",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "hak",
+    "verdict": "fix",
+    "objections": [
+      "Kaynakta eşkökenlilik olarak geçen biçim zincire aktarım halkası diye konmuş; eşköken aktarım değildir, zincirden çıkarılmalı.",
+      "Kaynak Arapça ḥaḳḳ ile İbranice ḥuḳḳā arasında eşkökenlilik kuruyor, alıntı değil; iki Sami halkası da zincirden çıkarılmalı.",
+      "Zincir düzelince ultimateOrigin he değil ar olur."
+    ]
+  },
+  {
+    "id": "hukuk",
+    "verdict": "fix",
+    "objections": [
+      "Zincirdeki iki İbranice halka hukuk maddesinin kaynağında hiç geçmiyor, hak maddesinden taşınmış görünüyor.",
+      "Zincir düzelince ultimateOrigin he değil ar olur."
+    ]
+  },
+  {
+    "id": "devlet",
+    "verdict": "fix",
+    "objections": [
+      "Kaynakta eşkökenlilik olarak geçen biçim zincire aktarım halkası diye konmuş; eşköken aktarım değildir, zincirden çıkarılmalı.",
+      "Zincir düzelince ultimateOrigin akk değil ar olur."
+    ]
+  }
+]

@@ -3,7 +3,8 @@
     "id": "peynir",
     "verdict": "check",
     "reasons": [
-      "firstAttestation.period 1312, kaynaktaki en eski tanıklık 1303"
+      "Kaynaktaki bileşik dil etiketi (fa / pal) iki ayrı halkaya bölünmüş: pal › fa",
+      "firstAttestation.period 1312, kaynaktaki en eski tanıklık 1303 ve o kayıt madde başını içeriyor"
     ]
   },
   {
@@ -65,8 +66,8 @@
     "id": "nar",
     "verdict": "check",
     "reasons": [
-      "Maddede olup kaynak zincirinde olmayan halka: pal",
-      "firstAttestation.period 1341, kaynaktaki en eski tanıklık 1303"
+      "Kaynaktaki bileşik dil etiketi (fa / pal) iki ayrı halkaya bölünmüş: pal › fa",
+      "firstAttestation.period 1341, kaynaktaki en eski tanıklık 1303 ve o kayıt madde başını içeriyor"
     ]
   },
   {
@@ -76,17 +77,14 @@
   },
   {
     "id": "dut",
-    "verdict": "check",
-    "reasons": [
-      "Kaynak zincirinde olup maddede olmayan halka: arc",
-      "Maddede olup kaynak zincirinde olmayan halka: syc"
-    ]
+    "verdict": "ok",
+    "reasons": []
   },
   {
     "id": "incir",
     "verdict": "check",
     "reasons": [
-      "Maddede olup kaynak zincirinde olmayan halka: pal"
+      "Kaynaktaki bileşik dil etiketi (fa / pal) iki ayrı halkaya bölünmüş: pal › fa"
     ]
   },
   {

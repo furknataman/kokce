@@ -1,0 +1,43 @@
+[
+  {
+    "id": "rüzgâr",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "dert",
+    "verdict": "fix",
+    "objections": [
+      "Kaynak tek bir halkayı 'Farsça/Orta Farsça' birleşik etiketiyle veriyor; madde bunu ayrı pal ve fa halkalarına bölmüş, kaynakta olmayan Orta Farsça adım çıkarılmalı.",
+      "Zincir düzelince ultimateOrigin pal değil fa olur."
+    ]
+  },
+  {
+    "id": "derman",
+    "verdict": "fix",
+    "objections": [
+      "Kaynak tek bir halkayı 'Farsça/Orta Farsça' birleşik etiketiyle veriyor; madde bunu ayrı pal ve fa halkalarına bölmüş, kaynakta olmayan Orta Farsça adım çıkarılmalı."
+    ]
+  },
+  {
+    "id": "keşke",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "dost",
+    "verdict": "fix",
+    "objections": [
+      "Kaynak tek bir halkayı 'Farsça/Orta Farsça' birleşik etiketiyle veriyor; madde bunu ayrı pal ve fa halkalarına bölmüş, kaynakta olmayan Orta Farsça adım çıkarılmalı."
+    ]
+  },
+  {
+    "id": "düşman",
+    "verdict": "fix",
+    "objections": [
+      "Kaynak tek bir halkayı 'Farsça/Orta Farsça' birleşik etiketiyle veriyor; madde bunu ayrı pal ve fa halkalarına bölmüş, kaynakta olmayan Orta Farsça adım çıkarılmalı.",
+      "Zincir düzelince ultimateOrigin pal değil fa olur.",
+      "relatives'te akraba olarak çıplak Avestaca gövde duşmanah- verilmiş; bu biçim zaten story'de açıklanıyor, listeye Türkçe bir türev daha uygun."
+    ]
+  }
+]
