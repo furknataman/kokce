@@ -12,18 +12,21 @@
   Tek ekran:    screenshots.html?slide=03
                 screenshots.html?slide=03&device=ipad
 
-  Cihaz görüntüsü her zaman KÜÇÜLTÜLEREK yerleşir (kaynak 1320/2064 px,
-  ekran alanı daha dar), yani büyütmeden gelen bulanıklık olmaz.
+  İki ölçü bilinçlidir:
+  • Başlık kutusunun yüksekliği SABİT (--cap-h). Böylece beş görselde
+    başlıklar aynı y'de başlar ve cihaz da hep aynı yerden girer — 04'teki
+    uzun başlık puntosu düşse bile hizalama bozulmaz.
+  • Cihaz görüntüsü her zaman KÜÇÜLTÜLEREK yerleşir (1320→1046, 2064→1628),
+    yani büyütmeden gelen bulanıklık olmaz.
 -->
 <style>
   :root {
-    --parchment:      #FBF7EF;
-    --parchment-mid:  #F0E8D6;
-    --parchment-deep: #E2D6BC;
-    --ink:            #1A2649;
-    --ink-deep:       #0B1020;
-    --accent:         #806128; /* açık zeminde 4.5:1 tutan koyu altın */
-    --gold:           #D8B871; /* koyu zeminde kullanılan açık altın */
+    --parchment: #F3EAD6;
+    --navy:      #1B2A4A;
+    /* #8A6420 parşömen üstünde 4.47:1 veriyordu; bir tık koyulaştırıldı. */
+    --gold-ink:  #88631F; /* parşömen üstündeki altın yazı */
+    --gold-line: #C9A227; /* lacivert üstündeki ince hat */
+    --sub-ink:   #55524C;
     --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
     --sans: -apple-system, "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
@@ -31,8 +34,6 @@
   * { box-sizing: border-box; }
   body { margin: 0; background: #1b1b1d; font-family: var(--sans); }
   body.single { background: #fff; }
-  body.single .label { display: none; }
-
   .label {
     color: #9a9a9e; font-size: 13px; letter-spacing: .12em; text-transform: uppercase;
     padding: 22px 0 8px; text-align: center;
@@ -41,70 +42,77 @@
   /* ---- kadraj ölçüleri cihaza göre ---- */
   .slide {
     --w: 1320px; --h: 2868px;
-    --pad: 96px; --top: 178px;
+    --pad: 96px; --top: 178px; --cap-h: 420px;
     --eyebrow: 37px; --h1: 116px; --sub: 44px;
-    --dev-w: 1000px;
+    --dev-w: 1080px; --mark: 56px;
     position: relative; width: var(--w); height: var(--h); overflow: hidden;
+    /* Parşömen başlığın bittiği yere kadar tutar, sonra laciverte iner:
+       cihaz gövdesinin büyük bölümü lacivertin üstüne düşsün diye ramp
+       yukarı alındı, yoksa lacivert yalnızca alt kenarda bir şerit kalıyordu. */
+    background: linear-gradient(180deg,
+      var(--parchment) 0%, #F1E7CF 17%, #E2D7BD 26%,
+      #A9A6A6 39%, #63708F 54%, #33456B 72%, var(--navy) 100%);
   }
   .slide.ipad {
     --w: 2064px; --h: 2752px;
-    --pad: 168px; --top: 190px;
+    --pad: 168px; --top: 190px; --cap-h: 470px;
     --eyebrow: 42px; --h1: 132px; --sub: 50px;
-    --dev-w: 1560px;
+    --dev-w: 1680px; --mark: 76px;
   }
 
-  /* ---- zeminler: parşömen → lacivert, ışık/koyu dönüşümlü ---- */
-  .bg { position: absolute; inset: 0; }
-  .bg.light { background: linear-gradient(168deg, var(--parchment) 0%, var(--parchment-mid) 52%, var(--parchment-deep) 100%); }
-  .bg.dark  { background: linear-gradient(168deg, #24325C 0%, var(--ink) 46%, var(--ink-deep) 100%); }
-  .glow { position: absolute; inset: 0; }
-  .light .glow { background: radial-gradient(760px 620px at 78% 12%, rgba(255,255,255,.85), transparent 70%); }
-  .dark  .glow { background: radial-gradient(820px 660px at 22% 10%, rgba(216,184,113,.20), transparent 70%); }
+  /* Üst yarıda yumuşak bir ışık: düz gradyan yassı duruyordu. */
+  .glow {
+    position: absolute; inset: 0;
+    background: radial-gradient(900px 680px at 76% 8%, rgba(255,255,255,.55), transparent 68%);
+  }
 
-  /* ---- başlık bloğu ---- */
-  .caption { position: absolute; left: var(--pad); right: var(--pad); top: var(--top); }
+  /* ---- başlık bloğu: yüksekliği sabit, içerik üstten hizalı ---- */
+  .caption {
+    position: absolute; left: var(--pad); right: var(--pad);
+    top: var(--top); height: var(--cap-h);
+  }
   .eyebrow {
     margin: 0 0 26px; font-size: var(--eyebrow); font-weight: 600;
-    letter-spacing: .2em; text-transform: uppercase;
+    letter-spacing: .2em; text-transform: uppercase; color: var(--gold-ink);
   }
   h1 {
-    margin: 0; font-family: var(--serif); font-weight: 700;
+    margin: 0; font-family: var(--serif); font-weight: 700; color: var(--navy);
     font-size: var(--h1); line-height: 1.02; letter-spacing: -.01em;
   }
-  /* Uzun başlık satıra sığmıyordu; yalnızca o ekranda punto düşer. */
+  /* Uzun başlık iki satıra sığmıyordu; yalnızca o ekranda punto düşer. */
   h1.long { font-size: calc(var(--h1) * 0.80); line-height: 1.06; }
-  .sub { margin: 34px 0 0; font-size: var(--sub); line-height: 1.35; font-weight: 400; }
-
-  .light .eyebrow { color: var(--accent); }
-  .light h1       { color: var(--ink); }
-  .light .sub     { color: #4A5570; }
-  .dark .eyebrow  { color: var(--gold); }
-  .dark h1        { color: #F4F1EA; }
-  .dark .sub      { color: #B9C2D8; }
-
-  /* ---- iPhone çerçevesi (saf CSS) ---- */
-  .device { position: absolute; left: 50%; transform: translateX(-50%); width: var(--dev-w); }
-  .phone {
-    padding: 17px; border-radius: 112px;
-    background: linear-gradient(155deg, #4A4F5E 0%, #171A22 38%, #0A0C12 100%);
-    box-shadow:
-      0 70px 130px rgba(8, 12, 26, .45),
-      0 10px 30px rgba(8, 12, 26, .30),
-      inset 0 0 0 2px rgba(255, 255, 255, .10);
+  .sub {
+    margin: 34px 0 0; font-size: var(--sub); line-height: 1.35;
+    font-weight: 400; color: var(--sub-ink);
   }
+
+  /* ---- marka işareti: ikondaki filiz, sağ üstte ---- */
+  .mark {
+    position: absolute; top: var(--top); right: var(--pad);
+    width: var(--mark); height: var(--mark); fill: var(--gold-ink);
+  }
+
+  /* ---- cihaz: başlığın 60 px altından girer, alttan kırpılır ---- */
+  .device {
+    position: absolute; left: 50%; transform: translateX(-50%);
+    width: var(--dev-w);
+    top: calc(var(--top) + var(--cap-h) + 60px);
+  }
+  .phone, .pad {
+    background: linear-gradient(155deg, #3C4354 0%, #171A22 38%, #0A0C12 100%);
+    /* Lacivert zeminden ince altın hat ve yumuşak gölgeyle ayrılır. */
+    box-shadow:
+      0 0 0 2px rgba(201, 162, 39, .70),
+      0 60px 120px rgba(6, 10, 24, .55),
+      0 14px 44px rgba(6, 10, 24, .32),
+      inset 0 0 0 2px rgba(255, 255, 255, .08);
+  }
+  .phone { padding: 17px; border-radius: 112px; }
   .phone .screen { border-radius: 95px; aspect-ratio: 1320 / 2868; }
 
-  /* ---- iPad çerçevesi: ince bezel, daha az yuvarlatılmış köşe ---- */
-  .pad {
-    padding: 26px; border-radius: 62px;
-    background: linear-gradient(155deg, #4A4F5E 0%, #1B1E26 40%, #0C0E14 100%);
-    box-shadow:
-      0 80px 150px rgba(8, 12, 26, .45),
-      0 12px 36px rgba(8, 12, 26, .28),
-      inset 0 0 0 2px rgba(255, 255, 255, .10);
-  }
+  /* iPad: ince bezel, daha az yuvarlatılmış köşe, ön kamera noktası */
+  .pad { padding: 26px; border-radius: 62px; position: relative; }
   .pad .screen { border-radius: 40px; aspect-ratio: 2064 / 2752; }
-  /* Ön kamera noktası */
   .pad::before {
     content: ""; position: absolute; z-index: 3;
     top: 12px; left: 50%; transform: translateX(-50%);
@@ -114,73 +122,75 @@
 
   .screen { position: relative; overflow: hidden; background: #000; }
   .screen img { display: block; width: 100%; }
-
-  /* Cihaz alttan kadraj dışına taşar: dikkat üst yarıdaki içerikte kalır. */
-  .device.low  { top: 1010px; }
-  .device.mid  { top:  940px; }
-  .device.high { top:  880px; }
-  /* iPad kadrajı iPhone'dan daha geniş ve daha alçak; cihaz yukarı alınıp
-     büyütülmezse ortada boş bir bant kalıyor ve ekran okunmuyordu. */
-  .ipad .device.low  { top: 900px; }
-  .ipad .device.mid  { top: 860px; }
-  .ipad .device.high { top: 820px; }
 </style>
 
 <body>
 
+<!-- Filiz yolu Design/app-icon.svg'den; her görselde aynı işaret kullanılır. -->
+<svg width="0" height="0" style="position:absolute">
+  <symbol id="filiz" viewBox="246 176 542 672">
+    <path d="M480 480C350 490 254 404 246 244C382 234 479 310 512 422C528 260 639 176 788 176C788 351 697 473 544 484L544 563C544 596 555 617 579 633L686 595C703 589 721 592 731 609C741 626 734 645 717 655L648 695C641 699 640 705 646 712L706 774C719 788 717 809 703 821C689 833 668 831 656 817L568 719C558 708 552 712 553 727L546 814C545 834 532 848 512 848C492 848 479 834 478 814L471 727C472 712 466 708 456 719L368 817C356 831 335 833 321 821C307 809 305 788 318 774L378 712C384 705 383 699 376 695L307 655C290 645 283 626 293 609C303 592 321 589 338 595L445 633C469 617 480 596 480 563Z"/>
+  </symbol>
+</svg>
+
 <p class="label">01 — Bugün</p>
-<section class="slide" data-slide="01" data-bg="light" data-pos="low">
-  <div class="bg light"><div class="glow"></div></div>
+<section class="slide" data-slide="01">
+  <div class="glow"></div>
+  <svg class="mark"><use href="#filiz"/></svg>
   <div class="caption">
     <p class="eyebrow">Bugün</p>
     <h1>Her gün bir<br>kelimenin hikâyesi</h1>
     <p class="sub">Kökeni, yolculuğu, bugünkü anlamı.</p>
   </div>
-  <div class="device low"><div class="phone"><div class="screen"><img src="shots/iphone/01-today.png" alt=""></div></div></div>
+  <div class="device"><div class="phone"><div class="screen"><img src="shots/iphone/01-today.png" alt=""></div></div></div>
 </section>
 
 <p class="label">02 — Yolculuk</p>
-<section class="slide" data-slide="02" data-bg="dark" data-pos="mid">
-  <div class="bg dark"><div class="glow"></div></div>
+<section class="slide" data-slide="02">
+  <div class="glow"></div>
+  <svg class="mark"><use href="#filiz"/></svg>
   <div class="caption">
     <p class="eyebrow">Yolculuk</p>
     <h1>Kökten bugüne,<br>adım adım</h1>
     <p class="sub">Kelimenin geçtiği her dili görün.</p>
   </div>
-  <div class="device mid"><div class="phone"><div class="screen"><img src="shots/iphone/02-journey.png" alt=""></div></div></div>
+  <div class="device"><div class="phone"><div class="screen"><img src="shots/iphone/02-journey.png" alt=""></div></div></div>
 </section>
 
 <p class="label">03 — Sözlük</p>
-<section class="slide" data-slide="03" data-bg="light" data-pos="mid">
-  <div class="bg light"><div class="glow"></div></div>
+<section class="slide" data-slide="03">
+  <div class="glow"></div>
+  <svg class="mark"><use href="#filiz"/></svg>
   <div class="caption">
     <p class="eyebrow">Sözlük</p>
     <h1>500'den fazla<br>kelime, kaynaklı</h1>
     <p class="sub">Köken diline göre süzün, kaynağı görün.</p>
   </div>
-  <div class="device mid"><div class="phone"><div class="screen"><img src="shots/iphone/03-dictionary.png" alt=""></div></div></div>
+  <div class="device"><div class="phone"><div class="screen"><img src="shots/iphone/03-dictionary.png" alt=""></div></div></div>
 </section>
 
 <p class="label">04 — Az bilinen</p>
-<section class="slide" data-slide="04" data-bg="dark" data-pos="low">
-  <div class="bg dark"><div class="glow"></div></div>
+<section class="slide" data-slide="04">
+  <div class="glow"></div>
+  <svg class="mark"><use href="#filiz"/></svg>
   <div class="caption">
     <p class="eyebrow">Az bilinen</p>
     <h1 class="long">Az bilinen kelimelerle<br>Türkçeni zenginleştir</h1>
     <p class="sub">Günün kelimesi havuzunu değiştirin.</p>
   </div>
-  <div class="device low"><div class="phone"><div class="screen"><img src="shots/iphone/04-detail-rare.png" alt=""></div></div></div>
+  <div class="device"><div class="phone"><div class="screen"><img src="shots/iphone/04-detail-rare.png" alt=""></div></div></div>
 </section>
 
 <p class="label">05 — Ayarlar</p>
-<section class="slide" data-slide="05" data-bg="light" data-pos="low">
-  <div class="bg light"><div class="glow"></div></div>
+<section class="slide" data-slide="05">
+  <div class="glow"></div>
+  <svg class="mark"><use href="#filiz"/></svg>
   <div class="caption">
     <p class="eyebrow">Ayarlar</p>
     <h1>Bildirim, kip<br>ve favoriler</h1>
     <p class="sub">Uygulamayı kendinize göre ayarlayın.</p>
   </div>
-  <div class="device low"><div class="phone"><div class="screen"><img src="shots/iphone/05-settings.png" alt=""></div></div></div>
+  <div class="device"><div class="phone"><div class="screen"><img src="shots/iphone/05-settings.png" alt=""></div></div></div>
 </section>
 
 <script>
@@ -189,21 +199,34 @@
     var want = q.get('slide');
     var isPad = q.get('device') === 'ipad';
 
-    // iPad: aynı şablon, çerçeve ve görüntü dosyası değişir.
-    var padShots = {
-      '01': 'shots/ipad/01-today.png',
-      '02': 'shots/ipad/02-journey.png',
-      '03': 'shots/ipad/03-dictionary.png',
-      '04': 'shots/ipad/04-detail.png',
-      '05': 'shots/ipad/05-settings.png'
+    // iPad: aynı şablon; çerçeve, görüntü ve 04'ün başlığı değişir.
+    // 04'teki iPad yakalaması "kalem" maddesini gösterdiği için "az bilinen"
+    // vurgusu iPhone setine bırakıldı.
+    var pad = {
+      '01': { src: 'shots/ipad/01-today.png' },
+      '02': { src: 'shots/ipad/02-journey.png' },
+      '03': { src: 'shots/ipad/03-dictionary.png' },
+      '04': { src: 'shots/ipad/04-detail.png',
+              eyebrow: 'Kökçe', long: false,
+              h1: 'Geniş ekranda<br>aynı zarafet',
+              sub: 'Aynı sözlük, iPad için yerleşmiş hâliyle.' },
+      '05': { src: 'shots/ipad/05-settings.png' }
     };
 
     document.querySelectorAll('.slide').forEach(function (el) {
       if (want && el.dataset.slide !== want) { el.remove(); return; }
       if (!isPad) return;
+      var cfg = pad[el.dataset.slide];
       el.classList.add('ipad');
       el.querySelector('.phone').className = 'pad';
-      el.querySelector('.screen img').src = padShots[el.dataset.slide];
+      el.querySelector('.screen img').src = cfg.src;
+      if (cfg.eyebrow) el.querySelector('.eyebrow').textContent = cfg.eyebrow;
+      if (cfg.h1) {
+        var h = el.querySelector('h1');
+        h.innerHTML = cfg.h1;
+        if (cfg.long === false) h.classList.remove('long');
+      }
+      if (cfg.sub) el.querySelector('.sub').textContent = cfg.sub;
     });
 
     if (want) {
