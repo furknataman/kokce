@@ -31,6 +31,15 @@ public actor WordRepository {
     static let lastCheckKey = "content.lastCheckAt"
     static let etagKey = "content.etag"
 
+    /// Uzak dosyanın en son ne zaman yoklandığı. Ayarlar ekranı gösterir;
+    /// hiç kontrol edilmediyse `nil`. Anahtar burada tanımlı olduğu için
+    /// okuma da burada durur, çağıran taraf dize kopyalamaz.
+    public static func lastCheckedAt(defaultsSuiteName: String? = AppGroup.identifier) -> Date? {
+        guard let name = defaultsSuiteName,
+              let defaults = UserDefaults(suiteName: name) else { return nil }
+        return defaults.object(forKey: lastCheckKey) as? Date
+    }
+
     private let bundleURL: URL
     private let cacheURL: URL?
     private let defaults: UserDefaults?

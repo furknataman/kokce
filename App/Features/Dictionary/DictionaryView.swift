@@ -1,58 +1,95 @@
 import SwiftUI
 import KokenKit
 
-/// Sözlük sekmesi. Faz 4'te filtre çipleri, favoriler ve tam detay görünümü
-/// eklenecek; şimdilik arama ve liste.
+/// Sözlük sekmesi: arama, köken dili çipleri ve madde listesi. Deep link
+/// gezinme yığınını doğrudan `AppModel` üzerinden doldurur.
 struct DictionaryView: View {
+
     @Environment(AppModel.self) private var model
 
     var body: some View {
         @Bindable var model = model
-        NavigationStack {
-            List(model.filteredWords) { word in
-                Button {
-                    model.selectedWordID = word.id
-                } label: {
-                    VStack(alignment: .leading, spacing: 4) {
-                        Text(word.word)
-                            .font(.kokenWord(.headline))
-                            .foregroundStyle(Theme.ink)
-                        Text(word.shortMeaning)
-                            .font(.footnote)
-                            .foregroundStyle(Theme.inkSoft)
-                    }
-                }
-                .listRowBackground(Theme.parchment)
+        NavigationStack(path: $model.dictionaryPath) {
+            VStack(spacing: 0) {
+                DictionaryFilterBar()
+                content
+            }
+            .kokenBackground()
+            .navigationTitle("tab.dictionary")
+            .searchable(text: $model.searchText, prompt: Text("dictionary.search"))
+            .navigationDestination(for: Word.self) { WordDetailView(word: $0) }
+        }
+    }
+
+    @ViewBuilder
+    private var content: some View {
+        let words = model.filteredWords
+        if words.isEmpty {
+            emptyState
+        } else {
+            List(words) { word in
+                NavigationLink(value: word) { WordRow(word: word) }
+                    .listRowBackground(Theme.parchment)
             }
             .listStyle(.plain)
-            .kokenBackground()
             .scrollContentBackground(.hidden)
-            .searchable(text: $model.searchText, prompt: Text("dictionary.search"))
-            .navigationTitle("tab.dictionary")
-            .navigationDestination(item: $model.selectedWord) { word in
-                WordDetailView(word: word)
-            }
+        }
+    }
+
+    @ViewBuilder
+    private var emptyState: some View {
+        if !model.searchText.isEmpty {
+            ContentUnavailableView.search(text: model.searchText)
+        } else if model.showFavoritesOnly {
+            ContentUnavailableView("dictionary.favorites.empty", systemImage: "star")
+        } else {
+            ContentUnavailableView("dictionary.empty", systemImage: "character.book.closed")
         }
     }
 }
 
-/// Faz 4'te zaman çizelgesi, ilk tanıklık, akrabalar ve kaynaklarla dolacak.
-struct WordDetailView: View {
+/// Liste satırı: kelime, küçük köken rozeti ve kısa anlam. Yazı tipi
+/// büyüdüğünde rozet kelimenin altına iner, satır taşmaz.
+private struct WordRow: View {
+
+    @Environment(AppModel.self) private var model
     let word: Word
 
     var body: some View {
-        ScrollView {
-            VStack(alignment: .leading, spacing: 12) {
-                Text(word.word)
-                    .font(.kokenWord())
-                    .foregroundStyle(Theme.ink)
-                Text(word.currentMeaning)
-                    .foregroundStyle(Theme.inkSoft)
+        VStack(alignment: .leading, spacing: 4) {
+            ViewThatFits(in: .horizontal) {
+                HStack(alignment: .firstTextBaseline, spacing: 8) {
+                    title
+                    badge
+                }
+                VStack(alignment: .leading, spacing: 4) {
+                    title
+                    badge
+                }
             }
-            .kokenCard()
-            .padding(20)
+            Text(word.shortMeaning)
+                .font(.footnote)
+                .foregroundStyle(Theme.inkSoft)
         }
-        .kokenBackground()
-        .navigationBarTitleDisplayMode(.inline)
+        .padding(.vertical, 3)
+    }
+
+    private var title: some View {
+        Text(word.word)
+            .font(.kokenWord(.headline))
+            .foregroundStyle(Theme.ink)
+    }
+
+    @ViewBuilder
+    private var badge: some View {
+        if let origin = model.originText(for: word) {
+            Text(origin)
+                .font(.caption2)
+                .foregroundStyle(Theme.inkSoft)
+                .lineLimit(1)
+                .padding(.horizontal, 7)
+                .padding(.vertical, 2)
+                .background(Theme.parchmentDeep, in: Capsule())
+        }
     }
 }

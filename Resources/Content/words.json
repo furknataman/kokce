@@ -3,14 +3,20 @@
   "contentVersion": 1,
   "schedule": {
     "start": "2026-10-01",
-    "ids": ["kalem", "pencere", "çay"]
+    "ids": [
+      "kalem",
+      "pencere",
+      "çay"
+    ]
   },
   "languages": {
     "ar": "Arapça",
     "fa": "Farsça",
     "grc": "Eski Yunanca",
     "tr": "Türkçe",
-    "zh": "Çince"
+    "zh": "Çince",
+    "arc": "Aramice",
+    "sa": "Sanskritçe"
   },
   "words": [
     {
@@ -25,6 +31,13 @@
           "language": "grc",
           "form": "kálamos",
           "meaning": "kamış, saz",
+          "period": null,
+          "reconstructed": false
+        },
+        {
+          "language": "arc",
+          "form": "ḳalamos",
+          "meaning": "kamıştan yazı kalemi",
           "period": null,
           "reconstructed": false
         },
@@ -45,17 +58,37 @@
       ],
       "shortMeaning": "Yazı yazmaya yarayan araç.",
       "currentMeaning": "Yazı yazmak veya çizmek için kullanılan, ucundan boya, mürekkep ya da grafit bırakan araç.",
-      "story": "Eski Yunancada kálamos, kıyıda biten kamışın adıydı. Ucu eğik kesilip mürekkebe batırılan bu kamış, Arapçaya qalam biçiminde geçti ve yazının aracı oldu. Türkçeye Arapçadan gelen kelime, kamış çoktan yerini madene bıraksa da adını korudu.",
-      "firstAttestation": null,
+      "story": "Eski Yunancada kálamos, kıyıda biten kamışın adıydı. Ucu eğik kesilip mürekkebe batırılan bu kamış, Aramice-Süryanice aracılığıyla Arapçaya qalam biçiminde geçti ve yazının aracı oldu. Türkçeye Arapçadan gelen kelime, kamış çoktan yerini madene bıraksa da adını korudu.",
+      "firstAttestation": {
+        "source": "Yusuf Has Hâcib, Kutadgu Bilig",
+        "period": "1069",
+        "form": "ḳalam"
+      },
       "relatives": [
-        { "word": "kalemtıraş", "relation": "birleşik" },
-        { "word": "kalem işi", "relation": "birleşik" }
+        {
+          "word": "kalemtıraş",
+          "relation": "birleşik"
+        },
+        {
+          "word": "kalem işi",
+          "relation": "birleşik"
+        }
       ],
-      "alternatives": null,
+      "alternatives": [
+        "Kelimenin Arapçaya hangi dil üzerinden geçtiği tartışmalıdır: Nişanyan Aramice-Süryanice yolunu gösterirken Arthur Jeffery, Nöldeke'ye dayanarak Habeşçe yolunu savunur."
+      ],
       "funFact": "Aynı Yunanca kökten gelen \"kalamar\" da mürekkebiyle anılır.",
       "sources": [
-        { "name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/" },
-        { "name": "TDK Güncel Türkçe Sözlük", "ref": "kalem maddesi", "url": "https://sozluk.gov.tr/" }
+        {
+          "name": "Nişanyan Sözlük",
+          "ref": "kalem maddesi",
+          "url": "https://www.nisanyansozluk.com/"
+        },
+        {
+          "name": "TDK Güncel Türkçe Sözlük",
+          "ref": "kalem maddesi",
+          "url": "https://sozluk.gov.tr/"
+        }
       ],
       "confidence": "yüksek",
       "reviewed": true
@@ -66,19 +99,19 @@
       "partOfSpeech": "isim",
       "formationType": "alıntı",
       "donorLanguage": "fa",
-      "ultimateOrigin": "fa",
+      "ultimateOrigin": "sa",
       "chain": [
         {
-          "language": "fa",
-          "form": "penc",
-          "meaning": "beş",
+          "language": "sa",
+          "form": "pañjara",
+          "meaning": "kafes",
           "period": null,
           "reconstructed": false
         },
         {
           "language": "fa",
-          "form": "pencere",
-          "meaning": "kafes, ızgara",
+          "form": "pancara",
+          "meaning": "kafes, pencere kafesi",
           "period": null,
           "reconstructed": false
         },
@@ -92,18 +125,31 @@
       ],
       "shortMeaning": "Duvarda ışık ve hava almaya yarayan açıklık.",
       "currentMeaning": "Yapıların duvarında bulunan, ışık ve hava girmesini sağlayan, camla kapatılan açıklık.",
-      "story": "Farsçada pencere, çubukların birbirini kestiği kafes demekti; kelimenin penc yani beş sayısıyla ilişkilendirilmesi bu kafesin çubuk düzeninden gelir. Camın pahalı olduğu çağlarda duvardaki boşluk camla değil, ahşap kafesle kapatılırdı. Türkçeye geçen kelime, kafes yerini cama bıraktıktan sonra da aynı açıklığın adı olarak kaldı.",
-      "firstAttestation": null,
+      "story": "Farsçada pancara, çubukların birbirini kestiği kafes demekti; kelime Sanskritçede yine kafes anlamına gelen pañjara ile birleştirilir. Camın pahalı olduğu çağlarda duvardaki boşluk camla değil, ahşap kafesle kapatılırdı. Türkçeye geçen kelime, kafes yerini cama bıraktıktan sonra da aynı açıklığın adı olarak kaldı.",
+      "firstAttestation": {
+        "source": "Âşık Paşa, Garib-nâme",
+        "period": "1330",
+        "form": "pancara"
+      },
       "relatives": [
-        { "word": "pencerelik", "relation": "türev" }
+        {
+          "word": "pencerelik",
+          "relation": "türev"
+        }
       ],
-      "alternatives": [
-        "Kimi kaynaklar kelimeyi, \"kafes\" anlamındaki Sanskritçe pañjara ile ilişkilendirir."
-      ],
-      "funFact": null,
+      "alternatives": null,
+      "funFact": "İngilizcedeki window, Eski İskandinavcada \"rüzgâr gözü\" demek olan vindauga'dan gelir; pencere de başlangıçta camlı açıklığı değil, o açıklığı kapatan kafesi anlatıyordu.",
       "sources": [
-        { "name": "Nişanyan Sözlük", "ref": "pencere maddesi", "url": "https://www.nisanyansozluk.com/" },
-        { "name": "TDK Güncel Türkçe Sözlük", "ref": "pencere maddesi", "url": "https://sozluk.gov.tr/" }
+        {
+          "name": "Nişanyan Sözlük",
+          "ref": "pencere maddesi",
+          "url": "https://www.nisanyansozluk.com/"
+        },
+        {
+          "name": "TDK Güncel Türkçe Sözlük",
+          "ref": "pencere maddesi",
+          "url": "https://sozluk.gov.tr/"
+        }
       ],
       "confidence": "orta",
       "reviewed": true
@@ -141,16 +187,36 @@
       "shortMeaning": "Çay bitkisinin yaprağından demlenen içecek.",
       "currentMeaning": "Çay bitkisinin kurutulmuş yaprağının kaynar suda demlenmesiyle elde edilen içecek.",
       "story": "Çayın anayurdu Çin'de kelimenin biçimi chá idi. Kara yoluyla batıya taşınan içecek, adını da yanında götürdü: Farsçaya çāy olarak geçti, oradan Türkçeye ulaştı. Deniz yoluyla taşınan çay ise Çincenin güney ağızlarındaki te biçimini yaydı; İngilizcedeki tea ile Türkçedeki çay bu yüzden aynı kelimenin iki ayrı yolculuğudur.",
-      "firstAttestation": null,
+      "firstAttestation": {
+        "source": "Evliya Çelebi, Seyahatname",
+        "period": "1665",
+        "form": "çāy"
+      },
       "relatives": [
-        { "word": "çaydanlık", "relation": "türev" },
-        { "word": "çayhane", "relation": "birleşik" }
+        {
+          "word": "çaydanlık",
+          "relation": "türev"
+        },
+        {
+          "word": "çayhane",
+          "relation": "birleşik"
+        }
       ],
-      "alternatives": null,
+      "alternatives": [
+        "Kelimenin Türkçeye Farsça üzerinden geldiği kesin değildir; Nişanyan, doğrudan Portekizlilerden ya da Portekiz yoluyla çayın ulaştığı Hindistan'dan Farsça aracılığıyla alınmış olabileceğini belirtir."
+      ],
       "funFact": "Türkçede \"çay\" aynı zamanda küçük akarsu demektir; bu ikinci çay Eski Türkçe kökenlidir ve içecekle akraba değildir.",
       "sources": [
-        { "name": "Nişanyan Sözlük", "ref": "çay maddesi", "url": "https://www.nisanyansozluk.com/" },
-        { "name": "TDK Güncel Türkçe Sözlük", "ref": "çay maddesi", "url": "https://sozluk.gov.tr/" }
+        {
+          "name": "Nişanyan Sözlük",
+          "ref": "çay maddesi",
+          "url": "https://www.nisanyansozluk.com/"
+        },
+        {
+          "name": "TDK Güncel Türkçe Sözlük",
+          "ref": "çay maddesi",
+          "url": "https://sozluk.gov.tr/"
+        }
       ],
       "confidence": "yüksek",
       "reviewed": true

@@ -1,7 +1,8 @@
 import SwiftUI
 
 /// Marka paleti ve tipografi. Mürekkep laciverti + parşömen; **kırmızı yok**.
-/// Uygulama ve widget aynı dosyayı derler.
+/// Uygulama ve widget aynı dosyayı derler, bu yüzden buraya yalnızca uygulama
+/// uzantısında da derlenebilen şeyler girer.
 enum Theme {
 
     /// Başlıklar ve ana metin.
@@ -14,8 +15,13 @@ enum Theme {
     static let parchmentDeep = adaptive(light: (0.93, 0.90, 0.83), dark: (0.12, 0.14, 0.21))
     /// Vurgu: eskitilmiş altın.
     static let accent = adaptive(light: (0.58, 0.44, 0.18), dark: (0.82, 0.68, 0.38))
+    /// Kart kenarlığı, ayraç ve zaman çizelgesi rayı. Kartlar düz zemin +
+    /// ince çizgiyle ayrılır; cam yalnızca kontrollerdedir.
+    static let border = adaptive(light: (0.84, 0.79, 0.69), dark: (0.20, 0.23, 0.32))
 
     static let cardCornerRadius: CGFloat = 20
+    /// Ekran kenarı boşluğu; kartlar ve başlıklar aynı hizada durur.
+    static let screenPadding: CGFloat = 20
 
     private static func adaptive(light: (Double, Double, Double),
                                  dark: (Double, Double, Double)) -> Color {
@@ -32,11 +38,16 @@ extension View {
         background(Theme.parchment.ignoresSafeArea())
     }
 
-    /// İçerik kartı. Cam değil: Liquid Glass yalnızca gezinme ve kontrollerde.
+    /// İçerik kartı: düz zemin + ince kenarlık. Cam değil — Liquid Glass
+    /// yalnızca gezinme ve kontrollerde kullanılır.
     func kokenCard() -> some View {
         padding(20)
             .frame(maxWidth: .infinity, alignment: .leading)
             .background(Theme.parchmentDeep, in: RoundedRectangle(cornerRadius: Theme.cardCornerRadius))
+            .overlay {
+                RoundedRectangle(cornerRadius: Theme.cardCornerRadius)
+                    .strokeBorder(Theme.border, lineWidth: 1)
+            }
     }
 }
 

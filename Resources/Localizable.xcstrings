@@ -1,76 +1,662 @@
 {
-  "sourceLanguage" : "tr",
-  "strings" : {
-    "dictionary.search" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : { "state" : "translated", "value" : "Search words" }
+  "sourceLanguage": "tr",
+  "strings": {
+    "detail.alternatives": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Another view"
+          }
         },
-        "tr" : {
-          "stringUnit" : { "state" : "translated", "value" : "Kelime ara" }
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diğer görüş"
+          }
         }
       }
     },
-    "tab.dictionary" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : { "state" : "translated", "value" : "Dictionary" }
+    "detail.attestation": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "First attestation"
+          }
         },
-        "tr" : {
-          "stringUnit" : { "state" : "translated", "value" : "Sözlük" }
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İlk tanıklık"
+          }
         }
       }
     },
-    "tab.settings" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : { "state" : "translated", "value" : "Settings" }
+    "detail.badge.a11y": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Origin: %1$@, earliest source: %2$@"
+          }
         },
-        "tr" : {
-          "stringUnit" : { "state" : "translated", "value" : "Ayarlar" }
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Köken: %1$@, en eski kaynak: %2$@"
+          }
         }
       }
     },
-    "tab.today" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : { "state" : "translated", "value" : "Today" }
+    "detail.badge.a11y.single": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Origin: %1$@"
+          }
         },
-        "tr" : {
-          "stringUnit" : { "state" : "translated", "value" : "Bugün" }
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Köken: %1$@"
+          }
         }
       }
     },
-    "today.empty" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : { "state" : "translated", "value" : "No word for today yet." }
+    "detail.currentMeaning": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meaning today"
+          }
         },
-        "tr" : {
-          "stringUnit" : { "state" : "translated", "value" : "Bugünün kelimesi henüz hazır değil." }
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bugünkü anlamı"
+          }
         }
       }
     },
-    "widget.description" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : { "state" : "translated", "value" : "Today's word and its short meaning." }
+    "detail.favorite.add": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add to favorites"
+          }
         },
-        "tr" : {
-          "stringUnit" : { "state" : "translated", "value" : "Günün kelimesi ve kısa anlamı." }
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favorilere ekle"
+          }
         }
       }
     },
-    "widget.title" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : { "state" : "translated", "value" : "Word of the Day" }
+    "detail.favorite.remove": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove from favorites"
+          }
         },
-        "tr" : {
-          "stringUnit" : { "state" : "translated", "value" : "Günün Kelimesi" }
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favorilerden çıkar"
+          }
+        }
+      }
+    },
+    "detail.funFact": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Did you know?"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bunu biliyor muydunuz?"
+          }
+        }
+      }
+    },
+    "detail.journey": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Journey"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yolculuk"
+          }
+        }
+      }
+    },
+    "detail.reconstructed": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reconstructed form"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yeniden kurulmuş biçim"
+          }
+        }
+      }
+    },
+    "detail.relatives": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Related words"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akraba kelimeler"
+          }
+        }
+      }
+    },
+    "detail.share": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Share"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paylaş"
+          }
+        }
+      }
+    },
+    "detail.sources": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sources"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kaynaklar"
+          }
+        }
+      }
+    },
+    "detail.story": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Story"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hikâye"
+          }
+        }
+      }
+    },
+    "dictionary.empty": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The dictionary is empty."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sözlük şu an boş."
+          }
+        }
+      }
+    },
+    "dictionary.favorites.empty": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You have no favorite words yet."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Henüz favori kelimeniz yok."
+          }
+        }
+      }
+    },
+    "dictionary.filter.all": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tümü"
+          }
+        }
+      }
+    },
+    "dictionary.filter.favorites": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favorites"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Favoriler"
+          }
+        }
+      }
+    },
+    "dictionary.search": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search words"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kelime ara"
+          }
+        }
+      }
+    },
+    "settings.about": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sources and about"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kaynaklar ve hakkında"
+          }
+        }
+      }
+    },
+    "settings.content": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Content"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İçerik"
+          }
+        }
+      }
+    },
+    "settings.content.never": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "not checked yet"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "henüz kontrol edilmedi"
+          }
+        }
+      }
+    },
+    "settings.content.status": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictionary version: %1$@ · last checked: %2$@"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sözlük sürümü: %1$@ · son kontrol: %2$@"
+          }
+        }
+      }
+    },
+    "settings.github": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GitHub repository"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GitHub deposu"
+          }
+        }
+      }
+    },
+    "settings.licenses": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Licenses"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lisanslar"
+          }
+        }
+      }
+    },
+    "settings.licenses.value": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Code MIT · Content CC BY-SA 4.0"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kod MIT · İçerik CC BY-SA 4.0"
+          }
+        }
+      }
+    },
+    "settings.notifications": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bildirimler"
+          }
+        }
+      }
+    },
+    "settings.notifications.daily": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daily notification"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Günlük bildirim"
+          }
+        }
+      }
+    },
+    "settings.notifications.footer": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You will be reminded of the word of the day at the time you choose."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seçtiğiniz saatte günün kelimesi hatırlatılır."
+          }
+        }
+      }
+    },
+    "settings.notifications.time": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saat"
+          }
+        }
+      }
+    },
+    "settings.rate": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rate the app"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puan ver"
+          }
+        }
+      }
+    },
+    "settings.sources.body": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Etymologies are compiled mainly from Nişanyan Sözlük, the Turkish Language Association's Güncel Türkçe Sözlük, Kubbealtı Lugatı and Andreas Tietze's Tarihî ve Etimolojik Türkiye Türkçesi Lugati. The sources used for each entry are listed beneath that entry."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Köken bilgileri başlıca Nişanyan Sözlük, Türk Dil Kurumu Güncel Türkçe Sözlük, Kubbealtı Lugatı ve Andreas Tietze'nin Tarihî ve Etimolojik Türkiye Türkçesi Lugati kaynaklarından derlenir. Her maddede kullanılan kaynaklar maddenin altında ayrıca listelenir."
+          }
+        }
+      }
+    },
+    "settings.version": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Version"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sürüm"
+          }
+        }
+      }
+    },
+    "share.format": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ — %2$@\nOrigin: %3$@\n\n#Köken"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ — %2$@\nKöken: %3$@\n\n#Köken"
+          }
+        }
+      }
+    },
+    "share.format.plain": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ — %2$@\n\n#Köken"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ — %2$@\n\n#Köken"
+          }
+        }
+      }
+    },
+    "tab.dictionary": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dictionary"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sözlük"
+          }
+        }
+      }
+    },
+    "tab.settings": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ayarlar"
+          }
+        }
+      }
+    },
+    "tab.today": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bugün"
+          }
+        }
+      }
+    },
+    "today.empty": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No word for today yet."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bugünün kelimesi henüz hazır değil."
+          }
+        }
+      }
+    },
+    "widget.description": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today's word and its short meaning."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Günün kelimesi ve kısa anlamı."
+          }
+        }
+      }
+    },
+    "widget.title": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Word of the Day"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Günün Kelimesi"
+          }
         }
       }
     }
   },
-  "version" : "1.0"
+  "version": "1.0"
 }

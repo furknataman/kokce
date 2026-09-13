@@ -1,37 +1,26 @@
 import SwiftUI
 import KokenKit
 
-/// Bugün sekmesi. Faz 4'te tam kart (yolculuk, tanıklık, akrabalar, paylaş)
-/// buraya gelecek; şimdilik günün kelimesi adı ve kısa anlamı.
+/// Bugün sekmesi: günün kelimesinin tam künyesi. Görünümün kendisi Sözlük ile
+/// ortaktır; buradaki tek fark kartın üstündeki gün satırıdır.
 struct TodayView: View {
+
     @Environment(AppModel.self) private var model
+    /// Akraba kelime çiplerinden açılan maddeler bu yığına biner.
+    @State private var path: [Word] = []
 
     var body: some View {
-        NavigationStack {
-            ScrollView {
+        NavigationStack(path: $path) {
+            Group {
                 if let word = model.todayWord {
-                    VStack(alignment: .leading, spacing: 12) {
-                        if let origin = model.languageName(word.originLanguage) {
-                            Text(origin)
-                                .font(.footnote.weight(.medium))
-                                .foregroundStyle(Theme.inkSoft)
-                        }
-                        Text(word.word)
-                            .font(.kokenWord())
-                            .foregroundStyle(Theme.ink)
-                        Text(word.shortMeaning)
-                            .font(.body)
-                            .foregroundStyle(Theme.inkSoft)
-                    }
-                    .kokenCard()
-                    .padding(20)
+                    WordDetailView(word: word, day: .now)
                 } else {
                     ContentUnavailableView("today.empty", systemImage: "book.closed")
-                        .padding(.top, 80)
+                        .kokenBackground()
+                        .navigationTitle("tab.today")
                 }
             }
-            .kokenBackground()
-            .navigationTitle("tab.today")
+            .navigationDestination(for: Word.self) { WordDetailView(word: $0) }
         }
     }
 }
