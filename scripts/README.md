@@ -58,6 +58,7 @@ python3 scripts/fetch_sources.py --only kalem,yüz # tek tek
 python3 scripts/fetch_sources.py --force          # var olanları yenile
 python3 scripts/fetch_sources.py --index-only     # yalnızca özeti yeniden üret
 python3 scripts/fetch_sources.py --kubbealti-only # yalnızca eksikler için Kubbealtı
+python3 scripts/fetch_sources.py --refetch-missing # kaynaksız kalanları yeniden dene
 ```
 
 Her kelime bir kez çekilir, `scripts/sources/<id>.json` olarak saklanır, var
@@ -79,7 +80,13 @@ olan dosya `--force` verilmedikçe atlanır. İstekler arası 1 saniye beklenir.
   eşleştirme şapkasız yapılır ve ek maddeleri elenir. Saklananlar: köken
   satırı, dil kısaltması, ilk anlam, madde bağlantısı.
 - **TDK:** `gts?ara=<kelime>`; bulunursa dizi, bulunmazsa hata nesnesi döner.
-  Saklananlar: `lisan` ve ilk 3 anlam.
+  Saklananlar: `lisan` ve ilk 3 anlam. Birden çok homonim dönerse en uygunu
+  başa alınır: önce `originHint` diliyle uyuşan `lisan`, sonra madde başının
+  şapkalı yazımı (`kar` → `kâr` Farsça).
+- **Yazım varyantları:** TDK ve Kubbealtı boş dönerse şapkalı/şapkasız
+  varyantlar (`â↔a`, `î↔i`, `û↔u`) sırayla denenir, ilk dolu yanıt alınır.
+  Kubbealtı madde başındaki iç tireler eşleştirmede yok sayılır
+  (`HEM-ÂVAZ` ↔ `hemavaz`).
 - `%b %i %u` gibi biçim imleri kayıt sırasında temizlenir.
 
 Özet `scripts/sources/_index.json` dosyasındadır: hangi kelimede hangi kaynak
@@ -91,11 +98,15 @@ bulundu.
 python3 scripts/generate_batch.py --batch 1            # 1-20. kelimeler
 python3 scripts/generate_batch.py --batch 1 --dry-run  # codex çağırmaz, prompt'u basar
 python3 scripts/generate_batch.py --all                # tüm partiler, var olanları atlar
+python3 scripts/generate_batch.py --batch 3 --only çenk,tir  # partide tek tek yenile
 python3 scripts/generate_batch.py --rarity-from-wordlist      # tek seferlik onarım
 python3 scripts/generate_batch.py --fill-chain-meanings       # boş anlamları doldur
 python3 scripts/generate_batch.py --lowercase-chain-meanings  # baş harfleri küçült
 python3 scripts/generate_batch.py --normalize-relatives       # relatives null → []
 ```
+
+`--only` yalnızca adı verilen kelimeleri yeniden üretir ve sonucu var olan
+parti dosyasına id'ye göre yerinde işler; dosyadaki öbür maddeler korunur.
 
 `--lowercase-chain-meanings` bir parti dosyasındaki zincir anlamlarının
 **tamamı** büyük harfle başlıyorsa baş harfleri küçültür. Birkaçı büyükse
