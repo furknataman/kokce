@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="tr">
+<meta charset="utf-8">
+<title>Kökçe — App Store ekran görüntüleri</title>
+<!--
+  Tek dosya, harici bağımlılık yok. 5 ekran, her biri 1320x2868 (6.9").
+
+  Basmak için:  ./render.sh            → out/tr/NN-1320x2868.png
+  Tek ekran:    screenshots.html?slide=03
+
+  Ekran görüntüleri shots/01.png … shots/05.png dosyalarından gelir; içerik
+  tazelenince yalnızca o dosyalar değişir, bu sayfa aynı kalır.
+-->
+<style>
+  :root {
+    --parchment:      #FBF7EF;
+    --parchment-mid:  #F0E8D6;
+    --parchment-deep: #E2D6BC;
+    --ink:            #1A2649;
+    --ink-deep:       #0B1020;
+    --accent:         #806128; /* açık zeminde 4.5:1 tutan koyu altın */
+    --gold:           #D8B871; /* koyu zeminde kullanılan açık altın */
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+    --sans: -apple-system, "SF Pro Text", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #1b1b1d; font-family: var(--sans); }
+  body.single { background: #fff; }
+  body.single .label { display: none; }
+
+  .label {
+    color: #9a9a9e; font-size: 13px; letter-spacing: .12em; text-transform: uppercase;
+    padding: 22px 0 8px; text-align: center;
+  }
+
+  .slide { position: relative; width: 1320px; height: 2868px; overflow: hidden; }
+
+  /* ---- zeminler: parşömen → lacivert. Işık/koyu dönüşümlü, ritim için ---- */
+  .bg { position: absolute; inset: 0; }
+  .bg.light { background: linear-gradient(168deg, var(--parchment) 0%, var(--parchment-mid) 52%, var(--parchment-deep) 100%); }
+  .bg.dark  { background: linear-gradient(168deg, #24325C 0%, var(--ink) 46%, var(--ink-deep) 100%); }
+  /* Yumuşak ışık lekesi: düz gradyan fazla yassı duruyordu. */
+  .glow { position: absolute; inset: 0; }
+  .light .glow { background: radial-gradient(760px 620px at 78% 12%, rgba(255,255,255,.85), transparent 70%); }
+  .dark  .glow { background: radial-gradient(820px 660px at 22% 10%, rgba(216,184,113,.20), transparent 70%); }
+
+  /* ---- başlık bloğu ---- */
+  .caption { position: absolute; left: 96px; right: 96px; top: 180px; }
+  .eyebrow {
+    margin: 0 0 26px; font-size: 37px; font-weight: 600;
+    letter-spacing: .2em; text-transform: uppercase;
+  }
+  h1 {
+    margin: 0; font-family: var(--serif); font-weight: 700;
+    font-size: 116px; line-height: 1.02; letter-spacing: -.01em;
+  }
+  .sub { margin: 34px 0 0; font-size: 44px; line-height: 1.35; font-weight: 400; }
+
+  .light .eyebrow { color: var(--accent); }
+  .light h1       { color: var(--ink); }
+  .light .sub     { color: #4A5570; }
+  .dark .eyebrow  { color: var(--gold); }
+  .dark h1        { color: #F4F1EA; }
+  .dark .sub      { color: #B9C2D8; }
+
+  /* ---- cihaz çerçevesi (saf CSS) ---- */
+  .phone {
+    position: absolute; left: 50%; transform: translateX(-50%);
+    width: 1000px; padding: 17px; border-radius: 112px;
+    background: linear-gradient(155deg, #4A4F5E 0%, #171A22 38%, #0A0C12 100%);
+    box-shadow:
+      0 70px 130px rgba(8, 12, 26, .45),
+      0 10px 30px rgba(8, 12, 26, .30),
+      inset 0 0 0 2px rgba(255, 255, 255, .10);
+  }
+  .phone .screen {
+    position: relative; border-radius: 95px; overflow: hidden;
+    background: #000; aspect-ratio: 1206 / 2622;
+  }
+  .phone img { display: block; width: 100%; }
+  /* Dynamic Island: shots/*.png gerçek cihaz yakalaması olduğu için ada
+     zaten görüntünün içinde. Durum çubuğu olmayan bir yer tutucu konursa
+     .phone öğesine "has-island" sınıfı eklemek yeter. */
+  .island {
+    display: none; position: absolute; z-index: 2;
+    top: 33px; left: 50%; transform: translateX(-50%);
+    width: 252px; height: 74px; border-radius: 40px; background: #000;
+  }
+  .phone.has-island .island { display: block; }
+
+  /* Telefon alttan kadraj dışına taşar: dikkat üst yarıdaki içerikte kalır. */
+  .phone.low  { top: 1010px; }
+  .phone.mid  { top:  940px; }
+  .phone.high { top:  880px; }
+</style>
+
+<body>
+
+<p class="label">01 — Bugün</p>
+<section class="slide" data-slide="01">
+  <div class="bg light"><div class="glow"></div></div>
+  <div class="caption">
+    <p class="eyebrow">Bugün</p>
+    <h1>Her gün bir<br>kelimenin hikâyesi</h1>
+    <p class="sub">Kökeni, yolculuğu, bugünkü anlamı.</p>
+  </div>
+  <div class="phone low"><div class="screen"><div class="island"></div><img src="shots/01.png" alt=""></div></div>
+</section>
+
+<p class="label">02 — Yolculuk</p>
+<section class="slide" data-slide="02">
+  <div class="bg dark"><div class="glow"></div></div>
+  <div class="caption">
+    <p class="eyebrow">Yolculuk</p>
+    <h1>Kökten bugüne,<br>adım adım</h1>
+    <p class="sub">Kelimenin geçtiği her dili görün.</p>
+  </div>
+  <div class="phone mid"><div class="screen"><div class="island"></div><img src="shots/02.png" alt=""></div></div>
+</section>
+
+<p class="label">03 — Widget</p>
+<section class="slide" data-slide="03">
+  <div class="bg light"><div class="glow"></div></div>
+  <div class="caption">
+    <p class="eyebrow">Widget</p>
+    <h1>Ana ekranında<br>günün kelimesi</h1>
+    <p class="sub">Uygulamayı açmanıza gerek yok.</p>
+  </div>
+  <div class="phone high"><div class="screen"><div class="island"></div><img src="shots/03.png" alt=""></div></div>
+</section>
+
+<p class="label">04 — Sözlük</p>
+<section class="slide" data-slide="04">
+  <div class="bg dark"><div class="glow"></div></div>
+  <div class="caption">
+    <p class="eyebrow">Sözlük</p>
+    <h1>500+ kelime,<br>kaynaklı</h1>
+    <p class="sub">Her maddede kullanılan kaynaklar açık.</p>
+  </div>
+  <div class="phone mid"><div class="screen"><div class="island"></div><img src="shots/04.png" alt=""></div></div>
+</section>
+
+<p class="label">05 — Az bilinen</p>
+<section class="slide" data-slide="05">
+  <div class="bg light"><div class="glow"></div></div>
+  <div class="caption">
+    <p class="eyebrow">Az bilinen</p>
+    <h1>Türkçeni<br>zenginleştir</h1>
+    <p class="sub">Az bilinen kelimeler kipini açın.</p>
+  </div>
+  <div class="phone low"><div class="screen"><div class="island"></div><img src="shots/05.png" alt=""></div></div>
+</section>
+
+<script>
+  // ?slide=03 → yalnızca o ekran, tam boyutta. Headless Chrome bunu basar.
+  var want = new URLSearchParams(location.search).get('slide');
+  if (want) {
+    document.body.className = 'single';
+    document.querySelectorAll('.slide').forEach(function (el) {
+      if (el.dataset.slide !== want) el.remove();
+    });
+    document.querySelectorAll('.label').forEach(function (el) { el.remove(); });
+  }
+</script>
+</body>
+</html>

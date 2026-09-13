@@ -48,18 +48,27 @@ final class NotificationScheduler {
                     now: Date = .now) async {
         center.removeAllPendingNotificationRequests()
 
-        let calendar = WordOfDay.calendar
+        // Bildirim saati CİHAZIN yerel saatine göre kurulur: kullanıcı nerede
+        // olursa olsun seçtiği saatte çalar. Hangi kelimenin düşeceği ayrı bir
+        // sorudur ve `WordOfDay` içinde İstanbul gününe göre yanıtlanır, yani
+        // takvim saat diliminden etkilenmez.
+        let calendar = Calendar.current
         let today = calendar.startOfDay(for: now)
         var scheduled = 0
 
         for offset in 0..<Self.lookahead where scheduled < Self.pendingLimit {
+            // Uzun döngü sırasında iş iptal edilmiş olabilir; yarım kuyruk
+            // bırakmamak için her adımda bakılır.
+            if Task.isCancelled { return }
             guard let day = calendar.date(byAdding: .day, value: offset, to: today),
                   let fire = calendar.date(bySettingHour: hour, minute: minute, second: 0, of: day),
                   // Bugünün saati geçtiyse o gün atlanır.
                   fire > now,
-                  let word = WordOfDay.word(for: day, in: catalog, mode: mode) else { continue }
+                  // Kelime, bildirimin çalacağı ana karşılık gelen İstanbul
+                  // gününden okunur.
+                  let word = WordOfDay.word(for: fire, in: catalog, mode: mode) else { continue }
 
-            let request = UNNotificationRequest(identifier: Self.identifier(for: day, calendar: calendar),
+            let request = UNNotificationRequest(identifier: Self.identifier(for: fire, calendar: calendar),
                                                 content: content(for: word),
                                                 trigger: Self.trigger(at: fire, calendar: calendar))
             try? await center.add(request)
@@ -76,19 +85,19 @@ final class NotificationScheduler {
         return content
     }
 
-    /// `wod-YYYY-MM-DD`. Biçimlendirici yerine elle kurulur: yerel ayardan ve
-    /// takvim seçiminden etkilenmez.
+    /// `wod-YYYY-MM-DD` — bildirimin çalacağı yerel gün. Biçimlendirici yerine
+    /// elle kurulur: yerel ayardan ve takvim seçiminden etkilenmez.
     private static func identifier(for day: Date, calendar: Calendar) -> String {
         let parts = calendar.dateComponents([.year, .month, .day], from: day)
         return String(format: "wod-%04d-%02d-%02d",
                       parts.year ?? 0, parts.month ?? 0, parts.day ?? 0)
     }
 
-    /// Saat dilimi İstanbul'a sabitlenir: kullanıcı yurt dışındayken de
-    /// bildirim, o günün kelimesiyle aynı güne düşer.
+    /// Saat dilimi bilinçli olarak boş bırakılır: bileşenler cihazın o anki
+    /// takvimine göre yorumlanır, böylece kullanıcı saat dilimi değiştirse de
+    /// bildirim yine seçtiği yerel saatte çalar.
     private static func trigger(at date: Date, calendar: Calendar) -> UNCalendarNotificationTrigger {
-        var parts = calendar.dateComponents([.year, .month, .day, .hour, .minute], from: date)
-        parts.timeZone = WordOfDay.timeZone
+        let parts = calendar.dateComponents([.year, .month, .day, .hour, .minute], from: date)
         return UNCalendarNotificationTrigger(dateMatching: parts, repeats: false)
     }
 }

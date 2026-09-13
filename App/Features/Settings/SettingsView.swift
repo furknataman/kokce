@@ -12,7 +12,8 @@ struct SettingsView: View {
     @Environment(AppModel.self) private var model
     @Environment(\.requestReview) private var requestReview
 
-    private static let repositoryURL = URL(string: "https://github.com/solvyapp/kokce")!
+    private static let repositoryURL = URL(string: "https://github.com/furknataman/kokce")!
+    private static let privacyURL = URL(string: "https://github.com/furknataman/kokce/blob/main/PRIVACY.md")!
     private static let systemSettingsURL = URL(string: UIApplication.openSettingsURLString)!
 
     var body: some View {
@@ -88,6 +89,7 @@ struct SettingsView: View {
             LabeledContent("settings.licenses") { Text("settings.licenses.value") }
             LabeledContent("settings.version") { Text(appVersion) }
             Link("settings.github", destination: Self.repositoryURL)
+            Link("settings.privacy", destination: Self.privacyURL)
             Button("settings.rate") {
                 requestReview()
                 // Elle verilen puan da bekleme süresini başlatır; otomatik

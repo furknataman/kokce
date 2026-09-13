@@ -24,9 +24,18 @@ final class DailyNotifications {
     /// İzin reddedildiyse Ayarlar, sistem ayarlarına götüren bir satır gösterir.
     private(set) var isDenied = false
 
+    /// Kullanıcının en son istediği durum. Toggle'ın kendisi izin diyaloğu
+    /// açıkken değişebildiği için karar, izin dönüşünde bu alandan okunur.
+    private var desiredEnabled = false
+    /// Süren planlama işi. Planlama "hepsini sil, tek tek ekle" adımlarından
+    /// oluşur; örtüşen iki çağrı bu adımları birbirine karıştırıp yarım kuyruk
+    /// bırakıyordu. Tüm işler tek zincirde sırayla koşar.
+    private var work: Task<Void, Never>?
+
     init(preferences: UserDefaults = .standard) {
         self.preferences = preferences
         isEnabled = preferences.bool(forKey: Self.enabledKey)
+        desiredEnabled = isEnabled
         // Hiç yazılmamışsa varsayılan 09:00 kalır; `integer(forKey:)` yazılmamış
         // anahtar için 0 döndürür ve saat gece yarısına kayardı.
         if preferences.object(forKey: Self.hourKey) != nil {
@@ -38,17 +47,20 @@ final class DailyNotifications {
     /// Toggle'ın karşılığı. Açılırken izin istenir; kullanıcı reddederse ayar
     /// açık kalmaz ve `isDenied` ile sistem ayarları satırı çıkar.
     func setEnabled(_ enabled: Bool, catalog: WordCatalog?, mode: WordOfDayMode) async {
+        desiredEnabled = enabled
         guard enabled else {
-            isEnabled = false
-            isDenied = false
-            preferences.set(false, forKey: Self.enabledKey)
-            scheduler.cancelAll()
+            store(enabled: false, denied: false)
+            await enqueue { $0.cancelAll() }
             return
         }
         let granted = await scheduler.requestAuthorization()
-        isEnabled = granted
-        isDenied = !granted
-        preferences.set(granted, forKey: Self.enabledKey)
+        // İzin diyaloğu beklenirken kullanıcı vazgeçmiş olabilir: karar, o anki
+        // istekle verilir, diyaloğa girilen anki istekle değil.
+        guard desiredEnabled else {
+            await enqueue { $0.cancelAll() }
+            return
+        }
+        store(enabled: granted, denied: !granted)
         await refresh(catalog: catalog, mode: mode)
     }
 
@@ -65,19 +77,39 @@ final class DailyNotifications {
     /// değişiminde çağrılır.
     func refresh(catalog: WordCatalog?, mode: WordOfDayMode) async {
         guard isEnabled, let catalog else {
-            scheduler.cancelAll()
+            await enqueue { $0.cancelAll() }
             return
         }
         // İzin sistem ayarlarından geri alınmış olabilir.
         guard await scheduler.isAuthorized() else {
-            isEnabled = false
-            isDenied = true
-            preferences.set(false, forKey: Self.enabledKey)
-            scheduler.cancelAll()
+            store(enabled: false, denied: true)
+            await enqueue { $0.cancelAll() }
             return
         }
         isDenied = false
-        await scheduler.reschedule(catalog: catalog, mode: mode, hour: hour, minute: minute)
+        let hour = hour, minute = minute
+        await enqueue { scheduler in
+            await scheduler.reschedule(catalog: catalog, mode: mode, hour: hour, minute: minute)
+        }
+    }
+
+    private func store(enabled: Bool, denied: Bool) {
+        isEnabled = enabled
+        isDenied = denied
+        preferences.set(enabled, forKey: Self.enabledKey)
+    }
+
+    /// İşi zincirin sonuna ekler ve sırası gelip bitene kadar bekler.
+    private func enqueue(_ operation: @escaping @Sendable @MainActor (NotificationScheduler) async -> Void) async {
+        let previous = work
+        let scheduler = scheduler
+        let task = Task { @MainActor in
+            await previous?.value
+            guard !Task.isCancelled else { return }
+            await operation(scheduler)
+        }
+        work = task
+        await task.value
     }
 
     /// Bekleyen bildirim sayısı; doğrulama ve teşhis için.
