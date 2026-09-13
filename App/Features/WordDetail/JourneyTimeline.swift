@@ -1,8 +1,9 @@
 import SwiftUI
 import KokenKit
 
-/// Kelimenin yolculuğu: her adımda dil, biçim ve anlam. Dikey ray, satır
-/// yüksekliğine uyduğu için Dynamic Type büyüdüğünde de adımları bağlı tutar.
+/// Kelimenin yolculuğu, eskiden yeniye: en üstte zincirin en eski dili, en
+/// altta Türkçe. Adımlar numaralıdır ve aralarındaki çizgi yönlüdür, böylece
+/// hangi biçimin hangisinden geldiği okunmadan görülür.
 struct JourneyTimeline: View {
 
     @Environment(AppModel.self) private var model
@@ -13,6 +14,8 @@ struct JourneyTimeline: View {
             ForEach(Array(steps.enumerated()), id: \.offset) { index, step in
                 StepRow(step: step,
                         language: model.languageName(step.language) ?? step.language,
+                        number: index + 1,
+                        isFirst: index == 0,
                         isLast: index == steps.count - 1)
             }
         }
@@ -20,45 +23,71 @@ struct JourneyTimeline: View {
 }
 
 /// Zaman çizelgesinin tek adımı. VoiceOver satırı tek parça okur; ayrı ayrı
-/// gezilen dil/biçim/anlam parçaları bağlamsız kalıyordu.
+/// gezilen numara/dil/biçim parçaları bağlamsız kalıyordu.
 private struct StepRow: View {
+
+    /// Numara dairesi yazıyla birlikte büyür, yoksa büyük puntoda rakam taşar.
+    @ScaledMetric(relativeTo: .caption2) private var markerSize: CGFloat = 24
 
     let step: ChainStep
     let language: String
+    let number: Int
+    let isFirst: Bool
     let isLast: Bool
 
     var body: some View {
         HStack(alignment: .top, spacing: 14) {
             rail
-            content.padding(.bottom, isLast ? 0 : 18)
+            content.padding(.bottom, isLast ? 0 : 20)
         }
         .accessibilityElement(children: .ignore)
         .accessibilityLabel(accessibilityLabel)
     }
 
-    /// Nokta ve onu bir sonraki adıma bağlayan çizgi. Çizgi esnek yükseklikte
-    /// olduğu için satır ne kadar uzarsa ray da o kadar uzar.
+    /// Numaralı daire ve bir sonraki adıma inen yönlü çizgi. Çizgi esnek
+    /// yükseklikte olduğu için satır uzadıkça ray da uzar.
     private var rail: some View {
         VStack(spacing: 0) {
-            Circle()
-                .fill(Theme.accent)
-                .frame(width: 9, height: 9)
-                .padding(.top, 6)
-            if !isLast {
-                Rectangle()
-                    .fill(Theme.border)
-                    .frame(width: 1)
-                    .frame(maxHeight: .infinity)
+            ZStack {
+                Circle().fill(Theme.accent)
+                Text("\(number)")
+                    .font(.caption2.weight(.bold))
+                    .foregroundStyle(Theme.parchment)
             }
+            .frame(width: markerSize, height: markerSize)
+            if !isLast { connector }
         }
-        .frame(width: 9)
+        .frame(width: markerSize)
+    }
+
+    private var connector: some View {
+        ZStack(alignment: .bottom) {
+            Rectangle()
+                .fill(Theme.border)
+                .frame(width: 1)
+                .frame(maxHeight: .infinity)
+            Image(systemName: "arrowtriangle.down.fill")
+                .font(.system(size: 7))
+                .foregroundStyle(Theme.border)
+        }
+        .padding(.vertical, 3)
     }
 
     private var content: some View {
         VStack(alignment: .leading, spacing: 3) {
-            Text(language)
-                .font(.caption.weight(.semibold))
-                .foregroundStyle(Theme.inkSoft)
+            HStack(spacing: 6) {
+                Text(language)
+                    .font(.caption.weight(.semibold))
+                    .foregroundStyle(Theme.inkSoft)
+                if let marker {
+                    Text(marker)
+                        .font(.caption2.weight(.semibold))
+                        .foregroundStyle(Theme.accent)
+                        .padding(.horizontal, 6)
+                        .padding(.vertical, 2)
+                        .background(Theme.parchment, in: Capsule())
+                }
+            }
             Text(displayForm)
                 .font(.system(.title3, design: .serif).italic())
                 .foregroundStyle(Theme.ink)
@@ -79,6 +108,14 @@ private struct StepRow: View {
         .frame(maxWidth: .infinity, alignment: .leading)
     }
 
+    /// İlk adım kökeni, son adım bugünkü biçimi işaretler; arası etiketsizdir.
+    /// Tek adımlık zincirde "Bugün" kazanır: o biçim hâlâ kullanılandır.
+    private var marker: String? {
+        if isLast { return String(localized: "detail.timeline.today") }
+        if isFirst { return String(localized: "detail.timeline.origin") }
+        return nil
+    }
+
     /// Yeniden kurulmuş biçimler dil biliminde yıldızla yazılır.
     private var displayForm: String {
         step.reconstructed ? "*" + step.form : step.form
@@ -87,7 +124,10 @@ private struct StepRow: View {
     /// Yıldız sesli okumada "star" diye okunur; etikete biçimin çıplak hâli
     /// girer, yeniden kurulmuşluk ayrı bir cümleyle söylenir.
     private var accessibilityLabel: String {
-        var parts = [language, step.form, step.meaning]
+        var parts = [String(format: String(localized: "detail.timeline.step"), number), language]
+        if let marker { parts.append(marker) }
+        parts.append(step.form)
+        parts.append(step.meaning)
         if let period = step.period { parts.append(period) }
         if step.reconstructed { parts.append(String(localized: "detail.reconstructed")) }
         return parts.joined(separator: ", ")

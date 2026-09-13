@@ -1,5 +1,6 @@
 import Foundation
 import Observation
+import WidgetKit
 import KokenKit
 
 /// Arayüzün tek durum kaynağı. Depoyu sarar; dosya ve ağ işi actor'da kalır.
@@ -34,6 +35,10 @@ final class AppModel {
     /// Köken dili çipleri; katalogla birlikte bir kez hesaplanır.
     private(set) var originChips: [OriginChip] = []
 
+    /// Gösterilen günün başlangıcı (Europe/Istanbul). Gün dönünce ve uygulama
+    /// öne gelince tazelenir; günün kelimesi ile tarih başlığı bunu okur.
+    private(set) var today: Date = WordOfDay.calendar.startOfDay(for: .now)
+
     var selectedTab: Tab = .today
     /// Sözlük sekmesinin gezinme yığını. Deep link buraya yazar.
     var dictionaryPath: [Word] = []
@@ -44,6 +49,9 @@ final class AppModel {
     private(set) var favoriteIDs: Set<String> = []
     /// Uzak katalogun son yoklanma zamanı; Ayarlar ekranı gösterir.
     private(set) var lastCheckedAt: Date?
+    /// Katalog yüklenmeden gelen deep link'in kimliği. Soğuk açılışta
+    /// `onOpenURL`, `load()` bitmeden gelebilir; kimlik atılmaz, burada bekler.
+    private var pendingWordID: String?
 
     init(repository: WordRepository? = nil) {
         // Gömülü katalog her iki hedefin bundle'ındadır; yoksa uygulama
@@ -53,7 +61,7 @@ final class AppModel {
 
     var todayWord: Word? {
         guard let catalog else { return nil }
-        return WordOfDay.word(for: .now, in: catalog)
+        return WordOfDay.word(for: today, in: catalog)
     }
 
     var contentVersion: Int? { catalog?.contentVersion }
@@ -73,6 +81,8 @@ final class AppModel {
         originFilter != nil || showFavoritesOnly
     }
 
+    // MARK: - Yükleme
+
     func load() async {
         guard let repository else {
             failedToLoad = true
@@ -84,9 +94,18 @@ final class AppModel {
             failedToLoad = true
         }
         favoriteIDs = Set(favorites.ids)
-        // Günde bir kez uzak dosyayı yoklar; hata sessizce yutulur.
+        resolvePendingDeepLink()
+        await refreshContent()
+    }
+
+    /// Uzak katalogu yoklar. Depo zaten günde bir kez ağa çıktığı için her
+    /// öne gelişte çağrılması güvenlidir.
+    func refreshContent() async {
+        guard let repository else { return }
         if await repository.refreshIfNeeded(), let fresh = try? await repository.catalog() {
             apply(fresh)
+            // İçerik değişti: widget'lar eski kelimeyi göstermesin.
+            WidgetCenter.shared.reloadAllTimelines()
         }
         lastCheckedAt = WordRepository.lastCheckedAt()
     }
@@ -115,6 +134,34 @@ final class AppModel {
             }
     }
 
+    // MARK: - Gün dönümü
+
+    /// Gün değiştiyse durumu tazeler. Sahne öne gelince ve gece yarısında
+    /// çağrılır; gün aynıysa hiçbir şey yapmaz.
+    func refreshDay(now: Date = .now) {
+        let start = WordOfDay.calendar.startOfDay(for: now)
+        guard start != today else { return }
+        today = start
+        WidgetCenter.shared.reloadAllTimelines()
+    }
+
+    /// İstanbul gece yarısına kadar bekler, günü çevirir, yeniden bekler.
+    /// Uygulama arka plandayken `Task.sleep` ilerlemez; o boşluğu sahnenin
+    /// `.active` olmasıyla gelen `refreshDay()` kapatır.
+    func watchDayChange() async {
+        while !Task.isCancelled {
+            let next = WordOfDay.calendar.date(byAdding: .day, value: 1, to: today)
+                ?? Date.now.addingTimeInterval(3600)
+            // Alt sınır, saat geri alındığında döngünün boşa dönmesini önler.
+            let seconds = max(1, next.timeIntervalSince(.now))
+            try? await Task.sleep(for: .seconds(seconds))
+            if Task.isCancelled { return }
+            refreshDay()
+        }
+    }
+
+    // MARK: - Favoriler ve köken
+
     func isFavorite(_ word: Word) -> Bool {
         favoriteIDs.contains(word.id)
     }
@@ -132,26 +179,31 @@ final class AppModel {
         return catalog.languageName(code)
     }
 
-    /// Rozette ve paylaşım metninde geçen köken dilleri: kelimeyi aktaran dil
-    /// ve ondan farklıysa zincirin en eski dili.
+    /// Köken yolu, **eskiden yeniye**: zincirin en eski dili → kelimeyi
+    /// aktaran dil → Türkçe.
     ///
-    /// `Word.originLanguage` ikisini tek koda indirger; rozet "Arapça ← Eski
-    /// Yunanca" diyebilmek için ikisini ayrı ayrı okur. İkisi aynıysa ok
-    /// gösterilmez, yoksa "Farsça ← Farsça" gibi bir rozet çıkar.
-    func origin(for word: Word) -> (donor: String, ultimate: String?)? {
-        guard let donorCode = word.originLanguage,
-              let donorName = languageName(donorCode) else { return nil }
-        guard let ultimateCode = word.ultimateOrigin,
-              ultimateCode != donorCode,
-              let ultimateName = languageName(ultimateCode) else { return (donorName, nil) }
-        return (donorName, ultimateName)
+    /// Okuma yönü kasıtlı olarak kronolojiktir; ok kelimenin gittiği yönü
+    /// gösterir. Aynı dil arka arkaya gelirse ("Farsça → Farsça") bir kez
+    /// yazılır. `Word.originLanguage` iki alanı tek koda indirgediği için
+    /// burada alanlar ayrı ayrı okunur.
+    func originPath(for word: Word) -> [String] {
+        var codes: [String] = []
+        if let ultimate = word.ultimateOrigin { codes.append(ultimate) }
+        if let donor = word.donorLanguage { codes.append(donor) }
+        if codes.isEmpty, let fallback = word.originLanguage { codes.append(fallback) }
+        codes.append("tr")
+
+        var path: [String] = []
+        for code in codes where path.last != code {
+            path.append(code)
+        }
+        return path.compactMap { languageName($0) }
     }
 
-    /// Rozet ve paylaşım metni için tek satırlık köken özeti.
+    /// Rozet ve paylaşım metni için tek satırlık köken yolu.
     func originText(for word: Word) -> String? {
-        guard let origin = origin(for: word) else { return nil }
-        guard let ultimate = origin.ultimate else { return origin.donor }
-        return "\(origin.donor) ← \(ultimate)"
+        let path = originPath(for: word)
+        return path.isEmpty ? nil : path.joined(separator: " → ")
     }
 
     /// Paylaşılan düz metin. Biçim dizesi katalogdan gelir, metin kaynak
@@ -169,14 +221,34 @@ final class AppModel {
         wordsByName[relative.word.lowercased(with: Self.turkish)]
     }
 
-    /// `koken://word/<id>` — bilinmeyen kimlik Bugün sekmesine düşer.
-    ///
+    // MARK: - Deep link
+
+    /// `kokce://word/<id>` — bilinmeyen kimlik Bugün sekmesine düşer.
+    func open(_ url: URL) {
+        guard let id = DeepLink.wordID(from: url) else {
+            fallBackToToday()
+            return
+        }
+        // Soğuk açılışta katalog henüz yüklenmemiş olabilir. Kimlik atılmaz;
+        // `load()` bitince çözülür ve sekme o zaman değişir.
+        guard catalog != nil else {
+            pendingWordID = id
+            return
+        }
+        show(id: id)
+    }
+
+    private func resolvePendingDeepLink() {
+        guard let id = pendingWordID else { return }
+        pendingWordID = nil
+        show(id: id)
+    }
+
     /// Açılan madde filtrelenmiş bir listenin ardında kalmasın diye arama ve
     /// filtreler temizlenir.
-    func open(_ url: URL) {
-        guard let id = DeepLink.wordID(from: url), let word = catalog?.word(id: id) else {
-            dictionaryPath = []
-            selectedTab = .today
+    private func show(id: String) {
+        guard let word = catalog?.word(id: id) else {
+            fallBackToToday()
             return
         }
         searchText = ""
@@ -184,5 +256,11 @@ final class AppModel {
         showFavoritesOnly = false
         dictionaryPath = [word]
         selectedTab = .dictionary
+    }
+
+    private func fallBackToToday() {
+        pendingWordID = nil
+        dictionaryPath = []
+        selectedTab = .today
     }
 }

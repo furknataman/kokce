@@ -62,11 +62,11 @@ private struct WordRow: View {
             ViewThatFits(in: .horizontal) {
                 HStack(alignment: .firstTextBaseline, spacing: 8) {
                     title
-                    badge
+                    badges
                 }
                 VStack(alignment: .leading, spacing: 4) {
                     title
-                    badge
+                    badges
                 }
             }
             Text(word.shortMeaning)
@@ -82,16 +82,18 @@ private struct WordRow: View {
             .foregroundStyle(Theme.ink)
     }
 
-    @ViewBuilder
-    private var badge: some View {
-        if let origin = model.originText(for: word) {
-            Text(origin)
-                .font(.caption2)
-                .foregroundStyle(Theme.inkSoft)
-                .lineLimit(1)
-                .padding(.horizontal, 7)
-                .padding(.vertical, 2)
-                .background(Theme.parchmentDeep, in: Capsule())
+    private var badges: some View {
+        HStack(spacing: 6) {
+            if let origin = model.originText(for: word) {
+                Text(origin)
+                    .font(.caption2)
+                    .foregroundStyle(Theme.inkSoft)
+                    .lineLimit(1)
+                    .padding(.horizontal, 7)
+                    .padding(.vertical, 2)
+                    .background(Theme.parchmentDeep, in: Capsule())
+            }
+            RarityBadge(word: word, background: Theme.parchmentDeep)
         }
     }
 }

@@ -38,29 +38,29 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Origin: %1$@, earliest source: %2$@"
+            "value": "Origin path: %1$@"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Köken: %1$@, en eski kaynak: %2$@"
+            "value": "Köken yolu: %1$@"
           }
         }
       }
     },
-    "detail.badge.a11y.single": {
+    "detail.badge.a11y.separator": {
       "localizations": {
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Origin: %1$@"
+            "value": ", then "
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Köken: %1$@"
+            "value": ", sonra "
           }
         }
       }
@@ -221,6 +221,54 @@
           "stringUnit": {
             "state": "translated",
             "value": "Hikâye"
+          }
+        }
+      }
+    },
+    "detail.timeline.origin": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Origin"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Köken"
+          }
+        }
+      }
+    },
+    "detail.timeline.step": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Step %1$d"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$d. adım"
+          }
+        }
+      }
+    },
+    "detail.timeline.today": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bugün"
           }
         }
       }
@@ -653,6 +701,22 @@
           "stringUnit": {
             "state": "translated",
             "value": "Günün Kelimesi"
+          }
+        }
+      }
+    },
+    "word.rarity.rare": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lesser known"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Az bilinen"
           }
         }
       }

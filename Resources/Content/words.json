@@ -91,7 +91,8 @@
         }
       ],
       "confidence": "yüksek",
-      "reviewed": true
+      "reviewed": true,
+      "rarity": "gündelik"
     },
     {
       "id": "pencere",
@@ -152,7 +153,8 @@
         }
       ],
       "confidence": "orta",
-      "reviewed": true
+      "reviewed": true,
+      "rarity": "gündelik"
     },
     {
       "id": "çay",
@@ -219,7 +221,8 @@
         }
       ],
       "confidence": "yüksek",
-      "reviewed": true
+      "reviewed": true,
+      "rarity": "gündelik"
     }
   ]
 }

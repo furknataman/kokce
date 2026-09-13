@@ -15,7 +15,7 @@ struct SettingsView: View {
     @AppStorage("notifications.minute") private var notificationMinute = 0
 
     private let scheduler: any NotificationScheduler = InactiveNotificationScheduler()
-    private static let repositoryURL = URL(string: "https://github.com/solvyapp/koken")!
+    private static let repositoryURL = URL(string: "https://github.com/solvyapp/kokce")!
 
     var body: some View {
         NavigationStack {

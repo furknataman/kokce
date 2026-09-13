@@ -53,7 +53,10 @@ struct WordDetailView: View {
                     .font(.subheadline.weight(.medium))
                     .foregroundStyle(Theme.accent)
             }
-            OriginBadge(word: word)
+            FlowLayout(spacing: 8) {
+                OriginBadge(word: word)
+                RarityBadge(word: word)
+            }
             Text(word.word)
                 .font(.kokenWord())
                 .foregroundStyle(Theme.ink)
