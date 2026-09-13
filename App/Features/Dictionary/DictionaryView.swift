@@ -16,9 +16,11 @@ struct DictionaryView: View {
             }
             .kokenBackground()
             .navigationTitle("tab.dictionary")
-            .searchable(text: $model.searchText, prompt: Text("dictionary.search"))
             .navigationDestination(for: Word.self) { WordDetailView(word: $0) }
         }
+        // Arama alanı yığının çubuğuna aittir. İçerideki VStack'e takılınca
+        // büyük yazı boylarında çubukta yer kalmıyor ve alan hiç çizilmiyordu.
+        .searchable(text: $model.searchText, prompt: Text("dictionary.search"))
     }
 
     @ViewBuilder
