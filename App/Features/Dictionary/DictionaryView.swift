@@ -20,7 +20,10 @@ struct DictionaryView: View {
         }
         // Arama alanı yığının çubuğuna aittir. İçerideki VStack'e takılınca
         // büyük yazı boylarında çubukta yer kalmıyor ve alan hiç çizilmiyordu.
-        .searchable(text: $model.searchText, prompt: Text("dictionary.search"))
+        // `.always`: liste kayınca alan gizlenmez.
+        .searchable(text: $model.searchText,
+                    placement: .navigationBarDrawer(displayMode: .always),
+                    prompt: Text("dictionary.search"))
     }
 
     @ViewBuilder

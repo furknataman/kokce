@@ -82,6 +82,16 @@ struct WordSearchTests {
         #expect(WordSearch.matches(kalem, query: "kalemti"))
     }
 
+    @Test("Tam eşleşen kelime en üstte")
+    func ranksExactMatchFirst() {
+        let words = [
+            Fixtures.word(id: "kalemtıraş"),
+            Fixtures.word(id: "kalem")
+        ]
+        #expect(WordSearch.filter(words, query: "kalem").map(\.id) == ["kalem", "kalemtıraş"])
+        #expect(WordSearch.filter(words).map(\.id) == ["kalemtıraş", "kalem"])
+    }
+
     @Test("Köken dili filtresi ve favoriler birlikte çalışır")
     func filtersByOriginAndFavorites() {
         let words = [

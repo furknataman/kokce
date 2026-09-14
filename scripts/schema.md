@@ -31,7 +31,7 @@ Anahtar sırası yukarıdaki gibidir (`sort_keys` kullanılmaz).
 
 | Alan | Tip | Açıklama |
 |---|---|---|
-| `start` | string | `YYYY-MM-DD`. İlk kelimenin gösterileceği gün. Varsayılan `"2026-10-01"`. Bir kez belirlenir, **değiştirilmez**. |
+| `start` | string | `YYYY-MM-DD`. İlk kelimenin gösterileceği gün. Yayındaki değer `"2026-09-14"` (ilk yayından önce 1 Ekim'den bir kez çekildi; önceki günler ilk kelimeye sabitlendiği için widget her gün aynı kelimeyi gösteriyordu). Artık **değiştirilmez**. |
 | `ids` | dizi | Benzersiz kelime id'leri. `words` içindeki id kümesine **eşit** olmalıdır. Sıra korunur; yeni id'ler yalnızca **sona** eklenir, `rarity` değerine göre dönüşümlü serpiştirilerek. |
 
 Günün kelimesi: `index = gün_farkı(start, bugün) % ids.count`, takvim Gregoryen,

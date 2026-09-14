@@ -31,11 +31,19 @@ public enum WordSearch {
     /// dışarıda: ikisi de "kal" aramasına "sandalye", "nabız", "akıl" gibi
     /// alakasız maddeleri sokuyordu. Kullanıcı kelimeyi baştan yazar.
     public static func matches(_ word: Word, query: String) -> Bool {
+        rank(word, query: query) != nil
+    }
+
+    /// Eşleşmenin gücü, küçük olan önce gelir: tam kelime 0, kelime öneki 1,
+    /// akraba öneki 2, kısa anlamda tam kelime 3. Eşleşme yoksa `nil`.
+    static func rank(_ word: Word, query: String) -> Int? {
         let needle = normalized(query)
-        guard !needle.isEmpty else { return true }
-        if normalized(word.word).hasPrefix(needle) { return true }
-        if word.relatives.contains(where: { normalized($0.word).hasPrefix(needle) }) { return true }
-        return words(in: word.shortMeaning).contains(needle)
+        guard !needle.isEmpty else { return 0 }
+        let headword = normalized(word.word)
+        if headword == needle { return 0 }
+        if headword.hasPrefix(needle) { return 1 }
+        if word.relatives.contains(where: { normalized($0.word).hasPrefix(needle) }) { return 2 }
+        return words(in: word.shortMeaning).contains(needle) ? 3 : nil
     }
 
     /// Metni arama biçimine getirip kelimelere ayırır.
@@ -45,7 +53,8 @@ public enum WordSearch {
             .map(String.init)
     }
 
-    /// Arama ve köken dili filtresini birlikte uygular; sıralama korunur.
+    /// Arama ve köken dili filtresini birlikte uygular. Sorgu boşsa katalog
+    /// sırası korunur; doluysa güçlü eşleşme önce, eşitlikte katalog sırası.
     ///
     /// - Parameters:
     ///   - originLanguage: Dil kimliği (`"ar"`); `nil` ise filtre yok.
@@ -54,11 +63,15 @@ public enum WordSearch {
                               query: String = "",
                               originLanguage: String? = nil,
                               favoriteIDs: Set<String>? = nil) -> [Word] {
-        words.filter { word in
-            if let originLanguage, word.originLanguage != originLanguage { return false }
-            if let favoriteIDs, !favoriteIDs.contains(word.id) { return false }
-            return matches(word, query: query)
-        }
+        words.enumerated()
+            .compactMap { offset, word -> (rank: Int, offset: Int, word: Word)? in
+                if let originLanguage, word.originLanguage != originLanguage { return nil }
+                if let favoriteIDs, !favoriteIDs.contains(word.id) { return nil }
+                guard let rank = rank(word, query: query) else { return nil }
+                return (rank, offset, word)
+            }
+            .sorted { ($0.rank, $0.offset) < ($1.rank, $1.offset) }
+            .map(\.word)
     }
 
     /// Katalogda geçen köken dilleri, Türkçe adlarına göre sıralı.
