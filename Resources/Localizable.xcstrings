@@ -369,6 +369,22 @@
         }
       }
     },
+    "search.hint": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type a word to search."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aradığınız kelimeyi yazın."
+          }
+        }
+      }
+    },
     "settings.about": {
       "localizations": {
         "en": {
@@ -749,6 +765,22 @@
           "stringUnit": {
             "state": "translated",
             "value": "Sözlük"
+          }
+        }
+      }
+    },
+    "tab.search": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ara"
           }
         }
       }

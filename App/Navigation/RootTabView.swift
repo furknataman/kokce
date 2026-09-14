@@ -15,6 +15,9 @@ struct RootTabView: View {
             Tab("tab.settings", systemImage: "gearshape", value: AppModel.Tab.settings) {
                 SettingsView()
             }
+            Tab("tab.search", systemImage: "magnifyingglass", value: AppModel.Tab.search, role: .search) {
+                SearchView()
+            }
         }
         .tint(Theme.accent)
     }

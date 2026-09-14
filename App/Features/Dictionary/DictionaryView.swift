@@ -1,7 +1,7 @@
 import SwiftUI
 import KokenKit
 
-/// Sözlük sekmesi: arama, köken dili çipleri ve madde listesi. Deep link
+/// Sözlük sekmesi: köken dili çipleri ve madde listesi. Deep link
 /// gezinme yığınını doğrudan `AppModel` üzerinden doldurur.
 struct DictionaryView: View {
 
@@ -18,12 +18,6 @@ struct DictionaryView: View {
             .navigationTitle("tab.dictionary")
             .navigationDestination(for: Word.self) { WordDetailView(word: $0) }
         }
-        // Arama alanı yığının çubuğuna aittir. İçerideki VStack'e takılınca
-        // büyük yazı boylarında çubukta yer kalmıyor ve alan hiç çizilmiyordu.
-        // `.always`: liste kayınca alan gizlenmez.
-        .searchable(text: $model.searchText,
-                    placement: .navigationBarDrawer(displayMode: .always),
-                    prompt: Text("dictionary.search"))
     }
 
     @ViewBuilder
@@ -43,9 +37,7 @@ struct DictionaryView: View {
 
     @ViewBuilder
     private var emptyState: some View {
-        if !model.searchText.isEmpty {
-            ContentUnavailableView.search(text: model.searchText)
-        } else if model.showFavoritesOnly {
+        if model.showFavoritesOnly {
             ContentUnavailableView("dictionary.favorites.empty", systemImage: "star")
         } else {
             ContentUnavailableView("dictionary.empty", systemImage: "character.book.closed")
@@ -54,8 +46,9 @@ struct DictionaryView: View {
 }
 
 /// Liste satırı: kelime, küçük köken rozeti ve kısa anlam. Yazı tipi
-/// büyüdüğünde rozet kelimenin altına iner, satır taşmaz.
-private struct WordRow: View {
+/// büyüdüğünde rozet kelimenin altına iner, satır taşmaz. Arama sekmesi de
+/// kullanır.
+struct WordRow: View {
 
     @Environment(AppModel.self) private var model
     let word: Word

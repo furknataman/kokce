@@ -9,7 +9,7 @@ import KokenKit
 final class AppModel {
 
     enum Tab: Hashable {
-        case today, dictionary, settings
+        case today, dictionary, search, settings
     }
 
     /// Sözlükteki köken dili çipi. Sayı, çip şeridinin sırasını belirler.
@@ -87,13 +87,18 @@ final class AppModel {
 
     var contentVersion: Int? { catalog?.contentVersion }
 
-    /// Arama ve iki filtre ekseni birlikte uygulanmış sözlük listesi.
+    /// İki filtre ekseni uygulanmış sözlük listesi. Arama ayrı sekmededir.
     var filteredWords: [Word] {
         guard let catalog else { return [] }
         return WordSearch.filter(catalog.words,
-                                 query: searchText,
                                  originLanguage: originFilter,
                                  favoriteIDs: showFavoritesOnly ? favoriteIDs : nil)
+    }
+
+    /// Arama sekmesinin sonuçları; sözlük çipleri burada uygulanmaz.
+    var searchResults: [Word] {
+        guard let catalog else { return [] }
+        return WordSearch.filter(catalog.words, query: searchText)
     }
 
     /// Çip şeridinde "Tümü" yerine başka bir çip seçili mi? Arama ayrı bir
