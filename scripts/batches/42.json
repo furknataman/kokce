@@ -612,5 +612,60 @@
     ],
     "confidence": "yüksek",
     "reviewed": false
+  },
+  {
+    "id": "çiğdem",
+    "word": "çiğdem",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "çigidem/çigildem",
+        "meaning": "bir bitkinin adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "çiğdem",
+        "meaning": "yumrulu, çok yıllık, çeşitli renklerde çiçeklenen kır bitkisi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yumrulu, çok yıllık, renkli çiçekler açan kır bitkisi.",
+    "currentMeaning": "Zambakgiller içinde sınıflandırılan, yumrulu yapısıyla yıllarca yaşayan ve farklı renklerde çiçeklenen kır bitkisi (Colchicum); mahmur çiçeği.",
+    "story": "Çiğdemin geçmişinde, Eski Türkçede bir bitkiyi adlandıran çigidem ve çigildem biçimleri bulunur. Bu eski bitki adı, ses değişimleriyle bugünkü çiğdem biçimine ulaşmıştır. Sözcük bugün de kırların bitki örtüsüne bağlıdır: toprağın altında yumrusu bulunan, farklı renklerde çiçeklenen çok yıllık bir bitkiyi adlandırır.",
+    "firstAttestation": {
+      "source": "Türkische Turfantexte 1-9",
+      "period": "1000 öncesi",
+      "form": "çigidem"
+    },
+    "relatives": [
+      {
+        "word": "iğde",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "çiğdem maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C3%A7i%C4%9Fdem"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "çiğdem",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
   }
 ]

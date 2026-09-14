@@ -4,65 +4,21 @@
   "promptVersion": "v13",
   "promptFile": "scripts/prompts/generate_batch.md",
   "model": "gpt-6-astra",
-  "generatedAt": "2026-09-13T16:16:50+03:00",
+  "generatedAt": "2026-09-14T20:45:18+03:00",
   "requestedWords": [
-    "girye",
-    "hande",
-    "sîne",
-    "nigâr",
-    "siyeh",
-    "hâk",
-    "bîtap",
-    "sûzan",
-    "gülgun",
-    "gülfam",
-    "erguvan",
-    "süsen"
+    "çiğdem"
   ],
   "originHints": {
-    "girye": "fa",
-    "hande": "fa",
-    "sîne": "fa",
-    "nigâr": "fa",
-    "siyeh": "fa",
-    "hâk": "fa",
-    "bîtap": "fa",
-    "sûzan": "fa",
-    "gülgun": "fa",
-    "gülfam": "fa",
-    "erguvan": "fa",
-    "süsen": "fa"
+    "çiğdem": "otk"
   },
   "rarity": {
-    "girye": "az-bilinen",
-    "hande": "az-bilinen",
-    "sîne": "az-bilinen",
-    "nigâr": "az-bilinen",
-    "siyeh": "az-bilinen",
-    "hâk": "az-bilinen",
-    "bîtap": "az-bilinen",
-    "sûzan": "az-bilinen",
-    "gülgun": "az-bilinen",
-    "gülfam": "az-bilinen",
-    "erguvan": "az-bilinen",
-    "süsen": "az-bilinen"
+    "çiğdem": "gündelik"
   },
   "notes": {
-    "girye": "ağlama, gözyaşı dökme",
-    "hande": "gülüş",
-    "sîne": "göğüs; gönül",
-    "nigâr": "resim; resim gibi güzel sevgili",
-    "siyeh": "siyah, kara",
-    "hâk": "toprak",
-    "bîtap": "bitkin, güçsüz",
-    "sûzan": "yanan, yakıcı",
-    "gülgun": "gül renginde, pembe",
-    "gülfam": "gül renkli",
-    "erguvan": "eflatun çiçekler açan ağaç",
-    "süsen": "iri ve gösterişli çiçekli bir bitki"
+    "çiğdem": "ilkbaharda açan yumrulu kır çiçeği"
   },
-  "requestedCount": 12,
-  "returnedCount": 12,
+  "requestedCount": 1,
+  "returnedCount": 13,
   "rawFile": "scripts/batches/42.raw.txt",
   "logFile": "scripts/log/42.codex.log"
 }
