@@ -1,0 +1,1918 @@
+[
+  {
+    "id": "elmas",
+    "word": "elmas",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {"language": "akk", "form": "elmēşu", "meaning": "değerli metal; tanrıları niteleyen parlaklık", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "almās", "meaning": "en sert değerli taş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "elmas", "meaning": "saf karbonun kristalleşmiş biçimi olan değerli taş", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Saf karbonun kristalleşmesiyle oluşan değerli taş.",
+    "currentMeaning": "Yer altında oluşan, saf karbonun kristal yapıya büründüğü değerli taş.",
+    "story": "Bu adın geçmişinde yalnızca bir taş değil, değerli bir metalin ve tanrıların parıltısı da bulunur. Akatçadaki elmēşu böyle bir parlaklığı taşırken, Arapça ve Farsçada kullanılan almās değerli taşların en sertini adlandırır. Türkçedeki elmas, bu eski parlaklık fikrini kristalleşmiş karbonun üzerinde sürdürür.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "yalmas"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "İngilizce diamond, elmasla aynı taşı adlandırmasına rağmen Eski Yunanca ve Latince üzerinden geçen başka bir yolu izler.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "elmas maddesi", "url": "https://www.nisanyansozluk.com/kelime/elmas"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "elmas", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "minyatür",
+    "word": "minyatür",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "minium", "meaning": "canlı kırmızı boya sağlayan mineral", "period": null, "reconstructed": false},
+      {"language": "la", "form": "miniare", "meaning": "kırmızı mineral boyasıyla bezemek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "miniatura", "meaning": "kırmızı mürekkeple yazı yazma ve bezeme", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "miniature", "meaning": "yazma kitap bezemesi; küçük boyutlu şey", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "minyatür", "meaning": "yazma kitaplarla ilişkilendirilen küçük ve renkli resim sanatı", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yazma kitaplarda görülen küçük ve renkli resim sanatı.",
+    "currentMeaning": "Genellikle eski el yazması kitaplarda kullanılan, ışık, gölge ve hacim etkisini işlemeyen küçük renkli resimler yapma sanatı.",
+    "story": "Minyatürün başlangıcında küçüklükten önce kırmızı boya vardır. Latincede minium denen mineralden elde edilen boyayla yazıları bezeme işi, zamanla kitap süslemesinin adına dönüştü. Fransızcada kitap bezemesinden küçük boyutlu nesnelere uzanan kullanım, Latincenin küçüklük bildiren minus ve mini- biçimlerinin etkisiyle gelişti. Türkçede sözcük, özellikle yazma kitapların küçük renkli resimleriyle yerleşti.",
+    "firstAttestation": {"source": "Tıngır & Sinapian — Istılahat Lugati", "period": "1892", "form": "minyatura"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "minyatür maddesi", "url": "https://www.nisanyansozluk.com/kelime/minyat%C3%BCr"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "minyatür", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sifilis",
+    "word": "sifilis",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "la",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "sý-philos", "meaning": "domuzu seven", "period": null, "reconstructed": false},
+      {"language": "la", "form": "Syphilus", "meaning": "1530 tarihli bir şiirin kahramanının adı", "period": "16. yy", "reconstructed": false},
+      {"language": "la", "form": "syphilis", "meaning": "frengi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sifilis", "meaning": "frengi", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Frengi adıyla da bilinen hastalık.",
+    "currentMeaning": "Frengi hastalığının diğer adı.",
+    "story": "Sifilis adı, hastalığı konu alan 1530 tarihli bir şiirin kahramanı Syphilus'tan doğdu. Kahramanın adının arkasında Eski Yunancada domuz ile sevme fikrini birleştiren bir kuruluş vardır. Edebî bir kişinin adı Yeni Latincede hastalığın adına dönüşürken Türkçeye doğrudan bu dilden mi, Fransızca aracılığıyla mı ulaştığı konusunda farklı açıklamalar bulunur.",
+    "firstAttestation": {"source": "Ahmed Rasim — Şehir Mektupları", "period": "1898", "form": "sifilise"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçedeki biçimi Yeni Latince syphilis ile açıklar; TDK Güncel Türkçe Sözlük doğrudan veren dili Fransızca olarak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sifilis maddesi", "url": "https://www.nisanyansozluk.com/kelime/sifilis"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sifilis", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sinik",
+    "word": "sinik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ḱwóns", "meaning": "köpek", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "kýon, kyno-", "meaning": "köpek", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "kynikós", "meaning": "köpekle ilişkilendirilen; Antisthenes'in okulunu benimseyen kişi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "cynique", "meaning": "kuşkucu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sinik", "meaning": "sinizmi benimseyen kişi veya görüş", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Sinizmi benimseyen kişi veya görüş; kinik.",
+    "currentMeaning": "Sinizm düşüncesini benimseyen kimseyi veya bu düşünceye bağlı görüşü niteleyen söz.",
+    "story": "Sinik sözünün gerisinde Eski Yunancanın köpek adı bulunur. Bu hayvan adıyla kurulan kynikós, Antisthenes'in felsefe okuluna bağlanan kişileri adlandırdı; okulun Kynósargēs adlı yerde bulunmasıyla kurulan bağlantı ise bir rivayettir. Fransızcada kuşkucu tutuma uzanan sözcük, Türkçede sinizm yanlısı kişi ve görüşler için kullanılır.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar — Kokotlar Mektebi", "period": "1927", "form": "sinik"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, kynikós adının Kynósargēs adlı okul yerinden doğduğu açıklamasını kesin bilgi olarak değil, rivayet olarak aktarır."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sinik maddesi", "url": "https://www.nisanyansozluk.com/kelime/sinik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sinik", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "fes",
+    "word": "fes",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "ar", "form": "Fās", "meaning": "Fas'taki kent ve onunla ilişkilendirilen ülke adı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "Fes", "meaning": "Fas'taki kent ve onunla ilişkilendirilen ülke adı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fes", "meaning": "kırmızı çuhadan yapılan püsküllü silindir başlık", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kırmızı çuhadan yapılan, tepesi püsküllü silindir başlık.",
+    "currentMeaning": "Şapka gibi giyilen, kalın kırmızı çuhadan yapılmış, tepesinde püskül bulunan silindir biçimli başlık.",
+    "story": "Fes, adını Kuzey Afrika'daki Fes kentinden taşıyan bir başlıktır. Mağrip'ten gelen kırmızı başlığın adı, geldiği yerin adıyla birlikte Türkçeye yerleşti. II. Mahmut dönemindeki kıyafet değişikliği, bu bölgesel başlığı Osmanlı devletinin resmî giyiminin parçası yaptı. Yer adının daha eski Berberice biçimi ise belirli değildir.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "fes"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Mağrip Arapçasındaki yer adını Berbericeye bağlar ancak Berberice biçimi soru işaretiyle bırakır."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fes maddesi", "url": "https://www.nisanyansozluk.com/kelime/fes"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "fes", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "trajedi",
+    "word": "trajedi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "ōidía", "meaning": "şarkı, türkü", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "trágos", "meaning": "keçi", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "tragōidía", "meaning": "keçi şarkısı; acıklı tiyatro oyunu", "period": "MÖ 5. yy", "reconstructed": false},
+      {"language": "la", "form": "tragoedia", "meaning": "acıklı tiyatro oyunu", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "tragédie", "meaning": "acıklı tiyatro oyunu; üzücü olay", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "trajedi", "meaning": "efsane veya tarihten beslenen, acıklı biten tiyatro eseri", "period": "18. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Efsane veya tarihten beslenen, acıklı biten tiyatro eseri.",
+    "currentMeaning": "Olaylarını efsanelerden ya da tarihten alan ve acıklı bir sonla tamamlanan tiyatro eseri; ağlatı.",
+    "story": "Trajedinin adında Eski Yunancanın keçisiyle şarkısı birleşir. Bu adın, eski Atina'daki oyuncuların yanık sesli söyleyişini keçi sesine benzetmekten doğduğu düşünülür. Latinceye bir sahne türünün adı olarak geçen sözcük, Fransızcada sahne dışındaki acıklı olayları da kapsadı. Türkçe trajedi, bu yolculuğun sonunda acıyla biten tiyatro eserinin adı oldu.",
+    "firstAttestation": {"source": "Ebubekir Ratib Ef. — Nemçe Sefaretnamesi", "period": "1792", "form": "tracedya"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, keçi şarkısı adlandırmasını oyuncuların yanık sesli söyleyişiyle ilişkilendiren açıklamayı kesinleşmiş bilgi olarak sunmaz."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "trajedi maddesi", "url": "https://www.nisanyansozluk.com/kelime/trajedi"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "trajedi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "flört",
+    "word": "flört",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "flōs, flōr-", "meaning": "çiçek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "fleur", "meaning": "çiçek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "fleurette", "meaning": "küçük çiçek veya buket; gönül alıcı söz ve cilve", "period": null, "reconstructed": false},
+      {"language": "en", "form": "flirt", "meaning": "cilve, işve", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "flört", "meaning": "kadın ile erkek arasında duygusal ilişki", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kadın ile erkek arasında kurulan duygusal ilişki.",
+    "currentMeaning": "Bir kadın ile bir erkek arasındaki duygusal yakınlık ve ilişki.",
+    "story": "Flörtün anlatılan köken yolunda çiçek, gönül alıcı söze dönüşür. Latincenin çiçek adı Fransızcada fleur olurken, fleurette hem küçük bir çiçeği hem de karşıdakini hoşnut eden sözleri adlandırdı. İngilizce flirt bu çizgide cilve ve işveyle ilişkilendirilir. Türkçedeki duygusal ilişki adına doğrudan İngilizceden mi, Fransızcadan mı ulaşıldığı konusunda kaynaklar ayrılır.",
+    "firstAttestation": {"source": "Servet-i Fünun — dergi", "period": "1900", "form": "flört"},
+    "relatives": [
+      {"word": "flower", "relation": "akraba"},
+      {"word": "flourish", "relation": "akraba"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye aktarımı İngilizce flirt üzerinden verir; TDK Güncel Türkçe Sözlük Fransızca flirt biçimini doğrudan kaynak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "flört maddesi", "url": "https://www.nisanyansozluk.com/kelime/fl%C3%B6rt"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "flört", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "goril",
+    "word": "goril",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "gorílla", "meaning": "eski anlatılarda Afrika ormanlarında yaşayan insan", "period": "MÖ 5. yy", "reconstructed": false},
+      {"language": "la", "form": "gorilla", "meaning": "eski anlatılarda Afrika ormanlarında yaşayan insan", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "gorille", "meaning": "Afrika'da yaşayan iri bir maymun türü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "goril", "meaning": "Afrika'nın ekvator ormanlarında yaşayan iri ve güçlü maymun", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Afrika'nın ekvator ormanlarında yaşayan iri ve güçlü maymun.",
+    "currentMeaning": "Afrika'nın ekvator çevresindeki ormanlarında yaşayan, iri gövdeli ve güçlü bir maymun türü.",
+    "story": "Gorilin adı, eski bir deniz yolculuğu anlatısındaki orman insanlarına kadar uzanır. Kartacalı Hanno'nun hikâyesinde Afrika'daki bir dilden alınmış olarak gösterilen ad, Eski Yunancada gorílla biçimindedir. Yeni Latince ve Fransızcadan geçen sözcük, orman insanı tasvirinden belirli bir büyük maymunun adına dönüştü. Türkçe de bu hayvan adını Fransızcadan aldı.",
+    "firstAttestation": {"source": "Ahmed Vefik Paşa — Lehce-i Osmani", "period": "1876", "form": "gorilla"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "goril maddesi", "url": "https://www.nisanyansozluk.com/kelime/goril"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "goril", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "veranda",
+    "word": "veranda",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "pt",
+    "chain": [
+      {"language": "pt", "form": "baranda", "meaning": "parmaklık", "period": null, "reconstructed": false},
+      {"language": "hi", "form": "varanda/baranda", "meaning": "parmaklık", "period": null, "reconstructed": false},
+      {"language": "en", "form": "veranda/verandah", "meaning": "zemin katta bahçeye veya avluya açılan parmaklıklı taraça", "period": "18. yy", "reconstructed": false},
+      {"language": "tr", "form": "veranda", "meaning": "yapının önünde bulunan çatılı, açık veya camla çevrili sundurma", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yapının önünde bulunan, çatılı ve yanları açık veya camlı sundurma.",
+    "currentMeaning": "Genellikle bağımsız evlerin ön cephesinde, zemin düzeyinde veya biraz yüksekte bulunan, çatısı olan ve yanları açık ya da camla kapatılmış geniş sundurma.",
+    "story": "Verandanın geçmişinde önce bir mekânı çevreleyen parmaklık vardır. Portekizce baranda Hintçeye taşındıktan sonra İngilizcede bahçeye açılan parmaklıklı taraçayı adlandırdı. Böylece çevreleyen yapı unsurunun adı, evin dışarıya uzanan bölümüne yayıldı. Türkçeye geçişte İngilizce ile Fransızca arasında farklı açıklamalar bulunur.",
+    "firstAttestation": {"source": "Cumhuriyet — gazete", "period": "1938", "form": "veranda"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye doğrudan veren dil olarak İngilizceyi gösterir; TDK Güncel Türkçe Sözlük Fransızca véranda biçimini esas alır."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "veranda maddesi", "url": "https://www.nisanyansozluk.com/kelime/veranda"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "veranda", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tercüman",
+    "word": "tercüman",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {"language": "akk", "form": "ragāmu", "meaning": "seslenmek, konuşmak, dava açmak", "period": null, "reconstructed": false},
+      {"language": "akk", "form": "targumannu", "meaning": "seslenmek, konuşmak, dava açmak", "period": null, "reconstructed": false},
+      {"language": "arc", "form": "targəmānā", "meaning": "seslenmek, konuşmak, dava açmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tarcumān", "meaning": "çeviri yapan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tercüman", "meaning": "çeviri yapan kişi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir dilde anlatılanı başka bir dile aktaran kişi.",
+    "currentMeaning": "Sözlü veya yazılı bir anlatımı başka bir dile çeviren kişi; çevirmen.",
+    "story": "Tercümanın uzak geçmişinde Akatçanın seslenme, konuşma ve dava açma eylemlerini karşılayan ragāmu bulunur. Söz söyleme çevresinde başlayan bu yol, targumannu ve Aramice targəmānā üzerinden Arapçadaki çevirmen adına uzanır. Türkçeye geçen tercüman, konuşmayı diller arasında taşıyan kişiyi adlandırmayı sürdürür.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "tercümān"},
+    "relatives": [
+      {"word": "tarkummiya", "relation": "akraba"},
+      {"word": "tarkman", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tercüman maddesi", "url": "https://www.nisanyansozluk.com/kelime/terc%C3%BCman"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tercüman", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "parşömen",
+    "word": "parşömen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "Pergamum", "meaning": "Bergama kentinin adı", "period": null, "reconstructed": false},
+      {"language": "la", "form": "(charta) pergamena", "meaning": "Bergama kentinin adı", "period": "MÖ 2. yy", "reconstructed": false},
+      {"language": "fr", "form": "parchemin", "meaning": "sığır veya koyun derisinden hazırlanan yazı malzemesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "parşömen", "meaning": "yazı ve resim için işlenmiş deri", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Üzerine yazı yazmak veya resim yapmak için işlenmiş deri.",
+    "currentMeaning": "Yazı ya da resim yüzeyi olarak kullanılabilmesi için özel işlemlerden geçirilen deri.",
+    "story": "Parşömen, adında Bergama kentini saklayan bir yazı malzemesidir. Bu adlandırma, malzemenin orada icat edilmesine ya da nitelikli örneklerinin orada üretilmesine bağlanır. Kent adıyla ilişkilendirilen Latince ifade Fransızcada parchemin biçimine dönüştü. Türkçeye ulaşan parşömen, deri yüzeyin yazı ve resim için hazırlanmış hâlini adlandırır.",
+    "firstAttestation": {"source": "Mehmed Salahi — Kamus-ı Osmani", "period": "1895", "form": "parşömendir"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Bergama bağlantısını malzemenin burada icat edilmesi veya iyi cinsinin burada üretilmesi olmak üzere iki olasılıkla açıklar."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "parşömen maddesi", "url": "https://www.nisanyansozluk.com/kelime/par%C5%9F%C3%B6men"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "parşömen", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "simya",
+    "word": "simya",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "sêma(t)", "meaning": "işaret, simge", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "sēmeîon", "meaning": "işaret, simge, belirti", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "sēmeîa", "meaning": "simgeler ve saklı anlamlar", "period": null, "reconstructed": false},
+      {"language": "arc", "form": "sīmiyā", "meaning": "simgeler ve saklı anlamlar", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "sīmiyāˀ", "meaning": "büyücülük, sihir", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "simya", "meaning": "alşimi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Alşimi adıyla da bilinen uğraş.",
+    "currentMeaning": "Alşimi için kullanılan ad.",
+    "story": "Simyanın adı başlangıçta madenlerden çok işaretlerle ilgilidir. Eski Yunancada simge ve belirtileri adlandıran sözcükler, saklı anlamları da kapsayan sēmeîa biçiminde birleşir. Aramice üzerinden Arapçaya geçen ad, büyü ve sihir çevresinde kullanıldı. Türkçede alşimiyi karşılayan kullanım, işaretlerin gizli anlamlarından dönüşüm arayışlarına uzanan bu geçmişi taşır.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "sīmiyā"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Simya ile kimya, İslam geleneğinde birlikte anılsalar da etimolojik olarak birbirinden bağımsızdır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "simya maddesi", "url": "https://www.nisanyansozluk.com/kelime/simya"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "simya", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "saten",
+    "word": "saten",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "zh",
+    "chain": [
+      {"language": "zh", "form": "Citongcheng", "meaning": "Quanzhou'nun tung ağacıyla ilişkili eski kent adı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "Ẓaytūn", "meaning": "Güney Çin'deki bir liman kentinin adı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ẓaytūnī", "meaning": "Çin'den gelen bir ipekli kumaş çeşidi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "satin", "meaning": "ipekten veya ipeği andıran malzemeden kumaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "saten", "meaning": "atlas adıyla da anılan kumaş", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Atlas adıyla da anılan kumaş türü.",
+    "currentMeaning": "Atlas olarak da adlandırılan kumaş.",
+    "story": "Satenin uzak kökeni için önerilen yol, Güney Çin'deki bir liman kentine uzanır. Quanzhou'nun eski adı Arapçada Ẓaytūn biçimini almış, onunla ilişkilendirilen ẓaytūnī ise bir Çin ipeklisini adlandırmıştır. Fransızca satin ile bu kumaş adı arasındaki bağlantı tartışmalıdır. Türkçeye Fransızcadan geçen saten, kumaş adı olarak yerleşmiştir.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar — Tutuşmuş Gönüller", "period": "1926", "form": "saten"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Fransızca satin biçiminin Arapça ẓaytūnī ile bağlantısını tahmine dayalı veya tartışmalı olarak işaretler."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "saten maddesi", "url": "https://www.nisanyansozluk.com/kelime/saten"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "saten", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "narsisizm",
+    "word": "narsisizm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "nárkissos", "meaning": "nergis", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "Nárkissos", "meaning": "Yunan mitolojisinde kendi görüntüsüne tutulan genç", "period": null, "reconstructed": false},
+      {"language": "de", "form": "Narzissismus", "meaning": "Yunan mitolojisinde kendi görüntüsüne tutulan genç", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "narcissisme", "meaning": "kişinin kendisini hastalık ölçüsünde sevmesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "narsisizm", "meaning": "özseverlik", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Özseverlik.",
+    "currentMeaning": "Kişinin kendisine yönelttiği sevgiyle ilgili özseverlik kavramı.",
+    "story": "Narsisizmin adında hem nergis çiçeği hem de kendi yansımasına âşık olan mitolojik genç vardır. Eski Yunancada aynı ad çevresinde buluşan çiçek ve genç, kişinin sevgisini kendisine yöneltmesini anlatan terimin temelini oluşturdu. Almanca Narzissismus üzerinden Fransızcaya geçen terim, oradan Türkçeye taşındı. Böylece bir mitolojik kişinin adı, özseverliği anlatan bir kavrama dönüştü.",
+    "firstAttestation": {"source": "Cumhuriyet — gazete", "period": "1941", "form": "narsisizm"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "narsisizm maddesi", "url": "https://www.nisanyansozluk.com/kelime/narsisizm"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "narsisizm", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "damasko",
+    "word": "damasko",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "Damasco", "meaning": "Şam kentinin adı", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "damasque", "meaning": "Suriye ile ilişkilendirilen ipekli kumaş", "period": null, "reconstructed": false},
+      {"language": "it", "form": "damasco", "meaning": "Suriye ile ilişkilendirilen ipekli kumaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "damasko", "meaning": "çoğunlukla döşemede kullanılan keten ve ipek karışımlı kumaş", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Çoğunlukla döşemede kullanılan keten ve ipek karışımlı kumaş.",
+    "currentMeaning": "Keten ile ipeğin karıştırılmasıyla yapılan ve genellikle döşemelik olarak değerlendirilen kumaş türü.",
+    "story": "Damasko, Şam kentinin Damasco biçimindeki adını kumaş üzerinde yaşatır. Şehirle ilişkilendirilen ipekli dokuma, Fransızcada damasque ve İtalyancada damasco adlarıyla karşılık buldu. Türkçeye veren dil için İtalyanca yanında Fransızca da olası bir yol olarak gösterilir. Türkçede ad, çoğunlukla döşemelik kullanılan keten ve ipek karışımı kumaşa yerleşmiştir.",
+    "firstAttestation": {"source": "Ahmed Vefik Paşa — Lehce-i Osmani", "period": "1876", "form": "damasko"},
+    "relatives": [
+      {"word": "damasken", "relation": "akraba"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük Fransızca damasque ile İtalyanca damasco biçimlerini alternatif aktarım yolları olarak verir; TDK Güncel Türkçe Sözlük İtalyancayı seçer."
+    ],
+    "funFact": "Bir kara erik türünün adı olan damasken de Şam'a bağlanan bir ad taşır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "damasko maddesi", "url": "https://www.nisanyansozluk.com/kelime/damasko"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "damasko", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "barbekü",
+    "word": "barbekü",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "es", "form": "barbacoa", "meaning": "eti kızartmaya yarayan ızgaralı düzenek", "period": null, "reconstructed": false},
+      {"language": "en", "form": "barbecue", "meaning": "et pişirme ızgarası veya mangalı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "barbekü", "meaning": "ızgara et pişirilen, çoğunlukla duvara yerleştirilmiş ocak", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Izgara et pişirmek için kullanılan ocak.",
+    "currentMeaning": "Etin ızgarada pişirilmesini sağlayan, sıklıkla balkon duvarına gömülü olarak yapılan ocak.",
+    "story": "Barbekünün geçmişinde Karayiplerin Taino dilindeki ateş çukuru adı barabicu vardır. İspanyolcada barbacoa, etin ateş üzerinde kızartıldığı ızgaralı düzeneği adlandırdı; İngilizcede barbecue mangal ve ızgara çevresinde kullanıldı. Türkçeye doğrudan İngilizceden mi, Fransızcadan mı geçtiği konusunda farklı açıklamalar vardır. Bugünkü ocak adı, bu eski açık ateşte pişirme düzeninin izini taşır.",
+    "firstAttestation": {"source": "Cumhuriyet — gazete", "period": "1958", "form": "Barbecue"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye aktarımı İngilizce barbecue üzerinden açıklar; TDK Güncel Türkçe Sözlük doğrudan veren dili Fransızca olarak kaydeder."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "barbekü maddesi", "url": "https://www.nisanyansozluk.com/kelime/barbek%C3%BC"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "barbekü", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tapyoka",
+    "word": "tapyoka",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "fr", "form": "tapioca", "meaning": "kasava bitkisinden elde edilen un", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tapyoka", "meaning": "manyok kökünden elde edilen nişasta", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Manyok kökünden elde edilen nişasta.",
+    "currentMeaning": "Manyok bitkisinin kökleri işlenerek ayrıştırılan nişasta.",
+    "story": "Tapyoka adı, Güney Amerika'nın Tupi-Guarani dillerindeki tipioka biçiminden taşınmıştır. İngilizce ve Fransızcada tapioca, kasava denen bitkinin ununu adlandırır. Türkçede ad, aynı bitkinin manyok adıyla bilinen kökünden çıkarılan nişastaya yerleşmiştir.",
+    "firstAttestation": {"source": "Ahmed Vefik Paşa — Lehce-i Osmani", "period": "1876", "form": "tapyoka"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tapyoka maddesi", "url": "https://www.nisanyansozluk.com/kelime/tapyoka"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tapyoka", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "roket",
+    "word": "roket",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "rocca", "meaning": "yün eğirmede kullanılan tüp biçimli ağırlık, öreke", "period": null, "reconstructed": false},
+      {"language": "it", "form": "rocchetto", "meaning": "havai fişek", "period": null, "reconstructed": false},
+      {"language": "en", "form": "rocket", "meaning": "havai fişek veya füze", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "roquette", "meaning": "havai fişek veya füze", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "roket", "meaning": "ilk bölümde kendi itişiyle ilerleyip sonra balistik hareket eden mermi", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Önce kendi itişiyle, ardından balistik hareketle ilerleyen mermi.",
+    "currentMeaning": "Fırlatılırken mekanik olarak yönlendirilen, yolunun başlangıcında kendi itiş gücüyle ilerleyen ve sonrasında balistik hareketini sürdüren mermi.",
+    "story": "Roketin adının gerisinde yün eğirmede kullanılan tüp biçimli bir ağırlık vardır. İtalyanca rocca ile ilişkili rocchetto, biçim benzerliği üzerinden havai fişeğin adı oldu. Ateşle yükselen bu nesnenin adı, İngilizce ve Fransızcada füze çevresinde de kullanıldı. Türkçeye aktarım için Fransızca yanında İngilizce yolu da gösterilir.",
+    "firstAttestation": {"source": "Basiretçi Ali Bey — İstanbul Mektupları", "period": "1870", "form": "roket"},
+    "relatives": [
+      {"word": "roketatar", "relation": "birleşik"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük İngilizce rocket ile Fransızca roquette biçimlerini alternatifler olarak verir; TDK Güncel Türkçe Sözlük Fransızca aktarımı esas alır."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "roket maddesi", "url": "https://www.nisanyansozluk.com/kelime/roket"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "roket", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "avokado",
+    "word": "avokado",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "nah",
+    "chain": [
+      {"language": "nah", "form": "āhuacatl", "meaning": "tropikal bir bitki ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "es", "form": "aguacate", "meaning": "tropikal bir bitki ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "es", "form": "avocado", "meaning": "tropikal bir bitki ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "en", "form": "avocado", "meaning": "tropikal bir bitki ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "avokado", "meaning": "defnegillerden, sıcak iklimlerde yetiştirilen bir ağaç", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Sıcak iklimlerde yetiştirilen, defnegillerden bir ağaç.",
+    "currentMeaning": "Tropikal, subtropikal ve Akdeniz iklimli bölgelerde yetiştirilen, yaprakları sıralı, çiçekleri sarıya çalan yeşil renkte olan defnegillerden bir ağaç; Amerikan armudu.",
+    "story": "Avokado adı, Nahuatl dilindeki āhuacatl ile birlikte bitkinin ve meyvesinin adını taşır. İspanyolcada aguacate ve ardından avocado biçimlerine ulaşan sözcük, İngilizcede de bitkiyi ve meyveyi adlandırmayı sürdürdü. Türkçeye İngilizceden gelen adın yolculuğunda nesne aynı kaldı, sesler değişti.",
+    "firstAttestation": {"source": "Milliyet — gazete", "period": "1972", "form": "avokado"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "avokado maddesi", "url": "https://www.nisanyansozluk.com/kelime/avokado"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "avokado", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "beton",
+    "word": "beton",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "cel",
+    "chain": [
+      {"language": "cel", "form": "betu-", "meaning": "ağaç reçinesi, zift", "period": null, "reconstructed": true},
+      {"language": "la", "form": "bitūmen", "meaning": "akçaağaç reçinesi; reçine ve zift", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "béton", "meaning": "duvar örme harcı, özellikle çimentolu harç", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "beton", "meaning": "çimento, su ve taşlı malzeme karışımından oluşan dayanıklı yapı malzemesi", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Çimento, su, kum ve çakıl karışımından oluşan dayanıklı yapı malzemesi.",
+    "currentMeaning": "Çimentonun suyla birlikte kum, çakıl ve benzeri malzemelerle karıştırılmasıyla elde edilen, sertleşen ve dayanıklılık sağlayan yapı malzemesi.",
+    "story": "Betonun adının geçmişinde ağaç reçinesi ve zift bulunur. Latince bitūmen bu maddeleri adlandırırken, Fransızca béton duvar harcının ve özellikle çimentolu karışımların adı oldu. Türkçedeki beton, bu yolun sonunda sertleşen yapı malzemesine yerleşti. Latince biçimin daha geride Kelt dillerindeki bir köke bağlanması ise kesin değildir.",
+    "firstAttestation": {"source": "Tıngır & Sinapian — Istılahat Lugati", "period": "1892", "form": "beton"},
+    "relatives": [
+      {"word": "betula", "relation": "eş köken"},
+      {"word": "betonlaşmak", "relation": "türev"},
+      {"word": "gazbeton", "relation": "birleşik"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Latince bitūmen biçiminin Kelt dillerindeki yeniden kurulmuş betu- köküyle bağlantısını tahmine dayalı veya tartışmalı olarak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "beton maddesi", "url": "https://www.nisanyansozluk.com/kelime/beton"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "beton", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+
+--- stderr ---
+OpenAI Codex v0.160.0
+--------
+workdir: /Users/furkan/Desktop/dev/koken
+model: gpt-6-astra
+provider: openai
+approval: on-request
+sandbox: read-only
+reasoning effort: high
+reasoning summaries: none
+session id: 01a12ef4-ceb3-7a30-b361-b879cf219f75
+--------
+user
+# Köken — Üretim Prompt'u (v13)
+
+Sen Türkçe tarihsel dil bilimi ve etimoloji uzmanısın. Aşağıdaki kelimeler için
+bir mobil uygulamanın içerik veri setini üreteceksin. Çıktın doğrudan
+programatik doğrulamadan geçecek; biçimden sapma kabul edilmez.
+
+## Kelimeler
+
+Her satırda madde başı, yanında varsa bir **köken ipucu** vardır
+(`kalem — ipucu: ar<grc — rarity: gündelik`). İpucu kaba bir ön elemeden
+gelir, **kanıt değildir**. Bazı satırlarda ayrıca `ipucu anlam` bulunur; o da
+hangi sözcüğün kastedildiğini göstermek içindir, **kanıt değildir**: kaynakla
+çelişirse kaynağı esas al, `currentMeaning` ve `shortMeaning` alanlarını
+kaynaktan yaz, ipucu anlamı kopyalama. `rarity` ise kesin veridir: satırda ne
+yazıyorsa `rarity` alanına **aynen** onu yaz.
+
+1. elmas — ipucu: ar — rarity: gündelik — ipucu anlam: çok sert değerli taş
+2. minyatür — ipucu: fr<la — rarity: gündelik — ipucu anlam: küçük boyutlu tasvir
+3. sifilis — ipucu: la<grc — rarity: az-bilinen — ipucu anlam: bulaşıcı zührevi hastalık
+4. sinik — ipucu: fr<grc — rarity: az-bilinen — ipucu anlam: alaycı kuşkucu kimse
+5. fes — ipucu: ar — rarity: gündelik — ipucu anlam: püsküllü kırmızı başlık
+6. trajedi — ipucu: fr<la<grc — rarity: az-bilinen — ipucu anlam: acıklı olay veya oyun
+7. flört — ipucu: en<fr<la — rarity: gündelik — ipucu anlam: duygusal yakınlaşma
+8. goril — ipucu: fr<la<grc — rarity: gündelik — ipucu anlam: iri Afrika maymunu
+9. veranda — ipucu: en<hi<pt — rarity: gündelik — ipucu anlam: üstü örtülü açık bölüm
+10. tercüman — ipucu: ar<arc<akk — rarity: az-bilinen — ipucu anlam: diller arasında çevirmen
+11. parşömen — ipucu: fr<la — rarity: az-bilinen — ipucu anlam: deriden yazı malzemesi
+12. simya — ipucu: ar<arc<grc — rarity: az-bilinen — ipucu anlam: maden dönüştürme uğraşı
+13. saten — ipucu: fr<ar<zh — rarity: gündelik — ipucu anlam: parlak yüzlü kumaş
+14. narsisizm — ipucu: fr<de<grc — rarity: az-bilinen — ipucu anlam: kendine aşırı hayranlık
+15. damasko — ipucu: it — rarity: az-bilinen — ipucu anlam: desenli ipekli kumaş
+16. barbekü — ipucu: en<es<tnq — rarity: gündelik — ipucu anlam: et pişirme ocağı
+17. tapyoka — ipucu: fr<tup — rarity: az-bilinen — ipucu anlam: manyok kökü nişastası
+18. roket — ipucu: fr<it — rarity: gündelik — ipucu anlam: tepkiyle ilerleyen araç
+19. avokado — ipucu: en<es<nah — rarity: gündelik — ipucu anlam: yağlı tropikal meyve
+20. beton — ipucu: fr<la — rarity: gündelik — ipucu anlam: sert yapı malzemesi
+
+## Kaynak özetleri
+
+Aşağıda her kelime için Nişanyan Sözlük, TDK Güncel Türkçe Sözlük ve
+gerektiğinde Kubbealtı Lugatı kayıtlarının özeti verilmiştir. **Bu özetler
+esastır.** Kubbealtı bölümü varsa (ilk iki kaynakta madde yoksa gelir) köken
+satırındaki dil kısaltması (`Fars.`, `Ar.`) `donorLanguage` için esastır ve
+kaynak şöyle yazılır:
+`{"name": "Kubbealtı Lugatı", "ref": "<kelime> maddesi", "url": "<verilen bağlantı>"}`.
+
+### elmas
+
+**Nişanyan — elmas**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Akatça › elmēşu › değerli bir metal; parlak, parıldayan (tanrılara özgü bir sıfat)  [alıntı]
+- Arapça / Farsça › almās › değerli taşların en serti, elmas  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Orta Farsça › almās › metallerin en serti, çelik  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1303, Codex Cumanicus
+  > diamante - Fa & Tr: yalmas
+- 1844, Mehmed Kâmil — Melceü't-Tabbahīn
+  > elmasiye ... incik elmasiyesi
+
+Not: EYun adamás, adamant- "elmas" bir Doğu dilinden alıntıdır. Fr diamant, İng diamond "elmas" Latince yoluyla Eski Yunancadan alınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/elmas
+
+**TDK** — köken kaydı: Arapça elmās · anlam: Yerin derinliklerinde bulunan, billurlaşmış arı karbon
+
+### minyatür
+
+**Nişanyan — minyatür**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › minium › parlak kırmızı renk veren bir mineral, kurşun oksit, zincifre  [türeme]
+- Geç Latince › miniare › minium ile işlemek  [türeme]
+- Geç Latince › miniatura › kırmızı mürekkeple yazma, yazı bezeme  [alıntı]
+- Fransızca › miniature › 1. elyazması kitaplarda bezeme, 2. küçük boy olan her şey  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1892, Tıngır & Sinapian — Istılahat Lugati
+  > Miniature [Fr.]: minyatura denilen ince resim usulü.
+- 1919, Necib Asım [Yazıksız] — Osmanlı Tarihi
+  > mozayık kargahları, minyatürlü yazılar; ...
+
+Not: Propertius 2.3.11'e göre Latince sözcük İspanya kökenlidir. • Modern anlamı Lat minus, mini- "küçük" kelimesinden etkilenmiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/minyat%C3%BCr
+
+**TDK** — köken kaydı: Fransızca miniature · anlam: Çoğunlukla eski yazma kitaplarda görülen, ışık, gölge ve hacim duygusu yansıtılmayan küçük, renkli resim sanatı
+
+### sifilis
+
+**Nişanyan — sifilis**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › sý-philos › domuz-seven  [türeme]
+- özel isim › Syphilus › Girolamo Frocastoro'nun aynı adlı şiirinin kahramanı (1530)  [türeme]
+- Yeni Latince › syphilis › frengi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1898, Ahmed Rasim — Şehir Mektupları
+  > Buradaki 'efrenciye' kaydı sifilise yani frengî illetine uğramış kelime değildir.
+
+Not: 16. yy başlarında ortaya çıkan bu hastalığı konu alan ilk edebi eser olduğu için. • Aynı HAvr kökten İng sow, Alm Sau "domuz".
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sifilis
+
+**TDK** — köken kaydı: Fransızca syphilis · anlam: ► frengi (I)
+
+### sinik
+
+**Nişanyan — sinik**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Hintavrupa Anadili › *ḱwóns › a.a.  [ses evrimi]
+- Eski Yunanca › kýon, kyno- › köpek  [türeme]
+- Eski Yunanca › kynikós › «köpekçi», Atina'lı Antisthenes'in felsefe okuluna bağlı kimse  [alıntı]
+- Fransızca › cynique › kuşkucu  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1927, Hüseyin Rahmi Gürpınar — Kokotlar Mektebi
+  > Fakat çok ‘sinik' - Fakat riyasız…
+
+Not: Antisthenes'in Atina dışında Kynósargēs "köpek yatağı" adı verilen yerdeki okulundan ötürü bu adın verildiği rivayet edilir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/sinik
+
+**TDK** — köken kaydı: Fransızca cynique · anlam: Sinizm taraftarı (kimse veya görüş); kinik
+
+### fes
+
+**Nişanyan — fes**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Berberice › ?  [alıntı]
+- Arapça (Mağrip) › Fās › a.a.  [türeme]
+- özel isim › Fes › Fas kenti ve ülkesi  [türeme]
+
+Tanıklıklar (eskiden yeniye):
+- 1680, Meninski — Thesaurus
+  > fes: Regnum Fez dictum [Fas adı verilen ülke] & pilei nocturni rubri inde venientes [ve oradan gelen kırmızı gecelik başlık]
+- <1810, Enderunlu Fazıl (şair)
+  > Gerek a'lā, gerek ednā, herkes \ Bir beyāż bornosile dal fes
+- 1836, Ayntablı Aynî
+  > Yapılub iclâlle Fesḫâne çıktı başa fes
+
+Not: Mağrip'e özgü bir başlık iken II. Mahmut zamanındaki kıyafet reformuyla Osmanlı devletinde resmî başlık olarak benimsendi.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/fes
+
+**TDK** — köken kaydı: (Fas yer adından) · anlam: Şapka yerine kullanılan, kırmızı, kalın çuhadan yapılmış, tepesinde püskülü olan, silindir biçiminde başlık
+
+### trajedi
+
+**Nişanyan — trajedi**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › ōidía › türkü, ır  [bileşik sözcüğün devamı]
+- Eski Yunanca › trágos › keçi  [bileşik sözcük]
+- Eski Yunanca › tragōidía › «keçi türküsü», a.a.  [alıntı]
+- Latince › tragoedia › acıklı sahne oyunu  [alıntı]
+- Fransızca › tragédie › 1. acıklı sahne oyunu, 2. her çeşit acıklı olay  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1792, Ebubekir Ratib Ef. — Nemçe Sefaretnamesi
+  > Lakin opera ve tracedya ve komedyadan kangısı emriniz olursa onu icra edeceklerdir.
+- 1844, Osmanlı'da Gösteri Sanatları
+  > Yunan rüesasından Marko Bocari nam şahsın trajedisi oynanmak üzere tasmim olunduğu haber alınarak
+- <1900, Ahmed Midhat Ef. — çeşitli yazıları
+  > Frenklerin traji-komik dedikleri surette, yani hem mudhik hem müellim bir surette yazılmış
+
+Not: Eski Atina'da (MÖ 5. yy) trajik aktörlerin yanık sesli ifade şeklinden ötürü “keçi türküsü” diye adlandırıldığı sanılır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/trajedi
+
+**TDK** — köken kaydı: Fransızca tragédie · anlam: Konusunu efsanelerden veya tarihsel olaylardan alan, acıklı sonuçlarla bağlanan bir tür tiyatro eseri; ağlatı, facia, tragedya
+
+### flört
+
+**Nişanyan — flört**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › flōs, flōr- › a.a.  [ses evrimi]
+- Fransızca › fleur › çiçek  [türeme]
+- Fransızca › fleurette › 1. küçük çiçek, buket, 2. kompliman, hoş söz, işve  [alıntı]
+- İngilizce › flirt › işve, cilve  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1900, Servet-i Fünun - dergi
+  > çok ziyan vermeyen, yalnız hudˁa ve oyundan ibaret kalan harbler de vardır ki buna flört namı verilir.
+- 2002, Milliyet - gazete
+  > Flörtöz Daisy'ye yargısız infaz
+
+Not: Öteden beri hem eylem hem kişi adıdır. • İng flower "çiçek", flourish "çiçeklenmek" biçimleri Fransızcadan alınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/fl%C3%B6rt
+
+**TDK** — köken kaydı: Fransızca flirt · anlam: Kadınla erkek arasındaki duygusal ilişki
+
+### goril
+
+**Nişanyan — goril**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › gorílla › Eskiçağ yazarlarına göre Afrika'da yaşayan orman adamı  [alıntı]
+- Yeni Latince › gorilla › a.a.  [alıntı]
+- Fransızca › gorille › Afrika'ya özgü bir tür büyük maymun  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > gorilla: Kuyruksuz maymunun büyük cinsi.
+
+Not: MÖ 5. yy'da Kartacalı gemici Hanno'nun yolculuk hikâyesinde bir Afrika dilinden alıntı olarak gösterilmiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/goril
+
+**TDK** — köken kaydı: Fransızca gorille · anlam: Afrika'nın Ekvator bölgesinde ormanlarda yaşayan, iri ve güçlü bir tür maymun (Gorilla gorilla)
+
+### veranda
+
+**Nişanyan — veranda**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Portekizce › baranda › parmaklık  [alıntı]
+- Modern Hintçe › varanda/baranda › a.a.  [alıntı]
+- İngilizce › veranda/verandah › zemin katında avluya veya bahçeye bakan parmaklıklı taraça  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1938, Cumhuriyet - gazete
+  > avluya bakan tarafı umumiyetle açık bir veranda şeklindedir
+
+Not: 18. yy başlarında Hintçeden İngilizceye alınan sözcüğün, nihai olarak Portekiz kökenli olduğu anlaşılmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/veranda
+
+**TDK** — köken kaydı: Fransızca véranda · anlam: Daha çok müstakil yapıların zemin katında yer ile aynı seviyede veya biraz yükseltilmiş, ön cepheyi kaplayan, üzeri bir çatıyla örtülü, yanları açık veya camlı büyükçe sundurma
+
+### tercüman
+
+**Nişanyan — tercüman**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Akatça › ragāmu › çağırmak, söz söylemek, dava etmek  [türeme]
+- Akatça › targumannu › a.a.  [alıntı]
+- Aramice-Süryanice › targəmānā › a.a.  [alıntı]
+- Arapça › tarcumān › çevirmen  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1317, Gülşehri — Mantıku't-Tayr
+  > olmaya Gülşehrîden yeg tercümān
+
+Not: Hititçe tarkummiya (a.a.) biçimi Akadcadan alınmıştır. Erm tarkman թարգման (a.a.) Aramiceden alınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/terc%C3%BCman
+
+**TDK** — köken kaydı: Arapça tercemān · anlam: ► çevirmen
+
+### parşömen
+
+**Nişanyan — parşömen**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- özel isim › Pergamum › Küçük Asya'da bir kent, Bergama  [türeme]
+- Latince › (charta) pergamena › a.a.  [ses evrimi]
+- Fransızca › parchemin › inceltilmiş sığır veya koyun derisinden yapılmış kâğıt  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1895, Mehmed Salahi — Kamus-ı Osmani
+  > rakk: kağıd yerine üzerine yazı yazılan ince deri, ceylan derisi ki «terişe» denilir. Fransızcası parşömendir.
+
+Not: Bergama'da icat edildiği veya iyi cinsi Bergama'da imal edildiği için MÖ 2. yy'da adlandırılmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/par%C5%9F%C3%B6men
+
+**TDK** — köken kaydı: Fransızca parchemin · anlam: Yazı yazmak, resim yapmak için özel olarak hazırlanan deri; tirşe (II)
+
+### simya
+
+**Nişanyan — simya**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › sêma(t) › a.a.  [türeme]
+- Eski Yunanca › sēmeîon › işaret, simge, gösterge  [türeme]
+- Eski Yunanca › sēmeîa › simgeler, (gizli) anlamlar  [alıntı]
+- Aramice-Süryanice › sīmiyā › a.a.  [alıntı]
+- Arapça › sīmiyāˀ › büyü, sihir  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1317, Gülşehri — Mantıku't-Tayr
+  > sīmiyā u kīmiyāyı aŋlaram
+- 1665, Evliya Çelebi — Seyahatname
+  > ˁilm-i simyāde müˁellif ve bī-bedel [simya ilminde eser sahibi ve paha biçilmez] kimesne idi
+
+Not: İslam geleneğinde daima kimya ile bağdaştırılır. İki kelime arasında etimolojik ilişki yoktur.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/simya
+
+**TDK** — köken kaydı: Arapça sīmiyā · anlam: ► alşimi
+
+### saten
+
+**Nişanyan — saten**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Çince › Citongcheng › «tung ağacı şehri», Quanzhou kentinin eski adı  [alıntı]
+- Arapça › Ẓaytūn › Güney Çin'de bir liman kenti, Tseutung  [türeme]
+- Arapça › ẓaytūnī › bir tür Çin ipeklisi  [tahmine dayalı veya tartışmalı köken]
+- Fransızca › satin › bir tür ipekli veya ipekli-benzeri kumaş  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1926, Hüseyin Rahmi Gürpınar — Tutuşmuş Gönüller
+  > Bizim gençliğimizde yanardöner, mantin, gron, kaşmir dekos, saten dö Lyon… daha bilmem neler vardı.
+
+Not: Arapça sözcüğün etimolojisi İbni Battuta (14. yy) tarafından iletilmiştir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/saten
+
+**TDK** — köken kaydı: Fransızca satin · anlam: ► atlas (I)
+
+### narsisizm
+
+**Nişanyan — narsisizm**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › nárkissos › nergis çiçeği  [alıntı]
+- Eski Yunanca › Nárkissos › Eski Yunan mitolojisinde kendi yansımasına aşık olan genç  [türeme]
+- Almanca › Narzissismus › a.a.  [alıntı]
+- Fransızca › narcissisme › kendini sevme hastalığı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1941, Cumhuriyet - gazete
+  > Kendi vücudile şehvetlenme (narsisizm), hayalindeki sevgilileri tahayyül ederek boşalma (istimna)
+- 1942, TDK — Felsefe ve Gramer Terimleri
+  > narkislik = [Fr.] narcissisme
+
+Not: Eski Yunanca isim muhtemelen bir Anadolu veya İran dilinden alıntıdır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/narsisizm
+
+**TDK** — köken kaydı: Fransızca narcissisme · anlam: ► özseverlik
+
+### damasko
+
+**Nişanyan — damasko**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- özel isim › Damasco › Dımışk, Şam  [türeme]
+- Fransızca › damasque › Suriye kökenli ipekli kumaş, dımışkî  [veya]
+- İtalyanca › damasco  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > damasko: Dımışkî. Dımışk malına taklid mevcli dibāc [dalgalı ipek].
+
+Not: Damasken (< Fr damasquin "Şam işi, Şam'a ait") bir tür kara eriktir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/damasko
+
+**TDK** — köken kaydı: İtalyanca damasco · anlam: Çoğunlukla döşemelik olarak kullanılan, keten ve ipek karışımı bir kumaş türü
+
+### barbekü
+
+**Nişanyan — barbekü**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Taino › barabicu › ateş çukuru  [alıntı]
+- İspanyolca › barbacoa › et kızartmak için kullanılan ızgara şeklinde bir düzenek  [alıntı]
+- İngilizce › barbecue › ızgara, et kızartma mangalı  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1958, Cumhuriyet - gazete
+  > çocuk oyuncakları, Barbecue mangalı, plâstik eşya, perde, mutfak takımları, bardak tak. V.S.
+- 1971, Milliyet - gazete
+  > Her çarşamba saat 20:30'dan itibaren Barbekü, Açık Büfe ve Havuz Eğlenceleri.
+
+Not: Karayip adaları yerli dillerinden.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/barbek%C3%BC
+
+**TDK** — köken kaydı: Fransızca barbecue · anlam: Izgara et pişirmekte kullanılan, genellikle balkonlarda duvar içerisine gömülmüş ocak
+
+### tapyoka
+
+**Nişanyan — tapyoka**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Tupi-Guarani › tipioka  [alıntı]
+- İngilizce / Fransızca › tapioca › kasava bitkisinin unu  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > salep: (...) tapyoka ve ararot tabir olunur nebatlar asıl salep nevˁinden değildir.
+
+Not: Güney Amerika yerli dillerinden.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tapyoka
+
+**TDK** — köken kaydı: Fransızca tapioca · anlam: Manyok kökünden çıkarılan nişasta
+
+### roket
+
+**Nişanyan — roket**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- İtalyanca › rocca › yün eğirmede kullanılan tüp şeklindeki ağırlık, öreke  [türeme]
+- İtalyanca › rocchetto › havai fişek  [alıntı]
+- İngilizce › rocket › havai fişek, füze  [veya]
+- Fransızca › roquette  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1870, Basiretçi Ali Bey — İstanbul Mektupları
+  > Karadeniz boğazının bazı mahallerinde ikame ettirilmiş olan roket bataryaları
+- 1973, Cumhuriyet - gazete
+  > Kuzey Suriye kıyısındaki Laskiye limanında 4 Suriye roketatar savaş gemisiyle bir avcı botunu batırdıkları da bildirilmiştir.
+
+Not: Şeklinden ötürü.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/roket
+
+**TDK** — köken kaydı: Fransızca roquette · anlam: Atış sırasında mekanik olarak yön verilen, yörüngesinin başlangıcında öz itmeli olarak yol alan ve daha sonra yalnız balistik kanunlarına bağlı kalan mermi
+
+### avokado
+
+**Nişanyan — avokado**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Nahuatl (Aztek dili) › āhuacatl › a.a.  [alıntı]
+- İspanyolca › aguacate › a.a.  [ses evrimi]
+- İspanyolca › avocado › a.a.  [alıntı]
+- İngilizce › avocado › tropik bir bitki ve meyvesi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1972, Milliyet - gazete
+  > Arçelik'lerin renkleri çok modern: ekin sarısı, avokado yeşili
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/avokado
+
+**TDK** — köken kaydı: İngilizce avocado · anlam: Defnegillerden, tropik iklime sahip bölgeler yanında, subtropikal iklime veya Akdeniz iklimine sahip çeşitli bölgelerde yetiştirilen, sıralı yapraklı, çiçekleri yeşilimsi sarı renkte olan bir ağaç; Amerikan armudu (Persea americana)
+
+### beton
+
+**Nişanyan — beton**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Kelt dilleri › *betu- › a.a.  [tahmine dayalı veya tartışmalı köken]
+- Latince › bitūmen › 1. akçaağaç reçinesi, 2. genelde reçine, zift  [ses evrimi]
+- Fransızca › béton › her türlü duvarcı harcı, özellikle çimento harcı  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Latince › betula › akçaağaç, huş ağacı  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1892, Tıngır & Sinapian — Istılahat Lugati
+  > Béton [Fr.]: temel harcı, dondurma taşı, beton.
+- 1972, Milliyet - gazete
+  > sahillerimizi betonlaşmadan kim kurtaracak?
+- 1978, Milliyet - gazete
+  > Uluslararası gazbeton üreticileri konferansı ... İstanbul Hilton Otelinde yapılmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/beton
+
+**TDK** — köken kaydı: Fransızca béton · anlam: Çimentonun su yardımıyla kum, çakıl vb. maddelerle karışması sonucu oluşan sert, dayanıklı, bağlayıcı yapı malzemesi
+
+## Katı kurallar
+
+0. **Kaynak özetleri esas alınır.**
+   - Kaynakla **çelişen** bilgi yazma. Zincir, dil sırası, biçimler ve
+     tanıklık yukarıdaki özete uymalıdır.
+   - **Kaynak metnini kopyalama.** Özetteki cümleleri, notu veya tanımı
+     olduğu gibi ya da kelimesi kelimesine yeniden yazma; maddeyi kendi
+     özgün cümlelerinle kur. `story` senin anlatın olacak.
+   - Özette **olmayan bir tanıklık uydurma**. `firstAttestation` yalnızca
+     yukarıdaki tanıklıklardan alınır; tanıklık yoksa `null`.
+   - **Bileşik dil etiketi tek halkadır.** Kaynakta bir halka
+     `Farsça / Orta Farsça` ya da `Eski Yunanca / Yunanca` gibi eğik çizgiyle
+     yazılmışsa bu **bir** aşamadır, iki değil. `chain` içine tek adım koy ve
+     iki koddan birini seç (`Farsça / Orta Farsça` → `fa`). Ardışık iki adıma
+     bölüp `pal › fa` yazma; kaynak o ayrımı yapmıyor.
+   - **Eş kökenliler zincire girmez.** Kaynak özetinde "EŞ KÖKENLİLER"
+     başlığı altında verilen diller sözcüğün Türkçeye geliş yolu değil,
+     başka dillerdeki akrabalarıdır. Bunları `chain` içine **koyma**.
+     Anlatmaya değerse `funFact` cümlesinde ya da `relatives` içinde
+     `"eş köken"` ilişkisiyle an. `chain[].meaning` alanına "eş kökenli",
+     "akraba biçim" gibi açıklama yazma; orası o aşamadaki **anlamı**
+     söyler, akrabalık notunu değil.
+   - Belirsizlik kaydını doğru alana yaz. İkisi farklı şeydir:
+     - Kaynaklar **oluşum türünde** ayrışıyorsa (biri alıntı diyor, öbürü
+       türeme) → `formationType: "tartışmalı"` **ve** `alternatives` dolu.
+     - **Veren dil ya da geliş yolu** tartışmalıysa oluşum türü bellidir:
+       `formationType: "alıntı"` kalır, tartışma `alternatives` dizisine
+       yazılır. Bu durumda `"tartışmalı"` kullanma.
+   - Özette birden çok madde varsa (`kalem`, `kalem2` gibi) yalnızca istenen
+     anlamdakini kullan; hangisini seçtiğin `currentMeaning` ile tutarlı olsun.
+   - Kaynak kaydı **bulunamayan** kelimelerde özet yerine "Kaynak kaydı
+     bulunamadı" yazar. O kelimelerde eski davranış geçerlidir: bildiğini
+     yaz, bilmediğine `null` koy, uydurma.
+   - Nişanyan dil adları Türkçedir (`Arapça`, `Eski Yunanca`,
+     `Hintavrupa Anadili`, `Aramice-Süryanice`). Bunları şemadaki ISO
+     kodlarına sen çevirirsin; ayrılmış bir ad (`Aramice-Süryanice`) için
+     kaynağın ağırlık verdiği tek kodu seç.
+1. **SADECE JSON dizi döndür.** Başında/sonunda açıklama, selamlama, özet,
+   markdown kod bloğu (```), yorum satırı olmasın. İlk karakter `[`, son
+   karakter `]` olsun.
+2. Yukarıdaki her kelime için **tam olarak bir** nesne üret; sıra korunsun.
+   Kelime ekleme, çıkarma, birleştirme yok.
+3. **Bilmiyorsan `null` yaz. Asla uydurma.** Uydurulmuş bir tanıklık, kaynak
+   veya URL maddenin tamamını düşürür. Emin olmadığın bir tarih yerine `null`
+   her zaman daha iyidir.
+4. **Her maddede en az 1 gerçek kaynak** bulunmalı. Yalnızca şunlar kabul
+   edilir: **Nişanyan Sözlük**, **TDK Güncel Türkçe Sözlük**, **Kubbealtı
+   Lugatı**, **Tietze — Tarihi ve Etimolojik Türkiye Türkçesi Lugatı**.
+   URL'den emin değilsen `"url": null` yaz; tahmini bağlantı üretme.
+5. `confidence` model kanaatin değil, **kaynak sayımı**dır: en az 2 kaynak
+   aynı kökeni veriyorsa `"yüksek"`, tek kaynak varsa `"orta"`. Kaynaklar
+   çelişiyorsa maddeyi yine üret, `formationType` değerini `"tartışmalı"` yap
+   ve çelişkiyi `alternatives` dizisine yaz.
+6. Dil kodları **ISO 639** tabanlıdır ve yalnızca aşağıdaki listeden seçilir.
+7. **Zincir `"tr"` ile biter.** `chain` eskiden yeniye sıralanır, son adımın
+   `language` değeri `"tr"`, `form` değeri madde başıdır.
+8. **Türkçe yazım kusursuz olacak.** Şapkalı ve Türkçe harfler doğru
+   (`ç ğ ı İ ö ş ü`), kesme işareti düz `'`, noktalama eksiksiz. Metin NFC
+   normalize. Yazım hatası maddeyi düşürür.
+9. `id`, `word` alanından üretilir: NFC, Türkçeye duyarlı küçük harf
+   (`İ`→`i`, `I`→`ı`), Türkçe harfler ve şapkalı harfler (`â î û`) korunur,
+   boşluk yerine `-`. Örnek: `İmza` → `imza`, `Isırgan` → `ısırgan`,
+   `Hikâye` → `hikâye`. Şapkayı atma, `hikaye` yazma.
+10. `shortMeaning` **en fazla 80 karakter**, tek cümle.
+11. `story` **2-6 cümle**. Kelimenin **anlam yolculuğunu** anlatır: hangi
+    dilde ne demekti, hangi somut nesneye veya eyleme bağlıydı, anlam nerede
+    ve neden kaydı, bugünkü anlama nasıl geldi. Okuyan kişi sonunda "demek
+    oradan geliyormuş" diyebilmeli.
+    - **Kaynak adı geçmez.** "Nişanyan Sözlük'e göre", "TDK şöyle tanımlar",
+      "Kutadgu Bilig'de kaydedilmiştir" gibi cümleler yasak. Kaynaklar
+      `sources` alanındadır, tanıklık `firstAttestation` alanındadır.
+    - **Sözlük dilinden kaçın.** "… anlamına gelir", "… sözcüğünden gelir",
+      "Arapça kökenlidir" gibi kuru tanım zincirleri tek başına hikâye
+      değildir; ardındaki somut resmi anlat.
+    - Reklam dili, ünlem, "bilir miydiniz" kalıbı, doğrudan okura seslenme yok.
+12. `reviewed` alanını **her zaman `false`** yaz; doğrulama ayrı bir adımda
+    yapılır.
+13. Şemada tanımlı olmayan alan ekleme; tanımlı alanların hiçbirini atlama.
+14. **Çevriyazıda tek standart.** Zincirdeki `form` ve `firstAttestation.form`
+    değerlerinde yalnızca şu işaretler kullanılır (Nişanyan Sözlük tarzı):
+
+    | İşaret | Ses | Yanlış karşılığı |
+    |---|---|---|
+    | `ḳ` | kalın k (ﻕ) | `q`, `k` |
+    | `ḥ` | boğazsı h (ﺡ) | `h`, `ḩ` |
+    | `ḫ` | hırıltılı h (ﺥ) | `kh`, `x` |
+    | `ṣ` | kalın s (ﺹ) | `s`, `sh` |
+    | `ṭ` | kalın t (ﻁ) | `t` |
+    | `ẓ` | kalın z (ﻅ) | `z`, `dh` |
+    | `ˁ` | ayın (ﻉ) | `ʿ`, `'`, `3` |
+    | `ˀ` | hemze (ﺀ) | `ʾ`, `'` |
+    | `ā ī ū` | uzun ünlüler | `aa`, `â`, `ii`, `uu` |
+    | `ş ç` | ş, ç sesleri | `sh`, `ch` |
+
+    `q`, `ʿ`, `ʾ` **kullanılmaz**. Örnek: `ḳalam`, `aḳribāˀ`, `ẕawḳ`,
+    `maˁnā`, `ḥikāya`. Madde başının kendisi (`word`, `id`) Türkçe yazımıyla
+    kalır, çevriyazı yalnızca kaynak dildeki biçimler içindir.
+15. **`firstAttestation`'ı hemen `null`'a düşürme.** Sözcüğün Türkçedeki en
+    eski tanıklığı sözlüklerde çoğu zaman kayıtlıdır (Dîvânu Lugâti't-Türk
+    1073, Kutadgu Bilig 1069, Codex Cumanicus 1303, Aşık Paşa 1330, Meninski
+    1680, Ahmet Vefik Paşa 1876 gibi). Önce bunu bilip bilmediğini düşün:
+    biliyorsan eser adını, yılını ve oradaki yazımı yaz. **Uydurma yasağı
+    değişmedi** — eser, yıl veya biçimden biri bile şüpheliyse üçünü birden
+    `null` yap. Tahmin edilmiş bir tanıklık, eksik tanıklıktan kötüdür.
+16. **`story` ile `alternatives` tutarlı olsun.** `story` içinde "kesin
+    değil", "olabilir", "tartışmalı", "bir görüşe göre" gibi bir kayıt
+    düşüyorsan, o belirsizliğin ne olduğunu `alternatives` dizisine kısa ve
+    kaynaklı biçimde yaz (örn. "Tietze sözcüğü Ermenice aracılığıyla
+    açıklar."). `story` kesin konuşuyorsa `alternatives` **`null`** olur.
+    Belirsizliği yalnızca `story` içinde bırakma.
+17. **Köken ipucunu doğrula, körü körüne kabul etme.** İpucu yalnızca bir
+    başlangıç noktasıdır; hatalı olabilir, ara halkaları atlamış olabilir.
+    Kaynaklara bak ve gerçek zinciri kur:
+    - İpucu kaynaklarla uyuşuyorsa onu kullan.
+    - Uyuşmuyorsa **kaynağı esas al**, ipucunu yok say.
+    - İpucu bir ara halkayı atlamışsa (örn. `fr` denmiş ama sözcük Fransızcaya
+      Latinceden geçmişse) eksik halkayı zincire ekle.
+    - İpucu doğru ama daha eski bir halka biliniyorsa `ultimateOrigin` değerini
+      buna göre ver.
+    İpucuyla kaynak arasındaki farkı `story` içinde tartışma konusu yapma;
+    sessizce doğrusunu yaz.
+
+## Şema
+
+Her nesne tam olarak şu alanları içerir:
+
+```json
+{
+  "id": "kalem",
+  "word": "kalem",
+  "rarity": "gündelik",
+  "partOfSpeech": "isim",
+  "formationType": "alıntı",
+  "donorLanguage": "ar",
+  "ultimateOrigin": "grc",
+  "chain": [
+    {"language": "grc", "form": "kálamos", "meaning": "kamış", "period": null, "reconstructed": false},
+    {"language": "ar", "form": "ḳalam", "meaning": "kamış kalem", "period": null, "reconstructed": false},
+    {"language": "tr", "form": "kalem", "meaning": "yazı aracı", "period": "13. yy", "reconstructed": false}
+  ],
+  "shortMeaning": "Yazı yazmaya yarayan araç.",
+  "currentMeaning": "Mürekkep, kurşun veya boya ile yazı yazmaya ve çizim yapmaya yarayan araç.",
+  "story": "Eski Yunancada kálamos basitçe kamış demekti. Kamışın ucu eğik kesilip mürekkebe batırılınca yazı aracına dönüştü ve sözcük Arapçaya qalam olarak geçti. Türkçeye Arapçadan gelen kalem, kamışla bağını çoktan koparmış olsa da adını hâlâ o sazlıktan taşır.",
+  "firstAttestation": {"source": "Kutadgu Bilig", "period": "1069", "form": "kalem"},
+  "relatives": [{"word": "kalemtıraş", "relation": "birleşik"}],
+  "alternatives": null,
+  "funFact": "Aynı Yunanca kökten gelen kalamar, mürekkebi yüzünden bu adı alır.",
+  "sources": [
+    {"name": "Nişanyan Sözlük", "ref": "kalem maddesi", "url": "https://www.nisanyansozluk.com/kelime/kalem"},
+    {"name": "TDK Güncel Türkçe Sözlük", "ref": "kalem", "url": null}
+  ],
+  "confidence": "yüksek",
+  "reviewed": false
+}
+```
+
+### Alan kuralları
+
+- `rarity` ∈ `gündelik`, `az-bilinen`. Kelime satırındaki değer aynen
+  kopyalanır; kendi kanaatini yazma, tahmin etme.
+- `partOfSpeech` ∈ `isim`, `sıfat`, `fiil`, `zarf`, `zamir`, `edat`, `bağlaç`,
+  `ünlem`, `deyim`.
+- `formationType` ∈ `alıntı`, `türeme`, `birleşik`, `öz`, `yansıma`,
+  `kısaltma`, `tartışmalı`.
+- `donorLanguage`: Türkçeye doğrudan veren dilin kodu; öz/yansıma maddelerde
+  `null`.
+- `ultimateOrigin`: zincirin en eski halkasının dil kodu; bilinmiyorsa `null`.
+- `chain[].meaning`: **her adımda zorunlu, dolu metin. Asla `null` olmaz.**
+  Kaynakta o adım için ayrı bir anlam verilmemişse (Nişanyan `a.a.` yazmışsa)
+  bir önceki adımın anlamını aynen tekrarla. Özel adla başlamıyorsa
+  **küçük harfle** başlar: `kamış kalem`, `yazı aracı`. Yalnızca gerçek özel
+  adlarda büyük harf olur: `Rosa cinsinden bitki`, `İran mitolojisinde bir ad`. Anlam değişmediği için boş
+  bırakmak yanlıştır; değişmediğini tekrar ederek gösterirsin.
+- `chain[].period`: `"13. yy"`, `"MÖ 5. yy"` gibi; bilinmiyorsa `null`.
+- `chain[].reconstructed`: biçim rekonstrüksiyonsa `true`. Yıldız (`*`)
+  işareti **yazma**, bu alanı kullan.
+- `firstAttestation`: `source`, `period`, `form` üçü de biliniyorsa nesne;
+  biri bile bilinmiyorsa tamamı `null`.
+- `relatives` **her zaman dizidir**. Akraba kelime yoksa `null` değil `[]`
+  yaz. `relatives[].relation` ∈ `türev`, `birleşik`, `akraba`, `eş köken`.
+  Akraba kelimenin listede olması gerekmez.
+- `alternatives`: kaynaklar arası çelişki ya da `story` içinde belirtilmiş bir
+  belirsizlik varsa cümlelerden oluşan dizi; her cümle hangi kaynağın ne
+  dediğini söyler. Belirsizlik yoksa `null`.
+- `funFact`: tek cümle veya `null`. **Yalnızca gerçekten şaşırtıcı, somut bir
+  bilgi** yazılır: beklenmedik bir akrabalık (`difteri` ile `defter`), anlamın
+  tersine dönmesi, sözcüğün bugün tanınmaz hâldeki ilk nesnesi gibi.
+  Yasak olanlar:
+  - Kaynak anma: "… Nişanyan Sözlük'te kaydedilir", "… TDK'de geçer",
+    "Kutadgu Bilig'deki tanıklıkta …".
+  - `story` veya `currentMeaning` içinde zaten söylenmiş bilginin tekrarı.
+  - Dil bilgisi ayrıntısı: "… Arapçada çoğul biçimidir", "… yönelme ekiyle
+    kullanılır".
+  - Belirsiz genelleme: "ilginç bir geçmişi vardır".
+  Böyle bir bilgi yoksa ya da emin değilsen **`null`** yaz. Boş bırakmak,
+  zayıf bir madde yazmaktan iyidir; maddelerin çoğunda `null` olması normaldir.
+- `sources[]`: `name`, `ref` zorunlu ve dolu; `url` ya gerçek bir
+  `http(s)` adresi ya `null`.
+- `confidence` ∈ `yüksek`, `orta`.
+
+### Dil kodları
+
+`tr` Türkçe · `otk` Eski Türkçe · `ota` Osmanlı Türkçesi · `tr-new` Dil
+Devrimi türetmesi · `trk` Ana Türkçe · `tt` Tatarca · `ky` Kırgızca ·
+`az` Azerbaycan Türkçesi · `ug` Uygurca · `ar` Arapça · `xsa` Eski Güney Arapça · `fa` Farsça ·
+`pal` Pehlevice · `peo` Eski Farsça · `ae` Avestaca · `ira` Ana İranca · `sog` Soğdca ·
+`ku` Kürtçe · `fr` Fransızca · `fro` Eski Fransızca · `pro` Provansalca · `grc` Eski Yunanca · `el` Yunanca ·
+`it` İtalyanca · `vec` Venedikçe · `en` İngilizce · `la` Latince · `de` Almanca · `goh` Eski Yüksek Almanca · `gmh` Orta Yüksek Almanca · `gem` Germence · `ang` Eski İngilizce · `non` Eski Nors dili · `ru` Rusça ·
+`mn` Moğolca · `hy` Ermenice · `es` İspanyolca · `pt` Portekizce ·
+`nl` Felemenkçe · `sa` Sanskritçe · `he` İbranice · `arc` Aramice ·
+`syc` Süryanice · `akk` Akkadca · `sux` Sümerce · `uga` Ugaritçe · `phn` Fenikece · `hit` Hititçe · `nah` Nahuatl dili · `cu` Eski Kilise Slavcası · `egy` Eski Mısırca ·
+`hu` Macarca · `bg` Bulgarca · `sr` Sırpça · `ro` Rumence · `sq` Arnavutça ·
+`hi` Hintçe · `ur` Urduca · `ms` Malayca · `ja` Japonca · `zh` Çince ·
+`cel` Kelt ana dili · `dra` Dravit ana dili · `ine` Hint-Avrupa ana dili · `sla` Slav ana dili · `sem` Sami ana dili
+
+Listede olmayan bir dile ihtiyaç duyarsan o maddeyi en yakın üst dile bağla
+veya ilgili zincir adımını atla; uydurma kod üretme.
+
+## Son hatırlatma
+
+Çıktı: tek bir JSON dizi. İlk karakter `[`, son karakter `]`. Başka hiçbir şey
+yok.
+
+codex
+[
+  {
+    "id": "elmas",
+    "word": "elmas",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {"language": "akk", "form": "elmēşu", "meaning": "değerli metal; tanrıları niteleyen parlaklık", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "almās", "meaning": "en sert değerli taş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "elmas", "meaning": "saf karbonun kristalleşmiş biçimi olan değerli taş", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Saf karbonun kristalleşmesiyle oluşan değerli taş.",
+    "currentMeaning": "Yer altında oluşan, saf karbonun kristal yapıya büründüğü değerli taş.",
+    "story": "Bu adın geçmişinde yalnızca bir taş değil, değerli bir metalin ve tanrıların parıltısı da bulunur. Akatçadaki elmēşu böyle bir parlaklığı taşırken, Arapça ve Farsçada kullanılan almās değerli taşların en sertini adlandırır. Türkçedeki elmas, bu eski parlaklık fikrini kristalleşmiş karbonun üzerinde sürdürür.",
+    "firstAttestation": {"source": "Codex Cumanicus", "period": "1303", "form": "yalmas"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "İngilizce diamond, elmasla aynı taşı adlandırmasına rağmen Eski Yunanca ve Latince üzerinden geçen başka bir yolu izler.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "elmas maddesi", "url": "https://www.nisanyansozluk.com/kelime/elmas"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "elmas", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "minyatür",
+    "word": "minyatür",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "minium", "meaning": "canlı kırmızı boya sağlayan mineral", "period": null, "reconstructed": false},
+      {"language": "la", "form": "miniare", "meaning": "kırmızı mineral boyasıyla bezemek", "period": null, "reconstructed": false},
+      {"language": "la", "form": "miniatura", "meaning": "kırmızı mürekkeple yazı yazma ve bezeme", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "miniature", "meaning": "yazma kitap bezemesi; küçük boyutlu şey", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "minyatür", "meaning": "yazma kitaplarla ilişkilendirilen küçük ve renkli resim sanatı", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yazma kitaplarda görülen küçük ve renkli resim sanatı.",
+    "currentMeaning": "Genellikle eski el yazması kitaplarda kullanılan, ışık, gölge ve hacim etkisini işlemeyen küçük renkli resimler yapma sanatı.",
+    "story": "Minyatürün başlangıcında küçüklükten önce kırmızı boya vardır. Latincede minium denen mineralden elde edilen boyayla yazıları bezeme işi, zamanla kitap süslemesinin adına dönüştü. Fransızcada kitap bezemesinden küçük boyutlu nesnelere uzanan kullanım, Latincenin küçüklük bildiren minus ve mini- biçimlerinin etkisiyle gelişti. Türkçede sözcük, özellikle yazma kitapların küçük renkli resimleriyle yerleşti.",
+    "firstAttestation": {"source": "Tıngır & Sinapian — Istılahat Lugati", "period": "1892", "form": "minyatura"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "minyatür maddesi", "url": "https://www.nisanyansozluk.com/kelime/minyat%C3%BCr"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "minyatür", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sifilis",
+    "word": "sifilis",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "la",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "sý-philos", "meaning": "domuzu seven", "period": null, "reconstructed": false},
+      {"language": "la", "form": "Syphilus", "meaning": "1530 tarihli bir şiirin kahramanının adı", "period": "16. yy", "reconstructed": false},
+      {"language": "la", "form": "syphilis", "meaning": "frengi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sifilis", "meaning": "frengi", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Frengi adıyla da bilinen hastalık.",
+    "currentMeaning": "Frengi hastalığının diğer adı.",
+    "story": "Sifilis adı, hastalığı konu alan 1530 tarihli bir şiirin kahramanı Syphilus'tan doğdu. Kahramanın adının arkasında Eski Yunancada domuz ile sevme fikrini birleştiren bir kuruluş vardır. Edebî bir kişinin adı Yeni Latincede hastalığın adına dönüşürken Türkçeye doğrudan bu dilden mi, Fransızca aracılığıyla mı ulaştığı konusunda farklı açıklamalar bulunur.",
+    "firstAttestation": {"source": "Ahmed Rasim — Şehir Mektupları", "period": "1898", "form": "sifilise"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçedeki biçimi Yeni Latince syphilis ile açıklar; TDK Güncel Türkçe Sözlük doğrudan veren dili Fransızca olarak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sifilis maddesi", "url": "https://www.nisanyansozluk.com/kelime/sifilis"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sifilis", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "sinik",
+    "word": "sinik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {"language": "ine", "form": "ḱwóns", "meaning": "köpek", "period": null, "reconstructed": true},
+      {"language": "grc", "form": "kýon, kyno-", "meaning": "köpek", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "kynikós", "meaning": "köpekle ilişkilendirilen; Antisthenes'in okulunu benimseyen kişi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "cynique", "meaning": "kuşkucu", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "sinik", "meaning": "sinizmi benimseyen kişi veya görüş", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Sinizmi benimseyen kişi veya görüş; kinik.",
+    "currentMeaning": "Sinizm düşüncesini benimseyen kimseyi veya bu düşünceye bağlı görüşü niteleyen söz.",
+    "story": "Sinik sözünün gerisinde Eski Yunancanın köpek adı bulunur. Bu hayvan adıyla kurulan kynikós, Antisthenes'in felsefe okuluna bağlanan kişileri adlandırdı; okulun Kynósargēs adlı yerde bulunmasıyla kurulan bağlantı ise bir rivayettir. Fransızcada kuşkucu tutuma uzanan sözcük, Türkçede sinizm yanlısı kişi ve görüşler için kullanılır.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar — Kokotlar Mektebi", "period": "1927", "form": "sinik"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, kynikós adının Kynósargēs adlı okul yerinden doğduğu açıklamasını kesin bilgi olarak değil, rivayet olarak aktarır."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "sinik maddesi", "url": "https://www.nisanyansozluk.com/kelime/sinik"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "sinik", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "fes",
+    "word": "fes",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "ar", "form": "Fās", "meaning": "Fas'taki kent ve onunla ilişkilendirilen ülke adı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "Fes", "meaning": "Fas'taki kent ve onunla ilişkilendirilen ülke adı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "fes", "meaning": "kırmızı çuhadan yapılan püsküllü silindir başlık", "period": "17. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kırmızı çuhadan yapılan, tepesi püsküllü silindir başlık.",
+    "currentMeaning": "Şapka gibi giyilen, kalın kırmızı çuhadan yapılmış, tepesinde püskül bulunan silindir biçimli başlık.",
+    "story": "Fes, adını Kuzey Afrika'daki Fes kentinden taşıyan bir başlıktır. Mağrip'ten gelen kırmızı başlığın adı, geldiği yerin adıyla birlikte Türkçeye yerleşti. II. Mahmut dönemindeki kıyafet değişikliği, bu bölgesel başlığı Osmanlı devletinin resmî giyiminin parçası yaptı. Yer adının daha eski Berberice biçimi ise belirli değildir.",
+    "firstAttestation": {"source": "Meninski — Thesaurus", "period": "1680", "form": "fes"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Mağrip Arapçasındaki yer adını Berbericeye bağlar ancak Berberice biçimi soru işaretiyle bırakır."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "fes maddesi", "url": "https://www.nisanyansozluk.com/kelime/fes"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "fes", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "trajedi",
+    "word": "trajedi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "ōidía", "meaning": "şarkı, türkü", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "trágos", "meaning": "keçi", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "tragōidía", "meaning": "keçi şarkısı; acıklı tiyatro oyunu", "period": "MÖ 5. yy", "reconstructed": false},
+      {"language": "la", "form": "tragoedia", "meaning": "acıklı tiyatro oyunu", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "tragédie", "meaning": "acıklı tiyatro oyunu; üzücü olay", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "trajedi", "meaning": "efsane veya tarihten beslenen, acıklı biten tiyatro eseri", "period": "18. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Efsane veya tarihten beslenen, acıklı biten tiyatro eseri.",
+    "currentMeaning": "Olaylarını efsanelerden ya da tarihten alan ve acıklı bir sonla tamamlanan tiyatro eseri; ağlatı.",
+    "story": "Trajedinin adında Eski Yunancanın keçisiyle şarkısı birleşir. Bu adın, eski Atina'daki oyuncuların yanık sesli söyleyişini keçi sesine benzetmekten doğduğu düşünülür. Latinceye bir sahne türünün adı olarak geçen sözcük, Fransızcada sahne dışındaki acıklı olayları da kapsadı. Türkçe trajedi, bu yolculuğun sonunda acıyla biten tiyatro eserinin adı oldu.",
+    "firstAttestation": {"source": "Ebubekir Ratib Ef. — Nemçe Sefaretnamesi", "period": "1792", "form": "tracedya"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, keçi şarkısı adlandırmasını oyuncuların yanık sesli söyleyişiyle ilişkilendiren açıklamayı kesinleşmiş bilgi olarak sunmaz."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "trajedi maddesi", "url": "https://www.nisanyansozluk.com/kelime/trajedi"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "trajedi", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "flört",
+    "word": "flört",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "flōs, flōr-", "meaning": "çiçek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "fleur", "meaning": "çiçek", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "fleurette", "meaning": "küçük çiçek veya buket; gönül alıcı söz ve cilve", "period": null, "reconstructed": false},
+      {"language": "en", "form": "flirt", "meaning": "cilve, işve", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "flört", "meaning": "kadın ile erkek arasında duygusal ilişki", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Kadın ile erkek arasında kurulan duygusal ilişki.",
+    "currentMeaning": "Bir kadın ile bir erkek arasındaki duygusal yakınlık ve ilişki.",
+    "story": "Flörtün anlatılan köken yolunda çiçek, gönül alıcı söze dönüşür. Latincenin çiçek adı Fransızcada fleur olurken, fleurette hem küçük bir çiçeği hem de karşıdakini hoşnut eden sözleri adlandırdı. İngilizce flirt bu çizgide cilve ve işveyle ilişkilendirilir. Türkçedeki duygusal ilişki adına doğrudan İngilizceden mi, Fransızcadan mı ulaşıldığı konusunda kaynaklar ayrılır.",
+    "firstAttestation": {"source": "Servet-i Fünun — dergi", "period": "1900", "form": "flört"},
+    "relatives": [
+      {"word": "flower", "relation": "akraba"},
+      {"word": "flourish", "relation": "akraba"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye aktarımı İngilizce flirt üzerinden verir; TDK Güncel Türkçe Sözlük Fransızca flirt biçimini doğrudan kaynak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "flört maddesi", "url": "https://www.nisanyansozluk.com/kelime/fl%C3%B6rt"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "flört", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "goril",
+    "word": "goril",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "gorílla", "meaning": "eski anlatılarda Afrika ormanlarında yaşayan insan", "period": "MÖ 5. yy", "reconstructed": false},
+      {"language": "la", "form": "gorilla", "meaning": "eski anlatılarda Afrika ormanlarında yaşayan insan", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "gorille", "meaning": "Afrika'da yaşayan iri bir maymun türü", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "goril", "meaning": "Afrika'nın ekvator ormanlarında yaşayan iri ve güçlü maymun", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Afrika'nın ekvator ormanlarında yaşayan iri ve güçlü maymun.",
+    "currentMeaning": "Afrika'nın ekvator çevresindeki ormanlarında yaşayan, iri gövdeli ve güçlü bir maymun türü.",
+    "story": "Gorilin adı, eski bir deniz yolculuğu anlatısındaki orman insanlarına kadar uzanır. Kartacalı Hanno'nun hikâyesinde Afrika'daki bir dilden alınmış olarak gösterilen ad, Eski Yunancada gorílla biçimindedir. Yeni Latince ve Fransızcadan geçen sözcük, orman insanı tasvirinden belirli bir büyük maymunun adına dönüştü. Türkçe de bu hayvan adını Fransızcadan aldı.",
+    "firstAttestation": {"source": "Ahmed Vefik Paşa — Lehce-i Osmani", "period": "1876", "form": "gorilla"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "goril maddesi", "url": "https://www.nisanyansozluk.com/kelime/goril"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "goril", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "veranda",
+    "word": "veranda",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "pt",
+    "chain": [
+      {"language": "pt", "form": "baranda", "meaning": "parmaklık", "period": null, "reconstructed": false},
+      {"language": "hi", "form": "varanda/baranda", "meaning": "parmaklık", "period": null, "reconstructed": false},
+      {"language": "en", "form": "veranda/verandah", "meaning": "zemin katta bahçeye veya avluya açılan parmaklıklı taraça", "period": "18. yy", "reconstructed": false},
+      {"language": "tr", "form": "veranda", "meaning": "yapının önünde bulunan çatılı, açık veya camla çevrili sundurma", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Yapının önünde bulunan, çatılı ve yanları açık veya camlı sundurma.",
+    "currentMeaning": "Genellikle bağımsız evlerin ön cephesinde, zemin düzeyinde veya biraz yüksekte bulunan, çatısı olan ve yanları açık ya da camla kapatılmış geniş sundurma.",
+    "story": "Verandanın geçmişinde önce bir mekânı çevreleyen parmaklık vardır. Portekizce baranda Hintçeye taşındıktan sonra İngilizcede bahçeye açılan parmaklıklı taraçayı adlandırdı. Böylece çevreleyen yapı unsurunun adı, evin dışarıya uzanan bölümüne yayıldı. Türkçeye geçişte İngilizce ile Fransızca arasında farklı açıklamalar bulunur.",
+    "firstAttestation": {"source": "Cumhuriyet — gazete", "period": "1938", "form": "veranda"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye doğrudan veren dil olarak İngilizceyi gösterir; TDK Güncel Türkçe Sözlük Fransızca véranda biçimini esas alır."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "veranda maddesi", "url": "https://www.nisanyansozluk.com/kelime/veranda"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "veranda", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tercüman",
+    "word": "tercüman",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {"language": "akk", "form": "ragāmu", "meaning": "seslenmek, konuşmak, dava açmak", "period": null, "reconstructed": false},
+      {"language": "akk", "form": "targumannu", "meaning": "seslenmek, konuşmak, dava açmak", "period": null, "reconstructed": false},
+      {"language": "arc", "form": "targəmānā", "meaning": "seslenmek, konuşmak, dava açmak", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "tarcumān", "meaning": "çeviri yapan kişi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tercüman", "meaning": "çeviri yapan kişi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Bir dilde anlatılanı başka bir dile aktaran kişi.",
+    "currentMeaning": "Sözlü veya yazılı bir anlatımı başka bir dile çeviren kişi; çevirmen.",
+    "story": "Tercümanın uzak geçmişinde Akatçanın seslenme, konuşma ve dava açma eylemlerini karşılayan ragāmu bulunur. Söz söyleme çevresinde başlayan bu yol, targumannu ve Aramice targəmānā üzerinden Arapçadaki çevirmen adına uzanır. Türkçeye geçen tercüman, konuşmayı diller arasında taşıyan kişiyi adlandırmayı sürdürür.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "tercümān"},
+    "relatives": [
+      {"word": "tarkummiya", "relation": "akraba"},
+      {"word": "tarkman", "relation": "akraba"}
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tercüman maddesi", "url": "https://www.nisanyansozluk.com/kelime/terc%C3%BCman"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tercüman", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "parşömen",
+    "word": "parşömen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {"language": "la", "form": "Pergamum", "meaning": "Bergama kentinin adı", "period": null, "reconstructed": false},
+      {"language": "la", "form": "(charta) pergamena", "meaning": "Bergama kentinin adı", "period": "MÖ 2. yy", "reconstructed": false},
+      {"language": "fr", "form": "parchemin", "meaning": "sığır veya koyun derisinden hazırlanan yazı malzemesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "parşömen", "meaning": "yazı ve resim için işlenmiş deri", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Üzerine yazı yazmak veya resim yapmak için işlenmiş deri.",
+    "currentMeaning": "Yazı ya da resim yüzeyi olarak kullanılabilmesi için özel işlemlerden geçirilen deri.",
+    "story": "Parşömen, adında Bergama kentini saklayan bir yazı malzemesidir. Bu adlandırma, malzemenin orada icat edilmesine ya da nitelikli örneklerinin orada üretilmesine bağlanır. Kent adıyla ilişkilendirilen Latince ifade Fransızcada parchemin biçimine dönüştü. Türkçeye ulaşan parşömen, deri yüzeyin yazı ve resim için hazırlanmış hâlini adlandırır.",
+    "firstAttestation": {"source": "Mehmed Salahi — Kamus-ı Osmani", "period": "1895", "form": "parşömendir"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Bergama bağlantısını malzemenin burada icat edilmesi veya iyi cinsinin burada üretilmesi olmak üzere iki olasılıkla açıklar."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "parşömen maddesi", "url": "https://www.nisanyansozluk.com/kelime/par%C5%9F%C3%B6men"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "parşömen", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "simya",
+    "word": "simya",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "sêma(t)", "meaning": "işaret, simge", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "sēmeîon", "meaning": "işaret, simge, belirti", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "sēmeîa", "meaning": "simgeler ve saklı anlamlar", "period": null, "reconstructed": false},
+      {"language": "arc", "form": "sīmiyā", "meaning": "simgeler ve saklı anlamlar", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "sīmiyāˀ", "meaning": "büyücülük, sihir", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "simya", "meaning": "alşimi", "period": "14. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Alşimi adıyla da bilinen uğraş.",
+    "currentMeaning": "Alşimi için kullanılan ad.",
+    "story": "Simyanın adı başlangıçta madenlerden çok işaretlerle ilgilidir. Eski Yunancada simge ve belirtileri adlandıran sözcükler, saklı anlamları da kapsayan sēmeîa biçiminde birleşir. Aramice üzerinden Arapçaya geçen ad, büyü ve sihir çevresinde kullanıldı. Türkçede alşimiyi karşılayan kullanım, işaretlerin gizli anlamlarından dönüşüm arayışlarına uzanan bu geçmişi taşır.",
+    "firstAttestation": {"source": "Gülşehri — Mantıku't-Tayr", "period": "1317", "form": "sīmiyā"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Simya ile kimya, İslam geleneğinde birlikte anılsalar da etimolojik olarak birbirinden bağımsızdır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "simya maddesi", "url": "https://www.nisanyansozluk.com/kelime/simya"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "simya", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "saten",
+    "word": "saten",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "zh",
+    "chain": [
+      {"language": "zh", "form": "Citongcheng", "meaning": "Quanzhou'nun tung ağacıyla ilişkili eski kent adı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "Ẓaytūn", "meaning": "Güney Çin'deki bir liman kentinin adı", "period": null, "reconstructed": false},
+      {"language": "ar", "form": "ẓaytūnī", "meaning": "Çin'den gelen bir ipekli kumaş çeşidi", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "satin", "meaning": "ipekten veya ipeği andıran malzemeden kumaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "saten", "meaning": "atlas adıyla da anılan kumaş", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Atlas adıyla da anılan kumaş türü.",
+    "currentMeaning": "Atlas olarak da adlandırılan kumaş.",
+    "story": "Satenin uzak kökeni için önerilen yol, Güney Çin'deki bir liman kentine uzanır. Quanzhou'nun eski adı Arapçada Ẓaytūn biçimini almış, onunla ilişkilendirilen ẓaytūnī ise bir Çin ipeklisini adlandırmıştır. Fransızca satin ile bu kumaş adı arasındaki bağlantı tartışmalıdır. Türkçeye Fransızcadan geçen saten, kumaş adı olarak yerleşmiştir.",
+    "firstAttestation": {"source": "Hüseyin Rahmi Gürpınar — Tutuşmuş Gönüller", "period": "1926", "form": "saten"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Fransızca satin biçiminin Arapça ẓaytūnī ile bağlantısını tahmine dayalı veya tartışmalı olarak işaretler."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "saten maddesi", "url": "https://www.nisanyansozluk.com/kelime/saten"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "saten", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "narsisizm",
+    "word": "narsisizm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {"language": "grc", "form": "nárkissos", "meaning": "nergis", "period": null, "reconstructed": false},
+      {"language": "grc", "form": "Nárkissos", "meaning": "Yunan mitolojisinde kendi görüntüsüne tutulan genç", "period": null, "reconstructed": false},
+      {"language": "de", "form": "Narzissismus", "meaning": "Yunan mitolojisinde kendi görüntüsüne tutulan genç", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "narcissisme", "meaning": "kişinin kendisini hastalık ölçüsünde sevmesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "narsisizm", "meaning": "özseverlik", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Özseverlik.",
+    "currentMeaning": "Kişinin kendisine yönelttiği sevgiyle ilgili özseverlik kavramı.",
+    "story": "Narsisizmin adında hem nergis çiçeği hem de kendi yansımasına âşık olan mitolojik genç vardır. Eski Yunancada aynı ad çevresinde buluşan çiçek ve genç, kişinin sevgisini kendisine yöneltmesini anlatan terimin temelini oluşturdu. Almanca Narzissismus üzerinden Fransızcaya geçen terim, oradan Türkçeye taşındı. Böylece bir mitolojik kişinin adı, özseverliği anlatan bir kavrama dönüştü.",
+    "firstAttestation": {"source": "Cumhuriyet — gazete", "period": "1941", "form": "narsisizm"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "narsisizm maddesi", "url": "https://www.nisanyansozluk.com/kelime/narsisizm"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "narsisizm", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "damasko",
+    "word": "damasko",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "Damasco", "meaning": "Şam kentinin adı", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "damasque", "meaning": "Suriye ile ilişkilendirilen ipekli kumaş", "period": null, "reconstructed": false},
+      {"language": "it", "form": "damasco", "meaning": "Suriye ile ilişkilendirilen ipekli kumaş", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "damasko", "meaning": "çoğunlukla döşemede kullanılan keten ve ipek karışımlı kumaş", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Çoğunlukla döşemede kullanılan keten ve ipek karışımlı kumaş.",
+    "currentMeaning": "Keten ile ipeğin karıştırılmasıyla yapılan ve genellikle döşemelik olarak değerlendirilen kumaş türü.",
+    "story": "Damasko, Şam kentinin Damasco biçimindeki adını kumaş üzerinde yaşatır. Şehirle ilişkilendirilen ipekli dokuma, Fransızcada damasque ve İtalyancada damasco adlarıyla karşılık buldu. Türkçeye veren dil için İtalyanca yanında Fransızca da olası bir yol olarak gösterilir. Türkçede ad, çoğunlukla döşemelik kullanılan keten ve ipek karışımı kumaşa yerleşmiştir.",
+    "firstAttestation": {"source": "Ahmed Vefik Paşa — Lehce-i Osmani", "period": "1876", "form": "damasko"},
+    "relatives": [
+      {"word": "damasken", "relation": "akraba"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük Fransızca damasque ile İtalyanca damasco biçimlerini alternatif aktarım yolları olarak verir; TDK Güncel Türkçe Sözlük İtalyancayı seçer."
+    ],
+    "funFact": "Bir kara erik türünün adı olan damasken de Şam'a bağlanan bir ad taşır.",
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "damasko maddesi", "url": "https://www.nisanyansozluk.com/kelime/damasko"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "damasko", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "barbekü",
+    "word": "barbekü",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "es", "form": "barbacoa", "meaning": "eti kızartmaya yarayan ızgaralı düzenek", "period": null, "reconstructed": false},
+      {"language": "en", "form": "barbecue", "meaning": "et pişirme ızgarası veya mangalı", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "barbekü", "meaning": "ızgara et pişirilen, çoğunlukla duvara yerleştirilmiş ocak", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Izgara et pişirmek için kullanılan ocak.",
+    "currentMeaning": "Etin ızgarada pişirilmesini sağlayan, sıklıkla balkon duvarına gömülü olarak yapılan ocak.",
+    "story": "Barbekünün geçmişinde Karayiplerin Taino dilindeki ateş çukuru adı barabicu vardır. İspanyolcada barbacoa, etin ateş üzerinde kızartıldığı ızgaralı düzeneği adlandırdı; İngilizcede barbecue mangal ve ızgara çevresinde kullanıldı. Türkçeye doğrudan İngilizceden mi, Fransızcadan mı geçtiği konusunda farklı açıklamalar vardır. Bugünkü ocak adı, bu eski açık ateşte pişirme düzeninin izini taşır.",
+    "firstAttestation": {"source": "Cumhuriyet — gazete", "period": "1958", "form": "Barbecue"},
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye aktarımı İngilizce barbecue üzerinden açıklar; TDK Güncel Türkçe Sözlük doğrudan veren dili Fransızca olarak kaydeder."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "barbekü maddesi", "url": "https://www.nisanyansozluk.com/kelime/barbek%C3%BC"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "barbekü", "url": null}
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tapyoka",
+    "word": "tapyoka",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": null,
+    "chain": [
+      {"language": "fr", "form": "tapioca", "meaning": "kasava bitkisinden elde edilen un", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "tapyoka", "meaning": "manyok kökünden elde edilen nişasta", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Manyok kökünden elde edilen nişasta.",
+    "currentMeaning": "Manyok bitkisinin kökleri işlenerek ayrıştırılan nişasta.",
+    "story": "Tapyoka adı, Güney Amerika'nın Tupi-Guarani dillerindeki tipioka biçiminden taşınmıştır. İngilizce ve Fransızcada tapioca, kasava denen bitkinin ununu adlandırır. Türkçede ad, aynı bitkinin manyok adıyla bilinen kökünden çıkarılan nişastaya yerleşmiştir.",
+    "firstAttestation": {"source": "Ahmed Vefik Paşa — Lehce-i Osmani", "period": "1876", "form": "tapyoka"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "tapyoka maddesi", "url": "https://www.nisanyansozluk.com/kelime/tapyoka"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "tapyoka", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "roket",
+    "word": "roket",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "it",
+    "chain": [
+      {"language": "it", "form": "rocca", "meaning": "yün eğirmede kullanılan tüp biçimli ağırlık, öreke", "period": null, "reconstructed": false},
+      {"language": "it", "form": "rocchetto", "meaning": "havai fişek", "period": null, "reconstructed": false},
+      {"language": "en", "form": "rocket", "meaning": "havai fişek veya füze", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "roquette", "meaning": "havai fişek veya füze", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "roket", "meaning": "ilk bölümde kendi itişiyle ilerleyip sonra balistik hareket eden mermi", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Önce kendi itişiyle, ardından balistik hareketle ilerleyen mermi.",
+    "currentMeaning": "Fırlatılırken mekanik olarak yönlendirilen, yolunun başlangıcında kendi itiş gücüyle ilerleyen ve sonrasında balistik hareketini sürdüren mermi.",
+    "story": "Roketin adının gerisinde yün eğirmede kullanılan tüp biçimli bir ağırlık vardır. İtalyanca rocca ile ilişkili rocchetto, biçim benzerliği üzerinden havai fişeğin adı oldu. Ateşle yükselen bu nesnenin adı, İngilizce ve Fransızcada füze çevresinde de kullanıldı. Türkçeye aktarım için Fransızca yanında İngilizce yolu da gösterilir.",
+    "firstAttestation": {"source": "Basiretçi Ali Bey — İstanbul Mektupları", "period": "1870", "form": "roket"},
+    "relatives": [
+      {"word": "roketatar", "relation": "birleşik"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük İngilizce rocket ile Fransızca roquette biçimlerini alternatifler olarak verir; TDK Güncel Türkçe Sözlük Fransızca aktarımı esas alır."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "roket maddesi", "url": "https://www.nisanyansozluk.com/kelime/roket"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "roket", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "avokado",
+    "word": "avokado",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "nah",
+    "chain": [
+      {"language": "nah", "form": "āhuacatl", "meaning": "tropikal bir bitki ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "es", "form": "aguacate", "meaning": "tropikal bir bitki ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "es", "form": "avocado", "meaning": "tropikal bir bitki ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "en", "form": "avocado", "meaning": "tropikal bir bitki ve meyvesi", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "avokado", "meaning": "defnegillerden, sıcak iklimlerde yetiştirilen bir ağaç", "period": "20. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Sıcak iklimlerde yetiştirilen, defnegillerden bir ağaç.",
+    "currentMeaning": "Tropikal, subtropikal ve Akdeniz iklimli bölgelerde yetiştirilen, yaprakları sıralı, çiçekleri sarıya çalan yeşil renkte olan defnegillerden bir ağaç; Amerikan armudu.",
+    "story": "Avokado adı, Nahuatl dilindeki āhuacatl ile birlikte bitkinin ve meyvesinin adını taşır. İspanyolcada aguacate ve ardından avocado biçimlerine ulaşan sözcük, İngilizcede de bitkiyi ve meyveyi adlandırmayı sürdürdü. Türkçeye İngilizceden gelen adın yolculuğunda nesne aynı kaldı, sesler değişti.",
+    "firstAttestation": {"source": "Milliyet — gazete", "period": "1972", "form": "avokado"},
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "avokado maddesi", "url": "https://www.nisanyansozluk.com/kelime/avokado"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "avokado", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "beton",
+    "word": "beton",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "cel",
+    "chain": [
+      {"language": "cel", "form": "betu-", "meaning": "ağaç reçinesi, zift", "period": null, "reconstructed": true},
+      {"language": "la", "form": "bitūmen", "meaning": "akçaağaç reçinesi; reçine ve zift", "period": null, "reconstructed": false},
+      {"language": "fr", "form": "béton", "meaning": "duvar örme harcı, özellikle çimentolu harç", "period": null, "reconstructed": false},
+      {"language": "tr", "form": "beton", "meaning": "çimento, su ve taşlı malzeme karışımından oluşan dayanıklı yapı malzemesi", "period": "19. yy", "reconstructed": false}
+    ],
+    "shortMeaning": "Çimento, su, kum ve çakıl karışımından oluşan dayanıklı yapı malzemesi.",
+    "currentMeaning": "Çimentonun suyla birlikte kum, çakıl ve benzeri malzemelerle karıştırılmasıyla elde edilen, sertleşen ve dayanıklılık sağlayan yapı malzemesi.",
+    "story": "Betonun adının geçmişinde ağaç reçinesi ve zift bulunur. Latince bitūmen bu maddeleri adlandırırken, Fransızca béton duvar harcının ve özellikle çimentolu karışımların adı oldu. Türkçedeki beton, bu yolun sonunda sertleşen yapı malzemesine yerleşti. Latince biçimin daha geride Kelt dillerindeki bir köke bağlanması ise kesin değildir.",
+    "firstAttestation": {"source": "Tıngır & Sinapian — Istılahat Lugati", "period": "1892", "form": "beton"},
+    "relatives": [
+      {"word": "betula", "relation": "eş köken"},
+      {"word": "betonlaşmak", "relation": "türev"},
+      {"word": "gazbeton", "relation": "birleşik"}
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Latince bitūmen biçiminin Kelt dillerindeki yeniden kurulmuş betu- köküyle bağlantısını tahmine dayalı veya tartışmalı olarak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {"name": "Nişanyan Sözlük", "ref": "beton maddesi", "url": "https://www.nisanyansozluk.com/kelime/beton"},
+      {"name": "TDK Güncel Türkçe Sözlük", "ref": "beton", "url": null}
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]
+tokens used
+29,070

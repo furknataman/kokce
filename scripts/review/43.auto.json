@@ -1,0 +1,112 @@
+[
+  {
+    "id": "bütçe",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "zümrüt",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "divan",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "boraks",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "zencefil",
+    "verdict": "check",
+    "reasons": [
+      "Zincir sırası kaynaktan farklı: madde sa › ine › sa › arc › ar, kaynak sa › sa › ine › arc › ar"
+    ]
+  },
+  {
+    "id": "robot",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: sla"
+    ]
+  },
+  {
+    "id": "sabun",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "arsenik",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "domates",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "gazete",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "bukalemun",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "abanoz",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: egy"
+    ]
+  },
+  {
+    "id": "alkol",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "fermuar",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "misk",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "mendil",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "fanila",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: cel"
+    ]
+  },
+  {
+    "id": "zirkon",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 1892, kaynaktaki en eski tanıklık 1873 ve o kayıt madde başını içeriyor"
+    ]
+  },
+  {
+    "id": "traverten",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "jaluzi",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

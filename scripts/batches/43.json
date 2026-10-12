@@ -1,0 +1,1672 @@
+[
+  {
+    "id": "bütçe",
+    "word": "bütçe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "bʰelǵʰ-",
+        "meaning": "şişmek",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "la",
+        "form": "bulga",
+        "meaning": "eşya taşınan torba",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fro",
+        "form": "bouget",
+        "meaning": "para veya eşya konulan küçük kese",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "budget",
+        "meaning": "para veya belge kesesi; devletin yıllık gelir ve gider tahmini",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "budget",
+        "meaning": "gelir ve gider planı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bütçe",
+        "meaning": "belirli bir dönem için öngörülen gelir ve giderlerin bütünü",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Belirli bir dönem için öngörülen gelir ve giderlerin bütünü.",
+    "currentMeaning": "Bir devletin, kurumun, ailenin veya kişinin belli bir dönem için öngördüğü gelirlerle harcamaların bütünü.",
+    "story": "Bütçenin geçmişinde hesap çizelgesinden önce bir torba vardır. Şişme düşüncesine uzanan Latince bulga, Eski Fransızcada küçük bir kesenin adına dönüştü. İngilizcede budget önce para ve belgelerin taşındığı keseyi, ardından hükümetin yıllık mali hesabını adlandırdı. Bu hesap anlamı Fransızcaya, oradan da Türkçeye geçti.",
+    "firstAttestation": {
+      "source": "Düstur Tertip I.-IV.",
+      "period": "1855",
+      "form": "Büdce"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bütçe maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/b%C3%BCt%C3%A7e"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bütçe",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zümrüt",
+    "word": "zümrüt",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "akk",
+    "chain": [
+      {
+        "language": "akk",
+        "form": "barāḳu",
+        "meaning": "ışıldamak, şimşek çakmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "akk",
+        "form": "barraḳtu",
+        "meaning": "değerli bir taş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "smáragdos",
+        "meaning": "değerli bir taş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "pal",
+        "form": "uzumburd",
+        "meaning": "değerli bir taş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "zumurrud/zumrud",
+        "meaning": "değerli bir taş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "zümrüt",
+        "meaning": "yeşil ve saydam bir değerli taş",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yeşil renkli, saydam ve parlak bir değerli taş.",
+    "currentMeaning": "Alüminyum ve berilyum silikatından oluşan, camı andıran parlaklığıyla tanınan yeşil ve saydam süs taşı.",
+    "story": "Zümrüdün adını ışıldama ve şimşek çakma düşüncesine bağlayan eski bir iz vardır. Akatçadaki değerli taş adıyla kurulan bu bağ kesin değildir; sözcüğün daha uzak başlangıcı için Hint dilleri de gündeme gelir. Eski Yunancadaki smáragdos biçimi Orta Farsçada değişmiş, Arapça ve Farsçada dolaşan zumurrud ve zumrud biçimleriyle Türkçeye ulaşmıştır. Türkçede bu ad, yeşil ve saydam süs taşıyla özdeşleşmiştir.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "smurut"
+    },
+    "relatives": [
+      {
+        "word": "emerald",
+        "relation": "eş köken"
+      },
+      {
+        "word": "esmeralda",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Akatça barraḳtu bağlantısını tartışmalı gösterir ve nihai kaynağın bir Hint dili veya Sami dili olabileceğini belirtir."
+    ],
+    "funFact": "İngilizce emerald ile İspanyolca esmeralda, zümrüdün Yunanca atasından Latince aracılığıyla gelişmiştir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "zümrüt maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/z%C3%BCmr%C3%BCt"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "zümrüt",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "divan",
+    "word": "divan",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "sux",
+    "chain": [
+      {
+        "language": "sux",
+        "form": "dup-",
+        "meaning": "yazı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "peo",
+        "form": "dipi-vahana-",
+        "meaning": "yazı işleri evi",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "pal",
+        "form": "dīvān",
+        "meaning": "yazı işlerini yürüten kurul",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "dīwān",
+        "meaning": "büyük kurul; resmî kayıt defteri; şiir derlemesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "divan",
+        "meaning": "üst düzey devlet görevlilerinden oluşan meclis",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Üst düzey devlet görevlilerinin oluşturduğu büyük meclis.",
+    "currentMeaning": "Devletin yüksek makamlarında bulunan görevlilerin bir araya gelerek oluşturduğu büyük meclis.",
+    "story": "Divanın geçmişini bir yazı odası çevresinde düşünmek mümkündür. Sümerce yazıyla ilgili dup- biçimi, Eski Farsçada yazı işlerine ayrılan evin adına uzanır. Orta Farsçada bu ad yazı işlerini yürüten kurulu belirtirken Arapça ve Farsçada hem büyük meclisi hem kayıt defterlerini ve şiir derlemelerini kapsadı. Türkçedeki devlet meclisi anlamı, yazının tutulduğu yerden işleri yöneten kurula uzanan bu yolculuğu sürdürür.",
+    "firstAttestation": {
+      "source": "Rabguzi — Kısasü'l-Enbiya tercümesi",
+      "period": "1310",
+      "form": "dīvān"
+    },
+    "relatives": [
+      {
+        "word": "douane",
+        "relation": "eş köken"
+      },
+      {
+        "word": "dogana",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Fransızca douane ve İtalyanca dogana, aynı adın gümrük kurumunu belirtmek üzere gelişmiş biçimleridir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "divan maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/divan"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "divan",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "boraks",
+    "word": "boraks",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "būrak",
+        "meaning": "güherçile, potasyum nitrat",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ar",
+        "form": "būraḳ",
+        "meaning": "güherçile, potasyum nitrat",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "borach/borac",
+        "meaning": "güherçile, potasyum nitrat",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "borax",
+        "meaning": "sodyum borat minerali",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "boraks",
+        "meaning": "borik asitten türeyen bir sodyum tuzu",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Borik asitten türeyen bir sodyum tuzu.",
+    "currentMeaning": "Yoğunlaşmış borik asidin oluşturduğu sodyum tuzu.",
+    "story": "Boraksın eski adları bugünkü kimyanın ayırdığı farklı mineral tuzları arasında dolaşmıştır. Orta Farsçadan Arapçaya geçen būraḳ, güherçile için kullanılıyor, Geç Latincede de bu anlamı taşıyordu. Batı dillerindeki borax ise sodyum boratın adına dönüştü. Osmanlı Türkçesinde Arapçadan alınmış būrak kullanılırken, on dokuzuncu yüzyılın sonlarında Fransızca biçimden gelen boraks öne çıktı.",
+    "firstAttestation": {
+      "source": "Şemseddin Sami — Kamusü'l A'lâm",
+      "period": "1891",
+      "form": "boraks"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "boraks maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/boraks"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "boraks",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "zencefil",
+    "word": "zencefil",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "sa",
+    "chain": [
+      {
+        "language": "sa",
+        "form": "vēra",
+        "meaning": "bitki gövdesi, beden; safran bitkisi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ine",
+        "form": "ḱerh₂- (ḱer-)",
+        "meaning": "baş kemiği, boynuz",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "ḱr̥h₂-nó-s (ḱr̥-nó-s)",
+        "meaning": "baş kemiği, boynuz",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "sa",
+        "form": "śrŋga",
+        "meaning": "boynuz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "sa",
+        "form": "śrŋgavēra",
+        "meaning": "boynuzu andıran gövde; zencefil bitkisi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "arc",
+        "form": "zangəbīl",
+        "meaning": "boynuzu andıran gövde; zencefil bitkisi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "zancabīl",
+        "meaning": "toprak altındaki bölümü baharat olarak kullanılan bitki",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "zencefil",
+        "meaning": "Hindistan ve Malezya kökenli, kamışı andıran otsu bitki",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hindistan ve Malezya kökenli, kamış görünüşlü otsu bitki.",
+    "currentMeaning": "Zencefilgiller içinde yer alan, doğal yurdu Hindistan ve Malezya olan, görünüşü kamışı andıran otsu bitki.",
+    "story": "Zencefilin Sanskritçe adında bir bitkiyi boynuza benzeten somut bir resim saklıdır. Boynuz bildiren śrŋga ile gövde bildiren vēra birleşerek bitkinin adını oluşturdu. Bu ad Aramice ve Orta Farsça çevresinde zangəbīl biçimine, Arapçada zancabīl biçimine dönüştü. Türkçeye ulaşan zencefil, baharat olarak kullanılan toprak altı bölümüyle tanınan bitkinin adı oldu.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "gingibil"
+    },
+    "relatives": [
+      {
+        "word": "ginger",
+        "relation": "eş köken"
+      },
+      {
+        "word": "gingembre",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "İngilizce ginger, zencefille aynı eski adı Yunanca ve Latince üzerinden taşır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "zencefil maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/zencefil"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "zencefil",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "robot",
+    "word": "robot",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "h₃erbʰ- (orbʰ-)",
+        "meaning": "zorunlu çalışma, köle emeği",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "cu",
+        "form": "rabota",
+        "meaning": "zorunlu çalışma, köle emeği",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "sla",
+        "form": "robota",
+        "meaning": "zorunlu çalışma, köle emeği",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "sla",
+        "form": "robot",
+        "meaning": "makineden yapılmış işçi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "robot",
+        "meaning": "insana benzeyen makine",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "robot",
+        "meaning": "verilen işleri otomatik olarak yapan araç",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Belirli işleri otomatik olarak yerine getiren araç.",
+    "currentMeaning": "Manyetizma yardımıyla kendisine verilen belirli işleri otomatik biçimde gerçekleştirebilen araç.",
+    "story": "Robotun adında başlangıçta metalden çok zorla çalıştırılan insanın emeği vardır. Çekçedeki robota, kişinin üstlenmek zorunda olduğu hizmeti ve angaryayı adlandırıyordu. Çapek'in R.U.R. adlı eserinde bundan türetilen robot, mekanik işçilerin adı oldu. İngilizce ve Fransızcada yayılan sözcük Türkçeye de geçerek kendisine verilen işleri yapan otomatik araçları anlatmaya başladı.",
+    "firstAttestation": {
+      "source": "Karel Çapek — R.U.R. - Cihanşümul Suni İnsanlar Fabrikası",
+      "period": "1927",
+      "form": "robotosu"
+    },
+    "relatives": [
+      {
+        "word": "robotlaşmak",
+        "relation": "türev"
+      },
+      {
+        "word": "Arbeit",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Almancada iş ve emek için kullanılan Arbeit, robotla aynı Hintavrupa köküne bağlanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "robot maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/robot"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "robot",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "sabun",
+    "word": "sabun",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "sei̯b-",
+        "meaning": "damlamak, dökülmek",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "gem",
+        "form": "saipōn",
+        "meaning": "akışkan madde, temizlik yağı",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "la",
+        "form": "sāpō",
+        "meaning": "akışkan madde, temizlik yağı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "arc",
+        "form": "ṣappōn",
+        "meaning": "akışkan madde, temizlik yağı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ṣābūn",
+        "meaning": "sabun",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sabun",
+        "meaning": "yağ ve alkaliden yapılan temizleyici madde",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yağlarla alkalilerin birleşmesinden elde edilen temizlik maddesi.",
+    "currentMeaning": "Çeşitli yağların alkalilerle birleştirilmesiyle üretilen, kir ve yağın giderilmesinde kullanılan madde.",
+    "story": "Sabunun uzak geçmişi, elde tutulan sert bir kalıptan çok akışkan bir temizlenme maddesine uzanır. Germence için kurulan saipōn biçimi temizlik yağını anlatır; bunun damlama ve dökülmeyle ilgili daha eski bir kökle bağlantısı tartışmalıdır. Ad Latinceden Aramiceye, ardından Arapçaya geçerken temizleyici maddeyle bağını korudu. Türkçe sabun da Arapçadaki ṣābūn biçimini sürdürür.",
+    "firstAttestation": {
+      "source": "Mesud b. Ahmed — Süheyl ü Nevbahar tercümesi",
+      "period": "1354",
+      "form": "ṣābūn"
+    },
+    "relatives": [
+      {
+        "word": "soap",
+        "relation": "eş köken"
+      },
+      {
+        "word": "savon",
+        "relation": "eş köken"
+      },
+      {
+        "word": "Seife",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Latince sāpō için gösterilen Germence saipōn kökenini tahmine dayalı veya tartışmalı olarak işaretler."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sabun maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sabun"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sabun",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "arsenik",
+    "word": "arsenik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "zarnīk/zarnīg",
+        "meaning": "sarı pigment ve zehir olarak kullanılan arsenik sülfür minerali",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "fa",
+        "form": "zarnīḫ",
+        "meaning": "sarı pigment ve zehir olarak kullanılan arsenik sülfür minerali",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "al-zarnīḫ",
+        "meaning": "sarı pigment ve zehir olarak kullanılan arsenik sülfür minerali",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "arsenikón",
+        "meaning": "sarı pigment ve zehir olarak kullanılan arsenik sülfür minerali",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "arsenic",
+        "meaning": "zehirli bir element",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "arsenik",
+        "meaning": "atom numarası 33 olan, metal görünüşlü element",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "As simgesiyle gösterilen, atom numarası 33 olan zehirli element.",
+    "currentMeaning": "Kimyada As simgesiyle gösterilen, atom numarası 33 olan ve birçok maden filizinde bulunan metal görünüşlü element; sıçanotu veya zırnık.",
+    "story": "Arseniğin adı önce hem boya hem zehir olarak kullanılan sarı bir minerali anlatıyordu. Orta Farsçadan Farsçaya ve Arapçaya taşınan ad, Orta Yunancada arsenikón biçimini aldı. Fransızcada aynı ad artık mineralin içerdiği zehirli element için kullanıldı. Türkçe arsenik, mineralden elemente geçen bu kimya anlamını Fransızcadan aldı.",
+    "firstAttestation": {
+      "source": "Düstur Tertip I.-IV.",
+      "period": "1872",
+      "form": "arsenik"
+    },
+    "relatives": [
+      {
+        "word": "zar",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Arseniğin eski İran dillerindeki adı, altın bildiren zar ve zarr biçimleriyle aynı kök ailesindedir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "arsenik maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/arsenik"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "arsenik",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "domates",
+    "word": "domates",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "nah",
+    "chain": [
+      {
+        "language": "nah",
+        "form": "tomana",
+        "meaning": "şişip kabarmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "nah",
+        "form": "tomatl",
+        "meaning": "yumru",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "es",
+        "form": "tomate",
+        "meaning": "yumru",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "tomate",
+        "meaning": "yumru",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "tomátes",
+        "meaning": "yumru",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "domates",
+        "meaning": "tüylü yaprakları ve salkım çiçekleri bulunan patlıcangiller bitkisi",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Patlıcangillerden, tüylü yapraklı ve salkım çiçekli bir bitki.",
+    "currentMeaning": "Patlıcangiller ailesinde yer alan, yapraklarında tüyler bulunan, çiçekleri salkımlar oluşturan ve vitamin bakımından zengin bir bitki.",
+    "story": "Domatesin adı, Meksika'da konuşulan Nahuatl dilindeki şişme ve kabarma düşüncesine uzanır. Bu dilde tomatl, yumruyu adlandıran bir biçimdi. Bitkinin adı İspanyolca ve Fransızcadan Yunancaya, ardından Türkçeye taşındı. Türkçede Rumca çoğul biçimin yerleşmesinde, İstanbul'un bostanlarında ve seyyar sebze ticaretinde çalışan Rumların payı vardı.",
+    "firstAttestation": {
+      "source": "Mehmed Kâmil — Melceü't-Tabbahīn",
+      "period": "1844",
+      "form": "domates"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "domates maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/domates"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "domates",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gazete",
+    "word": "gazete",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "peo",
+    "chain": [
+      {
+        "language": "peo",
+        "form": "ganz-/gaz-",
+        "meaning": "hazine, para birikimi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "gáza",
+        "meaning": "hazine, para birikimi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "vec",
+        "form": "gaza",
+        "meaning": "para kesesi; bir para birimi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "vec",
+        "form": "gazéta",
+        "meaning": "küçük kese; Venedik parası; haber yayını",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "gazette",
+        "meaning": "ücretle satılan haber yayını",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "gazete",
+        "meaning": "haber ve bilgi sunmak için düzenli aralıklarla çıkarılan yayın",
+        "period": "18. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Haber ve bilgi sunan, düzenli aralıklarla çıkarılan yayın.",
+    "currentMeaning": "Siyaset, ekonomi, kültür ve başka alanlardaki haberlerle bilgileri, yorum içerecek veya içermeyecek biçimde günlük ya da belirli aralıklarla yayımlayan yayın.",
+    "story": "Gazetenin eski anlam dünyasında haberlerden önce para vardır. Eski Farsçadaki hazine adı Yunancaya, ardından Venedikçeye uzanır; Venedikçede küçük kese ve para birimi bildiren gazéta aynı zamanda haber bültenini adlandırmıştır. Fransızcadaki gazette, ücret karşılığı satılan bu haber yayınının adı olarak yayılmıştır. Türkçeye doğrudan Fransızcadan mı yoksa İtalyancadan mı geçtiği konusunda farklı açıklamalar bulunsa da bugünkü yayın anlamının gerisinde Venedik'teki bu kullanım vardır.",
+    "firstAttestation": {
+      "source": "M. Viguier — Elémens de la langue turque",
+      "period": "1790",
+      "form": "gazeta"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye doğrudan veren dili Fransızca olarak gösterirken TDK Güncel Türkçe Sözlük İtalyanca gazzetta biçimini esas alır."
+    ],
+    "funFact": "1779-1781 döneminde Osmanlı sarayına Avrupa gazetelerinden düzenli haber özetleri sunmak için özel bir oda kurulmuştu.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "gazete maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/gazete"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "gazete",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "bukalemun",
+    "word": "bukalemun",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "kálamos",
+        "meaning": "kamış, ince çubuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "hypokálamon",
+        "meaning": "hasır yaygı veya çubuklu nesne olduğu düşünülen şey",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ar",
+        "form": "abū ḳalamūn",
+        "meaning": "yanar döner kumaş; rengi değişen varlık; renk değiştiren sürüngen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "bū-ḳalamūn",
+        "meaning": "yanar döner ipekli kumaş; hindi; renk değiştiren sürüngen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bukalemun",
+        "meaning": "çevresine göre renk değiştirmesiyle tanınan sürüngen",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bulunduğu çevreye göre renk değiştirmesiyle tanınan sürüngen.",
+    "currentMeaning": "Bukalemungillerden, yaklaşık 20-30 santimetre uzunluğunda, çevresine uygun renk değiştirmesiyle tanınan sürüngen; kaya keleri.",
+    "story": "Bukalemunun geçmişinde yalnızca bir sürüngen değil, ışıkla rengi değişen ipekli bir kumaş da vardır. Adın Yunancadaki kamış sözüyle bağlantılı, hasır veya çubuklu bir nesneyi anlatmış olabilecek bir biçime dayandığı düşünülür. Arapça ve Farsçada yanar döner kumaşların adı, rengi değişen hayvanları ve mecazen kaderin değişkenliğini de anlatmıştır. Türkçeye geçişte Farsça ile Arapçanın rolü farklı açıklansa da sürüngenin adı bu renk değişimi etrafında yerleşmiştir.",
+    "firstAttestation": {
+      "source": "Seyf-i Sarayî — Gülistan tercümesi",
+      "period": "1391",
+      "form": "būkalemūn"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Orta Yunanca hypokálamon biçimini yeniden kurar ve hasır ya da çubukla ilgili anlamını kesinleştirmez.",
+      "Nişanyan Sözlük doğrudan verici olarak Farsça bū-ḳalamūn biçimini gösterirken TDK Güncel Türkçe Sözlük sözcüğü Arapçaya bağlar."
+    ],
+    "funFact": "Farsçada bū-ḳalamūn adı hindi için de kullanılmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bukalemun maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bukalemun"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bukalemun",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "abanoz",
+    "word": "abanoz",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "egy",
+    "chain": [
+      {
+        "language": "egy",
+        "form": "hebni",
+        "meaning": "sıcak iklimlerde yetişen koyu gövdeli ağaç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "ʰébenos",
+        "meaning": "sıcak iklimlerde yetişen koyu gövdeli ağaç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "ābnūs",
+        "meaning": "sıcak iklimlerde yetişen koyu gövdeli ağaç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "abanoz",
+        "meaning": "sıcak ülkelerde yetişen ve kerestesi kullanılan bir grup ağaç",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sıcak ülkelerde yetişen, kerestesinden yararlanılan ağaçların ortak adı.",
+    "currentMeaning": "Abanozgiller ailesinden, sıcak bölgelerde yetişen ve kerestesi için kullanılan çeşitli ağaçlara verilen ortak ad.",
+    "story": "Abanozun adı Eski Mısırdaki hebni biçiminden Yunancaya taşınırken koyu gövdeli ağaçla bağını korudu. Arapça ve Farsçada ābnūs olan biçim, Osmanlı yazı dilinde de benimsendi. Günlük dilde yaygınlaşan abanoz ve abanos biçimlerinin ise doğrudan Yunancadan alınmış olması mümkündür. Bu yüzden ağacın adı değişmeden sürse de Türkçeye hangi yoldan ulaştığı her biçim için aynı açıklamaya bağlanmaz.",
+    "firstAttestation": {
+      "source": "Mesud b. Ahmed — Süheyl ü Nevbahar tercümesi",
+      "period": "1354",
+      "form": "ebānūsa"
+    },
+    "relatives": [
+      {
+        "word": "ebony",
+        "relation": "eş köken"
+      },
+      {
+        "word": "ébène",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": [
+      "TDK Güncel Türkçe Sözlük Farsça ābnūs kökenini verir; Nişanyan Sözlük bu yazı dili biçiminin yanında yaygın abanoz ve abanos biçimlerinin doğrudan Yunancadan alınmış olabileceğini belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "abanoz maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/abanoz"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "abanoz",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "alkol",
+    "word": "alkol",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {
+        "language": "arc",
+        "form": "kḥol/kuḥlā/keḥlā",
+        "meaning": "göze çekilen mineral sürme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "al-kuḥl",
+        "meaning": "göze çekilen mineral sürme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "es",
+        "form": "alcohol",
+        "meaning": "göze çekilen mineral sürme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "alcool",
+        "meaning": "mayalanmış içkilerin damıtılmasıyla elde edilen madde",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "alkol",
+        "meaning": "damıtmayla elde edilen renksiz, uçucu ve yanıcı sıvı",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Mayalanmış sıvılardan damıtılan renksiz, uçucu ve yanıcı madde.",
+    "currentMeaning": "Mayalanmış içkilerin veya şekerli çözeltilerin damıtılmasından elde edilen, kendine özgü kokusu bulunan renksiz, uçucu ve yanıcı sıvı; etanol veya ispirto.",
+    "story": "Alkolün adının başlangıcında içki değil, göze çekilen mineral sürme vardır. Aramicedeki ad Arapçada al-kuḥl biçimini almış, İspanyolcada da bu eski anlamla yaşamıştır. Fransızcadaki alcool ise mayalanmış içkilerden damıtılan maddeyi adlandırmıştır. Sürmeden damıtılmış sıvıya geçişin damıtma işlemiyle veya üretim sırrını saklama isteğiyle bağlantılı olabileceği öne sürülür; bu bağlantı kesin değildir. Türkçe kelimeyi Fransızcadaki kimyasal anlamıyla almıştır.",
+    "firstAttestation": {
+      "source": "Cemiyeti Tıbbiyei Osmaniye — Lugat-i Tıbbiye",
+      "period": "1873",
+      "form": "el-küˀûl"
+    },
+    "relatives": [
+      {
+        "word": "alkolik",
+        "relation": "türev"
+      },
+      {
+        "word": "alkolizm",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, sürme adının alkole aktarılmasını benzer damıtma işlemleriyle ilişkilendiren bir açıklama verir ve ticari sır saklama ihtimalini de anarak geçişin nedenini kesinleştirmez."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "alkol maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/alkol"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "alkol",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "fermuar",
+    "word": "fermuar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "dʰer-2",
+        "meaning": "sıkıca tutmak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "dʰer-mo-s",
+        "meaning": "dayanıklı, sıkı",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "la",
+        "form": "firmus",
+        "meaning": "sağlam, güvenilir",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "firmare",
+        "meaning": "sağlamlaştırmak; halk dilinde kapatmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "firmarium",
+        "meaning": "sağlamlaştırmak; halk dilinde kapatmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "fermoir",
+        "meaning": "bir şeyi kapalı tutan kilit veya düzenek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "fermoir éclair",
+        "meaning": "yıldırım kapatıcı; fermuar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "fermuar",
+        "meaning": "karşılıklı dişleri bir sürgüyle birleştiren kapatma düzeneği",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Karşılıklı dişleri bir sürgüyle birleştiren kapatma düzeneği.",
+    "currentMeaning": "Giysilerde, çantalarda ve benzeri eşyalarda iki sıra dişin üzerinde ilerleyen bir parçayla açılıp kapanan düzenek.",
+    "story": "Fermuarın uzak geçmişinde bir şeyi sıkı tutma düşüncesi vardır. Latincede sağlamlığı anlatan firmus, sağlamlaştırma eylemine, oradan da günlük kullanımda kapatma anlamına uzandı. Fransızca fermoir böylece çeşitli kapatıcıların genel adı oldu. Dişli düzenek fermoir éclair, yani yıldırım kapatıcı adıyla anılınca Türkçe de bunu önce fermuar ekler biçiminde kullandı; zamanla yalnız fermuar kaldı.",
+    "firstAttestation": {
+      "source": "Cumhuriyet gazetesi",
+      "period": "1936",
+      "form": "Fermuar eklerli"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "fermuar maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/fermuar"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "fermuar",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "misk",
+    "word": "misk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "múh₂s (mū́s)",
+        "meaning": "fare, kas, midye",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "sa",
+        "form": "muṣka",
+        "meaning": "küçük fare; er bezi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "peo",
+        "form": "muşka",
+        "meaning": "küçük fare; er bezi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "misk",
+        "meaning": "yaban keçisinin bir bezinden alınan hoş kokulu madde",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "misk",
+        "meaning": "erkek misk ceylanının karın bölgesindeki bezden elde edilen güzel kokulu madde",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Erkek misk ceylanının bir bezinden elde edilen güzel kokulu madde.",
+    "currentMeaning": "Asya'nın yüksek dağlık bölgelerinde yaşayan erkek misk ceylanının karın derisi altındaki bezinden alınan hoş kokulu madde.",
+    "story": "Miskin adı, kokusundan önce onu taşıyan kesenin biçimiyle ilgilidir. Sanskritçedeki muṣka, küçük fare ve er bezi anlamlarını bir araya getirir. Eski Farsçaya taşınan bu ad, misk bezinin biçimi dolayısıyla güzel kokulu maddeyle ilişkilendirilmiştir. Arapçada misk biçimini alan sözcük, Türkçeye de bu kokulu maddenin adı olarak geçmiştir.",
+    "firstAttestation": {
+      "source": "Ebu Hayyan — Kitabu'l-İdrak",
+      "period": "1312",
+      "form": "müşk"
+    },
+    "relatives": [
+      {
+        "word": "muşk",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "misk maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/misk"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "misk",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mendil",
+    "word": "mendil",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "tergere",
+        "meaning": "silmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "manus",
+        "meaning": "el",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "manutergium",
+        "meaning": "elleri silmek için kullanılan bez",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "mantēle/mantellum",
+        "meaning": "elleri silmek için kullanılan bez",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "mantḗlion",
+        "meaning": "elleri silmek için kullanılan bez",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "arc",
+        "form": "manṭiliyūn",
+        "meaning": "elleri silmek için kullanılan bez",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mindīl",
+        "meaning": "yemekte veya kurulanırken kullanılan bez",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mendil",
+        "meaning": "silinmek veya kurulanmak için kullanılan küçük kare bez ya da ince kâğıt",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Silinmek veya kurulanmak için kullanılan küçük kare bez ya da kâğıt.",
+    "currentMeaning": "Burun veya ter silmek ve el ya da yüz kurulamak için kullanılan, kare biçimli küçük kumaş parçası veya ince, yumuşak kâğıt.",
+    "story": "Mendilin Latince atası, el ile silme eylemini aynı adda birleştiren bir el bezidir. Bu bezin adı zamanla peşkir ve hamam önlüğü gibi daha geniş kullanım alanlarına yayıldı. Yunanca ve Aramice üzerinden Arapçaya ulaşan mindīl, yemek sırasında veya kurulanmak için kullanılan bezi anlatıyordu. Türkçede mendil, elde ve cepte taşınabilen küçük silinme bezinin, ardından aynı işi gören ince kâğıdın adı oldu.",
+    "firstAttestation": {
+      "source": "Anonim — Tezkiretü'l-Evliya tercümesi",
+      "period": "1341",
+      "form": "mendil"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Mendilin Yunancadaki akrabası günümüzde sofra örtüsünü adlandırır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mendil maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mendil"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mendil",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "fanila",
+    "word": "fanila",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "h₂welh₁- (awel-)",
+        "meaning": "hayvanın postu veya kürkü",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "h₂wĺ̥h₁-neh₂ (awlḗ-nā)",
+        "meaning": "hayvanın postu veya kürkü",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "cel",
+        "form": "gwlân",
+        "meaning": "yün",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "flannel",
+        "meaning": "yün",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "flanelle",
+        "meaning": "yünden dokunan bir kumaş türü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "fanila",
+        "meaning": "çoğunlukla ince pamuk dokumadan yapılan ve tene giyilen iç giysi",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Genellikle ince pamuk dokumadan yapılan, tene giyilen iç giysi.",
+    "currentMeaning": "Çoğunlukla ince pamuk ipliğiyle dokunan kumaştan yapılan ve doğrudan tenin üzerine giyilen iç çamaşırı; atlet.",
+    "story": "Fanilanın eski anlamı bir giysiden önce onun kumaşıyla ilgilidir. Galcede yünü anlatan gwlân, İngilizcedeki flannel ve Fransızcadaki flanelle adlarının gerisinde yer alır. Türkçedeki erken kullanımlarda kumaşı belirten ad, zamanla tene giyilen iç çamaşırına yerleşmiştir. Sözcüğün Türkçeye doğrudan Fransızcadan mı yoksa İtalyancadan mı geçtiği farklı açıklanır; bugünkü fanilanın çoğunlukla pamuklu olması ise adın eski yün bağını görünmez kılar.",
+    "firstAttestation": {
+      "source": "Ceride-i Havadis ve Ruzname-i CH",
+      "period": "1841",
+      "form": "fanileden"
+    },
+    "relatives": [
+      {
+        "word": "wool",
+        "relation": "eş köken"
+      },
+      {
+        "word": "Wolle",
+        "relation": "eş köken"
+      },
+      {
+        "word": "lana",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye doğrudan veren biçimi Fransızca flanelle olarak gösterirken TDK Güncel Türkçe Sözlük İtalyanca flanella biçimini verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "fanila maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/fanila"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "fanila",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "zirkon",
+    "word": "zirkon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "gōn",
+        "meaning": "renk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "pal",
+        "form": "zar",
+        "meaning": "altın",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "pal",
+        "form": "zargōn",
+        "meaning": "altın renginde; yeşil; yeni ve taze",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "zarḳūn",
+        "meaning": "canlı kırmızı renk; bu renkteki süs taşı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "de",
+        "form": "Zirkon",
+        "meaning": "canlı kırmızı renk; bu renkteki süs taşı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "zircon",
+        "meaning": "kızıl renkli süs taşı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "zirkon",
+        "meaning": "zirkonyum içeren, farklı renklerde bulunabilen saydam değerli taş",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Zirkonyum içeren, farklı renklerde bulunabilen saydam değerli taş.",
+    "currentMeaning": "Zirkonyumun doğada bulunduğu biçimlerden biri olan; renksiz, sarı, yeşil veya kahverengi çeşitleri görülen saydam değerli taş.",
+    "story": "Zirkonun adında iki Orta Farsça parça birleşir: altını anlatan zar ve rengi anlatan gōn. Bunların oluşturduğu zargōn, altın rengi yanında yeşillik ve tazelik de bildiriyordu. Arapçada zarḳūn, parlak kırmızıya ve bu renkteki bir süs taşına bağlandı. Taşın adı Almanca ve Fransızcadan Türkçeye ulaşırken, bugünkü kullanım farklı renklerdeki zirkonları da kapsadı.",
+    "firstAttestation": {
+      "source": "Tıngır & Sinapian — Istılahat Lugati",
+      "period": "1892",
+      "form": "zirkon"
+    },
+    "relatives": [
+      {
+        "word": "zirkonyum",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "zirkon maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/zirkon"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "zirkon",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "traverten",
+    "word": "traverten",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "Tibur",
+        "meaning": "Tivoli kentinin eski adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "Tiburtinus",
+        "meaning": "Tivoli ile ilgili veya Tivoli'den olan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "travertino/tivertino",
+        "meaning": "Tivoli çevresinden çıkarılan taş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "travertin",
+        "meaning": "bir çeşit kireç taşı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "traverten",
+        "meaning": "kaynak sularının bıraktığı kireçli veya silisli tortu",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kaynak sularının bıraktığı kireçli veya silisli tortu.",
+    "currentMeaning": "Bazı kaynak sularının tabanında biriken, kireç ya da silis içeren tortu; pamuk taşı.",
+    "story": "Traverten, adını taşın çıkarıldığı bir kentten alır. Roma yakınındaki Tivoli'nin eski adı Tibur, Latincede o kente ait olanı belirten Tiburtinus biçimine dönüştü. İtalyancada bu yer bağlantısı, Tivoli çevresinden çıkarılan taşın adına yerleşti. Fransızca üzerinden Türkçeye gelen traverten, böylece belirli bir kentin taşından kaynak sularının oluşturduğu tortunun genel adına uzandı.",
+    "firstAttestation": {
+      "source": "Tıngır & Sinapian — Istılahat Lugati",
+      "period": "1892",
+      "form": "traverten"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "traverten maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/traverten"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "traverten",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "jaluzi",
+    "word": "jaluzi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "i̯eh₂- (i̯ā-)",
+        "meaning": "istemek, arzu duymak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "i̯ā-l-os",
+        "meaning": "istemek, arzu duymak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "grc",
+        "form": "zêlos",
+        "meaning": "yoğun istek, çaba, kıskançlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "zelosus",
+        "meaning": "yoğun istek, çaba, kıskançlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "jaloux",
+        "meaning": "kıskanç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "jalousie",
+        "meaning": "kıskançlık; şeritli panjur veya kafesli perde",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "jaluzi",
+        "meaning": "şeritlerden oluşan perde",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Şeritlerden oluşan pencere perdesi.",
+    "currentMeaning": "Birbirini izleyen şeritlerden oluşan perde.",
+    "story": "Jaluzinin uzak geçmişinde bir pencere eşyası değil, isteme ve arzulama duygusu vardır. Eski Yunancadaki zêlos, güçlü istekten çabaya ve kıskançlığa uzanan anlamlar taşıdı; Latince üzerinden Fransızcadaki kıskançlık sözlerine bağlandı. Fransızca jalousie hem bu duygunun hem dilimli panjur ve kafes biçimli perdenin adı oldu. Türkçe, sözcüğün pencereye takılan eşya anlamını benimsedi.",
+    "firstAttestation": {
+      "source": "Cumhuriyet gazetesi",
+      "period": "1939",
+      "form": "jalusi"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "jaluzi maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/jaluzi"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "jaluzi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "id": "bandana",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "virüs",
+    "verdict": "check",
+    "reasons": [
+      "Kaynaktaki dil adı eşlenemedi: Yeni Latince",
+      "donorLanguage la zincirde var ama en yakın dil değil (kaynak: fr)"
+    ]
+  },
+  {
+    "id": "cıva",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "elektrik",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: la"
+    ]
+  },
+  {
+    "id": "pijama",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kakao",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "ananas",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "film",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "morfin",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "mozaik",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "pantolon",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "petrol",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "porselen",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "temmuz",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "gladyatör",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "hermetik",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kadmiyum",
+    "verdict": "check",
+    "reasons": [
+      "Kaynaktaki dil adı eşlenemedi: Yeni Latince",
+      "donorLanguage la kaynakla uyuşmuyor (kaynak: fr)",
+      "Maddede olup kaynak zincirinde olmayan halka: la"
+    ]
+  },
+  {
+    "id": "naftalin",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "amiral",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "vampir",
+    "verdict": "check",
+    "reasons": [
+      "Kaynakta yalnızca eş kökenli olarak geçen dil zincire aktarım halkası olarak konmuş: tr"
+    ]
+  }
+]

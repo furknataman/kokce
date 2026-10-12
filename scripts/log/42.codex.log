@@ -1,8 +1,72 @@
 [
   {
-    "id": "çiğdem",
-    "word": "çiğdem",
-    "rarity": "gündelik",
+    "id": "silüet",
+    "word": "silüet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Etienne de Silhouette",
+        "meaning": "Fransız maliyeci ve bakanın adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "à la silhouette",
+        "meaning": "az para harcanarak yapılan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "silhouette",
+        "meaning": "gölgenin sınırları izlenerek çizilen resim; bir nesnenin gölge çizgileri",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "silüet",
+        "meaning": "yalnızca dış çizgileri seçilen görüntü",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yalnızca dış çizgileriyle seçilebilen görüntü.",
+    "currentMeaning": "Bir varlığın ayrıntıları görünmeden, yalnızca dış sınırlarıyla beliren görüntüsü.",
+    "story": "Silüetin ardında, Fransa'da maliye bakanlığı yapan Etienne de Silhouette'in soyadı vardır. Onun dönemindeki tasarruf önlemleri, soyluların pahalı yağlıboya portreler yerine gölge çizimleriyle yetinmesine yol açtı. Soyadına bağlanan az masrafla iş yapma düşüncesi, zamanla bu çizimlerin adına dönüştü. Fransızcadan Türkçeye geçen kelime, ayrıntıları silinip yalnızca dış sınırları seçilen görüntüleri anlatmaya başladı.",
+    "firstAttestation": {
+      "source": "Cumhuriyet",
+      "period": "1934",
+      "form": "siluet"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "silüet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sil%C3%BCet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "silüet",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ağı",
+    "word": "ağı",
+    "rarity": "az-bilinen",
     "partOfSpeech": "isim",
     "formationType": "öz",
     "donorLanguage": null,
@@ -10,45 +74,411 @@
     "chain": [
       {
         "language": "otk",
-        "form": "çigidem/çigildem",
-        "meaning": "bir bitkinin adı",
+        "form": "aġu",
+        "meaning": "zehir",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
-        "form": "çiğdem",
-        "meaning": "yumrulu, çok yıllık, çeşitli renklerde çiçeklenen kır bitkisi",
+        "form": "ağı",
+        "meaning": "zehir",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Yumrulu, çok yıllık, renkli çiçekler açan kır bitkisi.",
-    "currentMeaning": "Zambakgiller içinde sınıflandırılan, yumrulu yapısıyla yıllarca yaşayan ve farklı renklerde çiçeklenen kır bitkisi (Colchicum); mahmur çiçeği.",
-    "story": "Çiğdemin geçmişinde, Eski Türkçede bir bitkiyi adlandıran çigidem ve çigildem biçimleri bulunur. Bu eski bitki adı, ses değişimleriyle bugünkü çiğdem biçimine ulaşmıştır. Sözcük bugün de kırların bitki örtüsüne bağlıdır: toprağın altında yumrusu bulunan, farklı renklerde çiçeklenen çok yıllık bir bitkiyi adlandırır.",
+    "shortMeaning": "Canlıyı zehirleyen madde.",
+    "currentMeaning": "Canlı bir organizmaya girdiğinde ona zarar veren veya ölümüne yol açabilen madde; zehir.",
+    "story": "Eski Türkçedeki aġu, canlıya zarar veren zehrin adıydı. Eski kullanımlarda bir kaba konulan zehir de zehir sürülmüş bir hançer de bu kelimeyle anlatılıyordu. Zamanla aġu biçimi ağıya dönüşürken kelimenin taşıdığı zehir düşüncesi değişmedi.",
     "firstAttestation": {
-      "source": "Türkische Turfantexte 1-9",
-      "period": "1000 öncesi",
-      "form": "çigidem"
+      "source": "Uygurca metinler",
+      "period": "900'den önce",
+      "form": "aġu"
     },
-    "relatives": [
-      {
-        "word": "iğde",
-        "relation": "eş köken"
-      }
-    ],
+    "relatives": [],
     "alternatives": null,
     "funFact": null,
     "sources": [
       {
         "name": "Nişanyan Sözlük",
-        "ref": "çiğdem maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/%C3%A7i%C4%9Fdem"
+        "ref": "ağı maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/a%C4%9F%C4%B1"
       },
       {
         "name": "TDK Güncel Türkçe Sözlük",
-        "ref": "çiğdem",
+        "ref": "ağı",
         "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "algoritma",
+    "word": "algoritma",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {
+        "language": "ae",
+        "form": "χʷāirizəm",
+        "meaning": "Harezm adlı Orta Asya ülkesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "χʷārazm",
+        "meaning": "Harezm adlı Orta Asya ülkesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "al-ḫawārizmī",
+        "meaning": "Harezmi adlı matematikçi",
+        "period": "9. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "algorismus",
+        "meaning": "Harezmi adlı matematikçi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fro",
+        "form": "algorisme",
+        "meaning": "arap rakamları kullanılarak hesap yapma yöntemi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "algorithme",
+        "meaning": "matematiksel bir sorunu çözmeye yönelik işlem sırası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "algoritma",
+        "meaning": "bir sorunu çözmek için belirli kurallarla yürütülen işlem sırası",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir sorunu çözmek için belirli kurallarla izlenen işlem sırası.",
+    "currentMeaning": "Orta Çağ'da ondalık sistemle hesap yapmayı, günümüzde ise açıkça belirlenmiş işlem ve kuralları sırayla uygulayarak bir sorunu çözmeyi veya sonuca en kısa yoldan varmayı anlatan yöntem; Harezmi yolu.",
+    "story": "Algoritmanın yolculuğu, Orta Asya'daki Harezm'in Avestaca ve Farsçadaki adına kadar uzanır. Bu yer adı, dokuzuncu yüzyıl matematikçisi Harezmi'nin Arapça adlandırmasında yaşamaya devam etti. Adın Geç Latincedeki algorismus biçiminden gelişen Eski Fransızca algorisme, Arap rakamlarıyla hesap yapmanın adı oldu. Fransızcada kullanım alanı genişleyerek matematik problemlerini çözmeye yarayan işlem dizilerini kapsadı ve kelime Türkçeye bu dilden geçti.",
+    "firstAttestation": {
+      "source": "Tasviri Efkâr",
+      "period": "1940",
+      "form": "Algoritma"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "algoritma maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/algoritma"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "algoritma",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "platin",
+    "word": "platin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "plangere, planct-",
+        "meaning": "vurarak dövmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "plancta",
+        "meaning": "dövülerek levhaya dönüştürülmüş metal",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "es",
+        "form": "plata",
+        "meaning": "gümüş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "platinum",
+        "meaning": "gümüş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "platine",
+        "meaning": "ak altın olarak da adlandırılan kıymetli metal",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "platin",
+        "meaning": "simgesi Pt olan kıymetli metal elementi",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Simgesi Pt, atom numarası 78 olan değerli metal.",
+    "currentMeaning": "Pt simgesiyle gösterilen, atom numarası 78 olan, kolay işlenebilen, dayanıklı ve kıymetli metal elementi.",
+    "story": "Platinin adının başlangıcında metal dövme işi vardır: Latincedeki plangere eylemi, dövülüp levhaya çevrilen metali anlatan plancta biçimine uzanır. Bu biçim İspanyolcada plata olarak gümüşün adına dönüştü. Gümüşe uzanan adlandırma, Yeni Latincedeki platinum üzerinden Fransızcada ak altın denilen metalin platine adına bağlandı. Türkçe platin de bu Fransızca adı devraldı.",
+    "firstAttestation": {
+      "source": "İbrahim Edhem Paşa — Medhal-i İlm-i Jeoloji",
+      "period": "1863",
+      "form": "platina"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "platin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/platin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "platin",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pazen",
+    "word": "pazen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "pambak",
+        "meaning": "pamuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "pambáks",
+        "meaning": "pamuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "bambax",
+        "meaning": "pamuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "bambagine/bombagine",
+        "meaning": "pamuktan yapılmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fro",
+        "form": "bombasin/bombasine",
+        "meaning": "ince bir pamuklu dokuma türü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "basin",
+        "meaning": "ince bir pamuklu dokuma türü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pazen",
+        "meaning": "kalın ve sık dokunmuş yumuşak pamuklu kumaş",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kalın ve sık dokunmuş, yumuşak pamuklu kumaş.",
+    "currentMeaning": "Pamuktan üretilen, kalınlığına ve sık dokusuna rağmen yumuşak olan bir bez türü.",
+    "story": "Pazenin adı, Orta Farsçada pamuğu anlatan pambak ile başlar; kelime Orta Yunanca ve Geç Latince üzerinden İtalyancaya ulaştı. Yol boyunca pamuk lifinin adı, önce pamuktan yapılmış şeyleri, ardından belirli bir kumaşı anlatmaya başladı. Eski Fransızcadaki bombasin, bon basin yani 'iyi pazen' diye yeniden yorumlanınca basin biçimi ortaya çıktı. Fransızcadan Türkçeye geçen pazen, kalın ve sık dokulu, yumuşak bir pamuklu bezin adı olarak yerleşti.",
+    "firstAttestation": {
+      "source": "Ahmed Vefik Paşa — Lehce-i Osmani",
+      "period": "1876",
+      "form": "pazen"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "pazen maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/pazen"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "pazen",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gaz",
+    "word": "gaz",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "χáos",
+        "meaning": "biçimi olmayan varlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "nl",
+        "form": "gaz",
+        "meaning": "biçimi olmayan varlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "gaz",
+        "meaning": "maddenin uçucu durumu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "gaz",
+        "meaning": "maddenin uçucu durumu",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Maddenin uçucu durumuna verilen ad.",
+    "currentMeaning": "Maddenin uçucu hâli ve bu hâldeki madde.",
+    "story": "Gazın geçmişinde, Eski Yunancada belirli bir biçimi bulunmayan varlığı anlatan χáos vardır. Bu ad Felemenkçede gaz biçimini aldı; Fransızcada ise maddenin uçucu durumunu adlandırdı. Türkçeye Fransızcadan geçen kelimenin erken kullanımlarında gazla yanan kandiller ve gaz taşıyan borular öne çıkar.",
+    "firstAttestation": {
+      "source": "Mustafa Sami Efendi — Avrupa Risalesi",
+      "period": "1838",
+      "form": "gaz"
+    },
+    "relatives": [
+      {
+        "word": "hava gazı",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Felemenkçedeki gazın söylenişi, yazılışlarının düşündürdüğünden farklı olarak Yunancadaki χáosun söylenişine benzer.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "gaz maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/gaz"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tavla",
+    "word": "tavla",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "tabula",
+        "meaning": "düz levha veya üzerinde oyun oynanan tahta",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "távli",
+        "meaning": "düz levha veya üzerinde oyun oynanan tahta",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tavla",
+        "meaning": "tahta üzerinde oynanan oyun ve bu oyunun tahtası",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Tahta üzerinde oynanan bir oyun ve bu oyunun tahtası.",
+    "currentMeaning": "Tavla adıyla bilinen oyun ve onu oynamak için kullanılan oyun tahtası.",
+    "story": "Tavlanın adının başlangıcında Latince tabula, yani üzerine oyun da kurulabilen düz bir levha vardır. Yunancaya távli biçiminde geçen bu ad, Türkçede hem oyunu hem de oyunun oynandığı tahtayı anlatır. Böylece oyunun zemini, oyunun kendisine de adını vermiştir. Türkçe biçimin sonundaki a, aktarımda Farsçanın da aracılık etmiş olabileceğini düşündürür.",
+    "firstAttestation": {
+      "source": "Gelibolulu Mustafa Âlî — Kavaidü'l-Mecalis",
+      "period": "1587",
+      "form": "tavli"
+    },
+    "relatives": [
+      {
+        "word": "ṭawla",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük aktarım zincirinde Latince tabula ve Yunanca távli biçimlerini verir; Türkçedeki son a sesini ise Farsça aracılığıyla erken bir alıntı yapılmış olabileceğinin işareti olarak değerlendirir."
+    ],
+    "funFact": "Bugünkü tavla oyunu, altıncı yüzyılda Bizans tarihçisi Agathias tarafından adı verilerek tarif edilmiştir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tavla maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/tavla"
       }
     ],
     "confidence": "orta",
@@ -57,16 +487,16 @@
 ]
 
 --- stderr ---
-OpenAI Codex v0.153.2
+OpenAI Codex v0.160.0
 --------
 workdir: /Users/furkan/Desktop/dev/koken
 model: gpt-6-astra
 provider: openai
 approval: on-request
 sandbox: read-only
-reasoning effort: medium
+reasoning effort: high
 reasoning summaries: none
-session id: 01a0a105-9423-7ef1-9aa0-e2e359177258
+session id: 01a12ee0-f056-7c80-a3a1-cbdf47c5fce0
 --------
 user
 # Köken — Üretim Prompt'u (v13)
@@ -85,7 +515,13 @@ hangi sözcüğün kastedildiğini göstermek içindir, **kanıt değildir**: ka
 kaynaktan yaz, ipucu anlamı kopyalama. `rarity` ise kesin veridir: satırda ne
 yazıyorsa `rarity` alanına **aynen** onu yaz.
 
-1. çiğdem — ipucu: otk — rarity: gündelik — ipucu anlam: ilkbaharda açan yumrulu kır çiçeği
+1. silüet — ipucu: fr — rarity: az-bilinen — ipucu anlam: bir şeyin dış çizgilerle görünen biçimi
+2. ağı — ipucu: otk — rarity: az-bilinen — ipucu anlam: zehir
+3. algoritma — ipucu: fr<fro<la<ar — rarity: gündelik — ipucu anlam: adımlı çözüm yöntemi
+4. platin — ipucu: fr<la<es — rarity: az-bilinen — ipucu anlam: değerli beyaz metal
+5. pazen — ipucu: fr<fro<it<la<el<pal — rarity: az-bilinen — ipucu anlam: yumuşak pamuklu kumaş
+6. gaz — ipucu: fr<nl<grc — rarity: gündelik — ipucu anlam: maddenin uçucu hâli
+7. tavla — ipucu: fa<el<la — rarity: gündelik — ipucu anlam: zarla oynanan oyun
 
 ## Kaynak özetleri
 
@@ -96,27 +532,218 @@ satırındaki dil kısaltması (`Fars.`, `Ar.`) `donorLanguage` için esastır v
 kaynak şöyle yazılır:
 `{"name": "Kubbealtı Lugatı", "ref": "<kelime> maddesi", "url": "<verilen bağlantı>"}`.
 
-### çiğdem
+### silüet
 
-**Nişanyan — çiğdem**
+**Nişanyan — silüet**
 
 AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
-- Eski Türkçe › çigidem/çigildem › bir bitki adı  [ses evrimi]
-
-EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
-- Eski Türkçe › yigde › iğde  [eşkökenlilik]
+- özel isim › Etienne de Silhouette › Fransız maliyeci ve bakan (1709-1767)  [türeme]
+- Fransızca › à la silhouette › kısıtlı bütçeyle yapılan [esk.]  [türeme]
+- Fransızca › silhouette › 1. gölgenin dış hatlarını izleyerek yapılan çizim, 2. bir nesnenin gölgesinin dış hatları  [alıntı]
 
 Tanıklıklar (eskiden yeniye):
-- <1000, Türkische Turfantexte 1-9
-  > özlerdeki özeklerdeki yawa çigidem, suwlardakı ögenlerdeki sarġan otı [koylardaki vadilerdeki mantar? ve çiğdem?, sulardaki derelerdeki sargan otu]
-- <1500, Ebulgazi Bahadur Han — Şecere-i Terakime
-  > su yakası birlan çigdelik tuġayġa bardı [su kıyısını izleyerek iğdelik bir büke vardı]
+- 1934, Cumhuriyet - gazete
+  > Objektif büyük kütleden yalnız bir siluet için çalıştı.
 
-Not: Ege bölgesinde "ayçiçeği çekirdeği" anlamında kullanımı muhtemelen çiğit "çekirdek" sözcüğüyle alakalıdır.
+Not: Silhouette'in maliye bakanlığı esnasında alınan tasarruf tedbirleri nedeniyle soyluların yağlıboya portreler yerine (daha ucuz olan) silüet çizimleriyle yetinmek zorunda kalmaları nedeniyle.
 
-Bağlantı: https://www.nisanyansozluk.com/kelime/%C3%A7i%C4%9Fdem
+Bağlantı: https://www.nisanyansozluk.com/kelime/sil%C3%BCet
 
-**TDK** — anlam: Zambakgillerden, türlü renklerde çiçek açan, çok yıllık, yumrulu bir kır bitkisi; mahmur çiçeği (Colchicum)
+**TDK** — köken kaydı: Fransızca silhouette · anlam: Bir şeyin yalnız kenar çizgileriyle beliren görüntüsü
+
+### ağı
+
+**Nişanyan — ağı**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Türkçe › aġu › zehir  [ses evrimi]
+
+Tanıklıklar (eskiden yeniye):
+- <900, Uygurca metinler
+  > atmış aġusı öz başıŋa tegdi [attığı zehir kendi başına değdi]
+- 1367, Fahrî — Hüsrev ü Şirin terc.
+  > ne lāzım aġuyı bir ḳaba ḳoymaķ
+- 1390, Erzurumlu Mustafa Darir — Siyer-i Darir
+  > Āmine ḫatunı ḫalvet ele getürgil, işini bitürgil, uş saŋa bir aġulu ḫancer
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/a%C4%9F%C4%B1
+
+**TDK** — anlam: ► zehir
+
+### algoritma
+
+**Nişanyan — algoritma**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Avestaca › χʷāirizəm › a.a.  [alıntı]
+- Farsça / Orta Farsça › χʷārazm › Orta Asya'da bir ülke, Harezm  [alıntı]
+- Arapça › al-χawārizmī › İslam matematikçisi Harezmi (9. yy)  [türeme]
+- Geç Latince › algorismus › a.a.  [ses evrimi]
+- Eski Fransızca › algorisme › Arap sayılarıyla aritmetik işlem yapma yöntemi [esk.]  [ses evrimi]
+- Fransızca › algorithme › matematikte bir problemi çözmek için uygulanan prosedürler dizisi  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1940, Tasviri Efkâr (1940) - gazete
+  > Filhakika 1937 de gazetelerde bahsedilen bu Harzemî ve Algoritma meselesini tavzih etmek için daha o zaman Yücel mecmuasında mufassal bir makale neşretmiştim.
+- 1942, TDK — Felsefe ve Gramer Terimleri
+  > algoritma, Horzumlu yolu [Tr.] = Harzemiye [Osm.] = Algorithme [Fr.]
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/algoritma
+
+**TDK** — köken kaydı: Fransızca algorithme · anlam: Orta Çağ'da ondalık sayı sistemine göre, son zamanlarda ise iyi tanımlanmış kuralların ve işlemlerin adım adım uygulanmasıyla bir sorunun giderilmesi veya sonuca en hızlı biçimde ulaşılması işlemi; Harezmi yolu
+
+### platin
+
+**Nişanyan — platin**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › plangere, planct- › dövmek  [türeme]
+- Latince › plancta › dövülmüş, döverek tabaka haline getirilmiş (metal)  [ses evrimi]
+- İspanyolca › plata › gümüş  [türeme]
+- Yeni Latince › platinum › a.a.  [alıntı]
+- Fransızca › platine › ak altın adı verilen değerli metal  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1863, İbrahim Edhem Paşa — Medhal-i İlm-i Jeoloji
+  > platina: Ak sert altın.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/platin
+
+**Nişanyan — platin2**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › platýs › a.a.  [alıntı]
+- Geç Latince › plattus › a.a.  [ses evrimi]
+- Fransızca › plat › düz, yassı  [türeme]
+- İngilizce › platten › yassı plaka  [veya]
+- Fransızca › platine  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1969, Meydan-Larousse
+  > platin: distribütörde akım kontağı sağlayan metal parça
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/platin2
+
+**TDK** — köken kaydı: Fransızca platine · anlam: Atom numarası 78, atom ağırlığı 195,23, yoğunluğu 21,4 olan, 1755 °C'de eriyen, kolay işlenen, çok dayanıklı, değerli bir element (simgesi Pt)
+
+### pazen
+
+**Nişanyan — pazen**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › pambak › a.a.  [alıntı]
+- Orta Yunanca › pambáks › a.a.  [alıntı]
+- Geç Latince › bambax › pamuk  [ses evrimi]
+- İtalyanca › bambagine/bombagine › pamuklu  [alıntı]
+- Eski Fransızca › bombasin/bombasine › bir tür ince pamuklu kumaş  [türeme]
+- Fransızca › basin  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > pazen (Fr.): Şal dokuması tarzında pamuk karışık tüylü bez.
+
+Not: EFr bombasin sözcüğü halk etimolojisinin etkisiyle bon basin “iyi pazen” şeklinde ayrıştırılmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/pazen
+
+**TDK** — köken kaydı: Fransızca basin · anlam: Dokuması kalın, sık ve yumuşak, bir tür pamuklu bez
+
+### gaz
+
+**Nişanyan — gaz**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Eski Yunanca › χáos › şekilsiz varlık  [alıntı]
+- Felemenkçe › gaz › a.a.  [alıntı]
+- Fransızca › gaz › maddenin uçucu hali  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1838, Mustafa Sami Ef. — Avrupa Risalesi
+  > gaz tabir ettikleri kandillerin Londrada her diyardan ziyade kesreti cihetiyle
+- 1863, Düstur Tertip I.-IV.
+  > Sokaklardan geçecek su ve gaz boruları ve su yolları ve lağım misillü şeylerin inşa veya tamirleri
+- 1872, Teodor Kasap — Diyojen / Çıngıraklı Tatar/ Hayal - dergi
+  > Efendim hava gazı alacağım da onun borularını yapdırıyorum
+
+Not: Hollanda dilinde sözcüğün telaffuzu Yunanca χáos gibidir.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/gaz
+
+**Nişanyan — gaz2**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Fransızca › gaze › uçucu madde, cismin uçucu hali  [türeme]
+- Fransızca › gazéine/gazole › rafine edilmiş bir petrol ürünü, benzin  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > ġaz: Kandil yakmağa mahsus olan yağ gibi buhar.
+- 1929, Cumhuriyet - gazete
+  > ayağı şiddetlice gaz pedalı üzerine basmak kâfidir
+
+Not: Uluslararası kullanımda önceleri benzin ile eş anlamlı iken, daha sonra gaz "lamba yakıtı" ve benzin "otomobil yakıtı" olmak üzere ayrışmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/gaz2
+
+**Nişanyan — gaz3**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Orta Farsça › kac/kaj › a.a.  [alıntı]
+- Arapça › ḳazz › gevşek dokunmuş ipekli kumaş  [türeme]
+- Fransızca › gaze › çok gevşek dokunmuş pamuklu bez  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1876, Ahmed Vefik Paşa — Lehce-i Osmani
+  > ġaz: Gazze'de icat olan inceden ince dülbend.
+
+Not: Arapça kaynaklı olduğu halde Türkçeye 19. yy sonlarında Fransızcadan alınmıştır. İng gauze (a.a.) Fransızcadan alınmıştır. • Filistin'deki Gazze kent adıyla birleştirilmesi yaygın bir hatadır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/gaz3
+
+**TDK** — köken kaydı: Fransızca gaze · anlam: Gazze’de dokunan ince ve çok seyrek keten bez
+
+### tavla
+
+**Nişanyan — tavla**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › tabula › tabla, levha, oyun tahtası  [alıntı]
+- Yunanca › távli › a.a.  [alıntı]
+
+EŞ KÖKENLİLER — **`chain` alanına KOYMA.** Bunlar sözcüğün geçtiği yol değil, başka dillerdeki akrabalarıdır. İstersen `funFact` ya da `relatives` içinde `"eş köken"` ilişkisiyle anabilirsin:
+- Farsça › ṭawla › nard oyununun bir türü, tavla  [eşkökenlilik]
+
+Tanıklıklar (eskiden yeniye):
+- 1587, Gelibolulu Mustafa Âlî — Kavaidü'l-Mecalis
+  > başbaşa çatub la-yenkatıˁ [ara vermeden] nerd ü şatranc ve tavli oynamak
+- 1665, Evliya Çelebi — Seyahatname
+  > cümle a‘yân-i kibâr bunda zevk u şevk edüp tavla ve şatranc oynayup
+- 1680, Meninski — Thesaurus
+  > tavla طوله, tavli طولی: Calculorum ludus, & eorum alveus, tabula lusoria [tavla oyunu ve tavla tahtası]
+
+Not: Bugünkü tavla oyunu 6. yy'da Bizans vakanüvisi Agathias tarafından τάβλη adıyla anılmış ve tarif edilmiştir. Yunanca isim Latinceden alıntıdır. Türkçe sonseste /a/, Farsça vasıtasıyla erken bir alıntı olduğunu düşündürür.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tavla
+
+**Nişanyan — tavla2**
+
+AKTARIM ZİNCİRİ (eskiden yeniye) — `chain` alanına yalnızca bunlar girer:
+- Latince › stāre, stāt- › durmak  [türeme]
+- Latince › stābulum/stabula › durak, konak, barınak, özellikle hayvan barınağı  [alıntı]
+- Orta Yunanca › stávla › at ahırı  [alıntı]
+- Arapça / Farsça › ṭavla › at ahırı, altı veya sekiz çift attan oluşan takım, eküri  [alıntı]
+
+Tanıklıklar (eskiden yeniye):
+- 1500, Dede Korkut Kitabı
+  > ṭavla ṭavla şehbaz atların bindiler, katar katar kızıl develerin yetdiler
+- 1665, Evliya Çelebi — Seyahatname
+  > [Fatih Sultan Mehmet] ıstabl-ı hāssā-i bīrūn ve ıstabl-ı hāssā-i enderūn ve ıstabl-ı meydān-ı Vefā āḫūr-ı ˁazīmler etdi
+
+Not: Fr étable, İng stable (a.a.) ve İng stall (a.a.) biçimleri Latinceden alınmıştır. Osmanlıcada kullanılan istabl biçimi bir Batı dilinden alınmıştır.
+
+Bağlantı: https://www.nisanyansozluk.com/kelime/tavla2
+
+**TDK** — köken kaydı: Arapça ṭavīle · anlam: At beslenip bakıldığı yer, at ahırı
 
 ## Katı kurallar
 
@@ -344,9 +971,73 @@ yok.
 codex
 [
   {
-    "id": "çiğdem",
-    "word": "çiğdem",
-    "rarity": "gündelik",
+    "id": "silüet",
+    "word": "silüet",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Etienne de Silhouette",
+        "meaning": "Fransız maliyeci ve bakanın adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "à la silhouette",
+        "meaning": "az para harcanarak yapılan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "silhouette",
+        "meaning": "gölgenin sınırları izlenerek çizilen resim; bir nesnenin gölge çizgileri",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "silüet",
+        "meaning": "yalnızca dış çizgileri seçilen görüntü",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yalnızca dış çizgileriyle seçilebilen görüntü.",
+    "currentMeaning": "Bir varlığın ayrıntıları görünmeden, yalnızca dış sınırlarıyla beliren görüntüsü.",
+    "story": "Silüetin ardında, Fransa'da maliye bakanlığı yapan Etienne de Silhouette'in soyadı vardır. Onun dönemindeki tasarruf önlemleri, soyluların pahalı yağlıboya portreler yerine gölge çizimleriyle yetinmesine yol açtı. Soyadına bağlanan az masrafla iş yapma düşüncesi, zamanla bu çizimlerin adına dönüştü. Fransızcadan Türkçeye geçen kelime, ayrıntıları silinip yalnızca dış sınırları seçilen görüntüleri anlatmaya başladı.",
+    "firstAttestation": {
+      "source": "Cumhuriyet",
+      "period": "1934",
+      "form": "siluet"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "silüet maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sil%C3%BCet"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "silüet",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ağı",
+    "word": "ağı",
+    "rarity": "az-bilinen",
     "partOfSpeech": "isim",
     "formationType": "öz",
     "donorLanguage": null,
@@ -354,45 +1045,411 @@ codex
     "chain": [
       {
         "language": "otk",
-        "form": "çigidem/çigildem",
-        "meaning": "bir bitkinin adı",
+        "form": "aġu",
+        "meaning": "zehir",
         "period": null,
         "reconstructed": false
       },
       {
         "language": "tr",
-        "form": "çiğdem",
-        "meaning": "yumrulu, çok yıllık, çeşitli renklerde çiçeklenen kır bitkisi",
+        "form": "ağı",
+        "meaning": "zehir",
         "period": null,
         "reconstructed": false
       }
     ],
-    "shortMeaning": "Yumrulu, çok yıllık, renkli çiçekler açan kır bitkisi.",
-    "currentMeaning": "Zambakgiller içinde sınıflandırılan, yumrulu yapısıyla yıllarca yaşayan ve farklı renklerde çiçeklenen kır bitkisi (Colchicum); mahmur çiçeği.",
-    "story": "Çiğdemin geçmişinde, Eski Türkçede bir bitkiyi adlandıran çigidem ve çigildem biçimleri bulunur. Bu eski bitki adı, ses değişimleriyle bugünkü çiğdem biçimine ulaşmıştır. Sözcük bugün de kırların bitki örtüsüne bağlıdır: toprağın altında yumrusu bulunan, farklı renklerde çiçeklenen çok yıllık bir bitkiyi adlandırır.",
+    "shortMeaning": "Canlıyı zehirleyen madde.",
+    "currentMeaning": "Canlı bir organizmaya girdiğinde ona zarar veren veya ölümüne yol açabilen madde; zehir.",
+    "story": "Eski Türkçedeki aġu, canlıya zarar veren zehrin adıydı. Eski kullanımlarda bir kaba konulan zehir de zehir sürülmüş bir hançer de bu kelimeyle anlatılıyordu. Zamanla aġu biçimi ağıya dönüşürken kelimenin taşıdığı zehir düşüncesi değişmedi.",
     "firstAttestation": {
-      "source": "Türkische Turfantexte 1-9",
-      "period": "1000 öncesi",
-      "form": "çigidem"
+      "source": "Uygurca metinler",
+      "period": "900'den önce",
+      "form": "aġu"
     },
-    "relatives": [
-      {
-        "word": "iğde",
-        "relation": "eş köken"
-      }
-    ],
+    "relatives": [],
     "alternatives": null,
     "funFact": null,
     "sources": [
       {
         "name": "Nişanyan Sözlük",
-        "ref": "çiğdem maddesi",
-        "url": "https://www.nisanyansozluk.com/kelime/%C3%A7i%C4%9Fdem"
+        "ref": "ağı maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/a%C4%9F%C4%B1"
       },
       {
         "name": "TDK Güncel Türkçe Sözlük",
-        "ref": "çiğdem",
+        "ref": "ağı",
         "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "algoritma",
+    "word": "algoritma",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {
+        "language": "ae",
+        "form": "χʷāirizəm",
+        "meaning": "Harezm adlı Orta Asya ülkesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "χʷārazm",
+        "meaning": "Harezm adlı Orta Asya ülkesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "al-ḫawārizmī",
+        "meaning": "Harezmi adlı matematikçi",
+        "period": "9. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "algorismus",
+        "meaning": "Harezmi adlı matematikçi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fro",
+        "form": "algorisme",
+        "meaning": "arap rakamları kullanılarak hesap yapma yöntemi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "algorithme",
+        "meaning": "matematiksel bir sorunu çözmeye yönelik işlem sırası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "algoritma",
+        "meaning": "bir sorunu çözmek için belirli kurallarla yürütülen işlem sırası",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir sorunu çözmek için belirli kurallarla izlenen işlem sırası.",
+    "currentMeaning": "Orta Çağ'da ondalık sistemle hesap yapmayı, günümüzde ise açıkça belirlenmiş işlem ve kuralları sırayla uygulayarak bir sorunu çözmeyi veya sonuca en kısa yoldan varmayı anlatan yöntem; Harezmi yolu.",
+    "story": "Algoritmanın yolculuğu, Orta Asya'daki Harezm'in Avestaca ve Farsçadaki adına kadar uzanır. Bu yer adı, dokuzuncu yüzyıl matematikçisi Harezmi'nin Arapça adlandırmasında yaşamaya devam etti. Adın Geç Latincedeki algorismus biçiminden gelişen Eski Fransızca algorisme, Arap rakamlarıyla hesap yapmanın adı oldu. Fransızcada kullanım alanı genişleyerek matematik problemlerini çözmeye yarayan işlem dizilerini kapsadı ve kelime Türkçeye bu dilden geçti.",
+    "firstAttestation": {
+      "source": "Tasviri Efkâr",
+      "period": "1940",
+      "form": "Algoritma"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "algoritma maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/algoritma"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "algoritma",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "platin",
+    "word": "platin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "plangere, planct-",
+        "meaning": "vurarak dövmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "plancta",
+        "meaning": "dövülerek levhaya dönüştürülmüş metal",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "es",
+        "form": "plata",
+        "meaning": "gümüş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "platinum",
+        "meaning": "gümüş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "platine",
+        "meaning": "ak altın olarak da adlandırılan kıymetli metal",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "platin",
+        "meaning": "simgesi Pt olan kıymetli metal elementi",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Simgesi Pt, atom numarası 78 olan değerli metal.",
+    "currentMeaning": "Pt simgesiyle gösterilen, atom numarası 78 olan, kolay işlenebilen, dayanıklı ve kıymetli metal elementi.",
+    "story": "Platinin adının başlangıcında metal dövme işi vardır: Latincedeki plangere eylemi, dövülüp levhaya çevrilen metali anlatan plancta biçimine uzanır. Bu biçim İspanyolcada plata olarak gümüşün adına dönüştü. Gümüşe uzanan adlandırma, Yeni Latincedeki platinum üzerinden Fransızcada ak altın denilen metalin platine adına bağlandı. Türkçe platin de bu Fransızca adı devraldı.",
+    "firstAttestation": {
+      "source": "İbrahim Edhem Paşa — Medhal-i İlm-i Jeoloji",
+      "period": "1863",
+      "form": "platina"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "platin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/platin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "platin",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pazen",
+    "word": "pazen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "pambak",
+        "meaning": "pamuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "pambáks",
+        "meaning": "pamuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "bambax",
+        "meaning": "pamuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "bambagine/bombagine",
+        "meaning": "pamuktan yapılmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fro",
+        "form": "bombasin/bombasine",
+        "meaning": "ince bir pamuklu dokuma türü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "basin",
+        "meaning": "ince bir pamuklu dokuma türü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pazen",
+        "meaning": "kalın ve sık dokunmuş yumuşak pamuklu kumaş",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kalın ve sık dokunmuş, yumuşak pamuklu kumaş.",
+    "currentMeaning": "Pamuktan üretilen, kalınlığına ve sık dokusuna rağmen yumuşak olan bir bez türü.",
+    "story": "Pazenin adı, Orta Farsçada pamuğu anlatan pambak ile başlar; kelime Orta Yunanca ve Geç Latince üzerinden İtalyancaya ulaştı. Yol boyunca pamuk lifinin adı, önce pamuktan yapılmış şeyleri, ardından belirli bir kumaşı anlatmaya başladı. Eski Fransızcadaki bombasin, bon basin yani 'iyi pazen' diye yeniden yorumlanınca basin biçimi ortaya çıktı. Fransızcadan Türkçeye geçen pazen, kalın ve sık dokulu, yumuşak bir pamuklu bezin adı olarak yerleşti.",
+    "firstAttestation": {
+      "source": "Ahmed Vefik Paşa — Lehce-i Osmani",
+      "period": "1876",
+      "form": "pazen"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "pazen maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/pazen"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "pazen",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gaz",
+    "word": "gaz",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "χáos",
+        "meaning": "biçimi olmayan varlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "nl",
+        "form": "gaz",
+        "meaning": "biçimi olmayan varlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "gaz",
+        "meaning": "maddenin uçucu durumu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "gaz",
+        "meaning": "maddenin uçucu durumu",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Maddenin uçucu durumuna verilen ad.",
+    "currentMeaning": "Maddenin uçucu hâli ve bu hâldeki madde.",
+    "story": "Gazın geçmişinde, Eski Yunancada belirli bir biçimi bulunmayan varlığı anlatan χáos vardır. Bu ad Felemenkçede gaz biçimini aldı; Fransızcada ise maddenin uçucu durumunu adlandırdı. Türkçeye Fransızcadan geçen kelimenin erken kullanımlarında gazla yanan kandiller ve gaz taşıyan borular öne çıkar.",
+    "firstAttestation": {
+      "source": "Mustafa Sami Efendi — Avrupa Risalesi",
+      "period": "1838",
+      "form": "gaz"
+    },
+    "relatives": [
+      {
+        "word": "hava gazı",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Felemenkçedeki gazın söylenişi, yazılışlarının düşündürdüğünden farklı olarak Yunancadaki χáosun söylenişine benzer.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "gaz maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/gaz"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tavla",
+    "word": "tavla",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "tabula",
+        "meaning": "düz levha veya üzerinde oyun oynanan tahta",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "távli",
+        "meaning": "düz levha veya üzerinde oyun oynanan tahta",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tavla",
+        "meaning": "tahta üzerinde oynanan oyun ve bu oyunun tahtası",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Tahta üzerinde oynanan bir oyun ve bu oyunun tahtası.",
+    "currentMeaning": "Tavla adıyla bilinen oyun ve onu oynamak için kullanılan oyun tahtası.",
+    "story": "Tavlanın adının başlangıcında Latince tabula, yani üzerine oyun da kurulabilen düz bir levha vardır. Yunancaya távli biçiminde geçen bu ad, Türkçede hem oyunu hem de oyunun oynandığı tahtayı anlatır. Böylece oyunun zemini, oyunun kendisine de adını vermiştir. Türkçe biçimin sonundaki a, aktarımda Farsçanın da aracılık etmiş olabileceğini düşündürür.",
+    "firstAttestation": {
+      "source": "Gelibolulu Mustafa Âlî — Kavaidü'l-Mecalis",
+      "period": "1587",
+      "form": "tavli"
+    },
+    "relatives": [
+      {
+        "word": "ṭawla",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük aktarım zincirinde Latince tabula ve Yunanca távli biçimlerini verir; Türkçedeki son a sesini ise Farsça aracılığıyla erken bir alıntı yapılmış olabileceğinin işareti olarak değerlendirir."
+    ],
+    "funFact": "Bugünkü tavla oyunu, altıncı yüzyılda Bizans tarihçisi Agathias tarafından adı verilerek tarif edilmiştir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tavla maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/tavla"
       }
     ],
     "confidence": "orta",
@@ -400,4 +1457,4 @@ codex
   }
 ]
 tokens used
-11,799
+19,113

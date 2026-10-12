@@ -1,0 +1,116 @@
+[
+  {
+    "id": "karanfil",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kanepe",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "mont",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: tr"
+    ]
+  },
+  {
+    "id": "mango",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: dra"
+    ]
+  },
+  {
+    "id": "anten",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "propaganda",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "manken",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "atlas",
+    "verdict": "check",
+    "reasons": [
+      "donorLanguage fr kaynakla uyuşmuyor (kaynak: ar)",
+      "Kaynak zincirinde olup maddede olmayan halka: ar",
+      "Maddede olup kaynak zincirinde olmayan halka: grc, fr",
+      "firstAttestation.source \"Tuhfetü'l-Kibâr fi Esfârü'l-Bihâr\" kaynaktaki eserlerle eşleşmiyor (Edib Ahmed, Atebetü'l-Hakayık, Ahmedî, İskendernâme)",
+      "Nişanyan bağlantısı kaynakla farklı: https://www.nisanyansozluk.com/kelime/atlas2 (beklenen https://www.nisanyansozluk.com/kelime/atlas)"
+    ]
+  },
+  {
+    "id": "cehennem",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "vernik",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: grc"
+    ]
+  },
+  {
+    "id": "dolar",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "atom",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: en"
+    ]
+  },
+  {
+    "id": "maraton",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "torpido",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "poğaça",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "satranç",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "afyon",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "portakal",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "bikini",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "muslin",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

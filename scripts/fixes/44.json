@@ -1,0 +1,245 @@
+[
+  {
+    "id": "pijama",
+    "word": "pijama",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "cāma",
+        "meaning": "giysi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "pā/pāy",
+        "meaning": "ayak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "pācāma/pāy-cāma",
+        "meaning": "ayak giysisi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "hi",
+        "form": "pācāmā/paicāmā",
+        "meaning": "ayak giysisi; bol pantolon veya şalvar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "pyjama",
+        "meaning": "ayak giysisi; bol pantolon veya şalvar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "pyjama",
+        "meaning": "Hindistan'a özgü, hafif kumaştan bol pantolon",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pijama",
+        "meaning": "alt ve üst parçaları bulunan uyku giysisi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Alt ve üst parçaları bulunan uyku giysisi.",
+    "currentMeaning": "Yatakta giyilmek üzere kullanılan, bir alt ve bir üst parçadan oluşan giysi takımı.",
+    "story": "Pijamanın adını kuran iki Farsça parça, ayak ile giysiyi yan yana getirir. Hintçede bu birleşim bol pantolon ve şalvarı adlandırmış, İngilizce üzerinden Fransızcaya da Hindistan'a özgü hafif pantolonun adı olarak ulaşmıştır. Türkçedeki kullanımda giysinin kapsamı genişlemiş, yalnız alt parçayı değil üstüyle birlikte giyilen uyku takımını karşılar olmuştur.",
+    "firstAttestation": {
+      "source": "Sabah",
+      "period": "1907",
+      "form": "pijama"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Kelimenin Avrupa dillerindeki yolculuğundan ayrı olarak Farsça pāy-cāma biçimi Osmanlı Türkçesinde de kullanılmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "pijama maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/pijama"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "pijama",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "petrol",
+    "word": "petrol",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "élaion",
+        "meaning": "yağ",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "pétra",
+        "meaning": "taş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "petra",
+        "meaning": "taş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "petroleum",
+        "meaning": "taş yağı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "pétrole",
+        "meaning": "taş yağı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "petrol",
+        "meaning": "hidrokarbonlardan oluşan doğal ve yanıcı mineral yağ",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hidrokarbonlardan oluşan doğal ve yanıcı mineral yağ.",
+    "currentMeaning": "Hidrokarbonlardan oluşan, yoğunluğu yaklaşık 0,8-0,95 arasında değişen, koyu renkli, kendine özgü kokulu ve arıtılmamış doğal yanıcı yağ.",
+    "story": "Petrol adı, taş ile yağı bir araya getiren eski bir adlandırmayı korur. Taşı bildiren pétra ile petra ve yağı bildiren élaion, Geç Latince petroleum sözcüğünde “taş yağı” anlamında birleşir. Bu tasvir Fransızcada pétrole biçimini almış, Türkçeye de yerden çıkarılan doğal yanıcı yağın adı olarak geçmiştir.",
+    "firstAttestation": {
+      "source": "Takvim-i Vekayi",
+      "period": "1868",
+      "form": "petrol"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "petrol maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/petrol"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "petrol",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gladyatör",
+    "word": "gladyatör",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "kelh₂- (kel-)",
+        "meaning": "kesmek, bıçakla vurmak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "kl̥dʰ-i̯é-",
+        "meaning": "kesmek, bıçakla vurmak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "la",
+        "form": "gladius",
+        "meaning": "Galyalılara özgü, kısa ve geniş kılıç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "gladiator",
+        "meaning": "kılıçla dövüşen kişi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "gladiateur",
+        "meaning": "Eski Roma'da seyirlik dövüşlere katılan kişi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "gladyatör",
+        "meaning": "Eski Roma arenalarında insanlarla veya yaban hayvanlarıyla ölümüne dövüştürülen kişi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Eski Roma arenalarında ölümüne dövüştürülen kişi.",
+    "currentMeaning": "Eski Roma'da seyirciler önünde başka insanlarla ya da vahşi hayvanlarla ölümüne mücadele etmeye zorlanan kimse.",
+    "story": "Gladyatörün adında önce dövüşçü değil, elindeki kılıç vardır. Latincede Galyalılara özgü kısa ve geniş kılıcı karşılayan gladius, kılıçla dövüşen kişiyi adlandıran gladiator biçimine temel olmuştur. Fransızca üzerinden Türkçeye geçen ad, Roma arenasındaki ölümcül gösterilerin savaşçısını karşılar. Daha eski bağlantı kesme ve bıçakla vurma köküne uzansa da Kelt dillerindeki ara biçim bilinmemektedir.",
+    "firstAttestation": {
+      "source": "Servet-i Fünun",
+      "period": "1903",
+      "form": "gladyatör"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Latinceden önce Kelt dillerini gösterir, ancak bu aşamadaki biçimi soru işaretiyle belirsiz bırakır."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "gladyatör maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/gladyat%C3%B6r"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "gladyatör",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

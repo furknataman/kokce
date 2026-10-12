@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "bandana",
+    "word": "bandana",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "bʰendʰ-",
+        "meaning": "bağlamak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "sa",
+        "form": "bandh-",
+        "meaning": "bağlamak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "sa",
+        "form": "bándhana",
+        "meaning": "bağ, bağlama veya bağlayan şey",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "hi",
+        "form": "bandhan",
+        "meaning": "bağlama, bağ; kumaşı düğümleyerek boyama yöntemi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "bandanna",
+        "meaning": "boyanmamış benekler bırakılarak renklendirilmiş mendil",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bandana",
+        "meaning": "başa çeşitli biçimlerde bağlanan büyük mendil",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Başa çeşitli biçimlerde bağlanan büyük mendil.",
+    "currentMeaning": "Başı örtmek veya süslemek için farklı biçimlerde bağlanabilen büyük mendil.",
+    "story": "Bandananın geçmişinde bir kumaştan önce bağlama eylemi vardır: Hintavrupa kökü, Sanskritçede bağ ve bağlama bildiren biçimlerle sürer. Hintçede aynı kelime ailesi, kumaşı düğümleyerek boyama yöntemini de adlandırmıştır. İngilizcede bu yöntemle desenlendirilmiş mendilin adı olan bandanna, Türkçede başa bağlanan örtüyü karşılar. Türkçeye son aktarımın İngilizceden mi Fransızcadan mı gerçekleştiği konusunda kaynaklar ayrılır.",
+    "firstAttestation": {
+      "source": "Milliyet",
+      "period": "1993",
+      "form": "bandana"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük doğrudan veren dili İngilizce, TDK Güncel Türkçe Sözlük ise Fransızca olarak gösterir."
+    ],
+    "funFact": "İngilizcedeki kullanımı, bağlama kökünden ayrı olarak 'şerit' bildiren band kelimesinin etkisini de taşır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bandana maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bandana"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bandana",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "virüs",
+    "word": "virüs",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "la",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "wei̯s-",
+        "meaning": "kötü kokmak; zehir",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "la",
+        "form": "wisos",
+        "meaning": "kötü kokmak; zehir",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "la",
+        "form": "virus",
+        "meaning": "zehir",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "virus",
+        "meaning": "zararlı bir mikroorganizma türü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "virüs",
+        "meaning": "çoğalmak için başka bir hücreye ihtiyaç duyan çok küçük bulaşıcı etken",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Başka bir hücre içinde çoğalabilen çok küçük bulaşıcı etken.",
+    "currentMeaning": "Bakterilerden küçük olan, varlığını sürdürmek için bir hücreye girmesi gereken ve elektron mikroskobuyla görülebilen hastalık yapıcı parazit.",
+    "story": "Virüsün eski katmanında kötü koku ve zehir düşüncesi bulunur. Latincede zehri adlandıran virus, Yeni Latince bilim dilinde zararlı mikroorganizmalara verilen bir ada dönüşmüştür. Böylece zarar veren maddeyi anlatan kelime, hücre içinde varlığını sürdüren bulaşıcı etkeni karşılamaya başlamıştır. Türkçeye doğrudan Yeni Latinceden aktarım ile Fransızca aracılığı konusunda farklı açıklamalar vardır.",
+    "firstAttestation": {
+      "source": "Tıngır & Sinapian, Istılahat Lugati",
+      "period": "1892",
+      "form": "virüs"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye aktarımı Yeni Latince virus biçimine bağlarken TDK Güncel Türkçe Sözlük Fransızca virus biçimini gösterir."
+    ],
+    "funFact": "Virüsün zararlı bilgisayar yazılımlarını adlandırmak için kullanılması 1972'ye kadar uzanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "virüs maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/vir%C3%BCs"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "virüs",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "cıva",
+    "word": "cıva",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "peo",
+    "chain": [
+      {
+        "language": "peo",
+        "form": "zīwa-/zība-",
+        "meaning": "yaşamak, canlı olmak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "pal",
+        "form": "zīwag",
+        "meaning": "canlı; cıva",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "fa",
+        "form": "jīva/cīva",
+        "meaning": "cıva, sıvı durumdaki metal",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "cıva",
+        "meaning": "olağan sıcaklıklarda sıvı kalan, gümüş renkli metal element",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Olağan sıcaklıklarda sıvı kalan, gümüş renkli metal element.",
+    "currentMeaning": "Hg simgesiyle gösterilen, atom numarası 80 olan, yaklaşık -38,8 °C'de donduğu için normal sıcaklıklarda sıvı kalan gümüş renkli element.",
+    "story": "Cıvanın adında eski bir canlılık tasviri saklıdır. Eski Farsçada yaşamayı bildiren kök, Orta Farsçada hem canlı olanı hem de bu sıvı metali karşılayan bir biçime ulaşmıştır. Farsçadan Türkçeye geçen ad, katı durmayan metalin canlı bir şey gibi düşünülmesini bugüne taşır.",
+    "firstAttestation": {
+      "source": "Anonim, Kısas-ı Enbiya tercümesi",
+      "period": "1390'dan önce",
+      "form": "jīve"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Latince argentum vivum adı da cıvayı 'canlı gümüş' olarak tasvir eder.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "cıva maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/c%C4%B1va"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "cıva",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "elektrik",
+    "word": "elektrik",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "ēléktōr",
+        "meaning": "parıldayan, kıvılcım saçan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "ḗlektron",
+        "meaning": "altın ile gümüş alaşımı; kehribar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "ēlektrikós",
+        "meaning": "kehribara ilişkin, kıvılcımlı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "vis electrica",
+        "meaning": "kehribar gücü; kehribar gibi maddelerin kıvılcımlanma özelliği",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "electric",
+        "meaning": "kehribar gücü; kehribar gibi maddelerin kıvılcımlanma özelliği",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "électrique",
+        "meaning": "kehribar gücü; kehribar gibi maddelerin kıvılcımlanma özelliği",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "elektrik",
+        "meaning": "maddedeki parçacıkların hareketiyle ortaya çıkan enerji türü",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Maddedeki parçacıkların hareketiyle ortaya çıkan enerji türü.",
+    "currentMeaning": "Elektron, pozitron ve proton gibi parçacıkların hareketleri sonucunda ortaya çıkan enerji.",
+    "story": "Elektriğin adı, Eski Yunancada parlaklığı çağrıştıran bir kelime ailesine ve bu ailenin kehribar adına uzanır. Kehribara ilişkin sıfat, Yeni Latincede bu tür maddelerin kıvılcımlanma özelliğini anlatan 'kehribar gücü' ifadesine taşınmıştır. Bugün geniş bir enerji alanını karşılayan adın başlangıcında böylece belirli bir madde bulunur. Türkçeye geçişte Fransızca biçim öne çıkar; İngilizce de alternatif bir aktarım yolu olarak gösterilir.",
+    "firstAttestation": {
+      "source": "Ebubekir Ratib Efendi, Nemçe Sefaretnamesi",
+      "period": "1792",
+      "form": "elektrika"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük İngilizce electric ile Fransızca électrique biçimlerini alternatif aktarım yolları olarak verir; TDK Güncel Türkçe Sözlük Fransızcayı seçer."
+    ],
+    "funFact": "Osmanlı döneminde elektrik için berkiyye ve kehrübaiyye adları da önerilmiştir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "elektrik maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/elektrik"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "elektrik",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pijama",
+    "word": "pijama",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "cāma",
+        "meaning": "giysi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "pā/pāy",
+        "meaning": "ayak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "pācāma/pāy-cāma",
+        "meaning": "ayak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "hi",
+        "form": "pācāmā/paicāmā",
+        "meaning": "ayak giysisi; bol pantolon veya şalvar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "pyjama",
+        "meaning": "ayak giysisi; bol pantolon veya şalvar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "pyjama",
+        "meaning": "Hindistan'a özgü, hafif kumaştan bol pantolon",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pijama",
+        "meaning": "alt ve üst parçaları bulunan uyku giysisi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Alt ve üst parçaları bulunan uyku giysisi.",
+    "currentMeaning": "Yatakta giyilmek üzere kullanılan, bir alt ve bir üst parçadan oluşan giysi takımı.",
+    "story": "Pijamanın adını kuran iki Farsça parça, ayak ile giysiyi yan yana getirir. Hintçede bu birleşim bol pantolon ve şalvarı adlandırmış, İngilizce üzerinden Fransızcaya da Hindistan'a özgü hafif pantolonun adı olarak ulaşmıştır. Türkçedeki kullanımda giysinin kapsamı genişlemiş, yalnız alt parçayı değil üstüyle birlikte giyilen uyku takımını karşılar olmuştur.",
+    "firstAttestation": {
+      "source": "Sabah",
+      "period": "1907",
+      "form": "pijama"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Kelimenin Avrupa dillerindeki yolculuğundan ayrı olarak Farsça pāy-cāma biçimi Osmanlı Türkçesinde de kullanılmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "pijama maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/pijama"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "pijama",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kakao",
+    "word": "kakao",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "nah",
+    "chain": [
+      {
+        "language": "nah",
+        "form": "cacauatl",
+        "meaning": "Orta Amerika kökenli bitki ve çikolata yapılan tohumu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "es",
+        "form": "cacao",
+        "meaning": "Orta Amerika kökenli bitki ve çikolata yapılan tohumu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "cacao",
+        "meaning": "Orta Amerika kökenli bitki ve çikolata yapılan tohumu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kakao",
+        "meaning": "Amerika'nın sıcak bölgelerinde yetişen Theobroma cacao türü ağaç",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Amerika'nın sıcak bölgelerinde yetişen kakao ağacı.",
+    "currentMeaning": "Amerika'nın sıcak kesimlerinde yetişen, iki çenekli Theobroma cacao türündeki ağaç; Hint bademi.",
+    "story": "Kakao adı, Meksika Azteklerinin dilinde bitkiyi ve onun çikolata yapımında kullanılan tohumunu birlikte adlandırıyordu. İspanyolcaya cacao biçimiyle geçen kelime, Fransızcada da bu bitki ve tohum çevresindeki anlamını korudu. Türkçeye ulaşan adın temelinde yalnız bir yiyecek hammaddesi değil, o tohumu veren tropikal ağaç da bulunur.",
+    "firstAttestation": {
+      "source": "Ahmed Vefik Paşa, Lehce-i Osmani",
+      "period": "1876",
+      "form": "Kakao"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kakao maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kakao"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kakao",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "ananas",
+    "word": "ananas",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "pt",
+    "chain": [
+      {
+        "language": "pt",
+        "form": "ananás",
+        "meaning": "tropikal bir meyve",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "es",
+        "form": "ananás",
+        "meaning": "tropikal bir meyve",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "ananas",
+        "meaning": "tropikal bir meyve",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ananas",
+        "meaning": "sıcak ülkelerde yetişen, ananasgillerden bir ağaç",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sıcak ülkelerde yetişen, ananasgillerden bir ağaç.",
+    "currentMeaning": "Ananasgiller ailesine ait olan ve sıcak ülkelerde yetişen Ananas sativus adlı ağaç.",
+    "story": "Ananasın adı, Brezilya'nın yerli Tupi-Guarani dilindeki naná biçimine uzanır. Meyvenin adı Portekizcede ananás biçimini almış, İspanyolca üzerinden Fransızcaya taşınmıştır. Türkçeye Fransızcadan giren kelimenin yolculuğunda meyve adı korunmuş; Türkçedeki bitki tanımında aynı ad onu veren ağacı da karşılamıştır.",
+    "firstAttestation": {
+      "source": "Cemiyeti Tıbbiyei Osmaniye, Lugat-i Tıbbiye",
+      "period": "1873",
+      "form": "ananas"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ananas maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ananas"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ananas",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "film",
+    "word": "film",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "pel-²",
+        "meaning": "deri yüzmek",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "pélno-mo-",
+        "meaning": "deri",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "gem",
+        "form": "fellam",
+        "meaning": "deri",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "en",
+        "form": "film",
+        "meaning": "ince zar; fotoğraf veya sinema şeridi; sinema yapıtı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "filme",
+        "meaning": "ince zar; fotoğraf veya sinema şeridi; sinema yapıtı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "film",
+        "meaning": "görüntü kaydetmek için kullanılan saydam ve esnek selüloz şerit",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Görüntü kaydetmekte kullanılan saydam, esnek selüloz şerit.",
+    "currentMeaning": "Fotoğraf, radyografi ve sinema çekimlerinde görüntü elde etmek için kullanılan, selülozdan yapılmış saydam ve bükülebilir şerit.",
+    "story": "Filmin uzak geçmişi deri yüzme eylemine ve deri adına uzanır. İngilizcede kelime ince bir zarı karşılamış, ardından görüntünün kaydedildiği ince şeride uygulanmıştır. Şeridin adı zamanla üzerinde kayıtlı sinema yapıtını da anlatır olmuştur. Türkçeye aktarımda Fransızca öne çıkmakla birlikte doğrudan İngilizce yolu da gösterilir.",
+    "firstAttestation": {
+      "source": "Osmanlı'da Gösteri Sanatları",
+      "period": "1911",
+      "form": "filmleri"
+    },
+    "relatives": [
+      {
+        "word": "mikrofilm",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük İngilizce film ile Fransızca filme biçimlerini alternatif aktarım yolları olarak verir; TDK Güncel Türkçe Sözlük Fransızca film kaydını esas alır."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "film maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/film"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "film",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "morfin",
+    "word": "morfin",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "morphḗ",
+        "meaning": "biçim, şekil",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "Morpheus",
+        "meaning": "rüya ve hayallerle ilişkilendirilen mitolojik tanrı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "de",
+        "form": "Morphin",
+        "meaning": "rüya ve hayallerle ilişkilendirilen mitolojik tanrı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "morphine",
+        "meaning": "afyondan çıkarılan alkaloit",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "morfin",
+        "meaning": "afyonda bulunan uyuşturucu etkili alkaloit",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Afyonda bulunan, uyuşturucu etkili alkaloit.",
+    "currentMeaning": "Afyonun yaklaşık yüzde onunu oluşturan, uyuşturucu özelliğe sahip önemli bir alkaloit.",
+    "story": "Morfinin adı, rüya ve hayallerin tanrısı Morpheus'a dayanır; bu özel adın gerisinde de Yunancanın biçim bildiren morphḗ kelimesi vardır. Tanrının adı Almancada afyondan elde edilen maddenin adına dönüştürülmüştür. Fransızca üzerinden Türkçeye ulaşan morfin, böylece uyuşturucu bir maddeyi rüya dünyasının mitolojik kişisiyle aynı ad ailesinde buluşturur.",
+    "firstAttestation": {
+      "source": "Cemiyeti Tıbbiyei Osmaniye, Lugat-i Tıbbiye",
+      "period": "1873",
+      "form": "morfin"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "morfin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/morfin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "morfin",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mozaik",
+    "word": "mozaik",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "Moúsa",
+        "meaning": "sanat tanrıçası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "mousíon",
+        "meaning": "sanat tanrıçası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "opus musaicus",
+        "meaning": "sanat tanrıçası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "mosaico",
+        "meaning": "sanat tanrıçası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "mosaïque",
+        "meaning": "renkli taş parçalarıyla oluşturulan resim",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mozaik",
+        "meaning": "küçük renkli parçaların birleştirilmesiyle yapılan resim ve bezeme",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Küçük renkli parçaların birleştirilmesiyle yapılan resim ve bezeme.",
+    "currentMeaning": "Farklı renklerdeki küçük, küp biçimli mermer, taş veya pişmiş toprak parçalarını yan yana dizerek resim ve süsleme oluşturma işi.",
+    "story": "Mozaik adının gerisinde, Eski Yunancanın sanat tanrıçasını adlandıran Moúsa kelimesi bulunur. Bu ad ailesi Yunancadan Geç Latinceye, ardından İtalyancaya taşınmıştır. Fransızca aşamasında renkli taş parçalarından kurulan resmi karşılayan kelime, Türkçede de küçük parçaların birleşerek bir görüntü oluşturduğu bezeme işinin adı olmuştur.",
+    "firstAttestation": {
+      "source": "Mustafa Sami Efendi, Avrupa Risalesi",
+      "period": "1838",
+      "form": "mozayik"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mozaik maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mozaik"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mozaik",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pantolon",
+    "word": "pantolon",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "Pănteleḗmōn",
+        "meaning": "çok esirgeyici olarak yorumlanan erkek adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "San Pantalone",
+        "meaning": "Venedik'teki bir semtin adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "Pantalone",
+        "meaning": "Venedik güldürülerindeki şalvar giyen yaşlı erkek tipi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "pantalon",
+        "meaning": "düz ve geniş paçalı külot",
+        "period": "17. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pantolon",
+        "meaning": "belden aşağı giyilen, iki paçası genellikle bileklere uzanan giysi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Belden giyilen ve paçaları genellikle ayak bileklerine uzanan giysi.",
+    "currentMeaning": "Bel hizasından başlayarak bacakları ayrı paçalarla örten ve çoğunlukla ayak bileklerine kadar uzanan giyecek.",
+    "story": "Pantolonun geçmişi, çok esirgeyici olmayı anlatan bir Yunanca erkek adına uzanır. Ad, Venedik'teki San Pantalone semti üzerinden güldürü tiyatrosunun şalvarlı yaşlı adamı Pantalone'ye bağlanır. Sahnedeki kişinin adı Fransızcada düz ve bol paçalı giysiye aktarılmıştır. Türkçeye gelen kelime de artık kişiyi değil, belden aşağı giyilen iki paçalı giysiyi karşılar.",
+    "firstAttestation": {
+      "source": "Vartan Paşa, Akabi Hikâyesi",
+      "period": "1851",
+      "form": "pantalon"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "pantolon maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/pantolon"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "pantolon",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "petrol",
+    "word": "petrol",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "élaion",
+        "meaning": "yağ",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "pétra",
+        "meaning": "yağ",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "petra",
+        "meaning": "taş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "petroleum",
+        "meaning": "taş yağı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "pétrole",
+        "meaning": "taş yağı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "petrol",
+        "meaning": "hidrokarbonlardan oluşan doğal ve yanıcı mineral yağ",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hidrokarbonlardan oluşan doğal ve yanıcı mineral yağ.",
+    "currentMeaning": "Hidrokarbonlardan oluşan, yoğunluğu yaklaşık 0,8-0,95 arasında değişen, koyu renkli, kendine özgü kokulu ve arıtılmamış doğal yanıcı yağ.",
+    "story": "Petrol adı, yağ ile taşı bir araya getiren eski bir adlandırmayı korur. Yunancanın yağ bildiren élaion kelimesi ile Latincedeki taş adı petra, Geç Latince petroleum birleşiminin iki anlam bileşenidir. 'Taş yağı' tasviri Fransızcada pétrole biçimini almış, Türkçeye de yerden çıkarılan doğal yanıcı yağın adı olarak geçmiştir.",
+    "firstAttestation": {
+      "source": "Takvim-i Vekayi",
+      "period": "1868",
+      "form": "petrol"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "petrol maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/petrol"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "petrol",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "porselen",
+    "word": "porselen",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "pórḱos",
+        "meaning": "domuz",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "la",
+        "form": "porcus",
+        "meaning": "domuz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "porcella",
+        "meaning": "dişi domuz yavrusu; kadın cinsel organı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "porcellana",
+        "meaning": "parlak beyaz deniz kabuğu; bu kabuğa benzeyen ince çini",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "porcelaine",
+        "meaning": "parlak beyaz deniz kabuğu; bu kabuğa benzeyen ince çini",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "porselen",
+        "meaning": "kaolinden üretilen beyaz, sert ve yarı saydam seramik hamuru",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kaolinden üretilen beyaz, sert ve yarı saydam seramik hamuru.",
+    "currentMeaning": "Temel maddesi kaolin olan, beyazlığı, sertliği ve yarı saydamlığıyla ayırt edilen çömlek hamuru.",
+    "story": "Porselenin uzak kökü domuz adına, Latincedeki ara biçimi ise dişi domuz yavrusunu ve kadın cinsel organını karşılayan porcella kelimesine uzanır. Bu kelime ailesinin İtalyancadaki porcellana biçimi parlak beyaz bir deniz kabuğunun adı olmuştur. Kabuğa benzeyen ince çini de aynı adla anılınca kelime seramik alanına taşınmıştır. Fransızca üzerinden Türkçeye gelen porselen, bu benzetmenin sonunda beyaz ve yarı saydam malzemenin adı olarak yerleşmiştir.",
+    "firstAttestation": {
+      "source": "İbrahim Edhem Paşa, Medhal-i İlm-i Jeoloji",
+      "period": "1863",
+      "form": "porselena"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "porselen maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/porselen"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "porselen",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "temmuz",
+    "word": "temmuz",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "sux",
+    "chain": [
+      {
+        "language": "sux",
+        "form": "Dumu-zi",
+        "meaning": "bir tanrının adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "akk",
+        "form": "Duˀzu/Dūzu",
+        "meaning": "Babil ve Asur'da bir tanrının adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "arc",
+        "form": "tamūz",
+        "meaning": "Arami ve Süryani takvimlerinde dördüncü ay",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "tammūz",
+        "meaning": "Rumi takvimde beşinci ay",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "temmuz",
+        "meaning": "yılın yedinci ayı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Takvim yılının yedinci ayı.",
+    "currentMeaning": "Yılın yedinci sırasında bulunan, orak ayı adıyla da anılan ay.",
+    "story": "Temmuzun geçmişinde bir ay adı değil, Sümer tanrısı Dumu-zi vardır. Tanrının adı Akatçaya taşınmış, Arami ve Süryani takvimlerinde bir ayı adlandırır olmuştur. Arapça aracılığıyla Türkçeye ulaşan bu adın takvimdeki sıra numarası değişmiştir: bir gelenekte dördüncü, Rumi takvimde beşinci olan ay, bugün yılın yedinci ayıdır.",
+    "firstAttestation": {
+      "source": "Anonim, Mukaddimetü'l-Edeb tercümesi",
+      "period": "1300",
+      "form": "tammūz"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "temmuz maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/temmuz"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "temmuz",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gladyatör",
+    "word": "gladyatör",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "kelh₂- (kel-)",
+        "meaning": "kesmek, bıçakla vurmak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "kl̥dʰ-i̯é-",
+        "meaning": "kesmek, bıçakla vurmak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "cel",
+        "form": "?",
+        "meaning": "kesmek, bıçakla vurmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "gladius",
+        "meaning": "Galyalılara özgü, kısa ve geniş kılıç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "gladiator",
+        "meaning": "kılıçla dövüşen kişi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "gladiateur",
+        "meaning": "Eski Roma'da seyirlik dövüşlere katılan kişi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "gladyatör",
+        "meaning": "Eski Roma arenalarında insanlarla veya yaban hayvanlarıyla ölümüne dövüştürülen kişi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Eski Roma arenalarında ölümüne dövüştürülen kişi.",
+    "currentMeaning": "Eski Roma'da seyirciler önünde başka insanlarla ya da vahşi hayvanlarla ölümüne mücadele etmeye zorlanan kimse.",
+    "story": "Gladyatörün adında önce dövüşçü değil, elindeki kılıç vardır. Latincede Galyalılara özgü kısa ve geniş kılıcı karşılayan gladius, kılıçla dövüşen kişiyi adlandıran gladiator biçimine temel olmuştur. Fransızca üzerinden Türkçeye geçen ad, Roma arenasındaki ölümcül gösterilerin savaşçısını karşılar. Daha eski bağlantı kesme ve bıçakla vurma köküne uzansa da Kelt dillerindeki ara biçim bilinmemektedir.",
+    "firstAttestation": {
+      "source": "Servet-i Fünun",
+      "period": "1903",
+      "form": "gladyatör"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Latinceden önce Kelt dillerini gösterir, ancak bu aşamadaki biçimi soru işaretiyle belirsiz bırakır."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "gladyatör maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/gladyat%C3%B6r"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "gladyatör",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hermetik",
+    "word": "hermetik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "Hermes Trismegistos",
+        "meaning": "Mısır'daki Yeni Platoncu batıni geleneğin kurucusu kabul edilen efsanevi kişi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "ʰermetikós",
+        "meaning": "Hermes öğretisine bağlı, batıni",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "hermetic",
+        "meaning": "gizli öğretilerle ilgili; hava veya su geçirmeyecek kadar kapalı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "hermétique",
+        "meaning": "gizli öğretilerle ilgili; hava veya su geçirmeyecek kadar kapalı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hermetik",
+        "meaning": "yalıtımı sağlanmış",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yalıtımı sağlanmış.",
+    "currentMeaning": "Yalıtımla korunmuş olan.",
+    "story": "Hermetik, efsanevi Hermes Trismegistos'un adına bağlanan bir sıfat olarak önce onun batıni öğretisini anlatıyordu. Kelimenin Avrupa dillerindeki kullanımında gizli öğretilere ilişkin anlamın yanına hava veya su geçirmeyecek kadar sıkı kapanmış olma anlamı eklenmiştir. Böylece düşünsel bir kapalı alanı anlatan ad, fiziksel yalıtım için de kullanılır olmuştur. Türkçeye geçişte Fransızca öne çıkar, İngilizce aktarım da bir seçenek olarak verilir.",
+    "firstAttestation": {
+      "source": "Cumhuriyet",
+      "period": "1964",
+      "form": "hermetik"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük İngilizce hermetic ile Fransızca hermétique biçimlerini alternatif aktarım yolları olarak gösterir; TDK Güncel Türkçe Sözlük Fransızca köken kaydı verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hermetik maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/hermetik"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hermetik",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kadmiyum",
+    "word": "kadmiyum",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "la",
+    "ultimateOrigin": "phn",
+    "chain": [
+      {
+        "language": "phn",
+        "form": "ḳdm",
+        "meaning": "eski, kadim",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "Kadmos",
+        "meaning": "Thebai'nin kurucusu sayılan efsanevi Fenikeli önder",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "kadmeîa",
+        "meaning": "Thebai yakınlarında bulunan bir kurşun minerali, kalamin",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "cadmium",
+        "meaning": "bir kimyasal element",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kadmiyum",
+        "meaning": "gümüş beyazı renkte, yumuşak bir metal element",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Gümüş beyazı renkte, yumuşak bir metal element.",
+    "currentMeaning": "Cd simgesiyle gösterilen, atom numarası 48 olan, yaklaşık 320 °C'de eriyen ve elektrik ile seramik sanayilerinde kullanılan gümüş beyazı, yumuşakça element.",
+    "story": "Kadmiyumun adı, Thebai kentinin efsanevi kurucusu Kadmos'a kadar uzanır; bu özel adın gerisinde Fenike dilinin eskilik bildiren kökü bulunur. Kadmos'un adı Yunancada Thebai yakınlarında çıkan bir minerale bağlanmıştır. Mineralin adı da Yeni Latincede bir elementin adı yapılmıştır. Türkçeye son aktarımın Yeni Latinceden mi Fransızcadan mı olduğu konusunda kaynaklar farklı yollar gösterir.",
+    "firstAttestation": {
+      "source": "Derviş Mehmed Emin Paşa, Usul-i Kimya",
+      "period": "1848",
+      "form": "kadmiyum"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük doğrudan veren biçimi Yeni Latince cadmium olarak gösterirken TDK Güncel Türkçe Sözlük Fransızca cadmium kaydını verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kadmiyum maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kadmiyum"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kadmiyum",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "naftalin",
+    "word": "naftalin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "arc",
+    "chain": [
+      {
+        "language": "arc",
+        "form": "nephṭā",
+        "meaning": "neft, ham petrol",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "náphtha",
+        "meaning": "neft, ham petrol",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "naphtaline",
+        "meaning": "petrolden çıkarılan kokulu madde",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "naftalin",
+        "meaning": "eşya ve kumaşları güveden korumakta kullanılan beyaz, kokulu hidrokarbon",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kumaşları güveden korumakta kullanılan beyaz, kokulu hidrokarbon.",
+    "currentMeaning": "Maden kömürü katranının kuru damıtılmasıyla elde edilen, belirgin kokulu ve beyaz renkli, suda çözünmeyen, giysi ve halıları güve gibi zararlılardan korumaya yarayan antiseptik hidrokarbon.",
+    "story": "Naftalinin adının ilk katmanında Aramice ve Süryanicedeki ham petrol adı bulunur. Yunancaya náphtha biçimiyle geçen bu ad, Avrupa dillerinde kokulu bir maddeyi adlandıran kelimenin temeli olmuştur. Fransızcadan Türkçeye gelen naftalin, giysi ve halıları güveden koruyan maddeyi karşılar; güncel tanımında elde edildiği malzeme maden kömürü katranıdır.",
+    "firstAttestation": {
+      "source": "Cemiyeti Tıbbiyei Osmaniye, Lugat-i Tıbbiye",
+      "period": "1873",
+      "form": "naftalin"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "naftalin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/naftalin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "naftalin",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "amiral",
+    "word": "amiral",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "amīr",
+        "meaning": "emir, komutan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "amiralius",
+        "meaning": "emir, komutan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "amiral",
+        "meaning": "Arap veya Haçlı komutanı; daha sonra deniz komutanı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "amiral",
+        "meaning": "generale denk rütbede deniz subayı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Generale denk rütbede deniz subayı.",
+    "currentMeaning": "Deniz kuvvetlerinde general rütbesine karşılık gelen rütbeyi taşıyan subay.",
+    "story": "Amiralin başlangıcındaki Arapça amīr, denize özgü olmayan bir komutan unvanıydı. Geç Latince üzerinden Fransızcaya geçen kelime, Arap komutanları ve Haçlı seferlerinin komutanları için de kullanılmıştır. On üçüncü yüzyıldan itibaren deniz komutanlığı anlamı belirginleşmiştir. Türkçeye Fransızcadan alınan biçim, bu daralmış anlamıyla yüksek deniz subayının unvanı olmuştur.",
+    "firstAttestation": {
+      "source": "Terakki",
+      "period": "1869",
+      "form": "amirallerine"
+    },
+    "relatives": [
+      {
+        "word": "emir",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "amiral maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/amiral"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "amiral",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "vampir",
+    "word": "vampir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "sr",
+    "chain": [
+      {
+        "language": "sr",
+        "form": "vabír",
+        "meaning": "kan emen efsanevi varlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "de",
+        "form": "Vampir",
+        "meaning": "kan emen efsanevi varlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "vampire",
+        "meaning": "kan emen efsanevi varlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "vampir",
+        "meaning": "insan kanıyla beslendiğine inanılan yaratık",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnsan kanıyla beslendiğine inanılan efsanevi yaratık.",
+    "currentMeaning": "İnsanların kanını emerek beslendiği düşünülen efsanevi varlık.",
+    "story": "Vampir, Sırpçadaki vabír biçiminden Almancaya, oradan Fransızcaya taşınmış bir efsane varlığının adıdır. Almanca bu adı 1725-1730 dolaylarında Balkan köylü ağızlarından almıştır. Kelime Türkçeye Fransızcadan ulaşırken temel tasvir değişmemiş, insan kanı emen yaratığı anlatmayı sürdürmüştür.",
+    "firstAttestation": {
+      "source": "Basiretçi Ali Bey, İstanbul Mektupları",
+      "period": "1873",
+      "form": "vampir"
+    },
+    "relatives": [
+      {
+        "word": "obur",
+        "relation": "eş köken"
+      },
+      {
+        "word": "upír'",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Evliya Çelebi'nin aktardığı Çerkez ve Kumık anlatılarında kan emici yaratıklar obur adıyla anılır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "vampir maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/vampir"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "vampir",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

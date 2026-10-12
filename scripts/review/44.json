@@ -1,0 +1,117 @@
+[
+  {
+    "id": "bandana",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "virüs",
+    "verdict": "ok",
+    "objections": [
+      "Otomatik uyarı yanlış alarm: Yeni Latince la koduna bağlanıyor, donor la Nişanyan kaydıyla uyumlu."
+    ]
+  },
+  {
+    "id": "cıva",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "elektrik",
+    "verdict": "ok",
+    "objections": [
+      "Otomatik uyarı yanlış alarm: la halkası Yeni Latince vis electrica."
+    ]
+  },
+  {
+    "id": "pijama",
+    "verdict": "fix",
+    "objections": [
+      "pācāma/pāy-cāma halkasının anlamı “ayak” yazılmış; birleşik sözcük “ayak giysisi” demektir."
+    ]
+  },
+  {
+    "id": "kakao",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "ananas",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "film",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "morfin",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "mozaik",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "pantolon",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "petrol",
+    "verdict": "fix",
+    "objections": [
+      "Yunanca pétra halkasının anlamı “yağ” yazılmış; sözcük “taş” demektir.",
+      "Hikâyedeki élaion/petra cümlesi anlatım bakımından dağınık."
+    ]
+  },
+  {
+    "id": "porselen",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "temmuz",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "gladyatör",
+    "verdict": "fix",
+    "objections": [
+      "Zincirde biçimi “?” olan uydurma bir Kelt halkası var; kaynakta biçim verilmemiş, halka çıkarılmalı."
+    ]
+  },
+  {
+    "id": "hermetik",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "kadmiyum",
+    "verdict": "ok",
+    "objections": [
+      "Otomatik uyarı yanlış alarm: la halkası Yeni Latince cadmium, ayrım alternatives içinde belirtilmiş."
+    ]
+  },
+  {
+    "id": "naftalin",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "amiral",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "vampir",
+    "verdict": "ok",
+    "objections": [
+      "Otomatik uyarı yanlış alarm: tr zincirin zorunlu son halkası."
+    ]
+  }
+]

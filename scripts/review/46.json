@@ -1,0 +1,122 @@
+[
+  {
+    "id": "elmas",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "minyatür",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "sifilis",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "sinik",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "fes",
+    "verdict": "fix",
+    "objections": [
+      "Story'de \"Osmanlı devletinin\" özel ad olarak \"Osmanlı Devleti'nin\" yazılmalı."
+    ]
+  },
+  {
+    "id": "trajedi",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "flört",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "goril",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "veranda",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "tercüman",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "parşömen",
+    "verdict": "fix",
+    "objections": [
+      "chain'de (charta) pergamena adımının anlamı Pergamum ile aynı; \"Bergama'ya ait yazı malzemesi\" olmalı.",
+      "firstAttestation.form \"parşömendir\" kaynak cümlesindeki ek almış biçim; sözcük \"parşömen\"dir."
+    ]
+  },
+  {
+    "id": "simya",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "saten",
+    "verdict": "fix",
+    "objections": [
+      "Nişanyan ẓaytūnī bağlantısını tahmine dayalı/tartışmalı işaretliyor; köken tartışmalıyken confidence yüksek değil orta olmalı."
+    ]
+  },
+  {
+    "id": "narsisizm",
+    "verdict": "fix",
+    "objections": [
+      "chain'de de Narzissismus adımının anlamı mitolojik gençle aynı; terimin anlamı olmalı.",
+      "currentMeaning \"özseverlik kavramıyla ilgili özseverlik\" döngüsel ve anlatım bozuk."
+    ]
+  },
+  {
+    "id": "damasko",
+    "verdict": "fix",
+    "objections": [
+      "chain it › fr › it döngüsü; Nişanyan Fransızca damasque'ı alternatif (veya) olarak verir, doğrusal halka değil; chain'den çıkarılıp alternatives'te bırakıldı."
+    ]
+  },
+  {
+    "id": "barbekü",
+    "verdict": "fix",
+    "objections": [
+      "Story'de \"Karayiplerin\" yazılmış; yer adına gelen ek kesme işaretiyle \"Karayipler'in\" olmalı."
+    ]
+  },
+  {
+    "id": "tapyoka",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "roket",
+    "verdict": "fix",
+    "objections": [
+      "chain'de en rocket › fr roquette sıralaması yanlış; İngilizce kaynakta alternatif (veya), Fransızca İngilizceden değil İtalyancadan gelir; en halkası çıkarıldı."
+    ]
+  },
+  {
+    "id": "avokado",
+    "verdict": "fix",
+    "objections": [
+      "Story'in ilk cümlesi (\"āhuacatl ile birlikte ... adını taşır\") anlatım bozukluğu içeriyor."
+    ]
+  },
+  {
+    "id": "beton",
+    "verdict": "fix",
+    "objections": [
+      "Kelt *betu- bağlantısı Nişanyan'da tahmine dayalı/tartışmalı işaretli; confidence yüksek değil orta olmalı."
+    ]
+  }
+]

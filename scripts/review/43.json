@@ -1,0 +1,118 @@
+[
+  {
+    "id": "bütçe",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "zümrüt",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "divan",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "boraks",
+    "verdict": "fix",
+    "objections": [
+      "Hikâyede “kullanılıyor … taşıyordu” zaman kayması ve anlatım bozukluğu var."
+    ]
+  },
+  {
+    "id": "zencefil",
+    "verdict": "ok",
+    "objections": [
+      "Otomatik uyarı yanlış alarm: zincir sırası Nişanyan kaydıyla aynı."
+    ]
+  },
+  {
+    "id": "robot",
+    "verdict": "ok",
+    "objections": [
+      "Otomatik uyarı yanlış alarm: Çekçe için ayrı kod yok, generate_batch.md kuralıyla en yakın üst dil sla kullanılmış."
+    ]
+  },
+  {
+    "id": "sabun",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "arsenik",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "domates",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "gazete",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "bukalemun",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "abanoz",
+    "verdict": "ok",
+    "objections": [
+      "Otomatik uyarı yanlış alarm: Eski Mısır dili egy koduna karşılık geliyor."
+    ]
+  },
+  {
+    "id": "alkol",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "fermuar",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "misk",
+    "verdict": "fix",
+    "objections": [
+      "Hikâyedeki “kese” kaynakta yok; Nişanyan misk bezesinin şeklinden söz ediyor."
+    ]
+  },
+  {
+    "id": "mendil",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "fanila",
+    "verdict": "ok",
+    "objections": [
+      "Otomatik uyarı yanlış alarm: Galce için ayrı kod yok, en yakın üst dil cel kullanılmış."
+    ]
+  },
+  {
+    "id": "zirkon",
+    "verdict": "ok",
+    "objections": [
+      "Otomatik uyarı yanlış alarm: 1873 kaydı zirkonyum, zirkon maddesinin ilk tanıklığı 1892 doğru."
+    ]
+  },
+  {
+    "id": "traverten",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "jaluzi",
+    "verdict": "fix",
+    "objections": [
+      "Hikâyede “hem … hem” yapısında “de” eksik, anlatım bozuk."
+    ]
+  }
+]

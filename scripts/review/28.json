@@ -1,0 +1,60 @@
+[
+  {
+    "id": "teberrüm",
+    "verdict": "drop",
+    "objections": [
+      "Nişanyan, TDK ve Kubbealtı'nda madde bulunamadı; sources boş, doğrulanamıyor."
+    ]
+  },
+  {
+    "id": "tahassür",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "iştiyak",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "müstağrak",
+    "verdict": "fix",
+    "objections": [
+      "Hikâye cümlesinde iki noktadan sonra büyük harfle başlayan tam cümle (İnsan) yazım açısından kusurlu; noktalı virgülle bağlanmalı."
+    ]
+  },
+  {
+    "id": "lahza",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "muhayyel",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "mahmur",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "tecessüs",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "tahattur",
+    "verdict": "fix",
+    "objections": [
+      "Zincirdeki taḫaṭṭur halkasının anlamı fiil anlamının (zihninde belirdi, farkına vardı) kopyası; ad olan bu biçim için 'akla gelme' olmalı."
+    ]
+  },
+  {
+    "id": "tahayyür",
+    "verdict": "fix",
+    "objections": [
+      "Hikâye ikinci cümlesi ('gözün yaşadığı şaşkınlık ... zihnin tepkisiyle yan yanadır') kaynakta olmayan süs ve anlatım bozukluğu içeriyor; kaynağa bağlı biçimde yeniden yazıldı."
+    ]
+  }
+]

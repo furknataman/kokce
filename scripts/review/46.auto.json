@@ -1,0 +1,110 @@
+[
+  {
+    "id": "elmas",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "minyatür",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "sifilis",
+    "verdict": "check",
+    "reasons": [
+      "Kaynaktaki dil adı eşlenemedi: Yeni Latince",
+      "donorLanguage la kaynakla uyuşmuyor (kaynak: fr)",
+      "Maddede olup kaynak zincirinde olmayan halka: la"
+    ]
+  },
+  {
+    "id": "sinik",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "fes",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "trajedi",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "flört",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "goril",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: la"
+    ]
+  },
+  {
+    "id": "veranda",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tercüman",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "parşömen",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "simya",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "saten",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "narsisizm",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "damasko",
+    "verdict": "check",
+    "reasons": [
+      "Zincir sırası kaynaktan farklı: madde it › fr › it, kaynak fr › it › it"
+    ]
+  },
+  {
+    "id": "barbekü",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tapyoka",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "roket",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "avokado",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "beton",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

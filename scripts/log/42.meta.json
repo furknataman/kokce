@@ -4,21 +4,45 @@
   "promptVersion": "v13",
   "promptFile": "scripts/prompts/generate_batch.md",
   "model": "gpt-6-astra",
-  "generatedAt": "2026-09-14T20:45:18+03:00",
+  "generatedAt": "2026-10-12T09:54:07+03:00",
   "requestedWords": [
-    "çiğdem"
+    "silüet",
+    "ağı",
+    "algoritma",
+    "platin",
+    "pazen",
+    "gaz",
+    "tavla"
   ],
   "originHints": {
-    "çiğdem": "otk"
+    "silüet": "fr",
+    "ağı": "otk",
+    "algoritma": "fr<fro<la<ar",
+    "platin": "fr<la<es",
+    "pazen": "fr<fro<it<la<el<pal",
+    "gaz": "fr<nl<grc",
+    "tavla": "fa<el<la"
   },
   "rarity": {
-    "çiğdem": "gündelik"
+    "silüet": "az-bilinen",
+    "ağı": "az-bilinen",
+    "algoritma": "gündelik",
+    "platin": "az-bilinen",
+    "pazen": "az-bilinen",
+    "gaz": "gündelik",
+    "tavla": "gündelik"
   },
   "notes": {
-    "çiğdem": "ilkbaharda açan yumrulu kır çiçeği"
+    "silüet": "bir şeyin dış çizgilerle görünen biçimi",
+    "ağı": "zehir",
+    "algoritma": "adımlı çözüm yöntemi",
+    "platin": "değerli beyaz metal",
+    "pazen": "yumuşak pamuklu kumaş",
+    "gaz": "maddenin uçucu hâli",
+    "tavla": "zarla oynanan oyun"
   },
-  "requestedCount": 1,
-  "returnedCount": 13,
+  "requestedCount": 7,
+  "returnedCount": 20,
   "rawFile": "scripts/batches/42.raw.txt",
   "logFile": "scripts/log/42.codex.log"
 }

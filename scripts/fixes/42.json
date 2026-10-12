@@ -1,0 +1,351 @@
+[
+  {
+    "id": "ağı",
+    "word": "ağı",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "aġu",
+        "meaning": "zehir",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "ağı",
+        "meaning": "zehir",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Canlıyı zehirleyen madde.",
+    "currentMeaning": "Canlı bir organizmaya girdiğinde ona zarar veren veya ölümüne yol açabilen madde; zehir.",
+    "story": "Eski Türkçedeki aġu, canlıya zarar veren zehrin adıydı. Eski kullanımlarda bir kaba konulan zehir de zehir sürülmüş bir hançer de bu kelimeyle anlatılıyordu. Zamanla aġu biçimi ağıya dönüşürken kelimenin taşıdığı zehir düşüncesi değişmedi.",
+    "firstAttestation": {
+      "source": "Uygurca metinler",
+      "period": "900'den önce",
+      "form": "aġu"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "ağı maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/a%C4%9F%C4%B1"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "ağı",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "algoritma",
+    "word": "algoritma",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ae",
+    "chain": [
+      {
+        "language": "ae",
+        "form": "χʷāirizəm",
+        "meaning": "Harezm adlı Orta Asya ülkesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "χʷārazm",
+        "meaning": "Harezm adlı Orta Asya ülkesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "al-ḫawārizmī",
+        "meaning": "Harezmi adlı matematikçi",
+        "period": "9. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "algorismus",
+        "meaning": "Harezmi adlı matematikçi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fro",
+        "form": "algorisme",
+        "meaning": "Arap rakamları kullanılarak hesap yapma yöntemi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "algorithme",
+        "meaning": "matematiksel bir sorunu çözmeye yönelik işlem sırası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "algoritma",
+        "meaning": "bir sorunu çözmek için belirli kurallarla yürütülen işlem sırası",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir sorunu çözmek için belirli kurallarla izlenen işlem sırası.",
+    "currentMeaning": "Orta Çağ'da ondalık sistemle hesap yapmayı, günümüzde ise açıkça belirlenmiş işlem ve kuralları sırayla uygulayarak bir sorunu çözmeyi veya sonuca en kısa yoldan varmayı anlatan yöntem; Harezmi yolu.",
+    "story": "Algoritmanın yolculuğu, Orta Asya'daki Harezm'in Avestaca ve Farsçadaki adına kadar uzanır. Bu yer adı, dokuzuncu yüzyıl matematikçisi Harezmi'nin Arapça adlandırmasında yaşamaya devam etti. Adın Geç Latincedeki algorismus biçiminden gelişen Eski Fransızca algorisme, Arap rakamlarıyla hesap yapmanın adı oldu. Fransızcada kullanım alanı genişleyerek matematik problemlerini çözmeye yarayan işlem dizilerini kapsadı ve kelime Türkçeye bu dilden geçti.",
+    "firstAttestation": {
+      "source": "Tasviri Efkâr",
+      "period": "1940",
+      "form": "Algoritma"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "algoritma maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/algoritma"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "algoritma",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pazen",
+    "word": "pazen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "pambak",
+        "meaning": "pamuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "pambáks",
+        "meaning": "pamuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "bambax",
+        "meaning": "pamuk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "bambagine/bombagine",
+        "meaning": "pamuktan yapılmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fro",
+        "form": "bombasin/bombasine",
+        "meaning": "ince bir pamuklu dokuma türü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "basin",
+        "meaning": "ince bir pamuklu dokuma türü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pazen",
+        "meaning": "kalın ve sık dokunmuş yumuşak pamuklu kumaş",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kalın ve sık dokunmuş, yumuşak pamuklu kumaş.",
+    "currentMeaning": "Pamuktan üretilen, dokusu kalın ve sık, dokunuşu yumuşak olan bir bez türü.",
+    "story": "Pazenin adı, Orta Farsçada pamuğu anlatan pambak ile başlar; kelime Orta Yunanca ve Geç Latince üzerinden İtalyancaya ulaştı. Yol boyunca pamuk lifinin adı, önce pamuktan yapılmış şeyleri, ardından belirli bir kumaşı anlatmaya başladı. Eski Fransızcadaki bombasin sözcüğü bon basin, yani “iyi pazen” diye yeniden yorumlanınca basin biçimi ortaya çıktı. Fransızcadan Türkçeye geçen pazen, kalın ve sık dokulu, yumuşak bir pamuklu bezin adı olarak yerleşti.",
+    "firstAttestation": {
+      "source": "Ahmed Vefik Paşa — Lehce-i Osmani",
+      "period": "1876",
+      "form": "pazen"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "pazen maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/pazen"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "pazen",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gaz",
+    "word": "gaz",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "χáos",
+        "meaning": "biçimi olmayan varlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "nl",
+        "form": "gaz",
+        "meaning": "biçimi olmayan varlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "gaz",
+        "meaning": "maddenin uçucu durumu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "gaz",
+        "meaning": "maddenin uçucu durumu",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Maddenin uçucu durumuna verilen ad.",
+    "currentMeaning": "Maddenin uçucu hâli ve bu hâldeki madde.",
+    "story": "Gazın geçmişinde, Eski Yunancada belirli bir biçimi bulunmayan varlığı anlatan χáos vardır. Bu ad Felemenkçede gaz biçimini aldı; Fransızcada ise maddenin uçucu durumunu adlandırdı. Türkçeye Fransızcadan geçen kelimenin erken kullanımlarında gazla yanan kandiller ve gaz taşıyan borular öne çıkar.",
+    "firstAttestation": {
+      "source": "Mustafa Sami Efendi — Avrupa Risalesi",
+      "period": "1838",
+      "form": "gaz"
+    },
+    "relatives": [
+      {
+        "word": "hava gazı",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Felemenkçede gaz sözcüğünün söylenişi, yazılışından beklenenin aksine Yunanca χáos sözcüğünün söylenişine benzer.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "gaz maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/gaz"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tavla",
+    "word": "tavla",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "tabula",
+        "meaning": "düz levha veya üzerinde oyun oynanan tahta",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "távli",
+        "meaning": "düz levha veya üzerinde oyun oynanan tahta",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tavla",
+        "meaning": "tahta üzerinde oynanan oyun ve bu oyunun tahtası",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Tahta üzerinde oynanan bir oyun ve bu oyunun tahtası.",
+    "currentMeaning": "Tavla adıyla bilinen oyun ve onu oynamak için kullanılan oyun tahtası.",
+    "story": "Tavlanın adının başlangıcında Latince tabula, yani üzerine oyun da kurulabilen düz bir levha vardır. Yunancaya távli biçiminde geçen bu ad, Türkçede hem oyunu hem de oyunun oynandığı tahtayı anlatır. Böylece oyunun zemini, oyunun kendisine de adını vermiştir. Türkçe biçimin sonundaki a, aktarımda Farsçanın da aracılık etmiş olabileceğini düşündürür.",
+    "firstAttestation": {
+      "source": "Gelibolulu Mustafa Âlî — Kavaidü'l-Mecalis",
+      "period": "1587",
+      "form": "tavli"
+    },
+    "relatives": [
+      {
+        "word": "ṭawla",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük aktarım zincirinde Latince tabula ve Yunanca távli biçimlerini verir; Türkçedeki son a sesini ise Farsça aracılığıyla erken bir alıntı yapılmış olabileceğinin işareti olarak değerlendirir.",
+      "TDK Güncel Türkçe Sözlük oyun anlamındaki maddeyi İtalyanca tavola sözcüğüne bağlar; Nişanyan Sözlük ise Yunanca távli üzerinden Latince tabula biçimine götürür ve 1587 tarihli Türkçe tanıklığı verir."
+    ],
+    "funFact": "Bugünkü tavla oyunu, altıncı yüzyılda Bizans tarihçisi Agathias tarafından τάβλη adıyla anılıp tarif edilmiştir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tavla maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/tavla"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "tavla",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

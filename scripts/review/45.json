@@ -1,0 +1,119 @@
+[
+  {
+    "id": "karanfil",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "kanepe",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "mont",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "mango",
+    "verdict": "fix",
+    "objections": [
+      "Story'de \"sonundaki o sesini kazandı\" anlatım bozukluğu var; \"sonuna o sesini kazandı\" olmalı."
+    ]
+  },
+  {
+    "id": "anten",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "propaganda",
+    "verdict": "fix",
+    "objections": [
+      "chain'deki la propaganda adımının anlamı propagare'nin anlamının kopyası; sözcük 1622'de kurulan Propaganda Fide teşkilatının adıdır."
+    ]
+  },
+  {
+    "id": "manken",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "atlas",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "cehennem",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "vernik",
+    "verdict": "fix",
+    "objections": [
+      "Story Orta Yunanca derken chain'de veroníkē/verníkē adımı Eski Yunanca (grc) işaretli; Orta Yunanca için el kullanılmalı."
+    ]
+  },
+  {
+    "id": "dolar",
+    "verdict": "fix",
+    "objections": [
+      "firstAttestation talar biçimini (Thaler sikkesi) dolar sözcüğünün ilk tanıklığı olarak veriyor; dolar biçiminin kaynaktaki ilk kaydı 1892 Istılahat Lugati."
+    ]
+  },
+  {
+    "id": "atom",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "maraton",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "torpido",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "poğaça",
+    "verdict": "fix",
+    "objections": [
+      "chain'de panis focaceus adımının anlamı focus ile aynı (ocak ve ateş); ocakta/külde pişen ekmek olmalı."
+    ]
+  },
+  {
+    "id": "satranç",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "afyon",
+    "verdict": "fix",
+    "objections": [
+      "Story'de \"daralan anlamını korudu\" çelişkili anlatım; anlam daraldı, korunmadı."
+    ]
+  },
+  {
+    "id": "portakal",
+    "verdict": "fix",
+    "objections": [
+      "Story'de çiğ yenen tatlı turunç için \"turuncu\" (renk) yazılmış; kaynak turunç der.",
+      "\"portakal turuncu olarak beliren kullanım\" anlatımı belirsiz ve kaynak kaydıyla (\"portakal turuncu\") bağlantısı kurulmamış."
+    ]
+  },
+  {
+    "id": "bikini",
+    "verdict": "fix",
+    "objections": [
+      "ultimateOrigin fr olarak verilmiş; asıl köken bir Mikronezya dilindeki pikinni (dil kodu yok), null olmalı."
+    ]
+  },
+  {
+    "id": "muslin",
+    "verdict": "ok",
+    "objections": []
+  }
+]

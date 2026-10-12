@@ -1,0 +1,589 @@
+[
+  {
+    "id": "mango",
+    "word": "mango",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "dra",
+    "chain": [
+      {
+        "language": "dra",
+        "form": "māṅṅa",
+        "meaning": "tropikal bir meyve",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "pt",
+        "form": "manga",
+        "meaning": "tropikal bir meyve",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "mango",
+        "meaning": "tropikal bir meyve",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mango",
+        "meaning": "Hint kirazı olarak da adlandırılan tropikal meyve",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hint kirazı olarak da bilinen tropikal meyve.",
+    "currentMeaning": "Türkçede Hint kirazı adıyla da karşılanan tropikal meyve.",
+    "story": "Meyvenin Malayalam dilindeki māṅṅa adı, Portekizceye manga biçiminde taşındı. Aynı meyveyi adlandırmayı sürdüren sözcük, İngilizcede on yedinci yüzyıl ortalarına doğru sonuna o sesini kazandı. Türkçeye doğrudan İngilizceden mi yoksa Portekizceden mi geçtiği konusunda kaynaklar ayrılır; mango biçimi İngilizcedeki yazımla örtüşür.",
+    "firstAttestation": {
+      "source": "Duhter-i Hindu",
+      "period": "1875",
+      "form": "mango"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Malayalam ve Portekizce aşamalarından sonra Türkçeye İngilizceden aktarım verir; TDK Güncel Türkçe Sözlük doğrudan Portekizce manga biçimini köken gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mango maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mango"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mango",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "propaganda",
+    "word": "propaganda",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "peh₂ḱ- (pāḱ-)",
+        "meaning": "bitki veya direk dikmek",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "la",
+        "form": "propagare",
+        "meaning": "bitki çubuğundan yeni fide yetiştirmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "propaganda",
+        "meaning": "inancın yayılmasını amaçlayan kurumun adı (Congregatio de Propaganda Fide)",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "propagande",
+        "meaning": "bir düşünce veya inancı yaymaya yönelik çalışma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "propaganda",
+        "meaning": "düşünce ve inançları başkalarına benimsetmeye yönelik çalışma",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir düşünce veya inancı yayma ve benimsetme çalışması.",
+    "currentMeaning": "Bir öğretiyi, düşünceyi ya da inancı tanıtıp benimsetmek için konuşma, yazı ve benzeri araçlarla yürütülen faaliyet.",
+    "story": "Propagandanın uzak kökünde toprağa bitki veya direk dikme eylemi bulunur. Latincede propagare, bir bitkinin çubuğundan yeni fideler yetiştirmeyi anlatıyordu; çoğaltma düşüncesi, 1622'de Katolik inancını yaymak için kurulan bir teşkilatın adıyla inançların yayılmasına taşındı. Sözcük daha sonra düşünceleri benimsetmeye yönelik çalışmaları da kapsadı; Türkçeye geçişinde Fransızca ve İtalyanca yolları konusunda kaynaklar ayrılır.",
+    "firstAttestation": {
+      "source": "Sabah",
+      "period": "1896",
+      "form": "propaganda"
+    },
+    "relatives": [
+      {
+        "word": "propagandist",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye doğrudan veren dili Fransızca olarak gösterirken TDK Güncel Türkçe Sözlük İtalyanca propaganda biçimini esas alır."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "propaganda maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/propaganda"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "propaganda",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "vernik",
+    "word": "vernik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "Bereníkē",
+        "meaning": "zafer veren anlamındaki kadın adı; Libya'daki Bingazi kentinin eski adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "veroníkē/verníkē",
+        "meaning": "sandarak ağacı ve ondan alınan reçine",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "verníki",
+        "meaning": "yüzeyleri parlatmakta kullanılan reçine",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "vernik",
+        "meaning": "yüzeyde parlak ve koruyucu bir katman oluşturan cila",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yüzeyleri parlatıp koruyan, suya dayanıklı cila.",
+    "currentMeaning": "Uygulandığı yüzey üzerinde parlak ve kaygan bir koruma katmanı bırakan, suya dirençli cila maddesi.",
+    "story": "Verniğin geçmişinde hem bir kadın adı hem de bugünkü Bingazi'nin eski adı olan Bereníkē bulunur. Bu ad, Orta Yunancada sandarak ağacına ve ağacın reçinesine bağlandı. Yunanca verníki aşamasında reçinenin parlatıcı kullanımı öne çıktı; Türkçede vernik, yüzeyleri koruyan ve parlatan kaplamanın adı oldu.",
+    "firstAttestation": {
+      "source": "Istılahat Lugati",
+      "period": "1892",
+      "form": "vernik"
+    },
+    "relatives": [
+      {
+        "word": "varnish",
+        "relation": "eş köken"
+      },
+      {
+        "word": "vernis",
+        "relation": "eş köken"
+      },
+      {
+        "word": "vernice",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "vernik maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/vernik"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "vernik",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dolar",
+    "word": "dolar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "de",
+    "chain": [
+      {
+        "language": "de",
+        "form": "Thal/Tal",
+        "meaning": "vadi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "de",
+        "form": "Joachimsthal",
+        "meaning": "Bohemya'da gümüş madeni bulunan Joachim Vadisi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "de",
+        "form": "Joachimsthaler",
+        "meaning": "Bohemya'da gümüş madeni bulunan Joachim Vadisi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "de",
+        "form": "Thaler",
+        "meaning": "kalıba dökülerek üretilen gümüş sikke",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "dollar",
+        "meaning": "bir para birimi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dolar",
+        "meaning": "ABD ve Kanada gibi ülkelerde kullanılan para birimi",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "ABD ve Kanada gibi ülkelerin para birimi.",
+    "currentMeaning": "Amerika Birleşik Devletleri ve Kanada başta olmak üzere çeşitli ülkelerde kullanılan para biriminin adı.",
+    "story": "Doların adının gerisinde Almancada vadiyi anlatan Tal ve gümüş madeniyle tanınan Joachimsthal yer adı vardır. Bu yerde üretilen gümüş paranın Joachimsthaler adı kısalarak Thaler oldu, ardından İngilizcede dollar biçimini aldı. Türkçeye doğrudan İngilizceden mi yoksa Fransızcadan mı geçtiği konusunda kaynaklar ayrılır; bugünkü para adı her iki açıklamada da bu gümüş sikkeye uzanır.",
+    "firstAttestation": {
+      "source": "Tıngır & Sinapian — Istılahat Lugati",
+      "period": "1892",
+      "form": "dolar"
+    },
+    "relatives": [
+      {
+        "word": "petrodolar",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye doğrudan veren dili İngilizce olarak gösterir; TDK Güncel Türkçe Sözlük Fransızca dollar biçimini köken kabul eder."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "dolar maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/dolar"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "dolar",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "afyon",
+    "word": "afyon",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "sokʷo-s",
+        "meaning": "bitki özsuyu veya reçine",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "grc",
+        "form": "ópos",
+        "meaning": "bitki özsuyu veya reçine, özellikle haşhaş özü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "ópion",
+        "meaning": "bitki özsuyu veya reçine, özellikle haşhaş özü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "āfyūn",
+        "meaning": "haşhaştan alınan uyuşturucu madde",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "afyon",
+        "meaning": "çizilen ham haşhaş kapsüllerinden sızan zehirli ve uyuşturucu madde",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ham haşhaş kapsüllerinden alınan zehirli, uyuşturucu madde.",
+    "currentMeaning": "Henüz olgunlaşmamış haşhaş kapsülleri çizildiğinde dışarı çıkan, morfin ve kodein gibi uyuşturucu bileşenler içeren kuvvetli zehirli madde.",
+    "story": "Afyonun en eski kökü bitkilerin özsuyunu ve reçinesini adlandırıyordu. Eski Yunancada ópos ve ondan türeyen ópion, bu bitkisel sıvılar arasında özellikle haşhaş özüne bağlandı. Sözcük Arapçada āfyūn biçimini aldıktan sonra Türkçeye geçti; anlamı genel bitki özsuyundan belirli bir uyuşturucu maddeye daraldı.",
+    "firstAttestation": {
+      "source": "Müntehab-ı Şifa",
+      "period": "<1410",
+      "form": "afyūn"
+    },
+    "relatives": [
+      {
+        "word": "afyonkeş",
+        "relation": "türev"
+      },
+      {
+        "word": "opium",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Türkçedeki afyon ile İngilizcedeki opium aynı Yunanca ada uzanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "afyon maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/afyon"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "afyon",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "portakal",
+    "word": "portakal",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "türeme",
+    "donorLanguage": "tr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "portus Cale",
+        "meaning": "İber Yarımadası'nın Atlantik kıyısındaki Oporto limanı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "Portogallo",
+        "meaning": "İber Yarımadası'nın Atlantik kıyısındaki Oporto limanı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "Portakal",
+        "meaning": "Portekiz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "portakal",
+        "meaning": "Akdeniz ülkelerinde yetiştirilen, sert yapraklı bir turunçgil ağacı",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Akdeniz ülkelerinde yetişen, sert yapraklı bir turunçgil ağacı.",
+    "currentMeaning": "Turunçgiller ailesine bağlı, Akdeniz ülkelerinde yetişen ve sert yaprakları bulunan ağaç.",
+    "story": "Portakalın adının başlangıcında Atlantik kıyısındaki portus Cale limanı, devamında ise İtalyanca Portogallo ve Türkçede Portekiz'i adlandıran Portakal vardır. Portekizli tüccarlar, çiğ yenebilen tatlı turunçları on altıncı yüzyılda Çin'den Avrupa'ya taşıdı. Ülke adı bu meyveye bağlandı; Türkçede önce \"portakal turuncu\" biçiminde görülen ad, zamanla meyvenin ve onu veren ağacın adına dönüştü.",
+    "firstAttestation": {
+      "source": "III. Ahmed'in mektubu",
+      "period": "<1730",
+      "form": "portakal"
+    },
+    "relatives": [
+      {
+        "word": "Portekiz",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "portakal maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/portakal"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "portakal",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bikini",
+    "word": "bikini",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "fr",
+        "form": "bikini",
+        "meaning": "iki ayrı parçadan oluşan kadın mayosu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bikini",
+        "meaning": "iki ayrı parçadan oluşan kadın mayosu",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İki parçadan oluşan kadın mayosu.",
+    "currentMeaning": "Yüzmek veya güneşlenmek için giyilen, birbirinden ayrı iki parçalı kadın giysisi.",
+    "story": "Bikininin adının gerisinde, bir Mikronezya yerli dilinde Hindistan cevizi düzlüğünü anlatan pikinni ve bu adın taşındığı Bikini adaları vardır. Adalarda 1946'da gerçekleştirilen nükleer patlamalara gönderme yapılarak iki parçalı mayoya Fransızcada bikini adı verildi. Türkçe bu giysi adını Fransızcadan aldı; böylece uzak bir ada grubunun adı gündelik plaj giyimine yerleşti.",
+    "firstAttestation": {
+      "source": "Milliyet",
+      "period": "1952",
+      "form": "bikini"
+    },
+    "relatives": [
+      {
+        "word": "monokini",
+        "relation": "türev"
+      },
+      {
+        "word": "burkini",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bikini maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bikini"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bikini",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "poğaça",
+    "word": "poğaça",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "focus",
+        "meaning": "ocak ve ateş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "panis focaceus",
+        "meaning": "ocakta veya külde pişirilen ekmek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "focaccia",
+        "meaning": "kül içinde pişirilen küçük hamur işi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "poğaça",
+        "meaning": "peynir veya kıyma gibi içlerle hazırlanan tuzlu çörek",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Peynir veya kıyma gibi içlerle hazırlanan tuzlu çörek.",
+    "currentMeaning": "Peynir, kıyma ve benzeri malzemelerle doldurularak yapılan bir çeşit tuzlu çörek.",
+    "story": "Poğaçanın adı, Latincede ocağı ve ateşi adlandıran focus köküne kadar uzanır. Geç Latince panis focaceus aşamasından İtalyanca focaccia biçimine ulaşan ad, külde pişirilen küçük hamur işine bağlandı. Türkçede poğaça olarak yerleşen sözcük, bugün çeşitli içlerle hazırlanan tuzlu çöreği adlandırır.",
+    "firstAttestation": {
+      "source": "Ömer L. Barkan, Osmanlı İmparatorluğunda Zirai Ekonomi...",
+      "period": "<1600",
+      "form": "boğaça"
+    },
+    "relatives": [
+      {
+        "word": "fougasse",
+        "relation": "eş köken"
+      },
+      {
+        "word": "hogaza",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "poğaça maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/po%C4%9Fa%C3%A7a"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "poğaça",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

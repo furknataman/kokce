@@ -1,0 +1,615 @@
+[
+  {
+    "id": "fes",
+    "word": "fes",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "ar",
+        "form": "Fās",
+        "meaning": "Fas'taki kent ve onunla ilişkilendirilen ülke adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "Fes",
+        "meaning": "Fas'taki kent ve onunla ilişkilendirilen ülke adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "fes",
+        "meaning": "kırmızı çuhadan yapılan püsküllü silindir başlık",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kırmızı çuhadan yapılan, tepesi püsküllü silindir başlık.",
+    "currentMeaning": "Şapka gibi giyilen, kalın kırmızı çuhadan yapılmış, tepesinde püskül bulunan silindir biçimli başlık.",
+    "story": "Fes, adını Kuzey Afrika'daki Fes kentinden taşıyan bir başlıktır. Mağrip'ten gelen kırmızı başlığın adı, geldiği yerin adıyla birlikte Türkçeye yerleşti. II. Mahmut dönemindeki kıyafet değişikliği, bu bölgesel başlığı Osmanlı Devleti'nin resmî giyiminin parçası yaptı. Yer adının daha eski Berberice biçimi ise belirli değildir.",
+    "firstAttestation": {
+      "source": "Meninski — Thesaurus",
+      "period": "1680",
+      "form": "fes"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Mağrip Arapçasındaki yer adını Berbericeye bağlar ancak Berberice biçimi soru işaretiyle bırakır."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "fes maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/fes"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "fes",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "parşömen",
+    "word": "parşömen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "Pergamum",
+        "meaning": "Bergama kentinin adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "(charta) pergamena",
+        "meaning": "Bergama'ya ait yazı malzemesi",
+        "period": "MÖ 2. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "parchemin",
+        "meaning": "sığır veya koyun derisinden hazırlanan yazı malzemesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "parşömen",
+        "meaning": "yazı ve resim için işlenmiş deri",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Üzerine yazı yazmak veya resim yapmak için işlenmiş deri.",
+    "currentMeaning": "Yazı ya da resim yüzeyi olarak kullanılabilmesi için özel işlemlerden geçirilen deri.",
+    "story": "Parşömen, adında Bergama kentini saklayan bir yazı malzemesidir. Bu adlandırma, malzemenin orada icat edilmesine ya da nitelikli örneklerinin orada üretilmesine bağlanır. Kent adıyla ilişkilendirilen Latince ifade Fransızcada parchemin biçimine dönüştü. Türkçeye ulaşan parşömen, deri yüzeyin yazı ve resim için hazırlanmış hâlini adlandırır.",
+    "firstAttestation": {
+      "source": "Mehmed Salahi — Kamus-ı Osmani",
+      "period": "1895",
+      "form": "parşömen"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Bergama bağlantısını malzemenin burada icat edilmesi veya iyi cinsinin burada üretilmesi olmak üzere iki olasılıkla açıklar."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "parşömen maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/par%C5%9F%C3%B6men"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "parşömen",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "saten",
+    "word": "saten",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "zh",
+    "chain": [
+      {
+        "language": "zh",
+        "form": "Citongcheng",
+        "meaning": "Quanzhou'nun tung ağacıyla ilişkili eski kent adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "Ẓaytūn",
+        "meaning": "Güney Çin'deki bir liman kentinin adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "ẓaytūnī",
+        "meaning": "Çin'den gelen bir ipekli kumaş çeşidi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "satin",
+        "meaning": "ipekten veya ipeği andıran malzemeden kumaş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "saten",
+        "meaning": "atlas adıyla da anılan kumaş",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Atlas adıyla da anılan kumaş türü.",
+    "currentMeaning": "Atlas olarak da adlandırılan kumaş.",
+    "story": "Satenin uzak kökeni için önerilen yol, Güney Çin'deki bir liman kentine uzanır. Quanzhou'nun eski adı Arapçada Ẓaytūn biçimini almış, onunla ilişkilendirilen ẓaytūnī ise bir Çin ipeklisini adlandırmıştır. Fransızca satin ile bu kumaş adı arasındaki bağlantı tartışmalıdır. Türkçeye Fransızcadan geçen saten, kumaş adı olarak yerleşmiştir.",
+    "firstAttestation": {
+      "source": "Hüseyin Rahmi Gürpınar — Tutuşmuş Gönüller",
+      "period": "1926",
+      "form": "saten"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Fransızca satin biçiminin Arapça ẓaytūnī ile bağlantısını tahmine dayalı veya tartışmalı olarak işaretler."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "saten maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/saten"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "saten",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "narsisizm",
+    "word": "narsisizm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "nárkissos",
+        "meaning": "nergis",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "Nárkissos",
+        "meaning": "Yunan mitolojisinde kendi görüntüsüne tutulan genç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "de",
+        "form": "Narzissismus",
+        "meaning": "kişinin kendisini aşırı sevmesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "narcissisme",
+        "meaning": "kişinin kendisini hastalık ölçüsünde sevmesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "narsisizm",
+        "meaning": "özseverlik",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Özseverlik.",
+    "currentMeaning": "Kişinin kendisine aşırı sevgi ve hayranlık duyması; özseverlik.",
+    "story": "Narsisizmin adında hem nergis çiçeği hem de kendi yansımasına âşık olan mitolojik genç vardır. Eski Yunancada aynı ad çevresinde buluşan çiçek ve genç, kişinin sevgisini kendisine yöneltmesini anlatan terimin temelini oluşturdu. Almanca Narzissismus üzerinden Fransızcaya geçen terim, oradan Türkçeye taşındı. Böylece bir mitolojik kişinin adı, özseverliği anlatan bir kavrama dönüştü.",
+    "firstAttestation": {
+      "source": "Cumhuriyet — gazete",
+      "period": "1941",
+      "form": "narsisizm"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "narsisizm maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/narsisizm"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "narsisizm",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "damasko",
+    "word": "damasko",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {
+        "language": "it",
+        "form": "Damasco",
+        "meaning": "Şam kentinin adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "damasco",
+        "meaning": "Suriye ile ilişkilendirilen ipekli kumaş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "damasko",
+        "meaning": "çoğunlukla döşemede kullanılan keten ve ipek karışımlı kumaş",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çoğunlukla döşemede kullanılan keten ve ipek karışımlı kumaş.",
+    "currentMeaning": "Keten ile ipeğin karıştırılmasıyla yapılan ve genellikle döşemelik olarak değerlendirilen kumaş türü.",
+    "story": "Damasko, Şam kentinin Damasco biçimindeki adını kumaş üzerinde yaşatır. Şehirle ilişkilendirilen ipekli dokuma, Fransızcada damasque ve İtalyancada damasco adlarıyla karşılık buldu. Türkçeye veren dil için İtalyanca yanında Fransızca da olası bir yol olarak gösterilir. Türkçede ad, çoğunlukla döşemelik kullanılan keten ve ipek karışımı kumaşa yerleşmiştir.",
+    "firstAttestation": {
+      "source": "Ahmed Vefik Paşa — Lehce-i Osmani",
+      "period": "1876",
+      "form": "damasko"
+    },
+    "relatives": [
+      {
+        "word": "damasken",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük Fransızca damasque ile İtalyanca damasco biçimlerini alternatif aktarım yolları olarak verir; TDK Güncel Türkçe Sözlük İtalyancayı seçer."
+    ],
+    "funFact": "Bir kara erik türünün adı olan damasken de Şam'a bağlanan bir ad taşır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "damasko maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/damasko"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "damasko",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "barbekü",
+    "word": "barbekü",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "es",
+        "form": "barbacoa",
+        "meaning": "eti kızartmaya yarayan ızgaralı düzenek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "barbecue",
+        "meaning": "et pişirme ızgarası veya mangalı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "barbekü",
+        "meaning": "ızgara et pişirilen, çoğunlukla duvara yerleştirilmiş ocak",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Izgara et pişirmek için kullanılan ocak.",
+    "currentMeaning": "Etin ızgarada pişirilmesini sağlayan, sıklıkla balkon duvarına gömülü olarak yapılan ocak.",
+    "story": "Barbekünün geçmişinde Karayipler'in Taino dilindeki ateş çukuru adı barabicu vardır. İspanyolcada barbacoa, etin ateş üzerinde kızartıldığı ızgaralı düzeneği adlandırdı; İngilizcede barbecue mangal ve ızgara çevresinde kullanıldı. Türkçeye doğrudan İngilizceden mi, Fransızcadan mı geçtiği konusunda farklı açıklamalar vardır. Bugünkü ocak adı, bu eski açık ateşte pişirme düzeninin izini taşır.",
+    "firstAttestation": {
+      "source": "Cumhuriyet — gazete",
+      "period": "1958",
+      "form": "Barbecue"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük Türkçeye aktarımı İngilizce barbecue üzerinden açıklar; TDK Güncel Türkçe Sözlük doğrudan veren dili Fransızca olarak kaydeder."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "barbekü maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/barbek%C3%BC"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "barbekü",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "roket",
+    "word": "roket",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "it",
+    "chain": [
+      {
+        "language": "it",
+        "form": "rocca",
+        "meaning": "yün eğirmede kullanılan tüp biçimli ağırlık, öreke",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "rocchetto",
+        "meaning": "havai fişek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "roquette",
+        "meaning": "havai fişek veya füze",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "roket",
+        "meaning": "ilk bölümde kendi itişiyle ilerleyip sonra balistik hareket eden mermi",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Önce kendi itişiyle, ardından balistik hareketle ilerleyen mermi.",
+    "currentMeaning": "Fırlatılırken mekanik olarak yönlendirilen, yolunun başlangıcında kendi itiş gücüyle ilerleyen ve sonrasında balistik hareketini sürdüren mermi.",
+    "story": "Roketin adının gerisinde yün eğirmede kullanılan tüp biçimli bir ağırlık vardır. İtalyanca rocca ile ilişkili rocchetto, biçim benzerliği üzerinden havai fişeğin adı oldu. Ateşle yükselen bu nesnenin adı, İngilizce ve Fransızcada füze çevresinde de kullanıldı. Türkçeye aktarım için Fransızca yanında İngilizce yolu da gösterilir.",
+    "firstAttestation": {
+      "source": "Basiretçi Ali Bey — İstanbul Mektupları",
+      "period": "1870",
+      "form": "roket"
+    },
+    "relatives": [
+      {
+        "word": "roketatar",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük İngilizce rocket ile Fransızca roquette biçimlerini alternatifler olarak verir; TDK Güncel Türkçe Sözlük Fransızca aktarımı esas alır."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "roket maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/roket"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "roket",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "avokado",
+    "word": "avokado",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "nah",
+    "chain": [
+      {
+        "language": "nah",
+        "form": "āhuacatl",
+        "meaning": "tropikal bir bitki ve meyvesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "es",
+        "form": "aguacate",
+        "meaning": "tropikal bir bitki ve meyvesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "es",
+        "form": "avocado",
+        "meaning": "tropikal bir bitki ve meyvesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "avocado",
+        "meaning": "tropikal bir bitki ve meyvesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "avokado",
+        "meaning": "defnegillerden, sıcak iklimlerde yetiştirilen bir ağaç",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sıcak iklimlerde yetiştirilen, defnegillerden bir ağaç.",
+    "currentMeaning": "Tropikal, subtropikal ve Akdeniz iklimli bölgelerde yetiştirilen, yaprakları sıralı, çiçekleri sarıya çalan yeşil renkte olan defnegillerden bir ağaç; Amerikan armudu.",
+    "story": "Avokado adı, Nahuatl dilinde bitkiyi ve meyvesini adlandıran āhuacatl sözcüğüne dayanır. İspanyolcada aguacate ve ardından avocado biçimlerine ulaşan sözcük, İngilizcede de bitkiyi ve meyveyi adlandırmayı sürdürdü. Türkçeye İngilizceden gelen adın yolculuğunda nesne aynı kaldı, sesler değişti.",
+    "firstAttestation": {
+      "source": "Milliyet — gazete",
+      "period": "1972",
+      "form": "avokado"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "avokado maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/avokado"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "avokado",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "beton",
+    "word": "beton",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "cel",
+    "chain": [
+      {
+        "language": "cel",
+        "form": "betu-",
+        "meaning": "ağaç reçinesi, zift",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "la",
+        "form": "bitūmen",
+        "meaning": "akçaağaç reçinesi; reçine ve zift",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "béton",
+        "meaning": "duvar örme harcı, özellikle çimentolu harç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "beton",
+        "meaning": "çimento, su ve taşlı malzeme karışımından oluşan dayanıklı yapı malzemesi",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çimento, su, kum ve çakıl karışımından oluşan dayanıklı yapı malzemesi.",
+    "currentMeaning": "Çimentonun suyla birlikte kum, çakıl ve benzeri malzemelerle karıştırılmasıyla elde edilen, sertleşen ve dayanıklılık sağlayan yapı malzemesi.",
+    "story": "Betonun adının geçmişinde ağaç reçinesi ve zift bulunur. Latince bitūmen bu maddeleri adlandırırken, Fransızca béton duvar harcının ve özellikle çimentolu karışımların adı oldu. Türkçedeki beton, bu yolun sonunda sertleşen yapı malzemesine yerleşti. Latince biçimin daha geride Kelt dillerindeki bir köke bağlanması ise kesin değildir.",
+    "firstAttestation": {
+      "source": "Tıngır & Sinapian — Istılahat Lugati",
+      "period": "1892",
+      "form": "beton"
+    },
+    "relatives": [
+      {
+        "word": "betula",
+        "relation": "eş köken"
+      },
+      {
+        "word": "betonlaşmak",
+        "relation": "türev"
+      },
+      {
+        "word": "gazbeton",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Latince bitūmen biçiminin Kelt dillerindeki yeniden kurulmuş betu- köküyle bağlantısını tahmine dayalı veya tartışmalı olarak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "beton maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/beton"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "beton",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

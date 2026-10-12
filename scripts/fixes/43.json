@@ -1,0 +1,234 @@
+[
+  {
+    "id": "boraks",
+    "word": "boraks",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "pal",
+    "chain": [
+      {
+        "language": "pal",
+        "form": "būrak",
+        "meaning": "güherçile, potasyum nitrat",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ar",
+        "form": "būraḳ",
+        "meaning": "güherçile, potasyum nitrat",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "borach/borac",
+        "meaning": "güherçile, potasyum nitrat",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "borax",
+        "meaning": "sodyum borat minerali",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "boraks",
+        "meaning": "borik asitten türeyen bir sodyum tuzu",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Borik asitten türeyen bir sodyum tuzu.",
+    "currentMeaning": "Yoğunlaşmış borik asidin oluşturduğu sodyum tuzu.",
+    "story": "Boraksın eski adları bugünkü kimyanın ayırdığı farklı mineral tuzları arasında dolaşmıştır. Orta Farsçadan Arapçaya geçen būraḳ güherçile anlamındaydı; Geç Latincedeki borach da aynı anlamı taşıyordu. Batı dillerindeki borax ise sodyum boratın adına dönüştü. Osmanlı Türkçesinde Arapçadan alınmış būrak kullanılırken, on dokuzuncu yüzyılın sonlarında Fransızca biçimden gelen boraks öne çıktı.",
+    "firstAttestation": {
+      "source": "Şemseddin Sami — Kamusü'l A'lâm",
+      "period": "1891",
+      "form": "boraks"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "boraks maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/boraks"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "boraks",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "misk",
+    "word": "misk",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "múh₂s (mū́s)",
+        "meaning": "fare, kas, midye",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "sa",
+        "form": "muṣka",
+        "meaning": "küçük fare; er bezi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "peo",
+        "form": "muşka",
+        "meaning": "küçük fare; er bezi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "misk",
+        "meaning": "yaban keçisinin bir bezinden alınan hoş kokulu madde",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "misk",
+        "meaning": "erkek misk ceylanının karın bölgesindeki bezden elde edilen güzel kokulu madde",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Erkek misk ceylanının bir bezinden elde edilen güzel kokulu madde.",
+    "currentMeaning": "Asya'nın yüksek dağlık bölgelerinde yaşayan erkek misk ceylanının karın derisi altındaki bezinden alınan hoş kokulu madde.",
+    "story": "Miskin adı, kokusundan önce onu veren bezin biçimiyle ilgilidir. Sanskritçedeki muṣka, küçük fare ve er bezi anlamlarını bir araya getirir. Eski Farsçaya taşınan bu ad, misk bezinin biçimi dolayısıyla güzel kokulu maddeyle ilişkilendirilmiştir. Arapçada misk biçimini alan sözcük, Türkçeye de bu kokulu maddenin adı olarak geçmiştir.",
+    "firstAttestation": {
+      "source": "Ebu Hayyan — Kitabu'l-İdrak",
+      "period": "1312",
+      "form": "müşk"
+    },
+    "relatives": [
+      {
+        "word": "muşk",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "misk maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/misk"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "misk",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "jaluzi",
+    "word": "jaluzi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "i̯eh₂- (i̯ā-)",
+        "meaning": "istemek, arzu duymak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "i̯ā-l-os",
+        "meaning": "istemek, arzu duymak",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "grc",
+        "form": "zêlos",
+        "meaning": "yoğun istek, çaba, kıskançlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "zelosus",
+        "meaning": "yoğun istek, çaba, kıskançlık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "jaloux",
+        "meaning": "kıskanç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "jalousie",
+        "meaning": "kıskançlık; şeritli panjur veya kafesli perde",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "jaluzi",
+        "meaning": "şeritlerden oluşan perde",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Şeritlerden oluşan pencere perdesi.",
+    "currentMeaning": "Birbirini izleyen şeritlerden oluşan perde.",
+    "story": "Jaluzinin uzak geçmişinde bir pencere eşyası değil, isteme ve arzulama duygusu vardır. Eski Yunancadaki zêlos, güçlü istekten çabaya ve kıskançlığa uzanan anlamlar taşıdı; Latince üzerinden Fransızcadaki kıskançlık sözlerine bağlandı. Fransızca jalousie hem bu duygunun hem de dilimli panjurla kafes biçimli perdenin adı oldu. Türkçe, sözcüğün pencereye takılan eşya anlamını benimsedi.",
+    "firstAttestation": {
+      "source": "Cumhuriyet gazetesi",
+      "period": "1939",
+      "form": "jalusi"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "jaluzi maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/jaluzi"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "jaluzi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

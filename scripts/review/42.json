@@ -12,5 +12,52 @@
     "id": "süsen",
     "verdict": "ok",
     "objections": []
+  },
+  {
+    "id": "silüet",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "ağı",
+    "verdict": "fix",
+    "objections": [
+      "İki kaynak (Nişanyan ve TDK) bulunduğu hâlde confidence 'orta'; 'yüksek' olmalı."
+    ]
+  },
+  {
+    "id": "algoritma",
+    "verdict": "fix",
+    "objections": [
+      "Eski Fransızca halkanın anlamında 'arap rakamları' küçük harfle yazılmış; 'Arap rakamları' olmalı."
+    ]
+  },
+  {
+    "id": "platin",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "pazen",
+    "verdict": "fix",
+    "objections": [
+      "currentMeaning'deki 'kalınlığına ve sık dokusuna rağmen yumuşak' kaynaktaki (kalın, sık ve yumuşak) bilgiyi karşıtlık gibi çarpıtıyor.",
+      "Hikâyede 'bon basin yani 'iyi pazen' diye' ifadesinde virgül ve tırnak kullanımı hatalı."
+    ]
+  },
+  {
+    "id": "gaz",
+    "verdict": "fix",
+    "objections": [
+      "funFact 'yazılışlarının düşündürdüğünden farklı olarak' anlatım bozukluğu taşıyor; Nişanyan notuna sadık biçimde yeniden yazıldı."
+    ]
+  },
+  {
+    "id": "tavla",
+    "verdict": "fix",
+    "objections": [
+      "funFact'taki 'adı verilerek tarif edilmiştir' anlatımı bozuk ve kaynaktaki 'adıyla anılmış ve tarif edilmiştir' ile örtüşmüyor.",
+      "TDK oyun anlamını İtalyanca tavola'dan türetiyor; bu çelişki alternatives'te ve sources'ta belirtilmemişti."
+    ]
   }
 ]

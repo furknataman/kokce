@@ -1,0 +1,174 @@
+[
+  {
+    "id": "müstağrak",
+    "word": "müstağrak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ġariḳa",
+        "meaning": "suyun içine gömüldü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "mustaġraḳ",
+        "meaning": "suya gömülmüş, boğulmuş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "müstağrak",
+        "meaning": "bir duyguya veya düşünceye bütünüyle dalmış",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir duyguya veya düşünceye bütünüyle dalmış.",
+    "currentMeaning": "Bir duyguya veya düşünceye kendini bütünüyle kaptırmış, çevresinden uzaklaşmış.",
+    "story": "Müstağrakın ardında, suyun içine gömülüp onunla çevrelenme görüntüsü vardır. Arapçada batmayı anlatan fiilden gelişen mustaġraḳ, suya gömülmüş olanı niteler. Türkçede bu görüntü duygulara da taşınır; insan aşka veya düşünceye suya dalar gibi dalar.",
+    "firstAttestation": {
+      "source": "Aşık Paşa — Garib-name",
+      "period": "1330",
+      "form": "müstaġraḳ"
+    },
+    "relatives": [
+      {
+        "word": "gark",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "müstağrak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/m%C3%BCsta%C4%9Frak"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "tahattur",
+    "word": "tahattur",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḫaṭara",
+        "meaning": "zihninde belirdi, farkına vardı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "taḫaṭṭur",
+        "meaning": "akla gelme",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "tr",
+        "form": "tahattur",
+        "meaning": "önceden bilineni yeniden hatırlama",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Önceden bilineni yeniden hatırlama.",
+    "currentMeaning": "Geçmişte yaşanan veya öğrenilen bir şeyi yeniden zihinde canlandırma.",
+    "story": "Tahatturun ardında, bir şeyin zihinde belirmesini anlatan Arapça ḫaṭara fiili bulunur. Türkçede bu beliriş, daha önce bilinen bir şeyin yeniden akla dönmesiyle ilişkilidir. Unutulmuş bir yüzün ya da olayın zihinde canlanması, kelimenin anlattığı hareketi görünür kılar.",
+    "firstAttestation": {
+      "source": "Ahmed Vefik Paşa — Lehce-i Osmani",
+      "period": "1876",
+      "form": "taḫaṭṭur"
+    },
+    "relatives": [
+      {
+        "word": "hatır",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tahattur maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/tahattur"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "tahattur",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tahayyür",
+    "word": "tahayyür",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ḥayret",
+        "meaning": "gözün kamaşması, şaşkınlığa düşme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "teḥayyur",
+        "meaning": "şaşkınlığa düşme",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tahayyür",
+        "meaning": "şaşkınlığa düşme",
+        "period": null,
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Şaşkınlığa düşme.",
+    "currentMeaning": "Karşılaşılan bir şeyin etkisiyle şaşkınlık duyma.",
+    "story": "Tahayyür, Arapça ḥayret sözcüğünden türeyen teḥayyur biçiminden gelir. Arapçada ḥayret hem gözün kamaşmasını hem de şaşmayı anlatır. Türkçeye geçen tahayyür, karşılaşılan bir şey karşısında hayrete düşmeyi adlandırır.",
+    "firstAttestation": null,
+    "relatives": [
+      {
+        "word": "hayret",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Kubbealtı Lugatı",
+        "ref": "tahayyür maddesi",
+        "url": "https://lugatim.com/s/tahayy%C3%BCr"
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]
