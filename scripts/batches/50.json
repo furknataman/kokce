@@ -1,0 +1,398 @@
+[
+  {
+    "id": "tütün",
+    "word": "tütün",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "tüt-",
+        "meaning": "duman salmak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "otk",
+        "form": "tütün",
+        "meaning": "duman",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tütün",
+        "meaning": "yaprakları sigara yapımında kullanılan bitki",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yaprakları kurutulup içilen, nikotinli bir bitki.",
+    "currentMeaning": "Patlıcangillerden, birleşiminde nikotin bulunan, yaprakları kurutularak sigara, puro vb. yapımında kullanılan otsu bir bitki (Nicotiana tabacum).",
+    "story": "Eski Türkçede tüt- duman salmak, tütün de bu eylemden doğan duman demekti. Yüzyıllar boyunca ocaktan, bacadan ya da bir delikten yükselen dumana tütün dendi. 17. yüzyılda bu bitkinin içimi yaygınlaşınca, yakıldığında çıkardığı dumanın adı bitkinin kendisine geçti. Bugün tütün denince akla duman değil, onu çıkaran yaprak gelir.",
+    "firstAttestation": {
+      "source": "Uygurca İyi ve Kötü Prens Öyküsü",
+      "period": "1000 öncesi",
+      "form": "tütün"
+    },
+    "relatives": [
+      {
+        "word": "tütsü",
+        "relation": "akraba"
+      },
+      {
+        "word": "tütmek",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tütün maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/t%C3%BCt%C3%BCn"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "tütün",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "lades",
+    "word": "lades",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "yād ast",
+        "meaning": "hatırımda",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "lades",
+        "meaning": "unutanın yenildiği iddialaşma oyunu",
+        "period": "17. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Hatırımda demeyi unutanın yenildiği bir oyun.",
+    "currentMeaning": "Tavuğun lades kemiğini iki kişinin birer ucundan tutup kırmasından sonra, birinin aklımda demeden ötekinden bir şey almasıyla yenik sayıldığı oyun; lades oyunu.",
+    "story": "Farsçada yād ast, hatırımda demekti. Oyunda iki kişi tavuğun çatal kemiğini kırar, sonra birbirine uzatılan her şeyi alırken bu sözü söylemek zorunda kalır; unutan oyunu kaybeder. Oyunun parolası zamanla oyunun kendisinin adı oldu. Yād sesinin nasıl lād biçimine döndüğü ise henüz açıklanabilmiş değil.",
+    "firstAttestation": {
+      "source": "Thesaurus",
+      "period": "1680",
+      "form": "yād est"
+    },
+    "relatives": [
+      {
+        "word": "lades kemiği",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük sözcüğü Farsça yād ast 'hatırımda' sözüne bağlar ve y > l ses değişiminin açıklanmaya muhtaç olduğunu belirtir.",
+      "TDK Güncel Türkçe Sözlük sözcüğü Farsça yād + dest biçiminde çözümler."
+    ],
+    "funFact": "İstanbul Ermeni Türkçesinde sözcüğün ilk sesi korunarak yades biçimi hâlâ kullanılır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "lades maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/lades"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "lades",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kanarya",
+    "word": "kanarya",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "canis",
+        "meaning": "köpek",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "insula Canaria",
+        "meaning": "Köpek Adası, Atlantik'te bir ada",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "canarie",
+        "meaning": "Kanarya Adaları'na özgü bir kuş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kanarya",
+        "meaning": "sarı tüylü ötücü kuş",
+        "period": "18. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sarı veya yeşilimsi tüylü, ötücü küçük bir kuş.",
+    "currentMeaning": "İspinozgillerden, yeşilimsi veya sarı tüylü, koni biçiminde küçük gagalı, ötücü kuş (Serinus canaria).",
+    "story": "Latincede canis köpek demekti ve Atlantik'teki bir adaya insula Canaria, yani Köpek Adası adı verilmişti. Bu adalardan Avrupa'ya getirilen küçük ötücü kuş, geldiği yerin adıyla anıldı. Türkçeye 18. yüzyılda Batı dillerinden geçen kanarya, böylece bir kuşa adını bir köpek adasından vermiş oldu.",
+    "firstAttestation": {
+      "source": "Elémens de la langue turque",
+      "period": "1790",
+      "form": "kanarya"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük sözcüğü Fransızca canarie biçiminden alıntı olarak verir.",
+      "TDK Güncel Türkçe Sözlük sözcüğü İspanyolca canario biçiminden alıntı olarak verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kanarya maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kanarya"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kanarya",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "karantina",
+    "word": "karantina",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "vec",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "quadraginta",
+        "meaning": "kırk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "vec",
+        "form": "cuaranta",
+        "meaning": "kırk",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "vec",
+        "form": "cuarantína",
+        "meaning": "gemiyle gelen yolculara uygulanan kırk günlük karaya çıkma yasağı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "karantina",
+        "meaning": "hastalığın yayılmasını önlemek için uygulanan yalıtım",
+        "period": "18. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bulaşıcı hastalığa karşı uygulanan geçici yalıtım.",
+    "currentMeaning": "Bulaşıcı bir hastalığın yayılmasını önlemek için bir yerin denetim altına alınıp giriş çıkışların engellenmesi biçiminde uygulanan sağlık önlemi.",
+    "story": "Venedikçede cuaranta kırk demekti. Salgın dönemlerinde Venedik'e gemiyle gelen yolcular kırk gün boyunca karaya çıkamaz, bekleme yerinde tutulurdu; bu bekleyişe cuarantína dendi. Türkçe sözcüğü 18. yüzyılda bu Venedik söyleyişiyle aldı. Gün sayısı çoktan önemini yitirdi ama karantina, hastalığı kapıda durdurmak için uygulanan her yalıtmanın adı olarak kaldı.",
+    "firstAttestation": {
+      "source": "Paris Sefaretnamesi",
+      "period": "1721",
+      "form": "karantina"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük sözcüğün Türkçe söylenişini Venedikçeye bağlar.",
+      "TDK Güncel Türkçe Sözlük sözcüğü İtalyanca quarantina biçiminden alıntı olarak verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "karantina maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/karantina"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "karantina",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mağaza",
+    "word": "mağaza",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "vec",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "maḫzan",
+        "meaning": "mahzen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "maḫāzin",
+        "meaning": "mahzenler",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "vec",
+        "form": "magazén",
+        "meaning": "ambar, ticari eşya deposu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mağaza",
+        "meaning": "büyük dükkân",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Büyük dükkân.",
+    "currentMeaning": "Çeşitli malların satıldığı büyük dükkân.",
+    "story": "Arapçada maḫzan, malın saklandığı depo ya da mahzen demekti; çoğulu maḫāzin de ambarları anlatıyordu. Akdeniz ticaretinde Arap tüccarlarla iş tutan Venedikliler sözcüğü alıp magazén yaptı ve ticari eşya deposunun adı olarak kullandı. Türkçeye 16. yüzyılda denizcilik diliyle giren mağaza önce liman ambarı anlamındaydı. Zamanla malın saklandığı yerden satıldığı yere geçti ve bugün büyük dükkânın adı oldu.",
+    "firstAttestation": {
+      "source": "Kitab-ı Bahriye",
+      "period": "1521",
+      "form": "maġaza"
+    },
+    "relatives": [
+      {
+        "word": "mahzen",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük sözcüğü Venedikçe magazén biçiminden alıntı olarak verir.",
+      "TDK Güncel Türkçe Sözlük sözcüğü Fransızca magasin biçiminden alıntı olarak verir."
+    ],
+    "funFact": "Bodrumdaki mahzen ile alışveriş yapılan mağaza aynı Arapça sözcükten gelir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mağaza maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ma%C4%9Faza"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mağaza",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "fiyasko",
+    "word": "fiyasko",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "goh",
+    "chain": [
+      {
+        "language": "goh",
+        "form": "flasca",
+        "meaning": "şişe",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "fiasco",
+        "meaning": "şişe",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "fare fiasco",
+        "meaning": "şişe yapmak; bir tiyatro oyununun başarısız olması",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "fiyasko",
+        "meaning": "bir girişimin başarısızlıkla sonuçlanması",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir girişimin tam bir başarısızlıkla sonuçlanması.",
+    "currentMeaning": "Bir girişimde alınan başarısız sonuç; katastrof.",
+    "story": "İtalyancada fiasco, Eski Yüksek Almancadan alınmış bir sözcükle şişe demekti. Tiyatro dünyasında ise fare fiasco, yani şişe yapmak deyimi bir oyunun seyirci önünde çuvallamasını anlatıyordu. Şişeyle başarısızlık arasındaki bağın nereden çıktığı bilinmiyor. Türkçeye 19. yüzyılda geçen fiyasko, sahneden çıkıp her türlü hüsranla biten girişimin adı oldu.",
+    "firstAttestation": {
+      "source": "Karnaval",
+      "period": "1881",
+      "form": "fiyasko"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük İtalyanca fare fiasco deyiminin kaynağının belirsiz olduğunu belirtir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "fiyasko maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/fiyasko"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "fiyasko",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

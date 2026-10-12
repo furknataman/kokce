@@ -1,0 +1,125 @@
+[
+  {
+    "id": "bornoz",
+    "verdict": "fix",
+    "objections": [
+      "Hikâyede burnūs için kaynaklarda olmayan 'uzun cübbe' ve 'kollu, önden açık kesim' ayrıntıları var (TDK: geniş, kısa kollu başlıklı üstlük)."
+    ]
+  },
+  {
+    "id": "dizel",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "hamak",
+    "verdict": "fix",
+    "objections": [
+      "ultimateOrigin es görünüyor, oysa Nişanyan zincirinin ilk halkası Taino hamaka; Taino için dil kodu yok, null olmalı ve kaynak notu alternatives'e girmeli."
+    ]
+  },
+  {
+    "id": "kauçuk",
+    "verdict": "fix",
+    "objections": [
+      "ultimateOrigin es görünüyor, oysa Nişanyan zincirinin ilk halkası Keçuva kawchu; dil kodu yok, null olmalı ve kaynak notu alternatives'e girmeli."
+    ]
+  },
+  {
+    "id": "marmelat",
+    "verdict": "fix",
+    "objections": [
+      "Hikâyedeki 'ayvaya ya da muşmulaya bal ile elmayı birleştirerek ... diyordu' cümlesi anlatım bozukluğu taşıyor ve melí + mḗlon birleşimini yanlış aktarıyor."
+    ]
+  },
+  {
+    "id": "nostalji",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "şampanya",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "şampiyon",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "tabure",
+    "verdict": "fix",
+    "objections": [
+      "'Alçak ve yuvarlak biçimiyle küçük bir davulu andıran' benzetmesi kaynaklarda yok."
+    ]
+  },
+  {
+    "id": "vanilya",
+    "verdict": "fix",
+    "objections": [
+      "1874 tanıklığı 'vanilyalı şokola' olduğu halde hikâye 'tatlı adlarında' diyor."
+    ]
+  },
+  {
+    "id": "albatros",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "amonyak",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "denim",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "jakoben",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "kaşmir",
+    "verdict": "fix",
+    "objections": [
+      "Zincirdeki 'hi' (Hintçe) halkası kaynakta yok; Nişanyan Kaşmīr'i dilsiz özel isim olarak veriyor.",
+      "ultimateOrigin hi dayanaksız."
+    ]
+  },
+  {
+    "id": "kinin",
+    "verdict": "fix",
+    "objections": [
+      "ultimateOrigin es görünüyor, oysa Nişanyan zincirinin ilk halkası Keçuva kina; dil kodu yok, null olmalı ve kaynak notu alternatives'e girmeli."
+    ]
+  },
+  {
+    "id": "maroken",
+    "verdict": "fix",
+    "objections": [
+      "Hikâye Portekizlilerin adı 'bütün ülkeye verdiğini' söylüyor, oysa zincirde Marrocos Marakeş kenti anlamında ve ülke adı Fransızca Maroc.",
+      "'Deri ve ciltçilikte' ve 'Fas'ın ünlü ürünlerinden' ifadeleri kaynaklarda yok."
+    ]
+  },
+  {
+    "id": "şeker",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "helyum",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "fındık",
+    "verdict": "fix",
+    "objections": [
+      "Hikâyenin son cümlesi kaynaksız ve 'haklı çıkarır' yargısı kaynağın bıraktığı belirsizlikle çelişiyor.",
+      "'Farsçadaki' ifadesi Orta Farsça pondik kaydına uymuyor."
+    ]
+  }
+]

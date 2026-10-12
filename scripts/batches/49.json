@@ -1,0 +1,1211 @@
+[
+  {
+    "id": "sadizm",
+    "word": "sadizm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Sade",
+        "meaning": "Fransız yazar Marquis de Sade",
+        "period": "18. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "sadisme",
+        "meaning": "acı vermekten cinsel haz alma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "sadizm",
+        "meaning": "başkasına acı vermekten haz alma",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Başkasına acı vermekten haz alma eğilimi.",
+    "currentMeaning": "Başkasına acı çektirmekten, eziyet etmekten haz alma durumu; sadistlik.",
+    "story": "Sözcüğün arkasında 18. yüzyılda yaşamış Fransız yazar Marquis de Sade durur. Eserlerinde zulümle karışık cinsel hazzı ayrıntılarıyla anlatan yazarın adı, Fransız hekimlerinin elinde bu eğilimin bilimsel adına dönüştü. Türkçeye önce tıp yazılarıyla giren sadizm, zamanla cinsel bağlamın dışına taşarak başkasının acısından keyif alan her tutumu anlatır oldu.",
+    "firstAttestation": {
+      "source": "Darülfünun Tıb Mecmuası",
+      "period": "1916",
+      "form": "sadizm"
+    },
+    "relatives": [
+      {
+        "word": "sadist",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Türkçede yaygın olan sadist sıfatı Fransızcadan değil İngilizceden alınmıştır; Fransızlar bu kişiye sadique der.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "sadizm maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/sadizm"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "sadizm",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pastörize",
+    "word": "pastörize",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "sıfat",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Pasteur",
+        "meaning": "Fransız bilim adamı Louis Pasteur",
+        "period": "19. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "pasteurisé",
+        "meaning": "yüksek ısıyla mikropları öldürülmüş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pastörize",
+        "meaning": "ısıtılıp hızla soğutularak mikropları öldürülmüş",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Isıtılıp hızla soğutularak mikropları öldürülmüş.",
+    "currentMeaning": "Pastörizasyon yoluyla belli bir sıcaklığa kadar ısıtılıp birden soğutularak içindeki mikroplar öldürülmüş olan (süt, meyve suyu vb.).",
+    "story": "Louis Pasteur, sıvıları belli bir sıcaklığa kadar ısıtıp hemen soğutmanın içlerindeki mikropları öldürdüğünü gösterdi. Fransızca bu işleme bilim adamının adını verdi ve işlemden geçmiş ürüne pasteurisé dendi. Türkçe sözcüğü bu sıfat biçimiyle aldı; bugün süt kutusunun üzerindeki pastörize ibaresi, adını bir laboratuvardan alan bir güvenceyi taşır.",
+    "firstAttestation": {
+      "source": "Cumhuriyet",
+      "period": "1929",
+      "form": "pastörize"
+    },
+    "relatives": [
+      {
+        "word": "pastörizasyon",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Mikropla savaşın simgesi olan Pasteur soyadı aslında çoban demektir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "pastörize maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/past%C3%B6rize"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "pastörize",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "çini",
+    "word": "çini",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "Çīn",
+        "meaning": "Çin ülkesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "çīnī",
+        "meaning": "Çin işi, özellikle Çin porseleni",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "çini",
+        "meaning": "bir yüzü sırlı, bezemeli pişmiş toprak levha",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir yüzü sırlı, bezemeli pişmiş toprak levha.",
+    "currentMeaning": "Duvarları kaplayıp süslemek için kullanılan, bir yüzü sırlı ve çoğunlukla çiçek resimleriyle bezeli, pişmiş topraktan levha.",
+    "story": "Farsçada çīnī, Çin'den gelen ya da Çin işi olan şey demekti ve en çok Çin'in ünlü porselenini anlatıyordu. Bu ince, parlak kaplar ipek yolu üzerinden İran'a ve Anadolu'ya ulaştı; ilk tanıklıklarda da sözcük çanak ve sahan için kullanılır. Yerli ustalar sırlı toprak işini duvarlara taşıyınca ad da kaplardan levhalara geçti. Bugün İznik ya da Kütahya çinisi denince akla Çin değil, Anadolu'nun kendi sanatı gelir.",
+    "firstAttestation": {
+      "source": "Süheyl ü Nevbahar terc.",
+      "period": "1354",
+      "form": "çīnī"
+    },
+    "relatives": [
+      {
+        "word": "çinici",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "çini maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C3%A7ini"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "çini",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tül",
+    "word": "tül",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Tulle",
+        "meaning": "Güney Fransa'da dantel işçiliğiyle ünlü kasaba",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "tulle",
+        "meaning": "bir tür dantel, çok seyrek dokunmuş bez",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tül",
+        "meaning": "çok ince gözenekli dokuma",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çok ince gözenekli, seyrek dokuma.",
+    "currentMeaning": "Pamuk, ipek veya sentetik iplikten yapılan çok ince gözenekli dokuma.",
+    "story": "Güney Fransa'daki Tulle kasabası, dantel işçiliğiyle tanınan bir yerdi. Orada üretilen ince, ağ gibi seyrek kumaş kasabanın adıyla anıldı ve Fransızcada tulle oldu. Sözcük 19. yüzyılda Türkçeye geçti; bugün pencereye asılan perdeden gelin duvağına kadar ışığı süzen her ince dokumaya tül deriz.",
+    "firstAttestation": {
+      "source": "Felatun Bey ile Rakım Efendi",
+      "period": "1876",
+      "form": "tül"
+    },
+    "relatives": [
+      {
+        "word": "tül perde",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tül maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/t%C3%BCl"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "tül",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "artezyen",
+    "word": "artezyen",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Artois",
+        "meaning": "Kuzey Fransa'da bir bölge",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "artésien",
+        "meaning": "Artois bölgesinde geliştirilen kuyu türü",
+        "period": "18. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "artezyen",
+        "meaning": "suyu kendiliğinden yükseğe fışkırtan kuyu",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Burgu ile açılan, suyu yükseğe fışkırtan kuyu.",
+    "currentMeaning": "Burgu ile delinerek açılan ve yeraltındaki basınçlı suyu yükseğe fışkırtan kuyu; artezyen kuyusu.",
+    "story": "Kuzey Fransa'daki Artois bölgesinde 18. yüzyılda derin delinen kuyuların suyu pompa gerekmeden yeryüzüne çıkıyordu. Bu yönteme bölgenin sıfatıyla artésien, yani Artois'ya özgü kuyu dendi. Türkçeye 19. yüzyılda artezyan biçimiyle giren sözcük, zamanla yer adını unutturarak suyu kendiliğinden fışkıran her derin kuyunun adı oldu.",
+    "firstAttestation": {
+      "source": "Kamusü'l A'lâm",
+      "period": "1896",
+      "form": "artezyan"
+    },
+    "relatives": [
+      {
+        "word": "artezyen kuyusu",
+        "relation": "birleşik"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "artezyen maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/artezyen"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "artezyen",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "begonya",
+    "word": "begonya",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "la",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Bégon",
+        "meaning": "Fransız idareci ve botanikçi Michel Bégon",
+        "period": "17. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "begonia",
+        "meaning": "bir çiçek cinsi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "begonya",
+        "meaning": "renkli çiçekli, süs yapraklı bir bitki",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Renkli çiçekli, süs yapraklı bir saksı bitkisi.",
+    "currentMeaning": "Begonyagillerden, süs yaprakları ve renkli çiçekleri olan, pek çok çeşidi bulunan sıcak ülke bitkisi (Begonia).",
+    "story": "Michel Bégon, 17. yüzyılda yaşamış, bitkilere meraklı bir Fransız idareciydi. Botanikçiler, sıcak ülkelerden getirilen bu süs bitkisine onun anısına Yeni Latince begonia adını verdi. Türkçeye geçen begonya, bugün balkonlarda yetişen çiçeğin adında bir yöneticinin soyadını yaşatır.",
+    "firstAttestation": {
+      "source": "Istılahat Lugati",
+      "period": "1892",
+      "form": "begonya"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "begonya maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/begonya"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "begonya",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dolomit",
+    "word": "dolomit",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Dolomieu",
+        "meaning": "Fransız jeolog Déodat de Dolomieu",
+        "period": "18. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "dolomite",
+        "meaning": "bir tür çökelti kayası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dolomit",
+        "meaning": "kalsiyum ve magnezyumlu karbonat minerali",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kalsiyum ve magnezyum içeren bir karbonat minerali.",
+    "currentMeaning": "Kalsiyum ve magnezyumlu karbonat birleşiminde bir mineral ve bu mineralden oluşan çökelti kayası.",
+    "story": "Fransız jeolog Déodat de Dolomieu, kalsiyum ve magnezyum içeren bir çökelti kayasını inceleyip tanımladı. Bilim dünyası bu kayaya onun adını verdi ve Fransızcada dolomite sözcüğü doğdu. Türkçeye 19. yüzyılın sonunda giren sözcük, bugün hem bu minerali hem de ondan oluşan kayayı anlatır.",
+    "firstAttestation": {
+      "source": "Istılahat Lugati",
+      "period": "1892",
+      "form": "dolomi"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "dolomit maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/dolomit"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "dolomit",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "gardenya",
+    "word": "gardenya",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "la",
+    "ultimateOrigin": "en",
+    "chain": [
+      {
+        "language": "en",
+        "form": "Garden",
+        "meaning": "İskoçyalı doğabilimci Alexander Garden",
+        "period": "18. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "gardenia",
+        "meaning": "bir çiçek cinsi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "gardenya",
+        "meaning": "beyaz kokulu çiçekler açan ağaççık",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Beyaz, güzel kokulu çiçekler açan bir ağaççık.",
+    "currentMeaning": "Kök boyasıgillerden, sıcak bölgelerde yetişen, beyaz ve güzel kokulu çiçekler açan bir ağaç veya ağaççık cinsi (Gardenia).",
+    "story": "Alexander Garden, 18. yüzyılda yaşamış İskoçyalı bir doğabilimciydi. Botanikçiler, kokusuyla ünlü beyaz çiçekli bu sıcak ülke bitkisine onun adını verip Yeni Latince gardenia dediler. Sözcük Türkçeye 19. yüzyılın sonunda Batı dillerinden geçti ve bugün çiçekçilerin en sevilen kokularından birinin adı oldu.",
+    "firstAttestation": {
+      "source": "Istılahat Lugati",
+      "period": "1892",
+      "form": "ġardenyā"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük sözcüğü Yeni Latince gardenia biçimine bağlar.",
+      "TDK Güncel Türkçe Sözlük sözcüğü Fransızca gardénia biçiminden alıntı olarak verir."
+    ],
+    "funFact": "Adı İngilizcede bahçe demek olan garden ile aynı yazılsa da çiçek, bahçeden değil bir doğabilimcinin soyadından gelir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "gardenya maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/gardenya"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "gardenya",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "giyotin",
+    "word": "giyotin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Guillotin",
+        "meaning": "Fransız tabip Joseph-Ignace Guillotin",
+        "period": "18. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "guillotine",
+        "meaning": "mekanik kafa kesme aygıtı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "giyotin",
+        "meaning": "baş kesmek için kullanılan düşen bıçaklı araç",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ölüm cezasında baş kesmek için kullanılan araç.",
+    "currentMeaning": "Fransa'da ölüm cezasına çarptırılanların başını kesmek için kullanılan, iki direk arasında düşen bıçaklı araç.",
+    "story": "Fransız hekim Joseph-Ignace Guillotin'in adı, başı tek darbede kesen mekanik bir aygıtla özdeşleşti. İki direk arasında yukarıdan düşen eğik bir bıçaktan oluşan düzenek, Fransızcada guillotine diye anıldı. Türkçeye 19. yüzyılda geçen giyotin, bir hekimin soyadını tarihin en ürkütücü aletlerinden birine bağlar.",
+    "firstAttestation": {
+      "source": "İstanbul Mektupları",
+      "period": "1870",
+      "form": "giyotin"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "giyotin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/giyotin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "giyotin",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "jakar",
+    "word": "jakar",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Jacquard",
+        "meaning": "Fransız tekstilci Jacquard",
+        "period": "19. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "jacquard",
+        "meaning": "bir dokuma türü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "jakar",
+        "meaning": "her çözgü ipliği ayrı hareket eden dokuma tezgâhı",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Desenli kumaş dokuyan mekanik tezgâh.",
+    "currentMeaning": "Her çözgü ipliğinin başlı başına hareket ettiği mekanik dokuma tezgâhı ve bu tezgâhta dokunan desenli kumaş.",
+    "story": "Fransız tekstilci Jacquard, 19. yüzyılın başında her çözgü ipliğini ayrı ayrı kaldırabilen bir dokuma tezgâhı geliştirdi. Bu sayede en karmaşık desenler bile elle uğraşmadan kumaşa işlenebiliyordu. Tezgâh da onun desenli dokuması da mucidin adıyla anıldı. Türkçeye 20. yüzyılda geçen jakar, bugün hem makinenin hem de örgüsü desenli kumaşın adıdır.",
+    "firstAttestation": {
+      "source": "Cumhuriyet",
+      "period": "1930",
+      "form": "jakar"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "jakar maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/jakar"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "jakar",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kazaska",
+    "word": "kazaska",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ru",
+    "ultimateOrigin": "ru",
+    "chain": [
+      {
+        "language": "ru",
+        "form": "Kazak",
+        "meaning": "Güney Rusya akıncılarına verilen ad",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ru",
+        "form": "kazáşka",
+        "meaning": "Kazak kızı, Kazak dansı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kazaska",
+        "meaning": "hızlı oynanan bir halk dansı",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çömelip kalkarak hızlı oynanan bir halk dansı.",
+    "currentMeaning": "Kafkasya kökenli, çömelip kalkılarak hızlı oynanan bir halk dansı.",
+    "story": "Rusçada Kazak, Güney Rusya bozkırlarında yaşayan atlı akıncılara verilen addı. Bu addan türeyen kazáşka hem Kazak kızını hem de onların çömelip sıçrayarak oynadığı hareketli dansı anlatıyordu. Türkçe sözcüğü dansın adı olarak aldı ve kazaska bugün de dizlerin zorlandığı o hızlı oyunu anlatır.",
+    "firstAttestation": {
+      "source": "Cumhuriyet",
+      "period": "1932",
+      "form": "kazaska"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kazaska maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kazaska"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kazaska",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "konyak",
+    "word": "konyak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Cognac",
+        "meaning": "Fransa'da bir kent",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "cognac",
+        "meaning": "Cognac bölgesine özgü alkollü içki",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "konyak",
+        "meaning": "üzümden damıtılan sert içki",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Üzümden damıtılan, kokulu ve sert bir içki.",
+    "currentMeaning": "Alkol derecesi yüksek, özel kokulu, kiremit renginde bir içki türü; kanyak.",
+    "story": "Fransa'daki Cognac kenti, yöresinde üzümden damıtılan sert içkiyle ün kazandı. Kentin adı bu içkinin adı oldu ve Fransızcadan Türkçeye 19. yüzyılda geçti. Bugün konyak, adını taşıdığı kentle bağını hukuken de koruyan bir içkidir.",
+    "firstAttestation": {
+      "source": "Henüz 17 Yaşında",
+      "period": "1882",
+      "form": "konyak"
+    },
+    "relatives": [
+      {
+        "word": "kanyak",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Ad Fransa'nın koruması altında olduğu için 1935'te Türkiye'de yerli içkiye konyak yerine kanyak denmesi kararlaştırıldı.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "konyak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/konyak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "konyak",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "mazoşizm",
+    "word": "mazoşizm",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "de",
+    "chain": [
+      {
+        "language": "de",
+        "form": "Sacher-Masoch",
+        "meaning": "Avusturyalı romancı Leopold von Sacher-Masoch",
+        "period": "19. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "masochisme",
+        "meaning": "acıdan haz alma eğilimi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mazoşizm",
+        "meaning": "acı çekmekten haz alma",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Acı çekmekten, aşağılanmaktan haz alma eğilimi.",
+    "currentMeaning": "Acı çekmekten, eziyet görmekten veya aşağılanmaktan haz alma durumu; özezerlik.",
+    "story": "Avusturyalı romancı Leopold von Sacher-Masoch, kitaplarında sevdiği kişinin eziyetine gönüllü boyun eğen kahramanları anlatıyordu. Psikiyatrlar bu eğilime onun adını verdi ve Fransızcada masochisme sözcüğü yerleşti. Türkçeye 20. yüzyılın başında önce mazohizm biçimiyle giren sözcük, sonra mazoşizm olarak oturdu ve kişinin kendi acısından keyif aldığı her durumu anlatır oldu.",
+    "firstAttestation": {
+      "source": "Aşk-ı Marazi",
+      "period": "1908",
+      "form": "mazohizm"
+    },
+    "relatives": [
+      {
+        "word": "mazoşist",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mazoşizm maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mazo%C5%9Fizm"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mazoşizm",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nikotin",
+    "word": "nikotin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Nicot",
+        "meaning": "Fransız diplomat Jean Nicot",
+        "period": "16. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "nicotine",
+        "meaning": "tütünde bulunan kimyasal madde",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nikotin",
+        "meaning": "tütün yapraklarındaki zehirli alkaloit",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Tütünde bulunan, bağımlılık yapan zehirli madde.",
+    "currentMeaning": "Tütün yapraklarından çıkarılan, renksiz, havayla temas edince esmerleşen, çok zehirli bir alkaloit.",
+    "story": "Jean Nicot, 1560'ta Lizbon'da elçiyken tütünün Fransa'ya ilk kez getirilmesine aracı olmuş bir diplomattı. Bitkiye bu yüzden onun adı yakıştırıldı; kimyacılar tütünden ayırdıkları etkin maddeye de nicotine dediler. Türkçeye 19. yüzyılın sonunda geçen nikotin, bugün sigaranın bağımlılık yapan maddesi olarak bilinir.",
+    "firstAttestation": {
+      "source": "Istılahat Lugati",
+      "period": "1892",
+      "form": "nikotin"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "nikotin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/nikotin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "nikotin",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "damacana",
+    "word": "damacana",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "it",
+    "chain": [
+      {
+        "language": "it",
+        "form": "damigiana",
+        "meaning": "büyük ve enli cam şişe",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "damacana",
+        "meaning": "sıvı taşımaya yarayan büyük şişe",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Su gibi sıvıları taşımaya yarayan büyük şişe.",
+    "currentMeaning": "Su vb. sıvıları taşımaya yarayan, dar ağızlı, şişkin karınlı, çoğunlukla hasır veya plastik kılıf içinde korunan büyük şişe.",
+    "story": "İtalyanca damigiana, şarap taşımak için kullanılan geniş gövdeli, büyük bir cam şişeydi. Gemicilerin ve tüccarların elinde Akdeniz'de dolaşan bu şişenin adı Türkçeye de geçti. Sözcüğün daha öncesi ise kesin değildir; Fransızcadaki karşılığı Bayan Jeanne gibi okunur ama bu yalnızca bir yakıştırmadır. Hasır örgülü cam şişeden bugünkü plastik su bidonuna uzanan yolda adı hiç değişmedi.",
+    "firstAttestation": {
+      "source": "Vocabulaire François-Turc",
+      "period": "1828",
+      "form": "damedjana"
+    },
+    "relatives": [
+      {
+        "word": "dame-jeanne",
+        "relation": "eş köken"
+      },
+      {
+        "word": "damajana",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük İtalyanca kökeni tahmine dayalı sayar; Fransızca biçimin etimolojisinin belirsiz olduğunu, Latince dimidiana 'yarım boy' önerisinin bulunduğunu belirtir.",
+      "Nişanyan Sözlük sözcüğün İran'daki Damgan şehrine bağlanmasının kanıta muhtaç olduğunu belirtir."
+    ],
+    "funFact": "İngilizcede aynı şişeye demijohn denir ve bu ad da Fransızcadan alınmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "damacana maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/damacana"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "damacana",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "saksı",
+    "word": "saksı",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "öz",
+    "donorLanguage": null,
+    "ultimateOrigin": "otk",
+    "chain": [
+      {
+        "language": "otk",
+        "form": "saz",
+        "meaning": "çamur, bataklık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "otk",
+        "form": "sasık",
+        "meaning": "kil çömlek",
+        "period": "11. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "saksı",
+        "meaning": "çiçek yetiştirilen kap",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çiçek yetiştirmek için kullanılan kap.",
+    "currentMeaning": "Pişmiş toprak, plastik vb.nden yapılan, çiçek yetiştirmekte kullanılan kap.",
+    "story": "Eski Türkçede sasık, kilden yapılmış çanak çömlek demekti ve büyük olasılıkla çamur anlamındaki saz sözcüğüne dayanıyordu. Seslerin yer değiştirmesiyle sasık zamanla saksı biçimini aldı. Önce her türlü toprak kabı anlatan sözcük, giderek içinde çiçek yetiştirilen kaba özgülendi. Bugün plastik saksılar bile adını o ilk çamurdan alır.",
+    "firstAttestation": {
+      "source": "Divanü Lugati't-Türk",
+      "period": "1073",
+      "form": "sasık"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük sasık biçiminin saz 'çamur, bataklık' sözcüğünden türediğini muhtemel görür.",
+      "Ahmet Vefik Paşa'nın öne sürdüğü ve Tietze'nin tekrarladığı 'Saksonya çömleği' açıklamasını Nişanyan Sözlük tarih bakımından yanlış bulur."
+    ],
+    "funFact": "Sözcüğü Saksonya porseleninden getiren eski açıklama tutmaz, çünkü saksı o porselen henüz üretilmeden yüzyıllar önce Türkçede vardı.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "saksı maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/saks%C4%B1"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "saksı",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "mandalina",
+    "word": "mandalina",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "mandarin",
+        "meaning": "Çin yönetici sınıfına mensup kişi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "mandarine",
+        "meaning": "turunçgillerden Çin kökenli bir meyve",
+        "period": "18. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mandalina",
+        "meaning": "portakala benzeyen, kolay soyulan turunçgil",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Portakala benzeyen, kolay soyulan bir turunçgil.",
+    "currentMeaning": "Turunçgillerden, ılıman iklimlerde yetişen, portakala çok benzeyen bir ağaç ve bu ağacın kolay soyulan meyvesi (Citrus nobilis).",
+    "story": "Avrupalılar Çin'in yönetici memurlarına mandarin diyordu. Güney Çin kökenli küçük turuncu meyve 18. yüzyılın sonlarında Avrupa'da tanınınca bu adın dişil biçimiyle mandarine diye anıldı; rivayete göre meyvenin rengi o memurların giydiği safran rengi giysiyi andırıyordu. Türkçeye 19. yüzyılda giren sözcük önce Çin portakalı karşılığı olarak kaydedildi, sonra mandalina biçiminde yerleşti.",
+    "firstAttestation": {
+      "source": "Lehce-i Osmani",
+      "period": "1876",
+      "form": "mandalin"
+    },
+    "relatives": [],
+    "alternatives": [
+      "TDK Güncel Türkçe Sözlük sözcüğü İtalyanca mandarino biçiminden alıntı olarak verir.",
+      "Nişanyan Sözlük meyvenin adını Çinli yöneticilerin safran rengi giysisine bağlayan açıklamayı rivayet olarak aktarır."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mandalina maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/mandalina"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mandalina",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "demirhindi",
+    "word": "demirhindi",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "tamr",
+        "meaning": "hurma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "tamr hindī",
+        "meaning": "Hint hurması, tropik ülkelerde yetişen bir ağaç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "demirhindi",
+        "meaning": "ekşi meyveli tropik ağaç",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ekşi meyveli, sert odunlu bir tropik ağaç.",
+    "currentMeaning": "Baklagillerden, odunu oldukça sert olan, sıcak iklimlerde yetişen, ekşi meyveli bir ağaç (Tamarindus indica).",
+    "story": "Araplar, Hindistan'dan gelen bu ağacın kahverengi kabuklu, yapışkan ve ekşi meyvesini hurmaya benzettiler ve ona tamr hindī, yani Hint hurması dediler. Türkçe ağzında tamr önce temür, sonra demir biçimini aldı. Böylece ortaya demirle hiçbir ilgisi olmayan demirhindi çıktı. Sözcük eski hekimlik kitaplarında meyvenin şerbetiyle birlikte anılır.",
+    "firstAttestation": {
+      "source": "Müntehab-ı Şifa",
+      "period": "1400 öncesi",
+      "form": "temürhindī"
+    },
+    "relatives": [
+      {
+        "word": "tamarind",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Batı dillerindeki tamarind adı da aynı Arapça Hint hurması sözünden alınmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "demirhindi maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/demirhindi"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "demirhindi",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "papatya",
+    "word": "papatya",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "el",
+    "ultimateOrigin": "el",
+    "chain": [
+      {
+        "language": "el",
+        "form": "papás",
+        "meaning": "papaz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "papadiá",
+        "meaning": "papaz karısı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "papatya",
+        "meaning": "beyaz taç yapraklı, ortası sarı çiçek",
+        "period": "15. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Beyaz taç yapraklı, ortası sarı bir kır çiçeği.",
+    "currentMeaning": "Birleşikgillerden, baharda çiçek açan, taç yaprakları beyaz, ortası sarı, bir yıllık otsu bir bitki; yoğurt çiçeği (Matricaria chamomilla).",
+    "story": "Rumcada papadiá, papaz karısı demekti. Bu adın nasıl olup da beyaz yapraklı küçük çiçeğe geçtiği bilinmiyor; ancak çiçek eski metinlerde papadya çiçeği diye anılır. Türkçeye bu yoldan geçen sözcük, belki Farsçadaki bābūna adının sesiyle de karışarak papatya biçimini aldı. Bugün kırlardan toplanıp çayı yapılan çiçeğin adında bir papaz evinin izi kalmıştır.",
+    "firstAttestation": {
+      "source": "Müntehab-ı Şifa",
+      "period": "1410 öncesi",
+      "form": "pāpadya"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük papaz karısı anlamıyla çiçek adı arasındaki ilişkinin açık olmadığını belirtir.",
+      "Nişanyan Sözlük Farsça babūna 'papatya' sözcüğünden kontaminasyon olasılığını anar."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "papatya maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/papatya"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "papatya",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "perşembe",
+    "word": "perşembe",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fa",
+    "ultimateOrigin": "fa",
+    "chain": [
+      {
+        "language": "fa",
+        "form": "şanba",
+        "meaning": "cumartesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "panc",
+        "meaning": "beş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fa",
+        "form": "pancşanba",
+        "meaning": "haftanın beşinci günü",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "perşembe",
+        "meaning": "çarşamba ile cuma arasındaki gün",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Çarşamba ile cuma arasındaki gün.",
+    "currentMeaning": "Haftanın çarşamba ile cuma arasındaki günü.",
+    "story": "Farsçada hafta cumartesiyle, yani şanba ile başlar ve sonraki günler bu güne eklenen sayılarla adlandırılır. Beş anlamındaki panc ile kurulan pancşanba, cumartesiden sayınca haftanın beşinci gününü anlatıyordu. Türkçeye geçen sözcük ağızda yuvarlanarak perşembe biçimini aldı; yazıda ise uzun süre penc-şenbe olarak korundu.",
+    "firstAttestation": {
+      "source": "Codex Cumanicus",
+      "period": "1303",
+      "form": "pansanbe"
+    },
+    "relatives": [
+      {
+        "word": "çarşamba",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Adı beşinci gün demek olsa da perşembe bugün haftanın dördüncü günü sayılır, çünkü Farsça sayım cumartesiden başlar.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "perşembe maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/per%C5%9Fembe"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "perşembe",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "id": "kaşar",
+    "word": "kaşar",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ro",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "caseus",
+        "meaning": "peynir",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "casearium",
+        "meaning": "peynir",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ro",
+        "form": "căşare",
+        "meaning": "mandıra",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kaşar",
+        "meaning": "yağlı, sarımsı bir peynir",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Koyun sütünden yapılan, sarımsı ve yağlı bir peynir.",
+    "currentMeaning": "Koyun sütünden yapılan, çoğunlukla tekerlek biçiminde, sarımsı renkli ve yağlı bir peynir; kaşar peyniri.",
+    "story": "Latincede caseus peynir demekti. Ondan türeyen bir sözcük Rumenceye ulaştı ve căşare biçiminde mandıra anlamına geldi. Balkanlarda, özellikle Edirne yöresinde mandıralarda bekletilerek olgunlaştırılan sarı ve yağlı peynir de bu adla anılır oldu. Türkçede önce kaşer, sonra kaşar biçimiyle yerleşti.",
+    "firstAttestation": {
+      "source": "Şemseddin Sami — Kamus-ı Türki",
+      "period": "1900",
+      "form": "ḳaşer"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Koşer sözcüğüyle ses benzerliği taşısa da kaşarın gerçek akrabaları İngilizce cheese ve Almanca Käse sözcükleridir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kaşar maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ka%C5%9Far"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kaşar",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kamelya",
+    "word": "kamelya",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "la",
+    "ultimateOrigin": "de",
+    "chain": [
+      {
+        "language": "de",
+        "form": "Josef Kamel",
+        "meaning": "Filipinler'in bitki örtüsünü inceleyen Alman asıllı Cizvit rahibi",
+        "period": "17. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "camellia",
+        "meaning": "bir çiçek cinsi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kamelya",
+        "meaning": "gösterişli çiçekler açan süs bitkisi",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Beyaz, pembe ya da kırmızı iri çiçekler açan bir süs bitkisi.",
+    "currentMeaning": "Çaygillerden, iri beyaz, pembe veya kırmızı çiçekler açan, dayanıklı yapraklı bir bitki; Japon gülü, Çin gülü (Camellia japonica).",
+    "story": "Josef Kamel adlı Alman asıllı bir Cizvit rahibi, 17. yüzyılın sonlarında Filipinler'in bitki örtüsünü inceledi. Asya'dan tanınan gösterişli çiçekli bir cinse onun anısına Yeni Latincede camellia adı verildi. Türkçeye 19. yüzyılda doğrudan bu bilimsel addan mı, yoksa Fransızca camélia aracılığıyla mı geçtiği kesin değildir.",
+    "firstAttestation": {
+      "source": "Cemiyeti Tıbbiyei Osmaniye — Lugat-i Tıbbiye",
+      "period": "1873",
+      "form": "kamelya"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük sözcüğü Yeni Latince camellia biçiminden alıntı olarak verir.",
+      "TDK Güncel Türkçe Sözlük sözcüğü Fransızca camélia biçiminden alıntı olarak gösterir."
+    ],
+    "funFact": "19. yüzyıla ait Osmanlıca metinlerde kamelya sözcüğü sıklıkla erkek refakatçi, yani kavalye anlamında da görülür.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kamelya maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kamelya"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kamelya",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "kuruş",
+    "word": "kuruş",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "de",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "denarius grossus",
+        "meaning": "kalın dinar",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "de",
+        "form": "Grosch",
+        "meaning": "kalın gümüş sikke, taler",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kuruş",
+        "meaning": "liranın yüzde biri değerinde para",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Liranın yüzde biri değerindeki Türk parası.",
+    "currentMeaning": "Liranın yüzde biri değerinde Türk parası.",
+    "story": "Geç Latincede denarius grossus, kalın dinar anlamında iri gümüş sikkelerin adıydı. Almanca Grosch bu adın kısalmış biçimiydi ve Habsburg topraklarında dolaşan kalın gümüş paranın adı oldu. Osmanlılar bu parayı 16. yüzyılda ġuruş diye anıyordu. 17. yüzyılın sonunda değeri düşen akçenin yerine Osmanlı Devleti de kendi kuruşunu basmaya başladı ve sözcük Türk para düzeninin bir parçası oldu.",
+    "firstAttestation": {
+      "source": "Selanikî Mustafa Ef. — Tarih-i Selanikî",
+      "period": "1596",
+      "form": "ġuruş"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kuruş maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kuru%C5%9F"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kuruş",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "viski",
+    "word": "viski",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": null,
+    "chain": [
+      {
+        "language": "en",
+        "form": "whisky",
+        "meaning": "bir tür alkollü içki",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "viski",
+        "meaning": "tahıldan damıtılan içki",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Mayalanmış tahıldan damıtılarak elde edilen alkollü içki.",
+    "currentMeaning": "Mayalandırılmış tahıl hamurunun damıtılmasıyla elde edilen alkollü içki.",
+    "story": "İskoç Galcesinde uisge su, beatha ise can demekti; uisge beatha, yani can suyu, damıtılmış sert içkinin adıydı. İngilizler bu uzun adı kısaltıp kendi söyleyişlerine uydurarak whisky dediler. Türkçeye İngilizceden geçen viski, 19. yüzyılın sonlarında bilinen bir içki adıydı.",
+    "firstAttestation": {
+      "source": "Şemseddin Sami — Kamusü'l A'lâm",
+      "period": "1889",
+      "form": "viski"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, İngilizce sözcüğün İskoç Galcesi uisge beatha \"can suyu\" deyiminden telaffuz değişikliğine uğrayarak alındığını belirtir."
+    ],
+    "funFact": "Aynı can suyu benzetmesi, Latince aqua vitae deyiminde ve Farsçadan gelen abıhayat sözcüğünde de görülür.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "viski maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/viski"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "viski",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "pavyon",
+    "word": "pavyon",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "papilio",
+        "meaning": "kelebek; bir tür çadır",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "pavillon",
+        "meaning": "gösteri çadırı; ana binanın eki olan küçük yapı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "pavyon",
+        "meaning": "ek bina; içkili gece eğlence yeri",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ek bina; Türkçede özellikle içkili gece eğlence yeri.",
+    "currentMeaning": "Bir kurumun bahçe içindeki yapılarından her biri; Türkçede özellikle içkili, müzikli gece eğlence yeri.",
+    "story": "Latincede papilio kelebek demekti; aynı sözcük bir tür çadır için de kullanıldı. Fransızcada pavillon önce gösteri çadırını, sonra ana binaya eklenen küçük yapıyı anlattı. Türkçeye 20. yüzyıl başında hastane ve sergi binaları için bu anlamla girdi. 1945'te Taksim Gazinosu'na eklenen ve paviyon adıyla ünlenen bölüm, sözcüğe içkili gece kulübü anlamını kazandırdı.",
+    "firstAttestation": {
+      "source": "Ali Seydi — Lisan-ı Osmanide Müstamel Lugat-i Ecnebiye",
+      "period": "1911",
+      "form": "paviyon"
+    },
+    "relatives": [
+      {
+        "word": "papyon",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Kelebek biçimli boyun bağı papyon da aynı Latince kelebek sözcüğünden gelir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "pavyon maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/pavyon"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "pavyon",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "bonfile",
+    "word": "bonfile",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "filet",
+        "meaning": "fileto, bir et kesimi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "bonus",
+        "meaning": "iyi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "bon",
+        "meaning": "iyi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "bon filet",
+        "meaning": "iyi fileto",
+        "period": "20. yy",
+        "reconstructed": true
+      },
+      {
+        "language": "tr",
+        "form": "bonfile",
+        "meaning": "bel kemiğinin iki yanındaki yumuşak et",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bel kemiğinin iki yanından çıkan yumuşak et.",
+    "currentMeaning": "Kasaplık hayvanlarda bel kemiğinin iki yanında bulunan, yumuşaklığıyla beğenilen et bölümü.",
+    "story": "Fransızcada bon iyi, filet ise bir et kesimi demekti. Ne var ki bon filet deyimi Fransızcada kullanılmaz. Deyimin 20. yüzyılın başında İstanbul lokantalarında, Fransızca iki sözcükten kurulmuş bir yemek adı olarak ortaya çıktığı sanılır. Böylece bel kemiğinin iki yanındaki en yumuşak et, Fransızcada karşılığı olmayan Fransızca görünümlü bir adla anılır oldu.",
+    "firstAttestation": {
+      "source": "Cumhuriyet - gazete",
+      "period": "1933",
+      "form": "bonfile"
+    },
+    "relatives": [
+      {
+        "word": "fileto",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bonfile maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bonfile"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bonfile",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "margarin",
+    "word": "margarin",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "margarítēs",
+        "meaning": "inci",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "acide margarique",
+        "meaning": "inci biçimli kristalleri olan bir yağ asidi",
+        "period": "19. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "oléomargarine",
+        "meaning": "margarik asitten elde edilen yapay tereyağı",
+        "period": "19. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "margarine",
+        "meaning": "margarik asitten elde edilen yapay tereyağı",
+        "period": "19. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "margarin",
+        "meaning": "yapay katı yağ",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Yemeklerde tereyağı yerine kullanılan yapay katı yağ.",
+    "currentMeaning": "Margarik asidin gliserinle birleştirilmesiyle de yapay olarak elde edilen, 47 °C'de eriyen ve yemeklerde kullanılan bitkisel yağ.",
+    "story": "Eski Yunancada margarítēs inci demekti. 19. yüzyılda Fransız kimyacılar, inci biçimli kristaller oluşturan bir yağ asidine bu yüzden margarik asit adını verdiler. Bu asitten yararlanılarak üretilen yapay tereyağına önce oléomargarine, sonra kısaca margarine dendi. Türkçeye Fransızcadan geçen margarin, 19. yüzyılın sonunda Türkçede de biliniyordu.",
+    "firstAttestation": {
+      "source": "Tıngır & Sinapian — Istılahat Lugati",
+      "period": "1892",
+      "form": "margarin"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Geç dönem Osmanlı bilim dilinde margarin için Arapça inci sözcüğünden türetilen lülüîn karşılığı da kullanılmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "margarin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/margarin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "margarin",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "palyaço",
+    "word": "palyaço",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "it",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "palea",
+        "meaning": "ekin sapı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "paglia",
+        "meaning": "saman",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "it",
+        "form": "pagliaccio",
+        "meaning": "bostan korkuluğu; soytarı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "palyaço",
+        "meaning": "güldürü yapan gösterici",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Acayip kılıklı, yüzü boyalı, seyirciyi güldüren oyuncu.",
+    "currentMeaning": "Seyircisini güldürüp eğlendiren, acayip kılıklı, yüzü abartılı ve gülünç biçimde boyanmış oyuncu.",
+    "story": "Latincede palea ekin sapı, İtalyancada paglia saman demekti. Samandan yapılıp tarlaya dikilen bostan korkuluğuna bu yüzden pagliaccio denirdi. İtalyan güldürülerindeki soytarıların giysileri korkuluklarda kullanılan kumaştan dikildiği için ad zamanla bu güldürücü tiplere geçti. Türkçeye İtalyancadan 19. yüzyılda girdi.",
+    "firstAttestation": {
+      "source": "Ahmed Rasim — Şehir Mektupları",
+      "period": "1897",
+      "form": "palyaço"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "palyaço maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/palya%C3%A7o"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "palyaço",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "metelik",
+    "word": "metelik",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "el",
+    "chain": [
+      {
+        "language": "el",
+        "form": "métallon",
+        "meaning": "maden",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "el",
+        "form": "metallikós",
+        "meaning": "madenden yapılmış",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "métallique",
+        "meaning": "madenden yapılmış şey, metal para",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "metelik",
+        "meaning": "on para değerinde küçük para",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "On para değerindeki eski, küçük demir para.",
+    "currentMeaning": "Çeyrek kuruş, yani on para değerinde eski demir para.",
+    "story": "Yunancada métallon maden, metallikós ise madenden yapılmış demekti. Fransızcada métallique, madeni şey ve madeni para anlamlarına da geldi. Osmanlı ülkesinde 1840'lardan sonra kâğıt para dolaşıma girince, alaşımlı ve değeri düşük sikkelere metālik denmeye başlandı. Zamanla bu bozuk para on paralık küçük sikkenin adı oldu ve sözcük metelik biçimini aldı. Bugün sözcük, “çok az para” anlamında da kullanılır.",
+    "firstAttestation": {
+      "source": "Ceride-i Havadis - gazete",
+      "period": "1862",
+      "form": "metālik"
+    },
+    "relatives": [
+      {
+        "word": "metal",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "metelik maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/metelik"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "metelik",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

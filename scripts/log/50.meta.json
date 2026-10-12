@@ -1,0 +1,44 @@
+{
+  "batch": 50,
+  "file": "scripts/batches/50.json",
+  "promptVersion": "v13",
+  "promptFile": "scripts/prompts/generate_batch.md",
+  "model": "claude-subagent (Codex kullanım sınırı doluydu)",
+  "generatedAt": "2026-10-12T10:34:56+03:00",
+  "requestedWords": [
+    "tütün",
+    "lades",
+    "kanarya",
+    "karantina",
+    "mağaza",
+    "fiyasko"
+  ],
+  "originHints": {
+    "tütün": "otk",
+    "lades": "fa",
+    "kanarya": "fr<la",
+    "karantina": "vec<la",
+    "mağaza": "vec<ar",
+    "fiyasko": "it<goh"
+  },
+  "rarity": {
+    "tütün": "gündelik",
+    "lades": "az-bilinen",
+    "kanarya": "gündelik",
+    "karantina": "gündelik",
+    "mağaza": "gündelik",
+    "fiyasko": "az-bilinen"
+  },
+  "notes": {
+    "tütün": "sigara yapılan bitki",
+    "lades": "unutturmaya dayalı oyun",
+    "kanarya": "sarı ötücü kuş",
+    "karantina": "geçici sağlık yalıtımı",
+    "mağaza": "mal satılan dükkân",
+    "fiyasko": "tam başarısız sonuç"
+  },
+  "requestedCount": 6,
+  "returnedCount": 6,
+  "rawFile": "scripts/batches/50.raw.txt",
+  "logFile": null
+}

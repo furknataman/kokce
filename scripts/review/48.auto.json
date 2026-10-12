@@ -1,0 +1,117 @@
+[
+  {
+    "id": "kaşar",
+    "verdict": "check",
+    "reasons": [
+      "Kaynaktaki dil adı eşlenemedi: Romence",
+      "Maddede olup kaynak zincirinde olmayan halka: ro"
+    ]
+  },
+  {
+    "id": "kamelya",
+    "verdict": "check",
+    "reasons": [
+      "Kaynaktaki dil adı eşlenemedi: Yeni Latince",
+      "donorLanguage la kaynakla uyuşmuyor (kaynak: fr)"
+    ]
+  },
+  {
+    "id": "kuruş",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "viski",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: cel"
+    ]
+  },
+  {
+    "id": "hamburger",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: de"
+    ]
+  },
+  {
+    "id": "türban",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: tr",
+      "Maddede olup kaynak zincirinde olmayan halka: ota"
+    ]
+  },
+  {
+    "id": "kehribar",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "pavyon",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kravat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "yamyam",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "boykot",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kanguru",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "bonfile",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "vida",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "bumerang",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "fayans",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: it"
+    ]
+  },
+  {
+    "id": "margarin",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "palyaço",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "metelik",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tüvit",
+    "verdict": "ok",
+    "reasons": []
+  }
+]

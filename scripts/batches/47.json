@@ -1,0 +1,1357 @@
+[
+  {
+    "id": "bornoz",
+    "word": "bornoz",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "cel",
+    "chain": [
+      {
+        "language": "cel",
+        "form": "birros",
+        "meaning": "kısa cübbe",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ar",
+        "form": "burnūs",
+        "meaning": "Mağrip'e özgü külahlı cübbe",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "bornoz",
+        "meaning": "banyodan sonra giyilen havlu giysi",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Banyodan çıkınca giyilen, havlu kumaştan kollu giysi.",
+    "currentMeaning": "Banyodan çıkarken kurulanmak için giyilen, kollu, önü açık, havlu kumaştan dikilmiş giysi.",
+    "story": "Arapçada burnūs, Kuzey Afrika'da giyilen, başlığı olan uzun bir cübbenin adıydı. Sözcüğün daha gerisi kesin değildir; kimi zaman kısa cübbe anlamındaki bir Kelt sözcüğüne, kimi zaman da Yunancada kızıl rengi anlatan bir sıfata bağlanır. Türkçeye 14. yüzyılda bir dış giysinin adı olarak girdi. Aynı kollu ve önden açık kesim zamanla havlu kumaştan dikilince sözcük banyodan çıkınca sarınılan giysiye ad oldu.",
+    "firstAttestation": {
+      "source": "Erzurumlu Darir — Kıssa-ı Yusuf terc.",
+      "period": "1377 öncesi",
+      "form": "burnāz"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Arapça burnūs sözcüğünün kökeni için Kelt dillerindeki *birros \"kısa cübbe\" biçimini ya da tahmine dayalı olarak Eski Yunanca purrhós \"alev rengi, kırmızı\" sözcüğünü gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "bornoz maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/bornoz"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "bornoz",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "dizel",
+    "word": "dizel",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "de",
+    "chain": [
+      {
+        "language": "de",
+        "form": "Diesel",
+        "meaning": "Alman mühendis Rudolf Diesel'in soyadı",
+        "period": "19. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "diesel",
+        "meaning": "bir tür içten yanmalı motor ve bu motorda kullanılan yakıt",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "dizel",
+        "meaning": "dizel motoru ve yakıtı",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sıkıştırılmış havayla ateşlenen motor ve bu motorun yakıtı.",
+    "currentMeaning": "Yakıtı, sıkıştırılarak ısınan havanın içinde tutuşan içten yanmalı motor, dizel motoru; bu motorlarda kullanılan yakıt.",
+    "story": "Alman mühendis Rudolf Diesel, yakıtı kıvılcımla değil, sıkıştırılarak ısınan havayla tutuşturan bir motor geliştirdi. Mucidin soyadı önce bu motorun, ardından onu çalıştıran yakıtın adı oldu. Sözcük Batı dillerinden Türkçeye geçtiğinde, 1920'lerde hâlâ Alman icadı yeni bir makine olarak tanıtılıyordu.",
+    "firstAttestation": {
+      "source": "Mehmed Bahaeddin [Toven] — Yeni Türkçe Lugat",
+      "period": "1924",
+      "form": "dizel"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "dizel maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/dizel"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "dizel",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "hamak",
+    "word": "hamak",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "es",
+    "chain": [
+      {
+        "language": "es",
+        "form": "hamaca",
+        "meaning": "iki ağaç arasına gerilen salıncaklı yatak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "hamac",
+        "meaning": "iki ağaç arasına gerilen salıncaklı yatak",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "hamak",
+        "meaning": "asılarak kurulan ağ yatak",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İki ağaç ya da direk arasına asılan, sallanan ağ yatak.",
+    "currentMeaning": "İki ağaç veya direk arasına gerilerek kurulan, içinde yatılıp sallanılabilen, ağdan ya da bezden yapılmış yatak; ağ yatak.",
+    "story": "Karayip adalarında yaşayan Taino yerlileri, ağaçların arasına gerdikleri ağ yataklarda uyuyor ve bunlara hamaka diyordu. Adalara ulaşan İspanyollar hem bu pratik yatağı hem de adını benimseyip hamaca dediler. Sözcük Fransızcaya hamac olarak geçti ve gemicilerin de kullandığı asılı yatağın adı oldu. Türkçeye Fransızcadan 19. yüzyılın sonunda, uzak ülkelerin âdetleri anlatılırken girdi.",
+    "firstAttestation": {
+      "source": "Mustafa Refik — Menakıb-ı Seyyahin",
+      "period": "1894",
+      "form": "hamak"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "hamak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/hamak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "hamak",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kauçuk",
+    "word": "kauçuk",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "es",
+    "chain": [
+      {
+        "language": "es",
+        "form": "caucho",
+        "meaning": "kauçuk bitkisi ve zamkından elde edilen esnek madde",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "caoutchouc",
+        "meaning": "kauçuk bitkisi ve zamkından elde edilen esnek madde",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kauçuk",
+        "meaning": "lastik maddesi ve onu veren bitki",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bazı sıcak ülke ağaçlarının öz suyundan elde edilen esnek madde.",
+    "currentMeaning": "Yapışkan, süt kıvamında öz suyu olan, parlak ve kalın yapraklı sıcak ülke bitkisi; kauçuk ağacı; bu bitkinin öz suyundan elde edilen esnek madde.",
+    "story": "And dağlarında konuşulan Keçuva dilinde kawchu, belli ağaçlardan sızan ve kuruyunca esneyen sütümsü zamkın adıydı. İspanyollar sözcüğü caucho olarak aldılar, Fransızcada ise caoutchouc biçimine girdi. Türkçeye Fransızcadan geçen kauçuk, 19. yüzyılın ortasında lastik maddesinin adı olarak kullanılıyordu. Bugün hem bu esnek maddeyi hem de onu veren ağacı anlatır.",
+    "firstAttestation": {
+      "source": "Ceride-i Havadis - gazete",
+      "period": "1864",
+      "form": "kauçuk"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kauçuk maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kau%C3%A7uk"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kauçuk",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "marmelat",
+    "word": "marmelat",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "mḗlon",
+        "meaning": "her çeşit meyve, özellikle elma",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "melí",
+        "meaning": "bal",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "melímēlon",
+        "meaning": "ayva veya muşmula",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "pt",
+        "form": "marmelo",
+        "meaning": "ayva",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "pt",
+        "form": "marmelada",
+        "meaning": "ayva reçeli",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "marmelade",
+        "meaning": "reçel",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "marmelat",
+        "meaning": "şekerle pişirilmiş meyve ezmesi",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Ezilmiş meyvenin şekerle kaynatılmasıyla yapılan koyu tatlı.",
+    "currentMeaning": "Rendelenmiş ya da ezilmiş meyvenin şekerle kaynatılıp püre kıvamına getirilmesiyle yapılan, çoğunlukla kahvaltıda yenen tatlı.",
+    "story": "Eski Yunanlar ayvaya ya da muşmulaya bal ile elmayı birleştirerek melímēlon, yani bal elması diyordu. Sözcük Portekizceye marmelo olarak ulaştı ve ayva anlamında yerleşti. Ayvanın şekerle kaynatılmasıyla yapılan koyu reçele Portekizcede marmelada adı verildi. Fransızcada marmelade her türlü meyve ezmesini anlatır oldu; Türkçeye de bu genişlemiş anlamıyla geçti.",
+    "firstAttestation": {
+      "source": "Mehmed Reşad — Fenn-i Tabahat",
+      "period": "1921",
+      "form": "marmelad"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "marmelat maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/marmelat"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "marmelat",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "nostalji",
+    "word": "nostalji",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ine",
+    "chain": [
+      {
+        "language": "ine",
+        "form": "nes-",
+        "meaning": "eve dönme",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "ine",
+        "form": "nos-to-",
+        "meaning": "eve dönme",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "grc",
+        "form": "nóstos",
+        "meaning": "vatana dönme, sıla",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "álgos",
+        "meaning": "acı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "nostalgie",
+        "meaning": "sıla hasreti, eskiye duyulan özlem",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "nostalji",
+        "meaning": "geçmişe duyulan özlem",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Geçmişte kalan güzel günlere duyulan özlem.",
+    "currentMeaning": "Geçmişte kalan güzelliklere duyulan özlem ve bu duygunun insanı etkisi altına alması; geçmişseverlik.",
+    "story": "Eski Yunancada nóstos uzak diyarlardan yurda dönüşü, álgos ise acıyı anlatıyordu. Bu iki sözcükten kurulan ad, Batı'da önce sılasından ayrı düşen insanın yakalandığı bir hastalığa verildi. Fransızca nostalgie aracılığıyla Türkçeye geldiğinde de bir süre hastalık adı olarak anıldı. Zamanla yer özleminin yerini zaman özlemi aldı ve sözcük geçmişte kalan güzel günlere duyulan hasretin adı oldu.",
+    "firstAttestation": {
+      "source": "Tercüman-ı Hakikat - gazete",
+      "period": "1890",
+      "form": "nostalji"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "nostalji maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/nostalji"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "nostalji",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şampanya",
+    "word": "şampanya",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "campus",
+        "meaning": "ova",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "campania",
+        "meaning": "ova, düz ülke",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "Champagne",
+        "meaning": "Fransa'da bir bölge",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "champagne",
+        "meaning": "Champagne bölgesinde üretilen köpüklü şarap",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "şampanya",
+        "meaning": "köpüklü şarap",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Açık renkli, köpüklü bir şarap.",
+    "currentMeaning": "Açık renkli, tatlı ve köpüklü şarap.",
+    "story": "Latincede campus düz ova demekti; ondan türeyen campania geniş ve düz toprakları anlatıyordu. Kuzeydoğu Fransa'daki Champagne bölgesi adını bu düzlüklerden aldı. Bölgenin bağlarından elde edilen köpüklü şarap zamanla doğrudan bölgenin adıyla anıldı. Türkçeye Fransızcadan geçen şampanya, 1850'lerde öteki Avrupa içkileriyle birlikte sayılıyordu.",
+    "firstAttestation": {
+      "source": "Ceride-i Havadis - gazete",
+      "period": "1858",
+      "form": "şampanya"
+    },
+    "relatives": [
+      {
+        "word": "kampanya",
+        "relation": "akraba"
+      },
+      {
+        "word": "şampiyon",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Aynı Latince ova sözcüğü, savaş meydanı anlamı üzerinden şampiyon sözcüğünün de kökünde yatar.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "şampanya maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fampanya"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şampanya",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şampiyon",
+    "word": "şampiyon",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "campus",
+        "meaning": "ova, açık alan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "gem",
+        "form": "kamp",
+        "meaning": "savaş meydanı",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "gem",
+        "form": "kampjo",
+        "meaning": "savaş meydanı",
+        "period": null,
+        "reconstructed": true
+      },
+      {
+        "language": "fr",
+        "form": "champion",
+        "meaning": "teke tek vuruşan savaşçı; bir davanın savunucusu; turnuvada galip gelen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "şampiyon",
+        "meaning": "yarışmada birinci olan",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Bir yarışmada birinci olan kişi ya da takım.",
+    "currentMeaning": "Ulusal veya uluslararası bir yarışmada birinciliği kazanan kişi ya da takım; böke.",
+    "story": "Latince campus açık ova demekti ve Germen dillerinde savaşın yapıldığı meydanı anlatmaya başladı. Bu meydanda dövüşen kişiye verilen ad Fransızcada champion oldu: savaşta ordunun önüne çıkıp teke tek vuruşan yiğit. Sonraları sözcük bir davayı savunan kişiyi ve turnuvalarda galip geleni de anlattı. Türkçeye Fransızcadan 1920'lerde spor terimi olarak yerleşti.",
+    "firstAttestation": {
+      "source": "Spor Alemi - dergi",
+      "period": "1922",
+      "form": "şampiyonluk"
+    },
+    "relatives": [
+      {
+        "word": "şampiyona",
+        "relation": "akraba"
+      },
+      {
+        "word": "şampanya",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "şampiyon maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C5%9Fampiyon"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şampiyon",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "tabure",
+    "word": "tabure",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "ṭabl",
+        "meaning": "davul",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fro",
+        "form": "tabour",
+        "meaning": "çift yüzlü davul",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "tabouret",
+        "meaning": "küçük oturak, arkasız iskemle",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "tabure",
+        "meaning": "arkalıksız ve kolsuz iskemle",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sırt ve kol dayanacak yeri olmayan küçük iskemle.",
+    "currentMeaning": "Sırtını ve kollarını dayayacak yeri olmayan iskemle; sekmen.",
+    "story": "Arapçada ṭabl davul demekti. Sözcük Eski Fransızcaya tabour olarak geçti ve iki yüzü gergin deriyle kaplı bir davulu anlatmaya başladı. Fransızcada bundan türetilen tabouret, alçak ve yuvarlak biçimiyle küçük bir davulu andıran arkasız oturağın adı oldu. Türkçeye Fransızcadan geçen tabure, 1930'larda arkasız ve kolsuz iskemle olarak tanımlanıyordu.",
+    "firstAttestation": {
+      "source": "İbrahim Alaettin [Gövsa] — Yeni Türk Lugatı",
+      "period": "1930",
+      "form": "tabure"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "tabure maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/tabure"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "tabure",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "vanilya",
+    "word": "vanilya",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "la",
+    "chain": [
+      {
+        "language": "la",
+        "form": "vagina",
+        "meaning": "kın, kılıf",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "es",
+        "form": "vaina",
+        "meaning": "kılıç kını",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "es",
+        "form": "vainilla",
+        "meaning": "küçük kılıç kını",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "vanille",
+        "meaning": "kına benzeyen meyvesi baharat olarak kullanılan bir orkide",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "vanilya",
+        "meaning": "kokulu bir bitki ve ondan elde edilen baharat",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Meyvesi kokulu baharat olarak kullanılan tırmanıcı bir orkide.",
+    "currentMeaning": "Salepgillerden, beyaz ve kokulu çiçekler açan, tırmanıcı küçük bir bitki (Vanilla planifolia); bu bitkinin meyvesinden elde edilen kokulu baharat.",
+    "story": "Latincede vagina kılıcın sokulduğu kını anlatıyordu; İspanyolcada bu sözcük vaina biçimini aldı. İspanyollar Orta Amerika'da tanıdıkları bir orkidenin ince uzun meyvesini küçük bir kına benzetip vainilla adını verdiler. Kokulu baharat Avrupa'ya yayıldıkça adı da Fransızcaya ve İtalyancaya geçti. Türkçeye bu iki dilden hangisiyle geldiği kesin değildir; sözcük 1870'lerde tatlı adlarında görünmeye başlamıştı.",
+    "firstAttestation": {
+      "source": "Ceride-i Havadis - gazete",
+      "period": "1874",
+      "form": "vanilyalı"
+    },
+    "relatives": [
+      {
+        "word": "vanilin",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük sözcüğü Fransızca vanille biçiminden alıntı olarak verir.",
+      "TDK Güncel Türkçe Sözlük sözcüğü İtalyanca vaniglia biçiminden alıntı olarak gösterir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "vanilya maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/vanilya"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "vanilya",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "albatros",
+    "word": "albatros",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "al-ġaṭṭās",
+        "meaning": "dalgıç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "pt",
+        "form": "alcatraz",
+        "meaning": "balıkçıl kuşu, pelikan",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "albatros",
+        "meaning": "bir tür deniz kuşu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "albatros",
+        "meaning": "büyük deniz kuşu",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kanat açıklığı üç metreyi bulabilen büyük bir deniz kuşu.",
+    "currentMeaning": "Fırtına kuşugillerden, açık denizlerde yaşayan, kanat açıklığı üç metreyi bulabilen, eğri ve güçlü gagalı, gri, beyaz ve siyah tüylü büyük deniz kuşu (Diomedea exulans).",
+    "story": "Portekizli denizciler pelikan ve balıkçıl gibi iri su kuşlarına alcatraz diyordu. Bu adın, suya dalarak avlanan kuşları anlatan Arapça bir dalgıç sözcüğüne dayandığı düşünülür, ancak bu bağ kesin değildir. Fransızcada albatros biçimine giren ad, okyanuslarda uzun süre süzülen dev kanatlı kuşa verildi. Türkçeye Fransızcadan 20. yüzyılın başında geçti.",
+    "firstAttestation": {
+      "source": "Ahmed Hamdi — Lugat-i Ecnebiye",
+      "period": "1909",
+      "form": "albatros"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, Portekizce alcatraz sözcüğünün Arapça al-ġaṭṭās \"dalgıç\" sözcüğünden geldiğini tahmine dayalı bir köken olarak verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "albatros maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/albatros"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "albatros",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "amonyak",
+    "word": "amonyak",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "Ammōn",
+        "meaning": "Mısır tanrısı Amun'un adı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "ammōniakós",
+        "meaning": "Libya'daki Ammon tapınağı yakınında çıkarılan bir tür tuz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "ammoniac",
+        "meaning": "kimyada NH3 bileşiği ve tuzları",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "amonyak",
+        "meaning": "keskin kokulu bir gaz",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Azot ve hidrojenden oluşan, keskin kokulu bir gaz.",
+    "currentMeaning": "Azot ile hidrojenin birleşmesinden oluşan, keskin kokulu, renksiz gaz (NH3).",
+    "story": "Eski Mısırlıların tanrısı Amun'un Libya'daki tapınağı Yunanlarca Ammon adıyla biliniyordu. Tapınağın yakınından çıkarılan bir tuza Yunancada ammōniakós, yani Ammon'a ait denildi. Çok sonra kimyacılar bu tuzla ilişkili keskin kokulu gaza aynı adı verdiler. Türkçeye Fransızcadan geçen amonyak, bugün de o çöl tapınağının adını taşır.",
+    "firstAttestation": {
+      "source": "Tıngır & Sinapian — Istılahat Lugati",
+      "period": "1892",
+      "form": "amonyak"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "amonyak maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/amonyak"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "amonyak",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "denim",
+    "word": "denim",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "en",
+    "ultimateOrigin": "fr",
+    "chain": [
+      {
+        "language": "fr",
+        "form": "Nîmes",
+        "meaning": "Güney Fransa'da bir kent",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "serge de Nîmes",
+        "meaning": "Nîmes kentinde dokunan pamuklu kumaş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "en",
+        "form": "denim",
+        "meaning": "blucin kumaşı",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "denim",
+        "meaning": "kot yapımında kullanılan pamuklu kumaş",
+        "period": "20. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kot pantolon yapımında kullanılan dayanıklı pamuklu kumaş.",
+    "currentMeaning": "Kot ve benzeri giysilerin yapımında kullanılan, dayanıklı bir tür pamuklu kumaş.",
+    "story": "Güney Fransa'daki Nîmes kentinde dokunan sağlam bir kumaşa Fransızcada serge de Nîmes, yani Nîmes dokuması deniyordu. İngilizcede adın son kısmı olan de Nîmes kaynaşarak denim biçimini aldı. Kot pantolonlar yaygınlaştıkça sözcük bu dayanıklı pamuklu kumaşın adına dönüştü. Türkçeye İngilizceden ve oldukça geç, 20. yüzyılın sonlarında girdi.",
+    "firstAttestation": {
+      "source": "Milliyet - gazete",
+      "period": "1990",
+      "form": "denim"
+    },
+    "relatives": [],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "denim maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/denim"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "denim",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "jakoben",
+    "word": "jakoben",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "he",
+    "chain": [
+      {
+        "language": "he",
+        "form": "yaˁḳōb",
+        "meaning": "Yakup, Tevrat'a göre İshak'ın oğlu ve İsrailoğullarının atası",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "Iacobus",
+        "meaning": "Aziz Yakup, Saint Jacques de Compostelle",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "jacobin",
+        "meaning": "Paris'teki eski Saint-Jacques manastırında toplanan radikal cumhuriyetçiler",
+        "period": "18. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "jakoben",
+        "meaning": "Fransız Devrimi'nin radikal cumhuriyetçisi",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Fransız Devrimi döneminin radikal cumhuriyetçilerinden biri.",
+    "currentMeaning": "Fransız Devrimi sırasında Paris'teki eski Saint-Jacques manastırında toplanan radikal cumhuriyetçilerden her biri; Fransa'da Aziz Dominicus tarikatına bağlı rahip ve rahibelere de verilen ad.",
+    "story": "İbranicede Yaˁḳōb, Tevrat'ta İshak'ın oğlu olarak geçen Yakup'un adıydı. Ad, Latince Iacobus biçimiyle Hristiyan dünyasında Aziz Yakup'a, Fransızcada da Saint Jacques'a bağlandı. Paris'te bu azizin adını taşıyan manastırın Dominiken rahiplerine bu yüzden jacobin dendi. Fransız Devrimi sırasında radikal cumhuriyetçiler aynı manastırda toplanmaya başlayınca ad onlara geçti. Türkçede sözcük 19. yüzyılın başında Fransa'daki devrim olayları anlatılırken kullanılmaya başladı.",
+    "firstAttestation": {
+      "source": "Mehmed Vahid Paşa",
+      "period": "1828 öncesi",
+      "form": "yakobin"
+    },
+    "relatives": [
+      {
+        "word": "jakobenlik",
+        "relation": "türev"
+      }
+    ],
+    "alternatives": null,
+    "funFact": "Devrimin en radikal siyasetçileri, adlarını toplandıkları bir manastırın koruyucu azizinden almıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "jakoben maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/jakoben"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "jakoben",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kaşmir",
+    "word": "kaşmir",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "hi",
+    "chain": [
+      {
+        "language": "hi",
+        "form": "Kaşmīr",
+        "meaning": "Kuzey Hindistan'da bir ülke, Keşmir",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "cachemire",
+        "meaning": "Keşmir şalı taklidi ince yünlü kumaş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kaşmir",
+        "meaning": "ince ve sık bir tür yün",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "İnce ve sık bir tür yün ile bundan yapılan yumuşak kumaş.",
+    "currentMeaning": "İnce ve sık bir tür yün; bu yünden yapılan yumuşak kumaş.",
+    "story": "Kuzey Hindistan'daki Keşmir bölgesi, ince yünden dokunan değerli şallarıyla ünlüydü. Avrupa'da bu şalları taklit eden ince yünlü kumaşlar bölgenin adıyla anıldı: İngilizcede cashmere, Fransızcada cachemire dendi. Türkçeye bu iki dilden hangisiyle geçtiği kesin değildir; 19. yüzyılda şal taklidi bazı kumaşların adıydı. Bölgenin kendisi Türkçede Keşmir diye anılırken kumaş Batı'dan dolaşarak kaşmir biçimini aldı.",
+    "firstAttestation": {
+      "source": "Ahmed Vefik Paşa — Lehce-i Osmani",
+      "period": "1876",
+      "form": "kaşmir"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük, sözcüğün Türkçeye İngilizce cashmere ya da Fransızca cachemire biçiminden geçmiş olabileceğini belirtir.",
+      "TDK Güncel Türkçe Sözlük yalnızca Fransızca cachemire kaydını verir."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kaşmir maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ka%C5%9Fmir"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kaşmir",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "kinin",
+    "word": "kinin",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "es",
+    "chain": [
+      {
+        "language": "es",
+        "form": "quina",
+        "meaning": "kınakına ağacının kabuğu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "quinine",
+        "meaning": "kınakına ağacının kabuğundan elde edilen ateş düşürücü ilaç",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "kinin",
+        "meaning": "sıtma ilacı olarak kullanılan alkaloit",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Kınakınadan elde edilen, sıtma tedavisinde kullanılan madde.",
+    "currentMeaning": "Kınakına ağacının kabuğundan elde edilen, sıtmanın tedavisinde kullanılan beyaz alkaloit; kinin sülfatı.",
+    "story": "And yerlilerinin dili Keçuvada kina, ağaç kabuğu demekti. İspanyollar bu adı, Peru'da yetişen ve ateşi düşürdüğü bilinen bir ağacın kabuğuna verdiler. Kabuktan ayrıştırılan ve sıtmaya karşı kullanılan etkin maddeye Fransızcada quinine dendi. Türkçeye Fransızcadan 19. yüzyılda bir tıp terimi olarak geçti.",
+    "firstAttestation": {
+      "source": "Cemiyeti Tıbbiyei Osmaniye — Lugat-i Tıbbiye",
+      "period": "1873",
+      "form": "kinin"
+    },
+    "relatives": [
+      {
+        "word": "kınakına",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": null,
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "kinin maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/kinin"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "kinin",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "maroken",
+    "word": "maroken",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "fr",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "Marrākuş",
+        "meaning": "Fas'ın güneyindeki Marakeş şehri",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "pt",
+        "form": "Marrocos",
+        "meaning": "Fas'ın güneyindeki Marakeş şehri",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "Maroc",
+        "meaning": "Fas ülkesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "marocain",
+        "meaning": "Fas ülkesi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "fr",
+        "form": "maroquin",
+        "meaning": "Fas'a özgü; keçi güderisi",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "maroken",
+        "meaning": "işlenmiş yumuşak keçi derisi",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Fas'ta işlenen yumuşak bir tür keçi derisi.",
+    "currentMeaning": "Fas'ta işlenen, yumuşak ve renkli bir tür keçi derisi; sahtiyan.",
+    "story": "Fas'ın güneyindeki Marakeş kentinin Arapça adı Marrākuş idi. Portekizliler bu adı Marrocos biçiminde bütün ülkeye verdiler ve Fransızcada ülke Maroc olarak anıldı. Fas'ın ünlü ürünlerinden olan, özenle işlenmiş yumuşak keçi derisine Fransızcada maroquin, yani Fas işi dendi. Türkçeye Fransızcadan geçen maroken, deri ve ciltçilikte bu ince sahtiyanın adı olarak yaşar.",
+    "firstAttestation": null,
+    "relatives": [],
+    "alternatives": null,
+    "funFact": "Bir deri türünün adı, bütün bir ülkeye adını veren Marakeş kentine uzanır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "maroken maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/maroken"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "maroken",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  },
+  {
+    "id": "şeker",
+    "word": "şeker",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "sa",
+    "ultimateOrigin": "sa",
+    "chain": [
+      {
+        "language": "sa",
+        "form": "śárkarā",
+        "meaning": "çakıl taşı; külçe veya kristal şeker",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "sa",
+        "form": "śakkharā",
+        "meaning": "çakıl taşı; külçe veya kristal şeker",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "şeker",
+        "meaning": "tatlı kristal madde",
+        "period": "11. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Şeker kamışı ya da pancardan elde edilen tatlı, beyaz madde.",
+    "currentMeaning": "Şeker kamışı, şeker pancarı ve başka bitkilerin öz suyundan ya da nişastasından elde edilen, suda eriyen, çoğu tatlı maddelerin genel adı.",
+    "story": "Sanskritçede śárkarā önce çakıl taşını, sonra şeker kamışı özünden elde edilen kristal külçeleri anlatıyordu. Bu tatlı taneler Hindistan'dan dünyaya yayılırken adları da onlarla birlikte yol aldı. Türkçeye Hint dillerinden doğrudan mı, yoksa Farsça aracılığıyla mı geçtiği kesin değildir. Sözcük 11. yüzyılda şakar biçimiyle tatlılığın simgesi olarak kullanılıyordu.",
+    "firstAttestation": {
+      "source": "Yusuf Hacib — Kutadgu Bilig",
+      "period": "1069",
+      "form": "şakar"
+    },
+    "relatives": [
+      {
+        "word": "şekerleme",
+        "relation": "türev"
+      },
+      {
+        "word": "şakar",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, sözcüğün Türkçeye doğrudan Hint dillerinden ya da Farsça aracılığıyla alınmış olabileceğini belirtir.",
+      "TDK Güncel Türkçe Sözlük sözcüğü Farsça şeker biçiminden alıntı olarak gösterir."
+    ],
+    "funFact": "İngilizce sugar ve Fransızca sucre da aynı Hint sözcüğüne dayanır; sözcük Batı dillerine Yunanca ve Arapça yoluyla iki ayrı kez ulaşmıştır.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "şeker maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/%C5%9Feker"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "şeker",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "helyum",
+    "word": "helyum",
+    "rarity": "az-bilinen",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "la",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "hēlios",
+        "meaning": "güneş",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "la",
+        "form": "helium",
+        "meaning": "bir element",
+        "period": "19. yy",
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "helyum",
+        "meaning": "hafif bir soy gaz",
+        "period": "19. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Havada az miktarda bulunan, çok hafif bir soy gaz.",
+    "currentMeaning": "Atom numarası 2 olan, havada az miktarda bulunan, çok hafif soy gazlardan biri (simgesi He).",
+    "story": "Eski Yunancada hēlios güneş demekti. 1868'deki bir güneş tutulması sırasında gökbilimciler, güneş ışığının tayfında o güne dek bilinmeyen bir elementin izini gördüler. Yeni elemente bu yüzden güneşin Yunanca adından türetilen helium adı verildi. Türkçeye 19. yüzyılın sonunda bilim terimi olarak geçti; doğrudan Latince biçimden mi, Fransızca aracılığıyla mı alındığı kesin değildir.",
+    "firstAttestation": {
+      "source": "Servet-i Fünun - dergi",
+      "period": "1895",
+      "form": "helyum"
+    },
+    "relatives": [],
+    "alternatives": [
+      "Nişanyan Sözlük sözcüğü Yeni Latince helium biçiminden alıntı olarak verir.",
+      "TDK Güncel Türkçe Sözlük sözcüğü Fransızca hélium biçiminden alıntı olarak gösterir."
+    ],
+    "funFact": "Güneş anlamındaki aynı Hint-Avrupa kökü Latince sōl ve İngilizce sun sözcüklerinde de yaşar.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "helyum maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/helyum"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "helyum",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  },
+  {
+    "id": "fındık",
+    "word": "fındık",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "ar",
+    "ultimateOrigin": "grc",
+    "chain": [
+      {
+        "language": "grc",
+        "form": "póntos",
+        "meaning": "deniz, özellikle Karadeniz",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "grc",
+        "form": "pontikós káryon",
+        "meaning": "Karadeniz cevizi, fındık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "funduḳ",
+        "meaning": "fındık",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "fındık",
+        "meaning": "sert kabuklu yemiş ve onu veren ağaççık",
+        "period": "14. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Sert kabuklu, yağlı bir yemiş ve onu veren ağaççık.",
+    "currentMeaning": "Kayıngillerden, ülkemizde en çok Doğu Karadeniz'de yetişen, boyu 6-7 metreyi bulan, yaygın tepeli ağaççık (Corylus avellana); bu ağacın sert kabuklu, yağlı yemişi.",
+    "story": "Eski Yunancada póntos deniz, özellikle de Karadeniz demekti ve fındığa Karadeniz cevizi anlamına gelen bir ad verilmişti. Bu ad Arapçaya bunduḳ, sonra funduḳ biçiminde geçti ve Türkçeye Arapçadan ulaştı. Ancak Yunanca adın gerçekten Karadeniz'i mi anlattığı, yoksa Farsçadaki benzer bir sözcükten mi uyarlandığı tartışmalıdır. Bugün dünya fındığının büyük bölümünün yine Karadeniz kıyılarında yetişmesi, eski adı şaşırtıcı biçimde haklı çıkarır.",
+    "firstAttestation": {
+      "source": "Fahrî — Hüsrev ü Şirin terc.",
+      "period": "1367",
+      "form": "fınduḳ"
+    },
+    "relatives": [
+      {
+        "word": "pondik",
+        "relation": "eş köken"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük, Yunanca deyimdeki pontikós sözcüğünün \"Karadenizli\" anlamında mı olduğunu, yoksa Orta Farsça pondik biçiminden mi alındığını açık bir soru olarak bırakır."
+    ],
+    "funFact": null,
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "fındık maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/f%C4%B1nd%C4%B1k"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "fındık",
+        "url": null
+      }
+    ],
+    "confidence": "yüksek",
+    "reviewed": false
+  }
+]

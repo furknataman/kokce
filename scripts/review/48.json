@@ -1,0 +1,124 @@
+[
+  {
+    "id": "kaşar",
+    "verdict": "fix",
+    "objections": [
+      "Hikâyede 'Romence' kullanılmış, uygulamanın dil adı Rumence."
+    ]
+  },
+  {
+    "id": "kamelya",
+    "verdict": "fix",
+    "objections": [
+      "funFact 'çiçekten çok kadına eşlik eden erkek' diyerek kaynağı abartıyor; Nişanyan yalnızca 'sıklıkla erkek refakatçi, kavalye' anlamını belirtir."
+    ]
+  },
+  {
+    "id": "kuruş",
+    "verdict": "fix",
+    "objections": [
+      "Hikâyede 'Orta Çağ Latincesi' denmiş, kaynak Geç Latince diyor.",
+      "'verilen addı' yazımı yanlış (adıydı)."
+    ]
+  },
+  {
+    "id": "viski",
+    "verdict": "fix",
+    "objections": [
+      "Zincirdeki Galce halkaları 'cel' (Kelt ana dili) koduyla verilmiş; Nişanyan Gaelce diyor ve uisge beatha ana Keltçe değil, ultimateOrigin cel yanlış."
+    ]
+  },
+  {
+    "id": "hamburger",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "türban",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "kehribar",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "pavyon",
+    "verdict": "fix",
+    "objections": [
+      "Hikâyedeki 'loş bölüm' kaynakta yok; kaynak 1945'te Taksim Gazinosu'na eklenen müştemilat bölümünden söz eder.",
+      "'Kanat gibi açılıp kapanan çadırlar' gerekçesi kaynakta yok."
+    ]
+  },
+  {
+    "id": "kravat",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "yamyam",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "boykot",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "kanguru",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "bonfile",
+    "verdict": "fix",
+    "objections": [
+      "Kaynak bon filet'nin İstanbul'da oluşturulmuş olması gerektiğini söyler (varsayım); hikâye kesin bilgi gibi yazmış.",
+      "'İnce uzun kesilmiş et parçası' kaynakta yok; kaynak 'bir et kesimi' der."
+    ]
+  },
+  {
+    "id": "vida",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "bumerang",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "fayans",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "margarin",
+    "verdict": "fix",
+    "objections": [
+      "'İnci gibi parlak kristaller' kaynakta yok; kaynak 'inci şeklindeki kristaller' der."
+    ]
+  },
+  {
+    "id": "palyaço",
+    "verdict": "fix",
+    "objections": [
+      "'Kaba kumaş' ifadesi kaynakta yok."
+    ]
+  },
+  {
+    "id": "metelik",
+    "verdict": "fix",
+    "objections": [
+      "'Kâğıt paranın karşısında metal para' kullanımı kaynakta yok; Nişanyan yalnızca madeni şey/para anlamını verir.",
+      "'Metelik vermemek' deyimi kaynaklarda yok."
+    ]
+  },
+  {
+    "id": "tüvit",
+    "verdict": "ok",
+    "objections": []
+  }
+]

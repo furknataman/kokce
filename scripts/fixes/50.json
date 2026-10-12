@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mağaza",
+    "word": "mağaza",
+    "rarity": "gündelik",
+    "partOfSpeech": "isim",
+    "formationType": "alıntı",
+    "donorLanguage": "vec",
+    "ultimateOrigin": "ar",
+    "chain": [
+      {
+        "language": "ar",
+        "form": "maḫzan",
+        "meaning": "mahzen",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "ar",
+        "form": "maḫāzin",
+        "meaning": "mahzenler",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "vec",
+        "form": "magazén",
+        "meaning": "ambar, ticari eşya deposu",
+        "period": null,
+        "reconstructed": false
+      },
+      {
+        "language": "tr",
+        "form": "mağaza",
+        "meaning": "büyük dükkân",
+        "period": "16. yy",
+        "reconstructed": false
+      }
+    ],
+    "shortMeaning": "Büyük dükkân.",
+    "currentMeaning": "Çeşitli malların satıldığı büyük dükkân.",
+    "story": "Arapçada maḫzan, malın saklandığı depo ya da mahzen demekti; çoğulu maḫāzin de ambarları anlatıyordu. Venedikliler sözcüğü Arapçadan alıp magazén yaptı ve ticari eşya deposunun adı olarak kullandı. Türkçeye 16. yüzyılda denizcilik diliyle giren mağaza önce liman ambarı anlamındaydı. Zamanla malın saklandığı yerden satıldığı yere geçti ve bugün büyük dükkânın adı oldu.",
+    "firstAttestation": {
+      "source": "Kitab-ı Bahriye",
+      "period": "1521",
+      "form": "maġaza"
+    },
+    "relatives": [
+      {
+        "word": "mahzen",
+        "relation": "akraba"
+      }
+    ],
+    "alternatives": [
+      "Nişanyan Sözlük sözcüğü Venedikçe magazén biçiminden alıntı olarak verir.",
+      "TDK Güncel Türkçe Sözlük sözcüğü Fransızca magasin biçiminden alıntı olarak verir."
+    ],
+    "funFact": "Evin bodrumundaki mahzen ile alışveriş yapılan mağaza aynı Arapça sözcükten gelir.",
+    "sources": [
+      {
+        "name": "Nişanyan Sözlük",
+        "ref": "mağaza maddesi",
+        "url": "https://www.nisanyansozluk.com/kelime/ma%C4%9Faza"
+      },
+      {
+        "name": "TDK Güncel Türkçe Sözlük",
+        "ref": "mağaza",
+        "url": null
+      }
+    ],
+    "confidence": "orta",
+    "reviewed": false
+  }
+]

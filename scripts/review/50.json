@@ -1,0 +1,35 @@
+[
+  {
+    "id": "tütün",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "lades",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "kanarya",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "karantina",
+    "verdict": "ok",
+    "objections": []
+  },
+  {
+    "id": "mağaza",
+    "verdict": "fix",
+    "objections": [
+      "Story'deki 'Arap tüccarlarla iş tutan Venedikliler' ayrıntısı kaynakta yok.",
+      "funFact'teki 'Bodrumdaki mahzen' Bodrum ilçesiyle karışıyor; 'evin bodrumundaki' denmeli."
+    ]
+  },
+  {
+    "id": "fiyasko",
+    "verdict": "ok",
+    "objections": []
+  }
+]

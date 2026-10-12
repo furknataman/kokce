@@ -1,0 +1,120 @@
+[
+  {
+    "id": "bornoz",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: grc"
+    ]
+  },
+  {
+    "id": "dizel",
+    "verdict": "check",
+    "reasons": [
+      "Maddede olup kaynak zincirinde olmayan halka: de"
+    ]
+  },
+  {
+    "id": "hamak",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kauçuk",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "marmelat",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "nostalji",
+    "verdict": "check",
+    "reasons": [
+      "Zincir sırası kaynaktan farklı: madde ine › grc › fr, kaynak grc › ine › fr"
+    ]
+  },
+  {
+    "id": "şampanya",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "şampiyon",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "tabure",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "vanilya",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "albatros",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "amonyak",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "denim",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "jakoben",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "kaşmir",
+    "verdict": "check",
+    "reasons": [
+      "Kaynak zincirinde olup maddede olmayan halka: en",
+      "Maddede olup kaynak zincirinde olmayan halka: hi"
+    ]
+  },
+  {
+    "id": "kinin",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "maroken",
+    "verdict": "ok",
+    "reasons": []
+  },
+  {
+    "id": "şeker",
+    "verdict": "check",
+    "reasons": [
+      "Kaynaktaki dil adı eşlenemedi: Pali (geç Sanskritçe)",
+      "donorLanguage sa zincirde var ama en yakın dil değil (kaynak: fa)"
+    ]
+  },
+  {
+    "id": "helyum",
+    "verdict": "check",
+    "reasons": [
+      "Kaynaktaki dil adı eşlenemedi: Yeni Latince",
+      "donorLanguage la kaynakla uyuşmuyor (kaynak: fr)",
+      "Maddede olup kaynak zincirinde olmayan halka: la"
+    ]
+  },
+  {
+    "id": "fındık",
+    "verdict": "check",
+    "reasons": [
+      "firstAttestation.period 1367, kaynaktaki en eski tanıklık 1303 ve o kayıt madde başını içeriyor"
+    ]
+  }
+]
